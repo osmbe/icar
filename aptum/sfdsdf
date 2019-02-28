@@ -1,0 +1,3 @@
+SELECT id, sname, app_nr, bus_nr, house_nr, ST_AsGeoJSON(ST_Transform(coord,900913),15,4) AS geojson 
+FROM addresses 
+WHERE coord && ST_Transform(ST_SetSRID('BOX3D(382234.25632491 6566593.3158132, 669484.60858063 6697453.5082192)'::box3d), 900913)

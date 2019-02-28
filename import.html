@@ -1,0 +1,258 @@
+<!-- 
+	vim: tabstop=2:softtabstop=2:shiftwidth=2:noexpandtab
+-->
+<html>
+	<head>
+		<meta charset='utf-8'>
+		<title>Addr Import</title>
+		<link rel="stylesheet" href="//cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
+		<!-- <link rel="stylesheet" href="css/local.css" />-->
+		<style type="text/css">
+			#map { height: 90%; width: 100%; }
+			a, th {cursor: pointer; }
+			a:hover, a:focus {text-decoration: underline; }
+			a.blueLink {color: #0645AD; }
+			tr.dataRow:hover {background-color: lightgrey; }
+		</style>
+	</head>
+	<body>
+
+	<p>
+    <b> Please read the <a href="//wiki.openstreetmap.org/wiki/WikiProject_Belgium/Using_AGIV_Crab_data">documentation</a> before using this import site </b> <br/>
+		<b>Data extraction date:</b> <tt>2019-01-02</tt> - <a href="results.txt" target="_blank">parser output</a> - <a href="new.txt" target="_blank">new streets</a> - <a href="deleted.txt" target="_blank">deleted streets</a> - <a href="renamed.txt" target="_blank">renamed/changed streets</a>
+	</p>
+	<h3>
+		<a
+				name="comparison"
+				id="comparisonCollapser"
+				onclick="collapseSection('comparison')">▼</a>
+		Comparison options
+	</h3>
+	<div id="comparisonSection">
+		<table>
+			<tr>
+				<td>
+					Select postal code:
+				</td>
+				<td>
+					<input
+						type="number" min="1000" max="9999"
+						id="pcodeInput"
+						title="Enter the postal code you want to query"/>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					Filter streets:
+				</td>
+				<td>
+					<input
+						type="text"
+						id="filterStreetsInput"
+						title="Only show certain streets (use * as wildcard)."/>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					Load OSM data:
+				</td>
+				<td>
+					<input 
+						type="checkbox"
+						id="loadOsmInput"
+						title="Check this to also compare the ICAR data to the latest OSM data"/>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					Max distance:
+				</td>
+				<td>
+					<input
+						type="number" step="any" min="0"
+						id="maxDistanceInput"
+						title="Allowed difference between ICAR and OSM data (meters). Use 0 to not compare the distance (default)."/>
+				</td>
+			</tr>
+		</table>
+		<button type="button" onclick="gotoPermalink()">Update</button>
+	</div>
+	<div id="overpasserror" class="isa_info" style="padding-top : 5px;margin-top: 10px;" >Ready for request</div>
+</div>
+	<h3>
+		<a
+				name="export"
+				id="exportCollapser"
+				onclick="collapseSection('export')">▼</a>
+		Export options
+	</h3>
+	<div id="exportSection">
+		<table>
+			<tr>
+				<td>
+					include ICAR info:
+				</td>
+				<td>
+					<input
+						type="checkbox"
+						id="crabInfoInput"
+						title="Show the ICAR herkomst (precision) and housenumber label in OSM. Please do not upload this to the OSM database."/>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					include municipality and postcode:
+				</td>
+				<td>
+					<input
+						type="checkbox"
+						id="includePcodeInput"
+						title="Include the postal code and municipality name in the OSM attributes (not really needed)."/>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					include apartment numbers:
+				</td>
+				<td>
+					<input
+						type="checkbox"
+						id="includeFlatsInput"
+						title="Include the apartment and/or bus numbers under addr:flats. Note that this data is not standardised, and contains mistakes more often than other address data. So please check all addr:flats data manually when importing"/>
+				</td>
+			</tr>
+		</table>
+	</div>
+
+	<h3>
+		<a
+				name="data"
+				id="dataCollapser"
+				onclick="collapseSection('data')">▼</a>
+		Data
+	</h3>
+
+	<div id="dataSection">
+		<table id="streetsTable">
+			<thead>
+				<tr>
+					<th title="Name of the street">Name</th>
+					<th title="All adresses in ICAR">Total</th>
+					<th title="Number of regular housenumbers not present in OSM">Missing</th>
+					<th title="Housenumbers where different ones are merged under the same hnrlabel, since they're overlapping. Map these with care, and decide if they belong to the same building or not.">Missing overlapping</th>
+					<th title="Housenumbers in OSM but without match in ICAR, please survey in case of doubt">Wrong</th>
+					<th title="Completeness of the streets, expressed as a percentage.">Completeness</th>
+				</tr>
+				<tr>
+					<th title="Totals per column">Total:</th>
+					<th title="All addresses in ICAR for this query" id="full-total"></th>
+					<th title="Total number of single addresses in ICAR but not in OSM." id="missing-total"></th>
+					<th title="Total number of overlapping addresses in ICAR but not in OSM" id="missing_overlapping-total"></th>
+					<th title="Total number of addresses in OSM without a match in ICAR" id="wrong-total"></th>
+					<th title="Overall completeness of this query" id="completeness-total"></th>
+				</tr>
+			</thead>
+			<tbody id="streetsTableBody">
+			</tbody>
+			<tfoot>
+				<tr>
+					<td/>
+					<td/>
+					<td>
+						<button
+								type="button"
+								onclick="getGpx('missing')"
+								id="missingGpxButton"
+								title="Load OSM data to enable this"
+								disabled
+						>
+							GPX
+						</button>
+					</td>
+					<td>
+						<button
+								type="button"
+								onclick="getGpx('missing_overlapping')"
+								id="missing_overlappingGpxButton"
+								title="Load OSM data to enable this"
+								disabled
+						>
+							GPX
+						</button>
+					</td>
+					<td>
+						<button
+								type="button"
+								onclick="getGpx('wrong')"
+								id="wrongGpxButton"
+								title="Load OSM data to enable this"
+								disabled
+						>
+							GPX
+						</button>
+					</td>
+				</tr>
+			</tfoot>
+		</table>
+	</div>
+
+	<h3>
+		<a
+				name="map"
+				id="mapCollapser"
+				onclick="collapseSection('map')">▼</a>
+		Map
+	</h3>
+	<div id="mapSection">
+		<div id="map"></div>
+	</div>
+
+	<br/>
+	<small>
+		This page contains <a href="https://download.vlaanderen.be/Producten/Detail?id=447&title=CRAB_Adressenlijst">ICAR</a> (&copy; AGIV; Free Open Data License Flanders v1.0) and OSM data (&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap contributors</a>)
+	</small>
+
+	<script src="//cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+	<script src="Leaflet.MakiMarkers.js"></script>
+	<script type="text/javascript" src="loadStreets.js"></script>
+	<script type="text/javascript">
+		// Read the URL query to set stuff
+		var query = window.location.search.substring(1);
+		var vars = query.split("&");
+		for (var i = 0; i < vars.length; i++)
+		{
+			var kv = vars[i].split("=");
+			if (kv.length != 2)
+				continue;
+			if (kv[0] == "collapsedSections")
+			{
+				var sections = kv[1].split(",");
+				sections.map(collapseSection);
+				continue;
+			}
+			kv[0] += "Input"
+			if (kv[1] == "true")
+				document.getElementById(kv[0]).checked = true;
+			else if (kv[1] == "false")
+				document.getElementById(kv[0]).checked = false;
+			else
+				document.getElementById(kv[0]).value = decodeURIComponent(kv[1]);
+		}
+
+		readPcode();
+
+		// Make table sortable
+		var table = document.getElementById("streetsTable");
+		var th = table.tHead;
+		var cells = th.rows[0].cells;
+		for (var i = 0; i < cells.length; i++)
+		{
+			(function (i) {
+				var reverse = true;
+				cells[i].addEventListener('click', function() {sortTable(i, (reverse = !reverse)); });
+			}(i));
+		}
+	</script>
+
+	</body>
+</html>
