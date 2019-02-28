@@ -13,8 +13,8 @@ from collections import namedtuple
 
 from lambert import Belgium1972LambertProjection
 
-parser = argparse.ArgumentParser(description='Reads the AGIV CRAB database in Shapefile format and converts this to a number of json files.')
-parser.add_argument('path', help='Path to the CrabAdr.shp file.')
+parser = argparse.ArgumentParser(description='Reads the ICAR database in Shapefile format and converts this to a number of json files.')
+parser.add_argument('path', help='Path to the Adr.shp file.')
 parser.add_argument('--output-dir', default='data/', help='The path to the output files.')
 parser.add_argument('--osm-output', action="store_true", help='Also write one OSM file next to the tree of JSON files')
 args = parser.parse_args()
@@ -30,7 +30,7 @@ if os.path.exists(outputDir):
 
 # Statistical variables
 stats = {
-    'records'        : 0, # the amount of reccords in the source-file
+    'records'        : 0, # the amount of records in the source-file
     'municipalities' : 0, # the amount of municipalities in the source-file
     'pcodes'         : 0, # the amount of postcodes in the source-file
     'streets'        : 0, # the amount of streets in the source-file
@@ -38,7 +38,7 @@ stats = {
     'busnrs'         : 0, # the amount of recoords with a BUSNR
     'apptnrs'        : 0  # the amount of reccords with a APTNR
 }
-# Faulty stats (logging the mistakes in CRAB)
+# Faulty stats (logging the mistakes in ICAR)
 f_stats = {
     'strnms'         : 0, # the amount of mismatches between straat-id's and their name
     'strt_pcs'       : 0, # the amount of streets that appear in more than one postcode
@@ -51,7 +51,7 @@ f_stats = {
 
 error_log = ""
 
-multiple_NIS_per_PC_log =  "ADDR_ID, LAT, LON, HUISNR, STRAAT_ID, STRAATNM, POSTCODE, NISCODE, GEM_NAAM, MATCH_NIS, MATCH_GEM\n"
+multiple_NIS_per_PC_log =  "ADR_ID, LAT, LON, ADR_NUMERO, RUE_ID, RUE_NM, CODE_POSTA, CODE_INS, COM_NM, MATCH_NIS, ZONE_ADRES\n"
 
 
 # Program-configurables
@@ -127,25 +127,28 @@ for nr in range(0, rec_count):
     dispProgress("proc_rec", "Loading file", nr, rec_count)
     record = sf.shapeRecord(nr).record
     # data-fields in shapefile:
-    f_id         = int(record[0])          # ID         adrespunt-id
-    f_straatnmid = int(record[1])          # STRAATNMID straatnaam-id
+    f_id         = int(record[1])          # ID         adrespunt-id
+    f_straatnmid = int(record[10])          # STRAATNMID straatnaam-id
 
    
-    tempname     = str(record[2]).strip()  # STRAATNM   straatnaam
+    tempname     = str(record[11]).strip()  # STRAATNM   straatnaam
     if "_" in tempname:
-    	n_list   = str(record[2]).strip().split('_')  # STRAATNM   straatnaam
+    	n_list   = str(record[11]).strip().split('_')  # STRAATNM   straatnaam
     	f_straatnm = n_list[0]
     else :	
     	f_straatnm = tempname
 
-    f_huisnr     = str(record[3]).strip()  # HUISNR     huisnummer
+# [6001262, 13428, '25', '', '', 'O', '20160101000000', '20170926135149', '', '20180917220409', 7701002, 'Avenue Del Pir\xe8re', '', '3200', '1325', 'Dion-Valmont', '25018', 'Chaumont-Gistoux', '', 'fr', '  '] 
+    #print str(record) + "\n"
+
+    f_huisnr     = str(record[2]).strip()  # HUISNR     huisnummer
     f_apptnr     = str(record[4]).strip()  # APPTNR     appartementnummer
     f_busnr      = str(record[5]).strip()  # BUSNR      busnr
-    f_hnrlabel   = str(record[6]).strip()  # HNRLABEL   afgeleid: bevat hoogste en laatste nr indien meerdere huisnummers op datzelfde punt vallen
-    f_niscode    = str(record[7]).strip()  # NISCODE    NIS-code: http://nl.wikipedia.org/wiki/NIS-code
-    f_gemeente   = str(record[8]).strip()  # GEMEENTE   gemeente
-    f_postcode   = str(record[9]).strip()  # POSTCODE   postcode
-    f_herkomst   = str(record[10]).strip() # HERKOMST   herkomst
+    f_hnrlabel   = str(record[2]).strip()  # HNRLABEL   afgeleid: bevat hoogste en laatste nr indien meerdere huisnummers op datzelfde punt vallen
+    f_niscode    = str(record[16]).strip()  # NISCODE    NIS-code: http://nl.wikipedia.org/wiki/NIS-code
+    f_gemeente   = str(record[17]).strip()  # GEMEENTE   gemeente
+    f_postcode   = str(record[14]).strip()  # POSTCODE   postcode
+    f_herkomst   = str(record[9]).strip() # HERKOMST   herkomst
 
     # Conversion Lambert72-coordinates to lat/lon
     coord = sf.shapeRecord(nr).shape.points[0]
