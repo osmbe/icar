@@ -43,7 +43,7 @@ f_stats = {
     'strnms'         : 0, # the amount of mismatches between straat-id's and their name
     'strt_pcs'       : 0, # the amount of streets that appear in more than one postcode
     'strt_nis'       : 0, # the amount of streets that appear in more than one municipality
-    'PSH_not_unique' : 0, # the amount of Postcode-Streetname-Housenumber addresses with a deviant NIS-code
+    'PSH_not_unique' : 0, # the amount of Postcode-Streetname-Housenumber addresses with a deviant INS-code (= NIS code)
     'niscodes'       : 0, # the amount of mismatches between niscodes and their minicipality-name
     'postcodes'      : 0, # the amount of mismatches between postcodes an ther municipality (1 postcode belonging to multiple municiplaities)
     'busnrs_apptnrs' : 0  # the amount of addresses with one or more busnrs as well as one or more apptnr
