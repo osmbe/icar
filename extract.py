@@ -127,9 +127,14 @@ for nr in range(0, rec_count):
     dispProgress("proc_rec", "Loading file", nr, rec_count)
     record = sf.shapeRecord(nr).record
     # data-fields in shapefile:
-    f_id         = int(record[1])          # ID         adrespunt-id
-    f_straatnmid = int(record[10])          # STRAATNMID straatnaam-id
-
+    #print str(record) + "\n"
+    #print str(record[0]) + "\n"
+    f_id         = int(record[0])          # ID         adrespunt-id
+    #print str(record) + "\n"
+    try:
+    	f_straatnmid = int(record[9])          # STRAATNMID straatnaam-id
+    except ValueError:
+	continue
    
     tempname     = str(record[11]).strip()  # STRAATNM   straatnaam
     if "_" in tempname:
@@ -139,7 +144,6 @@ for nr in range(0, rec_count):
     	f_straatnm = tempname
 
 # [6001262, 13428, '25', '', '', 'O', '20160101000000', '20170926135149', '', '20180917220409', 7701002, 'Avenue Del Pir\xe8re', '', '3200', '1325', 'Dion-Valmont', '25018', 'Chaumont-Gistoux', '', 'fr', '  '] 
-    #print str(record) + "\n"
 
     f_huisnr     = str(record[2]).strip()  # HUISNR     huisnummer
     f_apptnr     = str(record[4]).strip()  # APPTNR     appartementnummer
@@ -151,8 +155,14 @@ for nr in range(0, rec_count):
     f_herkomst   = str(record[9]).strip() # HERKOMST   herkomst
 
     # Conversion Lambert72-coordinates to lat/lon
-    coord = sf.shapeRecord(nr).shape.points[0]
-    [latitude, longitude] = projection.to_wgs84(coord[0], coord[1])
+
+    #print "\n" + str(nr) + "\n"
+    try:
+    	coord = sf.shapeRecord(nr).shape.points[0]
+    	[latitude, longitude] = projection.to_wgs84(coord[0], coord[1])
+    except IndexError:
+    	#print 'sorry, no coord for ' + str(record[10])
+        continue
 
     # Create the address
     ###########################

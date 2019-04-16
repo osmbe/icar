@@ -14,7 +14,7 @@ Updating the data is rather simple, but you have to make sure that all the remov
 2. First download the shapefile zips from the Wallonia somehow 
    try:
   ```
-  
+	http://geoportail.wallonie.be/catalogue/2998bccd-dae4-49fb-b6a5-867e6c37680f.html  
   ```
 3. Extract the zip on your computer, you need the entire Shapefile directory together (so not only the .shp file).
 4. Delete the `data` directory (`rm -r data`) to remove the old streets
