@@ -46,6 +46,8 @@ f_stats = {
     'PSH_not_unique' : 0, # the amount of Postcode-Streetname-Housenumber addresses with a deviant INS-code (= NIS code)
     'niscodes'       : 0, # the amount of mismatches between niscodes and their minicipality-name
     'postcodes'      : 0, # the amount of mismatches between postcodes an ther municipality (1 postcode belonging to multiple municiplaities)
+    'indexError'     : 0, # 
+    'valueError'     : 0, # 
     'busnrs_apptnrs' : 0  # the amount of addresses with one or more busnrs as well as one or more apptnr
 }
 
@@ -110,7 +112,7 @@ strtnm_dic = dict()    # The postalcodes per niscode are registered for each str
 #Named Tuples
 #############
 
-Address = namedtuple('Address', ['housenumber', 'lat', 'lon', 'source', 'apptnr', 'busnr', 'hnrlabel', 'niscode'])
+Address = namedtuple('Address', ['housenumber', 'lat', 'lon', 'source', 'busnr', 'hnrlabel', 'niscode'])
 Street  = namedtuple('Street',  ['original', 'sanitized', 'housenumbers'])
 
 
@@ -127,42 +129,51 @@ for nr in range(0, rec_count):
     dispProgress("proc_rec", "Loading file", nr, rec_count)
     record = sf.shapeRecord(nr).record
     # data-fields in shapefile:
-    #print str(record) + "\n"
-    #print str(record[0]) + "\n"
+    #print str(type(record)) + "\n"
     f_id         = int(record[0])          # ID         adrespunt-id
+    #print "f_id " + str(f_id) + "\n"
     #print str(record) + "\n"
+    #print(*record, sep = ", ") 
     try:
-    	f_straatnmid = int(record[9])          # STRAATNMID straatnaam-id
+        #print("nmid: " , str(record[9]) , "\n")
+        f_straatnmid = int(record[9])          # STRAATNMID straatnaam-id
     except ValueError:
-	continue
-   
-    tempname     = str(record[11]).strip()  # STRAATNM   straatnaam
-    if "_" in tempname:
-    	n_list   = str(record[11]).strip().split('_')  # STRAATNM   straatnaam
-    	f_straatnm = n_list[0]
-    else :	
-    	f_straatnm = tempname
+        f_stats['valueError'] += 1
+        continue
 
+    tempname     = str(record[10]).strip()  # STRAATNM   straatnaam
+    if "_" in tempname:
+        n_list   = str(record[10]).strip().split('_')  # STRAATNM   straatnaam
+        f_straatnm = n_list[0]
+    else :  
+        f_straatnm = tempname
+
+    #print("street" , str(f_straatnm) , "\n")
 # [6001262, 13428, '25', '', '', 'O', '20160101000000', '20170926135149', '', '20180917220409', 7701002, 'Avenue Del Pir\xe8re', '', '3200', '1325', 'Dion-Valmont', '25018', 'Chaumont-Gistoux', '', 'fr', '  '] 
 
-    f_huisnr     = str(record[2]).strip()  # HUISNR     huisnummer
-    f_apptnr     = str(record[4]).strip()  # APPTNR     appartementnummer
-    f_busnr      = str(record[5]).strip()  # BUSNR      busnr
-    f_hnrlabel   = str(record[2]).strip()  # HNRLABEL   afgeleid: bevat hoogste en laatste nr indien meerdere huisnummers op datzelfde punt vallen
-    f_niscode    = str(record[16]).strip()  # NISCODE    NIS-code: http://nl.wikipedia.org/wiki/NIS-code
-    f_gemeente   = str(record[17]).strip()  # GEMEENTE   gemeente
-    f_postcode   = str(record[14]).strip()  # POSTCODE   postcode
+    f_huisnr     = str(record[1]).strip()  # HUISNR     huisnummer
+    #f_apptnr     = str(record[3]).strip()  # APPTNR     appartementnummer
+    f_busnr      = str(record[2]).strip()  # BUSNR      busnr
+    f_hnrlabel   = str(record[1]).strip()  # HNRLABEL   afgeleid: bevat hoogste en laatste nr indien meerdere huisnummers op datzelfde punt vallen
+    f_niscode    = str(record[15]).strip()  # NISCODE    NIS-code: http://nl.wikipedia.org/wiki/NIS-code
+    f_gemeente   = str(record[16]).strip()  # GEMEENTE   gemeente
+    f_postcode   = str(record[13]).strip()  # POSTCODE   postcode
     f_herkomst   = str(record[9]).strip() # HERKOMST   herkomst
 
     # Conversion Lambert72-coordinates to lat/lon
 
     #print "\n" + str(nr) + "\n"
+    #print str(sf.shapeRecord(nr)) + "\n"
     try:
-    	coord = sf.shapeRecord(nr).shape.points[0]
-    	[latitude, longitude] = projection.to_wgs84(coord[0], coord[1])
+        coord = sf.shapeRecord(nr).shape.points[0]
+        #print("nr: " , nr)
+        [latitude, longitude] = projection.to_wgs84(coord[0], coord[1])
     except IndexError:
-    	#print 'sorry, no coord for ' + str(record[10])
+        f_stats['indexError'] += 1
+        #print 'sorry, no coord for ' + str(record[10])
         continue
+
+   # sys.exit("Error message")
 
     # Create the address
     ###########################
@@ -170,7 +181,7 @@ for nr in range(0, rec_count):
                    lat         = latitude,
                    lon         = longitude,
                    source      = f_herkomst,
-                   apptnr      = f_apptnr,
+                   #apptnr      = f_apptnr,
                    busnr       = f_busnr,
                    hnrlabel    = f_hnrlabel,
                    niscode     = f_niscode)
@@ -226,7 +237,7 @@ for nr in range(0, rec_count):
 
     hier_addr_dic[f_postcode][f_straatnmid].housenumbers[f_huisnr].append(addr)
 
-    if (len(f_apptnr) > 0) : stats['apptnrs'] += 1
+    #if (len(f_apptnr) > 0) : stats['apptnrs'] += 1
     if (len(f_busnr) > 0)  : stats['busnrs'] += 1
 
     # Municipality
@@ -281,7 +292,7 @@ for pcode in sorted(hier_addr_dic.keys()):
             # 1 housenumber contains multiple addresses: each has it own apptnr or busnr
             addresses_on_housenumber = hier_addr_dic[pcode][str_id].housenumbers[housenumber]
             busnrs  = sorted(filter(None, map(lambda x : x.busnr, addresses_on_housenumber)))
-            apptnrs = sorted(filter(None, map(lambda x : x.apptnr, addresses_on_housenumber)))
+            #apptnrs = sorted(filter(None, map(lambda x : x.apptnr, addresses_on_housenumber)))
             hnrlbls = list(set(filter(None, map(lambda addr : addr.hnrlabel, addresses_on_housenumber))))
 
 
@@ -308,9 +319,9 @@ for pcode in sorted(hier_addr_dic.keys()):
             addr['hnrlbls'] = hnrlbls
                 
             if(len(busnrs) > 0)  : addr['busnrs']  = busnrs
-            if(len(apptnrs) > 0) : addr['apptnrs'] = apptnrs
+            #if(len(apptnrs) > 0) : addr['apptnrs'] = apptnrs
             
-            if (len(busnrs) > 0 and len(apptnrs) > 0):
+            if (len(busnrs) > 0 and len(busnrs) > 0):
                 f_stats['busnrs_apptnrs'] += 1
 
             # what to do if address doesn't contain a location?
@@ -331,48 +342,45 @@ for pcode in sorted(hier_addr_dic.keys()):
         if not os.path.exists(directory): os.makedirs(directory)
 
         with io.open(directory + streetInfo['sanName'] + ".json", 'wb') as json_file:
-            json.dump({'addresses': address_list}, json_file, indent = 2, encoding='latin-1', sort_keys=True)
+            json.dumps({'addresses': address_list}, json_file, indent = 2, sort_keys=True)
 
         pcodeJson["streets"].append(streetInfo)
 
     with io.open(outputDir + str(pcode) + ".json", 'wb') as json_file:
-        json.dump(pcodeJson, json_file, indent = 2, encoding='latin-1', sort_keys=True)
+        json.dumps(pcodeJson, json_file, indent = 2, sort_keys=True)
 
     i += 1
 
 f = open("multiple_NIS_per_PC.log", 'wb')
-f.write(multiple_NIS_per_PC_log)
+f.write(bytes(multiple_NIS_per_PC_log, 'UTF-8'))   # python3 
+#f.write(multiple_NIS_per_PC_log)  #  python2
 f.close()
 dispProgress("write1")
 
 time_at_end = time.time()
 
-print "\nLoading took " + str(round(time_at_load_end - time_at_start, 0)) + " sec. Writing took " + str(round(time_at_end - time_at_load_end, 0)) + " sec"
+print ("\nLoading took " , str(round(time_at_load_end - time_at_start, 0)) , " sec. Writing took " , str(round(time_at_end - time_at_load_end, 0)) , " sec")
 
-print "\nFound objects:"
+print ("\nFound objects:")
 for s in stats.keys():
-    print "\t" + str(stats[s]) + " " + s
+    print ("\t" , str(stats[s]) , " " , s)
 
-print "\nStrange stuff:"
-print "\t" + str(f_stats['strt_pcs'])  + " streets didn't match with only 1 postcode"
+print ("\nStrange stuff:")
+print ("\t" , str(f_stats['strt_pcs'])  , " streets didn't match with only 1 postcode")
 
+print ("\nProcessing errors:")
+print ("\t" , str(f_stats['valueError']) , " seen non-INT values")
+print ("\t" , str(f_stats['indexError']) , " invalid index referenced")
 
-print "\nIntegrity check:"
-print "\t" + str(f_stats['strnms'])    + " streetnames didn't match their streetname-id"
-print "\t" + str(f_stats['strt_nis']) + " streets didn't match with only 1 municipality"
-print "\t" + str(f_stats['niscodes'])  + " municipality-names didn't match their NIS-code"
-print "\t" + str(f_stats['postcodes']) + " postcodes didn't match to 1 single municipality"
-print "\t" + str(f_stats['PSH_not_unique']) + " addresses were identical on postcode, street and housenumber, but have different NIS-codes"
-print "\t" + str(f_stats['busnrs_apptnrs']) + " addresses have one or more busnrs as well as one or more apptnrs"
+print ("\nIntegrity check:")
+print ("\t" , str(f_stats['strnms']) , " streetnames didn't match their streetname-id")
+print ("\t" , str(f_stats['strt_nis']) , " streets didn't match with only 1 municipality")
+print ("\t" , str(f_stats['niscodes'])  , " municipality-names didn't match their NIS-code")
+print ("\t" , str(f_stats['postcodes']) , " postcodes didn't match to 1 single municipality")
+print ("\t" , str(f_stats['PSH_not_unique']) , " addresses were identical on postcode, street and housenumber, but have different NIS-codes")
+print ("\t" , str(f_stats['busnrs_apptnrs']) , " addresses have one or more busnrs as well as one or more apptnrs")
 
 if(len(error_log) > 0):
-    print "\Error log:"
-    print error_log
-
-
-
-
-
-
-
+    print("\nError log:")
+    print(error_log)
 
