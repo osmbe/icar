@@ -1,4 +1,8 @@
-# vim: tabstop=4:softtabstop=4:shiftwidth=4:expandtab
+# vim: set tabstop=4:
+# vim: set softtabstop=4:
+# vim: set shiftwidth=4:
+# vim: set expandtab:
+# vim: set syntax=python:
 
 import os 
 import io
@@ -47,7 +51,10 @@ f_stats = {
     'niscodes'       : 0, # the amount of mismatches between niscodes and their minicipality-name
     'postcodes'      : 0, # the amount of mismatches between postcodes an ther municipality (1 postcode belonging to multiple municiplaities)
     'indexError'     : 0, # 
+    'coordOK'     : 0, # 
     'valueError'     : 0, # 
+    'bytestringbus'     : 0, # 
+    'bytestringpc'     : 0, # 
     'busnrs_apptnrs' : 0  # the amount of addresses with one or more busnrs as well as one or more apptnr
 }
 
@@ -153,13 +160,32 @@ for nr in range(0, rec_count):
 
     f_huisnr     = str(record[1]).strip()  # HUISNR     huisnummer
     #f_apptnr     = str(record[3]).strip()  # APPTNR     appartementnummer
-    f_busnr      = str(record[2]).strip()  # BUSNR      busnr
     f_hnrlabel   = str(record[1]).strip()  # HNRLABEL   afgeleid: bevat hoogste en laatste nr indien meerdere huisnummers op datzelfde punt vallen
     f_niscode    = str(record[15]).strip()  # NISCODE    NIS-code: http://nl.wikipedia.org/wiki/NIS-code
     f_gemeente   = str(record[16]).strip()  # GEMEENTE   gemeente
-    f_postcode   = str(record[13]).strip()  # POSTCODE   postcode
     f_herkomst   = str(record[9]).strip() # HERKOMST   herkomst
 
+    # clean some byte crap
+    if(isinstance(record[13], (bytes, bytearray))):
+        f_postcode = str(record[13].decode('utf-8')).strip()  # POSTCODE   postcode
+        #print("pcbyte:|" , str(f_postcode) , "|\n")
+        f_stats['bytestringpc'] += 1
+        continue
+    else :
+        f_postcode = str(record[13]).strip()  # POSTCODE   postcode
+
+    if(isinstance(record[2], (bytes, bytearray))):
+        f_busnr = str(record[2].decode('utf-8')).strip()
+        f_stats['bytestringbus'] += 1
+    else :
+        f_busnr = str(record[2]).strip()  # BUSNR      busnr
+
+    #isinstance(data, (bytes, bytearray))
+
+    #if (f_busnr == "b'          '"):
+    #    f_busnr = ""
+
+    #print("busnr" , str(f_busnr) , "\n")
     # Conversion Lambert72-coordinates to lat/lon
 
     #print "\n" + str(nr) + "\n"
@@ -168,6 +194,7 @@ for nr in range(0, rec_count):
         coord = sf.shapeRecord(nr).shape.points[0]
         #print("nr: " , nr)
         [latitude, longitude] = projection.to_wgs84(coord[0], coord[1])
+        f_stats['coordOK'] += 1
     except IndexError:
         f_stats['indexError'] += 1
         #print 'sorry, no coord for ' + str(record[10])
@@ -263,6 +290,11 @@ for nr in range(0, rec_count):
 time_at_load_end = time.time()
 dispProgress("proc_rec")
 
+print("hier_addr_dic length: " , len(hier_addr_dic), "\n")
+print("strtnm_dic          : " , len(strtnm_dic), "\n")
+print("gem_dic             : " , len(gem_dic), "\n")
+print("pc_nis_dic          : " , len(pc_nis_dic), "\n")
+
 # sort on postcode        
 i = 0
 for pcode in sorted(hier_addr_dic.keys()):
@@ -271,6 +303,8 @@ for pcode in sorted(hier_addr_dic.keys()):
 
     # sort on sanitized streetname
     str_ids = sorted(hier_addr_dic[pcode], key=lambda street_id : hier_addr_dic[pcode][street_id].sanitized)
+    #print("str_ids          : " , len(str_ids), "\n")
+    #print(*str_ids, sep = ", ") 
     for str_id in str_ids:
         
         streetInfo = dict()
@@ -281,6 +315,8 @@ for pcode in sorted(hier_addr_dic.keys()):
         streetInfo['numOfAddr'] =    0
         streetInfo['name']      = hier_addr_dic[pcode][str_id].original
         streetInfo['sanName']   = hier_addr_dic[pcode][str_id].sanitized
+
+        #print(*streetInfo, sep = ", ") 
 
         # add list of other postcode where street exists to street
         if (len(strtnm_dic[str_id][1])>1):
@@ -295,6 +331,7 @@ for pcode in sorted(hier_addr_dic.keys()):
             #apptnrs = sorted(filter(None, map(lambda x : x.apptnr, addresses_on_housenumber)))
             hnrlbls = list(set(filter(None, map(lambda addr : addr.hnrlabel, addresses_on_housenumber))))
 
+            #print(*hnrlbls, sep = ", ") 
 
             hnrlbls_dic = dict()
             for label in sorted(hnrlbls):
@@ -341,13 +378,14 @@ for pcode in sorted(hier_addr_dic.keys()):
         directory = outputDir + str(pcode) + "/"
         if not os.path.exists(directory): os.makedirs(directory)
 
-        with io.open(directory + streetInfo['sanName'] + ".json", 'wb') as json_file:
-            json.dumps({'addresses': address_list}, json_file, indent = 2, sort_keys=True)
+        with io.open(directory + streetInfo['sanName'] + ".json", 'w') as json_file:
+            print(*address_list, sep = ", ") 
+            json.dump({'addresses': address_list}, json_file, indent = 2, sort_keys=True)
 
         pcodeJson["streets"].append(streetInfo)
 
-    with io.open(outputDir + str(pcode) + ".json", 'wb') as json_file:
-        json.dumps(pcodeJson, json_file, indent = 2, sort_keys=True)
+    with io.open(outputDir + str(pcode) + ".json", 'w') as json_file:
+        json.dump(pcodeJson, json_file, indent = 2, sort_keys=True)
 
     i += 1
 
@@ -370,7 +408,10 @@ print ("\t" , str(f_stats['strt_pcs'])  , " streets didn't match with only 1 pos
 
 print ("\nProcessing errors:")
 print ("\t" , str(f_stats['valueError']) , " seen non-INT values")
-print ("\t" , str(f_stats['indexError']) , " invalid index referenced")
+print ("\t" , str(f_stats['indexError']) , " invalid index referenced (bad coordinates)")
+print ("\t" , str(f_stats['coordOK']) , " Good coordinates found")
+print ("\t" , str(f_stats['bytestringpc']) , " postalcode bytestrings found ")
+print ("\t" , str(f_stats['bytestringbus']) , " bus bytestring found")
 
 print ("\nIntegrity check:")
 print ("\t" , str(f_stats['strnms']) , " streetnames didn't match their streetname-id")
