@@ -1,13 +1,625 @@
 {
   "streets": [
     {
-      "b": 50.721434223839, 
-      "l": 6.014716886638, 
+      "b": 50.71608208044, 
+      "l": 6.011267014027, 
+      "name": "Albertstra\u00dfe", 
+      "numOfAddr": 46, 
+      "r": 6.01277277298, 
+      "sanName": "albertstrae", 
+      "t": 50.718031945562
+    }, 
+    {
+      "b": 50.717282595321, 
+      "l": 6.011613214803, 
+      "name": "Bachgasse", 
+      "numOfAddr": 4, 
+      "r": 6.011843227165, 
+      "sanName": "bachgasse", 
+      "t": 50.71745861811
+    }, 
+    {
+      "b": 50.716422211371, 
+      "l": 6.001472506568, 
+      "name": "Bachstra\u00dfe", 
+      "numOfAddr": 36, 
+      "r": 6.007426073163, 
+      "sanName": "bachstrae", 
+      "t": 50.717205869755
+    }, 
+    {
+      "b": 50.714210733862, 
+      "l": 6.003230470701, 
+      "name": "Bauweg", 
+      "numOfAddr": 86, 
+      "r": 6.006644767258, 
+      "sanName": "bauweg", 
+      "t": 50.723371311377
+    }, 
+    {
+      "b": 50.709879692732, 
+      "l": 6.004466247588, 
+      "name": "Bergstra\u00dfe", 
+      "numOfAddr": 24, 
+      "r": 6.005911974586, 
+      "sanName": "bergstrae", 
+      "t": 50.711743205767
+    }, 
+    {
+      "b": 50.71868411172, 
+      "l": 6.017636914205, 
+      "name": "Bgm. Schmetz-Stra\u00dfe", 
+      "numOfAddr": 9, 
+      "r": 6.018354812475, 
+      "sanName": "bgmschmetzstrae", 
+      "t": 50.719116982833
+    }, 
+    {
+      "b": 50.724063043257, 
+      "l": 6.006236656379, 
+      "name": "Boschhausenerstra\u00dfe", 
+      "numOfAddr": 17, 
+      "r": 6.007473647002, 
+      "sanName": "boschhausenerstrae", 
+      "t": 50.725569837724
+    }, 
+    {
+      "b": 50.723449298567, 
+      "l": 6.007937005912, 
+      "name": "Brandeh\u00f6vel", 
+      "numOfAddr": 65, 
+      "r": 6.010351966469, 
+      "sanName": "brandehvel", 
+      "t": 50.724733817984
+    }, 
+    {
+      "b": 50.710300810348, 
+      "l": 6.005820235856, 
+      "name": "Bruchstra\u00dfe", 
+      "numOfAddr": 8, 
+      "r": 6.006570285229, 
+      "sanName": "bruchstrae", 
+      "t": 50.711043196469
+    }, 
+    {
+      "b": 50.718855037427, 
+      "l": 6.018240861983, 
+      "name": "Brunnenstra\u00dfe", 
+      "numOfAddr": 15, 
+      "r": 6.019248815523, 
+      "sanName": "brunnenstrae", 
+      "t": 50.719817258389
+    }, 
+    {
+      "b": 50.72195922252, 
+      "l": 6.012216395796, 
+      "name": "Charles Cravatte-Stra\u00dfe", 
+      "numOfAddr": 12, 
+      "r": 6.012901577744, 
+      "sanName": "charlescravattestrae", 
+      "t": 50.722393760415
+    }, 
+    {
+      "b": 50.720811526369, 
+      "l": 6.010324269293, 
+      "name": "Comouthstra\u00dfe", 
+      "numOfAddr": 47, 
+      "r": 6.014522095197, 
+      "sanName": "comouthstrae", 
+      "t": 50.721729212132
+    }, 
+    {
+      "b": 50.712723366104, 
+      "l": 6.001412937699, 
+      "name": "Driesch", 
+      "numOfAddr": 44, 
+      "r": 6.005306712393, 
+      "sanName": "driesch", 
+      "t": 50.715166412723
+    }, 
+    {
+      "b": 50.716999842623, 
+      "l": 6.006116555694, 
+      "name": "D\u00f6rnchen", 
+      "numOfAddr": 10, 
+      "r": 6.007069611314, 
+      "sanName": "drnchen", 
+      "t": 50.717437095635
+    }, 
+    {
+      "b": 50.718955470106, 
+      "l": 6.015600695083, 
+      "name": "F. Scherrer-Stra\u00dfe", 
+      "numOfAddr": 48, 
+      "r": 6.020272794394, 
+      "sanName": "fscherrerstrae", 
+      "t": 50.719720374994
+    }, 
+    {
+      "b": 50.715480009926, 
+      "l": 6.007998375213, 
+      "name": "Galmeistra\u00dfe", 
+      "numOfAddr": 7, 
+      "r": 6.008799427344, 
+      "sanName": "galmeistrae", 
+      "t": 50.716042426027
+    }, 
+    {
+      "b": 50.720623151129, 
+      "l": 6.013956707542, 
+      "name": "Gartenstra\u00dfe", 
+      "numOfAddr": 6, 
+      "r": 6.014615819532, 
+      "sanName": "gartenstrae", 
+      "t": 50.721003272193
+    }, 
+    {
+      "b": 50.717818002206, 
+      "l": 6.015762557231, 
+      "name": "G.Hock\u00e9stra\u00dfe", 
+      "numOfAddr": 11, 
+      "r": 6.016697032722, 
+      "sanName": "ghockstrae", 
+      "t": 50.718881675377
+    }, 
+    {
+      "b": 50.708844316853, 
+      "l": 6.000333861107, 
+      "name": "Hagenfeuer", 
+      "numOfAddr": 83, 
+      "r": 6.003989893996, 
+      "sanName": "hagenfeuer", 
+      "t": 50.714437043064
+    }, 
+    {
+      "b": 50.720063795199, 
+      "l": 6.019579474907, 
+      "name": "Hattich", 
+      "numOfAddr": 6, 
+      "otherPCs": [
+        "4721"
+      ], 
+      "r": 6.020703288452, 
+      "sanName": "hattich", 
+      "t": 50.720310083263
+    }, 
+    {
+      "b": 50.711530614898, 
+      "l": 5.998644867931, 
+      "name": "Heide", 
+      "numOfAddr": 57, 
+      "r": 6.005200618397, 
+      "sanName": "heide", 
+      "t": 50.71424491196
+    }, 
+    {
+      "b": 50.722569215891, 
+      "l": 6.017657522096, 
+      "name": "Heidkopf", 
+      "numOfAddr": 11, 
+      "r": 6.018509928143, 
+      "sanName": "heidkopf", 
+      "t": 50.72378538505
+    }, 
+    {
+      "b": 50.717598390057, 
+      "l": 6.016560334746, 
+      "name": "Heygraben", 
+      "numOfAddr": 23, 
+      "r": 6.01883996776, 
+      "sanName": "heygraben", 
+      "t": 50.719499398874
+    }, 
+    {
+      "b": 50.725250241224, 
+      "l": 6.007113380154, 
+      "name": "Hochstra\u00dfe", 
+      "numOfAddr": 12, 
+      "r": 6.008038541407, 
+      "sanName": "hochstrae", 
+      "t": 50.726344134126
+    }, 
+    {
+      "b": 50.708373192554, 
+      "l": 5.996698916635, 
+      "name": "Hof", 
+      "numOfAddr": 39, 
+      "r": 5.999915335959, 
+      "sanName": "hof", 
+      "t": 50.71019647371
+    }, 
+    {
+      "b": 50.713297285387, 
+      "l": 5.999946296193, 
+      "name": "Im K\u00e4fer", 
+      "numOfAddr": 10, 
+      "r": 6.001419384573, 
+      "sanName": "imkfer", 
+      "t": 50.713894304496
+    }, 
+    {
+      "b": 50.7184147311, 
+      "l": 6.016421562864, 
+      "name": "J. Cardijn-Stra\u00dfe", 
+      "numOfAddr": 18, 
+      "r": 6.019834725051, 
+      "sanName": "jcardijnstrae", 
+      "t": 50.718754064277
+    }, 
+    {
+      "b": 50.718802986927, 
+      "l": 6.014090918921, 
+      "name": "Kahnweg", 
+      "numOfAddr": 28, 
+      "r": 6.017977295894, 
+      "sanName": "kahnweg", 
+      "t": 50.719895602009
+    }, 
+    {
+      "b": 50.714261723527, 
+      "l": 6.01206822747, 
+      "name": "Kaldenbach", 
+      "numOfAddr": 18, 
+      "r": 6.013404979043, 
+      "sanName": "kaldenbach", 
+      "t": 50.715038607594
+    }, 
+    {
+      "b": 50.714775356337, 
+      "l": 6.010921943095, 
+      "name": "Kapellstra\u00dfe", 
+      "numOfAddr": 41, 
+      "r": 6.014236759985, 
+      "sanName": "kapellstrae", 
+      "t": 50.716050209916
+    }, 
+    {
+      "b": 50.715841591503, 
+      "l": 6.013139727474, 
+      "name": "Kirchplatz", 
+      "numOfAddr": 17, 
+      "r": 6.015576801964, 
+      "sanName": "kirchplatz", 
+      "t": 50.718133473319
+    }, 
+    {
+      "b": 50.715205096406, 
+      "l": 6.012009966029, 
+      "name": "Kirchstra\u00dfe", 
+      "numOfAddr": 35, 
+      "r": 6.01486557027, 
+      "sanName": "kirchstrae", 
+      "t": 50.716372992994
+    }, 
+    {
+      "b": 50.716480148315, 
+      "l": 6.012507989894, 
+      "name": "Klostergasse", 
+      "numOfAddr": 8, 
+      "r": 6.012972614511, 
+      "sanName": "klostergasse", 
+      "t": 50.716733271802
+    }, 
+    {
+      "b": 50.720478022181, 
+      "l": 6.015862309974, 
+      "name": "Klothstra\u00dfe", 
+      "numOfAddr": 58, 
+      "r": 6.019223761226, 
+      "sanName": "klothstrae", 
+      "t": 50.728297911378
+    }, 
+    {
+      "b": 50.721760074958, 
+      "l": 6.010439169433, 
+      "name": "K\u00f6nigin Fabiola Stra\u00dfe", 
+      "numOfAddr": 19, 
+      "r": 6.011561751975, 
+      "sanName": "kniginfabiolastrae", 
+      "t": 50.722553480134
+    }, 
+    {
+      "b": 50.709447566787, 
+      "l": 6.003492570575, 
+      "name": "Krickelstein", 
+      "numOfAddr": 73, 
+      "r": 6.005876264327, 
+      "sanName": "krickelstein", 
+      "t": 50.712633259884
+    }, 
+    {
+      "b": 50.720455022273, 
+      "l": 6.019348995909, 
+      "name": "K\u00e4skorb", 
+      "numOfAddr": 19, 
+      "otherPCs": [
+        "4721"
+      ], 
+      "r": 6.020828142865, 
+      "sanName": "kskorb", 
+      "t": 50.723408015784
+    }, 
+    {
+      "b": 50.717412820025, 
+      "l": 6.012505943236, 
+      "name": "Kurzstra\u00dfe", 
+      "numOfAddr": 14, 
+      "r": 6.013442164531, 
+      "sanName": "kurzstrae", 
+      "t": 50.717902818999
+    }, 
+    {
+      "b": 50.713083228546, 
+      "l": 6.010011530616, 
+      "name": "Lindenallee", 
+      "numOfAddr": 33, 
+      "r": 6.011690501951, 
+      "sanName": "lindenallee", 
+      "t": 50.715548197104
+    }, 
+    {
+      "b": 50.708661370742, 
+      "l": 5.999379301497, 
+      "name": "L\u00fctticher Stra\u00dfe", 
+      "numOfAddr": 84, 
+      "otherPCs": [
+        "4721"
+      ], 
+      "r": 6.020074274085, 
+      "sanName": "ltticherstrae", 
+      "t": 50.718424800212
+    }, 
+    {
+      "b": 50.717885450972, 
+      "l": 6.005342823865, 
+      "name": "Moresneter Stra\u00dfe", 
+      "numOfAddr": 120, 
+      "r": 6.010878982428, 
+      "sanName": "moresneterstrae", 
+      "t": 50.724497380617
+    }, 
+    {
+      "b": 50.71274180791, 
+      "l": 6.00546190752, 
+      "name": "Neustra\u00dfe", 
+      "numOfAddr": 36, 
+      "r": 6.006084595553, 
+      "sanName": "neustrae", 
+      "t": 50.714258317074
+    }, 
+    {
+      "b": 50.714417858371, 
+      "l": 6.00519538972, 
+      "name": "Parkstra\u00dfe", 
+      "numOfAddr": 73, 
+      "r": 6.010329746509, 
+      "sanName": "parkstrae", 
+      "t": 50.71854109737
+    }, 
+    {
+      "b": 50.717738786571, 
+      "l": 6.010835498645, 
+      "name": "Patronagestra\u00dfe", 
+      "numOfAddr": 66, 
+      "r": 6.015736576172, 
+      "sanName": "patronagestrae", 
+      "t": 50.719982206741
+    }, 
+    {
+      "b": 50.716877674854, 
+      "l": 6.013323808494, 
+      "name": "Poststra\u00dfe", 
+      "numOfAddr": 9, 
+      "r": 6.016081300777, 
+      "sanName": "poststrae", 
+      "t": 50.717989249352
+    }, 
+    {
+      "b": 50.715057364274, 
+      "l": 6.004670768575, 
+      "name": "Privatstra\u00dfe", 
+      "numOfAddr": 34, 
+      "r": 6.006701720478, 
+      "sanName": "privatstrae", 
+      "t": 50.71620477854
+    }, 
+    {
+      "b": 50.715968001173, 
+      "l": 6.001552226362, 
+      "name": "Rottstra\u00dfe", 
+      "numOfAddr": 14, 
+      "r": 6.003281278975, 
+      "sanName": "rottstrae", 
+      "t": 50.716733652765
+    }, 
+    {
+      "b": 50.725432077647, 
+      "l": 6.015182045867, 
+      "name": "Ruhr", 
+      "numOfAddr": 12, 
+      "r": 6.017545192195, 
+      "sanName": "ruhr", 
+      "t": 50.726197382799
+    }, 
+    {
+      "b": 50.72001436654, 
+      "l": 6.015994383904, 
+      "name": "Sandweg", 
+      "numOfAddr": 38, 
+      "r": 6.019289239813, 
+      "sanName": "sandweg", 
+      "t": 50.721006543088
+    }, 
+    {
+      "b": 50.710430077066, 
+      "l": 6.001323310384, 
+      "name": "Schlack", 
+      "numOfAddr": 16, 
+      "r": 6.004921486562, 
+      "sanName": "schlack", 
+      "t": 50.711856085313
+    }, 
+    {
+      "b": 50.71434722817, 
+      "l": 6.005971974232, 
+      "name": "Sch\u00fctzenstra\u00dfe", 
+      "numOfAddr": 35, 
+      "r": 6.010588640591, 
+      "sanName": "schtzenstrae", 
+      "t": 50.716382998011
+    }, 
+    {
+      "b": 50.716754719035, 
+      "l": 6.007146287033, 
+      "name": "Schulstra\u00dfe", 
+      "numOfAddr": 11, 
+      "r": 6.00768638724, 
+      "sanName": "schulstrae", 
+      "t": 50.717562296894
+    }, 
+    {
+      "b": 50.720854612217, 
+      "l": 6.015062946477, 
+      "name": "Siedlung Belle-Vue", 
+      "numOfAddr": 58, 
+      "r": 6.0167043277, 
+      "sanName": "siedlungbellevue", 
+      "t": 50.722847193797
+    }, 
+    {
+      "b": 50.719018370801, 
+      "l": 6.010407118017, 
+      "name": "Siedlung Europa", 
+      "numOfAddr": 57, 
+      "r": 6.013151123342, 
+      "sanName": "siedlungeuropa", 
+      "t": 50.719968936267
+    }, 
+    {
+      "b": 50.717702700139, 
+      "l": 6.013286085213, 
+      "name": "Siedlung P.Kofferschl\u00e4ger", 
+      "numOfAddr": 41, 
+      "r": 6.015297678472, 
+      "sanName": "siedlungpkofferschlger", 
+      "t": 50.718990573905
+    }, 
+    {
+      "b": 50.719930860632, 
+      "l": 6.014131479474, 
+      "name": "Siedlungsstra\u00dfe", 
+      "numOfAddr": 21, 
+      "r": 6.015450010842, 
+      "sanName": "siedlungsstrae", 
+      "t": 50.720616737753
+    }, 
+    {
+      "b": 50.721989130576, 
+      "l": 6.009451787055, 
+      "name": "Soufflet", 
+      "numOfAddr": 41, 
+      "r": 6.01487226478, 
+      "sanName": "soufflet", 
+      "t": 50.723157189783
+    }, 
+    {
+      "b": 50.719763999038, 
+      "l": 6.010730551002, 
+      "name": "Sportstra\u00dfe", 
+      "numOfAddr": 65, 
+      "r": 6.014935306039, 
+      "sanName": "sportstrae", 
+      "t": 50.721038504627
+    }, 
+    {
+      "b": 50.720285198759, 
+      "l": 6.01439004999, 
       "name": "Steinkaulstra\u00dfe", 
-      "numOfAddr": 1, 
-      "r": 6.014716886638, 
+      "numOfAddr": 57, 
+      "r": 6.016265902719, 
       "sanName": "steinkaulstrae", 
-      "t": 50.721434223839
+      "t": 50.724391121973
+    }, 
+    {
+      "b": 50.716725646556, 
+      "l": 6.010038538718, 
+      "name": "Stiefelstra\u00dfe", 
+      "numOfAddr": 12, 
+      "r": 6.010714825651, 
+      "sanName": "stiefelstrae", 
+      "t": 50.717272030491
+    }, 
+    {
+      "b": 50.717995559503, 
+      "l": 6.009720728453, 
+      "name": "Tannenbaumstra\u00dfe", 
+      "numOfAddr": 3, 
+      "r": 6.010062020931, 
+      "sanName": "tannenbaumstrae", 
+      "t": 50.718105969225
+    }, 
+    {
+      "b": 50.723175167716, 
+      "l": 6.010683801101, 
+      "name": "Teckenbusch", 
+      "numOfAddr": 20, 
+      "r": 6.014129590203, 
+      "sanName": "teckenbusch", 
+      "t": 50.724767296863
+    }, 
+    {
+      "b": 50.716356582873, 
+      "l": 6.010431372694, 
+      "name": "Thimstra\u00dfe", 
+      "numOfAddr": 37, 
+      "r": 6.011740567365, 
+      "sanName": "thimstrae", 
+      "t": 50.717653314207
+    }, 
+    {
+      "b": 50.718130469576, 
+      "l": 6.012763202874, 
+      "name": "Vons", 
+      "numOfAddr": 2, 
+      "r": 6.012999898422, 
+      "sanName": "vons", 
+      "t": 50.718225423086
+    }, 
+    {
+      "b": 50.725726134057, 
+      "l": 6.006722452546, 
+      "name": "Voss\u00f6lder", 
+      "numOfAddr": 17, 
+      "r": 6.009370852405, 
+      "sanName": "vosslder", 
+      "t": 50.727335019268
+    }, 
+    {
+      "b": 50.710914743514, 
+      "l": 6.000676704168, 
+      "name": "Wolfshaag", 
+      "numOfAddr": 18, 
+      "r": 6.002474958092, 
+      "sanName": "wolfshaag", 
+      "t": 50.711795241244
+    }, 
+    {
+      "b": 50.721993997417, 
+      "l": 6.010114399506, 
+      "name": "Wolfskaul", 
+      "numOfAddr": 1, 
+      "r": 6.010114399506, 
+      "sanName": "wolfskaul", 
+      "t": 50.721993997417
+    }, 
+    {
+      "b": 50.721221633623, 
+      "l": 6.006500092777, 
+      "name": "Wolfsweg", 
+      "numOfAddr": 7, 
+      "r": 6.009083084311, 
+      "sanName": "wolfsweg", 
+      "t": 50.721496535466
     }
   ]
 }

@@ -1,0 +1,967 @@
+{
+  "streets": [
+    {
+      "b": 50.638737573262, 
+      "l": 4.621804363978, 
+      "name": "Avenue de la Fontaine", 
+      "numOfAddr": 57, 
+      "r": 4.630574319097, 
+      "sanName": "avenuedelafontaine", 
+      "t": 50.641435502413
+    }, 
+    {
+      "b": 50.636027863642, 
+      "l": 4.616175739326, 
+      "name": "Avenue de l'Etang", 
+      "numOfAddr": 33, 
+      "r": 4.618637074744, 
+      "sanName": "avenuedeletang", 
+      "t": 50.638626155687
+    }, 
+    {
+      "b": 50.65525657468, 
+      "l": 4.599989632236, 
+      "name": "Avenue des Bouleaux", 
+      "numOfAddr": 16, 
+      "r": 4.601937451394, 
+      "sanName": "avenuedesbouleaux", 
+      "t": 50.657125041903
+    }, 
+    {
+      "b": 50.654971979048, 
+      "l": 4.602367717986, 
+      "name": "Avenue des Ch\u00eanes", 
+      "numOfAddr": 18, 
+      "r": 4.60504647112, 
+      "sanName": "avenuedeschnes", 
+      "t": 50.657106264518
+    }, 
+    {
+      "b": 50.637292221932, 
+      "l": 4.617599539477, 
+      "name": "Avenue des Gen\u00eats", 
+      "numOfAddr": 49, 
+      "r": 4.622596105702, 
+      "sanName": "avenuedesgents", 
+      "t": 50.640174673867
+    }, 
+    {
+      "b": 50.631024358002, 
+      "l": 4.622160013705, 
+      "name": "Champ du Gros Ch\u00eane", 
+      "numOfAddr": 7, 
+      "r": 4.623415517917, 
+      "sanName": "champdugroschne", 
+      "t": 50.631134508406
+    }, 
+    {
+      "b": 50.62093107018, 
+      "l": 4.628090465235, 
+      "name": "Chemin de Chastre", 
+      "numOfAddr": 3, 
+      "r": 4.628371149995, 
+      "sanName": "chemindechastre", 
+      "t": 50.621095696111
+    }, 
+    {
+      "b": 50.657101890316, 
+      "l": 4.606117426356, 
+      "name": "Chemin du Roissart", 
+      "numOfAddr": 3, 
+      "r": 4.607430041672, 
+      "sanName": "cheminduroissart", 
+      "t": 50.658220712895
+    }, 
+    {
+      "b": 50.644389730515, 
+      "l": 4.657836658925, 
+      "name": "Chemin Saint-Pierre", 
+      "numOfAddr": 27, 
+      "r": 4.660489878157, 
+      "sanName": "cheminsaintpierre", 
+      "t": 50.64790667045
+    }, 
+    {
+      "b": 50.621824192265, 
+      "l": 4.620676330375, 
+      "name": "Chemin Tollet", 
+      "numOfAddr": 3, 
+      "r": 4.627888815915, 
+      "sanName": "chemintollet", 
+      "t": 50.63100254883
+    }, 
+    {
+      "b": 50.643422735816, 
+      "l": 4.609152781144, 
+      "name": "Clos de la Noire Epine", 
+      "numOfAddr": 12, 
+      "r": 4.610349511477, 
+      "sanName": "closdelanoireepine", 
+      "t": 50.644282270401
+    }, 
+    {
+      "b": 50.630445027794, 
+      "l": 4.626190661883, 
+      "name": "Clos de l'Aub\u00e9pine", 
+      "numOfAddr": 7, 
+      "r": 4.627131087007, 
+      "sanName": "closdelaubpine", 
+      "t": 50.630944821044
+    }, 
+    {
+      "b": 50.621090378737, 
+      "l": 4.626221728256, 
+      "name": "Clos du Fontainier", 
+      "numOfAddr": 1, 
+      "r": 4.626221728256, 
+      "sanName": "closdufontainier", 
+      "t": 50.621090378737
+    }, 
+    {
+      "b": 50.648025449247, 
+      "l": 4.659252533734, 
+      "name": "Clos Emile Fabry", 
+      "numOfAddr": 9, 
+      "r": 4.660575207211, 
+      "sanName": "closemilefabry", 
+      "t": 50.648771786675
+    }, 
+    {
+      "b": 50.629885132236, 
+      "l": 4.618475469211, 
+      "name": "Clos Paul Duquenne", 
+      "numOfAddr": 8, 
+      "r": 4.619910808643, 
+      "sanName": "clospaulduquenne", 
+      "t": 50.630706990224
+    }, 
+    {
+      "b": 50.644896616264, 
+      "l": 4.648800343045, 
+      "name": "Cour de la Ferme", 
+      "numOfAddr": 7, 
+      "r": 4.649392282037, 
+      "sanName": "courdelaferme", 
+      "t": 50.645259673639
+    }, 
+    {
+      "b": 50.634002378796, 
+      "l": 4.610199285856, 
+      "name": "Grand'Place", 
+      "numOfAddr": 22, 
+      "r": 4.611121547274, 
+      "sanName": "grandplace", 
+      "t": 50.634912418833
+    }, 
+    {
+      "b": 50.639877533755, 
+      "l": 4.641596044099, 
+      "name": "Grand'Route", 
+      "numOfAddr": 36, 
+      "r": 4.649347651724, 
+      "sanName": "grandroute", 
+      "t": 50.649591323877
+    }, 
+    {
+      "b": 50.634720791391, 
+      "l": 4.609911065903, 
+      "name": "Grand'Rue", 
+      "numOfAddr": 73, 
+      "r": 4.61254717668, 
+      "sanName": "grandrue", 
+      "t": 50.639299989678
+    }, 
+    {
+      "b": 50.639074274927, 
+      "l": 4.620311180282, 
+      "name": "Impasse des Buissons", 
+      "numOfAddr": 4, 
+      "r": 4.620836510838, 
+      "sanName": "impassedesbuissons", 
+      "t": 50.639353526675
+    }, 
+    {
+      "b": 50.640489544573, 
+      "l": 4.610289504159, 
+      "name": "Place de la Dodaine", 
+      "numOfAddr": 12, 
+      "r": 4.611352742669, 
+      "sanName": "placedeladodaine", 
+      "t": 50.641075546127
+    }, 
+    {
+      "b": 50.63396684768, 
+      "l": 4.618529111626, 
+      "name": "Place de la Fosse", 
+      "numOfAddr": 6, 
+      "r": 4.61913901582, 
+      "sanName": "placedelafosse", 
+      "t": 50.634210762358
+    }, 
+    {
+      "b": 50.634009024158, 
+      "l": 4.611054152747, 
+      "name": "Place des Martyrs", 
+      "numOfAddr": 6, 
+      "r": 4.612388580433, 
+      "sanName": "placedesmartyrs", 
+      "t": 50.634173001339
+    }, 
+    {
+      "b": 50.633608244878, 
+      "l": 4.61100094921, 
+      "name": "Place du Peuple", 
+      "numOfAddr": 5, 
+      "r": 4.611106695002, 
+      "sanName": "placedupeuple", 
+      "t": 50.633882771767
+    }, 
+    {
+      "b": 50.636363438922, 
+      "l": 4.610762586976, 
+      "name": "Place du Sablon", 
+      "numOfAddr": 12, 
+      "r": 4.611458430332, 
+      "sanName": "placedusablon", 
+      "t": 50.636872423248
+    }, 
+    {
+      "b": 50.63574688715, 
+      "l": 4.61201175998, 
+      "name": "R\u00e9sidence du Centre", 
+      "numOfAddr": 39, 
+      "r": 4.614203753477, 
+      "sanName": "rsidenceducentre", 
+      "t": 50.636717901032
+    }, 
+    {
+      "b": 50.63881244946, 
+      "l": 4.602069505252, 
+      "name": "Rue Auguste Lannoye", 
+      "numOfAddr": 38, 
+      "r": 4.60561851552, 
+      "sanName": "rueaugustelannoye", 
+      "t": 50.642251174028
+    }, 
+    {
+      "b": 50.641349147095, 
+      "l": 4.611862984478, 
+      "name": "Rue Capitaine Aviateur Paul", 
+      "numOfAddr": 2, 
+      "r": 4.611973946268, 
+      "sanName": "ruecapitaineaviateurpaul", 
+      "t": 50.641402071099
+    }, 
+    {
+      "b": 50.62227052796, 
+      "l": 4.623896803253, 
+      "name": "Rue Chapelle Emmanuel", 
+      "numOfAddr": 10, 
+      "r": 4.625202976935, 
+      "sanName": "ruechapelleemmanuel", 
+      "t": 50.623446963484
+    }, 
+    {
+      "b": 50.631955738922, 
+      "l": 4.619563673153, 
+      "name": "Rue d'Alvau", 
+      "numOfAddr": 66, 
+      "r": 4.628763782125, 
+      "sanName": "ruedalvau", 
+      "t": 50.63540565888
+    }, 
+    {
+      "b": 50.631060479372, 
+      "l": 4.617904707567, 
+      "name": "Rue de Bayau", 
+      "numOfAddr": 32, 
+      "r": 4.621876837095, 
+      "sanName": "ruedebayau", 
+      "t": 50.631863151099
+    }, 
+    {
+      "b": 50.634792005347, 
+      "l": 4.614968255436, 
+      "name": "Rue de B\u00e9clines", 
+      "numOfAddr": 18, 
+      "r": 4.620134542281, 
+      "sanName": "ruedebclines", 
+      "t": 50.637796200577
+    }, 
+    {
+      "b": 50.630842314133, 
+      "l": 4.61104023861, 
+      "name": "Rue de Bierbais", 
+      "numOfAddr": 7, 
+      "r": 4.616739800623, 
+      "sanName": "ruedebierbais", 
+      "t": 50.633074149625
+    }, 
+    {
+      "b": 50.620600523747, 
+      "l": 4.617801013144, 
+      "name": "Rue de Blanmont", 
+      "numOfAddr": 70, 
+      "r": 4.635718901219, 
+      "sanName": "ruedeblanmont", 
+      "t": 50.622959991131
+    }, 
+    {
+      "b": 50.630680240405, 
+      "l": 4.607193397457, 
+      "name": "Rue de Cogny en Beaujolais", 
+      "numOfAddr": 32, 
+      "r": 4.608818525948, 
+      "sanName": "ruedecognyenbeaujolais", 
+      "t": 50.63203182364
+    }, 
+    {
+      "b": 50.637758028019, 
+      "l": 4.614342576291, 
+      "name": "Rue de Corbais", 
+      "numOfAddr": 95, 
+      "r": 4.645301350773, 
+      "sanName": "ruedecorbais", 
+      "t": 50.644173514005
+    }, 
+    {
+      "b": 50.63060057407, 
+      "l": 4.606365663306, 
+      "name": "Rue de la Blocqui\u00e8re", 
+      "numOfAddr": 20, 
+      "r": 4.608003409383, 
+      "sanName": "ruedelablocquire", 
+      "t": 50.631894883935
+    }, 
+    {
+      "b": 50.63475720163, 
+      "l": 4.62045091587, 
+      "name": "Rue de la Bourlotte", 
+      "numOfAddr": 30, 
+      "r": 4.621905876024, 
+      "sanName": "ruedelabourlotte", 
+      "t": 50.637182568337
+    }, 
+    {
+      "b": 50.635216292355, 
+      "l": 4.612229046791, 
+      "name": "Rue de la Cure", 
+      "numOfAddr": 2, 
+      "r": 4.61262026873, 
+      "sanName": "ruedelacure", 
+      "t": 50.635243401956
+    }, 
+    {
+      "b": 50.647147580902, 
+      "l": 4.658084042425, 
+      "name": "Rue de la D\u00eeme", 
+      "numOfAddr": 7, 
+      "r": 4.6593673402, 
+      "sanName": "ruedeladme", 
+      "t": 50.648191040912
+    }, 
+    {
+      "b": 50.640278186147, 
+      "l": 4.610071899504, 
+      "name": "Rue de la Dodaine", 
+      "numOfAddr": 3, 
+      "r": 4.610385492206, 
+      "sanName": "ruedeladodaine", 
+      "t": 50.64079534351
+    }, 
+    {
+      "b": 50.64508877068, 
+      "l": 4.651005534414, 
+      "name": "Rue de la Forge", 
+      "numOfAddr": 13, 
+      "r": 4.652237224249, 
+      "sanName": "ruedelaforge", 
+      "t": 50.645793644656
+    }, 
+    {
+      "b": 50.634273332487, 
+      "l": 4.611207215358, 
+      "name": "Rue de la Fosse", 
+      "numOfAddr": 74, 
+      "r": 4.618255871993, 
+      "sanName": "ruedelafosse", 
+      "t": 50.635301138342
+    }, 
+    {
+      "b": 50.609019266748, 
+      "l": 4.61073146819, 
+      "name": "Rue de la Houssi\u00e8re", 
+      "numOfAddr": 37, 
+      "r": 4.616224527562, 
+      "sanName": "ruedelahoussire", 
+      "t": 50.621161120561
+    }, 
+    {
+      "b": 50.62208043228, 
+      "l": 4.615290570179, 
+      "name": "Rue de la Montagne", 
+      "numOfAddr": 7, 
+      "r": 4.616205242547, 
+      "sanName": "ruedelamontagne", 
+      "t": 50.622496641045
+    }, 
+    {
+      "b": 50.618181498966, 
+      "l": 4.619922206609, 
+      "name": "Rue de la Pierr\u00e8re", 
+      "numOfAddr": 15, 
+      "r": 4.623559246555, 
+      "sanName": "ruedelapierrre", 
+      "t": 50.62161019404
+    }, 
+    {
+      "b": 50.637550696506, 
+      "l": 4.609444400192, 
+      "name": "Rue de la Poste", 
+      "numOfAddr": 7, 
+      "r": 4.610906362309, 
+      "sanName": "ruedelaposte", 
+      "t": 50.638045554359
+    }, 
+    {
+      "b": 50.648595954195, 
+      "l": 4.661949451632, 
+      "name": "Rue de l'Arbre du Ti\u00e8ge", 
+      "numOfAddr": 2, 
+      "r": 4.662130713901, 
+      "sanName": "ruedelarbredutige", 
+      "t": 50.648910898535
+    }, 
+    {
+      "b": 50.643290231804, 
+      "l": 4.647867481646, 
+      "name": "Rue de la Rose", 
+      "numOfAddr": 20, 
+      "r": 4.65066830403, 
+      "sanName": "ruedelarose", 
+      "t": 50.645063462912
+    }, 
+    {
+      "b": 50.634975727476, 
+      "l": 4.625765847468, 
+      "name": "Rue de la Source", 
+      "numOfAddr": 30, 
+      "r": 4.626891640506, 
+      "sanName": "ruedelasource", 
+      "t": 50.637937898377
+    }, 
+    {
+      "b": 50.636256159279, 
+      "l": 4.611485358997, 
+      "name": "Rue de la Station", 
+      "numOfAddr": 23, 
+      "r": 4.614819383749, 
+      "sanName": "ruedelastation", 
+      "t": 50.637954649
+    }, 
+    {
+      "b": 50.64280296468, 
+      "l": 4.648647998622, 
+      "name": "Rue de la Tannerie", 
+      "numOfAddr": 4, 
+      "r": 4.648951914431, 
+      "sanName": "ruedelatannerie", 
+      "t": 50.643129832855
+    }, 
+    {
+      "b": 50.646360134888, 
+      "l": 4.648389569917, 
+      "name": "Rue de l'Atomium", 
+      "numOfAddr": 7, 
+      "r": 4.649373234219, 
+      "sanName": "ruedelatomium", 
+      "t": 50.646972047828
+    }, 
+    {
+      "b": 50.645942876346, 
+      "l": 4.653471989245, 
+      "name": "Rue de la Tour", 
+      "numOfAddr": 20, 
+      "r": 4.654964287289, 
+      "sanName": "ruedelatour", 
+      "t": 50.647232813651
+    }, 
+    {
+      "b": 50.644000855621, 
+      "l": 4.654010431333, 
+      "name": "Rue de l'Eglise", 
+      "numOfAddr": 21, 
+      "r": 4.656667063716, 
+      "sanName": "ruedeleglise", 
+      "t": 50.645827286676
+    }, 
+    {
+      "b": 50.635353640971, 
+      "l": 4.612345506314, 
+      "name": "Rue del Gatte", 
+      "numOfAddr": 5, 
+      "r": 4.613383178064, 
+      "sanName": "ruedelgatte", 
+      "t": 50.635541233288
+    }, 
+    {
+      "b": 50.634187000125, 
+      "l": 4.613313579329, 
+      "name": "Rue de l'Orne", 
+      "numOfAddr": 45, 
+      "r": 4.617727627745, 
+      "sanName": "ruedelorne", 
+      "t": 50.634602004295
+    }, 
+    {
+      "b": 50.630911200164, 
+      "l": 4.605258941482, 
+      "name": "Rue de l'Ornoy", 
+      "numOfAddr": 30, 
+      "r": 4.60801796728, 
+      "sanName": "ruedelornoy", 
+      "t": 50.633549948211
+    }, 
+    {
+      "b": 50.637181647258, 
+      "l": 4.606402573552, 
+      "name": "Rue Demi-Lune", 
+      "numOfAddr": 40, 
+      "r": 4.609388243941, 
+      "sanName": "ruedemilune", 
+      "t": 50.639389495416
+    }, 
+    {
+      "b": 50.657690126498, 
+      "l": 4.604037398484, 
+      "name": "Rue de Namur", 
+      "numOfAddr": 15, 
+      "r": 4.612799349415, 
+      "sanName": "ruedenamur", 
+      "t": 50.658435562561
+    }, 
+    {
+      "b": 50.630923548019, 
+      "l": 4.618858817367, 
+      "name": "Rue de Nil", 
+      "numOfAddr": 51, 
+      "r": 4.631237682735, 
+      "sanName": "ruedenil", 
+      "t": 50.63321183219
+    }, 
+    {
+      "b": 50.630130364961, 
+      "l": 4.605080742829, 
+      "name": "Rue de Nivelles", 
+      "numOfAddr": 16, 
+      "r": 4.609872086819, 
+      "sanName": "ruedenivelles", 
+      "t": 50.631046643901
+    }, 
+    {
+      "b": 50.657842227787, 
+      "l": 4.608652973909, 
+      "name": "Rue de Profondval", 
+      "numOfAddr": 1, 
+      "r": 4.608652973909, 
+      "sanName": "ruedeprofondval", 
+      "t": 50.657842227787
+    }, 
+    {
+      "b": 50.644874588579, 
+      "l": 4.608060340397, 
+      "name": "Rue des Acacias", 
+      "numOfAddr": 22, 
+      "r": 4.609659209261, 
+      "sanName": "ruedesacacias", 
+      "t": 50.646596550172
+    }, 
+    {
+      "b": 50.636515357762, 
+      "l": 4.622348309521, 
+      "name": "Rue des Aulnes", 
+      "numOfAddr": 42, 
+      "r": 4.625636727416, 
+      "sanName": "ruedesaulnes", 
+      "t": 50.63911315118
+    }, 
+    {
+      "b": 50.653218738514, 
+      "l": 4.594565860171, 
+      "name": "Rue des Bruy\u00e8res", 
+      "numOfAddr": 27, 
+      "r": 4.602997556132, 
+      "sanName": "ruedesbruyres", 
+      "t": 50.657470726543
+    }, 
+    {
+      "b": 50.636778472514, 
+      "l": 4.609130205683, 
+      "name": "Rue des Ecoles", 
+      "numOfAddr": 20, 
+      "r": 4.610140898498, 
+      "sanName": "ruedesecoles", 
+      "t": 50.639156014569
+    }, 
+    {
+      "b": 50.633669122349, 
+      "l": 4.60085994512, 
+      "name": "Rue des Hayeffes", 
+      "numOfAddr": 28, 
+      "r": 4.610011849454, 
+      "sanName": "ruedeshayeffes", 
+      "t": 50.639137565452
+    }, 
+    {
+      "b": 50.645285417459, 
+      "l": 4.652644566894, 
+      "name": "Rue des Hirondelles", 
+      "numOfAddr": 13, 
+      "r": 4.653935827278, 
+      "sanName": "ruedeshirondelles", 
+      "t": 50.646769850271
+    }, 
+    {
+      "b": 50.646756112328, 
+      "l": 4.655632766853, 
+      "name": "Rue des Pr\u00e9s", 
+      "numOfAddr": 16, 
+      "r": 4.657601306446, 
+      "sanName": "ruedesprs", 
+      "t": 50.647965665271
+    }, 
+    {
+      "b": 50.640922390427, 
+      "l": 4.603966158147, 
+      "name": "Rue des Sabli\u00e8res", 
+      "numOfAddr": 20, 
+      "r": 4.610085118781, 
+      "sanName": "ruedessablires", 
+      "t": 50.647898904306
+    }, 
+    {
+      "b": 50.621453131134, 
+      "l": 4.616122139871, 
+      "name": "Rue des Tilleuls", 
+      "numOfAddr": 106, 
+      "r": 4.618549125686, 
+      "sanName": "ruedestilleuls", 
+      "t": 50.634044276155
+    }, 
+    {
+      "b": 50.641362103756, 
+      "l": 4.610259933926, 
+      "name": "Rue des Trois Burettes", 
+      "numOfAddr": 54, 
+      "r": 4.619373804981, 
+      "sanName": "ruedestroisburettes", 
+      "t": 50.649680570814
+    }, 
+    {
+      "b": 50.635302981052, 
+      "l": 4.602473552686, 
+      "name": "Rue des Vignes", 
+      "numOfAddr": 67, 
+      "r": 4.609951372567, 
+      "sanName": "ruedesvignes", 
+      "t": 50.643136726291
+    }, 
+    {
+      "b": 50.648161350248, 
+      "l": 4.649853106567, 
+      "name": "Rue du Baty", 
+      "numOfAddr": 15, 
+      "r": 4.651662588936, 
+      "sanName": "ruedubaty", 
+      "t": 50.649868132046
+    }, 
+    {
+      "b": 50.653927591098, 
+      "l": 4.593340121155, 
+      "name": "Rue du Bois des R\u00eaves", 
+      "numOfAddr": 1, 
+      "r": 4.593340121155, 
+      "sanName": "rueduboisdesrves", 
+      "t": 50.653927591098
+    }, 
+    {
+      "b": 50.659345155567, 
+      "l": 4.626467501581, 
+      "name": "Rue du Bosquet", 
+      "numOfAddr": 6, 
+      "r": 4.630387075529, 
+      "sanName": "ruedubosquet", 
+      "t": 50.661433666803
+    }, 
+    {
+      "b": 50.64083329955, 
+      "l": 4.618263958331, 
+      "name": "Rue du Cerisier", 
+      "numOfAddr": 7, 
+      "r": 4.619220035173, 
+      "sanName": "rueducerisier", 
+      "t": 50.641798328414
+    }, 
+    {
+      "b": 50.620453892021, 
+      "l": 4.608218977494, 
+      "name": "Rue du Chenoy", 
+      "numOfAddr": 21, 
+      "r": 4.616165565715, 
+      "sanName": "rueduchenoy", 
+      "t": 50.62173148863
+    }, 
+    {
+      "b": 50.618725778439, 
+      "l": 4.615218386441, 
+      "name": "Rue du Colombier", 
+      "numOfAddr": 14, 
+      "r": 4.618172484753, 
+      "sanName": "rueducolombier", 
+      "t": 50.619209109142
+    }, 
+    {
+      "b": 50.622194355405, 
+      "l": 4.610493162216, 
+      "name": "Rue du Culot", 
+      "numOfAddr": 40, 
+      "r": 4.614976195704, 
+      "sanName": "rueduculot", 
+      "t": 50.630159670315
+    }, 
+    {
+      "b": 50.620916110834, 
+      "l": 4.625343554403, 
+      "name": "Rue du Fond des Roux", 
+      "numOfAddr": 1, 
+      "r": 4.625343554403, 
+      "sanName": "ruedufonddesroux", 
+      "t": 50.620916110834
+    }, 
+    {
+      "b": 50.647830623432, 
+      "l": 4.660926739612, 
+      "name": "Rue du Linchet", 
+      "numOfAddr": 15, 
+      "r": 4.661953865062, 
+      "sanName": "ruedulinchet", 
+      "t": 50.64964773799
+    }, 
+    {
+      "b": 50.654577335234, 
+      "l": 4.593963111428, 
+      "name": "Rue du Morimont", 
+      "numOfAddr": 3, 
+      "r": 4.595807314771, 
+      "sanName": "ruedumorimont", 
+      "t": 50.655310586184
+    }, 
+    {
+      "b": 50.625557776366, 
+      "l": 4.631530782065, 
+      "name": "Rue du Moulin Al'Poudre", 
+      "numOfAddr": 1, 
+      "r": 4.631530782065, 
+      "sanName": "ruedumoulinalpoudre", 
+      "t": 50.625557776366
+    }, 
+    {
+      "b": 50.643243066411, 
+      "l": 4.652001295247, 
+      "name": "Rue du Pavillon", 
+      "numOfAddr": 6, 
+      "r": 4.652938808647, 
+      "sanName": "ruedupavillon", 
+      "t": 50.643592964822
+    }, 
+    {
+      "b": 50.621549008128, 
+      "l": 4.608948428782, 
+      "name": "Rue du Perriqui", 
+      "numOfAddr": 8, 
+      "r": 4.61092784123, 
+      "sanName": "rueduperriqui", 
+      "t": 50.62170143783
+    }, 
+    {
+      "b": 50.643860092268, 
+      "l": 4.639314690653, 
+      "name": "Rue du Petit Baty", 
+      "numOfAddr": 12, 
+      "r": 4.64342660659, 
+      "sanName": "ruedupetitbaty", 
+      "t": 50.644401901792
+    }, 
+    {
+      "b": 50.6305277868, 
+      "l": 4.610231682502, 
+      "name": "Rue du Riquau", 
+      "numOfAddr": 7, 
+      "r": 4.611300471401, 
+      "sanName": "rueduriquau", 
+      "t": 50.632820374229
+    }, 
+    {
+      "b": 50.654294135402, 
+      "l": 4.600499768833, 
+      "name": "Rue du Ruisseau", 
+      "numOfAddr": 7, 
+      "r": 4.604003984363, 
+      "sanName": "rueduruisseau", 
+      "t": 50.657466429796
+    }, 
+    {
+      "b": 50.660177465937, 
+      "l": 4.638434670125, 
+      "name": "Rue Fonds Jean P\u00e2ques", 
+      "numOfAddr": 1, 
+      "r": 4.638434670125, 
+      "sanName": "ruefondsjeanpques", 
+      "t": 50.660177465937
+    }, 
+    {
+      "b": 50.637489805835, 
+      "l": 4.621665593959, 
+      "name": "Rue Fontaine aux Corbeaux", 
+      "numOfAddr": 22, 
+      "r": 4.626339368257, 
+      "sanName": "ruefontaineauxcorbeaux", 
+      "t": 50.641166368159
+    }, 
+    {
+      "b": 50.644035950917, 
+      "l": 4.655988297067, 
+      "name": "Rue Gall\u00e9e", 
+      "numOfAddr": 1, 
+      "r": 4.655988297067, 
+      "sanName": "ruegalle", 
+      "t": 50.644035950917
+    }, 
+    {
+      "b": 50.643695209469, 
+      "l": 4.649111553883, 
+      "name": "Rue Godeau", 
+      "numOfAddr": 20, 
+      "r": 4.651037347737, 
+      "sanName": "ruegodeau", 
+      "t": 50.64548668478
+    }, 
+    {
+      "b": 50.661119484521, 
+      "l": 4.641878272683, 
+      "name": "Rue Granbonpr\u00e9", 
+      "numOfAddr": 1, 
+      "r": 4.641878272683, 
+      "sanName": "ruegranbonpr", 
+      "t": 50.661119484521
+    }, 
+    {
+      "b": 50.644840749044, 
+      "l": 4.645956424862, 
+      "name": "Rue Haute", 
+      "numOfAddr": 78, 
+      "r": 4.663605524155, 
+      "sanName": "ruehaute", 
+      "t": 50.651276792679
+    }, 
+    {
+      "b": 50.659436986832, 
+      "l": 4.621669476839, 
+      "name": "Rue Ilya Prigogine", 
+      "numOfAddr": 1, 
+      "r": 4.621669476839, 
+      "sanName": "rueilyaprigogine", 
+      "t": 50.659436986832
+    }, 
+    {
+      "b": 50.635014950757, 
+      "l": 4.623471153102, 
+      "name": "Rue Jean Moisse", 
+      "numOfAddr": 33, 
+      "r": 4.625787878123, 
+      "sanName": "ruejeanmoisse", 
+      "t": 50.637369571447
+    }, 
+    {
+      "b": 50.636639022369, 
+      "l": 4.625450104843, 
+      "name": "Ruelle des Collines", 
+      "numOfAddr": 3, 
+      "r": 4.626154157572, 
+      "sanName": "ruelledescollines", 
+      "t": 50.636843363086
+    }, 
+    {
+      "b": 50.64648089308, 
+      "l": 4.648981448182, 
+      "name": "Rue Marcq", 
+      "numOfAddr": 8, 
+      "r": 4.650189801882, 
+      "sanName": "ruemarcq", 
+      "t": 50.647480208587
+    }, 
+    {
+      "b": 50.640214383105, 
+      "l": 4.649448734592, 
+      "name": "Rue Margot", 
+      "numOfAddr": 19, 
+      "r": 4.652439342648, 
+      "sanName": "ruemargot", 
+      "t": 50.642715418991
+    }, 
+    {
+      "b": 50.63523264841, 
+      "l": 4.610419191984, 
+      "name": "Rue Musette", 
+      "numOfAddr": 14, 
+      "r": 4.611239964078, 
+      "sanName": "ruemusette", 
+      "t": 50.636109178475
+    }, 
+    {
+      "b": 50.64041911518, 
+      "l": 4.611822949297, 
+      "name": "Rue Pol Burniat", 
+      "numOfAddr": 71, 
+      "r": 4.613712259019, 
+      "sanName": "ruepolburniat", 
+      "t": 50.642815034552
+    }, 
+    {
+      "b": 50.638054695612, 
+      "l": 4.611146478974, 
+      "name": "Rue Saint-Jean", 
+      "numOfAddr": 33, 
+      "r": 4.614545331769, 
+      "sanName": "ruesaintjean", 
+      "t": 50.640315336797
+    }, 
+    {
+      "b": 50.643174681449, 
+      "l": 4.647688155268, 
+      "name": "Rue Thomas", 
+      "numOfAddr": 12, 
+      "r": 4.649297966009, 
+      "sanName": "ruethomas", 
+      "t": 50.643882026273
+    }, 
+    {
+      "b": 50.642878184446, 
+      "l": 4.649365998565, 
+      "name": "Rue Warichet", 
+      "numOfAddr": 25, 
+      "r": 4.655024231876, 
+      "sanName": "ruewarichet", 
+      "t": 50.645792002331
+    }, 
+    {
+      "b": 50.621667358025, 
+      "l": 4.611176440717, 
+      "name": "Tour d'Olga", 
+      "numOfAddr": 11, 
+      "r": 4.61377780345, 
+      "sanName": "tourdolga", 
+      "t": 50.622291974357
+    }
+  ]
+}

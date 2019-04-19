@@ -379,7 +379,7 @@ for pcode in sorted(hier_addr_dic.keys()):
         if not os.path.exists(directory): os.makedirs(directory)
 
         with io.open(directory + streetInfo['sanName'] + ".json", 'w') as json_file:
-            print(*address_list, sep = ", ") 
+            #print(*address_list, sep = ", ") 
             json.dump({'addresses': address_list}, json_file, indent = 2, sort_keys=True)
 
         pcodeJson["streets"].append(streetInfo)

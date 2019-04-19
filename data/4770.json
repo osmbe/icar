@@ -1,22 +1,1894 @@
 {
   "streets": [
     {
-      "b": 50.363922193624, 
-      "l": 6.134884517773, 
-      "name": "Barbarastra\u00dfe", 
+      "b": 50.358333420219, 
+      "l": 6.207789399687, 
+      "name": "Allerbach", 
       "numOfAddr": 1, 
-      "r": 6.134884517773, 
-      "sanName": "barbarastrae", 
-      "t": 50.363922193624
+      "r": 6.207789399687, 
+      "sanName": "allerbach", 
+      "t": 50.358333420219
     }, 
     {
-      "b": 50.362549648018, 
-      "l": 6.139602560104, 
-      "name": "Im Uhrenfeld", 
+      "b": 50.354844990738, 
+      "l": 6.171275248363, 
+      "name": "Alte Hofstra\u00dfe", 
+      "numOfAddr": 49, 
+      "r": 6.178250325813, 
+      "sanName": "altehofstrae", 
+      "t": 50.361733594309
+    }, 
+    {
+      "b": 50.326627890493, 
+      "l": 6.174764966962, 
+      "name": "Alter R\u00f6merweg", 
+      "numOfAddr": 7, 
+      "r": 6.180265988255, 
+      "sanName": "alterrmerweg", 
+      "t": 50.333554130386
+    }, 
+    {
+      "b": 50.359934327397, 
+      "l": 6.117897930622, 
+      "name": "Alter Staveloter Weg", 
       "numOfAddr": 1, 
+      "r": 6.117897930622, 
+      "sanName": "alterstaveloterweg", 
+      "t": 50.359934327397
+    }, 
+    {
+      "b": 50.337455577304, 
+      "l": 6.166555723954, 
+      "name": "Am Adesberg", 
+      "numOfAddr": 28, 
+      "r": 6.170872063094, 
+      "sanName": "amadesberg", 
+      "t": 50.347083672577
+    }, 
+    {
+      "b": 50.359024311007, 
+      "l": 6.213886221386, 
+      "name": "Am Allerberg", 
+      "numOfAddr": 29, 
+      "r": 6.217688375014, 
+      "sanName": "amallerberg", 
+      "t": 50.361793720098
+    }, 
+    {
+      "b": 50.35398656937, 
+      "l": 6.123437241501, 
+      "name": "Am Bahnhof", 
+      "numOfAddr": 19, 
+      "r": 6.12610337083, 
+      "sanName": "ambahnhof", 
+      "t": 50.35799952816
+    }, 
+    {
+      "b": 50.390384094836, 
+      "l": 6.179095578884, 
+      "name": "Am Brunnen", 
+      "numOfAddr": 3, 
+      "r": 6.179132292706, 
+      "sanName": "ambrunnen", 
+      "t": 50.390668712559
+    }, 
+    {
+      "b": 50.329210586642, 
+      "l": 6.188616432633, 
+      "name": "Am H\u00fcjst", 
+      "numOfAddr": 12, 
+      "r": 6.189968389148, 
+      "sanName": "amhjst", 
+      "t": 50.33478952888
+    }, 
+    {
+      "b": 50.370982580449, 
+      "l": 6.137000092342, 
+      "name": "Am Kreuz", 
+      "numOfAddr": 11, 
+      "r": 6.139664848164, 
+      "sanName": "amkreuz", 
+      "t": 50.372551132269
+    }, 
+    {
+      "b": 50.35768341941, 
+      "l": 6.121720949543, 
+      "name": "Am M\u00fchlstein", 
+      "numOfAddr": 4, 
+      "r": 6.122473480553, 
+      "sanName": "ammhlstein", 
+      "t": 50.358370281452
+    }, 
+    {
+      "b": 50.318229205631, 
+      "l": 6.167003210363, 
+      "name": "Am P\u00e4sch", 
+      "numOfAddr": 6, 
+      "r": 6.16947920597, 
+      "sanName": "ampsch", 
+      "t": 50.31992790124
+    }, 
+    {
+      "b": 50.364475201998, 
+      "l": 6.137135431793, 
+      "name": "Amselweg", 
+      "numOfAddr": 1, 
+      "r": 6.137135431793, 
+      "sanName": "amselweg", 
+      "t": 50.364475201998
+    }, 
+    {
+      "b": 50.388123472044, 
+      "l": 6.177941640656, 
+      "name": "Am Sidders", 
+      "numOfAddr": 9, 
+      "r": 6.180239930075, 
+      "sanName": "amsidders", 
+      "t": 50.391222828904
+    }, 
+    {
+      "b": 50.348320887339, 
+      "l": 6.135714566093, 
+      "name": "Am Spielplatz", 
+      "numOfAddr": 5, 
+      "r": 6.138082712191, 
+      "sanName": "amspielplatz", 
+      "t": 50.348865015362
+    }, 
+    {
+      "b": 50.344848006031, 
+      "l": 6.118308123848, 
+      "name": "Am Stein", 
+      "numOfAddr": 49, 
+      "r": 6.138041618404, 
+      "sanName": "amstein", 
+      "t": 50.349251506935
+    }, 
+    {
+      "b": 50.32621771232, 
+      "l": 6.188729994676, 
+      "name": "Am Steinbruch", 
+      "numOfAddr": 3, 
+      "r": 6.188758468667, 
+      "sanName": "amsteinbruch", 
+      "t": 50.326609010317
+    }, 
+    {
+      "b": 50.316157554461, 
+      "l": 6.253665490117, 
+      "name": "Am Wasen", 
+      "numOfAddr": 1, 
+      "r": 6.253665490117, 
+      "sanName": "amwasen", 
+      "t": 50.316157554461
+    }, 
+    {
+      "b": 50.392033957208, 
+      "l": 6.171640718734, 
+      "name": "Am Werels", 
+      "numOfAddr": 1, 
+      "r": 6.171640718734, 
+      "sanName": "amwerels", 
+      "t": 50.392033957208
+    }, 
+    {
+      "b": 50.301681929601, 
+      "l": 6.143529175059, 
+      "name": "Am Wiesengrund", 
+      "numOfAddr": 9, 
+      "r": 6.149055490092, 
+      "sanName": "amwiesengrund", 
+      "t": 50.306528725697
+    }, 
+    {
+      "b": 50.352439829623, 
+      "l": 6.114782885533, 
+      "name": "Am Wolfsbusch", 
+      "numOfAddr": 45, 
+      "r": 6.119472822885, 
+      "sanName": "amwolfsbusch", 
+      "t": 50.361968087972
+    }, 
+    {
+      "b": 50.36167802274, 
+      "l": 6.216210962106, 
+      "name": "An Br\u00fchl", 
+      "numOfAddr": 3, 
+      "r": 6.216839494418, 
+      "sanName": "anbrhl", 
+      "t": 50.361956727466
+    }, 
+    {
+      "b": 50.349299143699, 
+      "l": 6.171192320618, 
+      "name": "An de Bareer", 
+      "numOfAddr": 18, 
+      "r": 6.173532917768, 
+      "sanName": "andebareer", 
+      "t": 50.351018035984
+    }, 
+    {
+      "b": 50.350663135958, 
+      "l": 6.174682158939, 
+      "name": "An der Alten M\u00fchle", 
+      "numOfAddr": 5, 
+      "r": 6.175819080404, 
+      "sanName": "anderaltenmhle", 
+      "t": 50.352804141119
+    }, 
+    {
+      "b": 50.318935868489, 
+      "l": 6.171730190764, 
+      "name": "An der Boels", 
+      "numOfAddr": 4, 
+      "r": 6.172360965207, 
+      "sanName": "anderboels", 
+      "t": 50.319686426099
+    }, 
+    {
+      "b": 50.356135649862, 
+      "l": 6.138495729578, 
+      "name": "An der Lonn", 
+      "numOfAddr": 4, 
+      "r": 6.140013536969, 
+      "sanName": "anderlonn", 
+      "t": 50.358882551043
+    }, 
+    {
+      "b": 50.361506283917, 
+      "l": 6.134717529262, 
+      "name": "An Ennen", 
+      "numOfAddr": 7, 
+      "r": 6.138206154309, 
+      "sanName": "anennen", 
+      "t": 50.362300355419
+    }, 
+    {
+      "b": 50.39253393947, 
+      "l": 6.160142738996, 
+      "name": "Au\u00dfenborner Weg", 
+      "numOfAddr": 3, 
+      "r": 6.161614496715, 
+      "sanName": "auenbornerweg", 
+      "t": 50.393141685721
+    }, 
+    {
+      "b": 50.331129055157, 
+      "l": 6.124963290651, 
+      "name": "Auendell", 
+      "numOfAddr": 3, 
+      "r": 6.125507679965, 
+      "sanName": "auendell", 
+      "t": 50.331455825231
+    }, 
+    {
+      "b": 50.350712724369, 
+      "l": 6.120307153552, 
+      "name": "Auf dem H\u00f6chst", 
+      "numOfAddr": 16, 
+      "r": 6.124048289982, 
+      "sanName": "aufdemhchst", 
+      "t": 50.355235528349
+    }, 
+    {
+      "b": 50.319407469939, 
+      "l": 6.254900195539, 
+      "name": "Auf dem H\u00fcgel", 
+      "numOfAddr": 5, 
+      "r": 6.255979108734, 
+      "sanName": "aufdemhgel", 
+      "t": 50.320026610834
+    }, 
+    {
+      "b": 50.355899959724, 
+      "l": 6.218916043618, 
+      "name": "Auf dem H\u00fctel", 
+      "numOfAddr": 23, 
+      "r": 6.22563108677, 
+      "sanName": "aufdemhtel", 
+      "t": 50.359837589802
+    }, 
+    {
+      "b": 50.361484264352, 
+      "l": 6.128173396567, 
+      "name": "Auf dem Joch", 
+      "numOfAddr": 9, 
+      "r": 6.129548030648, 
+      "sanName": "aufdemjoch", 
+      "t": 50.363857411882
+    }, 
+    {
+      "b": 50.349730097984, 
+      "l": 6.168885445203, 
+      "name": "Auf dem Kamp", 
+      "numOfAddr": 45, 
+      "r": 6.173072483835, 
+      "sanName": "aufdemkamp", 
+      "t": 50.354157134512
+    }, 
+    {
+      "b": 50.316796143282, 
+      "l": 6.253003474814, 
+      "name": "Auf dem Land", 
+      "numOfAddr": 5, 
+      "r": 6.253819382216, 
+      "sanName": "aufdemland", 
+      "t": 50.317401950317
+    }, 
+    {
+      "b": 50.350706936518, 
+      "l": 6.140345224152, 
+      "name": "Auf der Hall", 
+      "numOfAddr": 10, 
+      "r": 6.143022935535, 
+      "sanName": "aufderhall", 
+      "t": 50.353473396031
+    }, 
+    {
+      "b": 50.32331190578, 
+      "l": 6.145088643123, 
+      "name": "Auf der Leu", 
+      "numOfAddr": 1, 
+      "r": 6.145088643123, 
+      "sanName": "aufderleu", 
+      "t": 50.32331190578
+    }, 
+    {
+      "b": 50.34197208707, 
+      "l": 6.171472567899, 
+      "name": "Auf Eichenhardt", 
+      "numOfAddr": 24, 
+      "r": 6.184195408978, 
+      "sanName": "aufeichenhardt", 
+      "t": 50.348878817569
+    }, 
+    {
+      "b": 50.356593050551, 
+      "l": 6.19349034859, 
+      "name": "Auf Geckert", 
+      "numOfAddr": 4, 
+      "r": 6.194331681254, 
+      "sanName": "aufgeckert", 
+      "t": 50.357838437736
+    }, 
+    {
+      "b": 50.317354301659, 
+      "l": 6.263583138541, 
+      "name": "Auf Hoch", 
+      "numOfAddr": 13, 
+      "r": 6.266934967514, 
+      "sanName": "aufhoch", 
+      "t": 50.320208042234
+    }, 
+    {
+      "b": 50.35602872017, 
+      "l": 6.16696389936, 
+      "name": "Auf Kahlert", 
+      "numOfAddr": 15, 
+      "r": 6.170452308786, 
+      "sanName": "aufkahlert", 
+      "t": 50.35881057413
+    }, 
+    {
+      "b": 50.361230376889, 
+      "l": 6.12871964132, 
+      "name": "Barbarastra\u00dfe", 
+      "numOfAddr": 54, 
+      "r": 6.138562008858, 
+      "sanName": "barbarastrae", 
+      "t": 50.370329111237
+    }, 
+    {
+      "b": 50.317443917907, 
+      "l": 6.259388273509, 
+      "name": "Beim Giertengarten", 
+      "numOfAddr": 3, 
+      "r": 6.259888735414, 
+      "sanName": "beimgiertengarten", 
+      "t": 50.318262281201
+    }, 
+    {
+      "b": 50.343047618054, 
+      "l": 6.132355483545, 
+      "name": "Bergstra\u00dfe", 
+      "numOfAddr": 34, 
+      "r": 6.140332685455, 
+      "sanName": "bergstrae", 
+      "t": 50.348691968597
+    }, 
+    {
+      "b": 50.360779211447, 
+      "l": 6.154643979768, 
+      "name": "Bermesgasse", 
+      "numOfAddr": 4, 
+      "r": 6.156215880817, 
+      "sanName": "bermesgasse", 
+      "t": 50.361146162642
+    }, 
+    {
+      "b": 50.351954521502, 
+      "l": 6.16920993022, 
+      "name": "Birkenweg", 
+      "numOfAddr": 2, 
+      "r": 6.169536737161, 
+      "sanName": "birkenweg", 
+      "t": 50.351986016696
+    }, 
+    {
+      "b": 50.349918213366, 
+      "l": 6.173739171982, 
+      "name": "B\u00fcllinger Stra\u00dfe", 
+      "numOfAddr": 62, 
+      "r": 6.193463781814, 
+      "sanName": "bllingerstrae", 
+      "t": 50.362691351915
+    }, 
+    {
+      "b": 50.329835582391, 
+      "l": 6.111712888081, 
+      "name": "Bouvisgasse", 
+      "numOfAddr": 4, 
+      "r": 6.113158740535, 
+      "sanName": "bouvisgasse", 
+      "t": 50.330203106078
+    }, 
+    {
+      "b": 50.356347207902, 
+      "l": 6.119893607251, 
+      "name": "Br\u00f6hlgasse", 
+      "numOfAddr": 5, 
+      "r": 6.123176964175, 
+      "sanName": "brhlgasse", 
+      "t": 50.357068338441
+    }, 
+    {
+      "b": 50.379543991897, 
+      "l": 6.192550945067, 
+      "name": "Brigittastra\u00dfe", 
+      "numOfAddr": 7, 
+      "r": 6.194080739131, 
+      "sanName": "brigittastrae", 
+      "t": 50.382317939525
+    }, 
+    {
+      "b": 50.380979731566, 
+      "l": 6.194599781982, 
+      "name": "Brunnenstra\u00dfe", 
+      "numOfAddr": 13, 
+      "r": 6.198238372843, 
+      "sanName": "brunnenstrae", 
+      "t": 50.383071036048
+    }, 
+    {
+      "b": 50.319461872297, 
+      "l": 6.151225598514, 
+      "name": "Buchengasse", 
+      "numOfAddr": 3, 
+      "r": 6.152004163594, 
+      "sanName": "buchengasse", 
+      "t": 50.31989694655
+    }, 
+    {
+      "b": 50.358684669374, 
+      "l": 6.150758420931, 
+      "name": "Buchenweg", 
+      "numOfAddr": 27, 
+      "r": 6.15959498833, 
+      "sanName": "buchenweg", 
+      "t": 50.361595156159
+    }, 
+    {
+      "b": 50.336014993837, 
+      "l": 6.118976574692, 
+      "name": "Burgstra\u00dfe", 
+      "numOfAddr": 17, 
+      "r": 6.122968468433, 
+      "sanName": "burgstrae", 
+      "t": 50.339053064438
+    }, 
+    {
+      "b": 50.319754262669, 
+      "l": 6.249586582291, 
+      "name": "Buschweg", 
+      "numOfAddr": 8, 
+      "r": 6.252198836499, 
+      "sanName": "buschweg", 
+      "t": 50.321060670258
+    }, 
+    {
+      "b": 50.381017337297, 
+      "l": 6.125194449383, 
+      "name": "Croix des Sarts", 
+      "numOfAddr": 2, 
+      "r": 6.125531871951, 
+      "sanName": "croixdessarts", 
+      "t": 50.381398708712
+    }, 
+    {
+      "b": 50.334034307945, 
+      "l": 6.122555826774, 
+      "name": "Dederesgasse", 
+      "numOfAddr": 3, 
+      "r": 6.123025449807, 
+      "sanName": "dederesgasse", 
+      "t": 50.334367390504
+    }, 
+    {
+      "b": 50.32907337942, 
+      "l": 6.121335650579, 
+      "name": "Dellenstra\u00dfe", 
+      "numOfAddr": 15, 
+      "r": 6.125086243795, 
+      "sanName": "dellenstrae", 
+      "t": 50.333589242849
+    }, 
+    {
+      "b": 50.318788941978, 
+      "l": 6.152472928173, 
+      "name": "Deller Weg", 
+      "numOfAddr": 57, 
+      "r": 6.178218384403, 
+      "sanName": "dellerweg", 
+      "t": 50.322633620389
+    }, 
+    {
+      "b": 50.315505361054, 
+      "l": 6.168825735737, 
+      "name": "Depertzberg", 
+      "numOfAddr": 19, 
+      "r": 6.17168828826, 
+      "sanName": "depertzberg", 
+      "t": 50.318812813635
+    }, 
+    {
+      "b": 50.330960533607, 
+      "l": 6.186170048528, 
+      "name": "Dillenheide", 
+      "numOfAddr": 7, 
+      "r": 6.188648971061, 
+      "sanName": "dillenheide", 
+      "t": 50.331772982992
+    }, 
+    {
+      "b": 50.361163441058, 
+      "l": 6.139516359216, 
+      "name": "Dreesweg", 
+      "numOfAddr": 4, 
+      "r": 6.141699416928, 
+      "sanName": "dreesweg", 
+      "t": 50.361660845353
+    }, 
+    {
+      "b": 50.318294674354, 
+      "l": 6.254383466172, 
+      "name": "Dr\u00f6mmerpfad", 
+      "numOfAddr": 2, 
+      "r": 6.254627276681, 
+      "sanName": "drmmerpfad", 
+      "t": 50.318473371397
+    }, 
+    {
+      "b": 50.348110110694, 
+      "l": 6.170531137637, 
+      "name": "Engelbr\u00fccke", 
+      "numOfAddr": 5, 
+      "r": 6.171239476294, 
+      "sanName": "engelbrcke", 
+      "t": 50.349322762638
+    }, 
+    {
+      "b": 50.339916529845, 
+      "l": 6.073915810792, 
+      "name": "Engelsdorfer Stra\u00dfe", 
+      "numOfAddr": 3, 
+      "r": 6.081288477796, 
+      "sanName": "engelsdorferstrae", 
+      "t": 50.347609573728
+    }, 
+    {
+      "b": 50.387941383897, 
+      "l": 6.17391655247, 
+      "name": "Enger Weg", 
+      "numOfAddr": 9, 
+      "r": 6.176713251543, 
+      "sanName": "engerweg", 
+      "t": 50.391933222462
+    }, 
+    {
+      "b": 50.330250774688, 
+      "l": 6.111973112923, 
+      "name": "Gartenstra\u00dfe", 
+      "numOfAddr": 8, 
+      "r": 6.11363579406, 
+      "sanName": "gartenstrae", 
+      "t": 50.332059091734
+    }, 
+    {
+      "b": 50.329075763968, 
+      "l": 6.186699984251, 
+      "name": "Grievengasse", 
+      "numOfAddr": 2, 
+      "r": 6.187141068899, 
+      "sanName": "grievengasse", 
+      "t": 50.329297208817
+    }, 
+    {
+      "b": 50.388967100004, 
+      "l": 6.170052911817, 
+      "name": "Hallbach", 
+      "numOfAddr": 11, 
+      "r": 6.174225043563, 
+      "sanName": "hallbach", 
+      "t": 50.390668429224
+    }, 
+    {
+      "b": 50.389104436603, 
+      "l": 6.177538813454, 
+      "name": "Hansen H\u00fcll", 
+      "numOfAddr": 13, 
+      "r": 6.178921848595, 
+      "sanName": "hansenhll", 
+      "t": 50.390360659669
+    }, 
+    {
+      "b": 50.357278371629, 
+      "l": 6.215182125788, 
+      "name": "Hansgasse", 
+      "numOfAddr": 3, 
+      "r": 6.216692187835, 
+      "sanName": "hansgasse", 
+      "t": 50.358058910441
+    }, 
+    {
+      "b": 50.334343784074, 
+      "l": 6.124375506642, 
+      "name": "Hardtweg", 
+      "numOfAddr": 8, 
+      "r": 6.126277081869, 
+      "sanName": "hardtweg", 
+      "t": 50.335682570726
+    }, 
+    {
+      "b": 50.34172179799, 
+      "l": 6.234948330514, 
+      "name": "Hauptstra\u00dfe", 
+      "numOfAddr": 18, 
+      "r": 6.243401013933, 
+      "sanName": "hauptstrae", 
+      "t": 50.346436619744
+    }, 
+    {
+      "b": 50.392512525393, 
+      "l": 6.174380495951, 
+      "name": "Hautenborn", 
+      "numOfAddr": 7, 
+      "r": 6.175424956154, 
+      "sanName": "hautenborn", 
+      "t": 50.394647621613
+    }, 
+    {
+      "b": 50.351611787237, 
+      "l": 6.199843574882, 
+      "name": "Heerstra\u00dfe", 
+      "numOfAddr": 3, 
+      "r": 6.201631401712, 
+      "sanName": "heerstrae", 
+      "t": 50.352821895999
+    }, 
+    {
+      "b": 50.351125731712, 
+      "l": 6.15462527046, 
+      "name": "Heiderfeld", 
+      "numOfAddr": 62, 
+      "r": 6.168139873511, 
+      "sanName": "heiderfeld", 
+      "t": 50.354413713643
+    }, 
+    {
+      "b": 50.390898429259, 
+      "l": 6.174806474345, 
+      "name": "Helleburen", 
+      "numOfAddr": 14, 
+      "r": 6.178453700925, 
+      "sanName": "helleburen", 
+      "t": 50.392465478426
+    }, 
+    {
+      "b": 50.304265238862, 
+      "l": 6.171033206722, 
+      "name": "Helmest", 
+      "numOfAddr": 2, 
+      "r": 6.171253661195, 
+      "sanName": "helmest", 
+      "t": 50.305432691681
+    }, 
+    {
+      "b": 50.33166938139, 
+      "l": 6.112567238748, 
+      "name": "Hengengasse", 
+      "numOfAddr": 4, 
+      "r": 6.112939425381, 
+      "sanName": "hengengasse", 
+      "t": 50.33235269645
+    }, 
+    {
+      "b": 50.311396915267, 
+      "l": 6.150787925756, 
+      "name": "Hervert", 
+      "numOfAddr": 12, 
+      "r": 6.152591818527, 
+      "sanName": "hervert", 
+      "t": 50.318939668354
+    }, 
+    {
+      "b": 50.359879569782, 
+      "l": 6.127780269623, 
+      "name": "Heufeld", 
+      "numOfAddr": 4, 
+      "r": 6.131026339934, 
+      "sanName": "heufeld", 
+      "t": 50.360549717878
+    }, 
+    {
+      "b": 50.358386380801, 
+      "l": 6.189018831183, 
+      "name": "Hirtenweg", 
+      "numOfAddr": 2, 
+      "r": 6.189566424002, 
+      "sanName": "hirtenweg", 
+      "t": 50.358537185935
+    }, 
+    {
+      "b": 50.381788820243, 
+      "l": 6.194592490674, 
+      "name": "H\u00fcllberg", 
+      "numOfAddr": 4, 
+      "r": 6.195565144134, 
+      "sanName": "hllberg", 
+      "t": 50.382884566422
+    }, 
+    {
+      "b": 50.319755634302, 
+      "l": 6.151898012361, 
+      "name": "Hochkreuz", 
+      "numOfAddr": 22, 
+      "r": 6.153700275585, 
+      "sanName": "hochkreuz", 
+      "t": 50.325140531944
+    }, 
+    {
+      "b": 50.374524557066, 
+      "l": 6.222309666644, 
+      "name": "Hohlweg", 
+      "numOfAddr": 4, 
+      "r": 6.222922898893, 
+      "sanName": "hohlweg", 
+      "t": 50.375377834089
+    }, 
+    {
+      "b": 50.380771559372, 
+      "l": 6.199046102649, 
+      "name": "Hollborn", 
+      "numOfAddr": 4, 
+      "r": 6.200214734921, 
+      "sanName": "hollborn", 
+      "t": 50.381187248596
+    }, 
+    {
+      "b": 50.332965946606, 
+      "l": 6.084286305191, 
+      "name": "Holzstra\u00dfe", 
+      "numOfAddr": 5, 
+      "r": 6.087736912189, 
+      "sanName": "holzstrae", 
+      "t": 50.335529286164
+    }, 
+    {
+      "b": 50.329029503609, 
+      "l": 6.189533032944, 
+      "name": "Hondtheimer Weg", 
+      "numOfAddr": 5, 
+      "r": 6.192863054675, 
+      "sanName": "hondtheimerweg", 
+      "t": 50.329802904931
+    }, 
+    {
+      "b": 50.31766501777, 
+      "l": 6.261618422496, 
+      "name": "H\u00fcttengasse", 
+      "numOfAddr": 3, 
+      "r": 6.261965617284, 
+      "sanName": "httengasse", 
+      "t": 50.318354350784
+    }, 
+    {
+      "b": 50.354887796051, 
+      "l": 6.168016670912, 
+      "name": "Hubertusweg", 
+      "numOfAddr": 6, 
+      "r": 6.16959065482, 
+      "sanName": "hubertusweg", 
+      "t": 50.35557135451
+    }, 
+    {
+      "b": 50.375001236548, 
+      "l": 6.22580173075, 
+      "name": "Im Eck", 
+      "numOfAddr": 7, 
+      "r": 6.22644998405, 
+      "sanName": "imeck", 
+      "t": 50.37603056351
+    }, 
+    {
+      "b": 50.344666021275, 
+      "l": 6.138139117564, 
+      "name": "Im G\u00e4sschen", 
+      "numOfAddr": 4, 
+      "r": 6.138898538909, 
+      "sanName": "imgsschen", 
+      "t": 50.345597863407
+    }, 
+    {
+      "b": 50.348615462527, 
+      "l": 6.120131781957, 
+      "name": "Im Holzweg", 
+      "numOfAddr": 5, 
+      "r": 6.128501006109, 
+      "sanName": "imholzweg", 
+      "t": 50.349772105783
+    }, 
+    {
+      "b": 50.36006937874, 
+      "l": 6.13247403145, 
+      "name": "Im Kell", 
+      "numOfAddr": 5, 
+      "r": 6.13346708404, 
+      "sanName": "imkell", 
+      "t": 50.36129068873
+    }, 
+    {
+      "b": 50.321876843622, 
+      "l": 6.163733276948, 
+      "name": "Im Koelchen", 
+      "numOfAddr": 13, 
+      "r": 6.167129525861, 
+      "sanName": "imkoelchen", 
+      "t": 50.325384211013
+    }, 
+    {
+      "b": 50.347241806085, 
+      "l": 6.165944391732, 
+      "name": "Im T\u00f6mmel", 
+      "numOfAddr": 7, 
+      "r": 6.170196102704, 
+      "sanName": "imtmmel", 
+      "t": 50.347690609166
+    }, 
+    {
+      "b": 50.361731561734, 
+      "l": 6.1383535257, 
+      "name": "Im Uhrenfeld", 
+      "numOfAddr": 15, 
       "r": 6.139602560104, 
       "sanName": "imuhrenfeld", 
-      "t": 50.362549648018
+      "t": 50.368523348553
+    }, 
+    {
+      "b": 50.377285708483, 
+      "l": 6.226423575644, 
+      "name": "Im Werest", 
+      "numOfAddr": 3, 
+      "r": 6.22711602474, 
+      "sanName": "imwerest", 
+      "t": 50.388005950726
+    }, 
+    {
+      "b": 50.379261574637, 
+      "l": 6.194209248882, 
+      "name": "In den H\u00f6fen", 
+      "numOfAddr": 15, 
+      "r": 6.208594377693, 
+      "sanName": "indenhfen", 
+      "t": 50.382862619083
+    }, 
+    {
+      "b": 50.324122707351, 
+      "l": 6.11319775669, 
+      "name": "In der Bracht", 
+      "numOfAddr": 10, 
+      "r": 6.11507569878, 
+      "sanName": "inderbracht", 
+      "t": 50.328289231476
+    }, 
+    {
+      "b": 50.344792592486, 
+      "l": 6.14425977922, 
+      "name": "In der Dell", 
+      "numOfAddr": 2, 
+      "r": 6.148232038487, 
+      "sanName": "inderdell", 
+      "t": 50.347225448307
+    }, 
+    {
+      "b": 50.327765944037, 
+      "l": 6.189328364409, 
+      "name": "In der Grube", 
+      "numOfAddr": 13, 
+      "r": 6.19461890039, 
+      "sanName": "indergrube", 
+      "t": 50.328648167287
+    }, 
+    {
+      "b": 50.357540694662, 
+      "l": 6.15414400243, 
+      "name": "In der Kirrbach", 
+      "numOfAddr": 8, 
+      "r": 6.156278936217, 
+      "sanName": "inderkirrbach", 
+      "t": 50.359510404872
+    }, 
+    {
+      "b": 50.346429915785, 
+      "l": 6.18934932684, 
+      "name": "In der Schwong", 
+      "numOfAddr": 11, 
+      "r": 6.195721262589, 
+      "sanName": "inderschwong", 
+      "t": 50.348947918899
+    }, 
+    {
+      "b": 50.318320213057, 
+      "l": 6.252330715851, 
+      "name": "Ins Flostal", 
+      "numOfAddr": 27, 
+      "r": 6.263902976896, 
+      "sanName": "insflostal", 
+      "t": 50.322452932364
+    }, 
+    {
+      "b": 50.319206656489, 
+      "l": 6.265051694019, 
+      "name": "Ins Kolvendertal", 
+      "numOfAddr": 6, 
+      "r": 6.270822053899, 
+      "sanName": "inskolvendertal", 
+      "t": 50.322861318564
+    }, 
+    {
+      "b": 50.387092093489, 
+      "l": 6.181717965527, 
+      "name": "Jonzeburen", 
+      "numOfAddr": 10, 
+      "r": 6.185646090777, 
+      "sanName": "jonzeburen", 
+      "t": 50.389150200083
+    }, 
+    {
+      "b": 50.322552636624, 
+      "l": 6.181125539053, 
+      "name": "J\u00e4seberg", 
+      "numOfAddr": 3, 
+      "r": 6.18161269784, 
+      "sanName": "jseberg", 
+      "t": 50.323623761818
+    }, 
+    {
+      "b": 50.333057969906, 
+      "l": 6.123466518685, 
+      "name": "Junkerstra\u00dfe", 
+      "numOfAddr": 12, 
+      "r": 6.125323706515, 
+      "sanName": "junkerstrae", 
+      "t": 50.334662758416
+    }, 
+    {
+      "b": 50.337051790155, 
+      "l": 6.080562222478, 
+      "name": "Kaiserbaracke", 
+      "numOfAddr": 13, 
+      "r": 6.0866446438, 
+      "sanName": "kaiserbaracke", 
+      "t": 50.342007561765
+    }, 
+    {
+      "b": 50.331185382541, 
+      "l": 6.113078780746, 
+      "name": "Kapellenstra\u00dfe", 
+      "numOfAddr": 3, 
+      "r": 6.113839557083, 
+      "sanName": "kapellenstrae", 
+      "t": 50.33166642161
+    }, 
+    {
+      "b": 50.317493407207, 
+      "l": 6.165156465554, 
+      "name": "Kastanienweg", 
+      "numOfAddr": 15, 
+      "r": 6.170153849981, 
+      "sanName": "kastanienweg", 
+      "t": 50.319554714279
+    }, 
+    {
+      "b": 50.353072342941, 
+      "l": 6.169514154474, 
+      "name": "Kirchweg", 
+      "numOfAddr": 17, 
+      "r": 6.171242311736, 
+      "sanName": "kirchweg", 
+      "t": 50.35498206295
+    }, 
+    {
+      "b": 50.373760445464, 
+      "l": 6.219882281912, 
+      "name": "Kleeberg", 
+      "numOfAddr": 17, 
+      "r": 6.224106722461, 
+      "sanName": "kleeberg", 
+      "t": 50.383887780992
+    }, 
+    {
+      "b": 50.331622678268, 
+      "l": 6.180785797883, 
+      "name": "Klee Feld", 
+      "numOfAddr": 9, 
+      "r": 6.18501195951, 
+      "sanName": "kleefeld", 
+      "t": 50.33255037098
+    }, 
+    {
+      "b": 50.319002250308, 
+      "l": 6.260875356134, 
+      "name": "Klinkersgasse", 
+      "numOfAddr": 1, 
+      "r": 6.260875356134, 
+      "sanName": "klinkersgasse", 
+      "t": 50.319002250308
+    }, 
+    {
+      "b": 50.358637522335, 
+      "l": 6.1185593126, 
+      "name": "Klosterstra\u00dfe", 
+      "numOfAddr": 21, 
+      "r": 6.122204938934, 
+      "sanName": "klosterstrae", 
+      "t": 50.366246751945
+    }, 
+    {
+      "b": 50.320961702222, 
+      "l": 6.187698184413, 
+      "name": "K\u00f6nigsbahn", 
+      "numOfAddr": 2, 
+      "r": 6.188522817751, 
+      "sanName": "knigsbahn", 
+      "t": 50.322603326353
+    }, 
+    {
+      "b": 50.358894647973, 
+      "l": 6.119176754625, 
+      "name": "Knipsgasse", 
+      "numOfAddr": 6, 
+      "r": 6.12049477647, 
+      "sanName": "knipsgasse", 
+      "t": 50.35957652692
+    }, 
+    {
+      "b": 50.351724967278, 
+      "l": 6.21705798569, 
+      "name": "Kreuzstra\u00dfe", 
+      "numOfAddr": 14, 
+      "r": 6.227935600791, 
+      "sanName": "kreuzstrae", 
+      "t": 50.361625489141
+    }, 
+    {
+      "b": 50.354496499277, 
+      "l": 6.171110211938, 
+      "name": "Kringsgasse", 
+      "numOfAddr": 2, 
+      "r": 6.171196754397, 
+      "sanName": "kringsgasse", 
+      "t": 50.354759162578
+    }, 
+    {
+      "b": 50.368411460671, 
+      "l": 6.202206359205, 
+      "name": "Kuhgasse", 
+      "numOfAddr": 1, 
+      "r": 6.202206359205, 
+      "sanName": "kuhgasse", 
+      "t": 50.368411460671
+    }, 
+    {
+      "b": 50.347053996854, 
+      "l": 6.139147437089, 
+      "name": "Lehnengasse", 
+      "numOfAddr": 3, 
+      "r": 6.139233474423, 
+      "sanName": "lehnengasse", 
+      "t": 50.34730213771
+    }, 
+    {
+      "b": 50.319637052175, 
+      "l": 6.166627445868, 
+      "name": "Lenzgasse", 
+      "numOfAddr": 4, 
+      "r": 6.167660360345, 
+      "sanName": "lenzgasse", 
+      "t": 50.320024637263
+    }, 
+    {
+      "b": 50.357109136408, 
+      "l": 6.119524651297, 
+      "name": "Libellenweg", 
+      "numOfAddr": 3, 
+      "r": 6.119903062729, 
+      "sanName": "libellenweg", 
+      "t": 50.358437629891
+    }, 
+    {
+      "b": 50.330374060206, 
+      "l": 6.102418135702, 
+      "name": "Lierweg", 
+      "numOfAddr": 34, 
+      "r": 6.113332419247, 
+      "sanName": "lierweg", 
+      "t": 50.333391852562
+    }, 
+    {
+      "b": 50.349059277478, 
+      "l": 6.127762873661, 
+      "name": "Lindenallee", 
+      "numOfAddr": 31, 
+      "r": 6.140847891178, 
+      "sanName": "lindenallee", 
+      "t": 50.35503744023
+    }, 
+    {
+      "b": 50.299853930637, 
+      "l": 6.124032291564, 
+      "name": "Maas-Rhein-Stra\u00dfe", 
+      "numOfAddr": 3, 
+      "r": 6.135565046346, 
+      "sanName": "maasrheinstrae", 
+      "t": 50.300212634282
+    }, 
+    {
+      "b": 50.388309433561, 
+      "l": 6.176582755414, 
+      "name": "Makejaas", 
+      "numOfAddr": 5, 
+      "r": 6.177653464504, 
+      "sanName": "makejaas", 
+      "t": 50.389488041938
+    }, 
+    {
+      "b": 50.391825286436, 
+      "l": 6.161211640949, 
+      "name": "Malmedyer Weg", 
+      "numOfAddr": 20, 
+      "r": 6.173258179282, 
+      "sanName": "malmedyerweg", 
+      "t": 50.395740268333
+    }, 
+    {
+      "b": 50.351707760113, 
+      "l": 6.148050650993, 
+      "name": "Mannefeld", 
+      "numOfAddr": 1, 
+      "r": 6.148050650993, 
+      "sanName": "mannefeld", 
+      "t": 50.351707760113
+    }, 
+    {
+      "b": 50.322519595341, 
+      "l": 6.178477978956, 
+      "name": "Martinusstra\u00dfe", 
+      "numOfAddr": 65, 
+      "r": 6.189527001408, 
+      "sanName": "martinusstrae", 
+      "t": 50.333109483238
+    }, 
+    {
+      "b": 50.370797974768, 
+      "l": 6.187350433238, 
+      "name": "M\u00f6derscheider M\u00fchle", 
+      "numOfAddr": 3, 
+      "r": 6.188670350994, 
+      "sanName": "mderscheidermhle", 
+      "t": 50.37174502376
+    }, 
+    {
+      "b": 50.381389991378, 
+      "l": 6.175717039086, 
+      "name": "Messenweg", 
+      "numOfAddr": 25, 
+      "r": 6.178964947153, 
+      "sanName": "messenweg", 
+      "t": 50.387809577124
+    }, 
+    {
+      "b": 50.323424146402, 
+      "l": 6.119708119969, 
+      "name": "M\u00fchlenbachstra\u00dfe", 
+      "numOfAddr": 22, 
+      "r": 6.122126377301, 
+      "sanName": "mhlenbachstrae", 
+      "t": 50.33340966135
+    }, 
+    {
+      "b": 50.318097960336, 
+      "l": 6.250544303939, 
+      "name": "M\u00fchlenberg", 
+      "numOfAddr": 10, 
+      "r": 6.253618197521, 
+      "sanName": "mhlenberg", 
+      "t": 50.319177777071
+    }, 
+    {
+      "b": 50.326170467361, 
+      "l": 6.176448875176, 
+      "name": "M\u00fchlengasse", 
+      "numOfAddr": 13, 
+      "r": 6.186103790593, 
+      "sanName": "mhlengasse", 
+      "t": 50.328141437438
+    }, 
+    {
+      "b": 50.383739838662, 
+      "l": 6.174062623903, 
+      "name": "M\u00fchlenweg", 
+      "numOfAddr": 12, 
+      "r": 6.176947005756, 
+      "sanName": "mhlenweg", 
+      "t": 50.387729371309
+    }, 
+    {
+      "b": 50.370328118935, 
+      "l": 6.201688591468, 
+      "name": "Mirfelder Busch", 
+      "numOfAddr": 5, 
+      "r": 6.211586000931, 
+      "sanName": "mirfelderbusch", 
+      "t": 50.376699909914
+    }, 
+    {
+      "b": 50.351160120637, 
+      "l": 6.175542925687, 
+      "name": "Neuweg", 
+      "numOfAddr": 2, 
+      "r": 6.175830258618, 
+      "sanName": "neuweg", 
+      "t": 50.351800834402
+    }, 
+    {
+      "b": 50.346432045723, 
+      "l": 6.195372789425, 
+      "name": "Neuwiese", 
+      "numOfAddr": 7, 
+      "r": 6.200226517032, 
+      "sanName": "neuwiese", 
+      "t": 50.349578766122
+    }, 
+    {
+      "b": 50.348722910693, 
+      "l": 6.200157863324, 
+      "name": "Niederhardt", 
+      "numOfAddr": 1, 
+      "r": 6.200157863324, 
+      "sanName": "niederhardt", 
+      "t": 50.348722910693
+    }, 
+    {
+      "b": 50.383024808681, 
+      "l": 6.190035050363, 
+      "name": "Pilgerweg", 
+      "numOfAddr": 1, 
+      "r": 6.190035050363, 
+      "sanName": "pilgerweg", 
+      "t": 50.383024808681
+    }, 
+    {
+      "b": 50.347608441504, 
+      "l": 6.139662064897, 
+      "name": "Pohlgasse", 
+      "numOfAddr": 2, 
+      "r": 6.139696747445, 
+      "sanName": "pohlgasse", 
+      "t": 50.347700305721
+    }, 
+    {
+      "b": 50.349573407894, 
+      "l": 6.201040588631, 
+      "name": "Quellenberg", 
+      "numOfAddr": 15, 
+      "r": 6.208414629101, 
+      "sanName": "quellenberg", 
+      "t": 50.350951276555
+    }, 
+    {
+      "b": 50.357481540121, 
+      "l": 6.186160837558, 
+      "name": "Quirinusstra\u00dfe", 
+      "numOfAddr": 18, 
+      "r": 6.195099870725, 
+      "sanName": "quirinusstrae", 
+      "t": 50.358561400674
+    }, 
+    {
+      "b": 50.332751174458, 
+      "l": 6.096923209362, 
+      "name": "Rechter Stra\u00dfe", 
+      "numOfAddr": 61, 
+      "r": 6.117791582189, 
+      "sanName": "rechterstrae", 
+      "t": 50.337965998521
+    }, 
+    {
+      "b": 50.35708832451, 
+      "l": 6.185951947315, 
+      "name": "Reutergasse", 
+      "numOfAddr": 4, 
+      "r": 6.186655432578, 
+      "sanName": "reutergasse", 
+      "t": 50.35726553022
+    }, 
+    {
+      "b": 50.378451324345, 
+      "l": 6.19387495135, 
+      "name": "Riddebure", 
+      "numOfAddr": 2, 
+      "r": 6.194612207741, 
+      "sanName": "riddebure", 
+      "t": 50.378734630099
+    }, 
+    {
+      "b": 50.319780860403, 
+      "l": 6.162304521644, 
+      "name": "R\u00f6merstra\u00dfe", 
+      "numOfAddr": 23, 
+      "r": 6.173218013157, 
+      "sanName": "rmerstrae", 
+      "t": 50.325175251585
+    }, 
+    {
+      "b": 50.325037530409, 
+      "l": 6.188503450198, 
+      "name": "Rodescht", 
+      "numOfAddr": 12, 
+      "r": 6.192610135289, 
+      "sanName": "rodescht", 
+      "t": 50.32735046305
+    }, 
+    {
+      "b": 50.33915776161, 
+      "l": 6.137828573098, 
+      "name": "Rothb\u00fcchel", 
+      "numOfAddr": 2, 
+      "r": 6.138174909723, 
+      "sanName": "rothbchel", 
+      "t": 50.339652929678
+    }, 
+    {
+      "b": 50.361362048933, 
+      "l": 6.134171536822, 
+      "name": "Rotheck", 
+      "numOfAddr": 3, 
+      "r": 6.13497556711, 
+      "sanName": "rotheck", 
+      "t": 50.361772387778
+    }, 
+    {
+      "b": 50.357458978555, 
+      "l": 6.16922039795, 
+      "name": "Salzweg", 
+      "numOfAddr": 6, 
+      "r": 6.171045743537, 
+      "sanName": "salzweg", 
+      "t": 50.358279327047
+    }, 
+    {
+      "b": 50.355991227539, 
+      "l": 6.123447856255, 
+      "name": "Schilzweg", 
+      "numOfAddr": 1, 
+      "r": 6.123447856255, 
+      "sanName": "schilzweg", 
+      "t": 50.355991227539
+    }, 
+    {
+      "b": 50.35861106219, 
+      "l": 6.17916911466, 
+      "name": "Schirlberg", 
+      "numOfAddr": 1, 
+      "r": 6.17916911466, 
+      "sanName": "schirlberg", 
+      "t": 50.35861106219
+    }, 
+    {
+      "b": 50.331325436937, 
+      "l": 6.113184653929, 
+      "name": "Schulstra\u00dfe", 
+      "numOfAddr": 10, 
+      "r": 6.115322144768, 
+      "sanName": "schulstrae", 
+      "t": 50.33322019041
+    }, 
+    {
+      "b": 50.347468559681, 
+      "l": 6.176844288503, 
+      "name": "Schwengelborn", 
+      "numOfAddr": 8, 
+      "r": 6.179063649478, 
+      "sanName": "schwengelborn", 
+      "t": 50.348139401964
+    }, 
+    {
+      "b": 50.360063659751, 
+      "l": 6.156016871271, 
+      "name": "Sebastianweg", 
+      "numOfAddr": 17, 
+      "r": 6.15876342934, 
+      "sanName": "sebastianweg", 
+      "t": 50.361621341385
+    }, 
+    {
+      "b": 50.389546335761, 
+      "l": 6.176165001718, 
+      "name": "St. Anna-Stra\u00dfe", 
+      "numOfAddr": 9, 
+      "r": 6.178774002244, 
+      "sanName": "stannastrae", 
+      "t": 50.391065365142
+    }, 
+    {
+      "b": 50.38428407919, 
+      "l": 6.134188322768, 
+      "name": "Stefanshof", 
+      "numOfAddr": 5, 
+      "r": 6.14901468606, 
+      "sanName": "stefanshof", 
+      "t": 50.387961595473
+    }, 
+    {
+      "b": 50.3576137362, 
+      "l": 6.213108605368, 
+      "name": "Stockberg", 
+      "numOfAddr": 4, 
+      "r": 6.213780517123, 
+      "sanName": "stockberg", 
+      "t": 50.359179737625
+    }, 
+    {
+      "b": 50.325385261369, 
+      "l": 6.109716444478, 
+      "name": "St.Vither Stra\u00dfe", 
+      "numOfAddr": 23, 
+      "r": 6.118259996621, 
+      "sanName": "stvitherstrae", 
+      "t": 50.332022934424
+    }, 
+    {
+      "b": 50.348546858356, 
+      "l": 6.141611987973, 
+      "name": "Talstra\u00dfe", 
+      "numOfAddr": 22, 
+      "r": 6.14925773415, 
+      "sanName": "talstrae", 
+      "t": 50.351235609232
+    }, 
+    {
+      "b": 50.351648210374, 
+      "l": 6.165209837514, 
+      "name": "Unter dem Wittenhof", 
+      "numOfAddr": 19, 
+      "r": 6.169312058874, 
+      "sanName": "unterdemwittenhof", 
+      "t": 50.353102748916
+    }, 
+    {
+      "b": 50.360298000521, 
+      "l": 6.218835485337, 
+      "name": "Vegdersgasse", 
+      "numOfAddr": 4, 
+      "r": 6.22059242751, 
+      "sanName": "vegdersgasse", 
+      "t": 50.361289237961
+    }, 
+    {
+      "b": 50.332198268346, 
+      "l": 6.118743988952, 
+      "name": "Von-Korff-Stra\u00dfe", 
+      "numOfAddr": 35, 
+      "r": 6.130597256923, 
+      "sanName": "vonkorffstrae", 
+      "t": 50.341390099083
+    }, 
+    {
+      "b": 50.299675440112, 
+      "l": 6.139877984906, 
+      "name": "Walleroder Br\u00fccke", 
+      "numOfAddr": 2, 
+      "r": 6.139877984906, 
+      "sanName": "walleroderbrcke", 
+      "t": 50.299675440112
+    }, 
+    {
+      "b": 50.325597724422, 
+      "l": 6.153726042083, 
+      "name": "Wei\u00dfenbr\u00fccke", 
+      "numOfAddr": 21, 
+      "r": 6.163903558015, 
+      "sanName": "weienbrcke", 
+      "t": 50.336025756458
+    }, 
+    {
+      "b": 50.361863908772, 
+      "l": 6.150809689426, 
+      "name": "Weiherweg", 
+      "numOfAddr": 5, 
+      "r": 6.154425099182, 
+      "sanName": "weiherweg", 
+      "t": 50.362676381777
+    }, 
+    {
+      "b": 50.357031759562, 
+      "l": 6.150837701514, 
+      "name": "Weismeser Stra\u00dfe", 
+      "numOfAddr": 33, 
+      "r": 6.162086043323, 
+      "sanName": "weismeserstrae", 
+      "t": 50.367181581215
+    }, 
+    {
+      "b": 50.320677670638, 
+      "l": 6.155462927524, 
+      "name": "Winkelsweg", 
+      "numOfAddr": 10, 
+      "r": 6.159161806335, 
+      "sanName": "winkelsweg", 
+      "t": 50.324016158397
+    }, 
+    {
+      "b": 50.354067238186, 
+      "l": 6.168411535759, 
+      "name": "Wittenhof", 
+      "numOfAddr": 11, 
+      "r": 6.169635340706, 
+      "sanName": "wittenhof", 
+      "t": 50.354618710579
+    }, 
+    {
+      "b": 50.347356356975, 
+      "l": 6.144053902187, 
+      "name": "Wolschebach", 
+      "numOfAddr": 25, 
+      "r": 6.153568475944, 
+      "sanName": "wolschebach", 
+      "t": 50.349422010695
+    }, 
+    {
+      "b": 50.354116434538, 
+      "l": 6.217689185115, 
+      "name": "Zu den Weihern", 
+      "numOfAddr": 3, 
+      "r": 6.217844689006, 
+      "sanName": "zudenweihern", 
+      "t": 50.354965592881
+    }, 
+    {
+      "b": 50.358458459834, 
+      "l": 6.122830138514, 
+      "name": "Zum Bahndamm", 
+      "numOfAddr": 19, 
+      "r": 6.128390824803, 
+      "sanName": "zumbahndamm", 
+      "t": 50.361273462683
+    }, 
+    {
+      "b": 50.355454959614, 
+      "l": 6.168176799558, 
+      "name": "Zum Bambusch", 
+      "numOfAddr": 35, 
+      "r": 6.176004937674, 
+      "sanName": "zumbambusch", 
+      "t": 50.369297153272
+    }, 
+    {
+      "b": 50.392539979173, 
+      "l": 6.169825574528, 
+      "name": "Zum Biert", 
+      "numOfAddr": 13, 
+      "r": 6.171724261691, 
+      "sanName": "zumbiert", 
+      "t": 50.39572542133
+    }, 
+    {
+      "b": 50.328323395264, 
+      "l": 6.189534610731, 
+      "name": "Zum Burghaus", 
+      "numOfAddr": 4, 
+      "r": 6.190374540895, 
+      "sanName": "zumburghaus", 
+      "t": 50.328570745299
+    }, 
+    {
+      "b": 50.375674857249, 
+      "l": 6.221699983245, 
+      "name": "Zum Dorfbrunnen", 
+      "numOfAddr": 14, 
+      "r": 6.235161770608, 
+      "sanName": "zumdorfbrunnen", 
+      "t": 50.38264280387
+    }, 
+    {
+      "b": 50.382317322534, 
+      "l": 6.194082194341, 
+      "name": "Zum Dreeswasser", 
+      "numOfAddr": 2, 
+      "r": 6.194304971908, 
+      "sanName": "zumdreeswasser", 
+      "t": 50.382598259318
+    }, 
+    {
+      "b": 50.32386222638, 
+      "l": 6.122414735727, 
+      "name": "Zum Eschborn", 
+      "numOfAddr": 4, 
+      "r": 6.129711220362, 
+      "sanName": "zumeschborn", 
+      "t": 50.327595635127
+    }, 
+    {
+      "b": 50.358415157341, 
+      "l": 6.218064810098, 
+      "name": "Zum H\u00fctel", 
+      "numOfAddr": 22, 
+      "r": 6.227154527193, 
+      "sanName": "zumhtel", 
+      "t": 50.361276471537
+    }, 
+    {
+      "b": 50.3569110622, 
+      "l": 6.226032214441, 
+      "name": "Zum Jagdhaus", 
+      "numOfAddr": 10, 
+      "r": 6.233529361344, 
+      "sanName": "zumjagdhaus", 
+      "t": 50.360083338296
+    }, 
+    {
+      "b": 50.319147458355, 
+      "l": 6.257438203374, 
+      "name": "Zum Johannesgarten", 
+      "numOfAddr": 7, 
+      "r": 6.258167569624, 
+      "sanName": "zumjohannesgarten", 
+      "t": 50.321436129386
+    }, 
+    {
+      "b": 50.318832112526, 
+      "l": 6.261441130421, 
+      "name": "Zum Klinkershof", 
+      "numOfAddr": 2, 
+      "r": 6.262328784802, 
+      "sanName": "zumklinkershof", 
+      "t": 50.319031622952
+    }, 
+    {
+      "b": 50.354658706694, 
+      "l": 6.163005092684, 
+      "name": "Zum Knopp", 
+      "numOfAddr": 18, 
+      "r": 6.168303730723, 
+      "sanName": "zumknopp", 
+      "t": 50.356871141313
+    }, 
+    {
+      "b": 50.358320139221, 
+      "l": 6.192368101385, 
+      "name": "Zum K\u00fcpp", 
+      "numOfAddr": 9, 
+      "r": 6.195701579713, 
+      "sanName": "zumkpp", 
+      "t": 50.362348792308
+    }, 
+    {
+      "b": 50.351205625181, 
+      "l": 6.162840681282, 
+      "name": "Zum Kr\u00e4henvenn", 
+      "numOfAddr": 12, 
+      "r": 6.164348051276, 
+      "sanName": "zumkrhenvenn", 
+      "t": 50.351956388421
+    }, 
+    {
+      "b": 50.344288477117, 
+      "l": 6.114885462417, 
+      "name": "Zum Schwarzenvenn", 
+      "numOfAddr": 12, 
+      "r": 6.120214435893, 
+      "sanName": "zumschwarzenvenn", 
+      "t": 50.350087742913
+    }, 
+    {
+      "b": 50.349113237118, 
+      "l": 6.201863089987, 
+      "name": "Zum S\u00fcdert", 
+      "numOfAddr": 2, 
+      "r": 6.20282711522, 
+      "sanName": "zumsdert", 
+      "t": 50.349396492372
+    }, 
+    {
+      "b": 50.327286107491, 
+      "l": 6.181902733434, 
+      "name": "Zum Stock", 
+      "numOfAddr": 1, 
+      "r": 6.181902733434, 
+      "sanName": "zumstock", 
+      "t": 50.327286107491
+    }, 
+    {
+      "b": 50.316767834721, 
+      "l": 6.254432823299, 
+      "name": "Zum Weberbach", 
+      "numOfAddr": 7, 
+      "r": 6.255787047073, 
+      "sanName": "zumweberbach", 
+      "t": 50.318367920058
+    }, 
+    {
+      "b": 50.349164842459, 
+      "l": 6.203780465374, 
+      "name": "Zum Windpark", 
+      "numOfAddr": 2, 
+      "r": 6.205594330844, 
+      "sanName": "zumwindpark", 
+      "t": 50.349269773286
+    }, 
+    {
+      "b": 50.327720583068, 
+      "l": 6.182509050918, 
+      "name": "Zur Alten Buche", 
+      "numOfAddr": 18, 
+      "r": 6.187710572569, 
+      "sanName": "zuraltenbuche", 
+      "t": 50.32959838668
+    }, 
+    {
+      "b": 50.328300489186, 
+      "l": 6.186695378692, 
+      "name": "Zur Alten Molkerei", 
+      "numOfAddr": 4, 
+      "r": 6.188479914913, 
+      "sanName": "zuraltenmolkerei", 
+      "t": 50.328711325879
+    }, 
+    {
+      "b": 50.318849225772, 
+      "l": 6.25493762529, 
+      "name": "Zur Alten Schule", 
+      "numOfAddr": 8, 
+      "r": 6.256562484755, 
+      "sanName": "zuraltenschule", 
+      "t": 50.319359981836
+    }, 
+    {
+      "b": 50.356100127075, 
+      "l": 6.187764776507, 
+      "name": "Zur Berkaul", 
+      "numOfAddr": 3, 
+      "r": 6.188357200262, 
+      "sanName": "zurberkaul", 
+      "t": 50.356398192642
+    }, 
+    {
+      "b": 50.344965360806, 
+      "l": 6.167645168679, 
+      "name": "Zur Breitenbach", 
+      "numOfAddr": 5, 
+      "r": 6.168841998538, 
+      "sanName": "zurbreitenbach", 
+      "t": 50.346166853845
+    }, 
+    {
+      "b": 50.30327500914, 
+      "l": 6.137569938316, 
+      "name": "Zur Eidt", 
+      "numOfAddr": 2, 
+      "r": 6.137961654531, 
+      "sanName": "zureidt", 
+      "t": 50.303318996342
+    }, 
+    {
+      "b": 50.349547920815, 
+      "l": 6.139321393793, 
+      "name": "Zur Hallbacher M\u00fchle", 
+      "numOfAddr": 14, 
+      "r": 6.141333682176, 
+      "sanName": "zurhallbachermhle", 
+      "t": 50.353017636108
+    }, 
+    {
+      "b": 50.337210459069, 
+      "l": 6.140018886838, 
+      "name": "Zur Hardt", 
+      "numOfAddr": 23, 
+      "r": 6.144517922889, 
+      "sanName": "zurhardt", 
+      "t": 50.346320886992
+    }, 
+    {
+      "b": 50.317816182091, 
+      "l": 6.171607600817, 
+      "name": "Zur Heide", 
+      "numOfAddr": 5, 
+      "r": 6.176224805651, 
+      "sanName": "zurheide", 
+      "t": 50.318924064271
+    }, 
+    {
+      "b": 50.349816419459, 
+      "l": 6.194205701547, 
+      "name": "Zur H\u00fcll", 
+      "numOfAddr": 20, 
+      "r": 6.200656958785, 
+      "sanName": "zurhll", 
+      "t": 50.356033691337
+    }, 
+    {
+      "b": 50.334946118426, 
+      "l": 6.110910144113, 
+      "name": "Zur H\u00fclsburg", 
+      "numOfAddr": 7, 
+      "r": 6.113997720692, 
+      "sanName": "zurhlsburg", 
+      "t": 50.336856502357
+    }, 
+    {
+      "b": 50.358708637628, 
+      "l": 6.113223883766, 
+      "name": "Zur Ley", 
+      "numOfAddr": 6, 
+      "r": 6.11827313215, 
+      "sanName": "zurley", 
+      "t": 50.363282767295
+    }, 
+    {
+      "b": 50.360571464131, 
+      "l": 6.223136794331, 
+      "name": "Zur M\u00fchle", 
+      "numOfAddr": 2, 
+      "r": 6.223448702051, 
+      "sanName": "zurmhle", 
+      "t": 50.360670582412
+    }, 
+    {
+      "b": 50.382246812385, 
+      "l": 6.19943968695, 
+      "name": "Zur Morsheck", 
+      "numOfAddr": 6, 
+      "r": 6.208013302061, 
+      "sanName": "zurmorsheck", 
+      "t": 50.389357203836
+    }, 
+    {
+      "b": 50.391534610852, 
+      "l": 6.179246681476, 
+      "name": "Zur Schleid", 
+      "numOfAddr": 11, 
+      "r": 6.184073410572, 
+      "sanName": "zurschleid", 
+      "t": 50.39893451768
+    }, 
+    {
+      "b": 50.355675766116, 
+      "l": 6.183310033396, 
+      "name": "Zur Schmiede", 
+      "numOfAddr": 16, 
+      "r": 6.18825521658, 
+      "sanName": "zurschmiede", 
+      "t": 50.357504173693
     }
   ]
 }

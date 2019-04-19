@@ -1,31 +1,232 @@
 {
   "streets": [
     {
-      "b": 50.624369494325, 
-      "l": 5.765606935884, 
+      "b": 50.599826159891, 
+      "l": 5.768261617625, 
+      "name": "Chapelle Adam", 
+      "numOfAddr": 34, 
+      "r": 5.771175596446, 
+      "sanName": "chapelleadam", 
+      "t": 50.60286325194
+    }, 
+    {
+      "b": 50.616978794251, 
+      "l": 5.765920722639, 
+      "name": "Chauss\u00e9e de Li\u00e8ge", 
+      "numOfAddr": 16, 
+      "r": 5.771564655911, 
+      "sanName": "chaussedelige", 
+      "t": 50.618457097788
+    }, 
+    {
+      "b": 50.599665461255, 
+      "l": 5.766346246961, 
+      "name": "Chemin Ancion", 
+      "numOfAddr": 12, 
+      "r": 5.770377571914, 
+      "sanName": "cheminancion", 
+      "t": 50.600445241345
+    }, 
+    {
+      "b": 50.607924067887, 
+      "l": 5.765001114654, 
+      "name": "Chemin des Mineurs", 
+      "numOfAddr": 5, 
+      "r": 5.765704882875, 
+      "sanName": "chemindesmineurs", 
+      "t": 50.609084372412
+    }, 
+    {
+      "b": 50.622477415511, 
+      "l": 5.765405139543, 
+      "name": "Chemin du Terril", 
+      "numOfAddr": 14, 
+      "r": 5.767676656865, 
+      "sanName": "cheminduterril", 
+      "t": 50.623120232947
+    }, 
+    {
+      "b": 50.597562073023, 
+      "l": 5.767347084016, 
+      "name": "Falhez", 
+      "numOfAddr": 15, 
+      "r": 5.771468421916, 
+      "sanName": "falhez", 
+      "t": 50.59933378618
+    }, 
+    {
+      "b": 50.600822075689, 
+      "l": 5.777630883741, 
+      "name": "Martinsart", 
+      "numOfAddr": 12, 
+      "r": 5.779088490997, 
+      "sanName": "martinsart", 
+      "t": 50.602072102346
+    }, 
+    {
+      "b": 50.607033584595, 
+      "l": 5.769734103453, 
+      "name": "Reneubois", 
+      "numOfAddr": 17, 
+      "otherPCs": [
+        "4651"
+      ], 
+      "r": 5.773944886203, 
+      "sanName": "reneubois", 
+      "t": 50.617507255617
+    }, 
+    {
+      "b": 50.598276795546, 
+      "l": 5.772870522609, 
+      "name": "Route de Soiron", 
+      "numOfAddr": 5, 
+      "r": 5.773795689984, 
+      "sanName": "routedesoiron", 
+      "t": 50.59903400682
+    }, 
+    {
+      "b": 50.623308126163, 
+      "l": 5.757820197649, 
+      "name": "Route des Xhawirs", 
+      "numOfAddr": 82, 
+      "r": 5.764172076327, 
+      "sanName": "routedesxhawirs", 
+      "t": 50.631625525935
+    }, 
+    {
+      "b": 50.603094461628, 
+      "l": 5.768845115592, 
+      "name": "Rue Albert Leclercqs", 
+      "numOfAddr": 48, 
+      "r": 5.778260879454, 
+      "sanName": "ruealbertleclercqs", 
+      "t": 50.605117733746
+    }, 
+    {
+      "b": 50.629210232917, 
+      "l": 5.763963676079, 
+      "name": "Rue de Jos\u00e9", 
+      "numOfAddr": 13, 
+      "otherPCs": [
+        "4651"
+      ], 
+      "r": 5.765882129195, 
+      "sanName": "ruedejos", 
+      "t": 50.630090200106
+    }, 
+    {
+      "b": 50.627781524921, 
+      "l": 5.761528872637, 
+      "name": "Rue de la Vieille Houill\u00e8re", 
+      "numOfAddr": 17, 
+      "r": 5.763089271803, 
+      "sanName": "ruedelavieillehouillre", 
+      "t": 50.629466075003
+    }, 
+    {
+      "b": 50.599664832362, 
+      "l": 5.771065496268, 
+      "name": "Rue des Cloutiers", 
+      "numOfAddr": 24, 
+      "r": 5.773124212411, 
+      "sanName": "ruedescloutiers", 
+      "t": 50.60249554566
+    }, 
+    {
+      "b": 50.619885838587, 
+      "l": 5.76330714262, 
       "name": "Rue des deux Tilleuls", 
-      "numOfAddr": 2, 
-      "r": 5.766852198941, 
+      "numOfAddr": 49, 
+      "r": 5.769855762396, 
       "sanName": "ruedesdeuxtilleuls", 
-      "t": 50.625996791033
+      "t": 50.62761554495
     }, 
     {
-      "b": 50.599114733725, 
-      "l": 5.773683301157, 
+      "b": 50.607182709504, 
+      "l": 5.775197289595, 
+      "name": "Rue des Marronniers", 
+      "numOfAddr": 12, 
+      "otherPCs": [
+        "4651"
+      ], 
+      "r": 5.779714189097, 
+      "sanName": "ruedesmarronniers", 
+      "t": 50.608595554833
+    }, 
+    {
+      "b": 50.602134742122, 
+      "l": 5.786344549953, 
+      "name": "Rue de Stockis", 
+      "numOfAddr": 3, 
+      "otherPCs": [
+        "4650"
+      ], 
+      "r": 5.78694349266, 
+      "sanName": "ruedestockis", 
+      "t": 50.6026008797
+    }, 
+    {
+      "b": 50.601902948491, 
+      "l": 5.774907375951, 
+      "name": "Rue du Bief", 
+      "numOfAddr": 58, 
+      "r": 5.786183520657, 
+      "sanName": "ruedubief", 
+      "t": 50.607109749827
+    }, 
+    {
+      "b": 50.601633337144, 
+      "l": 5.764467791097, 
+      "name": "Rue du Vieux Comptoir", 
+      "numOfAddr": 27, 
+      "r": 5.768482647641, 
+      "sanName": "rueduvieuxcomptoir", 
+      "t": 50.603265980421
+    }, 
+    {
+      "b": 50.599097409034, 
+      "l": 5.773170177729, 
       "name": "Rue Nicolas Hardy", 
-      "numOfAddr": 1, 
-      "r": 5.773683301157, 
+      "numOfAddr": 46, 
+      "r": 5.784539363707, 
       "sanName": "ruenicolashardy", 
-      "t": 50.599114733725
+      "t": 50.602304462439
     }, 
     {
-      "b": 50.631209224184, 
-      "l": 5.763977678275, 
-      "name": "Voie du Charbonnage", 
+      "b": 50.603370856529, 
+      "l": 5.760778224969, 
+      "name": "Trou du Bois", 
+      "numOfAddr": 68, 
+      "r": 5.768697007131, 
+      "sanName": "troudubois", 
+      "t": 50.608636058423
+    }, 
+    {
+      "b": 50.60030038788, 
+      "l": 5.77144790749, 
+      "name": "Voie aux Pierres", 
+      "numOfAddr": 33, 
+      "r": 5.776889838765, 
+      "sanName": "voieauxpierres", 
+      "t": 50.603405399952
+    }, 
+    {
+      "b": 50.600493535183, 
+      "l": 5.771726664321, 
+      "name": "Voie des Potalles", 
       "numOfAddr": 2, 
-      "r": 5.764078209244, 
+      "r": 5.771982601363, 
+      "sanName": "voiedespotalles", 
+      "t": 50.600590891957
+    }, 
+    {
+      "b": 50.630843157653, 
+      "l": 5.763151578438, 
+      "name": "Voie du Charbonnage", 
+      "numOfAddr": 24, 
+      "r": 5.764944561026, 
       "sanName": "voieducharbonnage", 
-      "t": 50.631604393119
+      "t": 50.631919176766
     }
   ]
 }

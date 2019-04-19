@@ -1,0 +1,973 @@
+{
+  "streets": [
+    {
+      "b": 50.376554676287, 
+      "l": 4.456213748884, 
+      "name": "Avenue de l'Europe (CT)", 
+      "numOfAddr": 74, 
+      "otherPCs": [
+        "6001"
+      ], 
+      "r": 4.459012790823, 
+      "sanName": "avenuedeleuropect", 
+      "t": 50.383088420214
+    }, 
+    {
+      "b": 50.378357920838, 
+      "l": 4.467106369965, 
+      "name": "Avenue Ernest Solvay", 
+      "numOfAddr": 31, 
+      "r": 4.468665239469, 
+      "sanName": "avenueernestsolvay", 
+      "t": 50.379195100691
+    }, 
+    {
+      "b": 50.393159633699, 
+      "l": 4.458838949271, 
+      "name": "Esplanade Ren\u00e9 Magritte", 
+      "numOfAddr": 3, 
+      "r": 4.460046849626, 
+      "sanName": "esplanaderenmagritte", 
+      "t": 50.393831837713
+    }, 
+    {
+      "b": 50.392427663681, 
+      "l": 4.456009305349, 
+      "name": "Impasse des Hauchies", 
+      "numOfAddr": 13, 
+      "r": 4.456668278155, 
+      "sanName": "impassedeshauchies", 
+      "t": 50.392958029874
+    }, 
+    {
+      "b": 50.393561070005, 
+      "l": 4.465407660408, 
+      "name": "Impasse du Cercle", 
+      "numOfAddr": 1, 
+      "r": 4.465407660408, 
+      "sanName": "impasseducercle", 
+      "t": 50.393561070005
+    }, 
+    {
+      "b": 50.384108456698, 
+      "l": 4.476861904191, 
+      "name": "Impasse du Stade", 
+      "numOfAddr": 2, 
+      "r": 4.476953463377, 
+      "sanName": "impassedustade", 
+      "t": 50.384111985021
+    }, 
+    {
+      "b": 50.391459144645, 
+      "l": 4.468501373304, 
+      "name": "Place Basile Parent", 
+      "numOfAddr": 12, 
+      "r": 4.469321339181, 
+      "sanName": "placebasileparent", 
+      "t": 50.392320841106
+    }, 
+    {
+      "b": 50.394090765753, 
+      "l": 4.466144805051, 
+      "name": "Place Communale", 
+      "numOfAddr": 20, 
+      "r": 4.467313933122, 
+      "sanName": "placecommunale", 
+      "t": 50.394903250799
+    }, 
+    {
+      "b": 50.380794682624, 
+      "l": 4.465928491746, 
+      "name": "Place de la Queue", 
+      "numOfAddr": 16, 
+      "r": 4.467101194995, 
+      "sanName": "placedelaqueue", 
+      "t": 50.381695708972
+    }, 
+    {
+      "b": 50.387354354676, 
+      "l": 4.456462263372, 
+      "name": "Place du Transvaal", 
+      "numOfAddr": 14, 
+      "r": 4.457245907108, 
+      "sanName": "placedutransvaal", 
+      "t": 50.388011098975
+    }, 
+    {
+      "b": 50.39109266194, 
+      "l": 4.455521794166, 
+      "name": "Route de Ch\u00e2telet", 
+      "numOfAddr": 304, 
+      "r": 4.492967866911, 
+      "sanName": "routedechtelet", 
+      "t": 50.396143998195
+    }, 
+    {
+      "b": 50.377607500094, 
+      "l": 4.457351268125, 
+      "name": "Route de Philippeville", 
+      "numOfAddr": 313, 
+      "r": 4.466630316878, 
+      "sanName": "routedephilippeville", 
+      "t": 50.393610403196
+    }, 
+    {
+      "b": 50.383654610592, 
+      "l": 4.469973359748, 
+      "name": "Rue Alfred Nobel", 
+      "numOfAddr": 2, 
+      "r": 4.469987399067, 
+      "sanName": "ruealfrednobel", 
+      "t": 50.383782556057
+    }, 
+    {
+      "b": 50.385388531626, 
+      "l": 4.469194690692, 
+      "name": "Rue Beauregard", 
+      "numOfAddr": 42, 
+      "r": 4.472301356746, 
+      "sanName": "ruebeauregard", 
+      "t": 50.38755865958
+    }, 
+    {
+      "b": 50.392263578413, 
+      "l": 4.458592521956, 
+      "name": "Rue Blanche", 
+      "numOfAddr": 52, 
+      "r": 4.461631234662, 
+      "sanName": "rueblanche", 
+      "t": 50.3925817403
+    }, 
+    {
+      "b": 50.379137868605, 
+      "l": 4.472808842322, 
+      "name": "Rue Bois des Cloches", 
+      "numOfAddr": 76, 
+      "r": 4.473923172695, 
+      "sanName": "rueboisdescloches", 
+      "t": 50.381927904718
+    }, 
+    {
+      "b": 50.383794956275, 
+      "l": 4.472681058419, 
+      "name": "Rue Chant des Oiseaux (CT)", 
+      "numOfAddr": 44, 
+      "r": 4.473649646239, 
+      "sanName": "ruechantdesoiseauxct", 
+      "t": 50.385104550606
+    }, 
+    {
+      "b": 50.381034845862, 
+      "l": 4.463219868575, 
+      "name": "Rue Cit\u00e9 Jardin", 
+      "numOfAddr": 10, 
+      "r": 4.463792038443, 
+      "sanName": "ruecitjardin", 
+      "t": 50.38312711255
+    }, 
+    {
+      "b": 50.384126366001, 
+      "l": 4.466210860602, 
+      "name": "Rue de Gilly", 
+      "numOfAddr": 283, 
+      "r": 4.476568440867, 
+      "sanName": "ruedegilly", 
+      "t": 50.391974038401
+    }, 
+    {
+      "b": 50.392528172705, 
+      "l": 4.463624388586, 
+      "name": "Rue de la Baillerie", 
+      "numOfAddr": 11, 
+      "r": 4.464055970116, 
+      "sanName": "ruedelabaillerie", 
+      "t": 50.392930142875
+    }, 
+    {
+      "b": 50.377793182289, 
+      "l": 4.466433106215, 
+      "name": "Rue de la Cascade", 
+      "numOfAddr": 23, 
+      "r": 4.468810957505, 
+      "sanName": "ruedelacascade", 
+      "t": 50.378704594546
+    }, 
+    {
+      "b": 50.392430985309, 
+      "l": 4.460736178882, 
+      "name": "Rue de la Cimenterie", 
+      "numOfAddr": 18, 
+      "r": 4.463151204733, 
+      "sanName": "ruedelacimenterie", 
+      "t": 50.393144015727
+    }, 
+    {
+      "b": 50.389379590317, 
+      "l": 4.473723958188, 
+      "name": "Rue de la Citadelle", 
+      "numOfAddr": 17, 
+      "r": 4.475196291971, 
+      "sanName": "ruedelacitadelle", 
+      "t": 50.391210516291
+    }, 
+    {
+      "b": 50.385032475111, 
+      "l": 4.470499923081, 
+      "name": "Rue de la Corniche", 
+      "numOfAddr": 44, 
+      "r": 4.473686873652, 
+      "sanName": "ruedelacorniche", 
+      "t": 50.386287536534
+    }, 
+    {
+      "b": 50.386955902631, 
+      "l": 4.471150753958, 
+      "name": "Rue de la C\u00f4te", 
+      "numOfAddr": 41, 
+      "r": 4.473980564369, 
+      "sanName": "ruedelacte", 
+      "t": 50.389539383412
+    }, 
+    {
+      "b": 50.393024840158, 
+      "l": 4.468989969975, 
+      "name": "Rue de la Gare (CT)", 
+      "numOfAddr": 17, 
+      "r": 4.470259281743, 
+      "sanName": "ruedelagarect", 
+      "t": 50.39314715778
+    }, 
+    {
+      "b": 50.387909686498, 
+      "l": 4.455072561232, 
+      "name": "Rue de la Laiterie", 
+      "numOfAddr": 11, 
+      "r": 4.455758641482, 
+      "sanName": "ruedelalaiterie", 
+      "t": 50.388300284293
+    }, 
+    {
+      "b": 50.3834466572, 
+      "l": 4.466349701535, 
+      "name": "Rue de la Liaison", 
+      "numOfAddr": 10, 
+      "r": 4.466574803293, 
+      "sanName": "ruedelaliaison", 
+      "t": 50.384069841961
+    }, 
+    {
+      "b": 50.377017758251, 
+      "l": 4.457149622687, 
+      "name": "Rue de l'Am\u00e9rique", 
+      "numOfAddr": 159, 
+      "r": 4.464214128778, 
+      "sanName": "ruedelamrique", 
+      "t": 50.382883044667
+    }, 
+    {
+      "b": 50.38661735125, 
+      "l": 4.474403208893, 
+      "name": "Rue de la Panne", 
+      "numOfAddr": 9, 
+      "r": 4.475040357539, 
+      "sanName": "ruedelapanne", 
+      "t": 50.386828796136
+    }, 
+    {
+      "b": 50.390573112613, 
+      "l": 4.471165769581, 
+      "name": "Rue de la Pompe", 
+      "numOfAddr": 14, 
+      "r": 4.472186863703, 
+      "sanName": "ruedelapompe", 
+      "t": 50.390993851941
+    }, 
+    {
+      "b": 50.391122265157, 
+      "l": 4.470555267384, 
+      "name": "Rue de la Poste", 
+      "numOfAddr": 14, 
+      "r": 4.471445354523, 
+      "sanName": "ruedelaposte", 
+      "t": 50.391519695949
+    }, 
+    {
+      "b": 50.391392796458, 
+      "l": 4.470901418208, 
+      "name": "Rue de la Rampe", 
+      "numOfAddr": 24, 
+      "r": 4.471773715928, 
+      "sanName": "ruedelarampe", 
+      "t": 50.392188073588
+    }, 
+    {
+      "b": 50.38210916048, 
+      "l": 4.474902084225, 
+      "name": "Rue de l'Arm\u00e9e Fran\u00e7aise", 
+      "numOfAddr": 30, 
+      "r": 4.478918715908, 
+      "sanName": "ruedelarmefranaise", 
+      "t": 50.383957810772
+    }, 
+    {
+      "b": 50.376237594503, 
+      "l": 4.459611093401, 
+      "name": "Rue de la Source (CT)", 
+      "numOfAddr": 49, 
+      "r": 4.462539045028, 
+      "sanName": "ruedelasourcect", 
+      "t": 50.378547600347
+    }, 
+    {
+      "b": 50.388025674693, 
+      "l": 4.461271575707, 
+      "name": "Rue de l'Aveugle", 
+      "numOfAddr": 10, 
+      "r": 4.464605328619, 
+      "sanName": "ruedelaveugle", 
+      "t": 50.388585333686
+    }, 
+    {
+      "b": 50.389560224987, 
+      "l": 4.463623308599, 
+      "name": "Rue de l'Etang (CT)", 
+      "numOfAddr": 25, 
+      "r": 4.464949537696, 
+      "sanName": "ruedeletangct", 
+      "t": 50.389825333159
+    }, 
+    {
+      "b": 50.383098390316, 
+      "l": 4.475055493145, 
+      "name": "Rue de l'Ethiopie", 
+      "numOfAddr": 93, 
+      "r": 4.476634318213, 
+      "sanName": "ruedelethiopie", 
+      "t": 50.386149662857
+    }, 
+    {
+      "b": 50.377875689771, 
+      "l": 4.467226353727, 
+      "name": "Rue de Loverval", 
+      "numOfAddr": 76, 
+      "r": 4.470055933533, 
+      "sanName": "ruedeloverval", 
+      "t": 50.38113729395
+    }, 
+    {
+      "b": 50.3932470373, 
+      "l": 4.467982636873, 
+      "name": "Rue de l'Usine", 
+      "numOfAddr": 21, 
+      "r": 4.469432983922, 
+      "sanName": "ruedelusine", 
+      "t": 50.39381156725
+    }, 
+    {
+      "b": 50.394802768252, 
+      "l": 4.46113508959, 
+      "name": "Rue de Marcinelle (CT)", 
+      "numOfAddr": 108, 
+      "r": 4.467915074789, 
+      "sanName": "ruedemarcinellect", 
+      "t": 50.398070295597
+    }, 
+    {
+      "b": 50.383409351634, 
+      "l": 4.459457163701, 
+      "name": "Rue de Nalinnes (CT)", 
+      "numOfAddr": 53, 
+      "r": 4.461784209634, 
+      "sanName": "ruedenalinnesct", 
+      "t": 50.386750475791
+    }, 
+    {
+      "b": 50.388073541002, 
+      "l": 4.470959652118, 
+      "name": "Rue de Picardie", 
+      "numOfAddr": 14, 
+      "r": 4.471627599338, 
+      "sanName": "ruedepicardie", 
+      "t": 50.388847022728
+    }, 
+    {
+      "b": 50.386067228327, 
+      "l": 4.457340918809, 
+      "name": "Rue des Briqueteries", 
+      "numOfAddr": 38, 
+      "r": 4.461001965244, 
+      "sanName": "ruedesbriqueteries", 
+      "t": 50.387392118361
+    }, 
+    {
+      "b": 50.393214519494, 
+      "l": 4.470159547359, 
+      "name": "Rue des Cantines", 
+      "numOfAddr": 5, 
+      "r": 4.470379985489, 
+      "sanName": "ruedescantines", 
+      "t": 50.393836603953
+    }, 
+    {
+      "b": 50.382838943817, 
+      "l": 4.469823489768, 
+      "name": "Rue des Capucines", 
+      "numOfAddr": 18, 
+      "r": 4.470455390647, 
+      "sanName": "ruedescapucines", 
+      "t": 50.383526613775
+    }, 
+    {
+      "b": 50.378445610486, 
+      "l": 4.47379538725, 
+      "name": "Rue des Carri\u00e8res (CT)", 
+      "numOfAddr": 190, 
+      "r": 4.474779563899, 
+      "sanName": "ruedescarriresct", 
+      "t": 50.387761387145
+    }, 
+    {
+      "b": 50.388298420438, 
+      "l": 4.474478659999, 
+      "name": "Rue des Charbonnages", 
+      "numOfAddr": 6, 
+      "r": 4.47544527317, 
+      "sanName": "ruedescharbonnages", 
+      "t": 50.389100417923
+    }, 
+    {
+      "b": 50.380704510567, 
+      "l": 4.459678280793, 
+      "name": "Rue des Chardonnerets", 
+      "numOfAddr": 4, 
+      "r": 4.459762520958, 
+      "sanName": "ruedeschardonnerets", 
+      "t": 50.380970145905
+    }, 
+    {
+      "b": 50.385249618894, 
+      "l": 4.454636551622, 
+      "name": "Rue des Combattants (CT)", 
+      "numOfAddr": 17, 
+      "r": 4.45706169011, 
+      "sanName": "ruedescombattantsct", 
+      "t": 50.386246282219
+    }, 
+    {
+      "b": 50.382950396401, 
+      "l": 4.475197126284, 
+      "name": "Rue des D\u00e9port\u00e9s (CT)", 
+      "numOfAddr": 25, 
+      "r": 4.475646100262, 
+      "sanName": "ruedesdportsct", 
+      "t": 50.383865379752
+    }, 
+    {
+      "b": 50.388946589614, 
+      "l": 4.472006352683, 
+      "name": "Rue des Ecoles (CT)", 
+      "numOfAddr": 3, 
+      "r": 4.472363016342, 
+      "sanName": "ruedesecolesct", 
+      "t": 50.389105283569
+    }, 
+    {
+      "b": 50.383799440831, 
+      "l": 4.454842575425, 
+      "name": "Rue des Foug\u00e8res", 
+      "numOfAddr": 122, 
+      "r": 4.457120710447, 
+      "sanName": "ruedesfougres", 
+      "t": 50.390941883676
+    }, 
+    {
+      "b": 50.380477067086, 
+      "l": 4.47143242231, 
+      "name": "Rue des Gen\u00eats", 
+      "numOfAddr": 51, 
+      "r": 4.472078653122, 
+      "sanName": "ruedesgents", 
+      "t": 50.382110985362
+    }, 
+    {
+      "b": 50.3826949105, 
+      "l": 4.460380513254, 
+      "name": "Rue des Haies (CT)", 
+      "numOfAddr": 18, 
+      "r": 4.463343758855, 
+      "sanName": "ruedeshaiesct", 
+      "t": 50.383473922947
+    }, 
+    {
+      "b": 50.388683935866, 
+      "l": 4.455400513579, 
+      "name": "Rue des Hauchies (CT)", 
+      "numOfAddr": 65, 
+      "r": 4.460293025948, 
+      "sanName": "ruedeshauchiesct", 
+      "t": 50.392167201842
+    }, 
+    {
+      "b": 50.38249880753, 
+      "l": 4.47291426084, 
+      "name": "Rue des Jonquilles", 
+      "numOfAddr": 24, 
+      "r": 4.473401780301, 
+      "sanName": "ruedesjonquilles", 
+      "t": 50.383231082636
+    }, 
+    {
+      "b": 50.382609112118, 
+      "l": 4.471835378773, 
+      "name": "Rue des Muguets", 
+      "numOfAddr": 24, 
+      "r": 4.472401931286, 
+      "sanName": "ruedesmuguets", 
+      "t": 50.383296976493
+    }, 
+    {
+      "b": 50.379295367069, 
+      "l": 4.471096409466, 
+      "name": "Rue des Peupliers", 
+      "numOfAddr": 5, 
+      "r": 4.471582036038, 
+      "sanName": "ruedespeupliers", 
+      "t": 50.37961282236
+    }, 
+    {
+      "b": 50.391870968374, 
+      "l": 4.475339186634, 
+      "name": "Rue des Pierres", 
+      "numOfAddr": 12, 
+      "r": 4.475637445667, 
+      "sanName": "ruedespierres", 
+      "t": 50.392368581127
+    }, 
+    {
+      "b": 50.383888508329, 
+      "l": 4.466893346108, 
+      "name": "Rue des Quatre Vents", 
+      "numOfAddr": 54, 
+      "r": 4.471580726874, 
+      "sanName": "ruedesquatrevents", 
+      "t": 50.387727210149
+    }, 
+    {
+      "b": 50.378486385825, 
+      "l": 4.469406022489, 
+      "name": "Rue des Sarts (CT)", 
+      "numOfAddr": 66, 
+      "r": 4.473435147972, 
+      "sanName": "ruedessartsct", 
+      "t": 50.382414985886
+    }, 
+    {
+      "b": 50.37967476943, 
+      "l": 4.45849739059, 
+      "name": "Rue des Tourterelles", 
+      "numOfAddr": 60, 
+      "r": 4.45936008439, 
+      "sanName": "ruedestourterelles", 
+      "t": 50.383155697017
+    }, 
+    {
+      "b": 50.380696164468, 
+      "l": 4.470021576417, 
+      "name": "Rue des Violettes", 
+      "numOfAddr": 40, 
+      "r": 4.471248032975, 
+      "sanName": "ruedesviolettes", 
+      "t": 50.382342946565
+    }, 
+    {
+      "b": 50.378211168479, 
+      "l": 4.470651867416, 
+      "name": "Rue de Villers", 
+      "numOfAddr": 174, 
+      "r": 4.48577453495, 
+      "sanName": "ruedevillers", 
+      "t": 50.390954703357
+    }, 
+    {
+      "b": 50.382795383907, 
+      "l": 4.454913939592, 
+      "name": "Rue d'Hublinbu", 
+      "numOfAddr": 12, 
+      "r": 4.456569789905, 
+      "sanName": "ruedhublinbu", 
+      "t": 50.383397823714
+    }, 
+    {
+      "b": 50.391756090242, 
+      "l": 4.476627081076, 
+      "name": "Rue du Bavery", 
+      "numOfAddr": 9, 
+      "r": 4.477468091452, 
+      "sanName": "ruedubavery", 
+      "t": 50.391853583914
+    }, 
+    {
+      "b": 50.389455060323, 
+      "l": 4.467978463148, 
+      "name": "Rue du Belv\u00e9d\u00e8re", 
+      "numOfAddr": 18, 
+      "r": 4.468404529533, 
+      "sanName": "ruedubelvdre", 
+      "t": 50.390382257389
+    }, 
+    {
+      "b": 50.378736377335, 
+      "l": 4.461409477079, 
+      "name": "Rue du Bouleau", 
+      "numOfAddr": 38, 
+      "r": 4.464748518963, 
+      "sanName": "ruedubouleau", 
+      "t": 50.379718930227
+    }, 
+    {
+      "b": 50.393838685419, 
+      "l": 4.464261588542, 
+      "name": "Rue du Cercle (CT)", 
+      "numOfAddr": 26, 
+      "r": 4.466047914317, 
+      "sanName": "rueducerclect", 
+      "t": 50.394610337093
+    }, 
+    {
+      "b": 50.387441780045, 
+      "l": 4.468395481722, 
+      "name": "Rue du Cimeti\u00e8re (CT)", 
+      "numOfAddr": 16, 
+      "r": 4.470906773829, 
+      "sanName": "rueducimetirect", 
+      "t": 50.388027018042
+    }, 
+    {
+      "b": 50.383443791865, 
+      "l": 4.466817419664, 
+      "name": "Rue du Congo (CT)", 
+      "numOfAddr": 77, 
+      "r": 4.473905806101, 
+      "sanName": "rueducongoct", 
+      "t": 50.38682675102
+    }, 
+    {
+      "b": 50.387520657759, 
+      "l": 4.4621495265, 
+      "name": "Rue du Coucou (CT)", 
+      "numOfAddr": 135, 
+      "r": 4.464937539047, 
+      "sanName": "rueducoucouct", 
+      "t": 50.391929234272
+    }, 
+    {
+      "b": 50.389543988306, 
+      "l": 4.469990652137, 
+      "name": "Rue du Fournil", 
+      "numOfAddr": 11, 
+      "r": 4.470533325418, 
+      "sanName": "ruedufournil", 
+      "t": 50.390165789447
+    }, 
+    {
+      "b": 50.37912923072, 
+      "l": 4.463465128965, 
+      "name": "Rue du G\u00e9n\u00e9ral Lanrezac", 
+      "numOfAddr": 29, 
+      "r": 4.464676608883, 
+      "sanName": "ruedugnrallanrezac", 
+      "t": 50.38011194377
+    }, 
+    {
+      "b": 50.385099422869, 
+      "l": 4.469157384924, 
+      "name": "Rue du Grand Paysage", 
+      "numOfAddr": 3, 
+      "r": 4.469529251342, 
+      "sanName": "ruedugrandpaysage", 
+      "t": 50.385186217625
+    }, 
+    {
+      "b": 50.388470582242, 
+      "l": 4.46479885845, 
+      "name": "Rue du Moulin (CT)", 
+      "numOfAddr": 33, 
+      "r": 4.466780435879, 
+      "sanName": "ruedumoulinct", 
+      "t": 50.392043982119
+    }, 
+    {
+      "b": 50.390677152862, 
+      "l": 4.468595189659, 
+      "name": "Rue du P\u00e2", 
+      "numOfAddr": 22, 
+      "r": 4.469879327819, 
+      "sanName": "ruedup", 
+      "t": 50.391103641476
+    }, 
+    {
+      "b": 50.389549618316, 
+      "l": 4.462502839504, 
+      "name": "Rue du Petit Pige", 
+      "numOfAddr": 46, 
+      "r": 4.463677713499, 
+      "sanName": "ruedupetitpige", 
+      "t": 50.391814113548
+    }, 
+    {
+      "b": 50.38349261772, 
+      "l": 4.454030924891, 
+      "name": "Rue du Transvaal", 
+      "numOfAddr": 141, 
+      "r": 4.460475166604, 
+      "sanName": "ruedutransvaal", 
+      "t": 50.38858689753
+    }, 
+    {
+      "b": 50.376599648883, 
+      "l": 4.462377994173, 
+      "name": "Rue du Tunnel", 
+      "numOfAddr": 23, 
+      "r": 4.465388774739, 
+      "sanName": "ruedutunnel", 
+      "t": 50.379267404122
+    }, 
+    {
+      "b": 50.392484601932, 
+      "l": 4.466470109811, 
+      "name": "Rue du Village", 
+      "numOfAddr": 37, 
+      "r": 4.468378138383, 
+      "sanName": "rueduvillage", 
+      "t": 50.394737751666
+    }, 
+    {
+      "b": 50.383512899969, 
+      "l": 4.477226414642, 
+      "name": "Rue du Vingt-deux Ao\u00fbt", 
+      "numOfAddr": 28, 
+      "r": 4.47778658645, 
+      "sanName": "rueduvingtdeuxaot", 
+      "t": 50.384527922436
+    }, 
+    {
+      "b": 50.383987410548, 
+      "l": 4.475752231741, 
+      "name": "Rue du Vingt-huit Juin", 
+      "numOfAddr": 1, 
+      "r": 4.475752231741, 
+      "sanName": "rueduvingthuitjuin", 
+      "t": 50.383987410548
+    }, 
+    {
+      "b": 50.381738593873, 
+      "l": 4.465938629775, 
+      "name": "Rue du Vivier", 
+      "numOfAddr": 5, 
+      "r": 4.466262025756, 
+      "sanName": "rueduvivier", 
+      "t": 50.382520720025
+    }, 
+    {
+      "b": 50.390765935514, 
+      "l": 4.469107908891, 
+      "name": "Rue Emile Vandervelde (CT)", 
+      "numOfAddr": 27, 
+      "r": 4.470245294302, 
+      "sanName": "rueemilevanderveldect", 
+      "t": 50.391640639704
+    }, 
+    {
+      "b": 50.383498077352, 
+      "l": 4.472173640244, 
+      "name": "Rue Fond Jacques", 
+      "numOfAddr": 15, 
+      "r": 4.473770783759, 
+      "sanName": "ruefondjacques", 
+      "t": 50.384566813389
+    }, 
+    {
+      "b": 50.378623426602, 
+      "l": 4.483305824835, 
+      "name": "Rue Fromont", 
+      "numOfAddr": 5, 
+      "r": 4.484052784076, 
+      "sanName": "ruefromont", 
+      "t": 50.379867732222
+    }, 
+    {
+      "b": 50.388978614379, 
+      "l": 4.461422206518, 
+      "name": "Rue Jean Hublou", 
+      "numOfAddr": 20, 
+      "r": 4.462758793626, 
+      "sanName": "ruejeanhublou", 
+      "t": 50.389603138096
+    }, 
+    {
+      "b": 50.379565279281, 
+      "l": 4.462269885877, 
+      "name": "Rue Jean Jaur\u00e8s (CT)", 
+      "numOfAddr": 42, 
+      "r": 4.465357755383, 
+      "sanName": "ruejeanjaursct", 
+      "t": 50.381946415793
+    }, 
+    {
+      "b": 50.383323896663, 
+      "l": 4.467512137077, 
+      "name": "Rue Joseph Wauters (CT)", 
+      "numOfAddr": 63, 
+      "r": 4.474025210626, 
+      "sanName": "ruejosephwautersct", 
+      "t": 50.38583317463
+    }, 
+    {
+      "b": 50.389189707552, 
+      "l": 4.471498193907, 
+      "name": "Rue Lespagne", 
+      "numOfAddr": 10, 
+      "r": 4.472094988153, 
+      "sanName": "ruelespagne", 
+      "t": 50.389862715716
+    }, 
+    {
+      "b": 50.390350616963, 
+      "l": 4.472208607604, 
+      "name": "Rue Lolote", 
+      "numOfAddr": 12, 
+      "r": 4.472711349325, 
+      "sanName": "ruelolote", 
+      "t": 50.391284003994
+    }, 
+    {
+      "b": 50.390266248541, 
+      "l": 4.475579824775, 
+      "name": "Rue Lombard", 
+      "numOfAddr": 22, 
+      "r": 4.476158021145, 
+      "sanName": "ruelombard", 
+      "t": 50.391292797603
+    }, 
+    {
+      "b": 50.390486890523, 
+      "l": 4.467541895796, 
+      "name": "Rue Mahy", 
+      "numOfAddr": 2, 
+      "r": 4.467585785097, 
+      "sanName": "ruemahy", 
+      "t": 50.390527600572
+    }, 
+    {
+      "b": 50.387809487806, 
+      "l": 4.471083430681, 
+      "name": "Rue Maximilien Luce", 
+      "numOfAddr": 39, 
+      "r": 4.474360318073, 
+      "sanName": "ruemaximilienluce", 
+      "t": 50.390209080681
+    }, 
+    {
+      "b": 50.390194220983, 
+      "l": 4.469057590942, 
+      "name": "Rue Mouche", 
+      "numOfAddr": 10, 
+      "r": 4.469565023367, 
+      "sanName": "ruemouche", 
+      "t": 50.390389863895
+    }, 
+    {
+      "b": 50.393912497004, 
+      "l": 4.468443081377, 
+      "name": "Rue Nouvelle (CT)", 
+      "numOfAddr": 22, 
+      "r": 4.469173641655, 
+      "sanName": "ruenouvellect", 
+      "t": 50.394627462433
+    }, 
+    {
+      "b": 50.392746636543, 
+      "l": 4.464152065719, 
+      "name": "Rue Paul Deschamps", 
+      "numOfAddr": 12, 
+      "r": 4.466214658121, 
+      "sanName": "ruepauldeschamps", 
+      "t": 50.393237491168
+    }, 
+    {
+      "b": 50.387566765341, 
+      "l": 4.457354858655, 
+      "name": "Rue Ry Oursel", 
+      "numOfAddr": 32, 
+      "r": 4.458535704617, 
+      "sanName": "rueryoursel", 
+      "t": 50.3892798378
+    }, 
+    {
+      "b": 50.387515231432, 
+      "l": 4.469761221255, 
+      "name": "Rue Saint-Marceau", 
+      "numOfAddr": 54, 
+      "r": 4.472927698007, 
+      "sanName": "ruesaintmarceau", 
+      "t": 50.390331874733
+    }, 
+    {
+      "b": 50.377992190449, 
+      "l": 4.466465214144, 
+      "name": "Rue Terre des Bois", 
+      "numOfAddr": 51, 
+      "r": 4.469274346309, 
+      "sanName": "rueterredesbois", 
+      "t": 50.380745168535
+    }, 
+    {
+      "b": 50.383920687217, 
+      "l": 4.453714807492, 
+      "name": "Rue Tienne Saint-Gilles", 
+      "numOfAddr": 95, 
+      "otherPCs": [
+        "6001"
+      ], 
+      "r": 4.456000006349, 
+      "sanName": "ruetiennesaintgilles", 
+      "t": 50.391582330517
+    }, 
+    {
+      "b": 50.384338039839, 
+      "l": 4.457016510341, 
+      "name": "Rue Trieu Plaqueu", 
+      "numOfAddr": 17, 
+      "r": 4.459389363172, 
+      "sanName": "ruetrieuplaqueu", 
+      "t": 50.384890161838
+    }, 
+    {
+      "b": 50.379713447976, 
+      "l": 4.461838846185, 
+      "name": "Rue Victor Bourgeois", 
+      "numOfAddr": 35, 
+      "r": 4.463838078207, 
+      "sanName": "ruevictorbourgeois", 
+      "t": 50.380982854276
+    }, 
+    {
+      "b": 50.384616435592, 
+      "l": 4.458520910016, 
+      "name": "Square Albert 1er", 
+      "numOfAddr": 9, 
+      "r": 4.459856328672, 
+      "sanName": "squarealbert1er", 
+      "t": 50.38520752626
+    }, 
+    {
+      "b": 50.38010960832, 
+      "l": 4.471925047443, 
+      "name": "Square des Gen\u00eats", 
+      "numOfAddr": 6, 
+      "r": 4.47196963107, 
+      "sanName": "squaredesgents", 
+      "t": 50.38034100683
+    }
+  ]
+}
