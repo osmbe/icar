@@ -224,7 +224,7 @@ function updateData()
 			document.getElementById(sanName + "-wrong").innerHTML = "...";
 			document.getElementById(sanName + "-completeness").innerHTML = "...";
 		}
-		// Also import the actual CRAB data
+		// Also import the actual ICAR data
 		getCrabInfo(i);
 	}
 	// Load osm data
@@ -416,7 +416,7 @@ function compareData() {
 }
 
 /**
- * Brings one OSM address to multiple CRAB format addresses
+ * Brings one OSM address to multiple ICAR format addresses
  * - transform bis and ter into _2 and _3
  * - transform /2, /3, ... into _2, _3, ...
  * - split the address per , or ;
@@ -428,7 +428,7 @@ function compareData() {
 function expandOsmHnr(hnr) {
 	if (!hnr)
 		return [];
-	// simple format that's the same in OSM and in CRAB
+	// simple format that's the same in OSM and in ICAR
 	// for performance reasons, most housenumbers should stop here
 	if (/^[0-9]+[A-Z]?$/.test(hnr))
 		return [hnr];
@@ -450,7 +450,7 @@ function expandOsmHnr(hnr) {
 		if (!validHnrRegex.test(hnrArray[i]))
 			return [];
 
-		// transform all bis addresses to CRAB format
+		// transform all bis addresses to ICAR format
 		hnrArray[i] = hnrArray[i].replace(/ bis/g, "_2");
 		hnrArray[i] = hnrArray[i].replace(/ ter/g, "_3");
 		hnrArray[i] = hnrArray[i].replace(/\/([0-9]+)/g, "_$1");
@@ -510,7 +510,7 @@ function isOsmAddrInCrab(osmAddr, crabStreet) {
 	if (osmAddr.expandedHnr.length == 0)
 		return false;
 	var maxDist = getMaxDist();
-	// every housenumber in the OSM address has to be somewhere in a CRAB address
+	// every housenumber in the OSM address has to be somewhere in a ICAR address
 	return osmAddr.expandedHnr.every(function(hnr) {
 		return crabStreet.some(function(crabAddr) {
 			if  (hnr != crabAddr.housenumber.toUpperCase())
@@ -580,13 +580,13 @@ function getOsmXml(type, streetData)
 		if (type == "wrong")
 		{
 			// odbl:note is discarded by JOSM, so never uploaded
-			str += getOsmTag("odbl:note", "CRAB:OsmDerived");
-			fixme += "This number is not preset in CRAB. It may be a spelling mistake, a non-existing address or an error in CRAB itself. ";
+			str += getOsmTag("odbl:note", "ICAR:OsmDerived");
+			fixme += "This number is not preset in ICAR. It may be a spelling mistake, a non-existing address or an error in ICAR itself. ";
 		}
 		else
 		{
 			// odbl:note is discarded by JOSM, so never uploaded
-			str += getOsmTag("odbl:note", "CRAB:" + addr.source);
+			str += getOsmTag("odbl:note", "ICAR:" + addr.source);
 			if (includePcode())
 			{
 				str += getOsmTag("addr:city", addr.municipality);
@@ -594,15 +594,15 @@ function getOsmXml(type, streetData)
 			}
 			if (showCrabInfo())
 			{
-				str += getOsmTag("CRAB:herkomst", addr.source);
-				str += getOsmTag("CRAB:hnrLabels", addr.hnrlbls.join(";"));
+				str += getOsmTag("ICAR:herkomst", addr.source);
+				str += getOsmTag("ICAR:hnrLabels", addr.hnrlbls.join(";"));
 				if (addr.apptnrs)
-					str += getOsmTag("CRAB:apptnrs", addr.apptnrs.join(";"));
+					str += getOsmTag("ICAR:apptnrs", addr.apptnrs.join(";"));
 				if (addr.busnrs)
-					str += getOsmTag("CRAB:busnrs", addr.busnrs.join(";"));
+					str += getOsmTag("ICAR:busnrs", addr.busnrs.join(";"));
 			}
 			if (addr.hnrlbls.length > 1)
-				fixme += "This number contains multiple housenumber labels. As the housenumber labels is a combination of all housenumbers in that location, this is certainly a mistake in CRAB. Please report it to AGIV. ";
+				fixme += "This number contains multiple housenumber labels. As the housenumber labels is a combination of all housenumbers in that location, this is certainly a mistake in ICAR. Please report it to AGIV. ";
 			if (includeFlats())
 			{
 				if (addr.apptnrs && addr.busnrs)
@@ -796,8 +796,8 @@ function escapeRegExp(str, flag) {
 	else if (flag == IGNORE_SPELLING)
 	{
 		str = str.replace(/[\*]/g, "\\$&");
-		// Support abbreviations in CRAB data: change . to regex
-		// CRAB name         -> Related Regex              -> matching OSM name
+		// Support abbreviations in ICAR data: change . to regex
+		// ICAR name         -> Related Regex              -> matching OSM name
 		// "J. Gobelijn"     -> /^J.* Gobelijn$/           -> "Jeremias Gobelijn"
 		// "Dr. Gobelijn"    -> /^D.*r.* Gobelijn$/        -> "Doctor Gobelijn"
 		// "St. Nikolaas"    -> /^S.*t.* Nikolaas$/        -> "Sint Nikolaas"
