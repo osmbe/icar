@@ -1,6 +1,13 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A001", 
+        "A002", 
+        "R001", 
+        "R002", 
+        "R004"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -25,6 +32,9 @@
       "street": "Bragard"
     }, 
     {
+      "busnrs": [
+        "000D"
+      ], 
       "hnrlbls": [
         "3"
       ], 

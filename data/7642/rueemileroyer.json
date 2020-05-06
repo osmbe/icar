@@ -2,35 +2,11 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1"
-      ], 
-      "housenumber": "1", 
-      "lat": 50.577865573132, 
-      "lon": 3.436521352575, 
-      "municipality": "Antoing", 
-      "pcode": "7642", 
-      "source": "7722099", 
-      "street": "Rue Emile Royer"
-    }, 
-    {
-      "hnrlbls": [
         "11"
       ], 
       "housenumber": "11", 
       "lat": 50.577644427975, 
       "lon": 3.435532830778, 
-      "municipality": "Antoing", 
-      "pcode": "7642", 
-      "source": "7722099", 
-      "street": "Rue Emile Royer"
-    }, 
-    {
-      "hnrlbls": [
-        "12"
-      ], 
-      "housenumber": "12", 
-      "lat": 50.577621873751, 
-      "lon": 3.436211427669, 
       "municipality": "Antoing", 
       "pcode": "7642", 
       "source": "7722099", 
@@ -122,11 +98,23 @@
     }, 
     {
       "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.577865573132, 
+      "lon": 3.436521352575, 
+      "municipality": "Antoing", 
+      "pcode": "7642", 
+      "source": "7722099", 
+      "street": "Rue Emile Royer"
+    }, 
+    {
+      "hnrlbls": [
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 50.577467757014, 
-      "lon": 3.43558543758, 
+      "lat": 50.577514638579, 
+      "lon": 3.435702026152, 
       "municipality": "Antoing", 
       "pcode": "7642", 
       "source": "7722099", 
@@ -139,6 +127,18 @@
       "housenumber": "21", 
       "lat": 50.577444355733, 
       "lon": 3.435109094876, 
+      "municipality": "Antoing", 
+      "pcode": "7642", 
+      "source": "7722099", 
+      "street": "Rue Emile Royer"
+    }, 
+    {
+      "hnrlbls": [
+        "22"
+      ], 
+      "housenumber": "22", 
+      "lat": 50.577467757014, 
+      "lon": 3.43558543758, 
       "municipality": "Antoing", 
       "pcode": "7642", 
       "source": "7722099", 
@@ -229,6 +229,12 @@
       "street": "Rue Emile Royer"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "11", 
+        "12", 
+        "21"
+      ], 
       "hnrlbls": [
         "30"
       ], 

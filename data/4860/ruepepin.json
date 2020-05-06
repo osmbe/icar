@@ -25,6 +25,13 @@
       "street": "Rue Pepin"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -37,6 +44,9 @@
       "street": "Rue Pepin"
     }, 
     {
+      "busnrs": [
+        "0002"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -61,6 +71,10 @@
       "street": "Rue Pepin"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -85,6 +99,11 @@
       "street": "Rue Pepin"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "0003", 
+        "0011"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -109,6 +128,9 @@
       "street": "Rue Pepin"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -121,6 +143,11 @@
       "street": "Rue Pepin"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0010", 
+        "0020"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -229,6 +256,11 @@
       "street": "Rue Pepin"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "41"
       ], 
@@ -241,12 +273,15 @@
       "street": "Rue Pepin"
     }, 
     {
+      "busnrs": [
+        "0009"
+      ], 
       "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.567914272798, 
-      "lon": 5.804172063093, 
+      "lat": 50.567880768557, 
+      "lon": 5.804155346014, 
       "municipality": "Pepinster", 
       "pcode": "4860", 
       "source": "7737380", 
@@ -257,8 +292,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.567906740638, 
-      "lon": 5.804215615054, 
+      "lat": 50.567868323543, 
+      "lon": 5.804246609596, 
       "municipality": "Pepinster", 
       "pcode": "4860", 
       "source": "7737380", 

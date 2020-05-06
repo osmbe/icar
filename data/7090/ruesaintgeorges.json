@@ -1,6 +1,14 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A/RC", 
+        "Bt.1", 
+        "Bt.2", 
+        "Bt.4", 
+        "Bt.5", 
+        "Bt.6"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -29,8 +37,8 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 50.610343561431, 
-      "lon": 4.134910038086, 
+      "lat": 50.610344205769, 
+      "lon": 4.134875270638, 
       "municipality": "Braine-le-Comte", 
       "pcode": "7090", 
       "source": "7716691", 
@@ -53,8 +61,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 50.610343561431, 
-      "lon": 4.134910038086, 
+      "lat": 50.610358486328, 
+      "lon": 4.134879685914, 
       "municipality": "Braine-le-Comte", 
       "pcode": "7090", 
       "source": "7716691", 
@@ -89,8 +97,8 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 50.61064022768, 
-      "lon": 4.135042031505, 
+      "lat": 50.610605512939, 
+      "lon": 4.134989120726, 
       "municipality": "Braine-le-Comte", 
       "pcode": "7090", 
       "source": "7716691", 
@@ -137,14 +145,17 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 50.610477387161, 
-      "lon": 4.134698440511, 
+      "lat": 50.610452405367, 
+      "lon": 4.134695199931, 
       "municipality": "Braine-le-Comte", 
       "pcode": "7090", 
       "source": "7716691", 
       "street": "Rue Saint-Georges"
     }, 
     {
+      "busnrs": [
+        "Et.1"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -161,8 +172,20 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 50.610477387161, 
-      "lon": 4.134698440511, 
+      "lat": 50.610507396085, 
+      "lon": 4.134717357177, 
+      "municipality": "Braine-le-Comte", 
+      "pcode": "7090", 
+      "source": "7716691", 
+      "street": "Rue Saint-Georges"
+    }, 
+    {
+      "hnrlbls": [
+        "25"
+      ], 
+      "housenumber": "25", 
+      "lat": 50.610946403112, 
+      "lon": 4.135177007455, 
       "municipality": "Braine-le-Comte", 
       "pcode": "7090", 
       "source": "7716691", 
@@ -209,8 +232,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 50.611067513441, 
-      "lon": 4.13535576864, 
+      "lat": 50.611092919608, 
+      "lon": 4.135273403782, 
       "municipality": "Braine-le-Comte", 
       "pcode": "7090", 
       "source": "7716691", 
@@ -313,6 +336,9 @@
       "street": "Rue Saint-Georges"
     }, 
     {
+      "busnrs": [
+        "R.C."
+      ], 
       "hnrlbls": [
         "38"
       ], 
@@ -341,8 +367,8 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 50.611399256853, 
-      "lon": 4.135523085461, 
+      "lat": 50.61137203297, 
+      "lon": 4.135439110026, 
       "municipality": "Braine-le-Comte", 
       "pcode": "7090", 
       "source": "7716691", 
@@ -353,8 +379,8 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 50.611003009671, 
-      "lon": 4.134923384847, 
+      "lat": 50.610978649384, 
+      "lon": 4.134933784996, 
       "municipality": "Braine-le-Comte", 
       "pcode": "7090", 
       "source": "7716691", 
@@ -398,6 +424,18 @@
     }, 
     {
       "hnrlbls": [
+        "47"
+      ], 
+      "housenumber": "47", 
+      "lat": 50.611449748823, 
+      "lon": 4.135489330727, 
+      "municipality": "Braine-le-Comte", 
+      "pcode": "7090", 
+      "source": "7716691", 
+      "street": "Rue Saint-Georges"
+    }, 
+    {
+      "hnrlbls": [
         "48"
       ], 
       "housenumber": "48", 
@@ -425,8 +463,20 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 50.611207019907, 
-      "lon": 4.135075730264, 
+      "lat": 50.611191011347, 
+      "lon": 4.135099172301, 
+      "municipality": "Braine-le-Comte", 
+      "pcode": "7090", 
+      "source": "7716691", 
+      "street": "Rue Saint-Georges"
+    }, 
+    {
+      "hnrlbls": [
+        "53"
+      ], 
+      "housenumber": "53", 
+      "lat": 50.61190113009, 
+      "lon": 4.135448230384, 
       "municipality": "Braine-le-Comte", 
       "pcode": "7090", 
       "source": "7716691", 
@@ -439,18 +489,6 @@
       "housenumber": "54", 
       "lat": 50.611234946564, 
       "lon": 4.135127020784, 
-      "municipality": "Braine-le-Comte", 
-      "pcode": "7090", 
-      "source": "7716691", 
-      "street": "Rue Saint-Georges"
-    }, 
-    {
-      "hnrlbls": [
-        "56"
-      ], 
-      "housenumber": "56", 
-      "lat": 50.611320298458, 
-      "lon": 4.135136122689, 
       "municipality": "Braine-le-Comte", 
       "pcode": "7090", 
       "source": "7716691", 
@@ -485,8 +523,8 @@
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 50.611498562684, 
-      "lon": 4.13522630339, 
+      "lat": 50.61143496271, 
+      "lon": 4.13529988542, 
       "municipality": "Braine-le-Comte", 
       "pcode": "7090", 
       "source": "7716691", 
@@ -497,8 +535,20 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 50.611559896628, 
-      "lon": 4.135160585083, 
+      "lat": 50.611478342544, 
+      "lon": 4.135296310481, 
+      "municipality": "Braine-le-Comte", 
+      "pcode": "7090", 
+      "source": "7716691", 
+      "street": "Rue Saint-Georges"
+    }, 
+    {
+      "hnrlbls": [
+        "66"
+      ], 
+      "housenumber": "66", 
+      "lat": 50.611520279418, 
+      "lon": 4.13531253981, 
       "municipality": "Braine-le-Comte", 
       "pcode": "7090", 
       "source": "7716691", 
@@ -535,6 +585,18 @@
       "housenumber": "74", 
       "lat": 50.611886700249, 
       "lon": 4.135276073801, 
+      "municipality": "Braine-le-Comte", 
+      "pcode": "7090", 
+      "source": "7716691", 
+      "street": "Rue Saint-Georges"
+    }, 
+    {
+      "hnrlbls": [
+        "7C"
+      ], 
+      "housenumber": "7C", 
+      "lat": 50.610221830407, 
+      "lon": 4.134848813216, 
       "municipality": "Braine-le-Comte", 
       "pcode": "7090", 
       "source": "7716691", 

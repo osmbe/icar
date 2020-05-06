@@ -1,6 +1,18 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A", 
+        "B", 
+        "C", 
+        "F", 
+        "G", 
+        "H", 
+        "I", 
+        "K", 
+        "L", 
+        "M"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -25,6 +37,15 @@
       "street": "Place de la Gare"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "2-1", 
+        "2-2", 
+        "2-3", 
+        "2-4", 
+        "A"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -49,6 +70,9 @@
       "street": "Place de la Gare"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "16"
       ], 

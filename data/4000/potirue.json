@@ -1,12 +1,92 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0021", 
+        "0022", 
+        "0023", 
+        "0031", 
+        "0032", 
+        "0033", 
+        "0041", 
+        "0042", 
+        "0043", 
+        "0051", 
+        "0052", 
+        "0053", 
+        "0061", 
+        "0062"
+      ], 
       "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
       "lat": 50.645962052952, 
       "lon": 5.57833983886, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730104", 
+      "street": "Poti\u00e9rue"
+    }, 
+    {
+      "hnrlbls": [
+        "12"
+      ], 
+      "housenumber": "12", 
+      "lat": 50.645907076372, 
+      "lon": 5.578396675434, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730104", 
+      "street": "Poti\u00e9rue"
+    }, 
+    {
+      "busnrs": [
+        "A021", 
+        "A022", 
+        "A023", 
+        "A024", 
+        "A031", 
+        "A032", 
+        "A033", 
+        "A034", 
+        "A041", 
+        "A042", 
+        "A043", 
+        "A051", 
+        "A052", 
+        "A061"
+      ], 
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.646081683278, 
+      "lon": 5.578266672455, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730104", 
+      "street": "Poti\u00e9rue"
+    }, 
+    {
+      "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 50.64574574491, 
+      "lon": 5.579289854576, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730104", 
+      "street": "Poti\u00e9rue"
+    }, 
+    {
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 50.646027687829, 
+      "lon": 5.578323407143, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730104", 

@@ -13,6 +13,9 @@
       "street": "Chauss\u00e9e de Verviers"
     }, 
     {
+      "busnrs": [
+        "/1"
+      ], 
       "hnrlbls": [
         "100"
       ], 
@@ -85,6 +88,11 @@
       "street": "Chauss\u00e9e de Verviers"
     }, 
     {
+      "busnrs": [
+        "/1", 
+        "/1A", 
+        "/R.C."
+      ], 
       "hnrlbls": [
         "115"
       ], 
@@ -134,9 +142,9 @@
     }, 
     {
       "hnrlbls": [
-        "122/A"
+        "122A"
       ], 
-      "housenumber": "122/A", 
+      "housenumber": "122A", 
       "lat": 50.54588305219, 
       "lon": 5.83436850959, 
       "municipality": "Theux", 
@@ -145,6 +153,9 @@
       "street": "Chauss\u00e9e de Verviers"
     }, 
     {
+      "busnrs": [
+        "/0001"
+      ], 
       "hnrlbls": [
         "124"
       ], 
@@ -158,9 +169,9 @@
     }, 
     {
       "hnrlbls": [
-        "124/A"
+        "124A"
       ], 
-      "housenumber": "124/A", 
+      "housenumber": "124A", 
       "lat": 50.546136375184, 
       "lon": 5.835589545692, 
       "municipality": "Theux", 
@@ -242,9 +253,9 @@
     }, 
     {
       "hnrlbls": [
-        "132/A"
+        "132A"
       ], 
-      "housenumber": "132/A", 
+      "housenumber": "132A", 
       "lat": 50.546619359859, 
       "lon": 5.837199032874, 
       "municipality": "Theux", 
@@ -281,8 +292,8 @@
         "136"
       ], 
       "housenumber": "136", 
-      "lat": 50.547257717643, 
-      "lon": 5.838619256488, 
+      "lat": 50.547295150432, 
+      "lon": 5.838622287202, 
       "municipality": "Theux", 
       "pcode": "4910", 
       "source": "7738310", 
@@ -386,9 +397,9 @@
     }, 
     {
       "hnrlbls": [
-        "147/A"
+        "147A"
       ], 
-      "housenumber": "147/A", 
+      "housenumber": "147A", 
       "lat": 50.546030148654, 
       "lon": 5.833337039628, 
       "municipality": "Theux", 
@@ -437,8 +448,8 @@
         "151"
       ], 
       "housenumber": "151", 
-      "lat": 50.547159533112, 
-      "lon": 5.83640911372, 
+      "lat": 50.547155068755, 
+      "lon": 5.836473178544, 
       "municipality": "Theux", 
       "pcode": "4910", 
       "source": "7738310", 
@@ -566,11 +577,119 @@
     }, 
     {
       "hnrlbls": [
+        "183"
+      ], 
+      "housenumber": "183", 
+      "lat": 50.55836702928, 
+      "lon": 5.861322830817, 
+      "municipality": "Theux", 
+      "pcode": "4910", 
+      "source": "7738310", 
+      "street": "Chauss\u00e9e de Verviers"
+    }, 
+    {
+      "hnrlbls": [
+        "185"
+      ], 
+      "housenumber": "185", 
+      "lat": 50.55863100406, 
+      "lon": 5.861469612534, 
+      "municipality": "Theux", 
+      "pcode": "4910", 
+      "source": "7738310", 
+      "street": "Chauss\u00e9e de Verviers"
+    }, 
+    {
+      "hnrlbls": [
+        "187"
+      ], 
+      "housenumber": "187", 
+      "lat": 50.558823905136, 
+      "lon": 5.86161158226, 
+      "municipality": "Theux", 
+      "pcode": "4910", 
+      "source": "7738310", 
+      "street": "Chauss\u00e9e de Verviers"
+    }, 
+    {
+      "hnrlbls": [
+        "189"
+      ], 
+      "housenumber": "189", 
+      "lat": 50.559017289643, 
+      "lon": 5.86177194722, 
+      "municipality": "Theux", 
+      "pcode": "4910", 
+      "source": "7738310", 
+      "street": "Chauss\u00e9e de Verviers"
+    }, 
+    {
+      "hnrlbls": [
         "19"
       ], 
       "housenumber": "19", 
       "lat": 50.538755520481, 
       "lon": 5.81668954728, 
+      "municipality": "Theux", 
+      "pcode": "4910", 
+      "source": "7738310", 
+      "street": "Chauss\u00e9e de Verviers"
+    }, 
+    {
+      "hnrlbls": [
+        "191"
+      ], 
+      "housenumber": "191", 
+      "lat": 50.559224973955, 
+      "lon": 5.861934896696, 
+      "municipality": "Theux", 
+      "pcode": "4910", 
+      "source": "7738310", 
+      "street": "Chauss\u00e9e de Verviers"
+    }, 
+    {
+      "hnrlbls": [
+        "193"
+      ], 
+      "housenumber": "193", 
+      "lat": 50.559489698411, 
+      "lon": 5.862110610639, 
+      "municipality": "Theux", 
+      "pcode": "4910", 
+      "source": "7738310", 
+      "street": "Chauss\u00e9e de Verviers"
+    }, 
+    {
+      "hnrlbls": [
+        "193A"
+      ], 
+      "housenumber": "193A", 
+      "lat": 50.559681363006, 
+      "lon": 5.862247759773, 
+      "municipality": "Theux", 
+      "pcode": "4910", 
+      "source": "7738310", 
+      "street": "Chauss\u00e9e de Verviers"
+    }, 
+    {
+      "hnrlbls": [
+        "195"
+      ], 
+      "housenumber": "195", 
+      "lat": 50.559856926269, 
+      "lon": 5.86238731058, 
+      "municipality": "Theux", 
+      "pcode": "4910", 
+      "source": "7738310", 
+      "street": "Chauss\u00e9e de Verviers"
+    }, 
+    {
+      "hnrlbls": [
+        "197"
+      ], 
+      "housenumber": "197", 
+      "lat": 50.560064215138, 
+      "lon": 5.862559366561, 
       "municipality": "Theux", 
       "pcode": "4910", 
       "source": "7738310", 
@@ -602,6 +721,66 @@
     }, 
     {
       "hnrlbls": [
+        "201"
+      ], 
+      "housenumber": "201", 
+      "lat": 50.560267051945, 
+      "lon": 5.862688643957, 
+      "municipality": "Theux", 
+      "pcode": "4910", 
+      "source": "7738310", 
+      "street": "Chauss\u00e9e de Verviers"
+    }, 
+    {
+      "hnrlbls": [
+        "203"
+      ], 
+      "housenumber": "203", 
+      "lat": 50.560466741801, 
+      "lon": 5.862847340099, 
+      "municipality": "Theux", 
+      "pcode": "4910", 
+      "source": "7738310", 
+      "street": "Chauss\u00e9e de Verviers"
+    }, 
+    {
+      "hnrlbls": [
+        "205"
+      ], 
+      "housenumber": "205", 
+      "lat": 50.560672636692, 
+      "lon": 5.862988447173, 
+      "municipality": "Theux", 
+      "pcode": "4910", 
+      "source": "7738310", 
+      "street": "Chauss\u00e9e de Verviers"
+    }, 
+    {
+      "hnrlbls": [
+        "207"
+      ], 
+      "housenumber": "207", 
+      "lat": 50.560888253038, 
+      "lon": 5.86316169527, 
+      "municipality": "Theux", 
+      "pcode": "4910", 
+      "source": "7738310", 
+      "street": "Chauss\u00e9e de Verviers"
+    }, 
+    {
+      "hnrlbls": [
+        "209"
+      ], 
+      "housenumber": "209", 
+      "lat": 50.561063545216, 
+      "lon": 5.863276385445, 
+      "municipality": "Theux", 
+      "pcode": "4910", 
+      "source": "7738310", 
+      "street": "Chauss\u00e9e de Verviers"
+    }, 
+    {
+      "hnrlbls": [
         "21"
       ], 
       "housenumber": "21", 
@@ -614,11 +793,95 @@
     }, 
     {
       "hnrlbls": [
+        "211"
+      ], 
+      "housenumber": "211", 
+      "lat": 50.56113444767, 
+      "lon": 5.863327470158, 
+      "municipality": "Theux", 
+      "pcode": "4910", 
+      "source": "7738310", 
+      "street": "Chauss\u00e9e de Verviers"
+    }, 
+    {
+      "hnrlbls": [
+        "213"
+      ], 
+      "housenumber": "213", 
+      "lat": 50.561242493914, 
+      "lon": 5.863422855388, 
+      "municipality": "Theux", 
+      "pcode": "4910", 
+      "source": "7738310", 
+      "street": "Chauss\u00e9e de Verviers"
+    }, 
+    {
+      "hnrlbls": [
+        "215"
+      ], 
+      "housenumber": "215", 
+      "lat": 50.561356539293, 
+      "lon": 5.863531432088, 
+      "municipality": "Theux", 
+      "pcode": "4910", 
+      "source": "7738310", 
+      "street": "Chauss\u00e9e de Verviers"
+    }, 
+    {
+      "hnrlbls": [
+        "217"
+      ], 
+      "housenumber": "217", 
+      "lat": 50.56147615242, 
+      "lon": 5.863593614853, 
+      "municipality": "Theux", 
+      "pcode": "4910", 
+      "source": "7738310", 
+      "street": "Chauss\u00e9e de Verviers"
+    }, 
+    {
+      "hnrlbls": [
+        "219"
+      ], 
+      "housenumber": "219", 
+      "lat": 50.561622958396, 
+      "lon": 5.863708254133, 
+      "municipality": "Theux", 
+      "pcode": "4910", 
+      "source": "7738310", 
+      "street": "Chauss\u00e9e de Verviers"
+    }, 
+    {
+      "hnrlbls": [
         "22"
       ], 
       "housenumber": "22", 
       "lat": 50.538782721662, 
       "lon": 5.818053369362, 
+      "municipality": "Theux", 
+      "pcode": "4910", 
+      "source": "7738310", 
+      "street": "Chauss\u00e9e de Verviers"
+    }, 
+    {
+      "hnrlbls": [
+        "221"
+      ], 
+      "housenumber": "221", 
+      "lat": 50.561784666312, 
+      "lon": 5.863871051536, 
+      "municipality": "Theux", 
+      "pcode": "4910", 
+      "source": "7738310", 
+      "street": "Chauss\u00e9e de Verviers"
+    }, 
+    {
+      "hnrlbls": [
+        "223"
+      ], 
+      "housenumber": "223", 
+      "lat": 50.561926253449, 
+      "lon": 5.863818420919, 
       "municipality": "Theux", 
       "pcode": "4910", 
       "source": "7738310", 
@@ -698,6 +961,18 @@
     }, 
     {
       "hnrlbls": [
+        "2A"
+      ], 
+      "housenumber": "2A", 
+      "lat": 50.536810524506, 
+      "lon": 5.814120842897, 
+      "municipality": "Theux", 
+      "pcode": "4910", 
+      "source": "7738310", 
+      "street": "Chauss\u00e9e de Verviers"
+    }, 
+    {
+      "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
@@ -770,9 +1045,9 @@
     }, 
     {
       "hnrlbls": [
-        "36/A"
+        "36A"
       ], 
-      "housenumber": "36/A", 
+      "housenumber": "36A", 
       "lat": 50.538633548431, 
       "lon": 5.821516072826, 
       "municipality": "Theux", 
@@ -841,12 +1116,40 @@
       "street": "Chauss\u00e9e de Verviers"
     }, 
     {
-      "hnrlbls": [
-        "44/A"
+      "busnrs": [
+        "/A01A", 
+        "/A01B", 
+        "/A02A", 
+        "/A02B", 
+        "/ARCA", 
+        "/ARCB"
       ], 
-      "housenumber": "44/A", 
-      "lat": 50.538928517905, 
-      "lon": 5.822620654933, 
+      "hnrlbls": [
+        "44A"
+      ], 
+      "housenumber": "44A", 
+      "lat": 50.53890237012, 
+      "lon": 5.822642717211, 
+      "municipality": "Theux", 
+      "pcode": "4910", 
+      "source": "7738310", 
+      "street": "Chauss\u00e9e de Verviers"
+    }, 
+    {
+      "busnrs": [
+        "/B01A", 
+        "/B01B", 
+        "/B02A", 
+        "/B02B", 
+        "/BRCA", 
+        "/BRCB"
+      ], 
+      "hnrlbls": [
+        "44B"
+      ], 
+      "housenumber": "44B", 
+      "lat": 50.538887567251, 
+      "lon": 5.822994582016, 
       "municipality": "Theux", 
       "pcode": "4910", 
       "source": "7738310", 
@@ -854,21 +1157,9 @@
     }, 
     {
       "hnrlbls": [
-        "44/B"
+        "44C"
       ], 
-      "housenumber": "44/B", 
-      "lat": 50.538910684773, 
-      "lon": 5.823000893032, 
-      "municipality": "Theux", 
-      "pcode": "4910", 
-      "source": "7738310", 
-      "street": "Chauss\u00e9e de Verviers"
-    }, 
-    {
-      "hnrlbls": [
-        "44/C"
-      ], 
-      "housenumber": "44/C", 
+      "housenumber": "44C", 
       "lat": 50.538921143859, 
       "lon": 5.823408225384, 
       "municipality": "Theux", 
@@ -902,9 +1193,9 @@
     }, 
     {
       "hnrlbls": [
-        "50/A"
+        "50A"
       ], 
-      "housenumber": "50/A", 
+      "housenumber": "50A", 
       "lat": 50.539142029323, 
       "lon": 5.824902455715, 
       "municipality": "Theux", 
@@ -914,9 +1205,9 @@
     }, 
     {
       "hnrlbls": [
-        "50/B"
+        "50B"
       ], 
-      "housenumber": "50/B", 
+      "housenumber": "50B", 
       "lat": 50.539243889786, 
       "lon": 5.825108053459, 
       "municipality": "Theux", 
@@ -926,9 +1217,9 @@
     }, 
     {
       "hnrlbls": [
-        "50/C"
+        "50C"
       ], 
-      "housenumber": "50/C", 
+      "housenumber": "50C", 
       "lat": 50.539331911025, 
       "lon": 5.825330214063, 
       "municipality": "Theux", 
@@ -938,9 +1229,9 @@
     }, 
     {
       "hnrlbls": [
-        "50/D"
+        "50D"
       ], 
-      "housenumber": "50/D", 
+      "housenumber": "50D", 
       "lat": 50.539421013727, 
       "lon": 5.825568677467, 
       "municipality": "Theux", 
@@ -1021,6 +1312,9 @@
       "street": "Chauss\u00e9e de Verviers"
     }, 
     {
+      "busnrs": [
+        "/1"
+      ], 
       "hnrlbls": [
         "69"
       ], 
@@ -1081,6 +1375,9 @@
       "street": "Chauss\u00e9e de Verviers"
     }, 
     {
+      "busnrs": [
+        "/B000"
+      ], 
       "hnrlbls": [
         "78"
       ], 
@@ -1153,6 +1450,9 @@
       "street": "Chauss\u00e9e de Verviers"
     }, 
     {
+      "busnrs": [
+        "/1"
+      ], 
       "hnrlbls": [
         "85"
       ], 

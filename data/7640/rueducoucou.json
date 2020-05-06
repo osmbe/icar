@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "APTA", 
+        "APTB"
+      ], 
       "hnrlbls": [
         "101"
       ], 
@@ -25,6 +29,9 @@
       "street": "Rue du Coucou"
     }, 
     {
+      "busnrs": [
+        "11"
+      ], 
       "hnrlbls": [
         "59"
       ], 
@@ -74,9 +81,9 @@
     }, 
     {
       "hnrlbls": [
-        "67"
+        "67A"
       ], 
-      "housenumber": "67", 
+      "housenumber": "67A", 
       "lat": 50.571654811828, 
       "lon": 3.443791915083, 
       "municipality": "Antoing", 
@@ -241,6 +248,10 @@
       "street": "Rue du Coucou"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "11"
+      ], 
       "hnrlbls": [
         "99"
       ], 

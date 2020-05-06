@@ -13,6 +13,10 @@
       "street": "Rue de la Barque"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -37,6 +41,12 @@
       "street": "Rue de la Barque"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2", 
+        "Bte3", 
+        "Bte4"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -61,36 +71,17 @@
       "street": "Rue de la Barque"
     }, 
     {
+      "busnrs": [
+        "2\u201eET", 
+        "Bte1", 
+        "Bte2"
+      ], 
       "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
       "lat": 50.257166810219, 
       "lon": 4.914221525314, 
-      "municipality": "Dinant", 
-      "pcode": "5500", 
-      "source": "7749237", 
-      "street": "Rue de la Barque"
-    }, 
-    {
-      "hnrlbls": [
-        "19"
-      ], 
-      "housenumber": "19", 
-      "lat": 50.257095588633, 
-      "lon": 4.91456964923, 
-      "municipality": "Dinant", 
-      "pcode": "5500", 
-      "source": "7749237", 
-      "street": "Rue de la Barque"
-    }, 
-    {
-      "hnrlbls": [
-        "20"
-      ], 
-      "housenumber": "20", 
-      "lat": 50.257195371421, 
-      "lon": 4.914321170009, 
       "municipality": "Dinant", 
       "pcode": "5500", 
       "source": "7749237", 
@@ -109,6 +100,12 @@
       "street": "Rue de la Barque"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B", 
+        "C", 
+        "D"
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -121,6 +118,15 @@
       "street": "Rue de la Barque"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2", 
+        "Bte3", 
+        "Bte4", 
+        "Bte5", 
+        "Bte6", 
+        "Bte7"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -145,6 +151,11 @@
       "street": "Rue de la Barque"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2", 
+        "Bte3"
+      ], 
       "hnrlbls": [
         "32"
       ], 
@@ -169,6 +180,11 @@
       "street": "Rue de la Barque"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2", 
+        "RDCh"
+      ], 
       "hnrlbls": [
         "5"
       ], 

@@ -37,6 +37,9 @@
       "street": "Rue Octave Leduc"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -50,11 +53,23 @@
     }, 
     {
       "hnrlbls": [
-        "17"
+        "19"
       ], 
-      "housenumber": "17", 
+      "housenumber": "19", 
       "lat": 50.602716636348, 
       "lon": 3.391888875062, 
+      "municipality": "Tournai", 
+      "pcode": "7500", 
+      "source": "7723854", 
+      "street": "Rue Octave Leduc"
+    }, 
+    {
+      "hnrlbls": [
+        "21"
+      ], 
+      "housenumber": "21", 
+      "lat": 50.602953531568, 
+      "lon": 3.39178204825, 
       "municipality": "Tournai", 
       "pcode": "7500", 
       "source": "7723854", 
@@ -97,6 +112,9 @@
       "street": "Rue Octave Leduc"
     }, 
     {
+      "busnrs": [
+        "11"
+      ], 
       "hnrlbls": [
         "9"
       ], 

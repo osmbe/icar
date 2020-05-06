@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -37,6 +43,9 @@
       "street": "Rue de Baume"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "102"
       ], 
@@ -125,8 +134,8 @@
         "110"
       ], 
       "housenumber": "110", 
-      "lat": 50.473572236698, 
-      "lon": 4.204231183007, 
+      "lat": 50.473248223999, 
+      "lon": 4.203820822712, 
       "municipality": "La Louvi\u00e8re", 
       "pcode": "7100", 
       "source": "7717199", 
@@ -242,6 +251,18 @@
     }, 
     {
       "hnrlbls": [
+        "122"
+      ], 
+      "housenumber": "122", 
+      "lat": 50.473115427905, 
+      "lon": 4.204887306176, 
+      "municipality": "La Louvi\u00e8re", 
+      "pcode": "7100", 
+      "source": "7717199", 
+      "street": "Rue de Baume"
+    }, 
+    {
+      "hnrlbls": [
         "123"
       ], 
       "housenumber": "123", 
@@ -337,18 +358,24 @@
       "street": "Rue de Baume"
     }, 
     {
+      "busnrs": [
+        "0140"
+      ], 
       "hnrlbls": [
         "138"
       ], 
       "housenumber": "138", 
-      "lat": 50.473115427905, 
-      "lon": 4.204887306176, 
+      "lat": 50.473054125409, 
+      "lon": 4.204997877977, 
       "municipality": "La Louvi\u00e8re", 
       "pcode": "7100", 
       "source": "7717199", 
       "street": "Rue de Baume"
     }, 
     {
+      "busnrs": [
+        "0002"
+      ], 
       "hnrlbls": [
         "139"
       ], 
@@ -361,24 +388,16 @@
       "street": "Rue de Baume"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "14"
       ], 
       "housenumber": "14", 
       "lat": 50.474729574374, 
       "lon": 4.197758510611, 
-      "municipality": "La Louvi\u00e8re", 
-      "pcode": "7100", 
-      "source": "7717199", 
-      "street": "Rue de Baume"
-    }, 
-    {
-      "hnrlbls": [
-        "140"
-      ], 
-      "housenumber": "140", 
-      "lat": 50.473054125409, 
-      "lon": 4.204997877977, 
       "municipality": "La Louvi\u00e8re", 
       "pcode": "7100", 
       "source": "7717199", 
@@ -577,6 +596,9 @@
       "street": "Rue de Baume"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "163"
       ], 
@@ -613,6 +635,15 @@
       "street": "Rue de Baume"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "167"
       ], 
@@ -673,6 +704,11 @@
       "street": "Rue de Baume"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101"
+      ], 
       "hnrlbls": [
         "176"
       ], 
@@ -697,6 +733,10 @@
       "street": "Rue de Baume"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -721,6 +761,10 @@
       "street": "Rue de Baume"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "181"
       ], 
@@ -865,6 +909,10 @@
       "street": "Rue de Baume"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "193"
       ], 
@@ -913,6 +961,9 @@
       "street": "Rue de Baume"
     }, 
     {
+      "busnrs": [
+        "0199"
+      ], 
       "hnrlbls": [
         "197"
       ], 
@@ -997,6 +1048,9 @@
       "street": "Rue de Baume"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "202"
       ], 
@@ -1069,6 +1123,10 @@
       "street": "Rue de Baume"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "209"
       ], 
@@ -1177,6 +1235,14 @@
       "street": "Rue de Baume"
     }, 
     {
+      "busnrs": [
+        "0007", 
+        "0008", 
+        "0009", 
+        "0010", 
+        "0011", 
+        "0012"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -1189,6 +1255,10 @@
       "street": "Rue de Baume"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "225"
       ], 
@@ -1237,6 +1307,10 @@
       "street": "Rue de Baume"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -1249,6 +1323,9 @@
       "street": "Rue de Baume"
     }, 
     {
+      "busnrs": [
+        "A000"
+      ], 
       "hnrlbls": [
         "230"
       ], 
@@ -1309,6 +1386,11 @@
       "street": "Rue de Baume"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "235"
       ], 
@@ -1369,6 +1451,9 @@
       "street": "Rue de Baume"
     }, 
     {
+      "busnrs": [
+        "0026"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -1381,6 +1466,10 @@
       "street": "Rue de Baume"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "240"
       ], 
@@ -1517,8 +1606,8 @@
         "256"
       ], 
       "housenumber": "256", 
-      "lat": 50.471476191803, 
-      "lon": 4.209092955235, 
+      "lat": 50.471668858391, 
+      "lon": 4.208846758603, 
       "municipality": "La Louvi\u00e8re", 
       "pcode": "7100", 
       "source": "7717199", 
@@ -1537,6 +1626,9 @@
       "street": "Rue de Baume"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "258"
       ], 
@@ -1633,6 +1725,10 @@
       "street": "Rue de Baume"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "265"
       ], 
@@ -1669,6 +1765,10 @@
       "street": "Rue de Baume"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102"
+      ], 
       "hnrlbls": [
         "268"
       ], 
@@ -1729,6 +1829,18 @@
       "street": "Rue de Baume"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
+      ], 
       "hnrlbls": [
         "273"
       ], 
@@ -1789,6 +1901,10 @@
       "street": "Rue de Baume"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "279"
       ], 
@@ -1993,6 +2109,10 @@
       "street": "Rue de Baume"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "300"
       ], 
@@ -2113,6 +2233,10 @@
       "street": "Rue de Baume"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "310"
       ], 
@@ -2137,6 +2261,11 @@
       "street": "Rue de Baume"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "312"
       ], 
@@ -2317,6 +2446,18 @@
       "street": "Rue de Baume"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008", 
+        "0009", 
+        "0010"
+      ], 
       "hnrlbls": [
         "334"
       ], 
@@ -2365,6 +2506,9 @@
       "street": "Rue de Baume"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "338"
       ], 
@@ -2701,6 +2845,10 @@
       "street": "Rue de Baume"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -2737,6 +2885,14 @@
       "street": "Rue de Baume"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0201"
+      ], 
       "hnrlbls": [
         "45"
       ], 
@@ -2917,6 +3073,9 @@
       "street": "Rue de Baume"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "72"
       ], 
@@ -3133,6 +3292,10 @@
       "street": "Rue de Baume"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "91"
       ], 

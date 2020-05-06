@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "bte1", 
+        "bte2"
+      ], 
       "hnrlbls": [
         "100"
       ], 
@@ -677,8 +681,8 @@
         "163"
       ], 
       "housenumber": "163", 
-      "lat": 50.620131610539, 
-      "lon": 3.763255734952, 
+      "lat": 50.620182932707, 
+      "lon": 3.763239448152, 
       "municipality": "Ath", 
       "pcode": "7801", 
       "source": "7707230", 
@@ -1489,6 +1493,12 @@
       "street": "Chauss\u00e9e de Valenciennes"
     }, 
     {
+      "busnrs": [
+        "bte1", 
+        "bte2", 
+        "bte3", 
+        "bte4"
+      ], 
       "hnrlbls": [
         "74"
       ], 

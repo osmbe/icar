@@ -289,6 +289,14 @@
       "street": "Route de Mons"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "4", 
+        "5", 
+        "7", 
+        "8"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -337,6 +345,13 @@
       "street": "Route de Mons"
     }, 
     {
+      "busnrs": [
+        "B/1", 
+        "B/2", 
+        "B/3", 
+        "B/4", 
+        "B/5"
+      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -593,8 +608,8 @@
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 50.492410598416, 
-      "lon": 3.723286736402, 
+      "lat": 50.492191724633, 
+      "lon": 3.723856426214, 
       "municipality": "Bernissart", 
       "pcode": "7322", 
       "source": "7708094", 

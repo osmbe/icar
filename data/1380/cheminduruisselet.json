@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "AA", 
+        "AB", 
+        "AC", 
+        "AD"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -73,6 +79,11 @@
       "street": "Chemin du Ruisselet"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2", 
+        "Bte3"
+      ], 
       "hnrlbls": [
         "3"
       ], 

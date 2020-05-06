@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0003"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -25,6 +28,10 @@
       "street": "Rue du Luxembourg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -37,12 +44,38 @@
       "street": "Rue du Luxembourg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "12"
       ], 
       "housenumber": "12", 
       "lat": 50.742829046823, 
       "lon": 3.217231618783, 
+      "municipality": "Mouscron", 
+      "pcode": "7700", 
+      "source": "7715994", 
+      "street": "Rue du Luxembourg"
+    }, 
+    {
+      "busnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "004", 
+        "005", 
+        "006", 
+        "007"
+      ], 
+      "hnrlbls": [
+        "12B"
+      ], 
+      "housenumber": "12B", 
+      "lat": 50.742734250181, 
+      "lon": 3.217177964218, 
       "municipality": "Mouscron", 
       "pcode": "7700", 
       "source": "7715994", 
@@ -61,6 +94,13 @@
       "street": "Rue du Luxembourg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -205,6 +245,11 @@
       "street": "Rue du Luxembourg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -361,6 +406,31 @@
       "street": "Rue du Luxembourg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008", 
+        "0009", 
+        "0010", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0015", 
+        "0016", 
+        "0017", 
+        "0018", 
+        "0019", 
+        "0020", 
+        "0021", 
+        "0022", 
+        "0023"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -421,6 +491,11 @@
       "street": "Rue du Luxembourg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "44"
       ], 
@@ -481,6 +556,11 @@
       "street": "Rue du Luxembourg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -505,6 +585,10 @@
       "street": "Rue du Luxembourg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -529,6 +613,11 @@
       "street": "Rue du Luxembourg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "8"
       ], 

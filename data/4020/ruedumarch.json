@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,12 +19,34 @@
       "street": "Rue du March\u00e9"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0032", 
+        "0033", 
+        "0034"
+      ], 
       "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
       "lat": 50.64152213189, 
       "lon": 5.59217199257, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730836", 
+      "street": "Rue du March\u00e9"
+    }, 
+    {
+      "hnrlbls": [
+        "11"
+      ], 
+      "housenumber": "11", 
+      "lat": 50.641703735816, 
+      "lon": 5.592424964407, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730836", 
@@ -37,6 +65,14 @@
       "street": "Rue du March\u00e9"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0015", 
+        "0016"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -86,6 +122,24 @@
     }, 
     {
       "hnrlbls": [
+        "17"
+      ], 
+      "housenumber": "17", 
+      "lat": 50.641493576797, 
+      "lon": 5.592779789788, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730836", 
+      "street": "Rue du March\u00e9"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
+      "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
@@ -97,6 +151,28 @@
       "street": "Rue du March\u00e9"
     }, 
     {
+      "busnrs": [
+        "0011"
+      ], 
+      "hnrlbls": [
+        "19"
+      ], 
+      "housenumber": "19", 
+      "lat": 50.641445238842, 
+      "lon": 5.592810773979, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730836", 
+      "street": "Rue du March\u00e9"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -121,6 +197,14 @@
       "street": "Rue du March\u00e9"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -133,6 +217,12 @@
       "street": "Rue du March\u00e9"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -145,6 +235,16 @@
       "street": "Rue du March\u00e9"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022", 
+        "0031"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -169,6 +269,12 @@
       "street": "Rue du March\u00e9"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -181,6 +287,12 @@
       "street": "Rue du March\u00e9"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -193,6 +305,14 @@
       "street": "Rue du March\u00e9"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -217,6 +337,17 @@
       "street": "Rue du March\u00e9"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0041"
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -229,6 +360,38 @@
       "street": "Rue du March\u00e9"
     }, 
     {
+      "hnrlbls": [
+        "29A"
+      ], 
+      "housenumber": "29A", 
+      "lat": 50.641189081148, 
+      "lon": 5.593102047126, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730836", 
+      "street": "Rue du March\u00e9"
+    }, 
+    {
+      "hnrlbls": [
+        "29B"
+      ], 
+      "housenumber": "29B", 
+      "lat": 50.641271432925, 
+      "lon": 5.593231297866, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730836", 
+      "street": "Rue du March\u00e9"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -253,6 +416,12 @@
       "street": "Rue du March\u00e9"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -277,6 +446,12 @@
       "street": "Rue du March\u00e9"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "33"
       ], 
@@ -301,6 +476,14 @@
       "street": "Rue du March\u00e9"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -313,6 +496,29 @@
       "street": "Rue du March\u00e9"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
+      "hnrlbls": [
+        "36"
+      ], 
+      "housenumber": "36", 
+      "lat": 50.641010855491, 
+      "lon": 5.592846872461, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730836", 
+      "street": "Rue du March\u00e9"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "37"
       ], 
@@ -338,6 +544,24 @@
     }, 
     {
       "hnrlbls": [
+        "39"
+      ], 
+      "housenumber": "39", 
+      "lat": 50.640958583136, 
+      "lon": 5.593312823028, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730836", 
+      "street": "Rue du March\u00e9"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
+      "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
@@ -355,6 +579,18 @@
       "housenumber": "40", 
       "lat": 50.640817832072, 
       "lon": 5.593011480573, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730836", 
+      "street": "Rue du March\u00e9"
+    }, 
+    {
+      "hnrlbls": [
+        "41"
+      ], 
+      "housenumber": "41", 
+      "lat": 50.640990188077, 
+      "lon": 5.593282748665, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730836", 
@@ -385,6 +621,11 @@
       "street": "Rue du March\u00e9"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "46"
       ], 
@@ -397,6 +638,13 @@
       "street": "Rue du March\u00e9"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021"
+      ], 
       "hnrlbls": [
         "48"
       ], 
@@ -410,6 +658,36 @@
     }, 
     {
       "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 50.641823235794, 
+      "lon": 5.592287091267, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730836", 
+      "street": "Rue du March\u00e9"
+    }, 
+    {
+      "hnrlbls": [
+        "50"
+      ], 
+      "housenumber": "50", 
+      "lat": 50.640620941631, 
+      "lon": 5.593314947873, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730836", 
+      "street": "Rue du March\u00e9"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
+      "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
@@ -421,6 +699,14 @@
       "street": "Rue du March\u00e9"
     }, 
     {
+      "busnrs": [
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -433,6 +719,13 @@
       "street": "Rue du March\u00e9"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0022", 
+        "0023"
+      ], 
       "hnrlbls": [
         "8"
       ], 

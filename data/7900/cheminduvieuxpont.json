@@ -170,6 +170,18 @@
     }, 
     {
       "hnrlbls": [
+        "21B"
+      ], 
+      "housenumber": "21B", 
+      "lat": 50.601259992257, 
+      "lon": 3.628742529787, 
+      "municipality": "Leuze-en-Hainaut", 
+      "pcode": "7900", 
+      "source": "7724177", 
+      "street": "Chemin du Vieux Pont"
+    }, 
+    {
+      "hnrlbls": [
         "22"
       ], 
       "housenumber": "22", 
@@ -331,18 +343,6 @@
       "housenumber": "34", 
       "lat": 50.601204223981, 
       "lon": 3.626641711212, 
-      "municipality": "Leuze-en-Hainaut", 
-      "pcode": "7900", 
-      "source": "7724177", 
-      "street": "Chemin du Vieux Pont"
-    }, 
-    {
-      "hnrlbls": [
-        "35"
-      ], 
-      "housenumber": "35", 
-      "lat": 50.602326190943, 
-      "lon": 3.627286899452, 
       "municipality": "Leuze-en-Hainaut", 
       "pcode": "7900", 
       "source": "7724177", 
@@ -613,6 +613,10 @@
       "street": "Chemin du Vieux Pont"
     }, 
     {
+      "busnrs": [
+        "59A", 
+        "59B"
+      ], 
       "hnrlbls": [
         "59"
       ], 

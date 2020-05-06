@@ -73,12 +73,30 @@
       "street": "Rue des Combattants"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "15"
       ], 
       "housenumber": "15", 
       "lat": 50.534870384673, 
       "lon": 5.567096087543, 
+      "municipality": "Esneux", 
+      "pcode": "4130", 
+      "source": "7728703", 
+      "street": "Rue des Combattants"
+    }, 
+    {
+      "hnrlbls": [
+        "15A"
+      ], 
+      "housenumber": "15A", 
+      "lat": 50.534663539555, 
+      "lon": 5.566604574813, 
       "municipality": "Esneux", 
       "pcode": "4130", 
       "source": "7728703", 
@@ -145,6 +163,12 @@
       "street": "Rue des Combattants"
     }, 
     {
+      "busnrs": [
+        "23/01", 
+        "23/02", 
+        "23/21", 
+        "23/22"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -157,6 +181,13 @@
       "street": "Rue des Combattants"
     }, 
     {
+      "busnrs": [
+        "B001", 
+        "B002", 
+        "B011", 
+        "B012", 
+        "B013"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -193,6 +224,10 @@
       "street": "Rue des Combattants"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -229,6 +264,10 @@
       "street": "Rue des Combattants"
     }, 
     {
+      "busnrs": [
+        "A011", 
+        "A022"
+      ], 
       "hnrlbls": [
         "35"
       ], 

@@ -49,6 +49,11 @@
       "street": "Rue du Cochige"
     }, 
     {
+      "busnrs": [
+        "bte1", 
+        "bte2", 
+        "bte3"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -325,6 +330,9 @@
       "street": "Rue du Cochige"
     }, 
     {
+      "busnrs": [
+        "bte2"
+      ], 
       "hnrlbls": [
         "42"
       ], 
@@ -401,8 +409,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.631821788883, 
-      "lon": 4.764633740934, 
+      "lat": 50.631884514096, 
+      "lon": 4.764547896078, 
       "municipality": "Perwez", 
       "pcode": "1360", 
       "source": "7703302", 

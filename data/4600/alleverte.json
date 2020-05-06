@@ -1,12 +1,28 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1", 
+        "A  1"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
       "lat": 50.737629653613, 
       "lon": 5.683816985046, 
+      "municipality": "Vis\u00e9", 
+      "pcode": "4600", 
+      "source": "7733225", 
+      "street": "All\u00e9e Verte"
+    }, 
+    {
+      "hnrlbls": [
+        "10"
+      ], 
+      "housenumber": "10", 
+      "lat": 50.737424641947, 
+      "lon": 5.682771412959, 
       "municipality": "Vis\u00e9", 
       "pcode": "4600", 
       "source": "7733225", 
@@ -37,6 +53,9 @@
       "street": "All\u00e9e Verte"
     }, 
     {
+      "busnrs": [
+        "14"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -73,6 +92,10 @@
       "street": "All\u00e9e Verte"
     }, 
     {
+      "busnrs": [
+        "A  1", 
+        "A  2"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -97,6 +120,9 @@
       "street": "All\u00e9e Verte"
     }, 
     {
+      "busnrs": [
+        "A001"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -127,6 +153,18 @@
       "housenumber": "19", 
       "lat": 50.737087578253, 
       "lon": 5.68275858987, 
+      "municipality": "Vis\u00e9", 
+      "pcode": "4600", 
+      "source": "7733225", 
+      "street": "All\u00e9e Verte"
+    }, 
+    {
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.737734730201, 
+      "lon": 5.683375003342, 
       "municipality": "Vis\u00e9", 
       "pcode": "4600", 
       "source": "7733225", 
@@ -169,6 +207,33 @@
       "street": "All\u00e9e Verte"
     }, 
     {
+      "busnrs": [
+        "A1", 
+        "A2", 
+        "B", 
+        "B2"
+      ], 
+      "hnrlbls": [
+        "30"
+      ], 
+      "housenumber": "30", 
+      "lat": 50.73685687446, 
+      "lon": 5.681895697736, 
+      "municipality": "Vis\u00e9", 
+      "pcode": "4600", 
+      "source": "7733225", 
+      "street": "All\u00e9e Verte"
+    }, 
+    {
+      "busnrs": [
+        "A4", 
+        "D  3", 
+        "D 2", 
+        "D 4", 
+        "G  2", 
+        "G  4", 
+        "G3"
+      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -181,6 +246,26 @@
       "street": "All\u00e9e Verte"
     }, 
     {
+      "busnrs": [
+        "3A00", 
+        "A  1", 
+        "A  4", 
+        "A  5", 
+        "A2", 
+        "B  1", 
+        "B  3", 
+        "B  4", 
+        "B 2", 
+        "C  2", 
+        "C  3", 
+        "C  4", 
+        "C  5", 
+        "D  2", 
+        "D  3", 
+        "D  5", 
+        "D001", 
+        "D4"
+      ], 
       "hnrlbls": [
         "33"
       ], 
@@ -205,6 +290,11 @@
       "street": "All\u00e9e Verte"
     }, 
     {
+      "busnrs": [
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "36"
       ], 
@@ -241,6 +331,11 @@
       "street": "All\u00e9e Verte"
     }, 
     {
+      "busnrs": [
+        "A  1", 
+        "B1", 
+        "C  1"
+      ], 
       "hnrlbls": [
         "41"
       ], 
@@ -253,6 +348,9 @@
       "street": "All\u00e9e Verte"
     }, 
     {
+      "busnrs": [
+        "A1"
+      ], 
       "hnrlbls": [
         "42"
       ], 
@@ -326,6 +424,18 @@
     }, 
     {
       "hnrlbls": [
+        "47B"
+      ], 
+      "housenumber": "47B", 
+      "lat": 50.73553555969, 
+      "lon": 5.680535619192, 
+      "municipality": "Vis\u00e9", 
+      "pcode": "4600", 
+      "source": "7733225", 
+      "street": "All\u00e9e Verte"
+    }, 
+    {
+      "hnrlbls": [
         "48"
       ], 
       "housenumber": "48", 
@@ -349,6 +459,10 @@
       "street": "All\u00e9e Verte"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -361,6 +475,10 @@
       "street": "All\u00e9e Verte"
     }, 
     {
+      "busnrs": [
+        "A  1", 
+        "A  2"
+      ], 
       "hnrlbls": [
         "50"
       ], 
@@ -397,6 +515,12 @@
       "street": "All\u00e9e Verte"
     }, 
     {
+      "busnrs": [
+        "A  2", 
+        "B  1", 
+        "B  2", 
+        "B  3"
+      ], 
       "hnrlbls": [
         "54"
       ], 
@@ -569,8 +693,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.737472016011, 
-      "lon": 5.682844822121, 
+      "lat": 50.737499360245, 
+      "lon": 5.682888322088, 
       "municipality": "Vis\u00e9", 
       "pcode": "4600", 
       "source": "7733225", 

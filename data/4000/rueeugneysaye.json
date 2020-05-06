@@ -1,6 +1,14 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +21,41 @@
       "street": "Rue Eug\u00e8ne-Ysaye"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0021"
+      ], 
+      "hnrlbls": [
+        "14"
+      ], 
+      "housenumber": "14", 
+      "lat": 50.63594892441, 
+      "lon": 5.570076352213, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730930", 
+      "street": "Rue Eug\u00e8ne-Ysaye"
+    }, 
+    {
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.63696747939, 
+      "lon": 5.569488376854, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730930", 
+      "street": "Rue Eug\u00e8ne-Ysaye"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -25,6 +68,21 @@
       "street": "Rue Eug\u00e8ne-Ysaye"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0031", 
+        "0032", 
+        "0041", 
+        "0042", 
+        "0051", 
+        "0052"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -37,6 +95,12 @@
       "street": "Rue Eug\u00e8ne-Ysaye"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -55,6 +119,42 @@
       "housenumber": "6", 
       "lat": 50.636669431253, 
       "lon": 5.56938619551, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730930", 
+      "street": "Rue Eug\u00e8ne-Ysaye"
+    }, 
+    {
+      "hnrlbls": [
+        "8A"
+      ], 
+      "housenumber": "8A", 
+      "lat": 50.636631623185, 
+      "lon": 5.569630853295, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730930", 
+      "street": "Rue Eug\u00e8ne-Ysaye"
+    }, 
+    {
+      "hnrlbls": [
+        "8B"
+      ], 
+      "housenumber": "8B", 
+      "lat": 50.636604152916, 
+      "lon": 5.569652916424, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730930", 
+      "street": "Rue Eug\u00e8ne-Ysaye"
+    }, 
+    {
+      "hnrlbls": [
+        "8C"
+      ], 
+      "housenumber": "8C", 
+      "lat": 50.63656413615, 
+      "lon": 5.569670984356, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730930", 

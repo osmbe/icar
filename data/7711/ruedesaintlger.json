@@ -1,12 +1,17 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0002", 
+        "0003", 
+        "0004"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.727421591168, 
-      "lon": 3.303485864098, 
+      "lat": 50.721716908015, 
+      "lon": 3.308556490411, 
       "municipality": "Mouscron", 
       "pcode": "7711", 
       "source": "7715834", 
@@ -37,6 +42,11 @@
       "street": "Rue de Saint-L\u00e9ger"
     }, 
     {
+      "busnrs": [
+        "A000", 
+        "B000", 
+        "C000"
+      ], 
       "hnrlbls": [
         "101"
       ], 
@@ -49,6 +59,13 @@
       "street": "Rue de Saint-L\u00e9ger"
     }, 
     {
+      "busnrs": [
+        "0004", 
+        "B001", 
+        "B002", 
+        "B003", 
+        "B005"
+      ], 
       "hnrlbls": [
         "103"
       ], 
@@ -481,6 +498,10 @@
       "street": "Rue de Saint-L\u00e9ger"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -1105,6 +1126,11 @@
       "street": "Rue de Saint-L\u00e9ger"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -1189,6 +1215,11 @@
       "street": "Rue de Saint-L\u00e9ger"
     }, 
     {
+      "busnrs": [
+        "A000", 
+        "C001", 
+        "C002"
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -1213,6 +1244,10 @@
       "street": "Rue de Saint-L\u00e9ger"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -1255,6 +1290,53 @@
       "housenumber": "33", 
       "lat": 50.726428437143, 
       "lon": 3.304321542923, 
+      "municipality": "Mouscron", 
+      "pcode": "7711", 
+      "source": "7715834", 
+      "street": "Rue de Saint-L\u00e9ger"
+    }, 
+    {
+      "hnrlbls": [
+        "33A"
+      ], 
+      "housenumber": "33A", 
+      "lat": 50.726406680045, 
+      "lon": 3.304322579358, 
+      "municipality": "Mouscron", 
+      "pcode": "7711", 
+      "source": "7715834", 
+      "street": "Rue de Saint-L\u00e9ger"
+    }, 
+    {
+      "busnrs": [
+        "001", 
+        "002", 
+        "003"
+      ], 
+      "hnrlbls": [
+        "33B"
+      ], 
+      "housenumber": "33B", 
+      "lat": 50.726357524816, 
+      "lon": 3.304383351313, 
+      "municipality": "Mouscron", 
+      "pcode": "7711", 
+      "source": "7715834", 
+      "street": "Rue de Saint-L\u00e9ger"
+    }, 
+    {
+      "busnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "004"
+      ], 
+      "hnrlbls": [
+        "33C"
+      ], 
+      "housenumber": "33C", 
+      "lat": 50.726262579168, 
+      "lon": 3.304485182653, 
       "municipality": "Mouscron", 
       "pcode": "7711", 
       "source": "7715834", 
@@ -1634,9 +1716,9 @@
     }, 
     {
       "hnrlbls": [
-        "72A000"
+        "72A"
       ], 
-      "housenumber": "72A000", 
+      "housenumber": "72A", 
       "lat": 50.725359442448, 
       "lon": 3.3048893374, 
       "municipality": "Mouscron", 
@@ -1861,6 +1943,13 @@
       "street": "Rue de Saint-L\u00e9ger"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "A000"
+      ], 
       "hnrlbls": [
         "97"
       ], 

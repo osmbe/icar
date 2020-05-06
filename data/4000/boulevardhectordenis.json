@@ -157,6 +157,10 @@
       "street": "Boulevard Hector-Denis"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "120"
       ], 
@@ -277,6 +281,13 @@
       "street": "Boulevard Hector-Denis"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -397,6 +408,12 @@
       "street": "Boulevard Hector-Denis"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -529,6 +546,12 @@
       "street": "Boulevard Hector-Denis"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -557,8 +580,8 @@
         "151"
       ], 
       "housenumber": "151", 
-      "lat": 50.660347597713, 
-      "lon": 5.587215095383, 
+      "lat": 50.66027020541, 
+      "lon": 5.587181170466, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7729692", 
@@ -722,6 +745,18 @@
     }, 
     {
       "hnrlbls": [
+        "173"
+      ], 
+      "housenumber": "173", 
+      "lat": 50.660586288627, 
+      "lon": 5.58996740624, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729692", 
+      "street": "Boulevard Hector-Denis"
+    }, 
+    {
+      "hnrlbls": [
         "175"
       ], 
       "housenumber": "175", 
@@ -751,6 +786,18 @@
       "housenumber": "179", 
       "lat": 50.660704228518, 
       "lon": 5.590788170898, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729692", 
+      "street": "Boulevard Hector-Denis"
+    }, 
+    {
+      "hnrlbls": [
+        "183"
+      ], 
+      "housenumber": "183", 
+      "lat": 50.661085293782, 
+      "lon": 5.591239126241, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7729692", 
@@ -806,6 +853,18 @@
     }, 
     {
       "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.664394079332, 
+      "lon": 5.579257889363, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729692", 
+      "street": "Boulevard Hector-Denis"
+    }, 
+    {
+      "hnrlbls": [
         "21"
       ], 
       "housenumber": "21", 
@@ -823,6 +882,18 @@
       "housenumber": "22", 
       "lat": 50.664441678795, 
       "lon": 5.579982570978, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729692", 
+      "street": "Boulevard Hector-Denis"
+    }, 
+    {
+      "hnrlbls": [
+        "224"
+      ], 
+      "housenumber": "224", 
+      "lat": 50.660133969276, 
+      "lon": 5.584400061684, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7729692", 
@@ -859,6 +930,18 @@
       "housenumber": "24", 
       "lat": 50.664387745624, 
       "lon": 5.580045396179, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729692", 
+      "street": "Boulevard Hector-Denis"
+    }, 
+    {
+      "hnrlbls": [
+        "240"
+      ], 
+      "housenumber": "240", 
+      "lat": 50.661871065613, 
+      "lon": 5.595036098512, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7729692", 
@@ -919,6 +1002,18 @@
       "housenumber": "29", 
       "lat": 50.664211536627, 
       "lon": 5.580937760734, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729692", 
+      "street": "Boulevard Hector-Denis"
+    }, 
+    {
+      "hnrlbls": [
+        "299"
+      ], 
+      "housenumber": "299", 
+      "lat": 50.660874543716, 
+      "lon": 5.589305512333, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7729692", 
@@ -991,6 +1086,18 @@
       "housenumber": "318", 
       "lat": 50.662257962092, 
       "lon": 5.592761559965, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729692", 
+      "street": "Boulevard Hector-Denis"
+    }, 
+    {
+      "hnrlbls": [
+        "32"
+      ], 
+      "housenumber": "32", 
+      "lat": 50.664182132992, 
+      "lon": 5.580264984889, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7729692", 
@@ -1106,11 +1213,54 @@
     }, 
     {
       "hnrlbls": [
+        "338B"
+      ], 
+      "housenumber": "338B", 
+      "lat": 50.662039024437, 
+      "lon": 5.594348174721, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729692", 
+      "street": "Boulevard Hector-Denis"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
+      "hnrlbls": [
         "34"
       ], 
       "housenumber": "34", 
       "lat": 50.6641266703, 
       "lon": 5.580325294533, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729692", 
+      "street": "Boulevard Hector-Denis"
+    }, 
+    {
+      "hnrlbls": [
+        "340"
+      ], 
+      "housenumber": "340", 
+      "lat": 50.661906483299, 
+      "lon": 5.594666120045, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729692", 
+      "street": "Boulevard Hector-Denis"
+    }, 
+    {
+      "hnrlbls": [
+        "342"
+      ], 
+      "housenumber": "342", 
+      "lat": 50.661857122357, 
+      "lon": 5.594965715016, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7729692", 
@@ -1465,6 +1615,13 @@
       "street": "Boulevard Hector-Denis"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "405"
       ], 
@@ -1537,6 +1694,11 @@
       "street": "Boulevard Hector-Denis"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "46"
       ], 
@@ -1651,6 +1813,18 @@
       "housenumber": "56", 
       "lat": 50.66358017364, 
       "lon": 5.580928860964, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729692", 
+      "street": "Boulevard Hector-Denis"
+    }, 
+    {
+      "hnrlbls": [
+        "57"
+      ], 
+      "housenumber": "57", 
+      "lat": 50.66354869666, 
+      "lon": 5.581652488618, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7729692", 
@@ -1795,6 +1969,23 @@
       "housenumber": "69", 
       "lat": 50.663192343459, 
       "lon": 5.582020145612, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729692", 
+      "street": "Boulevard Hector-Denis"
+    }, 
+    {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "0021"
+      ], 
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 50.664845903483, 
+      "lon": 5.580200750501, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7729692", 

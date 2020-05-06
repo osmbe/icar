@@ -109,6 +109,9 @@
       "street": "Drolenval"
     }, 
     {
+      "busnrs": [
+        "0002"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -187,6 +190,18 @@
       "housenumber": "27", 
       "lat": 50.571386860834, 
       "lon": 5.791871312048, 
+      "municipality": "Pepinster", 
+      "pcode": "4860", 
+      "source": "7737267", 
+      "street": "Drolenval"
+    }, 
+    {
+      "hnrlbls": [
+        "28"
+      ], 
+      "housenumber": "28", 
+      "lat": 50.570402868735, 
+      "lon": 5.790651466869, 
       "municipality": "Pepinster", 
       "pcode": "4860", 
       "source": "7737267", 
@@ -361,6 +376,9 @@
       "street": "Drolenval"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "39"
       ], 
@@ -521,8 +539,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.571767994436, 
-      "lon": 5.790533641768, 
+      "lat": 50.571759989427, 
+      "lon": 5.790546289084, 
       "municipality": "Pepinster", 
       "pcode": "4860", 
       "source": "7737267", 
@@ -553,6 +571,10 @@
       "street": "Drolenval"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0003"
+      ], 
       "hnrlbls": [
         "6"
       ], 

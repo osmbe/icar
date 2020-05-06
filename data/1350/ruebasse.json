@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -50,11 +53,11 @@
     }, 
     {
       "hnrlbls": [
-        "12B"
+        "12A"
       ], 
-      "housenumber": "12B", 
-      "lat": 50.65554368837, 
-      "lon": 4.977726652379, 
+      "housenumber": "12A", 
+      "lat": 50.655587410052, 
+      "lon": 4.977788934184, 
       "municipality": "Orp-Jauche", 
       "pcode": "1350", 
       "source": "7705773", 
@@ -62,11 +65,11 @@
     }, 
     {
       "hnrlbls": [
-        "12a"
+        "12B"
       ], 
-      "housenumber": "12a", 
-      "lat": 50.655587410052, 
-      "lon": 4.977788934184, 
+      "housenumber": "12B", 
+      "lat": 50.65554368837, 
+      "lon": 4.977726652379, 
       "municipality": "Orp-Jauche", 
       "pcode": "1350", 
       "source": "7705773", 
@@ -145,6 +148,9 @@
       "street": "Rue Basse"
     }, 
     {
+      "busnrs": [
+        "Bt01"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -217,6 +223,9 @@
       "street": "Rue Basse"
     }, 
     {
+      "busnrs": [
+        "000B"
+      ], 
       "hnrlbls": [
         "8"
       ], 

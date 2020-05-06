@@ -13,6 +13,18 @@
       "street": "Rue des Carmes"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "10", 
+        "1\u00e9t.", 
+        "3", 
+        "4\u00e9t.", 
+        "6", 
+        "9", 
+        "App8", 
+        "Bte7", 
+        "bte9"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -25,12 +37,28 @@
       "street": "Rue des Carmes"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "2\u00e9t."
+      ], 
       "hnrlbls": [
         "12"
       ], 
       "housenumber": "12", 
       "lat": 50.591977262339, 
       "lon": 5.866523293719, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738860", 
+      "street": "Rue des Carmes"
+    }, 
+    {
+      "hnrlbls": [
+        "14"
+      ], 
+      "housenumber": "14", 
+      "lat": 50.592029536943, 
+      "lon": 5.866412341116, 
       "municipality": "Verviers", 
       "pcode": "4800", 
       "source": "7738860", 
@@ -62,6 +90,22 @@
     }, 
     {
       "hnrlbls": [
+        "20"
+      ], 
+      "housenumber": "20", 
+      "lat": 50.5921069357, 
+      "lon": 5.866395038792, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738860", 
+      "street": "Rue des Carmes"
+    }, 
+    {
+      "busnrs": [
+        "1\u00e9t.", 
+        "3\u00e9t."
+      ], 
+      "hnrlbls": [
         "22"
       ], 
       "housenumber": "22", 
@@ -85,6 +129,12 @@
       "street": "Rue des Carmes"
     }, 
     {
+      "busnrs": [
+        "2\u00e9t.", 
+        "3\u00e9t.", 
+        "bte1", 
+        "rez."
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -97,6 +147,12 @@
       "street": "Rue des Carmes"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "2\u00e9t.", 
+        "3\u00e9t.", 
+        "4\u00e9t."
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -122,6 +178,21 @@
     }, 
     {
       "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 50.591699099595, 
+      "lon": 5.866801357959, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738860", 
+      "street": "Rue des Carmes"
+    }, 
+    {
+      "busnrs": [
+        "rez."
+      ], 
+      "hnrlbls": [
         "30"
       ], 
       "housenumber": "30", 
@@ -145,6 +216,11 @@
       "street": "Rue des Carmes"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "2\u00e9t.", 
+        "3\u00e9t."
+      ], 
       "hnrlbls": [
         "32"
       ], 
@@ -157,12 +233,35 @@
       "street": "Rue des Carmes"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "4", 
+        "5", 
+        "6", 
+        "bt02"
+      ], 
       "hnrlbls": [
         "36"
       ], 
       "housenumber": "36", 
       "lat": 50.59236994468, 
       "lon": 5.866318405045, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738860", 
+      "street": "Rue des Carmes"
+    }, 
+    {
+      "busnrs": [
+        "1\u00e9t.", 
+        "bte2"
+      ], 
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.591994848717, 
+      "lon": 5.866858696584, 
       "municipality": "Verviers", 
       "pcode": "4800", 
       "source": "7738860", 
@@ -181,6 +280,11 @@
       "street": "Rue des Carmes"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "bte3", 
+        "rez."
+      ], 
       "hnrlbls": [
         "42"
       ], 
@@ -193,6 +297,10 @@
       "street": "Rue des Carmes"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "2\u00e9t."
+      ], 
       "hnrlbls": [
         "44"
       ], 
@@ -205,12 +313,29 @@
       "street": "Rue des Carmes"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "3\u00e9t.", 
+        "bt3."
+      ], 
       "hnrlbls": [
         "46"
       ], 
       "housenumber": "46", 
       "lat": 50.592577995334, 
       "lon": 5.866271788775, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738860", 
+      "street": "Rue des Carmes"
+    }, 
+    {
+      "hnrlbls": [
+        "48"
+      ], 
+      "housenumber": "48", 
+      "lat": 50.592003116387, 
+      "lon": 5.867050432567, 
       "municipality": "Verviers", 
       "pcode": "4800", 
       "source": "7738860", 
@@ -229,6 +354,11 @@
       "street": "Rue des Carmes"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "2\u00e9t.", 
+        "3\u00e9t."
+      ], 
       "hnrlbls": [
         "50"
       ], 
@@ -241,6 +371,10 @@
       "street": "Rue des Carmes"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "5\u00e9t."
+      ], 
       "hnrlbls": [
         "52"
       ], 
@@ -277,6 +411,9 @@
       "street": "Rue des Carmes"
     }, 
     {
+      "busnrs": [
+        "rez."
+      ], 
       "hnrlbls": [
         "8"
       ], 
@@ -289,6 +426,22 @@
       "street": "Rue des Carmes"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "10", 
+        "12", 
+        "13", 
+        "2", 
+        "3\u00e9t.", 
+        "4", 
+        "5", 
+        "6", 
+        "bt11", 
+        "bt14", 
+        "bt15", 
+        "bte7", 
+        "bte9"
+      ], 
       "hnrlbls": [
         "9"
       ], 

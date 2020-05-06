@@ -121,6 +121,10 @@
       "street": "Rue des Cordonniers"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -229,18 +233,9 @@
       "street": "Rue des Cordonniers"
     }, 
     {
-      "hnrlbls": [
-        "51"
+      "busnrs": [
+        "0001"
       ], 
-      "housenumber": "51", 
-      "lat": 50.724689393661, 
-      "lon": 3.192457648645, 
-      "municipality": "Mouscron", 
-      "pcode": "7700", 
-      "source": "7715868", 
-      "street": "Rue des Cordonniers"
-    }, 
-    {
       "hnrlbls": [
         "7"
       ], 
@@ -253,6 +248,11 @@
       "street": "Rue des Cordonniers"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "8"
       ], 

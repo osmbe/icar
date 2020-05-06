@@ -25,6 +25,9 @@
       "street": "Impasse En Ile"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -41,8 +44,20 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 50.162216509481, 
-      "lon": 5.06102861532, 
+      "lat": 50.16220473351, 
+      "lon": 5.06106843828, 
+      "municipality": "Houyet", 
+      "pcode": "5564", 
+      "source": "7750008", 
+      "street": "Impasse En Ile"
+    }, 
+    {
+      "hnrlbls": [
+        "16A"
+      ], 
+      "housenumber": "16A", 
+      "lat": 50.162228754027, 
+      "lon": 5.060987416326, 
       "municipality": "Houyet", 
       "pcode": "5564", 
       "source": "7750008", 

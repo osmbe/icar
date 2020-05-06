@@ -2,18 +2,6 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1"
-      ], 
-      "housenumber": "1", 
-      "lat": 50.669876976632, 
-      "lon": 6.120956426299, 
-      "municipality": "Raeren", 
-      "pcode": "4730", 
-      "source": "7737475", 
-      "street": "Hochstra\u00dfe"
-    }, 
-    {
-      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -73,6 +61,12 @@
       "street": "Hochstra\u00dfe"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "15A"
       ], 
@@ -85,6 +79,10 @@
       "street": "Hochstra\u00dfe"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "15B"
       ], 
@@ -193,6 +191,11 @@
       "street": "Hochstra\u00dfe"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -229,6 +232,10 @@
       "street": "Hochstra\u00dfe"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -265,6 +272,11 @@
       "street": "Hochstra\u00dfe"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -325,6 +337,11 @@
       "street": "Hochstra\u00dfe"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -397,6 +414,10 @@
       "street": "Hochstra\u00dfe"
     }, 
     {
+      "busnrs": [
+        "A001", 
+        "A002"
+      ], 
       "hnrlbls": [
         "36"
       ], 
@@ -457,6 +478,10 @@
       "street": "Hochstra\u00dfe"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "46"
       ], 
@@ -499,6 +524,30 @@
       "housenumber": "50", 
       "lat": 50.66844382288, 
       "lon": 6.116823616164, 
+      "municipality": "Raeren", 
+      "pcode": "4730", 
+      "source": "7737475", 
+      "street": "Hochstra\u00dfe"
+    }, 
+    {
+      "hnrlbls": [
+        "52"
+      ], 
+      "housenumber": "52", 
+      "lat": 50.668282968367, 
+      "lon": 6.116367355317, 
+      "municipality": "Raeren", 
+      "pcode": "4730", 
+      "source": "7737475", 
+      "street": "Hochstra\u00dfe"
+    }, 
+    {
+      "hnrlbls": [
+        "52A"
+      ], 
+      "housenumber": "52A", 
+      "lat": 50.668262326992, 
+      "lon": 6.116291903392, 
       "municipality": "Raeren", 
       "pcode": "4730", 
       "source": "7737475", 

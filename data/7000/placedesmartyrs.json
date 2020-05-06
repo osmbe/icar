@@ -25,12 +25,37 @@
       "street": "Place des Martyrs"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "1-2", 
+        "2-1"
+      ], 
       "hnrlbls": [
         "14"
       ], 
       "housenumber": "14", 
       "lat": 50.449146835859, 
       "lon": 3.949875489503, 
+      "municipality": "Mons", 
+      "pcode": "7000", 
+      "source": "7713371", 
+      "street": "Place des Martyrs"
+    }, 
+    {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "0-3", 
+        "1-1", 
+        "B"
+      ], 
+      "hnrlbls": [
+        "15"
+      ], 
+      "housenumber": "15", 
+      "lat": 50.449466612104, 
+      "lon": 3.950317009671, 
       "municipality": "Mons", 
       "pcode": "7000", 
       "source": "7713371", 
@@ -62,6 +87,18 @@
     }, 
     {
       "hnrlbls": [
+        "18B"
+      ], 
+      "housenumber": "18B", 
+      "lat": 50.449106188296, 
+      "lon": 3.950081283577, 
+      "municipality": "Mons", 
+      "pcode": "7000", 
+      "source": "7713371", 
+      "street": "Place des Martyrs"
+    }, 
+    {
+      "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
@@ -85,6 +122,9 @@
       "street": "Place des Martyrs"
     }, 
     {
+      "busnrs": [
+        "Rzch"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -97,6 +137,14 @@
       "street": "Place des Martyrs"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B", 
+        "C", 
+        "D", 
+        "E", 
+        "F"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -169,6 +217,10 @@
       "street": "Place des Martyrs"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "2-1"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -181,6 +233,11 @@
       "street": "Place des Martyrs"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "2-1"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -193,6 +250,23 @@
       "street": "Place des Martyrs"
     }, 
     {
+      "busnrs": [
+        "1-1", 
+        "12", 
+        "13", 
+        "16", 
+        "2-2", 
+        "2-3", 
+        "2-4", 
+        "3-03", 
+        "4-2", 
+        "9", 
+        "A.3", 
+        "B-3", 
+        "BT-6", 
+        "EET3", 
+        "Et-1"
+      ], 
       "hnrlbls": [
         "6"
       ], 

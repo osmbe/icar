@@ -1,6 +1,17 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A001", 
+        "A011", 
+        "A012", 
+        "B001", 
+        "B002", 
+        "B011", 
+        "B012", 
+        "C001", 
+        "C011"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -25,12 +36,36 @@
       "street": "Rue Eglise-St-Philippe"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008", 
+        "0009", 
+        "0012", 
+        "App4"
+      ], 
+      "hnrlbls": [
+        "11"
+      ], 
+      "housenumber": "11", 
+      "lat": 50.195705417237, 
+      "lon": 4.545797466833, 
+      "municipality": "Philippeville", 
+      "pcode": "5600", 
+      "source": "7757646", 
+      "street": "Rue Eglise-St-Philippe"
+    }, 
+    {
       "hnrlbls": [
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.196024441853, 
-      "lon": 4.545847745757, 
+      "lat": 50.196054311485, 
+      "lon": 4.545999046933, 
       "municipality": "Philippeville", 
       "pcode": "5600", 
       "source": "7757646", 
@@ -197,8 +232,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 50.195023354413, 
-      "lon": 4.548562470033, 
+      "lat": 50.195010524125, 
+      "lon": 4.548602683689, 
       "municipality": "Philippeville", 
       "pcode": "5600", 
       "source": "7757646", 
@@ -265,6 +300,11 @@
       "street": "Rue Eglise-St-Philippe"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0RDC"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -365,14 +405,17 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.196210281238, 
-      "lon": 4.544919035455, 
+      "lat": 50.196094617658, 
+      "lon": 4.544831218693, 
       "municipality": "Philippeville", 
       "pcode": "5600", 
       "source": "7757646", 
       "street": "Rue Eglise-St-Philippe"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "7"
       ], 

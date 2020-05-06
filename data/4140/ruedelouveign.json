@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -121,6 +126,13 @@
       "street": "Rue de Louveign\u00e9"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "A1", 
+        "A2"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -181,6 +193,9 @@
       "street": "Rue de Louveign\u00e9"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "3"
       ], 

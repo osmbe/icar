@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -19,6 +22,18 @@
       "housenumber": "2", 
       "lat": 50.288901611976, 
       "lon": 6.266249297239, 
+      "municipality": "Sankt Vith", 
+      "pcode": "4782", 
+      "source": "7737707", 
+      "street": "Kurtrierer Strasse"
+    }, 
+    {
+      "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 50.289370382392, 
+      "lon": 6.26710260223, 
       "municipality": "Sankt Vith", 
       "pcode": "4782", 
       "source": "7737707", 

@@ -49,6 +49,9 @@
       "street": "Grand'Route"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -145,6 +148,9 @@
       "street": "Grand'Route"
     }, 
     {
+      "busnrs": [
+        "Bte1"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -199,6 +205,18 @@
       "housenumber": "31", 
       "lat": 50.693859056927, 
       "lon": 4.934175666315, 
+      "municipality": "Orp-Jauche", 
+      "pcode": "1350", 
+      "source": "7705754", 
+      "street": "Grand'Route"
+    }, 
+    {
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.700285870591, 
+      "lon": 4.92615510326, 
       "municipality": "Orp-Jauche", 
       "pcode": "1350", 
       "source": "7705754", 

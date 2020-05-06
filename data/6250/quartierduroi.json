@@ -121,6 +121,11 @@
       "street": "Quartier du Roi"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "114"
       ], 
@@ -841,6 +846,9 @@
       "street": "Quartier du Roi"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "62"
       ], 
@@ -853,6 +861,9 @@
       "street": "Quartier du Roi"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "63"
       ], 
@@ -937,6 +948,10 @@
       "street": "Quartier du Roi"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "70"
       ], 
@@ -985,6 +1000,12 @@
       "street": "Quartier du Roi"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004"
+      ], 
       "hnrlbls": [
         "75"
       ], 
@@ -1001,8 +1022,20 @@
         "76"
       ], 
       "housenumber": "76", 
-      "lat": 50.415404559125, 
-      "lon": 4.548615503655, 
+      "lat": 50.415411315287, 
+      "lon": 4.548895992494, 
+      "municipality": "Aiseau-Presles", 
+      "pcode": "6250", 
+      "source": "7711564", 
+      "street": "Quartier du Roi"
+    }, 
+    {
+      "hnrlbls": [
+        "76/1"
+      ], 
+      "housenumber": "76/1", 
+      "lat": 50.41538195526, 
+      "lon": 4.548961400272, 
       "municipality": "Aiseau-Presles", 
       "pcode": "6250", 
       "source": "7711564", 

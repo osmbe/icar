@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "011", 
+        "012", 
+        "021", 
+        "022"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -181,6 +187,10 @@
       "street": "Rue de Trooz"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "11"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -271,6 +281,18 @@
       "housenumber": "28", 
       "lat": 50.558429724642, 
       "lon": 5.643885107886, 
+      "municipality": "Chaudfontaine", 
+      "pcode": "4052", 
+      "source": "7728122", 
+      "street": "Rue de Trooz"
+    }, 
+    {
+      "hnrlbls": [
+        "2A"
+      ], 
+      "housenumber": "2A", 
+      "lat": 50.558504338165, 
+      "lon": 5.640141875344, 
       "municipality": "Chaudfontaine", 
       "pcode": "4052", 
       "source": "7728122", 

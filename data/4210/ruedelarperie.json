@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -79,6 +82,18 @@
       "housenumber": "20", 
       "lat": 50.575673325855, 
       "lon": 5.050442514085, 
+      "municipality": "Burdinne", 
+      "pcode": "4210", 
+      "source": "7724760", 
+      "street": "Rue de la R\u00e2perie"
+    }, 
+    {
+      "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 50.576560128928, 
+      "lon": 5.047769133981, 
       "municipality": "Burdinne", 
       "pcode": "4210", 
       "source": "7724760", 

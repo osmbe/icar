@@ -169,6 +169,9 @@
       "street": "Rue du Bois de Moxhe"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -277,6 +280,11 @@
       "street": "Rue du Bois de Moxhe"
     }, 
     {
+      "busnrs": [
+        "000B", 
+        "A001", 
+        "A002"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -313,6 +321,10 @@
       "street": "Rue du Bois de Moxhe"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "000D"
+      ], 
       "hnrlbls": [
         "33"
       ], 
@@ -337,6 +349,17 @@
       "street": "Rue du Bois de Moxhe"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "000B", 
+        "000C", 
+        "000F", 
+        "000G", 
+        "000H", 
+        "000I", 
+        "000K", 
+        "00R1"
+      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -457,6 +480,9 @@
       "street": "Rue du Bois de Moxhe"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -481,6 +507,9 @@
       "street": "Rue du Bois de Moxhe"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "37"
       ], 
@@ -529,6 +558,11 @@
       "street": "Rue du Bois de Moxhe"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "000B", 
+        "A001"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -593,8 +627,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.549212779021, 
-      "lon": 5.052397092675, 
+      "lat": 50.550381092982, 
+      "lon": 5.053067910832, 
       "municipality": "H\u00e9ron", 
       "pcode": "4217", 
       "source": "7725320", 

@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "2\u00e9t."
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +17,9 @@
       "street": "Rue Victor de Neuville"
     }, 
     {
+      "busnrs": [
+        "2\u00e9t."
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -38,6 +45,18 @@
     }, 
     {
       "hnrlbls": [
+        "13"
+      ], 
+      "housenumber": "13", 
+      "lat": 50.614099822735, 
+      "lon": 5.832460500857, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7739114", 
+      "street": "Rue Victor de Neuville"
+    }, 
+    {
+      "hnrlbls": [
         "16"
       ], 
       "housenumber": "16", 
@@ -49,12 +68,39 @@
       "street": "Rue Victor de Neuville"
     }, 
     {
+      "busnrs": [
+        "2\u00e9t."
+      ], 
       "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
       "lat": 50.613914032512, 
       "lon": 5.83248855939, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7739114", 
+      "street": "Rue Victor de Neuville"
+    }, 
+    {
+      "hnrlbls": [
+        "1B"
+      ], 
+      "housenumber": "1B", 
+      "lat": 50.613683772014, 
+      "lon": 5.832398518249, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7739114", 
+      "street": "Rue Victor de Neuville"
+    }, 
+    {
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.613727727892, 
+      "lon": 5.832933029738, 
       "municipality": "Verviers", 
       "pcode": "4800", 
       "source": "7739114", 
@@ -103,6 +149,18 @@
       "housenumber": "5", 
       "lat": 50.613758390428, 
       "lon": 5.832145624605, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7739114", 
+      "street": "Rue Victor de Neuville"
+    }, 
+    {
+      "hnrlbls": [
+        "5A"
+      ], 
+      "housenumber": "5A", 
+      "lat": 50.61384320009, 
+      "lon": 5.83203603025, 
       "municipality": "Verviers", 
       "pcode": "4800", 
       "source": "7739114", 

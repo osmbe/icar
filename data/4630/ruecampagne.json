@@ -85,6 +85,10 @@
       "street": "Rue Campagne"
     }, 
     {
+      "busnrs": [
+        "A000", 
+        "B000"
+      ], 
       "hnrlbls": [
         "121"
       ], 
@@ -109,6 +113,14 @@
       "street": "Rue Campagne"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006"
+      ], 
       "hnrlbls": [
         "129"
       ], 
@@ -253,6 +265,11 @@
       "street": "Rue Campagne"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "201"
       ], 
@@ -290,6 +307,18 @@
     }, 
     {
       "hnrlbls": [
+        "207"
+      ], 
+      "housenumber": "207", 
+      "lat": 50.635149326962, 
+      "lon": 5.709503563737, 
+      "municipality": "Soumagne", 
+      "pcode": "4630", 
+      "source": "7732739", 
+      "street": "Rue Campagne"
+    }, 
+    {
+      "hnrlbls": [
         "209"
       ], 
       "housenumber": "209", 
@@ -319,6 +348,46 @@
       "housenumber": "213", 
       "lat": 50.634948835249, 
       "lon": 5.708707583792, 
+      "municipality": "Soumagne", 
+      "pcode": "4630", 
+      "source": "7732739", 
+      "street": "Rue Campagne"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
+      "hnrlbls": [
+        "215"
+      ], 
+      "housenumber": "215", 
+      "lat": 50.634936954651, 
+      "lon": 5.708271742163, 
+      "municipality": "Soumagne", 
+      "pcode": "4630", 
+      "source": "7732739", 
+      "street": "Rue Campagne"
+    }, 
+    {
+      "hnrlbls": [
+        "219"
+      ], 
+      "housenumber": "219", 
+      "lat": 50.634996032241, 
+      "lon": 5.707922917372, 
+      "municipality": "Soumagne", 
+      "pcode": "4630", 
+      "source": "7732739", 
+      "street": "Rue Campagne"
+    }, 
+    {
+      "hnrlbls": [
+        "221"
+      ], 
+      "housenumber": "221", 
+      "lat": 50.635003266029, 
+      "lon": 5.707665763384, 
       "municipality": "Soumagne", 
       "pcode": "4630", 
       "source": "7732739", 

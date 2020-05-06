@@ -13,6 +13,11 @@
       "street": "Rue de l'Industrie"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -25,6 +30,13 @@
       "street": "Rue de l'Industrie"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "201", 
+        "301", 
+        "R01", 
+        "R02"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -37,18 +49,12 @@
       "street": "Rue de l'Industrie"
     }, 
     {
-      "hnrlbls": [
-        "17"
+      "busnrs": [
+        "101", 
+        "201", 
+        "301", 
+        "R01"
       ], 
-      "housenumber": "17", 
-      "lat": 50.69057813427, 
-      "lon": 4.204161170024, 
-      "municipality": "Tubize", 
-      "pcode": "1480", 
-      "source": "7703840", 
-      "street": "Rue de l'Industrie"
-    }, 
-    {
       "hnrlbls": [
         "18"
       ], 
@@ -65,8 +71,8 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 50.690585437982, 
-      "lon": 4.204067823911, 
+      "lat": 50.690577535181, 
+      "lon": 4.204158347293, 
       "municipality": "Tubize", 
       "pcode": "1480", 
       "source": "7703840", 
@@ -121,6 +127,12 @@
       "street": "Rue de l'Industrie"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
       "hnrlbls": [
         "3"
       ], 

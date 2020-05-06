@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A", 
+        "B", 
+        "C"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -73,6 +78,9 @@
       "street": "Rue des Chantiers"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "3"
       ], 

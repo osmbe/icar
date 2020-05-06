@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0003"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -487,6 +490,18 @@
       "housenumber": "140", 
       "lat": 49.580819482517, 
       "lon": 5.552295829516, 
+      "municipality": "Virton", 
+      "pcode": "6760", 
+      "source": "7747759", 
+      "street": "Clos des Horl\u00e9es"
+    }, 
+    {
+      "hnrlbls": [
+        "41"
+      ], 
+      "housenumber": "41", 
+      "lat": 49.58035259488, 
+      "lon": 5.553149220267, 
       "municipality": "Virton", 
       "pcode": "6760", 
       "source": "7747759", 

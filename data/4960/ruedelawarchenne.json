@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -61,6 +64,10 @@
       "street": "Rue de la Warchenne"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -121,6 +128,9 @@
       "street": "Rue de la Warchenne"
     }, 
     {
+      "busnrs": [
+        "C/3"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -137,8 +147,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 50.424867679656, 
-      "lon": 6.025020952646, 
+      "lat": 50.424901142027, 
+      "lon": 6.024912394889, 
       "municipality": "Malmedy", 
       "pcode": "4960", 
       "source": "7737014", 
@@ -289,6 +299,11 @@
       "street": "Rue de la Warchenne"
     }, 
     {
+      "busnrs": [
+        "B.11", 
+        "B10", 
+        "Be.6"
+      ], 
       "hnrlbls": [
         "64"
       ], 
@@ -301,6 +316,11 @@
       "street": "Rue de la Warchenne"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "B.3", 
+        "Be.5"
+      ], 
       "hnrlbls": [
         "66"
       ], 
@@ -349,6 +369,9 @@
       "street": "Rue de la Warchenne"
     }, 
     {
+      "busnrs": [
+        "0004"
+      ], 
       "hnrlbls": [
         "9"
       ], 

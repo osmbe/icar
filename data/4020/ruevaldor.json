@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -37,12 +42,48 @@
       "street": "Rue Valdor"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024", 
+        "0031"
+      ], 
       "hnrlbls": [
         "13"
       ], 
       "housenumber": "13", 
       "lat": 50.6369671349, 
       "lon": 5.587230987411, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7731386", 
+      "street": "Rue Valdor"
+    }, 
+    {
+      "hnrlbls": [
+        "14"
+      ], 
+      "housenumber": "14", 
+      "lat": 50.636763036529, 
+      "lon": 5.587291106177, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7731386", 
+      "street": "Rue Valdor"
+    }, 
+    {
+      "hnrlbls": [
+        "15"
+      ], 
+      "housenumber": "15", 
+      "lat": 50.636944949285, 
+      "lon": 5.587273592509, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7731386", 
@@ -61,6 +102,29 @@
       "street": "Rue Valdor"
     }, 
     {
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.636927989089, 
+      "lon": 5.586941487521, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7731386", 
+      "street": "Rue Valdor"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "5"
       ], 

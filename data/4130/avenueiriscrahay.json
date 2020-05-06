@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "01", 
+        "11", 
+        "21"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +18,11 @@
       "street": "Avenue Iris Crahay"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -49,6 +59,10 @@
       "street": "Avenue Iris Crahay"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -73,6 +87,9 @@
       "street": "Avenue Iris Crahay"
     }, 
     {
+      "busnrs": [
+        "0011"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -217,6 +234,11 @@
       "street": "Avenue Iris Crahay"
     }, 
     {
+      "busnrs": [
+        "D002", 
+        "D011", 
+        "D012"
+      ], 
       "hnrlbls": [
         "32"
       ], 
@@ -235,6 +257,30 @@
       "housenumber": "32B", 
       "lat": 50.528633141126, 
       "lon": 5.564254092401, 
+      "municipality": "Esneux", 
+      "pcode": "4130", 
+      "source": "7728556", 
+      "street": "Avenue Iris Crahay"
+    }, 
+    {
+      "hnrlbls": [
+        "32C001"
+      ], 
+      "housenumber": "32C001", 
+      "lat": 50.528495609072, 
+      "lon": 5.564113274676, 
+      "municipality": "Esneux", 
+      "pcode": "4130", 
+      "source": "7728556", 
+      "street": "Avenue Iris Crahay"
+    }, 
+    {
+      "hnrlbls": [
+        "32C002"
+      ], 
+      "housenumber": "32C002", 
+      "lat": 50.528453535012, 
+      "lon": 5.56408683241, 
       "municipality": "Esneux", 
       "pcode": "4130", 
       "source": "7728556", 
@@ -421,6 +467,10 @@
       "street": "Avenue Iris Crahay"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "51"
       ], 
@@ -505,6 +555,10 @@
       "street": "Avenue Iris Crahay"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "7"
       ], 

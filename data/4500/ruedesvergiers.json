@@ -1,6 +1,16 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0002", 
+        "A/11", 
+        "A/12", 
+        "A/21", 
+        "A/22", 
+        "ARCH", 
+        "RCH1", 
+        "RCH2"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -101,8 +111,8 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 50.528513981408, 
-      "lon": 5.245390321167, 
+      "lat": 50.52811994539, 
+      "lon": 5.245675097842, 
       "municipality": "Huy", 
       "pcode": "4500", 
       "source": "7725586", 
@@ -197,8 +207,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 50.52848431061, 
-      "lon": 5.247275688319, 
+      "lat": 50.52840568686, 
+      "lon": 5.247235086826, 
       "municipality": "Huy", 
       "pcode": "4500", 
       "source": "7725586", 
@@ -301,6 +311,9 @@
       "street": "Rue des Vergiers"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -313,6 +326,9 @@
       "street": "Rue des Vergiers"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "51"
       ], 
@@ -553,6 +569,9 @@
       "street": "Rue des Vergiers"
     }, 
     {
+      "busnrs": [
+        "000B"
+      ], 
       "hnrlbls": [
         "74"
       ], 

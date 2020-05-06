@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1/1", 
+        "2/1"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -25,6 +29,11 @@
       "street": "Major-Long-Strasse"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "1/1", 
+        "2/1"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -49,6 +58,11 @@
       "street": "Major-Long-Strasse"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "1/1", 
+        "2/1"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -73,6 +87,10 @@
       "street": "Major-Long-Strasse"
     }, 
     {
+      "busnrs": [
+        "1/1", 
+        "2/1"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -97,6 +115,9 @@
       "street": "Major-Long-Strasse"
     }, 
     {
+      "busnrs": [
+        "1/1"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -133,12 +154,16 @@
       "street": "Major-Long-Strasse"
     }, 
     {
+      "busnrs": [
+        "2/1", 
+        "3/1"
+      ], 
       "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.279541754659, 
-      "lon": 6.127229472392, 
+      "lat": 50.279543519047, 
+      "lon": 6.127230837186, 
       "municipality": "Sankt Vith", 
       "pcode": "4780", 
       "source": "7737717", 
@@ -169,6 +194,11 @@
       "street": "Major-Long-Strasse"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "1/1", 
+        "2/1"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -181,12 +211,30 @@
       "street": "Major-Long-Strasse"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "1/1", 
+        "2/1", 
+        "2/2"
+      ], 
       "hnrlbls": [
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 50.280336663745, 
-      "lon": 6.12798272618, 
+      "lat": 50.28035959465, 
+      "lon": 6.12797689001, 
+      "municipality": "Sankt Vith", 
+      "pcode": "4780", 
+      "source": "7737717", 
+      "street": "Major-Long-Strasse"
+    }, 
+    {
+      "hnrlbls": [
+        "28A"
+      ], 
+      "housenumber": "28A", 
+      "lat": 50.280331985273, 
+      "lon": 6.127964039123, 
       "municipality": "Sankt Vith", 
       "pcode": "4780", 
       "source": "7737717", 
@@ -197,8 +245,27 @@
         "2A"
       ], 
       "housenumber": "2A", 
-      "lat": 50.279541754659, 
-      "lon": 6.127229472392, 
+      "lat": 50.279519016786, 
+      "lon": 6.127159937939, 
+      "municipality": "Sankt Vith", 
+      "pcode": "4780", 
+      "source": "7737717", 
+      "street": "Major-Long-Strasse"
+    }, 
+    {
+      "busnrs": [
+        "1/1", 
+        "1/2", 
+        "2/1", 
+        "3/1", 
+        "3/2"
+      ], 
+      "hnrlbls": [
+        "2B"
+      ], 
+      "housenumber": "2B", 
+      "lat": 50.279505535384, 
+      "lon": 6.127134409795, 
       "municipality": "Sankt Vith", 
       "pcode": "4780", 
       "source": "7737717", 
@@ -277,6 +344,11 @@
       "street": "Major-Long-Strasse"
     }, 
     {
+      "busnrs": [
+        "1/1", 
+        "2/1", 
+        "3/1"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -301,6 +373,25 @@
       "street": "Major-Long-Strasse"
     }, 
     {
+      "hnrlbls": [
+        "4B"
+      ], 
+      "housenumber": "4B", 
+      "lat": 50.279635389907, 
+      "lon": 6.127365622546, 
+      "municipality": "Sankt Vith", 
+      "pcode": "4780", 
+      "source": "7737717", 
+      "street": "Major-Long-Strasse"
+    }, 
+    {
+      "busnrs": [
+        "0/1", 
+        "0/2", 
+        "1/1", 
+        "2/1", 
+        "2/2"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -337,6 +428,9 @@
       "street": "Major-Long-Strasse"
     }, 
     {
+      "busnrs": [
+        "1/1"
+      ], 
       "hnrlbls": [
         "8"
       ], 
@@ -349,6 +443,10 @@
       "street": "Major-Long-Strasse"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "1/1"
+      ], 
       "hnrlbls": [
         "9"
       ], 

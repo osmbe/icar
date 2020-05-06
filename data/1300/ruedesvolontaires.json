@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -61,6 +66,9 @@
       "street": "Rue des Volontaires"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -73,6 +81,10 @@
       "street": "Rue des Volontaires"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -85,6 +97,12 @@
       "street": "Rue des Volontaires"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004"
+      ], 
       "hnrlbls": [
         "9"
       ], 

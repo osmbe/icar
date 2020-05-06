@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0004"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -97,6 +100,11 @@
       "street": "Rue du Pont Saint-Jean"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "37"
       ], 
@@ -109,6 +117,10 @@
       "street": "Rue du Pont Saint-Jean"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "41"
       ], 
@@ -121,6 +133,10 @@
       "street": "Rue du Pont Saint-Jean"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "43"
       ], 
@@ -145,6 +161,9 @@
       "street": "Rue du Pont Saint-Jean"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "47"
       ], 
@@ -161,8 +180,8 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 50.712367126475, 
-      "lon": 4.605734001302, 
+      "lat": 50.712677286807, 
+      "lon": 4.606995771916, 
       "municipality": "Wavre", 
       "pcode": "1300", 
       "source": "7705000", 

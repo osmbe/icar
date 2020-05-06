@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -13,6 +19,55 @@
       "street": "Rue de la Rose"
     }, 
     {
+      "hnrlbls": [
+        "18"
+      ], 
+      "housenumber": "18", 
+      "lat": 50.646759203496, 
+      "lon": 5.578167660603, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730408", 
+      "street": "Rue de la Rose"
+    }, 
+    {
+      "hnrlbls": [
+        "1A"
+      ], 
+      "housenumber": "1A", 
+      "lat": 50.646399112066, 
+      "lon": 5.578254022908, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730408", 
+      "street": "Rue de la Rose"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0021", 
+        "0031", 
+        "0033", 
+        "011A", 
+        "012B", 
+        "013B", 
+        "014B", 
+        "015B", 
+        "016A", 
+        "021A", 
+        "021B", 
+        "022A", 
+        "022B", 
+        "031A", 
+        "031B", 
+        "032A", 
+        "032B", 
+        "A000"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -38,6 +93,18 @@
     }, 
     {
       "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.646523876718, 
+      "lon": 5.578317886284, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730408", 
+      "street": "Rue de la Rose"
+    }, 
+    {
+      "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
@@ -49,6 +116,11 @@
       "street": "Rue de la Rose"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "8"
       ], 

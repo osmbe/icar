@@ -1,6 +1,13 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -13,6 +20,15 @@
       "street": "Rue Saint-Jean-en-Isle"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -25,6 +41,12 @@
       "street": "Rue Saint-Jean-en-Isle"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -49,6 +71,12 @@
       "street": "Rue Saint-Jean-en-Isle"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -73,6 +101,13 @@
       "street": "Rue Saint-Jean-en-Isle"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -97,12 +132,29 @@
       "street": "Rue Saint-Jean-en-Isle"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
       "lat": 50.641864589963, 
       "lon": 5.56893145536, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731310", 
+      "street": "Rue Saint-Jean-en-Isle"
+    }, 
+    {
+      "hnrlbls": [
+        "19"
+      ], 
+      "housenumber": "19", 
+      "lat": 50.641813863274, 
+      "lon": 5.56925386214, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731310", 
@@ -194,6 +246,30 @@
     }, 
     {
       "hnrlbls": [
+        "28"
+      ], 
+      "housenumber": "28", 
+      "lat": 50.641589070406, 
+      "lon": 5.569176596955, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731310", 
+      "street": "Rue Saint-Jean-en-Isle"
+    }, 
+    {
+      "hnrlbls": [
+        "2A"
+      ], 
+      "housenumber": "2A", 
+      "lat": 50.642238582335, 
+      "lon": 5.568486702439, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731310", 
+      "street": "Rue Saint-Jean-en-Isle"
+    }, 
+    {
+      "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
@@ -205,6 +281,41 @@
       "street": "Rue Saint-Jean-en-Isle"
     }, 
     {
+      "hnrlbls": [
+        "30"
+      ], 
+      "housenumber": "30", 
+      "lat": 50.64158462479, 
+      "lon": 5.569285357979, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731310", 
+      "street": "Rue Saint-Jean-en-Isle"
+    }, 
+    {
+      "hnrlbls": [
+        "32"
+      ], 
+      "housenumber": "32", 
+      "lat": 50.641549711372, 
+      "lon": 5.569305537501, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731310", 
+      "street": "Rue Saint-Jean-en-Isle"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0031", 
+        "0032", 
+        "0033"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -229,6 +340,13 @@
       "street": "Rue Saint-Jean-en-Isle"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0022", 
+        "0023"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -241,6 +359,17 @@
       "street": "Rue Saint-Jean-en-Isle"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0031"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -271,6 +400,18 @@
       "housenumber": "9", 
       "lat": 50.642065558598, 
       "lon": 5.568944697505, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731310", 
+      "street": "Rue Saint-Jean-en-Isle"
+    }, 
+    {
+      "hnrlbls": [
+        "9B"
+      ], 
+      "housenumber": "9B", 
+      "lat": 50.642054077778, 
+      "lon": 5.569046889561, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731310", 

@@ -121,6 +121,10 @@
       "street": "Rue du Blanc Pignon"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "129"
       ], 
@@ -397,6 +401,10 @@
       "street": "Rue du Blanc Pignon"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "158"
       ], 
@@ -709,6 +717,14 @@
       "street": "Rue du Blanc Pignon"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006"
+      ], 
       "hnrlbls": [
         "70"
       ], 
@@ -811,6 +827,18 @@
       "housenumber": "97", 
       "lat": 50.752071639476, 
       "lon": 3.199645688687, 
+      "municipality": "Mouscron", 
+      "pcode": "7700", 
+      "source": "7715942", 
+      "street": "Rue du Blanc Pignon"
+    }, 
+    {
+      "hnrlbls": [
+        "99"
+      ], 
+      "housenumber": "99", 
+      "lat": 50.751971474577, 
+      "lon": 3.199589981053, 
       "municipality": "Mouscron", 
       "pcode": "7700", 
       "source": "7715942", 

@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0002", 
+        "0005", 
+        "000B", 
+        "1"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -317,8 +323,8 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 50.412197225139, 
-      "lon": 4.928326630281, 
+      "lat": 50.410901954653, 
+      "lon": 4.928351813191, 
       "municipality": "Namur", 
       "pcode": "5100", 
       "source": "7753992", 
@@ -361,6 +367,9 @@
       "street": "Rue des Flawn\u00e9es"
     }, 
     {
+      "busnrs": [
+        "000C"
+      ], 
       "hnrlbls": [
         "42"
       ], 
@@ -409,6 +418,12 @@
       "street": "Rue des Flawn\u00e9es"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "0003", 
+        "0005", 
+        "000A"
+      ], 
       "hnrlbls": [
         "45"
       ], 

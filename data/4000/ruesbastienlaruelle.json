@@ -1,12 +1,31 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
       "lat": 50.642546207144, 
       "lon": 5.568710368172, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731338", 
+      "street": "Rue S\u00e9bastien-Laruelle"
+    }, 
+    {
+      "hnrlbls": [
+        "1A"
+      ], 
+      "housenumber": "1A", 
+      "lat": 50.642575526733, 
+      "lon": 5.568643963947, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731338", 
@@ -37,6 +56,14 @@
       "street": "Rue S\u00e9bastien-Laruelle"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -61,6 +88,11 @@
       "street": "Rue S\u00e9bastien-Laruelle"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "6"
       ], 

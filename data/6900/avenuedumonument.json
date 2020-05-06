@@ -13,6 +13,10 @@
       "street": "Avenue du Monument"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -37,12 +41,33 @@
       "street": "Avenue du Monument"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "12"
       ], 
       "housenumber": "12", 
       "lat": 50.223909313458, 
       "lon": 5.341915489351, 
+      "municipality": "Marche-en-Famenne", 
+      "pcode": "6900", 
+      "source": "7743911", 
+      "street": "Avenue du Monument"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
+      "hnrlbls": [
+        "12A"
+      ], 
+      "housenumber": "12A", 
+      "lat": 50.223840483076, 
+      "lon": 5.341834399209, 
       "municipality": "Marche-en-Famenne", 
       "pcode": "6900", 
       "source": "7743911", 
@@ -133,6 +158,35 @@
       "street": "Avenue du Monument"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "10", 
+        "11", 
+        "12", 
+        "13", 
+        "14", 
+        "15", 
+        "16", 
+        "2", 
+        "3", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
+      "hnrlbls": [
+        "19"
+      ], 
+      "housenumber": "19", 
+      "lat": 50.224578337094, 
+      "lon": 5.341427459499, 
+      "municipality": "Marche-en-Famenne", 
+      "pcode": "6900", 
+      "source": "7743911", 
+      "street": "Avenue du Monument"
+    }, 
+    {
       "hnrlbls": [
         "2"
       ], 
@@ -145,6 +199,11 @@
       "street": "Avenue du Monument"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -158,11 +217,146 @@
     }, 
     {
       "hnrlbls": [
+        "21"
+      ], 
+      "housenumber": "21", 
+      "lat": 50.22468789295, 
+      "lon": 5.340860643808, 
+      "municipality": "Marche-en-Famenne", 
+      "pcode": "6900", 
+      "source": "7743911", 
+      "street": "Avenue du Monument"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "10", 
+        "12", 
+        "13", 
+        "14", 
+        "15", 
+        "16", 
+        "17", 
+        "18", 
+        "19", 
+        "20", 
+        "21", 
+        "3", 
+        "4", 
+        "5", 
+        "7", 
+        "8", 
+        "9"
+      ], 
+      "hnrlbls": [
+        "21A"
+      ], 
+      "housenumber": "21A", 
+      "lat": 50.224778747309, 
+      "lon": 5.341033074809, 
+      "municipality": "Marche-en-Famenne", 
+      "pcode": "6900", 
+      "source": "7743911", 
+      "street": "Avenue du Monument"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "10", 
+        "11", 
+        "12", 
+        "13", 
+        "14", 
+        "15", 
+        "16", 
+        "17", 
+        "18", 
+        "2", 
+        "20", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
+      "hnrlbls": [
+        "21B"
+      ], 
+      "housenumber": "21B", 
+      "lat": 50.224607809351, 
+      "lon": 5.340698979756, 
+      "municipality": "Marche-en-Famenne", 
+      "pcode": "6900", 
+      "source": "7743911", 
+      "street": "Avenue du Monument"
+    }, 
+    {
+      "hnrlbls": [
         "22"
       ], 
       "housenumber": "22", 
       "lat": 50.223364245892, 
       "lon": 5.341183932739, 
+      "municipality": "Marche-en-Famenne", 
+      "pcode": "6900", 
+      "source": "7743911", 
+      "street": "Avenue du Monument"
+    }, 
+    {
+      "hnrlbls": [
+        "22A"
+      ], 
+      "housenumber": "22A", 
+      "lat": 50.22305625231, 
+      "lon": 5.340796330578, 
+      "municipality": "Marche-en-Famenne", 
+      "pcode": "6900", 
+      "source": "7743911", 
+      "street": "Avenue du Monument"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
+      "hnrlbls": [
+        "22B"
+      ], 
+      "housenumber": "22B", 
+      "lat": 50.223017208707, 
+      "lon": 5.340705797642, 
+      "municipality": "Marche-en-Famenne", 
+      "pcode": "6900", 
+      "source": "7743911", 
+      "street": "Avenue du Monument"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "10", 
+        "11", 
+        "12", 
+        "13", 
+        "14", 
+        "15", 
+        "16", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
+      "hnrlbls": [
+        "23"
+      ], 
+      "housenumber": "23", 
+      "lat": 50.224303748321, 
+      "lon": 5.340880544128, 
       "municipality": "Marche-en-Famenne", 
       "pcode": "6900", 
       "source": "7743911", 
@@ -185,8 +379,24 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.224682589285, 
-      "lon": 5.340859216671, 
+      "lat": 50.223843432324, 
+      "lon": 5.34070614339, 
+      "municipality": "Marche-en-Famenne", 
+      "pcode": "6900", 
+      "source": "7743911", 
+      "street": "Avenue du Monument"
+    }, 
+    {
+      "busnrs": [
+        "01", 
+        "11"
+      ], 
+      "hnrlbls": [
+        "26"
+      ], 
+      "housenumber": "26", 
+      "lat": 50.22242457656, 
+      "lon": 5.339735178772, 
       "municipality": "Marche-en-Famenne", 
       "pcode": "6900", 
       "source": "7743911", 
@@ -199,6 +409,18 @@
       "housenumber": "3", 
       "lat": 50.225077444958, 
       "lon": 5.342957985034, 
+      "municipality": "Marche-en-Famenne", 
+      "pcode": "6900", 
+      "source": "7743911", 
+      "street": "Avenue du Monument"
+    }, 
+    {
+      "hnrlbls": [
+        "30"
+      ], 
+      "housenumber": "30", 
+      "lat": 50.220451529037, 
+      "lon": 5.335487790467, 
       "municipality": "Marche-en-Famenne", 
       "pcode": "6900", 
       "source": "7743911", 
@@ -223,6 +445,18 @@
       "housenumber": "5", 
       "lat": 50.224971525826, 
       "lon": 5.342942152383, 
+      "municipality": "Marche-en-Famenne", 
+      "pcode": "6900", 
+      "source": "7743911", 
+      "street": "Avenue du Monument"
+    }, 
+    {
+      "hnrlbls": [
+        "5A"
+      ], 
+      "housenumber": "5A", 
+      "lat": 50.225015503786, 
+      "lon": 5.342897573074, 
       "municipality": "Marche-en-Famenne", 
       "pcode": "6900", 
       "source": "7743911", 

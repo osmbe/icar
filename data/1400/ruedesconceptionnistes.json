@@ -2,6 +2,38 @@
   "addresses": [
     {
       "hnrlbls": [
+        "1A"
+      ], 
+      "housenumber": "1A", 
+      "lat": 50.597850828757, 
+      "lon": 4.326041238485, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703068", 
+      "street": "Rue des Conceptionnistes"
+    }, 
+    {
+      "hnrlbls": [
+        "1B"
+      ], 
+      "housenumber": "1B", 
+      "lat": 50.597879716543, 
+      "lon": 4.326173880708, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703068", 
+      "street": "Rue des Conceptionnistes"
+    }, 
+    {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt04", 
+        "Bt05", 
+        "Bt08"
+      ], 
+      "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
@@ -17,14 +49,19 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.597966008658, 
-      "lon": 4.326546685242, 
+      "lat": 50.598016484338, 
+      "lon": 4.326310336048, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703068", 
       "street": "Rue des Conceptionnistes"
     }, 
     {
+      "busnrs": [
+        "02Et", 
+        "Bt01", 
+        "Bt02"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -37,12 +74,15 @@
       "street": "Rue des Conceptionnistes"
     }, 
     {
+      "busnrs": [
+        "RDCH"
+      ], 
       "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.597981796851, 
-      "lon": 4.326728582185, 
+      "lat": 50.597967503617, 
+      "lon": 4.326667865958, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703068", 
@@ -55,6 +95,23 @@
       "housenumber": "6", 
       "lat": 50.597835455713, 
       "lon": 4.326447320639, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703068", 
+      "street": "Rue des Conceptionnistes"
+    }, 
+    {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03"
+      ], 
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 50.597982213369, 
+      "lon": 4.326780142286, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703068", 

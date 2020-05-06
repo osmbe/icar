@@ -13,6 +13,10 @@
       "street": "Rue Pireux"
     }, 
     {
+      "busnrs": [
+        "A001", 
+        "B011"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -79,6 +83,18 @@
       "housenumber": "2", 
       "lat": 50.608528211304, 
       "lon": 5.65671134278, 
+      "municipality": "Fl\u00e9ron", 
+      "pcode": "4624", 
+      "source": "7729011", 
+      "street": "Rue Pireux"
+    }, 
+    {
+      "hnrlbls": [
+        "20"
+      ], 
+      "housenumber": "20", 
+      "lat": 50.607946722687, 
+      "lon": 5.655225844301, 
       "municipality": "Fl\u00e9ron", 
       "pcode": "4624", 
       "source": "7729011", 

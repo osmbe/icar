@@ -97,6 +97,9 @@
       "street": "Rue Victor Cuvelier"
     }, 
     {
+      "busnrs": [
+        "BTE1"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -121,6 +124,9 @@
       "street": "Rue Victor Cuvelier"
     }, 
     {
+      "busnrs": [
+        "B/B1"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -253,12 +259,16 @@
       "street": "Rue Victor Cuvelier"
     }, 
     {
+      "busnrs": [
+        "A/01", 
+        "A/02"
+      ], 
       "hnrlbls": [
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 50.565005409661, 
-      "lon": 4.147927741386, 
+      "lat": 50.565909751662, 
+      "lon": 4.147416969483, 
       "municipality": "Ecaussinnes", 
       "pcode": "7190", 
       "source": "7718998", 
@@ -337,6 +347,10 @@
       "street": "Rue Victor Cuvelier"
     }, 
     {
+      "busnrs": [
+        "A/01", 
+        "A/02"
+      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -397,6 +411,26 @@
       "street": "Rue Victor Cuvelier"
     }, 
     {
+      "busnrs": [
+        "C/02", 
+        "C/03", 
+        "C/04", 
+        "C/05", 
+        "C/06", 
+        "C/08", 
+        "C/09", 
+        "C/10", 
+        "C/13", 
+        "C/16", 
+        "D/02", 
+        "D/03", 
+        "D/04", 
+        "D/05", 
+        "D/06", 
+        "D/07", 
+        "D/08", 
+        "D/09"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -853,6 +887,11 @@
       "street": "Rue Victor Cuvelier"
     }, 
     {
+      "busnrs": [
+        "A/01", 
+        "A/02", 
+        "A/04"
+      ], 
       "hnrlbls": [
         "74"
       ], 

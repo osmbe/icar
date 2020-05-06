@@ -13,6 +13,9 @@
       "street": "Rue de Mah\u00e8ne"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -37,6 +40,11 @@
       "street": "Rue de Mah\u00e8ne"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2", 
+        "Bte3"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -121,30 +129,9 @@
       "street": "Rue de Mah\u00e8ne"
     }, 
     {
-      "hnrlbls": [
-        "24"
+      "busnrs": [
+        "A"
       ], 
-      "housenumber": "24", 
-      "lat": 50.246880029846, 
-      "lon": 4.989746079821, 
-      "municipality": "Dinant", 
-      "pcode": "5504", 
-      "source": "7749262", 
-      "street": "Rue de Mah\u00e8ne"
-    }, 
-    {
-      "hnrlbls": [
-        "4"
-      ], 
-      "housenumber": "4", 
-      "lat": 50.24778095064, 
-      "lon": 4.990269364958, 
-      "municipality": "Dinant", 
-      "pcode": "5504", 
-      "source": "7749262", 
-      "street": "Rue de Mah\u00e8ne"
-    }, 
-    {
       "hnrlbls": [
         "5"
       ], 

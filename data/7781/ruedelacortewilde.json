@@ -13,6 +13,9 @@
       "street": "Rue de la Cortewilde"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -121,6 +124,13 @@
       "street": "Rue de la Cortewilde"
     }, 
     {
+      "busnrs": [
+        "0/01", 
+        "1/01", 
+        "1/02", 
+        "2/01", 
+        "2/02"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -181,6 +191,14 @@
       "street": "Rue de la Cortewilde"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "A/02", 
+        "B/00", 
+        "B/01"
+      ], 
       "hnrlbls": [
         "119"
       ], 
@@ -733,6 +751,9 @@
       "street": "Rue de la Cortewilde"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "63"
       ], 
@@ -857,8 +878,8 @@
         "74"
       ], 
       "housenumber": "74", 
-      "lat": 50.79309148779, 
-      "lon": 2.96185081941, 
+      "lat": 50.79302319915, 
+      "lon": 2.961820857186, 
       "municipality": "Comines-Warneton", 
       "pcode": "7781", 
       "source": "7716297", 
@@ -925,6 +946,12 @@
       "street": "Rue de la Cortewilde"
     }, 
     {
+      "busnrs": [
+        "1/01", 
+        "1/02", 
+        "2/01", 
+        "2/02"
+      ], 
       "hnrlbls": [
         "8"
       ], 

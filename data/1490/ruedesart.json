@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "C101", 
+        "C102"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -41,8 +45,8 @@
         "104"
       ], 
       "housenumber": "104", 
-      "lat": 50.621710274062, 
-      "lon": 4.560077055148, 
+      "lat": 50.621650749307, 
+      "lon": 4.560052972956, 
       "municipality": "Court-Saint-Etienne", 
       "pcode": "1490", 
       "source": "7701308", 
@@ -53,8 +57,8 @@
         "106"
       ], 
       "housenumber": "106", 
-      "lat": 50.621498009337, 
-      "lon": 4.559996238067, 
+      "lat": 50.621582058666, 
+      "lon": 4.560024300338, 
       "municipality": "Court-Saint-Etienne", 
       "pcode": "1490", 
       "source": "7701308", 
@@ -85,6 +89,9 @@
       "street": "Rue de Sart"
     }, 
     {
+      "busnrs": [
+        "1001"
+      ], 
       "hnrlbls": [
         "112"
       ], 
@@ -697,6 +704,9 @@
       "street": "Rue de Sart"
     }, 
     {
+      "busnrs": [
+        "Bte1"
+      ], 
       "hnrlbls": [
         "52"
       ], 
@@ -845,8 +855,8 @@
         "60B"
       ], 
       "housenumber": "60B", 
-      "lat": 50.627869626682, 
-      "lon": 4.562598520517, 
+      "lat": 50.627758540267, 
+      "lon": 4.562122304794, 
       "municipality": "Court-Saint-Etienne", 
       "pcode": "1490", 
       "source": "7701308", 
@@ -859,18 +869,6 @@
       "housenumber": "61", 
       "lat": 50.622507024029, 
       "lon": 4.561025492031, 
-      "municipality": "Court-Saint-Etienne", 
-      "pcode": "1490", 
-      "source": "7701308", 
-      "street": "Rue de Sart"
-    }, 
-    {
-      "hnrlbls": [
-        "62"
-      ], 
-      "housenumber": "62", 
-      "lat": 50.627103851185, 
-      "lon": 4.562901384816, 
       "municipality": "Court-Saint-Etienne", 
       "pcode": "1490", 
       "source": "7701308", 
@@ -949,6 +947,9 @@
       "street": "Rue de Sart"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "67"
       ], 
@@ -1205,8 +1206,8 @@
         "92"
       ], 
       "housenumber": "92", 
-      "lat": 50.623303256996, 
-      "lon": 4.56103188496, 
+      "lat": 50.623207995987, 
+      "lon": 4.561045986944, 
       "municipality": "Court-Saint-Etienne", 
       "pcode": "1490", 
       "source": "7701308", 
@@ -1237,6 +1238,11 @@
       "street": "Rue de Sart"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "2001"
+      ], 
       "hnrlbls": [
         "96"
       ], 

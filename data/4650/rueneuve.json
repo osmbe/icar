@@ -85,6 +85,27 @@
       "street": "Rue Neuve"
     }, 
     {
+      "busnrs": [
+        "11", 
+        "12", 
+        "13", 
+        "14", 
+        "15", 
+        "16", 
+        "21", 
+        "22", 
+        "23", 
+        "24", 
+        "25", 
+        "26", 
+        "31", 
+        "32", 
+        "33", 
+        "34", 
+        "rez1", 
+        "rez2", 
+        "rez3"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -103,6 +124,22 @@
       "housenumber": "3B", 
       "lat": 50.639102685802, 
       "lon": 5.792242382591, 
+      "municipality": "Herve", 
+      "pcode": "4650", 
+      "source": "7736157", 
+      "street": "Rue Neuve"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.639221600541, 
+      "lon": 5.792090416382, 
       "municipality": "Herve", 
       "pcode": "4650", 
       "source": "7736157", 
@@ -133,12 +170,27 @@
       "street": "Rue Neuve"
     }, 
     {
+      "busnrs": [
+        "B"
+      ], 
       "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
       "lat": 50.639030378601, 
       "lon": 5.792161755581, 
+      "municipality": "Herve", 
+      "pcode": "4650", 
+      "source": "7736157", 
+      "street": "Rue Neuve"
+    }, 
+    {
+      "hnrlbls": [
+        "7B"
+      ], 
+      "housenumber": "7B", 
+      "lat": 50.639006976928, 
+      "lon": 5.792120186621, 
       "municipality": "Herve", 
       "pcode": "4650", 
       "source": "7736157", 

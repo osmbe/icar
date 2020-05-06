@@ -2,6 +2,18 @@
   "addresses": [
     {
       "hnrlbls": [
+        "102"
+      ], 
+      "housenumber": "102", 
+      "lat": 50.159081886951, 
+      "lon": 4.812022162921, 
+      "municipality": "Hasti\u00e8re", 
+      "pcode": "5544", 
+      "source": "7751148", 
+      "street": "Rue de Biesme"
+    }, 
+    {
+      "hnrlbls": [
         "103"
       ], 
       "housenumber": "103", 
@@ -25,12 +37,28 @@
       "street": "Rue de Biesme"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
       "hnrlbls": [
         "106"
       ], 
       "housenumber": "106", 
       "lat": 50.163825012364, 
       "lon": 4.799916662124, 
+      "municipality": "Hasti\u00e8re", 
+      "pcode": "5544", 
+      "source": "7751148", 
+      "street": "Rue de Biesme"
+    }, 
+    {
+      "hnrlbls": [
+        "106C"
+      ], 
+      "housenumber": "106C", 
+      "lat": 50.163650092863, 
+      "lon": 4.800620554978, 
       "municipality": "Hasti\u00e8re", 
       "pcode": "5544", 
       "source": "7751148", 
@@ -77,8 +105,8 @@
         "108B"
       ], 
       "housenumber": "108B", 
-      "lat": 50.163139582628, 
-      "lon": 4.805828275155, 
+      "lat": 50.163144254043, 
+      "lon": 4.805829982162, 
       "municipality": "Hasti\u00e8re", 
       "pcode": "5544", 
       "source": "7751148", 
@@ -89,8 +117,8 @@
         "108C"
       ], 
       "housenumber": "108C", 
-      "lat": 50.163078659689, 
-      "lon": 4.805436848142, 
+      "lat": 50.163072475177, 
+      "lon": 4.805436791432, 
       "municipality": "Hasti\u00e8re", 
       "pcode": "5544", 
       "source": "7751148", 
@@ -101,8 +129,8 @@
         "108D"
       ], 
       "housenumber": "108D", 
-      "lat": 50.163097979868, 
-      "lon": 4.805051993643, 
+      "lat": 50.163094841744, 
+      "lon": 4.805057795652, 
       "municipality": "Hasti\u00e8re", 
       "pcode": "5544", 
       "source": "7751148", 
@@ -217,6 +245,9 @@
       "street": "Rue de Biesme"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "117"
       ], 
@@ -397,6 +428,9 @@
       "street": "Rue de Biesme"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "159"
       ], 
@@ -446,6 +480,18 @@
     }, 
     {
       "hnrlbls": [
+        "161"
+      ], 
+      "housenumber": "161", 
+      "lat": 50.166165811126, 
+      "lon": 4.793943036202, 
+      "municipality": "Hasti\u00e8re", 
+      "pcode": "5544", 
+      "source": "7751148", 
+      "street": "Rue de Biesme"
+    }, 
+    {
+      "hnrlbls": [
         "162"
       ], 
       "housenumber": "162", 
@@ -481,6 +527,10 @@
       "street": "Rue de Biesme"
     }, 
     {
+      "busnrs": [
+        "Abt1", 
+        "Abt2"
+      ], 
       "hnrlbls": [
         "168"
       ], 
@@ -559,6 +609,66 @@
       "housenumber": "172", 
       "lat": 50.169154949673, 
       "lon": 4.780797957948, 
+      "municipality": "Hasti\u00e8re", 
+      "pcode": "5544", 
+      "source": "7751148", 
+      "street": "Rue de Biesme"
+    }, 
+    {
+      "hnrlbls": [
+        "172A"
+      ], 
+      "housenumber": "172A", 
+      "lat": 50.169165522577, 
+      "lon": 4.781256578715, 
+      "municipality": "Hasti\u00e8re", 
+      "pcode": "5544", 
+      "source": "7751148", 
+      "street": "Rue de Biesme"
+    }, 
+    {
+      "hnrlbls": [
+        "172B"
+      ], 
+      "housenumber": "172B", 
+      "lat": 50.169164462841, 
+      "lon": 4.781286939196, 
+      "municipality": "Hasti\u00e8re", 
+      "pcode": "5544", 
+      "source": "7751148", 
+      "street": "Rue de Biesme"
+    }, 
+    {
+      "hnrlbls": [
+        "172C"
+      ], 
+      "housenumber": "172C", 
+      "lat": 50.169163304228, 
+      "lon": 4.781344705143, 
+      "municipality": "Hasti\u00e8re", 
+      "pcode": "5544", 
+      "source": "7751148", 
+      "street": "Rue de Biesme"
+    }, 
+    {
+      "hnrlbls": [
+        "172D"
+      ], 
+      "housenumber": "172D", 
+      "lat": 50.169162215339, 
+      "lon": 4.781383213496, 
+      "municipality": "Hasti\u00e8re", 
+      "pcode": "5544", 
+      "source": "7751148", 
+      "street": "Rue de Biesme"
+    }, 
+    {
+      "hnrlbls": [
+        "172E"
+      ], 
+      "housenumber": "172E", 
+      "lat": 50.169160648195, 
+      "lon": 4.781422458187, 
       "municipality": "Hasti\u00e8re", 
       "pcode": "5544", 
       "source": "7751148", 

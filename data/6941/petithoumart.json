@@ -25,6 +25,11 @@
       "street": "Petit Houmart"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -307,6 +312,18 @@
       "housenumber": "38", 
       "lat": 50.403070469525, 
       "lon": 5.483215249866, 
+      "municipality": "Durbuy", 
+      "pcode": "6941", 
+      "source": "7743290", 
+      "street": "Petit Houmart"
+    }, 
+    {
+      "hnrlbls": [
+        "38A"
+      ], 
+      "housenumber": "38A", 
+      "lat": 50.403256549476, 
+      "lon": 5.482773517783, 
       "municipality": "Durbuy", 
       "pcode": "6941", 
       "source": "7743290", 

@@ -17,8 +17,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.711134508809, 
-      "lon": 3.825020348282, 
+      "lat": 50.714788813033, 
+      "lon": 3.826432906952, 
       "municipality": "Lessines", 
       "pcode": "7860", 
       "source": "7717886", 
@@ -31,18 +31,6 @@
       "housenumber": "13", 
       "lat": 50.711821954273, 
       "lon": 3.825133107612, 
-      "municipality": "Lessines", 
-      "pcode": "7860", 
-      "source": "7717886", 
-      "street": "Boulevard Emile Schevenels"
-    }, 
-    {
-      "hnrlbls": [
-        "14"
-      ], 
-      "housenumber": "14", 
-      "lat": 50.714605663363, 
-      "lon": 3.826247618825, 
       "municipality": "Lessines", 
       "pcode": "7860", 
       "source": "7717886", 
@@ -301,6 +289,9 @@
       "street": "Boulevard Emile Schevenels"
     }, 
     {
+      "busnrs": [
+        "B001"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -433,6 +424,17 @@
       "street": "Boulevard Emile Schevenels"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
       "hnrlbls": [
         "53"
       ], 

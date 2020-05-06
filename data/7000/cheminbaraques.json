@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -85,6 +88,12 @@
       "street": "Chemin \u00e0 Baraques"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "1-1", 
+        "1-2"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -349,6 +358,10 @@
       "street": "Chemin \u00e0 Baraques"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "1-2"
+      ], 
       "hnrlbls": [
         "27G"
       ], 
@@ -589,6 +602,12 @@
       "street": "Chemin \u00e0 Baraques"
     }, 
     {
+      "busnrs": [
+        "1-1", 
+        "A", 
+        "B", 
+        "C"
+      ], 
       "hnrlbls": [
         "4"
       ], 

@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004"
+      ], 
       "hnrlbls": [
         "101"
       ], 
@@ -193,6 +199,9 @@
       "street": "Route de Durbuy"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -337,6 +346,14 @@
       "street": "Route de Durbuy"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006"
+      ], 
       "hnrlbls": [
         "49"
       ], 
@@ -533,8 +550,8 @@
         "70"
       ], 
       "housenumber": "70", 
-      "lat": 50.346773848609, 
-      "lon": 5.4763437129, 
+      "lat": 50.34668029471, 
+      "lon": 5.476319048192, 
       "municipality": "Durbuy", 
       "pcode": "6940", 
       "source": "7743316", 
@@ -637,6 +654,10 @@
       "street": "Route de Durbuy"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "2"
+      ], 
       "hnrlbls": [
         "80"
       ], 

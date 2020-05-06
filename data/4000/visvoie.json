@@ -1,6 +1,13 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -61,6 +68,14 @@
       "street": "Vis\u00e9 Voie"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -182,6 +197,18 @@
     }, 
     {
       "hnrlbls": [
+        "21"
+      ], 
+      "housenumber": "21", 
+      "lat": 50.664400541564, 
+      "lon": 5.562906727077, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731491", 
+      "street": "Vis\u00e9 Voie"
+    }, 
+    {
+      "hnrlbls": [
         "23"
       ], 
       "housenumber": "23", 
@@ -271,6 +298,18 @@
       "housenumber": "39", 
       "lat": 50.664780663012, 
       "lon": 5.56384639484, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731491", 
+      "street": "Vis\u00e9 Voie"
+    }, 
+    {
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.663886894865, 
+      "lon": 5.562369040389, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731491", 
@@ -709,6 +748,23 @@
       "street": "Vis\u00e9 Voie"
     }, 
     {
+      "hnrlbls": [
+        "81"
+      ], 
+      "housenumber": "81", 
+      "lat": 50.66582785516, 
+      "lon": 5.566840438847, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731491", 
+      "street": "Vis\u00e9 Voie"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011"
+      ], 
       "hnrlbls": [
         "82"
       ], 

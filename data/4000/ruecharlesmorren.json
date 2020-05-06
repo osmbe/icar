@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -25,6 +31,10 @@
       "street": "Rue Charles-Morren"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -62,6 +72,28 @@
     }, 
     {
       "hnrlbls": [
+        "1B"
+      ], 
+      "housenumber": "1B", 
+      "lat": 50.633123307143, 
+      "lon": 5.562534641986, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730256", 
+      "street": "Rue Charles-Morren"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041", 
+        "0051", 
+        "0061", 
+        "0071"
+      ], 
+      "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
@@ -73,6 +105,13 @@
       "street": "Rue Charles-Morren"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -109,6 +148,15 @@
       "street": "Rue Charles-Morren"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041", 
+        "0051", 
+        "0061", 
+        "0071"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -133,6 +181,14 @@
       "street": "Rue Charles-Morren"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041", 
+        "0051"
+      ], 
       "hnrlbls": [
         "8"
       ], 
@@ -145,6 +201,12 @@
       "street": "Rue Charles-Morren"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "9"
       ], 

@@ -1,6 +1,18 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A  1", 
+        "A  2", 
+        "B  1", 
+        "B  2", 
+        "C  1", 
+        "C  2", 
+        "R  1", 
+        "R  2", 
+        "R  3", 
+        "R  4"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -61,6 +73,9 @@
       "street": "Rue Glate"
     }, 
     {
+      "busnrs": [
+        "A  2"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -193,6 +208,15 @@
       "street": "Rue Glate"
     }, 
     {
+      "busnrs": [
+        "A  2", 
+        "A  3", 
+        "B  2", 
+        "B  3", 
+        "C  2", 
+        "C  5", 
+        "D  2"
+      ], 
       "hnrlbls": [
         "43"
       ], 
@@ -223,6 +247,30 @@
       "housenumber": "49", 
       "lat": 50.003204010557, 
       "lon": 5.719458464689, 
+      "municipality": "Bastogne", 
+      "pcode": "6600", 
+      "source": "7742467", 
+      "street": "Rue Glate"
+    }, 
+    {
+      "hnrlbls": [
+        "4A"
+      ], 
+      "housenumber": "4A", 
+      "lat": 50.002313915297, 
+      "lon": 5.718609403802, 
+      "municipality": "Bastogne", 
+      "pcode": "6600", 
+      "source": "7742467", 
+      "street": "Rue Glate"
+    }, 
+    {
+      "hnrlbls": [
+        "4B"
+      ], 
+      "housenumber": "4B", 
+      "lat": 50.002348684507, 
+      "lon": 5.71864504662, 
       "municipality": "Bastogne", 
       "pcode": "6600", 
       "source": "7742467", 

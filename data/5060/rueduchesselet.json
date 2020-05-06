@@ -49,6 +49,9 @@
       "street": "Rue du Chesselet"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "118"
       ], 
@@ -134,11 +137,11 @@
     }, 
     {
       "hnrlbls": [
-        "131"
+        "130"
       ], 
-      "housenumber": "131", 
-      "lat": 50.44771222048, 
-      "lon": 4.593709319778, 
+      "housenumber": "130", 
+      "lat": 50.448551787796, 
+      "lon": 4.591235977981, 
       "municipality": "Sambreville", 
       "pcode": "5060", 
       "source": "7755412", 
@@ -146,11 +149,11 @@
     }, 
     {
       "hnrlbls": [
-        "134"
+        "131"
       ], 
-      "housenumber": "134", 
-      "lat": 50.44875358838, 
-      "lon": 4.591005806895, 
+      "housenumber": "131", 
+      "lat": 50.44771222048, 
+      "lon": 4.593709319778, 
       "municipality": "Sambreville", 
       "pcode": "5060", 
       "source": "7755412", 
@@ -439,18 +442,6 @@
       "housenumber": "178", 
       "lat": 50.448543578428, 
       "lon": 4.583825607176, 
-      "municipality": "Sambreville", 
-      "pcode": "5060", 
-      "source": "7755412", 
-      "street": "Rue du Chesselet"
-    }, 
-    {
-      "hnrlbls": [
-        "182"
-      ], 
-      "housenumber": "182", 
-      "lat": 50.448406137852, 
-      "lon": 4.583571582119, 
       "municipality": "Sambreville", 
       "pcode": "5060", 
       "source": "7755412", 
@@ -917,8 +908,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 50.441620509751, 
-      "lon": 4.598949916954, 
+      "lat": 50.44166996788, 
+      "lon": 4.598971415719, 
       "municipality": "Sambreville", 
       "pcode": "5060", 
       "source": "7755412", 
@@ -1057,6 +1048,11 @@
       "street": "Rue du Chesselet"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "A000"
+      ], 
       "hnrlbls": [
         "39"
       ], 
@@ -1081,6 +1077,9 @@
       "street": "Rue du Chesselet"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "40"
       ], 

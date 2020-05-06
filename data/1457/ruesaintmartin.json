@@ -97,6 +97,9 @@
       "street": "Rue Saint-Martin"
     }, 
     {
+      "busnrs": [
+        "Bte1"
+      ], 
       "hnrlbls": [
         "109"
       ], 
@@ -109,6 +112,10 @@
       "street": "Rue Saint-Martin"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -229,6 +236,14 @@
       "street": "Rue Saint-Martin"
     }, 
     {
+      "busnrs": [
+        "Bte2", 
+        "Bte3", 
+        "Bte5", 
+        "Bte6", 
+        "Bte7", 
+        "Bte8"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -253,6 +268,13 @@
       "street": "Rue Saint-Martin"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2", 
+        "Bte3", 
+        "Bte4", 
+        "Bte5"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -326,6 +348,18 @@
     }, 
     {
       "hnrlbls": [
+        "38"
+      ], 
+      "housenumber": "38", 
+      "lat": 50.642165138473, 
+      "lon": 4.678587205862, 
+      "municipality": "Walhain", 
+      "pcode": "1457", 
+      "source": "7707185", 
+      "street": "Rue Saint-Martin"
+    }, 
+    {
+      "hnrlbls": [
         "39"
       ], 
       "housenumber": "39", 
@@ -343,6 +377,46 @@
       "housenumber": "4", 
       "lat": 50.640976591664, 
       "lon": 4.674006580839, 
+      "municipality": "Walhain", 
+      "pcode": "1457", 
+      "source": "7707185", 
+      "street": "Rue Saint-Martin"
+    }, 
+    {
+      "hnrlbls": [
+        "40"
+      ], 
+      "housenumber": "40", 
+      "lat": 50.64220725461, 
+      "lon": 4.678850265079, 
+      "municipality": "Walhain", 
+      "pcode": "1457", 
+      "source": "7707185", 
+      "street": "Rue Saint-Martin"
+    }, 
+    {
+      "busnrs": [
+        "Bte1", 
+        "Bte2"
+      ], 
+      "hnrlbls": [
+        "41"
+      ], 
+      "housenumber": "41", 
+      "lat": 50.641900143164, 
+      "lon": 4.679287664021, 
+      "municipality": "Walhain", 
+      "pcode": "1457", 
+      "source": "7707185", 
+      "street": "Rue Saint-Martin"
+    }, 
+    {
+      "hnrlbls": [
+        "42"
+      ], 
+      "housenumber": "42", 
+      "lat": 50.642221115277, 
+      "lon": 4.679004659451, 
       "municipality": "Walhain", 
       "pcode": "1457", 
       "source": "7707185", 
@@ -649,6 +723,11 @@
       "street": "Rue Saint-Martin"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2", 
+        "Bte3"
+      ], 
       "hnrlbls": [
         "78"
       ], 

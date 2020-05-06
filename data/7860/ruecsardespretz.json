@@ -62,18 +62,6 @@
     }, 
     {
       "hnrlbls": [
-        "11"
-      ], 
-      "housenumber": "11", 
-      "lat": 50.711598906953, 
-      "lon": 3.828718644836, 
-      "municipality": "Lessines", 
-      "pcode": "7860", 
-      "source": "7718001", 
-      "street": "Rue C\u00e9sar Despretz"
-    }, 
-    {
-      "hnrlbls": [
         "12"
       ], 
       "housenumber": "12", 
@@ -205,6 +193,9 @@
       "street": "Rue C\u00e9sar Despretz"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -271,18 +262,6 @@
       "housenumber": "27", 
       "lat": 50.710023026392, 
       "lon": 3.829139101201, 
-      "municipality": "Lessines", 
-      "pcode": "7860", 
-      "source": "7718001", 
-      "street": "Rue C\u00e9sar Despretz"
-    }, 
-    {
-      "hnrlbls": [
-        "28"
-      ], 
-      "housenumber": "28", 
-      "lat": 50.711585023172, 
-      "lon": 3.828447092187, 
       "municipality": "Lessines", 
       "pcode": "7860", 
       "source": "7718001", 
@@ -541,6 +520,11 @@
       "street": "Rue C\u00e9sar Despretz"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "56"
       ], 
@@ -559,18 +543,6 @@
       "housenumber": "58", 
       "lat": 50.710585922245, 
       "lon": 3.828324529706, 
-      "municipality": "Lessines", 
-      "pcode": "7860", 
-      "source": "7718001", 
-      "street": "Rue C\u00e9sar Despretz"
-    }, 
-    {
-      "hnrlbls": [
-        "6"
-      ], 
-      "housenumber": "6", 
-      "lat": 50.71219435696, 
-      "lon": 3.828514510008, 
       "municipality": "Lessines", 
       "pcode": "7860", 
       "source": "7718001", 
@@ -629,8 +601,8 @@
         "68"
       ], 
       "housenumber": "68", 
-      "lat": 50.710314785314, 
-      "lon": 3.828557102758, 
+      "lat": 50.710371321311, 
+      "lon": 3.828546813749, 
       "municipality": "Lessines", 
       "pcode": "7860", 
       "source": "7718001", 

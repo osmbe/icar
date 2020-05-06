@@ -49,6 +49,9 @@
       "street": "Rue Capitaine Fern\u00e9mont"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -73,12 +76,27 @@
       "street": "Rue Capitaine Fern\u00e9mont"
     }, 
     {
+      "busnrs": [
+        "A000"
+      ], 
       "hnrlbls": [
         "16"
       ], 
       "housenumber": "16", 
       "lat": 50.433294413383, 
       "lon": 4.606521580193, 
+      "municipality": "Sambreville", 
+      "pcode": "5060", 
+      "source": "7755293", 
+      "street": "Rue Capitaine Fern\u00e9mont"
+    }, 
+    {
+      "hnrlbls": [
+        "16B"
+      ], 
+      "housenumber": "16B", 
+      "lat": 50.433252847948, 
+      "lon": 4.606458175912, 
       "municipality": "Sambreville", 
       "pcode": "5060", 
       "source": "7755293", 
@@ -175,6 +193,18 @@
       "housenumber": "23", 
       "lat": 50.433196435614, 
       "lon": 4.606854876329, 
+      "municipality": "Sambreville", 
+      "pcode": "5060", 
+      "source": "7755293", 
+      "street": "Rue Capitaine Fern\u00e9mont"
+    }, 
+    {
+      "hnrlbls": [
+        "23B"
+      ], 
+      "housenumber": "23B", 
+      "lat": 50.433150031853, 
+      "lon": 4.606785292279, 
       "municipality": "Sambreville", 
       "pcode": "5060", 
       "source": "7755293", 
@@ -361,6 +391,9 @@
       "street": "Rue Capitaine Fern\u00e9mont"
     }, 
     {
+      "busnrs": [
+        "0041"
+      ], 
       "hnrlbls": [
         "39"
       ], 
@@ -391,18 +424,6 @@
       "housenumber": "40", 
       "lat": 50.43292620613, 
       "lon": 4.605188958983, 
-      "municipality": "Sambreville", 
-      "pcode": "5060", 
-      "source": "7755293", 
-      "street": "Rue Capitaine Fern\u00e9mont"
-    }, 
-    {
-      "hnrlbls": [
-        "41"
-      ], 
-      "housenumber": "41", 
-      "lat": 50.432952618206, 
-      "lon": 4.606148647816, 
       "municipality": "Sambreville", 
       "pcode": "5060", 
       "source": "7755293", 

@@ -2,6 +2,18 @@
   "addresses": [
     {
       "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.642166079317, 
+      "lon": 5.564717543733, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731359", 
+      "street": "Rue Sur-la-Fontaine"
+    }, 
+    {
+      "hnrlbls": [
         "100"
       ], 
       "housenumber": "100", 
@@ -14,11 +26,70 @@
     }, 
     {
       "hnrlbls": [
+        "106"
+      ], 
+      "housenumber": "106", 
+      "lat": 50.640265019902, 
+      "lon": 5.567577573088, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731359", 
+      "street": "Rue Sur-la-Fontaine"
+    }, 
+    {
+      "busnrs": [
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
+      "hnrlbls": [
+        "108"
+      ], 
+      "housenumber": "108", 
+      "lat": 50.640233704732, 
+      "lon": 5.567623860643, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731359", 
+      "street": "Rue Sur-la-Fontaine"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
+      "hnrlbls": [
         "11"
       ], 
       "housenumber": "11", 
       "lat": 50.641486945272, 
       "lon": 5.565374230615, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731359", 
+      "street": "Rue Sur-la-Fontaine"
+    }, 
+    {
+      "hnrlbls": [
+        "110"
+      ], 
+      "housenumber": "110", 
+      "lat": 50.640195829018, 
+      "lon": 5.56767860628, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731359", 
+      "street": "Rue Sur-la-Fontaine"
+    }, 
+    {
+      "hnrlbls": [
+        "112"
+      ], 
+      "housenumber": "112", 
+      "lat": 50.64004726636, 
+      "lon": 5.567733932688, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731359", 
@@ -38,6 +109,18 @@
     }, 
     {
       "hnrlbls": [
+        "116"
+      ], 
+      "housenumber": "116", 
+      "lat": 50.640053739653, 
+      "lon": 5.56796145284, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731359", 
+      "street": "Rue Sur-la-Fontaine"
+    }, 
+    {
+      "hnrlbls": [
         "118"
       ], 
       "housenumber": "118", 
@@ -49,18 +132,13 @@
       "street": "Rue Sur-la-Fontaine"
     }, 
     {
-      "hnrlbls": [
-        "120"
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0022", 
+        "0031"
       ], 
-      "housenumber": "120", 
-      "lat": 50.64004060386, 
-      "lon": 5.568029665021, 
-      "municipality": "Li\u00e8ge", 
-      "pcode": "4000", 
-      "source": "7731359", 
-      "street": "Rue Sur-la-Fontaine"
-    }, 
-    {
       "hnrlbls": [
         "13"
       ], 
@@ -109,6 +187,11 @@
       "street": "Rue Sur-la-Fontaine"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -121,6 +204,27 @@
       "street": "Rue Sur-la-Fontaine"
     }, 
     {
+      "hnrlbls": [
+        "23"
+      ], 
+      "housenumber": "23", 
+      "lat": 50.641431683998, 
+      "lon": 5.565907370695, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731359", 
+      "street": "Rue Sur-la-Fontaine"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -139,6 +243,18 @@
       "housenumber": "31", 
       "lat": 50.641246666659, 
       "lon": 5.565881736086, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731359", 
+      "street": "Rue Sur-la-Fontaine"
+    }, 
+    {
+      "hnrlbls": [
+        "32"
+      ], 
+      "housenumber": "32", 
+      "lat": 50.641540081722, 
+      "lon": 5.564911308653, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731359", 
@@ -181,6 +297,14 @@
       "street": "Rue Sur-la-Fontaine"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031"
+      ], 
       "hnrlbls": [
         "36"
       ], 
@@ -278,6 +402,32 @@
     }, 
     {
       "hnrlbls": [
+        "49"
+      ], 
+      "housenumber": "49", 
+      "lat": 50.640890327215, 
+      "lon": 5.56664511017, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731359", 
+      "street": "Rue Sur-la-Fontaine"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0041", 
+        "0042", 
+        "0051", 
+        "0052"
+      ], 
+      "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
@@ -301,12 +451,45 @@
       "street": "Rue Sur-la-Fontaine"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024", 
+        "0031", 
+        "0032", 
+        "0033", 
+        "0034", 
+        "0041", 
+        "0042", 
+        "0043"
+      ], 
       "hnrlbls": [
         "51"
       ], 
       "housenumber": "51", 
       "lat": 50.64079711632, 
       "lon": 5.566933206512, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731359", 
+      "street": "Rue Sur-la-Fontaine"
+    }, 
+    {
+      "busnrs": [
+        "0003", 
+        "0012"
+      ], 
+      "hnrlbls": [
+        "52"
+      ], 
+      "housenumber": "52", 
+      "lat": 50.641215573216, 
+      "lon": 5.565298984677, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731359", 
@@ -325,6 +508,19 @@
       "street": "Rue Sur-la-Fontaine"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0031", 
+        "0032", 
+        "0033", 
+        "0041", 
+        "0042"
+      ], 
       "hnrlbls": [
         "55"
       ], 
@@ -337,6 +533,11 @@
       "street": "Rue Sur-la-Fontaine"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "56"
       ], 
@@ -355,6 +556,22 @@
       "housenumber": "57", 
       "lat": 50.640677254853, 
       "lon": 5.567123262175, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731359", 
+      "street": "Rue Sur-la-Fontaine"
+    }, 
+    {
+      "busnrs": [
+        "0021", 
+        "0022"
+      ], 
+      "hnrlbls": [
+        "58"
+      ], 
+      "housenumber": "58", 
+      "lat": 50.641144691049, 
+      "lon": 5.565503763154, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731359", 
@@ -385,6 +602,14 @@
       "street": "Rue Sur-la-Fontaine"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031"
+      ], 
       "hnrlbls": [
         "62"
       ], 
@@ -403,6 +628,18 @@
       "housenumber": "63", 
       "lat": 50.640631733122, 
       "lon": 5.567317566433, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731359", 
+      "street": "Rue Sur-la-Fontaine"
+    }, 
+    {
+      "hnrlbls": [
+        "64"
+      ], 
+      "housenumber": "64", 
+      "lat": 50.641077889026, 
+      "lon": 5.565684141061, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731359", 
@@ -482,6 +719,18 @@
     }, 
     {
       "hnrlbls": [
+        "72"
+      ], 
+      "housenumber": "72", 
+      "lat": 50.640883126785, 
+      "lon": 5.566232371517, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731359", 
+      "street": "Rue Sur-la-Fontaine"
+    }, 
+    {
+      "hnrlbls": [
         "73"
       ], 
       "housenumber": "73", 
@@ -505,6 +754,16 @@
       "street": "Rue Sur-la-Fontaine"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "75"
       ], 
@@ -577,6 +836,12 @@
       "street": "Rue Sur-la-Fontaine"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "82"
       ], 
@@ -602,6 +867,18 @@
     }, 
     {
       "hnrlbls": [
+        "84"
+      ], 
+      "housenumber": "84", 
+      "lat": 50.640641235208, 
+      "lon": 5.566717075291, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731359", 
+      "street": "Rue Sur-la-Fontaine"
+    }, 
+    {
+      "hnrlbls": [
         "85"
       ], 
       "housenumber": "85", 
@@ -613,6 +890,18 @@
       "street": "Rue Sur-la-Fontaine"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0033"
+      ], 
       "hnrlbls": [
         "86"
       ], 
@@ -637,6 +926,13 @@
       "street": "Rue Sur-la-Fontaine"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "88"
       ], 
@@ -661,6 +957,11 @@
       "street": "Rue Sur-la-Fontaine"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "9"
       ], 
@@ -697,6 +998,12 @@
       "street": "Rue Sur-la-Fontaine"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "92"
       ], 
@@ -721,12 +1028,68 @@
       "street": "Rue Sur-la-Fontaine"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041", 
+        "0051"
+      ], 
       "hnrlbls": [
         "94"
       ], 
       "housenumber": "94", 
       "lat": 50.640427547085, 
       "lon": 5.567247269146, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731359", 
+      "street": "Rue Sur-la-Fontaine"
+    }, 
+    {
+      "hnrlbls": [
+        "95"
+      ], 
+      "housenumber": "95", 
+      "lat": 50.64008291, 
+      "lon": 5.568192971656, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731359", 
+      "street": "Rue Sur-la-Fontaine"
+    }, 
+    {
+      "hnrlbls": [
+        "96"
+      ], 
+      "housenumber": "96", 
+      "lat": 50.6403895786, 
+      "lon": 5.567303186498, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731359", 
+      "street": "Rue Sur-la-Fontaine"
+    }, 
+    {
+      "hnrlbls": [
+        "97"
+      ], 
+      "housenumber": "97", 
+      "lat": 50.640050131185, 
+      "lon": 5.568225054112, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731359", 
+      "street": "Rue Sur-la-Fontaine"
+    }, 
+    {
+      "hnrlbls": [
+        "98"
+      ], 
+      "housenumber": "98", 
+      "lat": 50.640346516582, 
+      "lon": 5.567390179414, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731359", 

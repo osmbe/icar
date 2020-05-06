@@ -25,6 +25,10 @@
       "street": "Rue d'Aulne"
     }, 
     {
+      "busnrs": [
+        "1/01", 
+        "RC/1"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -89,8 +93,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.366485913943, 
-      "lon": 4.361485531367, 
+      "lat": 50.366494955786, 
+      "lon": 4.361536851905, 
       "municipality": "Montigny-le-Tilleul", 
       "pcode": "6110", 
       "source": "7710898", 
@@ -103,6 +107,18 @@
       "housenumber": "26", 
       "lat": 50.3662039714, 
       "lon": 4.361741496135, 
+      "municipality": "Montigny-le-Tilleul", 
+      "pcode": "6110", 
+      "source": "7710898", 
+      "street": "Rue d'Aulne"
+    }, 
+    {
+      "hnrlbls": [
+        "27"
+      ], 
+      "housenumber": "27", 
+      "lat": 50.366484230588, 
+      "lon": 4.361431970739, 
       "municipality": "Montigny-le-Tilleul", 
       "pcode": "6110", 
       "source": "7710898", 
@@ -341,8 +357,8 @@
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 50.365659482396, 
-      "lon": 4.358752003581, 
+      "lat": 50.365770808596, 
+      "lon": 4.358784707265, 
       "municipality": "Montigny-le-Tilleul", 
       "pcode": "6110", 
       "source": "7710898", 
@@ -367,6 +383,30 @@
       "housenumber": "6", 
       "lat": 50.366345643298, 
       "lon": 4.363267970009, 
+      "municipality": "Montigny-le-Tilleul", 
+      "pcode": "6110", 
+      "source": "7710898", 
+      "street": "Rue d'Aulne"
+    }, 
+    {
+      "busnrs": [
+        "1/01", 
+        "1/02", 
+        "1/03", 
+        "1/04", 
+        "2/01", 
+        "2/2", 
+        "RC/1", 
+        "RC/2", 
+        "RC/3", 
+        "RC/4"
+      ], 
+      "hnrlbls": [
+        "61"
+      ], 
+      "housenumber": "61", 
+      "lat": 50.36613794129, 
+      "lon": 4.358507703991, 
       "municipality": "Montigny-le-Tilleul", 
       "pcode": "6110", 
       "source": "7710898", 

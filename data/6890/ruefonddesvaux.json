@@ -265,6 +265,14 @@
       "street": "Rue Fond des Vaux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "Bte2", 
+        "Bte3"
+      ], 
       "hnrlbls": [
         "124"
       ], 
@@ -377,8 +385,8 @@
         "133A"
       ], 
       "housenumber": "133A", 
-      "lat": 49.976990042942, 
-      "lon": 5.250985482986, 
+      "lat": 49.976956699423, 
+      "lon": 5.250912933746, 
       "municipality": "Libin", 
       "pcode": "6890", 
       "source": "7745750", 
@@ -398,11 +406,47 @@
     }, 
     {
       "hnrlbls": [
+        "136"
+      ], 
+      "housenumber": "136", 
+      "lat": 49.977308972153, 
+      "lon": 5.249729884268, 
+      "municipality": "Libin", 
+      "pcode": "6890", 
+      "source": "7745750", 
+      "street": "Rue Fond des Vaux"
+    }, 
+    {
+      "hnrlbls": [
+        "138"
+      ], 
+      "housenumber": "138", 
+      "lat": 49.977272515512, 
+      "lon": 5.249395731017, 
+      "municipality": "Libin", 
+      "pcode": "6890", 
+      "source": "7745750", 
+      "street": "Rue Fond des Vaux"
+    }, 
+    {
+      "hnrlbls": [
         "140"
       ], 
       "housenumber": "140", 
       "lat": 49.977181470139, 
       "lon": 5.249020317836, 
+      "municipality": "Libin", 
+      "pcode": "6890", 
+      "source": "7745750", 
+      "street": "Rue Fond des Vaux"
+    }, 
+    {
+      "hnrlbls": [
+        "142"
+      ], 
+      "housenumber": "142", 
+      "lat": 49.977129463919, 
+      "lon": 5.248690723678, 
       "municipality": "Libin", 
       "pcode": "6890", 
       "source": "7745750", 

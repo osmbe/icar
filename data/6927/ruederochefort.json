@@ -2,6 +2,18 @@
   "addresses": [
     {
       "hnrlbls": [
+        "29"
+      ], 
+      "housenumber": "29", 
+      "lat": 50.083669032291, 
+      "lon": 5.221639859884, 
+      "municipality": "Tellin", 
+      "pcode": "6927", 
+      "source": "7746474", 
+      "street": "Rue de Rochefort"
+    }, 
+    {
+      "hnrlbls": [
         "29A"
       ], 
       "housenumber": "29A", 
@@ -145,12 +157,16 @@
       "street": "Rue de Rochefort"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2"
+      ], 
       "hnrlbls": [
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 50.0840498875, 
-      "lon": 5.222521993642, 
+      "lat": 50.084074931921, 
+      "lon": 5.22248103361, 
       "municipality": "Tellin", 
       "pcode": "6927", 
       "source": "7746474", 
@@ -245,8 +261,8 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 50.087172696126, 
-      "lon": 5.224461835302, 
+      "lat": 50.087150702877, 
+      "lon": 5.224476230245, 
       "municipality": "Tellin", 
       "pcode": "6927", 
       "source": "7746474", 

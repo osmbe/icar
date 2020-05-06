@@ -97,6 +97,9 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "1/01"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -133,6 +136,10 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "1/01", 
+        "RC/1"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -193,6 +200,9 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "1/01"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -493,6 +503,10 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "01/1", 
+        "RC/1"
+      ], 
       "hnrlbls": [
         "63"
       ], 
@@ -535,6 +549,18 @@
       "housenumber": "67", 
       "lat": 50.376107685188, 
       "lon": 4.34652937101, 
+      "municipality": "Montigny-le-Tilleul", 
+      "pcode": "6111", 
+      "source": "7710887", 
+      "street": "Rue Albert Ier"
+    }, 
+    {
+      "hnrlbls": [
+        "67A"
+      ], 
+      "housenumber": "67A", 
+      "lat": 50.37602575178, 
+      "lon": 4.346396544751, 
       "municipality": "Montigny-le-Tilleul", 
       "pcode": "6111", 
       "source": "7710887", 
@@ -589,6 +615,9 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "RC/1"
+      ], 
       "hnrlbls": [
         "75"
       ], 

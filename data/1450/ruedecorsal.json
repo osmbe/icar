@@ -49,6 +49,9 @@
       "street": "Rue de Corsal"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "122"
       ], 
@@ -205,6 +208,9 @@
       "street": "Rue de Corsal"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -229,6 +235,12 @@
       "street": "Rue de Corsal"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0003", 
+        "0004", 
+        "0005"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -253,6 +265,9 @@
       "street": "Rue de Corsal"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -265,6 +280,9 @@
       "street": "Rue de Corsal"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -341,8 +359,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 50.576395658053, 
-      "lon": 4.639340687586, 
+      "lat": 50.576443720829, 
+      "lon": 4.639392999031, 
       "municipality": "Chastre", 
       "pcode": "1450", 
       "source": "7705253", 
@@ -425,8 +443,8 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 50.576420609015, 
-      "lon": 4.638327231648, 
+      "lat": 50.576384882965, 
+      "lon": 4.638111529354, 
       "municipality": "Chastre", 
       "pcode": "1450", 
       "source": "7705253", 
@@ -493,6 +511,10 @@
       "street": "Rue de Corsal"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "46"
       ], 
@@ -505,6 +527,10 @@
       "street": "Rue de Corsal"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "48"
       ], 
@@ -613,6 +639,9 @@
       "street": "Rue de Corsal"
     }, 
     {
+      "busnrs": [
+        "0002"
+      ], 
       "hnrlbls": [
         "59"
       ], 
@@ -637,6 +666,9 @@
       "street": "Rue de Corsal"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "64"
       ], 
@@ -691,6 +723,18 @@
       "housenumber": "74", 
       "lat": 50.573530482246, 
       "lon": 4.632030654504, 
+      "municipality": "Chastre", 
+      "pcode": "1450", 
+      "source": "7705253", 
+      "street": "Rue de Corsal"
+    }, 
+    {
+      "hnrlbls": [
+        "76"
+      ], 
+      "housenumber": "76", 
+      "lat": 50.573429334203, 
+      "lon": 4.631843895995, 
       "municipality": "Chastre", 
       "pcode": "1450", 
       "source": "7705253", 
@@ -758,6 +802,18 @@
     }, 
     {
       "hnrlbls": [
+        "85"
+      ], 
+      "housenumber": "85", 
+      "lat": 50.573318807736, 
+      "lon": 4.632375770856, 
+      "municipality": "Chastre", 
+      "pcode": "1450", 
+      "source": "7705253", 
+      "street": "Rue de Corsal"
+    }, 
+    {
+      "hnrlbls": [
         "86"
       ], 
       "housenumber": "86", 
@@ -793,6 +849,10 @@
       "street": "Rue de Corsal"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "89"
       ], 
@@ -829,6 +889,9 @@
       "street": "Rue de Corsal"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "92"
       ], 
@@ -847,6 +910,42 @@
       "housenumber": "95", 
       "lat": 50.572245732551, 
       "lon": 4.630329480061, 
+      "municipality": "Chastre", 
+      "pcode": "1450", 
+      "source": "7705253", 
+      "street": "Rue de Corsal"
+    }, 
+    {
+      "hnrlbls": [
+        "96"
+      ], 
+      "housenumber": "96", 
+      "lat": 50.572187070287, 
+      "lon": 4.629305791726, 
+      "municipality": "Chastre", 
+      "pcode": "1450", 
+      "source": "7705253", 
+      "street": "Rue de Corsal"
+    }, 
+    {
+      "hnrlbls": [
+        "97"
+      ], 
+      "housenumber": "97", 
+      "lat": 50.571915376694, 
+      "lon": 4.629620794555, 
+      "municipality": "Chastre", 
+      "pcode": "1450", 
+      "source": "7705253", 
+      "street": "Rue de Corsal"
+    }, 
+    {
+      "hnrlbls": [
+        "99"
+      ], 
+      "housenumber": "99", 
+      "lat": 50.571797039232, 
+      "lon": 4.629408360115, 
       "municipality": "Chastre", 
       "pcode": "1450", 
       "source": "7705253", 

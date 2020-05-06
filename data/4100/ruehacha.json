@@ -1,6 +1,21 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "11"
+      ], 
+      "hnrlbls": [
+        "20"
+      ], 
+      "housenumber": "20", 
+      "lat": 50.60056133007, 
+      "lon": 5.520205718544, 
+      "municipality": "Seraing", 
+      "pcode": "4100", 
+      "source": "7732525", 
+      "street": "Rue Hacha"
+    }, 
+    {
       "hnrlbls": [
         "21"
       ], 
@@ -289,6 +304,10 @@
       "street": "Rue Hacha"
     }, 
     {
+      "busnrs": [
+        "11", 
+        "21"
+      ], 
       "hnrlbls": [
         "54"
       ], 
@@ -421,6 +440,9 @@
       "street": "Rue Hacha"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "69"
       ], 

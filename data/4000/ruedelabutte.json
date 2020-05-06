@@ -5,8 +5,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.631325475817, 
-      "lon": 5.556225499364, 
+      "lat": 50.631339782474, 
+      "lon": 5.556304825209, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730341", 
@@ -25,6 +25,12 @@
       "street": "Rue de la Butte"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -61,6 +67,23 @@
       "street": "Rue de la Butte"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
+      "hnrlbls": [
+        "15"
+      ], 
+      "housenumber": "15", 
+      "lat": 50.631595910731, 
+      "lon": 5.55580587736, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730341", 
+      "street": "Rue de la Butte"
+    }, 
+    {
       "hnrlbls": [
         "2B"
       ], 
@@ -89,14 +112,19 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.631476718212, 
-      "lon": 5.556359515468, 
+      "lat": 50.631477752033, 
+      "lon": 5.556298585191, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730341", 
       "street": "Rue de la Butte"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -109,6 +137,11 @@
       "street": "Rue de la Butte"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "6"
       ], 

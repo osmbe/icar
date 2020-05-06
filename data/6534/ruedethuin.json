@@ -433,6 +433,14 @@
       "street": "Rue de Thuin"
     }, 
     {
+      "busnrs": [
+        "B/RC", 
+        "B1/1", 
+        "B1/2", 
+        "B1/3", 
+        "B2/1", 
+        "B2/2"
+      ], 
       "hnrlbls": [
         "47"
       ], 
@@ -445,6 +453,27 @@
       "street": "Rue de Thuin"
     }, 
     {
+      "busnrs": [
+        "A1/1", 
+        "A1/2", 
+        "A1/3", 
+        "A1/4", 
+        "A2/1", 
+        "A2/2", 
+        "A2/3", 
+        "A2/4", 
+        "A3/1", 
+        "ARC1", 
+        "ARC2", 
+        "ARC3", 
+        "ARC4", 
+        "B1/1", 
+        "B1/2", 
+        "B2/1", 
+        "B2/2", 
+        "BRC1", 
+        "BRC2"
+      ], 
       "hnrlbls": [
         "48"
       ], 
@@ -497,8 +526,8 @@
         "50A"
       ], 
       "housenumber": "50A", 
-      "lat": 50.335717258691, 
-      "lon": 4.341997502224, 
+      "lat": 50.335805656526, 
+      "lon": 4.340741084712, 
       "municipality": "Thuin", 
       "pcode": "6534", 
       "source": "7721048", 
@@ -593,8 +622,8 @@
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 50.335562818884, 
-      "lon": 4.335194588416, 
+      "lat": 50.335553976371, 
+      "lon": 4.334798901562, 
       "municipality": "Thuin", 
       "pcode": "6534", 
       "source": "7721048", 
@@ -638,6 +667,30 @@
     }, 
     {
       "hnrlbls": [
+        "59A"
+      ], 
+      "housenumber": "59A", 
+      "lat": 50.335664371148, 
+      "lon": 4.344429192996, 
+      "municipality": "Thuin", 
+      "pcode": "6534", 
+      "source": "7721048", 
+      "street": "Rue de Thuin"
+    }, 
+    {
+      "hnrlbls": [
+        "59B"
+      ], 
+      "housenumber": "59B", 
+      "lat": 50.335675210703, 
+      "lon": 4.344125704242, 
+      "municipality": "Thuin", 
+      "pcode": "6534", 
+      "source": "7721048", 
+      "street": "Rue de Thuin"
+    }, 
+    {
+      "hnrlbls": [
         "60"
       ], 
       "housenumber": "60", 
@@ -674,18 +727,6 @@
     }, 
     {
       "hnrlbls": [
-        "63"
-      ], 
-      "housenumber": "63", 
-      "lat": 50.335675210703, 
-      "lon": 4.344125704242, 
-      "municipality": "Thuin", 
-      "pcode": "6534", 
-      "source": "7721048", 
-      "street": "Rue de Thuin"
-    }, 
-    {
-      "hnrlbls": [
         "64"
       ], 
       "housenumber": "64", 
@@ -710,11 +751,35 @@
     }, 
     {
       "hnrlbls": [
+        "67"
+      ], 
+      "housenumber": "67", 
+      "lat": 50.338113881513, 
+      "lon": 4.330956958494, 
+      "municipality": "Thuin", 
+      "pcode": "6534", 
+      "source": "7721048", 
+      "street": "Rue de Thuin"
+    }, 
+    {
+      "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
       "lat": 50.333756355301, 
       "lon": 4.350803979181, 
+      "municipality": "Thuin", 
+      "pcode": "6534", 
+      "source": "7721048", 
+      "street": "Rue de Thuin"
+    }, 
+    {
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 50.333652920027, 
+      "lon": 4.350372147197, 
       "municipality": "Thuin", 
       "pcode": "6534", 
       "source": "7721048", 

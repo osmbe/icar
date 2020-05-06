@@ -37,6 +37,15 @@
       "street": "Rue Emile Henricot"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0104", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -61,6 +70,11 @@
       "street": "Rue Emile Henricot"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -85,6 +99,9 @@
       "street": "Rue Emile Henricot"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -133,6 +150,10 @@
       "street": "Rue Emile Henricot"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -169,6 +190,11 @@
       "street": "Rue Emile Henricot"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2", 
+        "Bte3"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -217,6 +243,14 @@
       "street": "Rue Emile Henricot"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -229,6 +263,13 @@
       "street": "Rue Emile Henricot"
     }, 
     {
+      "busnrs": [
+        "1001", 
+        "1002", 
+        "2001", 
+        "2002", 
+        "3001"
+      ], 
       "hnrlbls": [
         "32"
       ], 
@@ -241,6 +282,10 @@
       "street": "Rue Emile Henricot"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "33"
       ], 
@@ -269,8 +314,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.644164628996, 
-      "lon": 4.567757916757, 
+      "lat": 50.644125319227, 
+      "lon": 4.567794784775, 
       "municipality": "Court-Saint-Etienne", 
       "pcode": "1490", 
       "source": "7701354", 
@@ -289,6 +334,9 @@
       "street": "Rue Emile Henricot"
     }, 
     {
+      "busnrs": [
+        "A201"
+      ], 
       "hnrlbls": [
         "43"
       ], 
@@ -337,6 +385,13 @@
       "street": "Rue Emile Henricot"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301", 
+        "Bte2"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -349,6 +404,9 @@
       "street": "Rue Emile Henricot"
     }, 
     {
+      "busnrs": [
+        "B101"
+      ], 
       "hnrlbls": [
         "51"
       ], 
@@ -361,6 +419,19 @@
       "street": "Rue Emile Henricot"
     }, 
     {
+      "busnrs": [
+        "1001", 
+        "1002", 
+        "1003", 
+        "1005", 
+        "2001", 
+        "2002", 
+        "2003", 
+        "2004", 
+        "2005", 
+        "3001", 
+        "3002"
+      ], 
       "hnrlbls": [
         "52"
       ], 
@@ -373,6 +444,10 @@
       "street": "Rue Emile Henricot"
     }, 
     {
+      "busnrs": [
+        "1001", 
+        "Bte3"
+      ], 
       "hnrlbls": [
         "53"
       ], 
@@ -409,6 +484,11 @@
       "street": "Rue Emile Henricot"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "59"
       ], 
@@ -425,14 +505,27 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.644201283821, 
-      "lon": 4.567716425477, 
+      "lat": 50.644161968309, 
+      "lon": 4.567756659904, 
       "municipality": "Court-Saint-Etienne", 
       "pcode": "1490", 
       "source": "7701354", 
       "street": "Rue Emile Henricot"
     }, 
     {
+      "busnrs": [
+        "1001", 
+        "1002", 
+        "1003", 
+        "1004", 
+        "2001", 
+        "2002", 
+        "2003", 
+        "2004", 
+        "3001", 
+        "3003", 
+        "3004"
+      ], 
       "hnrlbls": [
         "60"
       ], 
@@ -469,6 +562,17 @@
       "street": "Rue Emile Henricot"
     }, 
     {
+      "busnrs": [
+        "1001", 
+        "1002", 
+        "1003", 
+        "1004", 
+        "2001", 
+        "2002", 
+        "2003", 
+        "2004", 
+        "3001"
+      ], 
       "hnrlbls": [
         "64"
       ], 
@@ -497,8 +601,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.644293400956, 
-      "lon": 4.56794486919, 
+      "lat": 50.644202451085, 
+      "lon": 4.567717790535, 
       "municipality": "Court-Saint-Etienne", 
       "pcode": "1490", 
       "source": "7701354", 

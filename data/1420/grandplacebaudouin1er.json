@@ -1,6 +1,14 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "B001", 
+        "B002", 
+        "C004", 
+        "C005", 
+        "C006", 
+        "D007"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -61,6 +69,11 @@
       "street": "Grand-Place Baudouin 1er"
     }, 
     {
+      "busnrs": [
+        "B001", 
+        "C002", 
+        "D003"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -157,6 +170,9 @@
       "street": "Grand-Place Baudouin 1er"
     }, 
     {
+      "busnrs": [
+        "0002"
+      ], 
       "hnrlbls": [
         "6"
       ], 

@@ -14,30 +14,6 @@
     }, 
     {
       "hnrlbls": [
-        "11"
-      ], 
-      "housenumber": "11", 
-      "lat": 49.56746282636, 
-      "lon": 5.530969859524, 
-      "municipality": "Virton", 
-      "pcode": "6760", 
-      "source": "7747887", 
-      "street": "Rue Docteur Jeanty"
-    }, 
-    {
-      "hnrlbls": [
-        "13"
-      ], 
-      "housenumber": "13", 
-      "lat": 49.567594996434, 
-      "lon": 5.530905148229, 
-      "municipality": "Virton", 
-      "pcode": "6760", 
-      "source": "7747887", 
-      "street": "Rue Docteur Jeanty"
-    }, 
-    {
-      "hnrlbls": [
         "15"
       ], 
       "housenumber": "15", 
@@ -61,12 +37,16 @@
       "street": "Rue Docteur Jeanty"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 49.567493351174, 
-      "lon": 5.531356558252, 
+      "lat": 49.567512380441, 
+      "lon": 5.531310195852, 
       "municipality": "Virton", 
       "pcode": "6760", 
       "source": "7747887", 
@@ -74,11 +54,39 @@
     }, 
     {
       "hnrlbls": [
-        "6"
+        "5"
       ], 
-      "housenumber": "6", 
-      "lat": 49.567536240608, 
-      "lon": 5.531327480799, 
+      "housenumber": "5", 
+      "lat": 49.567363005786, 
+      "lon": 5.531025869842, 
+      "municipality": "Virton", 
+      "pcode": "6760", 
+      "source": "7747887", 
+      "street": "Rue Docteur Jeanty"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
+      "hnrlbls": [
+        "5A"
+      ], 
+      "housenumber": "5A", 
+      "lat": 49.567398835406, 
+      "lon": 5.531026756237, 
+      "municipality": "Virton", 
+      "pcode": "6760", 
+      "source": "7747887", 
+      "street": "Rue Docteur Jeanty"
+    }, 
+    {
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 49.56746282636, 
+      "lon": 5.530969859524, 
       "municipality": "Virton", 
       "pcode": "6760", 
       "source": "7747887", 
@@ -97,12 +105,17 @@
       "street": "Rue Docteur Jeanty"
     }, 
     {
+      "busnrs": [
+        "A/2", 
+        "A1/1", 
+        "A1/2"
+      ], 
       "hnrlbls": [
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 49.567365392043, 
-      "lon": 5.531001784948, 
+      "lat": 49.567594996434, 
+      "lon": 5.530905148229, 
       "municipality": "Virton", 
       "pcode": "6760", 
       "source": "7747887", 

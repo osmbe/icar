@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "Bt03"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +16,11 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt04"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -26,11 +34,33 @@
     }, 
     {
       "hnrlbls": [
+        "100"
+      ], 
+      "housenumber": "100", 
+      "lat": 50.599265412653, 
+      "lon": 4.329442632856, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703043", 
+      "street": "Rue de Namur"
+    }, 
+    {
+      "busnrs": [
+        "001A", 
+        "001C", 
+        "001D", 
+        "002C", 
+        "02/B", 
+        "02Et", 
+        "Bt1B", 
+        "RDCG"
+      ], 
+      "hnrlbls": [
         "101"
       ], 
       "housenumber": "101", 
-      "lat": 50.599453390301, 
-      "lon": 4.329224108829, 
+      "lat": 50.599489129576, 
+      "lon": 4.329403467681, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703043", 
@@ -41,26 +71,37 @@
         "102"
       ], 
       "housenumber": "102", 
-      "lat": 50.599280818834, 
-      "lon": 4.329472327954, 
+      "lat": 50.599279407745, 
+      "lon": 4.329519606876, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703043", 
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "Et01"
+      ], 
       "hnrlbls": [
         "103"
       ], 
       "housenumber": "103", 
-      "lat": 50.599489560756, 
-      "lon": 4.329451294772, 
+      "lat": 50.599494932306, 
+      "lon": 4.329511085995, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703043", 
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "Bt02", 
+        "Bt03", 
+        "Bt04", 
+        "Bt05", 
+        "Bt06"
+      ], 
       "hnrlbls": [
         "105"
       ], 
@@ -74,17 +115,32 @@
     }, 
     {
       "hnrlbls": [
-        "107"
+        "106"
       ], 
-      "housenumber": "107", 
-      "lat": 50.599599956439, 
-      "lon": 4.32971751902, 
+      "housenumber": "106", 
+      "lat": 50.599290869293, 
+      "lon": 4.329579929631, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703043", 
       "street": "Rue de Namur"
     }, 
     {
+      "hnrlbls": [
+        "107"
+      ], 
+      "housenumber": "107", 
+      "lat": 50.599534323586, 
+      "lon": 4.329769145738, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703043", 
+      "street": "Rue de Namur"
+    }, 
+    {
+      "busnrs": [
+        "RDCH"
+      ], 
       "hnrlbls": [
         "108"
       ], 
@@ -97,6 +153,10 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02"
+      ], 
       "hnrlbls": [
         "109"
       ], 
@@ -133,6 +193,9 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "Bt02"
+      ], 
       "hnrlbls": [
         "111"
       ], 
@@ -145,6 +208,14 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt05", 
+        "Bt06", 
+        "Bt07", 
+        "Bt08"
+      ], 
       "hnrlbls": [
         "112"
       ], 
@@ -169,6 +240,9 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "Bt03"
+      ], 
       "hnrlbls": [
         "114"
       ], 
@@ -205,6 +279,10 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "RDCH"
+      ], 
       "hnrlbls": [
         "117"
       ], 
@@ -233,14 +311,18 @@
         "119"
       ], 
       "housenumber": "119", 
-      "lat": 50.599639503284, 
-      "lon": 4.330713914005, 
+      "lat": 50.599614065275, 
+      "lon": 4.33065009151, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703043", 
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "Bt02", 
+        "Bt03"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -361,6 +443,10 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "RDCH"
+      ], 
       "hnrlbls": [
         "130"
       ], 
@@ -409,6 +495,11 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "RDCH"
+      ], 
       "hnrlbls": [
         "134"
       ], 
@@ -493,6 +584,11 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "RDCH"
+      ], 
       "hnrlbls": [
         "140"
       ], 
@@ -517,6 +613,10 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "BteA", 
+        "BteB"
+      ], 
       "hnrlbls": [
         "142"
       ], 
@@ -529,6 +629,9 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "Bt01"
+      ], 
       "hnrlbls": [
         "143"
       ], 
@@ -541,6 +644,11 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "Bt03", 
+        "RDCO"
+      ], 
       "hnrlbls": [
         "144"
       ], 
@@ -553,6 +661,11 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "Bt02", 
+        "Bt03", 
+        "Bt04"
+      ], 
       "hnrlbls": [
         "145"
       ], 
@@ -565,6 +678,9 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "Bt02"
+      ], 
       "hnrlbls": [
         "146"
       ], 
@@ -589,6 +705,9 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "0002"
+      ], 
       "hnrlbls": [
         "148"
       ], 
@@ -629,8 +748,8 @@
         "150"
       ], 
       "housenumber": "150", 
-      "lat": 50.599392784875, 
-      "lon": 4.331897701625, 
+      "lat": 50.599400505561, 
+      "lon": 4.331865928523, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703043", 
@@ -641,8 +760,20 @@
         "150B"
       ], 
       "housenumber": "150B", 
-      "lat": 50.599158701898, 
-      "lon": 4.332276189533, 
+      "lat": 50.599387600355, 
+      "lon": 4.332197750821, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703043", 
+      "street": "Rue de Namur"
+    }, 
+    {
+      "hnrlbls": [
+        "150D"
+      ], 
+      "housenumber": "150D", 
+      "lat": 50.599391276711, 
+      "lon": 4.332055816928, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703043", 
@@ -661,6 +792,12 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt04"
+      ], 
       "hnrlbls": [
         "152"
       ], 
@@ -673,6 +810,9 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "Bt02"
+      ], 
       "hnrlbls": [
         "153"
       ], 
@@ -685,6 +825,12 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "RDCH"
+      ], 
       "hnrlbls": [
         "154"
       ], 
@@ -745,6 +891,16 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "Bt02", 
+        "Bt03", 
+        "Bt04", 
+        "Bt05", 
+        "Bt07", 
+        "Bt08", 
+        "Bt09", 
+        "Bt11"
+      ], 
       "hnrlbls": [
         "159"
       ], 
@@ -769,12 +925,16 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "Bt02", 
+        "Bt03"
+      ], 
       "hnrlbls": [
         "160"
       ], 
       "housenumber": "160", 
-      "lat": 50.599320324104, 
-      "lon": 4.332656382931, 
+      "lat": 50.599164987621, 
+      "lon": 4.332546423508, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703043", 
@@ -829,6 +989,30 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "0RDC", 
+        "Bt02", 
+        "Bt03", 
+        "Bt04"
+      ], 
+      "hnrlbls": [
+        "168"
+      ], 
+      "housenumber": "168", 
+      "lat": 50.599338684628, 
+      "lon": 4.33317306211, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703043", 
+      "street": "Rue de Namur"
+    }, 
+    {
+      "busnrs": [
+        "Bt02", 
+        "Bt06", 
+        "Bt07", 
+        "Bt09"
+      ], 
       "hnrlbls": [
         "169"
       ], 
@@ -841,6 +1025,9 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "Bt01"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -857,8 +1044,8 @@
         "170"
       ], 
       "housenumber": "170", 
-      "lat": 50.599338684628, 
-      "lon": 4.33317306211, 
+      "lat": 50.599338991191, 
+      "lon": 4.333381085173, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703043", 
@@ -881,14 +1068,19 @@
         "172"
       ], 
       "housenumber": "172", 
-      "lat": 50.599331647691, 
-      "lon": 4.333391736582, 
+      "lat": 50.599335938643, 
+      "lon": 4.333422004745, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703043", 
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "A002", 
+        "Bt01", 
+        "Bt03"
+      ], 
       "hnrlbls": [
         "173"
       ], 
@@ -937,6 +1129,11 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03"
+      ], 
       "hnrlbls": [
         "177"
       ], 
@@ -961,6 +1158,11 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03"
+      ], 
       "hnrlbls": [
         "179"
       ], 
@@ -973,6 +1175,14 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "ABt3", 
+        "ABt4", 
+        "ABt5", 
+        "Bt02", 
+        "Bt05", 
+        "Bt06"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -997,6 +1207,9 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "01Et"
+      ], 
       "hnrlbls": [
         "181"
       ], 
@@ -1025,14 +1238,27 @@
         "183"
       ], 
       "housenumber": "183", 
-      "lat": 50.599526884199, 
-      "lon": 4.333786092359, 
+      "lat": 50.599526002677, 
+      "lon": 4.333821130229, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703043", 
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt04", 
+        "Bt05", 
+        "Bt06", 
+        "Bt07", 
+        "Bt08", 
+        "Bt09", 
+        "Bt10", 
+        "Bt11"
+      ], 
       "hnrlbls": [
         "184"
       ], 
@@ -1045,6 +1271,15 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt11", 
+        "Bt12", 
+        "Bt21", 
+        "Bt22"
+      ], 
       "hnrlbls": [
         "186"
       ], 
@@ -1069,6 +1304,10 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -1081,6 +1320,9 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "Bt02"
+      ], 
       "hnrlbls": [
         "190"
       ], 
@@ -1105,6 +1347,10 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "B000", 
+        "Bt01"
+      ], 
       "hnrlbls": [
         "194"
       ], 
@@ -1117,6 +1363,10 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "196"
       ], 
@@ -1129,6 +1379,13 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "Bt02", 
+        "Bt03", 
+        "Bt06", 
+        "Bt07", 
+        "Bt08"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -1141,6 +1398,9 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "01Et"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -1169,8 +1429,8 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 50.598434219745, 
-      "lon": 4.326170471002, 
+      "lat": 50.598416128597, 
+      "lon": 4.326131620002, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703043", 
@@ -1225,6 +1485,13 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "Bt03", 
+        "Bt04", 
+        "Bt05", 
+        "Bt07", 
+        "Bt8A"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -1253,8 +1520,8 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 50.598454675935, 
-      "lon": 4.325832038021, 
+      "lat": 50.598459448342, 
+      "lon": 4.325873142428, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703043", 
@@ -1313,8 +1580,8 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 50.598707783504, 
-      "lon": 4.32638683266, 
+      "lat": 50.598749627406, 
+      "lon": 4.326330737105, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703043", 
@@ -1337,8 +1604,8 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 50.598789900139, 
-      "lon": 4.325940584521, 
+      "lat": 50.598752331373, 
+      "lon": 4.3259772423, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703043", 
@@ -1385,8 +1652,8 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 50.598845352465, 
-      "lon": 4.326547212174, 
+      "lat": 50.598795971467, 
+      "lon": 4.326450034213, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703043", 
@@ -1409,8 +1676,20 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 50.598869254451, 
-      "lon": 4.3266411922, 
+      "lat": 50.598846019973, 
+      "lon": 4.326520687916, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703043", 
+      "street": "Rue de Namur"
+    }, 
+    {
+      "hnrlbls": [
+        "44A"
+      ], 
+      "housenumber": "44A", 
+      "lat": 50.598862217104, 
+      "lon": 4.32655537707, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703043", 
@@ -1433,8 +1712,8 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 50.598916173114, 
-      "lon": 4.326690743548, 
+      "lat": 50.59888522741, 
+      "lon": 4.326624434569, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703043", 
@@ -1457,8 +1736,8 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 50.598944699642, 
-      "lon": 4.326820808854, 
+      "lat": 50.598918487372, 
+      "lon": 4.326686292183, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703043", 
@@ -1493,14 +1772,92 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 50.598998907619, 
-      "lon": 4.326891470848, 
+      "lat": 50.598916832395, 
+      "lon": 4.326854170732, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703043", 
       "street": "Rue de Namur"
     }, 
     {
+      "hnrlbls": [
+        "50A"
+      ], 
+      "housenumber": "50A", 
+      "lat": 50.598955049257, 
+      "lon": 4.326740287903, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703043", 
+      "street": "Rue de Namur"
+    }, 
+    {
+      "hnrlbls": [
+        "50B"
+      ], 
+      "housenumber": "50B", 
+      "lat": 50.598970526214, 
+      "lon": 4.326785120935, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703043", 
+      "street": "Rue de Namur"
+    }, 
+    {
+      "hnrlbls": [
+        "50C"
+      ], 
+      "housenumber": "50C", 
+      "lat": 50.598984812449, 
+      "lon": 4.326826217584, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703043", 
+      "street": "Rue de Namur"
+    }, 
+    {
+      "hnrlbls": [
+        "50D"
+      ], 
+      "housenumber": "50D", 
+      "lat": 50.598931274645, 
+      "lon": 4.32677207416, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703043", 
+      "street": "Rue de Namur"
+    }, 
+    {
+      "hnrlbls": [
+        "50E"
+      ], 
+      "housenumber": "50E", 
+      "lat": 50.598944968717, 
+      "lon": 4.326821581251, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703043", 
+      "street": "Rue de Namur"
+    }, 
+    {
+      "hnrlbls": [
+        "50F"
+      ], 
+      "housenumber": "50F", 
+      "lat": 50.598956280942, 
+      "lon": 4.326859878102, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703043", 
+      "street": "Rue de Namur"
+    }, 
+    {
+      "busnrs": [
+        "01Ar", 
+        "01et", 
+        "02Av", 
+        "02Et"
+      ], 
       "hnrlbls": [
         "51"
       ], 
@@ -1517,8 +1874,8 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 50.598991550046, 
-      "lon": 4.326982936042, 
+      "lat": 50.599002226588, 
+      "lon": 4.326906313238, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703043", 
@@ -1577,8 +1934,8 @@
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 50.599216675325, 
-      "lon": 4.326947526768, 
+      "lat": 50.599164284428, 
+      "lon": 4.326956315703, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703043", 
@@ -1621,6 +1978,10 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "Bt02", 
+        "Et01"
+      ], 
       "hnrlbls": [
         "62"
       ], 
@@ -1658,6 +2019,23 @@
     }, 
     {
       "hnrlbls": [
+        "65"
+      ], 
+      "housenumber": "65", 
+      "lat": 50.599354432078, 
+      "lon": 4.327433801875, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703043", 
+      "street": "Rue de Namur"
+    }, 
+    {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03"
+      ], 
+      "hnrlbls": [
         "66"
       ], 
       "housenumber": "66", 
@@ -1694,6 +2072,45 @@
     }, 
     {
       "hnrlbls": [
+        "69A"
+      ], 
+      "housenumber": "69A", 
+      "lat": 50.59946454395, 
+      "lon": 4.327903664566, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703043", 
+      "street": "Rue de Namur"
+    }, 
+    {
+      "hnrlbls": [
+        "69B"
+      ], 
+      "housenumber": "69B", 
+      "lat": 50.599485355514, 
+      "lon": 4.327899909389, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703043", 
+      "street": "Rue de Namur"
+    }, 
+    {
+      "hnrlbls": [
+        "69C"
+      ], 
+      "housenumber": "69C", 
+      "lat": 50.599508544878, 
+      "lon": 4.327893349776, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703043", 
+      "street": "Rue de Namur"
+    }, 
+    {
+      "busnrs": [
+        "01Et"
+      ], 
+      "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
@@ -1717,12 +2134,15 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "Bt01"
+      ], 
       "hnrlbls": [
         "71"
       ], 
       "housenumber": "71", 
-      "lat": 50.599455796693, 
-      "lon": 4.327940408423, 
+      "lat": 50.599410121098, 
+      "lon": 4.327922508412, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703043", 
@@ -1741,6 +2161,11 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "BBt4", 
+        "Bt3A", 
+        "Bt4A"
+      ], 
       "hnrlbls": [
         "73"
       ], 
@@ -1757,14 +2182,18 @@
         "74"
       ], 
       "housenumber": "74", 
-      "lat": 50.599219422202, 
-      "lon": 4.328231329394, 
+      "lat": 50.599181597843, 
+      "lon": 4.3282218693, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703043", 
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "A/01", 
+        "A/02"
+      ], 
       "hnrlbls": [
         "75"
       ], 
@@ -1781,8 +2210,8 @@
         "76"
       ], 
       "housenumber": "76", 
-      "lat": 50.599226954648, 
-      "lon": 4.328280463847, 
+      "lat": 50.599198203364, 
+      "lon": 4.328287742637, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703043", 
@@ -1813,6 +2242,10 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "01Et", 
+        "RDCH"
+      ], 
       "hnrlbls": [
         "79"
       ], 
@@ -1825,6 +2258,11 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03"
+      ], 
       "hnrlbls": [
         "8"
       ], 
@@ -1837,18 +2275,25 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt03"
+      ], 
       "hnrlbls": [
         "80"
       ], 
       "housenumber": "80", 
-      "lat": 50.599240595683, 
-      "lon": 4.328448172411, 
+      "lat": 50.599218337281, 
+      "lon": 4.328456279033, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703043", 
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "Bt02"
+      ], 
       "hnrlbls": [
         "81"
       ], 
@@ -1865,8 +2310,20 @@
         "82"
       ], 
       "housenumber": "82", 
-      "lat": 50.599242830419, 
-      "lon": 4.328569574773, 
+      "lat": 50.599227484908, 
+      "lon": 4.328560430374, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703043", 
+      "street": "Rue de Namur"
+    }, 
+    {
+      "hnrlbls": [
+        "82A"
+      ], 
+      "housenumber": "82A", 
+      "lat": 50.599229889115, 
+      "lon": 4.328587779975, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703043", 
@@ -1889,14 +2346,19 @@
         "84"
       ], 
       "housenumber": "84", 
-      "lat": 50.599245376756, 
-      "lon": 4.328655692675, 
+      "lat": 50.599238599068, 
+      "lon": 4.328660743771, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703043", 
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "0003", 
+        "Bt01", 
+        "Bt02"
+      ], 
       "hnrlbls": [
         "85"
       ], 
@@ -1909,6 +2371,11 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "Bt0A", 
+        "Bt0B", 
+        "Bt0C"
+      ], 
       "hnrlbls": [
         "86"
       ], 
@@ -1921,6 +2388,12 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "02GA", 
+        "Bt03", 
+        "RDCH"
+      ], 
       "hnrlbls": [
         "87"
       ], 
@@ -1949,14 +2422,18 @@
         "89"
       ], 
       "housenumber": "89", 
-      "lat": 50.59942787391, 
-      "lon": 4.328626739528, 
+      "lat": 50.59940828136, 
+      "lon": 4.328718318582, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703043", 
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt03"
+      ], 
       "hnrlbls": [
         "9"
       ], 
@@ -1985,8 +2462,8 @@
         "91"
       ], 
       "housenumber": "91", 
-      "lat": 50.599407046863, 
-      "lon": 4.328688525678, 
+      "lat": 50.599413040055, 
+      "lon": 4.328825865457, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703043", 
@@ -2009,8 +2486,8 @@
         "93"
       ], 
       "housenumber": "93", 
-      "lat": 50.599410243357, 
-      "lon": 4.328756746927, 
+      "lat": 50.59941030053, 
+      "lon": 4.328926792511, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703043", 
@@ -2029,24 +2506,37 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "BteB", 
+        "BteC", 
+        "BteD"
+      ], 
       "hnrlbls": [
         "95"
       ], 
       "housenumber": "95", 
-      "lat": 50.59941301829, 
-      "lon": 4.328827977168, 
+      "lat": 50.599419632463, 
+      "lon": 4.329045666739, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703043", 
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt04", 
+        "Bt05", 
+        "Bt06"
+      ], 
       "hnrlbls": [
         "96"
       ], 
       "housenumber": "96", 
-      "lat": 50.599266730723, 
-      "lon": 4.32922639512, 
+      "lat": 50.599268137984, 
+      "lon": 4.329165290664, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703043", 
@@ -2057,8 +2547,20 @@
         "97"
       ], 
       "housenumber": "97", 
-      "lat": 50.599417195232, 
-      "lon": 4.328924814945, 
+      "lat": 50.599451192189, 
+      "lon": 4.329229373628, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703043", 
+      "street": "Rue de Namur"
+    }, 
+    {
+      "hnrlbls": [
+        "97A"
+      ], 
+      "housenumber": "97A", 
+      "lat": 50.599428968316, 
+      "lon": 4.32913892384, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703043", 
@@ -2077,12 +2579,15 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "BteA"
+      ], 
       "hnrlbls": [
         "99"
       ], 
       "housenumber": "99", 
-      "lat": 50.599417641039, 
-      "lon": 4.329047970764, 
+      "lat": 50.599462923334, 
+      "lon": 4.329313279493, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703043", 

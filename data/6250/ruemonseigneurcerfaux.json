@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -49,12 +53,15 @@
       "street": "Rue Monseigneur Cerfaux"
     }, 
     {
+      "busnrs": [
+        "7"
+      ], 
       "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.384605559354, 
-      "lon": 4.578446738227, 
+      "lat": 50.384812456236, 
+      "lon": 4.578212527265, 
       "municipality": "Aiseau-Presles", 
       "pcode": "6250", 
       "source": "7711688", 
@@ -65,8 +72,20 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.384855534275, 
-      "lon": 4.577553409824, 
+      "lat": 50.38484950327, 
+      "lon": 4.577599887979, 
+      "municipality": "Aiseau-Presles", 
+      "pcode": "6250", 
+      "source": "7711688", 
+      "street": "Rue Monseigneur Cerfaux"
+    }, 
+    {
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.384599463972, 
+      "lon": 4.578436748873, 
       "municipality": "Aiseau-Presles", 
       "pcode": "6250", 
       "source": "7711688", 

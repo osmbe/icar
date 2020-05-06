@@ -17,8 +17,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.196774767681, 
-      "lon": 4.544085497953, 
+      "lat": 50.196800893104, 
+      "lon": 4.544293551886, 
       "municipality": "Philippeville", 
       "pcode": "5600", 
       "source": "7757548", 
@@ -37,6 +37,9 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -65,8 +68,8 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 50.196950943819, 
-      "lon": 4.544352755942, 
+      "lat": 50.196873563408, 
+      "lon": 4.54442960657, 
       "municipality": "Philippeville", 
       "pcode": "5600", 
       "source": "7757548", 
@@ -197,8 +200,8 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 50.197329645061, 
-      "lon": 4.544940578455, 
+      "lat": 50.197276357784, 
+      "lon": 4.544866540234, 
       "municipality": "Philippeville", 
       "pcode": "5600", 
       "source": "7757548", 
@@ -217,6 +220,9 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "0011"
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -241,6 +247,10 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -277,6 +287,11 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "33"
       ], 
@@ -301,6 +316,10 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0022"
+      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -355,6 +374,18 @@
       "housenumber": "39", 
       "lat": 50.197469219969, 
       "lon": 4.545819380249, 
+      "municipality": "Philippeville", 
+      "pcode": "5600", 
+      "source": "7757548", 
+      "street": "Rue de Namur"
+    }, 
+    {
+      "hnrlbls": [
+        "39A"
+      ], 
+      "housenumber": "39A", 
+      "lat": 50.198196455952, 
+      "lon": 4.547314754731, 
       "municipality": "Philippeville", 
       "pcode": "5600", 
       "source": "7757548", 
@@ -493,6 +524,9 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "A011"
+      ], 
       "hnrlbls": [
         "54"
       ], 
@@ -793,6 +827,12 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005"
+      ], 
       "hnrlbls": [
         "8"
       ], 

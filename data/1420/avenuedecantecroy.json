@@ -49,6 +49,24 @@
       "street": "Avenue de Cantecroy"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B", 
+        "C", 
+        "D"
+      ], 
+      "hnrlbls": [
+        "18"
+      ], 
+      "housenumber": "18", 
+      "lat": 50.683726941898, 
+      "lon": 4.386369430819, 
+      "municipality": "Braine-l'Alleud", 
+      "pcode": "1420", 
+      "source": "7700179", 
+      "street": "Avenue de Cantecroy"
+    }, 
+    {
       "hnrlbls": [
         "2"
       ], 
@@ -61,18 +79,31 @@
       "street": "Avenue de Cantecroy"
     }, 
     {
+      "busnrs": [
+        "B001", 
+        "B002", 
+        "C"
+      ], 
       "hnrlbls": [
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 50.683726941898, 
-      "lon": 4.386369430819, 
+      "lat": 50.683734220055, 
+      "lon": 4.386219910455, 
       "municipality": "Braine-l'Alleud", 
       "pcode": "1420", 
       "source": "7700179", 
       "street": "Avenue de Cantecroy"
     }, 
     {
+      "busnrs": [
+        "0008", 
+        "A001", 
+        "B003", 
+        "B004", 
+        "C005", 
+        "C006"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -85,6 +116,12 @@
       "street": "Avenue de Cantecroy"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004"
+      ], 
       "hnrlbls": [
         "26"
       ], 

@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "1-1", 
+        "2-1"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -62,6 +68,18 @@
     }, 
     {
       "hnrlbls": [
+        "2A"
+      ], 
+      "housenumber": "2A", 
+      "lat": 50.455615387681, 
+      "lon": 3.950404251464, 
+      "municipality": "Mons", 
+      "pcode": "7000", 
+      "source": "7713625", 
+      "street": "Rue de la Tour Auberon"
+    }, 
+    {
+      "hnrlbls": [
         "2BIS"
       ], 
       "housenumber": "2BIS", 
@@ -73,6 +91,9 @@
       "street": "Rue de la Tour Auberon"
     }, 
     {
+      "busnrs": [
+        "0-1"
+      ], 
       "hnrlbls": [
         "3A"
       ], 
@@ -85,6 +106,11 @@
       "street": "Rue de la Tour Auberon"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "1-2"
+      ], 
       "hnrlbls": [
         "3B"
       ], 
@@ -97,6 +123,13 @@
       "street": "Rue de la Tour Auberon"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "1-2", 
+        "2-1", 
+        "2-2"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -121,6 +154,10 @@
       "street": "Rue de la Tour Auberon"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -145,6 +182,11 @@
       "street": "Rue de la Tour Auberon"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "1-2"
+      ], 
       "hnrlbls": [
         "8"
       ], 

@@ -181,6 +181,12 @@
       "street": "Rue Nigely"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -481,6 +487,10 @@
       "street": "Rue Nigely"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "50"
       ], 
@@ -523,18 +533,6 @@
       "housenumber": "6", 
       "lat": 49.716148136432, 
       "lon": 5.231899597231, 
-      "municipality": "Florenville", 
-      "pcode": "6820", 
-      "source": "7747312", 
-      "street": "Rue Nigely"
-    }, 
-    {
-      "hnrlbls": [
-        "60"
-      ], 
-      "housenumber": "60", 
-      "lat": 49.711209875633, 
-      "lon": 5.233799117699, 
       "municipality": "Florenville", 
       "pcode": "6820", 
       "source": "7747312", 

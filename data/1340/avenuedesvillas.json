@@ -41,8 +41,8 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 50.670054557949, 
-      "lon": 4.567600311321, 
+      "lat": 50.669738209404, 
+      "lon": 4.56747109822, 
       "municipality": "Ottignies-Louvain-la-Neuve", 
       "pcode": "1340", 
       "source": "7706012", 
@@ -53,8 +53,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.670895367469, 
-      "lon": 4.56668852445, 
+      "lat": 50.670508780028, 
+      "lon": 4.56536745869, 
       "municipality": "Ottignies-Louvain-la-Neuve", 
       "pcode": "1340", 
       "source": "7706012", 
@@ -265,12 +265,23 @@
       "street": "avenue des Villas"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303"
+      ], 
       "hnrlbls": [
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 50.672660791392, 
-      "lon": 4.566955137753, 
+      "lat": 50.672516734202, 
+      "lon": 4.566916428503, 
       "municipality": "Ottignies-Louvain-la-Neuve", 
       "pcode": "1340", 
       "source": "7706012", 
@@ -289,6 +300,9 @@
       "street": "avenue des Villas"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -373,6 +387,19 @@
       "street": "avenue des Villas"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0104", 
+        "0201", 
+        "0202", 
+        "0204", 
+        "0301", 
+        "0302", 
+        "0402"
+      ], 
       "hnrlbls": [
         "54"
       ], 
@@ -385,6 +412,16 @@
       "street": "avenue des Villas"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
+      ], 
       "hnrlbls": [
         "56"
       ], 
@@ -433,6 +470,9 @@
       "street": "avenue des Villas"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "8"
       ], 

@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -223,6 +226,18 @@
       "housenumber": "24", 
       "lat": 50.450716568008, 
       "lon": 4.729381083319, 
+      "municipality": "Floreffe", 
+      "pcode": "5150", 
+      "source": "7752321", 
+      "street": "Rue de Spy"
+    }, 
+    {
+      "hnrlbls": [
+        "24A"
+      ], 
+      "housenumber": "24A", 
+      "lat": 50.450592306457, 
+      "lon": 4.72946208124, 
       "municipality": "Floreffe", 
       "pcode": "5150", 
       "source": "7752321", 

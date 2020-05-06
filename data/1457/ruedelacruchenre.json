@@ -133,6 +133,9 @@
       "street": "Rue de la Cruchen\u00e8re"
     }, 
     {
+      "busnrs": [
+        "Bte1"
+      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -145,6 +148,9 @@
       "street": "Rue de la Cruchen\u00e8re"
     }, 
     {
+      "busnrs": [
+        "Bte2"
+      ], 
       "hnrlbls": [
         "33"
       ], 
@@ -205,6 +211,12 @@
       "street": "Rue de la Cruchen\u00e8re"
     }, 
     {
+      "busnrs": [
+        "B101", 
+        "B102", 
+        "Bte1", 
+        "Bte2"
+      ], 
       "hnrlbls": [
         "41"
       ], 
@@ -373,6 +385,9 @@
       "street": "Rue de la Cruchen\u00e8re"
     }, 
     {
+      "busnrs": [
+        "B101"
+      ], 
       "hnrlbls": [
         "62"
       ], 
@@ -482,6 +497,30 @@
     }, 
     {
       "hnrlbls": [
+        "75"
+      ], 
+      "housenumber": "75", 
+      "lat": 50.608772125223, 
+      "lon": 4.657626967941, 
+      "municipality": "Walhain", 
+      "pcode": "1457", 
+      "source": "7707122", 
+      "street": "Rue de la Cruchen\u00e8re"
+    }, 
+    {
+      "hnrlbls": [
+        "77"
+      ], 
+      "housenumber": "77", 
+      "lat": 50.608745485361, 
+      "lon": 4.657338977788, 
+      "municipality": "Walhain", 
+      "pcode": "1457", 
+      "source": "7707122", 
+      "street": "Rue de la Cruchen\u00e8re"
+    }, 
+    {
+      "hnrlbls": [
         "79"
       ], 
       "housenumber": "79", 
@@ -565,6 +604,9 @@
       "street": "Rue de la Cruchen\u00e8re"
     }, 
     {
+      "busnrs": [
+        "Bte1"
+      ], 
       "hnrlbls": [
         "86"
       ], 

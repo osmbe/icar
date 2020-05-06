@@ -61,6 +61,11 @@
       "street": "Rue du Bois"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -85,6 +90,11 @@
       "street": "Rue du Bois"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -109,6 +119,9 @@
       "street": "Rue du Bois"
     }, 
     {
+      "busnrs": [
+        "REZ"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -205,6 +218,9 @@
       "street": "Rue du Bois"
     }, 
     {
+      "busnrs": [
+        "E.02"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -461,8 +477,8 @@
         "88"
       ], 
       "housenumber": "88", 
-      "lat": 50.602776273893, 
-      "lon": 5.847840226454, 
+      "lat": 50.602671933462, 
+      "lon": 5.847989733465, 
       "municipality": "Dison", 
       "pcode": "4820", 
       "source": "7735662", 

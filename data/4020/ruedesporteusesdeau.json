@@ -1,6 +1,16 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0065", 
+        "0066", 
+        "0067", 
+        "0068", 
+        "0069", 
+        "0070", 
+        "0071", 
+        "0072"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -61,6 +71,16 @@
       "street": "Rue des Porteuses d'Eau"
     }, 
     {
+      "busnrs": [
+        "0073", 
+        "0074", 
+        "0075", 
+        "0076", 
+        "0077", 
+        "0078", 
+        "0079", 
+        "0080"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -73,6 +93,31 @@
       "street": "Rue des Porteuses d'Eau"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.64196455011, 
+      "lon": 5.59362779714, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730702", 
+      "street": "Rue des Porteuses d'Eau"
+    }, 
+    {
+      "busnrs": [
+        "0081", 
+        "0082", 
+        "0083", 
+        "0084", 
+        "0085", 
+        "0086"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -91,6 +136,18 @@
       "housenumber": "6", 
       "lat": 50.642024324031, 
       "lon": 5.593582949386, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730702", 
+      "street": "Rue des Porteuses d'Eau"
+    }, 
+    {
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 50.642246789383, 
+      "lon": 5.593184044013, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730702", 

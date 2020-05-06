@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -217,6 +221,12 @@
       "street": "Avenue du Lac"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102"
+      ], 
       "hnrlbls": [
         "8"
       ], 

@@ -121,12 +121,28 @@
       "street": "Rue du Tournay"
     }, 
     {
-      "hnrlbls": [
-        "20"
+      "busnrs": [
+        "/01", 
+        "/02"
       ], 
-      "housenumber": "20", 
+      "hnrlbls": [
+        "20A"
+      ], 
+      "housenumber": "20A", 
       "lat": 50.698398860053, 
       "lon": 5.648795441943, 
+      "municipality": "Oupeye", 
+      "pcode": "4683", 
+      "source": "7731709", 
+      "street": "Rue du Tournay"
+    }, 
+    {
+      "hnrlbls": [
+        "20B"
+      ], 
+      "housenumber": "20B", 
+      "lat": 50.698310183183, 
+      "lon": 5.648630428894, 
       "municipality": "Oupeye", 
       "pcode": "4683", 
       "source": "7731709", 

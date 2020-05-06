@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A011"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -49,6 +52,10 @@
       "street": "Rue Fr\u00e9son"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -61,6 +68,12 @@
       "street": "Rue Fr\u00e9son"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -295,6 +308,18 @@
       "housenumber": "33", 
       "lat": 50.565508414648, 
       "lon": 5.580515259577, 
+      "municipality": "Esneux", 
+      "pcode": "4130", 
+      "source": "7728769", 
+      "street": "Rue Fr\u00e9son"
+    }, 
+    {
+      "hnrlbls": [
+        "33A"
+      ], 
+      "housenumber": "33A", 
+      "lat": 50.565602559726, 
+      "lon": 5.580259283487, 
       "municipality": "Esneux", 
       "pcode": "4130", 
       "source": "7728769", 
@@ -661,6 +686,11 @@
       "street": "Rue Fr\u00e9son"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "64"
       ], 
@@ -673,6 +703,9 @@
       "street": "Rue Fr\u00e9son"
     }, 
     {
+      "busnrs": [
+        "0011"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -685,6 +718,11 @@
       "street": "Rue Fr\u00e9son"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "9"
       ], 

@@ -73,6 +73,9 @@
       "street": "Rue Philippe Capiaumont"
     }, 
     {
+      "busnrs": [
+        "0-1"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -109,6 +112,12 @@
       "street": "Rue Philippe Capiaumont"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "1-1", 
+        "1-2"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -121,6 +130,11 @@
       "street": "Rue Philippe Capiaumont"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "1-2"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -266,6 +280,18 @@
     }, 
     {
       "hnrlbls": [
+        "33"
+      ], 
+      "housenumber": "33", 
+      "lat": 50.449150605777, 
+      "lon": 3.963754951635, 
+      "municipality": "Mons", 
+      "pcode": "7000", 
+      "source": "7714141", 
+      "street": "Rue Philippe Capiaumont"
+    }, 
+    {
+      "hnrlbls": [
         "34"
       ], 
       "housenumber": "34", 
@@ -289,6 +315,10 @@
       "street": "Rue Philippe Capiaumont"
     }, 
     {
+      "busnrs": [
+        "1-1", 
+        "2-1"
+      ], 
       "hnrlbls": [
         "38A"
       ], 
@@ -301,6 +331,10 @@
       "street": "Rue Philippe Capiaumont"
     }, 
     {
+      "busnrs": [
+        "1-1", 
+        "2-1"
+      ], 
       "hnrlbls": [
         "38B"
       ], 
@@ -313,6 +347,11 @@
       "street": "Rue Philippe Capiaumont"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "2"
+      ], 
       "hnrlbls": [
         "40"
       ], 

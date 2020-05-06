@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "000C", 
+        "000D", 
+        "000c"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -53,8 +58,8 @@
         "103"
       ], 
       "housenumber": "103", 
-      "lat": 50.486686010281, 
-      "lon": 4.150927847829, 
+      "lat": 50.486725491239, 
+      "lon": 4.150906261881, 
       "municipality": "La Louvi\u00e8re", 
       "pcode": "7110", 
       "source": "7717302", 
@@ -133,6 +138,9 @@
       "street": "Rue de la Tombelle"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -289,6 +297,14 @@
       "street": "Rue de la Tombelle"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0008", 
+        "0bis", 
+        "B000", 
+        "Bis0"
+      ], 
       "hnrlbls": [
         "121"
       ], 
@@ -469,6 +485,10 @@
       "street": "Rue de la Tombelle"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "141"
       ], 
@@ -577,6 +597,16 @@
       "street": "Rue de la Tombelle"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -841,6 +871,15 @@
       "street": "Rue de la Tombelle"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007"
+      ], 
       "hnrlbls": [
         "36"
       ], 
@@ -865,6 +904,9 @@
       "street": "Rue de la Tombelle"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "38"
       ], 
@@ -877,6 +919,24 @@
       "street": "Rue de la Tombelle"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008", 
+        "0009", 
+        "0010", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "2ETG", 
+        "RC1E", 
+        "RCH0"
+      ], 
       "hnrlbls": [
         "39"
       ], 
@@ -889,6 +949,9 @@
       "street": "Rue de la Tombelle"
     }, 
     {
+      "busnrs": [
+        "5703"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -937,6 +1000,14 @@
       "street": "Rue de la Tombelle"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006"
+      ], 
       "hnrlbls": [
         "44"
       ], 
@@ -1490,11 +1561,23 @@
     }, 
     {
       "hnrlbls": [
+        "92"
+      ], 
+      "housenumber": "92", 
+      "lat": 50.486988345475, 
+      "lon": 4.150138788282, 
+      "municipality": "La Louvi\u00e8re", 
+      "pcode": "7110", 
+      "source": "7717302", 
+      "street": "Rue de la Tombelle"
+    }, 
+    {
+      "hnrlbls": [
         "94"
       ], 
       "housenumber": "94", 
-      "lat": 50.487032049287, 
-      "lon": 4.150145672475, 
+      "lat": 50.4870660218, 
+      "lon": 4.150186528367, 
       "municipality": "La Louvi\u00e8re", 
       "pcode": "7110", 
       "source": "7717302", 

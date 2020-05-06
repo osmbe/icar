@@ -1,12 +1,65 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
       "lat": 50.630942584188, 
       "lon": 5.586023702334, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7729904", 
+      "street": "Impasse Renard"
+    }, 
+    {
+      "hnrlbls": [
+        "10"
+      ], 
+      "housenumber": "10", 
+      "lat": 50.631003515882, 
+      "lon": 5.586209117525, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7729904", 
+      "street": "Impasse Renard"
+    }, 
+    {
+      "hnrlbls": [
+        "11"
+      ], 
+      "housenumber": "11", 
+      "lat": 50.630953144591, 
+      "lon": 5.586236939063, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7729904", 
+      "street": "Impasse Renard"
+    }, 
+    {
+      "hnrlbls": [
+        "12"
+      ], 
+      "housenumber": "12", 
+      "lat": 50.630911296166, 
+      "lon": 5.586292404935, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7729904", 
+      "street": "Impasse Renard"
+    }, 
+    {
+      "hnrlbls": [
+        "13"
+      ], 
+      "housenumber": "13", 
+      "lat": 50.630884787374, 
+      "lon": 5.586368481429, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7729904", 
@@ -25,6 +78,9 @@
       "street": "Impasse Renard"
     }, 
     {
+      "busnrs": [
+        "0045"
+      ], 
       "hnrlbls": [
         "3"
       ], 

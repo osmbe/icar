@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A/01", 
+        "A/02", 
+        "ABt2"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -133,6 +138,23 @@
       "street": "Rue des Coquelets"
     }, 
     {
+      "busnrs": [
+        "A/02", 
+        "A000", 
+        "A001"
+      ], 
+      "hnrlbls": [
+        "1A"
+      ], 
+      "housenumber": "1A", 
+      "lat": 50.601652957427, 
+      "lon": 4.318768642418, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703069", 
+      "street": "Rue des Coquelets"
+    }, 
+    {
       "hnrlbls": [
         "2"
       ], 
@@ -175,6 +197,18 @@
       "housenumber": "22", 
       "lat": 50.602667235546, 
       "lon": 4.32229234965, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703069", 
+      "street": "Rue des Coquelets"
+    }, 
+    {
+      "hnrlbls": [
+        "22B"
+      ], 
+      "housenumber": "22B", 
+      "lat": 50.601915421267, 
+      "lon": 4.324081346944, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703069", 
@@ -245,8 +279,8 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 50.603362655213, 
-      "lon": 4.323346028511, 
+      "lat": 50.603363581701, 
+      "lon": 4.32328174205, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703069", 
@@ -257,8 +291,8 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 50.603460486651, 
-      "lon": 4.323538843927, 
+      "lat": 50.603427613336, 
+      "lon": 4.323413292673, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703069", 
@@ -271,6 +305,30 @@
       "housenumber": "4", 
       "lat": 50.601914360443, 
       "lon": 4.320133204312, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703069", 
+      "street": "Rue des Coquelets"
+    }, 
+    {
+      "hnrlbls": [
+        "41"
+      ], 
+      "housenumber": "41", 
+      "lat": 50.603461943742, 
+      "lon": 4.323514785558, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703069", 
+      "street": "Rue des Coquelets"
+    }, 
+    {
+      "hnrlbls": [
+        "43"
+      ], 
+      "housenumber": "43", 
+      "lat": 50.603495513198, 
+      "lon": 4.323596607083, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703069", 
@@ -391,6 +449,18 @@
       "housenumber": "8", 
       "lat": 50.602043072146, 
       "lon": 4.320487702507, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703069", 
+      "street": "Rue des Coquelets"
+    }, 
+    {
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.60260040862, 
+      "lon": 4.319930351402, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703069", 

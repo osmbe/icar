@@ -217,6 +217,10 @@
       "street": "Rue du Petit Villerot"
     }, 
     {
+      "busnrs": [
+        "RCH2", 
+        "RCH3"
+      ], 
       "hnrlbls": [
         "140"
       ], 
@@ -277,6 +281,11 @@
       "street": "Rue du Petit Villerot"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "RCH2", 
+        "RZCH"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -289,6 +298,9 @@
       "street": "Rue du Petit Villerot"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "160"
       ], 
@@ -373,6 +385,12 @@
       "street": "Rue du Petit Villerot"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "RCH1", 
+        "RCH2"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -641,8 +659,8 @@
         "66"
       ], 
       "housenumber": "66", 
-      "lat": 50.462919756652, 
-      "lon": 3.777914004572, 
+      "lat": 50.462872122244, 
+      "lon": 3.777927696557, 
       "municipality": "Saint-Ghislain", 
       "pcode": "7333", 
       "source": "7714803", 
@@ -653,8 +671,8 @@
         "68"
       ], 
       "housenumber": "68", 
-      "lat": 50.462905705541, 
-      "lon": 3.77800815329, 
+      "lat": 50.462957300457, 
+      "lon": 3.777991834546, 
       "municipality": "Saint-Ghislain", 
       "pcode": "7333", 
       "source": "7714803", 
@@ -673,6 +691,9 @@
       "street": "Rue du Petit Villerot"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "74"
       ], 

@@ -1,12 +1,20 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
       "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.571303207547, 
-      "lon": 5.540725679939, 
+      "lat": 50.571325423159, 
+      "lon": 5.540704751173, 
       "municipality": "Seraing", 
       "pcode": "4100", 
       "source": "7732074", 
@@ -62,11 +70,41 @@
     }, 
     {
       "hnrlbls": [
+        "12"
+      ], 
+      "housenumber": "12", 
+      "lat": 50.571099578388, 
+      "lon": 5.54015127833, 
+      "municipality": "Seraing", 
+      "pcode": "4100", 
+      "source": "7732074", 
+      "street": "Avenue des Sillons"
+    }, 
+    {
+      "hnrlbls": [
         "13"
       ], 
       "housenumber": "13", 
       "lat": 50.571405782897, 
       "lon": 5.541314251549, 
+      "municipality": "Seraing", 
+      "pcode": "4100", 
+      "source": "7732074", 
+      "street": "Avenue des Sillons"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "21", 
+        "31"
+      ], 
+      "hnrlbls": [
+        "14"
+      ], 
+      "housenumber": "14", 
+      "lat": 50.571193020519, 
+      "lon": 5.540854092663, 
       "municipality": "Seraing", 
       "pcode": "4100", 
       "source": "7732074", 
@@ -97,6 +135,9 @@
       "street": "Avenue des Sillons"
     }, 
     {
+      "busnrs": [
+        "A12"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -125,8 +166,32 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 50.570913893912, 
-      "lon": 5.541146025083, 
+      "lat": 50.57082381202, 
+      "lon": 5.541162892181, 
+      "municipality": "Seraing", 
+      "pcode": "4100", 
+      "source": "7732074", 
+      "street": "Avenue des Sillons"
+    }, 
+    {
+      "hnrlbls": [
+        "24"
+      ], 
+      "housenumber": "24", 
+      "lat": 50.570761415982, 
+      "lon": 5.541393373089, 
+      "municipality": "Seraing", 
+      "pcode": "4100", 
+      "source": "7732074", 
+      "street": "Avenue des Sillons"
+    }, 
+    {
+      "hnrlbls": [
+        "26"
+      ], 
+      "housenumber": "26", 
+      "lat": 50.570608787372, 
+      "lon": 5.541565779244, 
       "municipality": "Seraing", 
       "pcode": "4100", 
       "source": "7732074", 
@@ -158,6 +223,18 @@
     }, 
     {
       "hnrlbls": [
+        "30"
+      ], 
+      "housenumber": "30", 
+      "lat": 50.570329926951, 
+      "lon": 5.541730437184, 
+      "municipality": "Seraing", 
+      "pcode": "4100", 
+      "source": "7732074", 
+      "street": "Avenue des Sillons"
+    }, 
+    {
+      "hnrlbls": [
         "31"
       ], 
       "housenumber": "31", 
@@ -170,11 +247,35 @@
     }, 
     {
       "hnrlbls": [
+        "32"
+      ], 
+      "housenumber": "32", 
+      "lat": 50.570164612283, 
+      "lon": 5.541851923811, 
+      "municipality": "Seraing", 
+      "pcode": "4100", 
+      "source": "7732074", 
+      "street": "Avenue des Sillons"
+    }, 
+    {
+      "hnrlbls": [
         "33"
       ], 
       "housenumber": "33", 
       "lat": 50.570403971546, 
       "lon": 5.542252955971, 
+      "municipality": "Seraing", 
+      "pcode": "4100", 
+      "source": "7732074", 
+      "street": "Avenue des Sillons"
+    }, 
+    {
+      "hnrlbls": [
+        "34"
+      ], 
+      "housenumber": "34", 
+      "lat": 50.570117518729, 
+      "lon": 5.541892311215, 
       "municipality": "Seraing", 
       "pcode": "4100", 
       "source": "7732074", 
@@ -218,6 +319,30 @@
     }, 
     {
       "hnrlbls": [
+        "39A"
+      ], 
+      "housenumber": "39A", 
+      "lat": 50.569737100003, 
+      "lon": 5.542718127997, 
+      "municipality": "Seraing", 
+      "pcode": "4100", 
+      "source": "7732074", 
+      "street": "Avenue des Sillons"
+    }, 
+    {
+      "hnrlbls": [
+        "39B"
+      ], 
+      "housenumber": "39B", 
+      "lat": 50.569563240411, 
+      "lon": 5.54279673314, 
+      "municipality": "Seraing", 
+      "pcode": "4100", 
+      "source": "7732074", 
+      "street": "Avenue des Sillons"
+    }, 
+    {
+      "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
@@ -230,11 +355,59 @@
     }, 
     {
       "hnrlbls": [
+        "41"
+      ], 
+      "housenumber": "41", 
+      "lat": 50.569294793572, 
+      "lon": 5.543000550459, 
+      "municipality": "Seraing", 
+      "pcode": "4100", 
+      "source": "7732074", 
+      "street": "Avenue des Sillons"
+    }, 
+    {
+      "hnrlbls": [
+        "43"
+      ], 
+      "housenumber": "43", 
+      "lat": 50.569131557475, 
+      "lon": 5.543052959742, 
+      "municipality": "Seraing", 
+      "pcode": "4100", 
+      "source": "7732074", 
+      "street": "Avenue des Sillons"
+    }, 
+    {
+      "hnrlbls": [
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 50.569131557475, 
-      "lon": 5.543052959742, 
+      "lat": 50.568950608672, 
+      "lon": 5.543060762691, 
+      "municipality": "Seraing", 
+      "pcode": "4100", 
+      "source": "7732074", 
+      "street": "Avenue des Sillons"
+    }, 
+    {
+      "hnrlbls": [
+        "46"
+      ], 
+      "housenumber": "46", 
+      "lat": 50.569806481862, 
+      "lon": 5.542062766785, 
+      "municipality": "Seraing", 
+      "pcode": "4100", 
+      "source": "7732074", 
+      "street": "Avenue des Sillons"
+    }, 
+    {
+      "hnrlbls": [
+        "47"
+      ], 
+      "housenumber": "47", 
+      "lat": 50.5688121839, 
+      "lon": 5.543105135238, 
       "municipality": "Seraing", 
       "pcode": "4100", 
       "source": "7732074", 
@@ -247,6 +420,18 @@
       "housenumber": "48", 
       "lat": 50.56967246275, 
       "lon": 5.542115579181, 
+      "municipality": "Seraing", 
+      "pcode": "4100", 
+      "source": "7732074", 
+      "street": "Avenue des Sillons"
+    }, 
+    {
+      "hnrlbls": [
+        "49"
+      ], 
+      "housenumber": "49", 
+      "lat": 50.568633105987, 
+      "lon": 5.543241131338, 
       "municipality": "Seraing", 
       "pcode": "4100", 
       "source": "7732074", 
@@ -434,11 +619,35 @@
     }, 
     {
       "hnrlbls": [
+        "70"
+      ], 
+      "housenumber": "70", 
+      "lat": 50.56841038446, 
+      "lon": 5.542685857784, 
+      "municipality": "Seraing", 
+      "pcode": "4100", 
+      "source": "7732074", 
+      "street": "Avenue des Sillons"
+    }, 
+    {
+      "hnrlbls": [
         "71"
       ], 
       "housenumber": "71", 
       "lat": 50.567102388122, 
       "lon": 5.543353708664, 
+      "municipality": "Seraing", 
+      "pcode": "4100", 
+      "source": "7732074", 
+      "street": "Avenue des Sillons"
+    }, 
+    {
+      "hnrlbls": [
+        "72"
+      ], 
+      "housenumber": "72", 
+      "lat": 50.568219024914, 
+      "lon": 5.542742362826, 
       "municipality": "Seraing", 
       "pcode": "4100", 
       "source": "7732074", 
@@ -554,6 +763,18 @@
     }, 
     {
       "hnrlbls": [
+        "88"
+      ], 
+      "housenumber": "88", 
+      "lat": 50.567425618586, 
+      "lon": 5.542927577845, 
+      "municipality": "Seraing", 
+      "pcode": "4100", 
+      "source": "7732074", 
+      "street": "Avenue des Sillons"
+    }, 
+    {
+      "hnrlbls": [
         "89"
       ], 
       "housenumber": "89", 
@@ -578,11 +799,71 @@
     }, 
     {
       "hnrlbls": [
+        "90"
+      ], 
+      "housenumber": "90", 
+      "lat": 50.567341206653, 
+      "lon": 5.542923612884, 
+      "municipality": "Seraing", 
+      "pcode": "4100", 
+      "source": "7732074", 
+      "street": "Avenue des Sillons"
+    }, 
+    {
+      "hnrlbls": [
         "91"
       ], 
       "housenumber": "91", 
       "lat": 50.565987389607, 
       "lon": 5.543298934826, 
+      "municipality": "Seraing", 
+      "pcode": "4100", 
+      "source": "7732074", 
+      "street": "Avenue des Sillons"
+    }, 
+    {
+      "hnrlbls": [
+        "92"
+      ], 
+      "housenumber": "92", 
+      "lat": 50.567252529327, 
+      "lon": 5.542929813631, 
+      "municipality": "Seraing", 
+      "pcode": "4100", 
+      "source": "7732074", 
+      "street": "Avenue des Sillons"
+    }, 
+    {
+      "hnrlbls": [
+        "94"
+      ], 
+      "housenumber": "94", 
+      "lat": 50.567164587304, 
+      "lon": 5.542922025572, 
+      "municipality": "Seraing", 
+      "pcode": "4100", 
+      "source": "7732074", 
+      "street": "Avenue des Sillons"
+    }, 
+    {
+      "hnrlbls": [
+        "96"
+      ], 
+      "housenumber": "96", 
+      "lat": 50.567077824205, 
+      "lon": 5.542915201387, 
+      "municipality": "Seraing", 
+      "pcode": "4100", 
+      "source": "7732074", 
+      "street": "Avenue des Sillons"
+    }, 
+    {
+      "hnrlbls": [
+        "98"
+      ], 
+      "housenumber": "98", 
+      "lat": 50.566999386708, 
+      "lon": 5.542908582664, 
       "municipality": "Seraing", 
       "pcode": "4100", 
       "source": "7732074", 

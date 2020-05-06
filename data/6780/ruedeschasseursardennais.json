@@ -133,6 +133,10 @@
       "street": "Rue des Chasseurs-Ardennais"
     }, 
     {
+      "busnrs": [
+        "1/1", 
+        "2"
+      ], 
       "hnrlbls": [
         "20A"
       ], 
@@ -217,6 +221,9 @@
       "street": "Rue des Chasseurs-Ardennais"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -229,12 +236,31 @@
       "street": "Rue des Chasseurs-Ardennais"
     }, 
     {
+      "busnrs": [
+        "2/1"
+      ], 
       "hnrlbls": [
         "27A"
       ], 
       "housenumber": "27A", 
-      "lat": 49.594233812738, 
-      "lon": 5.816263575424, 
+      "lat": 49.594228807656, 
+      "lon": 5.816320522978, 
+      "municipality": "Messancy", 
+      "pcode": "6780", 
+      "source": "7742264", 
+      "street": "Rue des Chasseurs-Ardennais"
+    }, 
+    {
+      "busnrs": [
+        "1/1", 
+        "2/1"
+      ], 
+      "hnrlbls": [
+        "27B"
+      ], 
+      "housenumber": "27B", 
+      "lat": 49.594219817266, 
+      "lon": 5.816208257237, 
       "municipality": "Messancy", 
       "pcode": "6780", 
       "source": "7742264", 
@@ -401,14 +427,18 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 49.592931488526, 
-      "lon": 5.816754221819, 
+      "lat": 49.592953759486, 
+      "lon": 5.816742812631, 
       "municipality": "Messancy", 
       "pcode": "6780", 
       "source": "7742264", 
       "street": "Rue des Chasseurs-Ardennais"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "40"
       ], 
@@ -421,6 +451,10 @@
       "street": "Rue des Chasseurs-Ardennais"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "1/1"
+      ], 
       "hnrlbls": [
         "42"
       ], 
@@ -439,6 +473,30 @@
       "housenumber": "44", 
       "lat": 49.594809610634, 
       "lon": 5.816440909682, 
+      "municipality": "Messancy", 
+      "pcode": "6780", 
+      "source": "7742264", 
+      "street": "Rue des Chasseurs-Ardennais"
+    }, 
+    {
+      "hnrlbls": [
+        "48"
+      ], 
+      "housenumber": "48", 
+      "lat": 49.595001265293, 
+      "lon": 5.816409072696, 
+      "municipality": "Messancy", 
+      "pcode": "6780", 
+      "source": "7742264", 
+      "street": "Rue des Chasseurs-Ardennais"
+    }, 
+    {
+      "hnrlbls": [
+        "4A"
+      ], 
+      "housenumber": "4A", 
+      "lat": 49.592892574863, 
+      "lon": 5.816749885948, 
       "municipality": "Messancy", 
       "pcode": "6780", 
       "source": "7742264", 

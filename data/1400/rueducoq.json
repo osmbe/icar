@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "ABt2"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -181,6 +184,9 @@
       "street": "Rue du Coq"
     }, 
     {
+      "busnrs": [
+        "0002"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -205,6 +211,11 @@
       "street": "Rue du Coq"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "Bt01", 
+        "Bt03"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -230,6 +241,18 @@
     }, 
     {
       "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 50.596357673917, 
+      "lon": 4.322901936362, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703099", 
+      "street": "Rue du Coq"
+    }, 
+    {
+      "hnrlbls": [
         "31"
       ], 
       "housenumber": "31", 
@@ -247,6 +270,18 @@
       "housenumber": "4", 
       "lat": 50.596327089015, 
       "lon": 4.32271464313, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703099", 
+      "street": "Rue du Coq"
+    }, 
+    {
+      "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 50.59629709639, 
+      "lon": 4.322909275227, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703099", 

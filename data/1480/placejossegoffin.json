@@ -25,6 +25,14 @@
       "street": "Place Josse Goffin"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "R01", 
+        "R02"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -37,6 +45,12 @@
       "street": "Place Josse Goffin"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "102", 
+        "R01", 
+        "R02"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -61,6 +75,10 @@
       "street": "Place Josse Goffin"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "R01"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -97,6 +115,10 @@
       "street": "Place Josse Goffin"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "R01"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -109,6 +131,10 @@
       "street": "Place Josse Goffin"
     }, 
     {
+      "busnrs": [
+        "A101", 
+        "A201"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -173,8 +199,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 50.688991797713, 
-      "lon": 4.22111141848, 
+      "lat": 50.689042575837, 
+      "lon": 4.221092537313, 
       "municipality": "Tubize", 
       "pcode": "1480", 
       "source": "7703782", 
@@ -185,8 +211,8 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 50.689003155803, 
-      "lon": 4.221193166861, 
+      "lat": 50.689054791013, 
+      "lon": 4.221148087932, 
       "municipality": "Tubize", 
       "pcode": "1480", 
       "source": "7703782", 
@@ -205,12 +231,18 @@
       "street": "Place Josse Goffin"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "201", 
+        "R01", 
+        "R02"
+      ], 
       "hnrlbls": [
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 50.689014421156, 
-      "lon": 4.22133714144, 
+      "lat": 50.689091601232, 
+      "lon": 4.221360124643, 
       "municipality": "Tubize", 
       "pcode": "1480", 
       "source": "7703782", 
@@ -289,6 +321,9 @@
       "street": "Place Josse Goffin"
     }, 
     {
+      "busnrs": [
+        "101"
+      ], 
       "hnrlbls": [
         "34"
       ], 

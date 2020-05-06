@@ -1,12 +1,17 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A011", 
+        "B001", 
+        "C011"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.202469218644, 
-      "lon": 5.223666533306, 
+      "lat": 50.202658761521, 
+      "lon": 5.223729074022, 
       "municipality": "Rochefort", 
       "pcode": "5580", 
       "source": "7750432", 
@@ -29,8 +34,20 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 50.204223497148, 
-      "lon": 5.223791586685, 
+      "lat": 50.204245457248, 
+      "lon": 5.223781603277, 
+      "municipality": "Rochefort", 
+      "pcode": "5580", 
+      "source": "7750432", 
+      "street": "Rue de Serinchamps"
+    }, 
+    {
+      "hnrlbls": [
+        "15"
+      ], 
+      "housenumber": "15", 
+      "lat": 50.204600745586, 
+      "lon": 5.223775831785, 
       "municipality": "Rochefort", 
       "pcode": "5580", 
       "source": "7750432", 
@@ -97,6 +114,10 @@
       "street": "Rue de Serinchamps"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -149,8 +170,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.203128683237, 
-      "lon": 5.223704246962, 
+      "lat": 50.203115209316, 
+      "lon": 5.223724761438, 
       "municipality": "Rochefort", 
       "pcode": "5580", 
       "source": "7750432", 

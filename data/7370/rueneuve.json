@@ -25,12 +25,20 @@
       "street": "Rue Neuve"
     }, 
     {
+      "busnrs": [
+        "bt1", 
+        "bt2", 
+        "bt3", 
+        "bt4", 
+        "bt5", 
+        "bt6"
+      ], 
       "hnrlbls": [
         "10C"
       ], 
       "housenumber": "10C", 
-      "lat": 50.387552002282, 
-      "lon": 3.754474484298, 
+      "lat": 50.387920868174, 
+      "lon": 3.754489458864, 
       "municipality": "Dour", 
       "pcode": "7370", 
       "source": "7712261", 
@@ -109,6 +117,9 @@
       "street": "Rue Neuve"
     }, 
     {
+      "busnrs": [
+        "Bte1"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -194,9 +205,9 @@
     }, 
     {
       "hnrlbls": [
-        "27"
+        "29"
       ], 
-      "housenumber": "27", 
+      "housenumber": "29", 
       "lat": 50.387345225996, 
       "lon": 3.754970777233, 
       "municipality": "Dour", 

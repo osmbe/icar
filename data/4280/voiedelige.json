@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "000A", 
+        "000B", 
+        "000D"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +19,9 @@
       "street": "Voie de Li\u00e8ge"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -25,6 +34,10 @@
       "street": "Voie de Li\u00e8ge"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "000B"
+      ], 
       "hnrlbls": [
         "3"
       ], 

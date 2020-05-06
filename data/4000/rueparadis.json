@@ -1,12 +1,31 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
       "lat": 50.627579959797, 
       "lon": 5.57153355541, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731229", 
+      "street": "Rue Paradis"
+    }, 
+    {
+      "hnrlbls": [
+        "100"
+      ], 
+      "housenumber": "100", 
+      "lat": 50.625986064728, 
+      "lon": 5.569274915601, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731229", 
@@ -25,6 +44,13 @@
       "street": "Rue Paradis"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "104"
       ], 
@@ -37,6 +63,12 @@
       "street": "Rue Paradis"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "106"
       ], 
@@ -97,6 +129,14 @@
       "street": "Rue Paradis"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "116"
       ], 
@@ -109,6 +149,12 @@
       "street": "Rue Paradis"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "118"
       ], 
@@ -145,6 +191,10 @@
       "street": "Rue Paradis"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "124"
       ], 
@@ -169,6 +219,12 @@
       "street": "Rue Paradis"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "128"
       ], 
@@ -181,6 +237,14 @@
       "street": "Rue Paradis"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "130"
       ], 
@@ -193,12 +257,43 @@
       "street": "Rue Paradis"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0033"
+      ], 
       "hnrlbls": [
         "132"
       ], 
       "housenumber": "132", 
       "lat": 50.625486497872, 
       "lon": 5.567079123146, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731229", 
+      "street": "Rue Paradis"
+    }, 
+    {
+      "hnrlbls": [
+        "134"
+      ], 
+      "housenumber": "134", 
+      "lat": 50.62546331563, 
+      "lon": 5.567003267514, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731229", 
+      "street": "Rue Paradis"
+    }, 
+    {
+      "hnrlbls": [
+        "136"
+      ], 
+      "housenumber": "136", 
+      "lat": 50.625458387133, 
+      "lon": 5.566956130512, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731229", 
@@ -278,6 +373,78 @@
     }, 
     {
       "hnrlbls": [
+        "28"
+      ], 
+      "housenumber": "28", 
+      "lat": 50.627349555009, 
+      "lon": 5.571223649051, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731229", 
+      "street": "Rue Paradis"
+    }, 
+    {
+      "hnrlbls": [
+        "30"
+      ], 
+      "housenumber": "30", 
+      "lat": 50.627393367296, 
+      "lon": 5.571273531868, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731229", 
+      "street": "Rue Paradis"
+    }, 
+    {
+      "hnrlbls": [
+        "32"
+      ], 
+      "housenumber": "32", 
+      "lat": 50.627432551995, 
+      "lon": 5.571318773588, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731229", 
+      "street": "Rue Paradis"
+    }, 
+    {
+      "hnrlbls": [
+        "34"
+      ], 
+      "housenumber": "34", 
+      "lat": 50.627470687155, 
+      "lon": 5.571361161586, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731229", 
+      "street": "Rue Paradis"
+    }, 
+    {
+      "hnrlbls": [
+        "36"
+      ], 
+      "housenumber": "36", 
+      "lat": 50.627509438405, 
+      "lon": 5.571404837528, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731229", 
+      "street": "Rue Paradis"
+    }, 
+    {
+      "hnrlbls": [
+        "38"
+      ], 
+      "housenumber": "38", 
+      "lat": 50.62755072209, 
+      "lon": 5.571455787075, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731229", 
+      "street": "Rue Paradis"
+    }, 
+    {
+      "hnrlbls": [
         "40"
       ], 
       "housenumber": "40", 
@@ -314,6 +481,18 @@
     }, 
     {
       "hnrlbls": [
+        "46"
+      ], 
+      "housenumber": "46", 
+      "lat": 50.627126852442, 
+      "lon": 5.571074503352, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731229", 
+      "street": "Rue Paradis"
+    }, 
+    {
+      "hnrlbls": [
         "50"
       ], 
       "housenumber": "50", 
@@ -325,6 +504,49 @@
       "street": "Rue Paradis"
     }, 
     {
+      "hnrlbls": [
+        "52"
+      ], 
+      "housenumber": "52", 
+      "lat": 50.626992965779, 
+      "lon": 5.570909528243, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731229", 
+      "street": "Rue Paradis"
+    }, 
+    {
+      "hnrlbls": [
+        "54"
+      ], 
+      "housenumber": "54", 
+      "lat": 50.626953610275, 
+      "lon": 5.570854671055, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731229", 
+      "street": "Rue Paradis"
+    }, 
+    {
+      "hnrlbls": [
+        "56"
+      ], 
+      "housenumber": "56", 
+      "lat": 50.626914872314, 
+      "lon": 5.570800960495, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731229", 
+      "street": "Rue Paradis"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "58"
       ], 
@@ -349,6 +571,14 @@
       "street": "Rue Paradis"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "62"
       ], 
@@ -361,6 +591,15 @@
       "street": "Rue Paradis"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0032", 
+        "0033"
+      ], 
       "hnrlbls": [
         "64"
       ], 
@@ -373,6 +612,16 @@
       "street": "Rue Paradis"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0015", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "66"
       ], 
@@ -397,6 +646,40 @@
       "street": "Rue Paradis"
     }, 
     {
+      "busnrs": [
+        "0011"
+      ], 
+      "hnrlbls": [
+        "74"
+      ], 
+      "housenumber": "74", 
+      "lat": 50.626416505945, 
+      "lon": 5.570214813205, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731229", 
+      "street": "Rue Paradis"
+    }, 
+    {
+      "hnrlbls": [
+        "76"
+      ], 
+      "housenumber": "76", 
+      "lat": 50.626372091288, 
+      "lon": 5.570170995107, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731229", 
+      "street": "Rue Paradis"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "78"
       ], 
@@ -421,6 +704,13 @@
       "street": "Rue Paradis"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "80"
       ], 
@@ -433,6 +723,31 @@
       "street": "Rue Paradis"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0015", 
+        "0016", 
+        "0017", 
+        "0018", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024", 
+        "0031", 
+        "0032", 
+        "0033", 
+        "0034"
+      ], 
       "hnrlbls": [
         "82"
       ], 
@@ -445,6 +760,12 @@
       "street": "Rue Paradis"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "84"
       ], 
@@ -457,12 +778,33 @@
       "street": "Rue Paradis"
     }, 
     {
+      "busnrs": [
+        "A002", 
+        "A003", 
+        "A011", 
+        "A012", 
+        "A021", 
+        "A022", 
+        "B001"
+      ], 
       "hnrlbls": [
         "86"
       ], 
       "housenumber": "86", 
       "lat": 50.626151796277, 
       "lon": 5.569856894057, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731229", 
+      "street": "Rue Paradis"
+    }, 
+    {
+      "hnrlbls": [
+        "88"
+      ], 
+      "housenumber": "88", 
+      "lat": 50.626359443336, 
+      "lon": 5.569503574644, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731229", 
@@ -493,6 +835,12 @@
       "street": "Rue Paradis"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "94"
       ], 
@@ -505,6 +853,12 @@
       "street": "Rue Paradis"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "96"
       ], 
@@ -517,6 +871,13 @@
       "street": "Rue Paradis"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "98"
       ], 

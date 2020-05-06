@@ -13,6 +13,9 @@
       "street": "Rue du Vieux Ch\u00e2teau"
     }, 
     {
+      "busnrs": [
+        "Bte3"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -31,18 +34,6 @@
       "housenumber": "12", 
       "lat": 50.615778311785, 
       "lon": 4.696709436067, 
-      "municipality": "Walhain", 
-      "pcode": "1457", 
-      "source": "7707171", 
-      "street": "Rue du Vieux Ch\u00e2teau"
-    }, 
-    {
-      "hnrlbls": [
-        "13"
-      ], 
-      "housenumber": "13", 
-      "lat": 50.616375081862, 
-      "lon": 4.696369938754, 
       "municipality": "Walhain", 
       "pcode": "1457", 
       "source": "7707171", 
@@ -85,6 +76,10 @@
       "street": "Rue du Vieux Ch\u00e2teau"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2"
+      ], 
       "hnrlbls": [
         "21"
       ], 

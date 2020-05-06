@@ -61,6 +61,12 @@
       "street": "Rue Germain Michiels"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -229,6 +235,10 @@
       "street": "Rue Germain Michiels"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "36"
       ], 
@@ -253,12 +263,21 @@
       "street": "Rue Germain Michiels"
     }, 
     {
+      "busnrs": [
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0009", 
+        "0010", 
+        "0011"
+      ], 
       "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.237433515649, 
-      "lon": 4.240431957885, 
+      "lat": 50.23741977409, 
+      "lon": 4.240374508198, 
       "municipality": "Beaumont", 
       "pcode": "6500", 
       "source": "7719396", 
@@ -401,8 +420,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.237835255408, 
-      "lon": 4.24110014722, 
+      "lat": 50.237440554683, 
+      "lon": 4.24041840494, 
       "municipality": "Beaumont", 
       "pcode": "6500", 
       "source": "7719396", 

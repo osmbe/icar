@@ -13,6 +13,12 @@
       "street": "Rue des Oblats"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -37,6 +43,12 @@
       "street": "Rue des Oblats"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -158,11 +170,39 @@
     }, 
     {
       "hnrlbls": [
+        "21"
+      ], 
+      "housenumber": "21", 
+      "lat": 50.630465456521, 
+      "lon": 5.589257851074, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730681", 
+      "street": "Rue des Oblats"
+    }, 
+    {
+      "hnrlbls": [
         "22"
       ], 
       "housenumber": "22", 
       "lat": 50.630058808513, 
       "lon": 5.589818349125, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730681", 
+      "street": "Rue des Oblats"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0031"
+      ], 
+      "hnrlbls": [
+        "23"
+      ], 
+      "housenumber": "23", 
+      "lat": 50.630471527037, 
+      "lon": 5.589399511741, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4030", 
       "source": "7730681", 
@@ -217,6 +257,12 @@
       "street": "Rue des Oblats"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "33"
       ], 
@@ -241,6 +287,10 @@
       "street": "Rue des Oblats"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -253,6 +303,16 @@
       "street": "Rue des Oblats"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "5"
       ], 

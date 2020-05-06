@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +17,10 @@
       "street": "Tienne Maquet"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "000B"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -101,14 +109,17 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.442453014985, 
-      "lon": 4.851941555234, 
+      "lat": 50.44483614519, 
+      "lon": 4.853431163129, 
       "municipality": "Namur", 
       "pcode": "5000", 
       "source": "7754685", 
       "street": "Tienne Maquet"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "6"
       ], 

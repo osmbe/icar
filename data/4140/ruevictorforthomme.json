@@ -13,6 +13,9 @@
       "street": "Rue Victor Forthomme"
     }, 
     {
+      "busnrs": [
+        "Bis0"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -157,12 +160,30 @@
       "street": "Rue Victor Forthomme"
     }, 
     {
+      "busnrs": [
+        "Ap.1", 
+        "Ap.2", 
+        "Rez0", 
+        "Stud"
+      ], 
       "hnrlbls": [
         "23"
       ], 
       "housenumber": "23", 
       "lat": 50.489519733152, 
       "lon": 5.645855878992, 
+      "municipality": "Sprimont", 
+      "pcode": "4140", 
+      "source": "7733165", 
+      "street": "Rue Victor Forthomme"
+    }, 
+    {
+      "hnrlbls": [
+        "23A"
+      ], 
+      "housenumber": "23A", 
+      "lat": 50.489126687133, 
+      "lon": 5.645885422996, 
       "municipality": "Sprimont", 
       "pcode": "4140", 
       "source": "7733165", 
@@ -421,6 +442,9 @@
       "street": "Rue Victor Forthomme"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "47"
       ], 
@@ -553,6 +577,9 @@
       "street": "Rue Victor Forthomme"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "60"
       ], 
@@ -607,6 +634,18 @@
       "housenumber": "66", 
       "lat": 50.490841205689, 
       "lon": 5.641130653518, 
+      "municipality": "Sprimont", 
+      "pcode": "4140", 
+      "source": "7733165", 
+      "street": "Rue Victor Forthomme"
+    }, 
+    {
+      "hnrlbls": [
+        "67"
+      ], 
+      "housenumber": "67", 
+      "lat": 50.49064130224, 
+      "lon": 5.636541724083, 
       "municipality": "Sprimont", 
       "pcode": "4140", 
       "source": "7733165", 
@@ -721,6 +760,9 @@
       "street": "Rue Victor Forthomme"
     }, 
     {
+      "busnrs": [
+        "Ap.1"
+      ], 
       "hnrlbls": [
         "86"
       ], 
@@ -737,8 +779,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.489391126617, 
-      "lon": 5.647551605714, 
+      "lat": 50.490782887399, 
+      "lon": 5.639994067458, 
       "municipality": "Sprimont", 
       "pcode": "4140", 
       "source": "7733165", 

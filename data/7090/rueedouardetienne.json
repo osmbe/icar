@@ -73,6 +73,11 @@
       "street": "Rue Edouard Etienne"
     }, 
     {
+      "busnrs": [
+        "Bt.2", 
+        "Bt.3", 
+        "R.C."
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -169,6 +174,18 @@
       "street": "Rue Edouard Etienne"
     }, 
     {
+      "busnrs": [
+        "Bt.1", 
+        "Bt.2", 
+        "Bt.3", 
+        "Bt.5", 
+        "Bt.6", 
+        "Bt.7", 
+        "Bt.8", 
+        "Bt.9", 
+        "E3B4", 
+        "Rez."
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -185,8 +202,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 50.610711408376, 
-      "lon": 4.138254708546, 
+      "lat": 50.610740227048, 
+      "lon": 4.138243353177, 
       "municipality": "Braine-le-Comte", 
       "pcode": "7090", 
       "source": "7716663", 
@@ -253,6 +270,16 @@
       "street": "Rue Edouard Etienne"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8"
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -305,8 +332,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 50.61097815887, 
-      "lon": 4.138499926125, 
+      "lat": 50.610936298164, 
+      "lon": 4.138501624322, 
       "municipality": "Braine-le-Comte", 
       "pcode": "7090", 
       "source": "7716663", 
@@ -325,6 +352,10 @@
       "street": "Rue Edouard Etienne"
     }, 
     {
+      "busnrs": [
+        "Et.1", 
+        "Et.2"
+      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -337,6 +368,9 @@
       "street": "Rue Edouard Etienne"
     }, 
     {
+      "busnrs": [
+        "Et.2"
+      ], 
       "hnrlbls": [
         "36"
       ], 
@@ -349,6 +383,9 @@
       "street": "Rue Edouard Etienne"
     }, 
     {
+      "busnrs": [
+        "Et.2"
+      ], 
       "hnrlbls": [
         "37"
       ], 
@@ -397,18 +434,12 @@
       "street": "Rue Edouard Etienne"
     }, 
     {
-      "hnrlbls": [
-        "40"
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
       ], 
-      "housenumber": "40", 
-      "lat": 50.610862984946, 
-      "lon": 4.139185309395, 
-      "municipality": "Braine-le-Comte", 
-      "pcode": "7090", 
-      "source": "7716663", 
-      "street": "Rue Edouard Etienne"
-    }, 
-    {
       "hnrlbls": [
         "41"
       ], 
@@ -425,8 +456,8 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 50.610590068936, 
-      "lon": 4.139320540866, 
+      "lat": 50.610598642886, 
+      "lon": 4.139326106935, 
       "municipality": "Braine-le-Comte", 
       "pcode": "7090", 
       "source": "7716663", 
@@ -457,18 +488,9 @@
       "street": "Rue Edouard Etienne"
     }, 
     {
-      "hnrlbls": [
-        "48"
+      "busnrs": [
+        "Et.2"
       ], 
-      "housenumber": "48", 
-      "lat": 50.610809380129, 
-      "lon": 4.139645621519, 
-      "municipality": "Braine-le-Comte", 
-      "pcode": "7090", 
-      "source": "7716663", 
-      "street": "Rue Edouard Etienne"
-    }, 
-    {
       "hnrlbls": [
         "49"
       ], 
@@ -493,6 +515,10 @@
       "street": "Rue Edouard Etienne"
     }, 
     {
+      "busnrs": [
+        "Et.1", 
+        "R.C."
+      ], 
       "hnrlbls": [
         "50"
       ], 
@@ -506,23 +532,27 @@
     }, 
     {
       "hnrlbls": [
-        "51"
+        "52"
       ], 
-      "housenumber": "51", 
-      "lat": 50.610592953992, 
-      "lon": 4.139788418516, 
+      "housenumber": "52", 
+      "lat": 50.6107357084, 
+      "lon": 4.140138524925, 
       "municipality": "Braine-le-Comte", 
       "pcode": "7090", 
       "source": "7716663", 
       "street": "Rue Edouard Etienne"
     }, 
     {
-      "hnrlbls": [
-        "52"
+      "busnrs": [
+        "Et.1", 
+        "R.C."
       ], 
-      "housenumber": "52", 
-      "lat": 50.6107357084, 
-      "lon": 4.140138524925, 
+      "hnrlbls": [
+        "53"
+      ], 
+      "housenumber": "53", 
+      "lat": 50.610599283052, 
+      "lon": 4.139789364212, 
       "municipality": "Braine-le-Comte", 
       "pcode": "7090", 
       "source": "7716663", 
@@ -553,6 +583,9 @@
       "street": "Rue Edouard Etienne"
     }, 
     {
+      "busnrs": [
+        "Et.1"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -589,12 +622,16 @@
       "street": "Rue Edouard Etienne"
     }, 
     {
+      "busnrs": [
+        "Et.2", 
+        "R.C."
+      ], 
       "hnrlbls": [
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.610537259419, 
-      "lon": 4.137615325972, 
+      "lat": 50.610553895921, 
+      "lon": 4.137608235711, 
       "municipality": "Braine-le-Comte", 
       "pcode": "7090", 
       "source": "7716663", 

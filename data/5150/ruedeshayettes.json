@@ -265,6 +265,10 @@
       "street": "Rue des Hayettes"
     }, 
     {
+      "busnrs": [
+        "C/01", 
+        "C/02"
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -305,20 +309,8 @@
         "29C/2"
       ], 
       "housenumber": "29C/2", 
-      "lat": 50.423059865642, 
-      "lon": 4.751678636293, 
-      "municipality": "Floreffe", 
-      "pcode": "5150", 
-      "source": "7752331", 
-      "street": "Rue des Hayettes"
-    }, 
-    {
-      "hnrlbls": [
-        "29C2"
-      ], 
-      "housenumber": "29C2", 
-      "lat": 50.423142228789, 
-      "lon": 4.751720612862, 
+      "lat": 50.423082681097, 
+      "lon": 4.75168477778, 
       "municipality": "Floreffe", 
       "pcode": "5150", 
       "source": "7752331", 
@@ -337,6 +329,9 @@
       "street": "Rue des Hayettes"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -362,11 +357,23 @@
     }, 
     {
       "hnrlbls": [
+        "30A"
+      ], 
+      "housenumber": "30A", 
+      "lat": 50.42264656539, 
+      "lon": 4.750897080124, 
+      "municipality": "Floreffe", 
+      "pcode": "5150", 
+      "source": "7752331", 
+      "street": "Rue des Hayettes"
+    }, 
+    {
+      "hnrlbls": [
         "30B"
       ], 
       "housenumber": "30B", 
-      "lat": 50.422615756126, 
-      "lon": 4.750885317301, 
+      "lat": 50.422427675395, 
+      "lon": 4.750789970954, 
       "municipality": "Floreffe", 
       "pcode": "5150", 
       "source": "7752331", 
@@ -379,18 +386,6 @@
       "housenumber": "31", 
       "lat": 50.423546950962, 
       "lon": 4.751907044377, 
-      "municipality": "Floreffe", 
-      "pcode": "5150", 
-      "source": "7752331", 
-      "street": "Rue des Hayettes"
-    }, 
-    {
-      "hnrlbls": [
-        "31A"
-      ], 
-      "housenumber": "31A", 
-      "lat": 50.42241510742, 
-      "lon": 4.750778028941, 
       "municipality": "Floreffe", 
       "pcode": "5150", 
       "source": "7752331", 

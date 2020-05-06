@@ -1,6 +1,22 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008", 
+        "0009", 
+        "0010", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -146,6 +162,18 @@
     }, 
     {
       "hnrlbls": [
+        "122"
+      ], 
+      "housenumber": "122", 
+      "lat": 50.729569447672, 
+      "lon": 3.324585851087, 
+      "municipality": "Mouscron", 
+      "pcode": "7711", 
+      "source": "7715544", 
+      "street": "Boulevard des Canadiens"
+    }, 
+    {
+      "hnrlbls": [
         "123"
       ], 
       "housenumber": "123", 
@@ -161,8 +189,8 @@
         "124"
       ], 
       "housenumber": "124", 
-      "lat": 50.729423230228, 
-      "lon": 3.325291694002, 
+      "lat": 50.729496357066, 
+      "lon": 3.325219716185, 
       "municipality": "Mouscron", 
       "pcode": "7711", 
       "source": "7715544", 
@@ -173,8 +201,8 @@
         "126"
       ], 
       "housenumber": "126", 
-      "lat": 50.729411397277, 
-      "lon": 3.325491277099, 
+      "lat": 50.72947964767, 
+      "lon": 3.325505646546, 
       "municipality": "Mouscron", 
       "pcode": "7711", 
       "source": "7715544", 
@@ -185,8 +213,8 @@
         "128"
       ], 
       "housenumber": "128", 
-      "lat": 50.729409056006, 
-      "lon": 3.325739053277, 
+      "lat": 50.729460809746, 
+      "lon": 3.325752555574, 
       "municipality": "Mouscron", 
       "pcode": "7711", 
       "source": "7715544", 
@@ -206,11 +234,35 @@
     }, 
     {
       "hnrlbls": [
+        "130"
+      ], 
+      "housenumber": "130", 
+      "lat": 50.729422191147, 
+      "lon": 3.325999085883, 
+      "municipality": "Mouscron", 
+      "pcode": "7711", 
+      "source": "7715544", 
+      "street": "Boulevard des Canadiens"
+    }, 
+    {
+      "hnrlbls": [
         "131"
       ], 
       "housenumber": "131", 
       "lat": 50.729783463416, 
       "lon": 3.326657663123, 
+      "municipality": "Mouscron", 
+      "pcode": "7711", 
+      "source": "7715544", 
+      "street": "Boulevard des Canadiens"
+    }, 
+    {
+      "hnrlbls": [
+        "132"
+      ], 
+      "housenumber": "132", 
+      "lat": 50.729389259434, 
+      "lon": 3.326307894235, 
       "municipality": "Mouscron", 
       "pcode": "7711", 
       "source": "7715544", 
@@ -338,9 +390,9 @@
     }, 
     {
       "hnrlbls": [
-        "19A000"
+        "19A"
       ], 
-      "housenumber": "19A000", 
+      "housenumber": "19A", 
       "lat": 50.729017652821, 
       "lon": 3.311716846082, 
       "municipality": "Mouscron", 
@@ -361,6 +413,9 @@
       "street": "Boulevard des Canadiens"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -482,9 +537,9 @@
     }, 
     {
       "hnrlbls": [
-        "32A000"
+        "32A"
       ], 
-      "housenumber": "32A000", 
+      "housenumber": "32A", 
       "lat": 50.728774392223, 
       "lon": 3.312766829501, 
       "municipality": "Mouscron", 
@@ -511,6 +566,18 @@
       "housenumber": "34", 
       "lat": 50.728867182055, 
       "lon": 3.313232998521, 
+      "municipality": "Mouscron", 
+      "pcode": "7711", 
+      "source": "7715544", 
+      "street": "Boulevard des Canadiens"
+    }, 
+    {
+      "hnrlbls": [
+        "35"
+      ], 
+      "housenumber": "35", 
+      "lat": 50.729537369635, 
+      "lon": 3.314687285309, 
       "municipality": "Mouscron", 
       "pcode": "7711", 
       "source": "7715544", 
@@ -578,6 +645,18 @@
     }, 
     {
       "hnrlbls": [
+        "43"
+      ], 
+      "housenumber": "43", 
+      "lat": 50.729704183844, 
+      "lon": 3.315727184714, 
+      "municipality": "Mouscron", 
+      "pcode": "7711", 
+      "source": "7715544", 
+      "street": "Boulevard des Canadiens"
+    }, 
+    {
+      "hnrlbls": [
         "46"
       ], 
       "housenumber": "46", 
@@ -638,9 +717,9 @@
     }, 
     {
       "hnrlbls": [
-        "66B000"
+        "66B"
       ], 
-      "housenumber": "66B000", 
+      "housenumber": "66B", 
       "lat": 50.729422683815, 
       "lon": 3.317160067708, 
       "municipality": "Mouscron", 
@@ -686,9 +765,21 @@
     }, 
     {
       "hnrlbls": [
-        "69A000"
+        "69/1"
       ], 
-      "housenumber": "69A000", 
+      "housenumber": "69/1", 
+      "lat": 50.730153610899, 
+      "lon": 3.318804928805, 
+      "municipality": "Mouscron", 
+      "pcode": "7711", 
+      "source": "7715544", 
+      "street": "Boulevard des Canadiens"
+    }, 
+    {
+      "hnrlbls": [
+        "69A"
+      ], 
+      "housenumber": "69A", 
       "lat": 50.730138573426, 
       "lon": 3.319160268473, 
       "municipality": "Mouscron", 
@@ -698,9 +789,9 @@
     }, 
     {
       "hnrlbls": [
-        "69B000"
+        "69B"
       ], 
-      "housenumber": "69B000", 
+      "housenumber": "69B", 
       "lat": 50.730233753996, 
       "lon": 3.319632231899, 
       "municipality": "Mouscron", 
@@ -710,9 +801,21 @@
     }, 
     {
       "hnrlbls": [
-        "69E000"
+        "69D"
       ], 
-      "housenumber": "69E000", 
+      "housenumber": "69D", 
+      "lat": 50.730198244389, 
+      "lon": 3.320334079699, 
+      "municipality": "Mouscron", 
+      "pcode": "7711", 
+      "source": "7715544", 
+      "street": "Boulevard des Canadiens"
+    }, 
+    {
+      "hnrlbls": [
+        "69E"
+      ], 
+      "housenumber": "69E", 
       "lat": 50.730273286732, 
       "lon": 3.320900681045, 
       "municipality": "Mouscron", 

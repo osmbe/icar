@@ -25,6 +25,10 @@
       "street": "Rue Delloye-Matthieu"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0RCH"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -37,6 +41,10 @@
       "street": "Rue Delloye-Matthieu"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -49,6 +57,11 @@
       "street": "Rue Delloye-Matthieu"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0021"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -85,6 +98,9 @@
       "street": "Rue Delloye-Matthieu"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -101,8 +117,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.519465959857, 
-      "lon": 5.242617437967, 
+      "lat": 50.519523956044, 
+      "lon": 5.242122098921, 
       "municipality": "Huy", 
       "pcode": "4500", 
       "source": "7725550", 

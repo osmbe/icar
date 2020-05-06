@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -122,11 +125,23 @@
     }, 
     {
       "hnrlbls": [
+        "1A"
+      ], 
+      "housenumber": "1A", 
+      "lat": 50.603691838439, 
+      "lon": 4.340846227296, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703096", 
+      "street": "Rue du Ch\u00eane"
+    }, 
+    {
+      "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.603497456364, 
-      "lon": 4.340744658488, 
+      "lat": 50.603509339649, 
+      "lon": 4.340703538556, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703096", 
@@ -157,6 +172,9 @@
       "street": "Rue du Ch\u00eane"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -175,6 +193,18 @@
       "housenumber": "23", 
       "lat": 50.603142961781, 
       "lon": 4.341565875195, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703096", 
+      "street": "Rue du Ch\u00eane"
+    }, 
+    {
+      "hnrlbls": [
+        "23A"
+      ], 
+      "housenumber": "23A", 
+      "lat": 50.603097730791, 
+      "lon": 4.341619996594, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703096", 
@@ -245,8 +275,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 50.602931470076, 
-      "lon": 4.341879833033, 
+      "lat": 50.60295809396, 
+      "lon": 4.341807310456, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703096", 
@@ -259,6 +289,23 @@
       "housenumber": "3", 
       "lat": 50.603663033866, 
       "lon": 4.340894259195, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703096", 
+      "street": "Rue du Ch\u00eane"
+    }, 
+    {
+      "busnrs": [
+        "0003", 
+        "0004", 
+        "RDCH"
+      ], 
+      "hnrlbls": [
+        "31"
+      ], 
+      "housenumber": "31", 
+      "lat": 50.602906882591, 
+      "lon": 4.341885054943, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703096", 
@@ -365,8 +412,8 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.603590982663, 
-      "lon": 4.34106618923, 
+      "lat": 50.603580984592, 
+      "lon": 4.341034052006, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703096", 

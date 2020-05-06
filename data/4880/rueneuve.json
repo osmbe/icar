@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -37,6 +43,9 @@
       "street": "Rue Neuve"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -61,6 +70,10 @@
       "street": "Rue Neuve"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "3"
       ], 

@@ -1,12 +1,29 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A001", 
+        "A002", 
+        "A003"
+      ], 
       "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
       "lat": 50.712238127615, 
       "lon": 3.83754704334, 
+      "municipality": "Lessines", 
+      "pcode": "7860", 
+      "source": "7718117", 
+      "street": "Sentier Foubertsart"
+    }, 
+    {
+      "hnrlbls": [
+        "2B"
+      ], 
+      "housenumber": "2B", 
+      "lat": 50.712390262645, 
+      "lon": 3.838035949106, 
       "municipality": "Lessines", 
       "pcode": "7860", 
       "source": "7718117", 

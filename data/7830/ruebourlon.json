@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "BTE2", 
+        "Bte1"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -313,6 +317,9 @@
       "street": "Rue Bourlon"
     }, 
     {
+      "busnrs": [
+        "Bte1"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -649,12 +656,15 @@
       "street": "Rue Bourlon"
     }, 
     {
+      "busnrs": [
+        "Bte2"
+      ], 
       "hnrlbls": [
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 50.674217169238, 
-      "lon": 3.926119546453, 
+      "lat": 50.674071333925, 
+      "lon": 3.926264949517, 
       "municipality": "Silly", 
       "pcode": "7830", 
       "source": "7718319", 

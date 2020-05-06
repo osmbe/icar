@@ -29,8 +29,8 @@
         "103"
       ], 
       "housenumber": "103", 
-      "lat": 50.384495273259, 
-      "lon": 5.907127602994, 
+      "lat": 50.37810105566, 
+      "lon": 5.894613337966, 
       "municipality": "Stavelot", 
       "pcode": "4970", 
       "source": "7738142", 
@@ -41,8 +41,8 @@
         "105"
       ], 
       "housenumber": "105", 
-      "lat": 50.378028008323, 
-      "lon": 5.894911033078, 
+      "lat": 50.384460487415, 
+      "lon": 5.906712625061, 
       "municipality": "Stavelot", 
       "pcode": "4970", 
       "source": "7738142", 
@@ -109,6 +109,9 @@
       "street": "Route de Trois-Ponts"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -161,8 +164,8 @@
         "17B"
       ], 
       "housenumber": "17B", 
-      "lat": 50.386588354, 
-      "lon": 5.920412990248, 
+      "lat": 50.386515767792, 
+      "lon": 5.920390799122, 
       "municipality": "Stavelot", 
       "pcode": "4970", 
       "source": "7738142", 
@@ -193,6 +196,14 @@
       "street": "Route de Trois-Ponts"
     }, 
     {
+      "busnrs": [
+        "A013", 
+        "A3", 
+        "A4", 
+        "A5", 
+        "A6", 
+        "A7"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -470,6 +481,18 @@
     }, 
     {
       "hnrlbls": [
+        "46"
+      ], 
+      "housenumber": "46", 
+      "lat": 50.384897348039, 
+      "lon": 5.909539756779, 
+      "municipality": "Stavelot", 
+      "pcode": "4970", 
+      "source": "7738142", 
+      "street": "Route de Trois-Ponts"
+    }, 
+    {
+      "hnrlbls": [
         "47"
       ], 
       "housenumber": "47", 
@@ -649,6 +672,10 @@
       "street": "Route de Trois-Ponts"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "73"
       ], 
@@ -709,6 +736,10 @@
       "street": "Route de Trois-Ponts"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "97"
       ], 

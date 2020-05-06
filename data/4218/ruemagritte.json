@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "000A", 
+        "000D", 
+        "000F"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -73,6 +78,9 @@
       "street": "Rue Magritte"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "3"
       ], 

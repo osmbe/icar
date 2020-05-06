@@ -13,6 +13,11 @@
       "street": "Rue Mali"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "3\u00e9t.", 
+        "rez."
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -25,6 +30,9 @@
       "street": "Rue Mali"
     }, 
     {
+      "busnrs": [
+        "Rez."
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -37,6 +45,25 @@
       "street": "Rue Mali"
     }, 
     {
+      "busnrs": [
+        "0102", 
+        "0103", 
+        "0206", 
+        "105", 
+        "108", 
+        "109", 
+        "110", 
+        "111", 
+        "112", 
+        "1\u00e9t.", 
+        "2\u00e9t.", 
+        "2\u00e9tG", 
+        "B104", 
+        "B107", 
+        "B202", 
+        "B204", 
+        "b201"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -85,6 +112,10 @@
       "street": "Rue Mali"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "rez."
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -97,6 +128,9 @@
       "street": "Rue Mali"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t."
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -121,12 +155,28 @@
       "street": "Rue Mali"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "rez."
+      ], 
       "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
       "lat": 50.594319723421, 
       "lon": 5.875232474125, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7739058", 
+      "street": "Rue Mali"
+    }, 
+    {
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.594641128404, 
+      "lon": 5.875306223443, 
       "municipality": "Verviers", 
       "pcode": "4800", 
       "source": "7739058", 

@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A001", 
+        "A101", 
+        "A201"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -205,6 +210,11 @@
       "street": "Rue de l'Eglise"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "002", 
+        "101"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -229,6 +239,9 @@
       "street": "Rue de l'Eglise"
     }, 
     {
+      "busnrs": [
+        "101"
+      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -289,12 +302,15 @@
       "street": "Rue de l'Eglise"
     }, 
     {
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 50.715056128922, 
-      "lon": 4.536345873664, 
+      "lat": 50.715320025761, 
+      "lon": 4.535675952817, 
       "municipality": "Rixensart", 
       "pcode": "1330", 
       "source": "7703580", 

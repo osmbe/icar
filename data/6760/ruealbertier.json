@@ -181,6 +181,10 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "0", 
+        "1"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -229,6 +233,10 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -253,6 +261,11 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -449,8 +462,20 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 49.568531372378, 
-      "lon": 5.533793233379, 
+      "lat": 49.568564680797, 
+      "lon": 5.533886217115, 
+      "municipality": "Virton", 
+      "pcode": "6760", 
+      "source": "7747786", 
+      "street": "Rue Albert Ier"
+    }, 
+    {
+      "hnrlbls": [
+        "46"
+      ], 
+      "housenumber": "46", 
+      "lat": 49.568506407724, 
+      "lon": 5.53381141224, 
       "municipality": "Virton", 
       "pcode": "6760", 
       "source": "7747786", 
@@ -481,6 +506,9 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "7"
       ], 

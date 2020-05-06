@@ -13,6 +13,12 @@
       "street": "Rue du Batty"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -145,6 +151,11 @@
       "street": "Rue du Batty"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -290,6 +301,18 @@
     }, 
     {
       "hnrlbls": [
+        "31"
+      ], 
+      "housenumber": "31", 
+      "lat": 50.619007507401, 
+      "lon": 5.560952896513, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730764", 
+      "street": "Rue du Batty"
+    }, 
+    {
+      "hnrlbls": [
         "32"
       ], 
       "housenumber": "32", 
@@ -367,6 +390,18 @@
       "housenumber": "38", 
       "lat": 50.618465888849, 
       "lon": 5.561939364961, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730764", 
+      "street": "Rue du Batty"
+    }, 
+    {
+      "hnrlbls": [
+        "39"
+      ], 
+      "housenumber": "39", 
+      "lat": 50.618943939982, 
+      "lon": 5.562077384381, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730764", 
@@ -649,6 +684,11 @@
       "street": "Rue du Batty"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "7"
       ], 

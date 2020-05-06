@@ -145,12 +145,19 @@
       "street": "Rue de Glaireuse"
     }, 
     {
+      "busnrs": [
+        "00/3", 
+        "00/8", 
+        "0007", 
+        "0010", 
+        "Bte4"
+      ], 
       "hnrlbls": [
         "119"
       ], 
       "housenumber": "119", 
-      "lat": 49.967825096269, 
-      "lon": 5.254148808748, 
+      "lat": 49.968157939234, 
+      "lon": 5.254616654659, 
       "municipality": "Libin", 
       "pcode": "6890", 
       "source": "7745688", 
@@ -269,8 +276,8 @@
         "128"
       ], 
       "housenumber": "128", 
-      "lat": 49.966500541071, 
-      "lon": 5.254260155564, 
+      "lat": 49.966453912353, 
+      "lon": 5.254257102886, 
       "municipality": "Libin", 
       "pcode": "6890", 
       "source": "7745688", 
@@ -403,6 +410,18 @@
       "housenumber": "99", 
       "lat": 49.97545081032, 
       "lon": 5.258653605567, 
+      "municipality": "Libin", 
+      "pcode": "6890", 
+      "source": "7745688", 
+      "street": "Rue de Glaireuse"
+    }, 
+    {
+      "hnrlbls": [
+        "99A"
+      ], 
+      "housenumber": "99A", 
+      "lat": 49.975013629383, 
+      "lon": 5.259080051717, 
       "municipality": "Libin", 
       "pcode": "6890", 
       "source": "7745688", 

@@ -2,11 +2,11 @@
   "addresses": [
     {
       "hnrlbls": [
-        "10"
+        "1"
       ], 
-      "housenumber": "10", 
-      "lat": 49.856622089719, 
-      "lon": 5.614368865523, 
+      "housenumber": "1", 
+      "lat": 49.857212195828, 
+      "lon": 5.614563886592, 
       "municipality": "L\u00e9glise", 
       "pcode": "6860", 
       "source": "7745486", 
@@ -14,11 +14,11 @@
     }, 
     {
       "hnrlbls": [
-        "11"
+        "10"
       ], 
-      "housenumber": "11", 
-      "lat": 49.856804293003, 
-      "lon": 5.614275221721, 
+      "housenumber": "10", 
+      "lat": 49.857159275352, 
+      "lon": 5.614135212958, 
       "municipality": "L\u00e9glise", 
       "pcode": "6860", 
       "source": "7745486", 
@@ -29,18 +29,6 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 49.856929469409, 
-      "lon": 5.614191529543, 
-      "municipality": "L\u00e9glise", 
-      "pcode": "6860", 
-      "source": "7745486", 
-      "street": "Rue d'Anlier"
-    }, 
-    {
-      "hnrlbls": [
-        "13"
-      ], 
-      "housenumber": "13", 
       "lat": 49.857058872892, 
       "lon": 5.614153330255, 
       "municipality": "L\u00e9glise", 
@@ -53,8 +41,8 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 49.857159275352, 
-      "lon": 5.614135212958, 
+      "lat": 49.856929469409, 
+      "lon": 5.614191529543, 
       "municipality": "L\u00e9glise", 
       "pcode": "6860", 
       "source": "7745486", 
@@ -62,11 +50,23 @@
     }, 
     {
       "hnrlbls": [
-        "15"
+        "16"
       ], 
-      "housenumber": "15", 
-      "lat": 49.857254440888, 
-      "lon": 5.614138976959, 
+      "housenumber": "16", 
+      "lat": 49.856804293003, 
+      "lon": 5.614275221721, 
+      "municipality": "L\u00e9glise", 
+      "pcode": "6860", 
+      "source": "7745486", 
+      "street": "Rue d'Anlier"
+    }, 
+    {
+      "hnrlbls": [
+        "18"
+      ], 
+      "housenumber": "18", 
+      "lat": 49.856731074078, 
+      "lon": 5.614313961266, 
       "municipality": "L\u00e9glise", 
       "pcode": "6860", 
       "source": "7745486", 
@@ -86,6 +86,30 @@
     }, 
     {
       "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 49.857656485616, 
+      "lon": 5.614034708944, 
+      "municipality": "L\u00e9glise", 
+      "pcode": "6860", 
+      "source": "7745486", 
+      "street": "Rue d'Anlier"
+    }, 
+    {
+      "hnrlbls": [
+        "20"
+      ], 
+      "housenumber": "20", 
+      "lat": 49.856622089719, 
+      "lon": 5.614368865523, 
+      "municipality": "L\u00e9glise", 
+      "pcode": "6860", 
+      "source": "7745486", 
+      "street": "Rue d'Anlier"
+    }, 
+    {
+      "hnrlbls": [
         "21"
       ], 
       "housenumber": "21", 
@@ -98,11 +122,71 @@
     }, 
     {
       "hnrlbls": [
+        "26"
+      ], 
+      "housenumber": "26", 
+      "lat": 49.856066955264, 
+      "lon": 5.614923105104, 
+      "municipality": "L\u00e9glise", 
+      "pcode": "6860", 
+      "source": "7745486", 
+      "street": "Rue d'Anlier"
+    }, 
+    {
+      "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 49.856815768626, 
+      "lon": 5.614784707702, 
+      "municipality": "L\u00e9glise", 
+      "pcode": "6860", 
+      "source": "7745486", 
+      "street": "Rue d'Anlier"
+    }, 
+    {
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 49.857548066383, 
+      "lon": 5.614081465159, 
+      "municipality": "L\u00e9glise", 
+      "pcode": "6860", 
+      "source": "7745486", 
+      "street": "Rue d'Anlier"
+    }, 
+    {
+      "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 49.856534549677, 
+      "lon": 5.615050927522, 
+      "municipality": "L\u00e9glise", 
+      "pcode": "6860", 
+      "source": "7745486", 
+      "street": "Rue d'Anlier"
+    }, 
+    {
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 49.857455738651, 
+      "lon": 5.61412361787, 
+      "municipality": "L\u00e9glise", 
+      "pcode": "6860", 
+      "source": "7745486", 
+      "street": "Rue d'Anlier"
+    }, 
+    {
+      "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 49.856534549677, 
-      "lon": 5.615050927522, 
+      "lat": 49.856414036407, 
+      "lon": 5.615222666622, 
       "municipality": "L\u00e9glise", 
       "pcode": "6860", 
       "source": "7745486", 
@@ -113,20 +197,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 49.856414036407, 
-      "lon": 5.615222666622, 
-      "municipality": "L\u00e9glise", 
-      "pcode": "6860", 
-      "source": "7745486", 
-      "street": "Rue d'Anlier"
-    }, 
-    {
-      "hnrlbls": [
-        "9"
-      ], 
-      "housenumber": "9", 
-      "lat": 49.856066955264, 
-      "lon": 5.614923105104, 
+      "lat": 49.857254440888, 
+      "lon": 5.614138976959, 
       "municipality": "L\u00e9glise", 
       "pcode": "6860", 
       "source": "7745486", 

@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "Bte1"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +16,10 @@
       "street": "Place Henri Hallet"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -49,6 +56,9 @@
       "street": "Place Henri Hallet"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -61,6 +71,10 @@
       "street": "Place Henri Hallet"
     }, 
     {
+      "busnrs": [
+        "0.1", 
+        "0.2"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -73,6 +87,9 @@
       "street": "Place Henri Hallet"
     }, 
     {
+      "busnrs": [
+        "0002"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -89,8 +106,8 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 50.671551462614, 
-      "lon": 5.079236105474, 
+      "lat": 50.671613870049, 
+      "lon": 5.079209774359, 
       "municipality": "Hannut", 
       "pcode": "4280", 
       "source": "7740416", 
@@ -145,6 +162,10 @@
       "street": "Place Henri Hallet"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -253,6 +274,10 @@
       "street": "Place Henri Hallet"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -265,6 +290,11 @@
       "street": "Place Henri Hallet"
     }, 
     {
+      "busnrs": [
+        "App1", 
+        "App2", 
+        "App3"
+      ], 
       "hnrlbls": [
         "7"
       ], 

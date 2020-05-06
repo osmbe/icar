@@ -2,6 +2,24 @@
   "addresses": [
     {
       "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.643064920831, 
+      "lon": 5.576347708119, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729741", 
+      "street": "Ch\u00e9ravoie"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
+      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -13,6 +31,25 @@
       "street": "Ch\u00e9ravoie"
     }, 
     {
+      "hnrlbls": [
+        "11"
+      ], 
+      "housenumber": "11", 
+      "lat": 50.642869552434, 
+      "lon": 5.576577896954, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729741", 
+      "street": "Ch\u00e9ravoie"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -61,6 +98,12 @@
       "street": "Ch\u00e9ravoie"
     }, 
     {
+      "busnrs": [
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -86,6 +129,18 @@
     }, 
     {
       "hnrlbls": [
+        "18"
+      ], 
+      "housenumber": "18", 
+      "lat": 50.642481712137, 
+      "lon": 5.576895587806, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729741", 
+      "street": "Ch\u00e9ravoie"
+    }, 
+    {
+      "hnrlbls": [
         "1A"
       ], 
       "housenumber": "1A", 
@@ -98,6 +153,30 @@
     }, 
     {
       "hnrlbls": [
+        "1B"
+      ], 
+      "housenumber": "1B", 
+      "lat": 50.643067922411, 
+      "lon": 5.576340898779, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729741", 
+      "street": "Ch\u00e9ravoie"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0041", 
+        "0042"
+      ], 
+      "hnrlbls": [
         "21"
       ], 
       "housenumber": "21", 
@@ -109,6 +188,10 @@
       "street": "Ch\u00e9ravoie"
     }, 
     {
+      "busnrs": [
+        "B001", 
+        "B002"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -121,6 +204,11 @@
       "street": "Ch\u00e9ravoie"
     }, 
     {
+      "busnrs": [
+        "A011", 
+        "A021", 
+        "A031"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -133,12 +221,78 @@
       "street": "Ch\u00e9ravoie"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0003", 
+        "0011", 
+        "0022"
+      ], 
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.64281521667, 
+      "lon": 5.576406968788, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729741", 
+      "street": "Ch\u00e9ravoie"
+    }, 
+    {
       "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
       "lat": 50.64299979928, 
       "lon": 5.57646399682, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729741", 
+      "street": "Ch\u00e9ravoie"
+    }, 
+    {
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.642805819239, 
+      "lon": 5.576367164865, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729741", 
+      "street": "Ch\u00e9ravoie"
+    }, 
+    {
+      "hnrlbls": [
+        "6A"
+      ], 
+      "housenumber": "6A", 
+      "lat": 50.642769351313, 
+      "lon": 5.576440126485, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729741", 
+      "street": "Ch\u00e9ravoie"
+    }, 
+    {
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 50.64273243782, 
+      "lon": 5.57649445439, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729741", 
+      "street": "Ch\u00e9ravoie"
+    }, 
+    {
+      "hnrlbls": [
+        "8A"
+      ], 
+      "housenumber": "8A", 
+      "lat": 50.642730137497, 
+      "lon": 5.576487367997, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7729741", 

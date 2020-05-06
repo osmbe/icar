@@ -25,6 +25,9 @@
       "street": "Rue des Pr\u00e9s"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -169,6 +172,9 @@
       "street": "Rue des Pr\u00e9s"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -181,6 +187,11 @@
       "street": "Rue des Pr\u00e9s"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "000B", 
+        "000C"
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -269,8 +280,8 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.692380839747, 
-      "lon": 4.577046284311, 
+      "lat": 50.693025231602, 
+      "lon": 4.57734556404, 
       "municipality": "Wavre", 
       "pcode": "1300", 
       "source": "7704964", 

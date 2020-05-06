@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0002", 
+        "0003", 
+        "1"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -265,6 +270,9 @@
       "street": "Rue Pr\u00e9v\u00f4t"
     }, 
     {
+      "busnrs": [
+        "000C"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -301,6 +309,10 @@
       "street": "Rue Pr\u00e9v\u00f4t"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -317,8 +329,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.392532468191, 
-      "lon": 4.515992578167, 
+      "lat": 50.396214257678, 
+      "lon": 4.517694672531, 
       "municipality": "Ch\u00e2telet", 
       "pcode": "6200", 
       "source": "7709409", 
@@ -517,12 +529,17 @@
       "street": "Rue Pr\u00e9v\u00f4t"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "000B", 
+        "000C"
+      ], 
       "hnrlbls": [
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 50.394540036869, 
-      "lon": 4.515724936565, 
+      "lat": 50.394220218028, 
+      "lon": 4.515232278418, 
       "municipality": "Ch\u00e2telet", 
       "pcode": "6200", 
       "source": "7709409", 
@@ -565,6 +582,9 @@
       "street": "Rue Pr\u00e9v\u00f4t"
     }, 
     {
+      "busnrs": [
+        "0002"
+      ], 
       "hnrlbls": [
         "55"
       ], 
@@ -733,6 +753,9 @@
       "street": "Rue Pr\u00e9v\u00f4t"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "76"
       ], 

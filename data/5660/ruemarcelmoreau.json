@@ -1,6 +1,13 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1/1", 
+        "1/2", 
+        "1/3", 
+        "1/4", 
+        "1/6"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -49,6 +56,10 @@
       "street": "Rue Marcel Moreau"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -121,6 +132,9 @@
       "street": "Rue Marcel Moreau"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -253,6 +267,14 @@
       "street": "Rue Marcel Moreau"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006"
+      ], 
       "hnrlbls": [
         "3"
       ], 

@@ -85,6 +85,11 @@
       "street": "Rue du Bateau"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -319,6 +324,18 @@
       "housenumber": "47", 
       "lat": 50.605619283148, 
       "lon": 5.625992442471, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4032", 
+      "source": "7730763", 
+      "street": "Rue du Bateau"
+    }, 
+    {
+      "hnrlbls": [
+        "51"
+      ], 
+      "housenumber": "51", 
+      "lat": 50.605627970049, 
+      "lon": 5.625947291675, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4032", 
       "source": "7730763", 

@@ -49,6 +49,9 @@
       "street": "Rue Quennelet"
     }, 
     {
+      "busnrs": [
+        "0Bis"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -169,6 +172,11 @@
       "street": "Rue Quennelet"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0Bis"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -361,6 +369,9 @@
       "street": "Rue Quennelet"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -401,8 +412,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.60509294335, 
-      "lon": 3.327704662273, 
+      "lat": 50.605803206545, 
+      "lon": 3.327173282502, 
       "municipality": "Tournai", 
       "pcode": "7522", 
       "source": "7723876", 

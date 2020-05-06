@@ -49,6 +49,11 @@
       "street": "All\u00e9e des Aub\u00e9pines"
     }, 
     {
+      "busnrs": [
+        "2", 
+        "3", 
+        "bte1"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -85,6 +90,12 @@
       "street": "All\u00e9e des Aub\u00e9pines"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "app4", 
+        "bte3"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -127,6 +138,18 @@
       "housenumber": "4", 
       "lat": 50.586552404366, 
       "lon": 5.886127110567, 
+      "municipality": "Verviers", 
+      "pcode": "4801", 
+      "source": "7738567", 
+      "street": "All\u00e9e des Aub\u00e9pines"
+    }, 
+    {
+      "hnrlbls": [
+        "43"
+      ], 
+      "housenumber": "43", 
+      "lat": 50.586084299412, 
+      "lon": 5.886209475097, 
       "municipality": "Verviers", 
       "pcode": "4801", 
       "source": "7738567", 

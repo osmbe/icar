@@ -37,12 +37,30 @@
       "street": "Rue Coparty"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt03", 
+        "Bt04", 
+        "Bt05"
+      ], 
       "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
       "lat": 50.598656851468, 
       "lon": 4.335405143953, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7702986", 
+      "street": "Rue Coparty"
+    }, 
+    {
+      "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 50.598466554398, 
+      "lon": 4.335356175009, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702986", 

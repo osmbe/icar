@@ -133,6 +133,31 @@
       "street": "Rue Louis Lenoir Scaillet"
     }, 
     {
+      "busnrs": [
+        "A  3", 
+        "A001", 
+        "A002", 
+        "A003", 
+        "A004", 
+        "A005", 
+        "B001", 
+        "B002", 
+        "B003", 
+        "B004", 
+        "B005", 
+        "C001", 
+        "C002", 
+        "C003", 
+        "C004", 
+        "C005", 
+        "D001", 
+        "D002", 
+        "D003", 
+        "D004", 
+        "D005", 
+        "D5", 
+        "ST00"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -181,6 +206,9 @@
       "street": "Rue Louis Lenoir Scaillet"
     }, 
     {
+      "busnrs": [
+        "Bte1"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -193,6 +221,11 @@
       "street": "Rue Louis Lenoir Scaillet"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "33"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -242,18 +275,6 @@
     }, 
     {
       "hnrlbls": [
-        "45"
-      ], 
-      "housenumber": "45", 
-      "lat": 50.710076778309, 
-      "lon": 3.836755817821, 
-      "municipality": "Lessines", 
-      "pcode": "7860", 
-      "source": "7718079", 
-      "street": "Rue Louis Lenoir Scaillet"
-    }, 
-    {
-      "hnrlbls": [
         "47"
       ], 
       "housenumber": "47", 
@@ -271,6 +292,18 @@
       "housenumber": "49", 
       "lat": 50.710105079705, 
       "lon": 3.836858870513, 
+      "municipality": "Lessines", 
+      "pcode": "7860", 
+      "source": "7718079", 
+      "street": "Rue Louis Lenoir Scaillet"
+    }, 
+    {
+      "hnrlbls": [
+        "4A"
+      ], 
+      "housenumber": "4A", 
+      "lat": 50.710505401043, 
+      "lon": 3.835262867683, 
       "municipality": "Lessines", 
       "pcode": "7860", 
       "source": "7718079", 

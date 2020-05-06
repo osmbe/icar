@@ -1,6 +1,15 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "B/A2", 
+        "B/A3", 
+        "B/A4", 
+        "B/A6", 
+        "B/A7", 
+        "B/A8", 
+        "B/A9"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -17,14 +26,19 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.046406959239, 
-      "lon": 4.313070983887, 
+      "lat": 50.046407564075, 
+      "lon": 4.313151597856, 
       "municipality": "Chimay", 
       "pcode": "6460", 
       "source": "7719943", 
       "street": "Boulevard Louise"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "11"
       ], 

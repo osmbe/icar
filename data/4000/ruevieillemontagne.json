@@ -1,6 +1,14 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -49,6 +57,11 @@
       "street": "Rue Vieille-Montagne"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -98,6 +111,24 @@
     }, 
     {
       "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 50.650120019045, 
+      "lon": 5.592560423379, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731400", 
+      "street": "Rue Vieille-Montagne"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
+      "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
@@ -121,6 +152,11 @@
       "street": "Rue Vieille-Montagne"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "6"
       ], 

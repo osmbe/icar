@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -85,12 +88,15 @@
       "street": "Rue Bastenier"
     }, 
     {
+      "busnrs": [
+        "A000"
+      ], 
       "hnrlbls": [
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.465565932359, 
-      "lon": 4.17819867043, 
+      "lat": 50.465563859293, 
+      "lon": 4.178240045518, 
       "municipality": "La Louvi\u00e8re", 
       "pcode": "7100", 
       "source": "7717153", 
@@ -103,6 +109,18 @@
       "housenumber": "16", 
       "lat": 50.465805790443, 
       "lon": 4.178279502585, 
+      "municipality": "La Louvi\u00e8re", 
+      "pcode": "7100", 
+      "source": "7717153", 
+      "street": "Rue Bastenier"
+    }, 
+    {
+      "hnrlbls": [
+        "17"
+      ], 
+      "housenumber": "17", 
+      "lat": 50.465585874352, 
+      "lon": 4.178144527342, 
       "municipality": "La Louvi\u00e8re", 
       "pcode": "7100", 
       "source": "7717153", 
@@ -146,6 +164,18 @@
     }, 
     {
       "hnrlbls": [
+        "21"
+      ], 
+      "housenumber": "21", 
+      "lat": 50.465549706158, 
+      "lon": 4.17784560302, 
+      "municipality": "La Louvi\u00e8re", 
+      "pcode": "7100", 
+      "source": "7717153", 
+      "street": "Rue Bastenier"
+    }, 
+    {
+      "hnrlbls": [
         "22"
       ], 
       "housenumber": "22", 
@@ -181,6 +211,9 @@
       "street": "Rue Bastenier"
     }, 
     {
+      "busnrs": [
+        "A000"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -433,6 +466,11 @@
       "street": "Rue Bastenier"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101"
+      ], 
       "hnrlbls": [
         "48"
       ], 
@@ -542,6 +580,18 @@
     }, 
     {
       "hnrlbls": [
+        "60"
+      ], 
+      "housenumber": "60", 
+      "lat": 50.466293946452, 
+      "lon": 4.173865100468, 
+      "municipality": "La Louvi\u00e8re", 
+      "pcode": "7100", 
+      "source": "7717153", 
+      "street": "Rue Bastenier"
+    }, 
+    {
+      "hnrlbls": [
         "61"
       ], 
       "housenumber": "61", 
@@ -565,6 +615,10 @@
       "street": "Rue Bastenier"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "8"
       ], 

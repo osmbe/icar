@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "B/1", 
+        "B/2", 
+        "B/3", 
+        "B/4"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -97,6 +103,10 @@
       "street": "Rue du Piroy"
     }, 
     {
+      "busnrs": [
+        "Bte2", 
+        "Bte3"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -145,6 +155,9 @@
       "street": "Rue du Piroy"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -271,6 +284,18 @@
       "housenumber": "36", 
       "lat": 50.72171344402, 
       "lon": 4.863457884838, 
+      "municipality": "Jodoigne", 
+      "pcode": "1370", 
+      "source": "7702448", 
+      "street": "Rue du Piroy"
+    }, 
+    {
+      "hnrlbls": [
+        "36A"
+      ], 
+      "housenumber": "36A", 
+      "lat": 50.72170410785, 
+      "lon": 4.863658445172, 
       "municipality": "Jodoigne", 
       "pcode": "1370", 
       "source": "7702448", 

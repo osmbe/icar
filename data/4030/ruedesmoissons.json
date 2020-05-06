@@ -97,6 +97,11 @@
       "street": "Rue des Moissons"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -133,6 +138,11 @@
       "street": "Rue des Moissons"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -241,6 +251,11 @@
       "street": "Rue des Moissons"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "0011", 
+        "0012"
+      ], 
       "hnrlbls": [
         "36"
       ], 
@@ -403,6 +418,18 @@
       "housenumber": "8", 
       "lat": 50.627068139978, 
       "lon": 5.601962868245, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730672", 
+      "street": "Rue des Moissons"
+    }, 
+    {
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.627063376673, 
+      "lon": 5.602335151146, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4030", 
       "source": "7730672", 

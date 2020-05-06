@@ -1,6 +1,15 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -13,6 +22,16 @@
       "street": "Rue du Vieux Bac"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -25,12 +44,16 @@
       "street": "Rue du Vieux Bac"
     }, 
     {
-      "hnrlbls": [
-        "16"
+      "busnrs": [
+        "1", 
+        "2"
       ], 
-      "housenumber": "16", 
-      "lat": 50.50202056445, 
-      "lon": 5.662245445966, 
+      "hnrlbls": [
+        "18"
+      ], 
+      "housenumber": "18", 
+      "lat": 50.501964743894, 
+      "lon": 5.662088368881, 
       "municipality": "Sprimont", 
       "pcode": "4140", 
       "source": "7733116", 
@@ -85,6 +108,10 @@
       "street": "Rue du Vieux Bac"
     }, 
     {
+      "busnrs": [
+        "Ap.1", 
+        "Ap.2"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -97,6 +124,11 @@
       "street": "Rue du Vieux Bac"
     }, 
     {
+      "busnrs": [
+        "Ap.1", 
+        "Ap.2", 
+        "rez0"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -109,6 +141,9 @@
       "street": "Rue du Vieux Bac"
     }, 
     {
+      "busnrs": [
+        "Ap.1"
+      ], 
       "hnrlbls": [
         "9"
       ], 

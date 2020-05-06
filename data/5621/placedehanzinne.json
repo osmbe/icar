@@ -85,6 +85,10 @@
       "street": "Place de Hanzinne"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "125"
       ], 
@@ -97,12 +101,15 @@
       "street": "Place de Hanzinne"
     }, 
     {
+      "busnrs": [
+        "0011"
+      ], 
       "hnrlbls": [
         "126"
       ], 
       "housenumber": "126", 
-      "lat": 50.308543567263, 
-      "lon": 4.542646828572, 
+      "lat": 50.308582338208, 
+      "lon": 4.542599398043, 
       "municipality": "Florennes", 
       "pcode": "5621", 
       "source": "7757143", 
@@ -163,18 +170,6 @@
       "housenumber": "131", 
       "lat": 50.308015398095, 
       "lon": 4.542171960145, 
-      "municipality": "Florennes", 
-      "pcode": "5621", 
-      "source": "7757143", 
-      "street": "Place de Hanzinne"
-    }, 
-    {
-      "hnrlbls": [
-        "144"
-      ], 
-      "housenumber": "144", 
-      "lat": 50.307650083438, 
-      "lon": 4.542539650129, 
       "municipality": "Florennes", 
       "pcode": "5621", 
       "source": "7757143", 

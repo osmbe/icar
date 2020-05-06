@@ -25,6 +25,9 @@
       "street": "Rue de Dinant"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -109,6 +112,12 @@
       "street": "Rue de Dinant"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B", 
+        "C", 
+        "D"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -133,12 +142,52 @@
       "street": "Rue de Dinant"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
+      "hnrlbls": [
+        "26"
+      ], 
+      "housenumber": "26", 
+      "lat": 49.946164107303, 
+      "lon": 5.016606662736, 
+      "municipality": "Bi\u00e8vre", 
+      "pcode": "5555", 
+      "source": "7748626", 
+      "street": "Rue de Dinant"
+    }, 
+    {
       "hnrlbls": [
         "27"
       ], 
       "housenumber": "27", 
       "lat": 49.94500365511, 
       "lon": 5.018534621596, 
+      "municipality": "Bi\u00e8vre", 
+      "pcode": "5555", 
+      "source": "7748626", 
+      "street": "Rue de Dinant"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
+      "hnrlbls": [
+        "28"
+      ], 
+      "housenumber": "28", 
+      "lat": 49.946353301222, 
+      "lon": 5.016382506557, 
       "municipality": "Bi\u00e8vre", 
       "pcode": "5555", 
       "source": "7748626", 
@@ -439,6 +488,18 @@
       "housenumber": "7", 
       "lat": 49.942667137143, 
       "lon": 5.019448439065, 
+      "municipality": "Bi\u00e8vre", 
+      "pcode": "5555", 
+      "source": "7748626", 
+      "street": "Rue de Dinant"
+    }, 
+    {
+      "hnrlbls": [
+        "71"
+      ], 
+      "housenumber": "71", 
+      "lat": 49.949333025767, 
+      "lon": 5.013888296204, 
       "municipality": "Bi\u00e8vre", 
       "pcode": "5555", 
       "source": "7748626", 

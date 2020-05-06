@@ -40,10 +40,10 @@
       "t": 50.694046050026
     }, 
     {
-      "b": 50.672577241314, 
+      "b": 50.672443091338, 
       "l": 3.854409333759, 
       "name": "Chauss\u00e9e Victor Lampe", 
-      "numOfAddr": 108, 
+      "numOfAddr": 105, 
       "r": 3.868665391078, 
       "sanName": "chaussevictorlampe", 
       "t": 50.692272514732
@@ -88,17 +88,17 @@
       "b": 50.675675723736, 
       "l": 3.839710154569, 
       "name": "Chemin du Bois \u00e0 Bail", 
-      "numOfAddr": 7, 
+      "numOfAddr": 6, 
       "r": 3.844638147012, 
       "sanName": "cheminduboisbail", 
       "t": 50.678825631466
     }, 
     {
-      "b": 50.675049114615, 
+      "b": 50.677069318652, 
       "l": 3.863663056562, 
       "name": "Chemin du Grand Denis", 
-      "numOfAddr": 2, 
-      "r": 3.864617488453, 
+      "numOfAddr": 1, 
+      "r": 3.863663056562, 
       "sanName": "chemindugranddenis", 
       "t": 50.677069318652
     }, 
@@ -133,7 +133,7 @@
       "b": 50.671850470026, 
       "l": 3.858437543142, 
       "name": "Mazenque", 
-      "numOfAddr": 58, 
+      "numOfAddr": 55, 
       "r": 3.860736215358, 
       "sanName": "mazenque", 
       "t": 50.678378636503
@@ -148,11 +148,11 @@
       "t": 50.697610389933
     }, 
     {
-      "b": 50.69472572992, 
-      "l": 3.86196781676, 
+      "b": 50.694604254236, 
+      "l": 3.861797136644, 
       "name": "Moupli\u00e8re", 
       "numOfAddr": 12, 
-      "r": 3.864253193047, 
+      "r": 3.86420902882, 
       "sanName": "mouplire", 
       "t": 50.702465522541
     }, 
@@ -196,7 +196,7 @@
       "b": 50.698377801107, 
       "l": 3.889277009099, 
       "name": "Rue Basse", 
-      "numOfAddr": 45, 
+      "numOfAddr": 44, 
       "r": 3.905499441746, 
       "sanName": "ruebasse", 
       "t": 50.704438317696
@@ -205,7 +205,7 @@
       "b": 50.699459512689, 
       "l": 3.857198692755, 
       "name": "Rue de Gages", 
-      "numOfAddr": 38, 
+      "numOfAddr": 37, 
       "r": 3.891584756905, 
       "sanName": "ruedegages", 
       "t": 50.70761547545
@@ -223,7 +223,7 @@
       "b": 50.695430581433, 
       "l": 3.856164428234, 
       "name": "Rue de la Loge", 
-      "numOfAddr": 116, 
+      "numOfAddr": 118, 
       "r": 3.883950510595, 
       "sanName": "ruedelaloge", 
       "t": 50.70619060494
@@ -232,7 +232,7 @@
       "b": 50.678645182176, 
       "l": 3.85797023982, 
       "name": "Rue de Meslin l'Ev\u00eaque", 
-      "numOfAddr": 17, 
+      "numOfAddr": 16, 
       "r": 3.861243886055, 
       "sanName": "ruedemeslinlevque", 
       "t": 50.681319978603
@@ -241,7 +241,7 @@
       "b": 50.687880226955, 
       "l": 3.857698231583, 
       "name": "Rue des Combattants", 
-      "numOfAddr": 115, 
+      "numOfAddr": 113, 
       "r": 3.882389663944, 
       "sanName": "ruedescombattants", 
       "t": 50.693707793285
@@ -256,11 +256,23 @@
       "t": 50.688327618468
     }, 
     {
-      "b": 50.690183054783, 
+      "b": 50.716601134565, 
+      "l": 3.855600755508, 
+      "name": "Rue des Sergents", 
+      "numOfAddr": 2, 
+      "otherPCs": [
+        "7864"
+      ], 
+      "r": 3.855918466502, 
+      "sanName": "ruedessergents", 
+      "t": 50.716660335654
+    }, 
+    {
+      "b": 50.690199218249, 
       "l": 3.893319078313, 
       "name": "Rue d'Horlebaix", 
-      "numOfAddr": 87, 
-      "r": 3.904444620046, 
+      "numOfAddr": 85, 
+      "r": 3.904087587271, 
       "sanName": "ruedhorlebaix", 
       "t": 50.699276758935
     }, 
@@ -277,7 +289,7 @@
       "b": 50.688517887376, 
       "l": 3.887096920358, 
       "name": "Rue du Bois", 
-      "numOfAddr": 125, 
+      "numOfAddr": 126, 
       "r": 3.90647076306, 
       "sanName": "ruedubois", 
       "t": 50.695327963994
@@ -286,10 +298,10 @@
       "b": 50.682842785677, 
       "l": 3.857772713814, 
       "name": "Rue Emile Vandervelde", 
-      "numOfAddr": 32, 
-      "r": 3.862663653059, 
+      "numOfAddr": 30, 
+      "r": 3.862238056389, 
       "sanName": "rueemilevandervelde", 
-      "t": 50.687824551239
+      "t": 50.687586664783
     }, 
     {
       "b": 50.706275388209, 

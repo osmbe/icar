@@ -485,8 +485,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 50.684565809505, 
-      "lon": 3.338550041648, 
+      "lat": 50.68459011023, 
+      "lon": 3.338597868299, 
       "municipality": "Pecq", 
       "pcode": "7740", 
       "source": "7722539", 
@@ -497,8 +497,8 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 50.684610293104, 
-      "lon": 3.33889681135, 
+      "lat": 50.684578531344, 
+      "lon": 3.338901183841, 
       "municipality": "Pecq", 
       "pcode": "7740", 
       "source": "7722539", 
@@ -697,6 +697,10 @@
       "street": "Rue de Tournai"
     }, 
     {
+      "busnrs": [
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "44"
       ], 
@@ -721,6 +725,11 @@
       "street": "Rue de Tournai"
     }, 
     {
+      "busnrs": [
+        "15", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
         "46"
       ], 
@@ -829,6 +838,12 @@
       "street": "Rue de Tournai"
     }, 
     {
+      "busnrs": [
+        "11", 
+        "13", 
+        "2", 
+        "5"
+      ], 
       "hnrlbls": [
         "54"
       ], 
@@ -901,6 +916,15 @@
       "street": "Rue de Tournai"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "13", 
+        "14", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
         "62"
       ], 
@@ -925,6 +949,9 @@
       "street": "Rue de Tournai"
     }, 
     {
+      "busnrs": [
+        "11"
+      ], 
       "hnrlbls": [
         "64"
       ], 

@@ -61,6 +61,10 @@
       "street": "Rue Saint-Joseph"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -151,6 +155,18 @@
       "housenumber": "31", 
       "lat": 50.077506442938, 
       "lon": 4.507699145914, 
+      "municipality": "Couvin", 
+      "pcode": "5660", 
+      "source": "7756963", 
+      "street": "Rue Saint-Joseph"
+    }, 
+    {
+      "hnrlbls": [
+        "32"
+      ], 
+      "housenumber": "32", 
+      "lat": 50.078076256348, 
+      "lon": 4.506942901408, 
       "municipality": "Couvin", 
       "pcode": "5660", 
       "source": "7756963", 
@@ -337,6 +353,10 @@
       "street": "Rue Saint-Joseph"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "53"
       ], 
@@ -529,6 +549,9 @@
       "street": "Rue Saint-Joseph"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "71"
       ], 

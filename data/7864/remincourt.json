@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A001"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -31,18 +34,6 @@
       "housenumber": "100", 
       "lat": 50.735220082021, 
       "lon": 3.881931534092, 
-      "municipality": "Lessines", 
-      "pcode": "7864", 
-      "source": "7717988", 
-      "street": "Remincourt"
-    }, 
-    {
-      "hnrlbls": [
-        "11"
-      ], 
-      "housenumber": "11", 
-      "lat": 50.731997006913, 
-      "lon": 3.874596431306, 
       "municipality": "Lessines", 
       "pcode": "7864", 
       "source": "7717988", 
@@ -377,8 +368,8 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 50.733054444329, 
-      "lon": 3.877924199693, 
+      "lat": 50.733010814626, 
+      "lon": 3.877941042854, 
       "municipality": "Lessines", 
       "pcode": "7864", 
       "source": "7717988", 
@@ -689,8 +680,23 @@
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 50.732989839995, 
-      "lon": 3.877481778561, 
+      "lat": 50.733044948115, 
+      "lon": 3.877479533325, 
+      "municipality": "Lessines", 
+      "pcode": "7864", 
+      "source": "7717988", 
+      "street": "Remincourt"
+    }, 
+    {
+      "busnrs": [
+        "000A"
+      ], 
+      "hnrlbls": [
+        "66"
+      ], 
+      "housenumber": "66", 
+      "lat": 50.733378446527, 
+      "lon": 3.877952942777, 
       "municipality": "Lessines", 
       "pcode": "7864", 
       "source": "7717988", 
@@ -698,11 +704,11 @@
     }, 
     {
       "hnrlbls": [
-        "66"
+        "66A"
       ], 
-      "housenumber": "66", 
-      "lat": 50.733378446527, 
-      "lon": 3.877952942777, 
+      "housenumber": "66A", 
+      "lat": 50.733683058457, 
+      "lon": 3.878170856872, 
       "municipality": "Lessines", 
       "pcode": "7864", 
       "source": "7717988", 
@@ -865,6 +871,23 @@
       "street": "Remincourt"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "002", 
+        "003"
+      ], 
+      "hnrlbls": [
+        "7J"
+      ], 
+      "housenumber": "7J", 
+      "lat": 50.73081369616, 
+      "lon": 3.872819320998, 
+      "municipality": "Lessines", 
+      "pcode": "7864", 
+      "source": "7717988", 
+      "street": "Remincourt"
+    }, 
+    {
       "hnrlbls": [
         "7K"
       ], 
@@ -937,6 +960,9 @@
       "street": "Remincourt"
     }, 
     {
+      "busnrs": [
+        "Bis0"
+      ], 
       "hnrlbls": [
         "80"
       ], 

@@ -25,6 +25,9 @@
       "street": "Rue Bois des Fosses"
     }, 
     {
+      "busnrs": [
+        "Bte1"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -49,6 +52,9 @@
       "street": "Rue Bois des Fosses"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -97,12 +103,15 @@
       "street": "Rue Bois des Fosses"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.687271054062, 
-      "lon": 4.924930845276, 
+      "lat": 50.68723041224, 
+      "lon": 4.925048232367, 
       "municipality": "Orp-Jauche", 
       "pcode": "1350", 
       "source": "7705774", 
@@ -518,11 +527,35 @@
     }, 
     {
       "hnrlbls": [
+        "69"
+      ], 
+      "housenumber": "69", 
+      "lat": 50.695395331669, 
+      "lon": 4.928825409324, 
+      "municipality": "Orp-Jauche", 
+      "pcode": "1350", 
+      "source": "7705774", 
+      "street": "Rue Bois des Fosses"
+    }, 
+    {
+      "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
       "lat": 50.688455661144, 
       "lon": 4.925147858263, 
+      "municipality": "Orp-Jauche", 
+      "pcode": "1350", 
+      "source": "7705774", 
+      "street": "Rue Bois des Fosses"
+    }, 
+    {
+      "hnrlbls": [
+        "71"
+      ], 
+      "housenumber": "71", 
+      "lat": 50.695598209665, 
+      "lon": 4.928779886891, 
       "municipality": "Orp-Jauche", 
       "pcode": "1350", 
       "source": "7705774", 

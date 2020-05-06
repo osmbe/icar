@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -61,6 +65,9 @@
       "street": "Rue Armand Bury"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "101"
       ], 
@@ -434,6 +441,30 @@
     }, 
     {
       "hnrlbls": [
+        "131A"
+      ], 
+      "housenumber": "131A", 
+      "lat": 50.345471103745, 
+      "lon": 4.358712352681, 
+      "municipality": "Thuin", 
+      "pcode": "6534", 
+      "source": "7720986", 
+      "street": "Rue Armand Bury"
+    }, 
+    {
+      "hnrlbls": [
+        "131B"
+      ], 
+      "housenumber": "131B", 
+      "lat": 50.345522799014, 
+      "lon": 4.358750300182, 
+      "municipality": "Thuin", 
+      "pcode": "6534", 
+      "source": "7720986", 
+      "street": "Rue Armand Bury"
+    }, 
+    {
+      "hnrlbls": [
         "132"
       ], 
       "housenumber": "132", 
@@ -653,8 +684,8 @@
         "144"
       ], 
       "housenumber": "144", 
-      "lat": 50.345095607214, 
-      "lon": 4.356302781078, 
+      "lat": 50.34514312905, 
+      "lon": 4.356684014979, 
       "municipality": "Thuin", 
       "pcode": "6534", 
       "source": "7720986", 
@@ -1297,6 +1328,9 @@
       "street": "Rue Armand Bury"
     }, 
     {
+      "busnrs": [
+        "A1"
+      ], 
       "hnrlbls": [
         "194"
       ], 
@@ -1325,8 +1359,8 @@
         "194B"
       ], 
       "housenumber": "194B", 
-      "lat": 50.347971640406, 
-      "lon": 4.361061277573, 
+      "lat": 50.34799655249, 
+      "lon": 4.36107019583, 
       "municipality": "Thuin", 
       "pcode": "6534", 
       "source": "7720986", 
@@ -1849,6 +1883,10 @@
       "street": "Rue Armand Bury"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "RC"
+      ], 
       "hnrlbls": [
         "49"
       ], 
@@ -1939,6 +1977,18 @@
       "housenumber": "53C", 
       "lat": 50.340570716904, 
       "lon": 4.350229816199, 
+      "municipality": "Thuin", 
+      "pcode": "6534", 
+      "source": "7720986", 
+      "street": "Rue Armand Bury"
+    }, 
+    {
+      "hnrlbls": [
+        "53D"
+      ], 
+      "housenumber": "53D", 
+      "lat": 50.340683314061, 
+      "lon": 4.350307122898, 
       "municipality": "Thuin", 
       "pcode": "6534", 
       "source": "7720986", 
@@ -2102,6 +2152,18 @@
     }, 
     {
       "hnrlbls": [
+        "67"
+      ], 
+      "housenumber": "67", 
+      "lat": 50.341780854061, 
+      "lon": 4.351635534304, 
+      "municipality": "Thuin", 
+      "pcode": "6534", 
+      "source": "7720986", 
+      "street": "Rue Armand Bury"
+    }, 
+    {
+      "hnrlbls": [
         "68"
       ], 
       "housenumber": "68", 
@@ -2167,6 +2229,18 @@
       "housenumber": "70A", 
       "lat": 50.341388559384, 
       "lon": 4.350239722295, 
+      "municipality": "Thuin", 
+      "pcode": "6534", 
+      "source": "7720986", 
+      "street": "Rue Armand Bury"
+    }, 
+    {
+      "hnrlbls": [
+        "70B"
+      ], 
+      "housenumber": "70B", 
+      "lat": 50.341504620626, 
+      "lon": 4.350049364116, 
       "municipality": "Thuin", 
       "pcode": "6534", 
       "source": "7720986", 
@@ -2258,6 +2332,18 @@
     }, 
     {
       "hnrlbls": [
+        "77B"
+      ], 
+      "housenumber": "77B", 
+      "lat": 50.342913613663, 
+      "lon": 4.353079523235, 
+      "municipality": "Thuin", 
+      "pcode": "6534", 
+      "source": "7720986", 
+      "street": "Rue Armand Bury"
+    }, 
+    {
+      "hnrlbls": [
         "78"
       ], 
       "housenumber": "78", 
@@ -2275,6 +2361,18 @@
       "housenumber": "79", 
       "lat": 50.342983204055, 
       "lon": 4.353205528887, 
+      "municipality": "Thuin", 
+      "pcode": "6534", 
+      "source": "7720986", 
+      "street": "Rue Armand Bury"
+    }, 
+    {
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 50.335998663866, 
+      "lon": 4.347713491517, 
       "municipality": "Thuin", 
       "pcode": "6534", 
       "source": "7720986", 

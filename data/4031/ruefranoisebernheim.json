@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -73,6 +78,11 @@
       "street": "Rue Fran\u00e7oise-Bernheim"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -97,6 +107,13 @@
       "street": "Rue Fran\u00e7oise-Bernheim"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0011"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -242,6 +259,18 @@
     }, 
     {
       "hnrlbls": [
+        "29"
+      ], 
+      "housenumber": "29", 
+      "lat": 50.592915676191, 
+      "lon": 5.569940941051, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4031", 
+      "source": "7730973", 
+      "street": "Rue Fran\u00e7oise-Bernheim"
+    }, 
+    {
+      "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
@@ -257,8 +286,8 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 50.593042658338, 
-      "lon": 5.569765644722, 
+      "lat": 50.592984950977, 
+      "lon": 5.569757948287, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4031", 
       "source": "7730973", 
@@ -269,8 +298,8 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 50.593006955389, 
-      "lon": 5.569662542773, 
+      "lat": 50.593062970576, 
+      "lon": 5.569685253302, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4031", 
       "source": "7730973", 
@@ -301,12 +330,29 @@
       "street": "Rue Fran\u00e7oise-Bernheim"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "39"
       ], 
       "housenumber": "39", 
       "lat": 50.593140740472, 
       "lon": 5.569393261023, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4031", 
+      "source": "7730973", 
+      "street": "Rue Fran\u00e7oise-Bernheim"
+    }, 
+    {
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.591957901085, 
+      "lon": 5.570365098897, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4031", 
       "source": "7730973", 
@@ -349,6 +395,11 @@
       "street": "Rue Fran\u00e7oise-Bernheim"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "6"
       ], 

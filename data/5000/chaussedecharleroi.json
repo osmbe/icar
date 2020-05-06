@@ -13,6 +13,10 @@
       "street": "Chauss\u00e9e de Charleroi"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -61,6 +65,9 @@
       "street": "Chauss\u00e9e de Charleroi"
     }, 
     {
+      "busnrs": [
+        "0002"
+      ], 
       "hnrlbls": [
         "106"
       ], 
@@ -97,6 +104,11 @@
       "street": "Chauss\u00e9e de Charleroi"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "ET03"
+      ], 
       "hnrlbls": [
         "115"
       ], 
@@ -457,6 +469,9 @@
       "street": "Chauss\u00e9e de Charleroi"
     }, 
     {
+      "busnrs": [
+        "ET01"
+      ], 
       "hnrlbls": [
         "153"
       ], 
@@ -533,8 +548,8 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 50.463176582379, 
-      "lon": 4.843819015118, 
+      "lat": 50.464055629795, 
+      "lon": 4.84333807623, 
       "municipality": "Namur", 
       "pcode": "5000", 
       "source": "7753167", 
@@ -565,6 +580,9 @@
       "street": "Chauss\u00e9e de Charleroi"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "163"
       ], 
@@ -829,6 +847,9 @@
       "street": "Chauss\u00e9e de Charleroi"
     }, 
     {
+      "busnrs": [
+        "0002"
+      ], 
       "hnrlbls": [
         "212"
       ], 
@@ -877,6 +898,13 @@
       "street": "Chauss\u00e9e de Charleroi"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0005", 
+        "0006", 
+        "0014", 
+        "0016"
+      ], 
       "hnrlbls": [
         "220"
       ], 
@@ -913,6 +941,10 @@
       "street": "Chauss\u00e9e de Charleroi"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0031"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -937,6 +969,11 @@
       "street": "Chauss\u00e9e de Charleroi"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -1033,6 +1070,12 @@
       "street": "Chauss\u00e9e de Charleroi"
     }, 
     {
+      "busnrs": [
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006"
+      ], 
       "hnrlbls": [
         "40"
       ], 
@@ -1069,6 +1112,9 @@
       "street": "Chauss\u00e9e de Charleroi"
     }, 
     {
+      "busnrs": [
+        "0011"
+      ], 
       "hnrlbls": [
         "45"
       ], 
@@ -1165,6 +1211,9 @@
       "street": "Chauss\u00e9e de Charleroi"
     }, 
     {
+      "busnrs": [
+        "0011"
+      ], 
       "hnrlbls": [
         "52"
       ], 
@@ -1249,6 +1298,11 @@
       "street": "Chauss\u00e9e de Charleroi"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "60"
       ], 
@@ -1273,6 +1327,13 @@
       "street": "Chauss\u00e9e de Charleroi"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0102", 
+        "0204", 
+        "0305", 
+        "0306"
+      ], 
       "hnrlbls": [
         "63"
       ], 
@@ -1357,6 +1418,11 @@
       "street": "Chauss\u00e9e de Charleroi"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "0003", 
+        "0006"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -1405,6 +1471,9 @@
       "street": "Chauss\u00e9e de Charleroi"
     }, 
     {
+      "busnrs": [
+        "0002"
+      ], 
       "hnrlbls": [
         "73"
       ], 
@@ -1441,6 +1510,9 @@
       "street": "Chauss\u00e9e de Charleroi"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "77"
       ], 
@@ -1505,8 +1577,20 @@
         "83"
       ], 
       "housenumber": "83", 
-      "lat": 50.460934589084, 
-      "lon": 4.840456971461, 
+      "lat": 50.46137075535, 
+      "lon": 4.840830981785, 
+      "municipality": "Namur", 
+      "pcode": "5000", 
+      "source": "7753167", 
+      "street": "Chauss\u00e9e de Charleroi"
+    }, 
+    {
+      "hnrlbls": [
+        "83Bis"
+      ], 
+      "housenumber": "83Bis", 
+      "lat": 50.460925200171, 
+      "lon": 4.840440855875, 
       "municipality": "Namur", 
       "pcode": "5000", 
       "source": "7753167", 
@@ -1531,6 +1615,18 @@
       "housenumber": "85", 
       "lat": 50.460919408573, 
       "lon": 4.839826329642, 
+      "municipality": "Namur", 
+      "pcode": "5000", 
+      "source": "7753167", 
+      "street": "Chauss\u00e9e de Charleroi"
+    }, 
+    {
+      "hnrlbls": [
+        "85B"
+      ], 
+      "housenumber": "85B", 
+      "lat": 50.460357981584, 
+      "lon": 4.839514168088, 
       "municipality": "Namur", 
       "pcode": "5000", 
       "source": "7753167", 

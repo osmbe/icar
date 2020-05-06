@@ -25,6 +25,11 @@
       "street": "Rue Vert Lion"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "11", 
+        "21"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -73,6 +78,9 @@
       "street": "Rue Vert Lion"
     }, 
     {
+      "busnrs": [
+        "Bis0"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -197,8 +205,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.630986505915, 
-      "lon": 3.384887836234, 
+      "lat": 50.631064549174, 
+      "lon": 3.384668351375, 
       "municipality": "Tournai", 
       "pcode": "7540", 
       "source": "7723924", 
@@ -341,8 +349,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.631011162787, 
-      "lon": 3.385188343119, 
+      "lat": 50.631065059679, 
+      "lon": 3.385166653847, 
       "municipality": "Tournai", 
       "pcode": "7540", 
       "source": "7723924", 
@@ -397,6 +405,9 @@
       "street": "Rue Vert Lion"
     }, 
     {
+      "busnrs": [
+        "02"
+      ], 
       "hnrlbls": [
         "66"
       ], 

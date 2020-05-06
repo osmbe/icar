@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1/1", 
+        "1/2"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +17,12 @@
       "street": "Chemin du Hays"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0003", 
+        "0004", 
+        "0005"
+      ], 
       "hnrlbls": [
         "2"
       ], 

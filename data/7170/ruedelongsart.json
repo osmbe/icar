@@ -109,6 +109,11 @@
       "street": "Rue de Longsart"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -385,6 +390,9 @@
       "street": "Rue de Longsart"
     }, 
     {
+      "busnrs": [
+        "A000"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -761,8 +769,8 @@
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 50.496436907691, 
-      "lon": 4.256298956296, 
+      "lat": 50.496392121214, 
+      "lon": 4.256198964097, 
       "municipality": "Manage", 
       "pcode": "7170", 
       "source": "7710737", 
@@ -797,8 +805,8 @@
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 50.496787828347, 
-      "lon": 4.25623872009, 
+      "lat": 50.496771919037, 
+      "lon": 4.256186114932, 
       "municipality": "Manage", 
       "pcode": "7170", 
       "source": "7710737", 

@@ -49,6 +49,9 @@
       "street": "Rue de Bierset"
     }, 
     {
+      "busnrs": [
+        "002"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -61,12 +64,15 @@
       "street": "Rue de Bierset"
     }, 
     {
+      "busnrs": [
+        "001"
+      ], 
       "hnrlbls": [
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.663053614974, 
-      "lon": 5.29664196565, 
+      "lat": 50.663552897241, 
+      "lon": 5.290785226301, 
       "municipality": "Waremme", 
       "pcode": "4300", 
       "source": "7741082", 
@@ -217,6 +223,9 @@
       "street": "Rue de Bierset"
     }, 
     {
+      "busnrs": [
+        "001"
+      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -229,6 +238,12 @@
       "street": "Rue de Bierset"
     }, 
     {
+      "busnrs": [
+        "D/01", 
+        "D/11", 
+        "D002", 
+        "D012"
+      ], 
       "hnrlbls": [
         "35"
       ], 

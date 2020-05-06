@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A1", 
+        "A2", 
+        "A3"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -41,8 +46,8 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 50.297487078872, 
-      "lon": 4.481210011294, 
+      "lat": 50.297495119902, 
+      "lon": 4.481316867762, 
       "municipality": "Walcourt", 
       "pcode": "5651", 
       "source": "7758088", 
@@ -53,8 +58,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 50.297647098738, 
-      "lon": 4.481165689106, 
+      "lat": 50.29764807439, 
+      "lon": 4.481253005828, 
       "municipality": "Walcourt", 
       "pcode": "5651", 
       "source": "7758088", 
@@ -77,8 +82,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.297810904346, 
-      "lon": 4.481267976173, 
+      "lat": 50.297811746303, 
+      "lon": 4.481151455646, 
       "municipality": "Walcourt", 
       "pcode": "5651", 
       "source": "7758088", 
@@ -265,6 +270,10 @@
       "street": "Rue Saint-Antoine"
     }, 
     {
+      "busnrs": [
+        "BTE1", 
+        "BTE2"
+      ], 
       "hnrlbls": [
         "42"
       ], 
@@ -517,6 +526,9 @@
       "street": "Rue Saint-Antoine"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "89"
       ], 

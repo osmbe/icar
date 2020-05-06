@@ -349,6 +349,9 @@
       "street": "Avenue de la Grotte"
     }, 
     {
+      "busnrs": [
+        "0021"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -373,6 +376,9 @@
       "street": "Avenue de la Grotte"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -649,6 +655,10 @@
       "street": "Avenue de la Grotte"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "43"
       ], 
@@ -745,12 +755,33 @@
       "street": "Avenue de la Grotte"
     }, 
     {
+      "busnrs": [
+        "-11", 
+        "-12", 
+        "-21", 
+        "01", 
+        "02", 
+        "11", 
+        "12"
+      ], 
       "hnrlbls": [
         "52"
       ], 
       "housenumber": "52", 
       "lat": 50.561739883353, 
       "lon": 5.577312451607, 
+      "municipality": "Esneux", 
+      "pcode": "4130", 
+      "source": "7728544", 
+      "street": "Avenue de la Grotte"
+    }, 
+    {
+      "hnrlbls": [
+        "53"
+      ], 
+      "housenumber": "53", 
+      "lat": 50.562768769958, 
+      "lon": 5.578750280343, 
       "municipality": "Esneux", 
       "pcode": "4130", 
       "source": "7728544", 
@@ -949,6 +980,9 @@
       "street": "Avenue de la Grotte"
     }, 
     {
+      "busnrs": [
+        "0011"
+      ], 
       "hnrlbls": [
         "69"
       ], 
@@ -1081,6 +1115,9 @@
       "street": "Avenue de la Grotte"
     }, 
     {
+      "busnrs": [
+        "0011"
+      ], 
       "hnrlbls": [
         "78"
       ], 
@@ -1117,6 +1154,9 @@
       "street": "Avenue de la Grotte"
     }, 
     {
+      "busnrs": [
+        "0021"
+      ], 
       "hnrlbls": [
         "80"
       ], 

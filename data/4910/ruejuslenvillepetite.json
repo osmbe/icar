@@ -50,9 +50,9 @@
     }, 
     {
       "hnrlbls": [
-        "103/A"
+        "103A"
       ], 
-      "housenumber": "103/A", 
+      "housenumber": "103A", 
       "lat": 50.545593507591, 
       "lon": 5.806190066201, 
       "municipality": "Theux", 
@@ -121,12 +121,15 @@
       "street": "Rue Juslenville-Petite"
     }, 
     {
+      "busnrs": [
+        "/0001"
+      ], 
       "hnrlbls": [
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 50.54536763782, 
-      "lon": 5.807663694164, 
+      "lat": 50.545439631433, 
+      "lon": 5.807680024796, 
       "municipality": "Theux", 
       "pcode": "4910", 
       "source": "7738511", 
@@ -173,8 +176,8 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 50.545381898976, 
-      "lon": 5.807497019154, 
+      "lat": 50.545426767047, 
+      "lon": 5.807498567828, 
       "municipality": "Theux", 
       "pcode": "4910", 
       "source": "7738511", 
@@ -277,6 +280,10 @@
       "street": "Rue Juslenville-Petite"
     }, 
     {
+      "busnrs": [
+        "/1", 
+        "/RC"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -473,8 +480,8 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 50.546320039317, 
-      "lon": 5.804468463791, 
+      "lat": 50.545978115385, 
+      "lon": 5.804764644639, 
       "municipality": "Theux", 
       "pcode": "4910", 
       "source": "7738511", 
@@ -673,6 +680,9 @@
       "street": "Rue Juslenville-Petite"
     }, 
     {
+      "busnrs": [
+        "11"
+      ], 
       "hnrlbls": [
         "9"
       ], 

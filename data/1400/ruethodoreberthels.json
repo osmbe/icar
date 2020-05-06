@@ -2,11 +2,38 @@
   "addresses": [
     {
       "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.600829802455, 
+      "lon": 4.33415537546, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703178", 
+      "street": "Rue Th\u00e9odore Berthels"
+    }, 
+    {
+      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
       "lat": 50.601181519133, 
       "lon": 4.333752968302, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703178", 
+      "street": "Rue Th\u00e9odore Berthels"
+    }, 
+    {
+      "busnrs": [
+        "RDCH"
+      ], 
+      "hnrlbls": [
+        "11"
+      ], 
+      "housenumber": "11", 
+      "lat": 50.601164949734, 
+      "lon": 4.33331609802, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703178", 
@@ -29,8 +56,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 50.60116369498, 
-      "lon": 4.333277740992, 
+      "lat": 50.601186522159, 
+      "lon": 4.333252497342, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703178", 
@@ -109,6 +136,25 @@
       "street": "Rue Th\u00e9odore Berthels"
     }, 
     {
+      "busnrs": [
+        "A001", 
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt04", 
+        "Bt05", 
+        "Bt07", 
+        "Bt09", 
+        "Bt10", 
+        "Bt11", 
+        "Bt12", 
+        "Bt13", 
+        "Bt14", 
+        "Bt15", 
+        "BtAo", 
+        "C003", 
+        "C004"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -133,6 +179,19 @@
       "street": "Rue Th\u00e9odore Berthels"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt04", 
+        "Bt05", 
+        "Bt06", 
+        "Bt08", 
+        "Bt09", 
+        "Bt10", 
+        "Bt11", 
+        "Bt12"
+      ], 
       "hnrlbls": [
         "7"
       ], 

@@ -193,6 +193,9 @@
       "street": "Rue Joseph Dejardin"
     }, 
     {
+      "busnrs": [
+        "011"
+      ], 
       "hnrlbls": [
         "122"
       ], 
@@ -377,8 +380,8 @@
         "141"
       ], 
       "housenumber": "141", 
-      "lat": 50.638423403796, 
-      "lon": 5.528271280713, 
+      "lat": 50.638338417651, 
+      "lon": 5.528264300485, 
       "municipality": "Saint-Nicolas", 
       "pcode": "4420", 
       "source": "7732000", 
@@ -607,6 +610,18 @@
       "housenumber": "176", 
       "lat": 50.63744487309, 
       "lon": 5.527319661455, 
+      "municipality": "Saint-Nicolas", 
+      "pcode": "4420", 
+      "source": "7732000", 
+      "street": "Rue Joseph Dejardin"
+    }, 
+    {
+      "hnrlbls": [
+        "178"
+      ], 
+      "housenumber": "178", 
+      "lat": 50.637375426848, 
+      "lon": 5.527331807512, 
       "municipality": "Saint-Nicolas", 
       "pcode": "4420", 
       "source": "7732000", 
@@ -919,6 +934,21 @@
       "housenumber": "245", 
       "lat": 50.637705061228, 
       "lon": 5.528713729138, 
+      "municipality": "Saint-Nicolas", 
+      "pcode": "4420", 
+      "source": "7732000", 
+      "street": "Rue Joseph Dejardin"
+    }, 
+    {
+      "busnrs": [
+        "0001"
+      ], 
+      "hnrlbls": [
+        "249"
+      ], 
+      "housenumber": "249", 
+      "lat": 50.637466651338, 
+      "lon": 5.527774663761, 
       "municipality": "Saint-Nicolas", 
       "pcode": "4420", 
       "source": "7732000", 
@@ -1603,6 +1633,26 @@
       "housenumber": "74", 
       "lat": 50.640172472054, 
       "lon": 5.528608719553, 
+      "municipality": "Saint-Nicolas", 
+      "pcode": "4420", 
+      "source": "7732000", 
+      "street": "Rue Joseph Dejardin"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
+      "hnrlbls": [
+        "75"
+      ], 
+      "housenumber": "75", 
+      "lat": 50.640107639659, 
+      "lon": 5.529000640678, 
       "municipality": "Saint-Nicolas", 
       "pcode": "4420", 
       "source": "7732000", 

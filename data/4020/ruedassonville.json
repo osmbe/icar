@@ -85,6 +85,13 @@
       "street": "Rue Dassonville"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -134,11 +141,35 @@
     }, 
     {
       "hnrlbls": [
+        "33"
+      ], 
+      "housenumber": "33", 
+      "lat": 50.645274361813, 
+      "lon": 5.627512058452, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730289", 
+      "street": "Rue Dassonville"
+    }, 
+    {
+      "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
       "lat": 50.64598687098, 
       "lon": 5.629686142395, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730289", 
+      "street": "Rue Dassonville"
+    }, 
+    {
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.646100111278, 
+      "lon": 5.629486824661, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730289", 

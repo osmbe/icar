@@ -37,6 +37,10 @@
       "street": "Route de Froidin"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -73,12 +77,15 @@
       "street": "Route de Froidin"
     }, 
     {
+      "busnrs": [
+        "Bte1"
+      ], 
       "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.281474636618, 
-      "lon": 4.945279641769, 
+      "lat": 50.282069489781, 
+      "lon": 4.951409574561, 
       "municipality": "Dinant", 
       "pcode": "5501", 
       "source": "7749198", 

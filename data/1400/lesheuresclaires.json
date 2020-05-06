@@ -25,6 +25,15 @@
       "street": "Les Heures Claires"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt04", 
+        "Bt05", 
+        "Bt07", 
+        "Bt08"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -97,12 +106,17 @@
       "street": "Les Heures Claires"
     }, 
     {
+      "busnrs": [
+        "BteD", 
+        "BteE", 
+        "BteI"
+      ], 
       "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.605322667434, 
-      "lon": 4.331687462336, 
+      "lat": 50.605300782263, 
+      "lon": 4.33168224662, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702949", 
@@ -181,6 +195,16 @@
       "street": "Les Heures Claires"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt04", 
+        "Bt05", 
+        "Bt06", 
+        "Bt07", 
+        "Bt08"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -193,6 +217,16 @@
       "street": "Les Heures Claires"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt04", 
+        "Bt05", 
+        "Bt06", 
+        "Bt07", 
+        "Bt08"
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -217,6 +251,15 @@
       "street": "Les Heures Claires"
     }, 
     {
+      "busnrs": [
+        "Bt02", 
+        "Bt03", 
+        "Bt04", 
+        "Bt05", 
+        "Bt06", 
+        "Bt07", 
+        "Bt08"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -302,11 +345,35 @@
     }, 
     {
       "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.60523017998, 
+      "lon": 4.33162771372, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7702949", 
+      "street": "Les Heures Claires"
+    }, 
+    {
+      "hnrlbls": [
         "40"
       ], 
       "housenumber": "40", 
       "lat": 50.605398010391, 
       "lon": 4.332732365449, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7702949", 
+      "street": "Les Heures Claires"
+    }, 
+    {
+      "hnrlbls": [
+        "42"
+      ], 
+      "housenumber": "42", 
+      "lat": 50.605454232572, 
+      "lon": 4.332706642225, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702949", 

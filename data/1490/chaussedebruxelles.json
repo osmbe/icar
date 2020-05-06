@@ -337,6 +337,9 @@
       "street": "Chauss\u00e9e de Bruxelles"
     }, 
     {
+      "busnrs": [
+        "1001"
+      ], 
       "hnrlbls": [
         "36"
       ], 
@@ -365,8 +368,8 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 50.651802187093, 
-      "lon": 4.557098191787, 
+      "lat": 50.652861640329, 
+      "lon": 4.55917800866, 
       "municipality": "Court-Saint-Etienne", 
       "pcode": "1490", 
       "source": "7701229", 
@@ -781,6 +784,19 @@
       "street": "Chauss\u00e9e de Bruxelles"
     }, 
     {
+      "busnrs": [
+        "A001", 
+        "A101", 
+        "B001", 
+        "B002", 
+        "B101", 
+        "C001", 
+        "C002", 
+        "C101", 
+        "C102", 
+        "D001", 
+        "D101"
+      ], 
       "hnrlbls": [
         "9"
       ], 

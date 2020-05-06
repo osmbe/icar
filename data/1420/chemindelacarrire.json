@@ -1,12 +1,67 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0006", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0015", 
+        "0016", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032"
+      ], 
+      "hnrlbls": [
+        "21"
+      ], 
+      "housenumber": "21", 
+      "lat": 50.698959014114, 
+      "lon": 4.358315664997, 
+      "municipality": "Braine-l'Alleud", 
+      "pcode": "1420", 
+      "source": "7700344", 
+      "street": "Chemin de la Carri\u00e8re"
+    }, 
+    {
       "hnrlbls": [
         "29"
       ], 
       "housenumber": "29", 
       "lat": 50.699681332537, 
       "lon": 4.357312629244, 
+      "municipality": "Braine-l'Alleud", 
+      "pcode": "1420", 
+      "source": "7700344", 
+      "street": "Chemin de la Carri\u00e8re"
+    }, 
+    {
+      "busnrs": [
+        "0051", 
+        "A  1", 
+        "A003", 
+        "B002", 
+        "B003", 
+        "C  2", 
+        "C001", 
+        "C003", 
+        "D002", 
+        "D003", 
+        "E001", 
+        "E002"
+      ], 
+      "hnrlbls": [
+        "49"
+      ], 
+      "housenumber": "49", 
+      "lat": 50.699826029814, 
+      "lon": 4.35711206931, 
       "municipality": "Braine-l'Alleud", 
       "pcode": "1420", 
       "source": "7700344", 
@@ -29,8 +84,8 @@
         "85"
       ], 
       "housenumber": "85", 
-      "lat": 50.700668631992, 
-      "lon": 4.355747019226, 
+      "lat": 50.700650788884, 
+      "lon": 4.355712380067, 
       "municipality": "Braine-l'Alleud", 
       "pcode": "1420", 
       "source": "7700344", 

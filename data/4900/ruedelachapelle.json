@@ -1,6 +1,13 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0", 
+        "1.1", 
+        "1.2", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +20,10 @@
       "street": "Rue de la Chapelle"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -97,6 +108,9 @@
       "street": "Rue de la Chapelle"
     }, 
     {
+      "busnrs": [
+        "0"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -229,6 +243,16 @@
       "street": "Rue de la Chapelle"
     }, 
     {
+      "busnrs": [
+        "0", 
+        "0.2", 
+        "1.1", 
+        "1.2", 
+        "2.1", 
+        "2.2", 
+        "3.1", 
+        "3.2"
+      ], 
       "hnrlbls": [
         "6"
       ], 

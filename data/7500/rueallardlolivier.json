@@ -1,6 +1,14 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0022", 
+        "01", 
+        "02", 
+        "03", 
+        "11", 
+        "21"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -55,6 +63,18 @@
       "housenumber": "13", 
       "lat": 50.598115545567, 
       "lon": 3.385560502401, 
+      "municipality": "Tournai", 
+      "pcode": "7500", 
+      "source": "7723231", 
+      "street": "Rue Allard l'Olivier"
+    }, 
+    {
+      "hnrlbls": [
+        "136"
+      ], 
+      "housenumber": "136", 
+      "lat": 50.597492850693, 
+      "lon": 3.386159707281, 
       "municipality": "Tournai", 
       "pcode": "7500", 
       "source": "7723231", 

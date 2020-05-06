@@ -61,6 +61,22 @@
       "street": "Avenue de Luxembourg"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "02", 
+        "11", 
+        "12", 
+        "22", 
+        "A02", 
+        "A11", 
+        "A21", 
+        "A22", 
+        "A31", 
+        "B02", 
+        "B21", 
+        "B22", 
+        "B32"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -145,6 +161,11 @@
       "street": "Avenue de Luxembourg"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "11", 
+        "21"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -337,6 +358,9 @@
       "street": "Avenue de Luxembourg"
     }, 
     {
+      "busnrs": [
+        "A21"
+      ], 
       "hnrlbls": [
         "40"
       ], 

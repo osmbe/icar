@@ -241,6 +241,17 @@
       "street": "Chauss\u00e9e d'Ath"
     }, 
     {
+      "busnrs": [
+        "bt01", 
+        "bt03", 
+        "bt04", 
+        "bt11", 
+        "bt12", 
+        "bt13", 
+        "bt14", 
+        "bt23", 
+        "bt24"
+      ], 
       "hnrlbls": [
         "134"
       ], 
@@ -506,9 +517,9 @@
     }, 
     {
       "hnrlbls": [
-        "16a"
+        "16A"
       ], 
-      "housenumber": "16a", 
+      "housenumber": "16A", 
       "lat": 50.68993833462, 
       "lon": 4.028109025038, 
       "municipality": "Enghien", 
@@ -1225,6 +1236,10 @@
       "street": "Chauss\u00e9e d'Ath"
     }, 
     {
+      "busnrs": [
+        "bte1", 
+        "bte2"
+      ], 
       "hnrlbls": [
         "248"
       ], 
@@ -1381,6 +1396,9 @@
       "street": "Chauss\u00e9e d'Ath"
     }, 
     {
+      "busnrs": [
+        "bte2"
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -1613,8 +1631,8 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 50.688654668614, 
-      "lon": 4.024555180509, 
+      "lat": 50.68857923606, 
+      "lon": 4.024516189492, 
       "municipality": "Enghien", 
       "pcode": "7850", 
       "source": "7716736", 
@@ -1913,8 +1931,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.690042204146, 
-      "lon": 4.02918934391, 
+      "lat": 50.690098110996, 
+      "lon": 4.029309704133, 
       "municipality": "Enghien", 
       "pcode": "7850", 
       "source": "7716736", 

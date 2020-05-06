@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "000A", 
+        "000B", 
+        "000C"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -19,54 +24,6 @@
       "housenumber": "10", 
       "lat": 50.342645675394, 
       "lon": 5.294857455526, 
-      "municipality": "Havelange", 
-      "pcode": "5370", 
-      "source": "7749835", 
-      "street": "Grand-Route"
-    }, 
-    {
-      "hnrlbls": [
-        "100"
-      ], 
-      "housenumber": "100", 
-      "lat": 50.342564659916, 
-      "lon": 5.2952553806, 
-      "municipality": "Havelange", 
-      "pcode": "5370", 
-      "source": "7749835", 
-      "street": "Grand-Route"
-    }, 
-    {
-      "hnrlbls": [
-        "101"
-      ], 
-      "housenumber": "101", 
-      "lat": 50.342660906053, 
-      "lon": 5.295535964653, 
-      "municipality": "Havelange", 
-      "pcode": "5370", 
-      "source": "7749835", 
-      "street": "Grand-Route"
-    }, 
-    {
-      "hnrlbls": [
-        "102"
-      ], 
-      "housenumber": "102", 
-      "lat": 50.342787273058, 
-      "lon": 5.295827633215, 
-      "municipality": "Havelange", 
-      "pcode": "5370", 
-      "source": "7749835", 
-      "street": "Grand-Route"
-    }, 
-    {
-      "hnrlbls": [
-        "103"
-      ], 
-      "housenumber": "103", 
-      "lat": 50.342545652416, 
-      "lon": 5.296042639751, 
       "municipality": "Havelange", 
       "pcode": "5370", 
       "source": "7749835", 
@@ -181,6 +138,9 @@
       "street": "Grand-Route"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -265,6 +225,12 @@
       "street": "Grand-Route"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -361,6 +327,9 @@
       "street": "Grand-Route"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -421,6 +390,9 @@
       "street": "Grand-Route"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -457,6 +429,9 @@
       "street": "Grand-Route"
     }, 
     {
+      "busnrs": [
+        "000B"
+      ], 
       "hnrlbls": [
         "42"
       ], 
@@ -469,6 +444,10 @@
       "street": "Grand-Route"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "000B"
+      ], 
       "hnrlbls": [
         "43"
       ], 
@@ -571,18 +550,6 @@
       "housenumber": "6", 
       "lat": 50.343382714335, 
       "lon": 5.295268112615, 
-      "municipality": "Havelange", 
-      "pcode": "5370", 
-      "source": "7749835", 
-      "street": "Grand-Route"
-    }, 
-    {
-      "hnrlbls": [
-        "7"
-      ], 
-      "housenumber": "7", 
-      "lat": 50.342254316498, 
-      "lon": 5.295112087409, 
       "municipality": "Havelange", 
       "pcode": "5370", 
       "source": "7749835", 

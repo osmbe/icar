@@ -25,6 +25,9 @@
       "street": "Rue Robert Lelong"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -37,6 +40,9 @@
       "street": "Rue Robert Lelong"
     }, 
     {
+      "busnrs": [
+        "APT1"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -61,12 +67,27 @@
       "street": "Rue Robert Lelong"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "20"
       ], 
       "housenumber": "20", 
       "lat": 50.561073433764, 
       "lon": 3.669658586436, 
+      "municipality": "Beloeil", 
+      "pcode": "7972", 
+      "source": "7708023", 
+      "street": "Rue Robert Lelong"
+    }, 
+    {
+      "hnrlbls": [
+        "22"
+      ], 
+      "housenumber": "22", 
+      "lat": 50.560896676689, 
+      "lon": 3.669344446699, 
       "municipality": "Beloeil", 
       "pcode": "7972", 
       "source": "7708023", 

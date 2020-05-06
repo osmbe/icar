@@ -197,8 +197,8 @@
         "125"
       ], 
       "housenumber": "125", 
-      "lat": 50.464181618767, 
-      "lon": 4.575790622519, 
+      "lat": 50.464242273463, 
+      "lon": 4.575802297048, 
       "municipality": "Fleurus", 
       "pcode": "6224", 
       "source": "7710041", 
@@ -209,8 +209,8 @@
         "127"
       ], 
       "housenumber": "127", 
-      "lat": 50.464145173382, 
-      "lon": 4.57565895326, 
+      "lat": 50.464210589217, 
+      "lon": 4.575687831913, 
       "municipality": "Fleurus", 
       "pcode": "6224", 
       "source": "7710041", 
@@ -421,6 +421,9 @@
       "street": "Rue du Baty"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -1021,6 +1024,10 @@
       "street": "Rue du Baty"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "82"
       ], 

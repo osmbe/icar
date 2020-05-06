@@ -14,6 +14,9 @@
       "l": 3.956025051326, 
       "name": "Avenue de la Joyeuse entr\u00e9e", 
       "numOfAddr": 63, 
+      "otherPCs": [
+        "7000"
+      ], 
       "r": 3.958106622046, 
       "sanName": "avenuedelajoyeuseentre", 
       "t": 50.471913140939
@@ -166,7 +169,7 @@
       "b": 50.469599838601, 
       "l": 3.954209662751, 
       "name": "Chemin de la Fontaine \u00e0 l'Aulnoye", 
-      "numOfAddr": 4, 
+      "numOfAddr": 5, 
       "otherPCs": [
         "7000"
       ], 
@@ -298,7 +301,7 @@
       "numOfAddr": 40, 
       "r": 3.960432786949, 
       "sanName": "rsidencedusoleil", 
-      "t": 50.477312433528
+      "t": 50.477292479742
     }, 
     {
       "b": 50.488994649342, 
@@ -346,10 +349,10 @@
       "t": 50.476240370185
     }, 
     {
-      "b": 50.502258979774, 
+      "b": 50.50212975786, 
       "l": 3.95718853592, 
       "name": "Rue Bruy\u00e8re de Jurbise", 
-      "numOfAddr": 46, 
+      "numOfAddr": 54, 
       "r": 3.963051022863, 
       "sanName": "ruebruyredejurbise", 
       "t": 50.508000119398
@@ -365,18 +368,18 @@
     }, 
     {
       "b": 50.485377445736, 
-      "l": 3.965958717869, 
+      "l": 3.965956187392, 
       "name": "Rue Comte Cornet", 
-      "numOfAddr": 28, 
+      "numOfAddr": 31, 
       "r": 3.972514459159, 
       "sanName": "ruecomtecornet", 
       "t": 50.488112916468
     }, 
     {
-      "b": 50.482400763697, 
-      "l": 3.942273194251, 
+      "b": 50.482185729305, 
+      "l": 3.942123785089, 
       "name": "Rue de Caraman", 
-      "numOfAddr": 42, 
+      "numOfAddr": 43, 
       "r": 3.946183615023, 
       "sanName": "ruedecaraman", 
       "t": 50.483614147025
@@ -563,7 +566,7 @@
       "b": 50.471962396459, 
       "l": 3.948429820308, 
       "name": "Rue des Viaducs", 
-      "numOfAddr": 292, 
+      "numOfAddr": 317, 
       "r": 3.956987329538, 
       "sanName": "ruedesviaducs", 
       "t": 50.482693954042
@@ -585,15 +588,6 @@
       "r": 3.962079122982, 
       "sanName": "rueducorbeau", 
       "t": 50.48967969068
-    }, 
-    {
-      "b": 50.4972911234, 
-      "l": 3.990152114017, 
-      "name": "Rue du Grand Pays", 
-      "numOfAddr": 3, 
-      "r": 3.992016779683, 
-      "sanName": "ruedugrandpays", 
-      "t": 50.500055464401
     }, 
     {
       "b": 50.477001629165, 
@@ -662,7 +656,7 @@
       "b": 50.48440644732, 
       "l": 3.955464630637, 
       "name": "Rue Grande", 
-      "numOfAddr": 243, 
+      "numOfAddr": 269, 
       "r": 3.998258409967, 
       "sanName": "ruegrande", 
       "t": 50.504824355478
@@ -681,7 +675,7 @@
       "l": 3.957729120635, 
       "name": "Rue J. Goffin", 
       "numOfAddr": 11, 
-      "r": 3.958967829652, 
+      "r": 3.959119719205, 
       "sanName": "ruejgoffin", 
       "t": 50.471215881781
     }, 

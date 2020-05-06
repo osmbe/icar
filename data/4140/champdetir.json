@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -31,6 +34,30 @@
       "housenumber": "5", 
       "lat": 50.524087782112, 
       "lon": 5.660308905671, 
+      "municipality": "Sprimont", 
+      "pcode": "4140", 
+      "source": "7732915", 
+      "street": "Champ de Tir"
+    }, 
+    {
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 50.524870590021, 
+      "lon": 5.659428007068, 
+      "municipality": "Sprimont", 
+      "pcode": "4140", 
+      "source": "7732915", 
+      "street": "Champ de Tir"
+    }, 
+    {
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 50.525013231693, 
+      "lon": 5.659501312381, 
       "municipality": "Sprimont", 
       "pcode": "4140", 
       "source": "7732915", 

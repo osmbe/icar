@@ -2,18 +2,6 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1"
-      ], 
-      "housenumber": "1", 
-      "lat": 50.660610926573, 
-      "lon": 5.598569644272, 
-      "municipality": "Li\u00e8ge", 
-      "pcode": "4000", 
-      "source": "7730168", 
-      "street": "Rue Alphonse-Tilkin"
-    }, 
-    {
-      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -133,6 +121,23 @@
       "street": "Rue Alphonse-Tilkin"
     }, 
     {
+      "busnrs": [
+        "A001", 
+        "A011", 
+        "A021"
+      ], 
+      "hnrlbls": [
+        "1A"
+      ], 
+      "housenumber": "1A", 
+      "lat": 50.660610926573, 
+      "lon": 5.598569644272, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730168", 
+      "street": "Rue Alphonse-Tilkin"
+    }, 
+    {
       "hnrlbls": [
         "1B"
       ], 
@@ -217,6 +222,11 @@
       "street": "Rue Alphonse-Tilkin"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -457,6 +467,11 @@
       "street": "Rue Alphonse-Tilkin"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "46"
       ], 

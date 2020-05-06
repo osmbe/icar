@@ -1,6 +1,13 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "01", 
+        "02", 
+        "11", 
+        "12", 
+        "31"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -193,6 +200,9 @@
       "street": "Rue Haute"
     }, 
     {
+      "busnrs": [
+        "11"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -277,6 +287,12 @@
       "street": "Rue Haute"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "03", 
+        "11", 
+        "31"
+      ], 
       "hnrlbls": [
         "32"
       ], 
@@ -325,6 +341,12 @@
       "street": "Rue Haute"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "11", 
+        "21", 
+        "31"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -421,6 +443,10 @@
       "street": "Rue Haute"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "11"
+      ], 
       "hnrlbls": [
         "9"
       ], 

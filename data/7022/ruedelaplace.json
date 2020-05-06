@@ -205,6 +205,9 @@
       "street": "Rue de la Place"
     }, 
     {
+      "busnrs": [
+        "Bis1"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -301,6 +304,15 @@
       "street": "Rue de la Place"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "1-1", 
+        "1-2", 
+        "2-1", 
+        "2-2", 
+        "2-3"
+      ], 
       "hnrlbls": [
         "37"
       ], 
@@ -533,14 +545,19 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.440478631159, 
-      "lon": 3.964280217083, 
+      "lat": 50.440533476071, 
+      "lon": 3.963236661083, 
       "municipality": "Mons", 
       "pcode": "7022", 
       "source": "7713604", 
       "street": "Rue de la Place"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "1-1"
+      ], 
       "hnrlbls": [
         "8B"
       ], 

@@ -37,6 +37,10 @@
       "street": "Rue Saint-Jean"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "R01"
+      ], 
       "hnrlbls": [
         "102"
       ], 
@@ -65,8 +69,8 @@
         "104"
       ], 
       "housenumber": "104", 
-      "lat": 50.69066437436, 
-      "lon": 4.229486981392, 
+      "lat": 50.690623126933, 
+      "lon": 4.229842284662, 
       "municipality": "Tubize", 
       "pcode": "1480", 
       "source": "7703940", 
@@ -373,6 +377,16 @@
       "street": "Rue Saint-Jean"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "303", 
+        "R01"
+      ], 
       "hnrlbls": [
         "130"
       ], 
@@ -517,6 +531,10 @@
       "street": "Rue Saint-Jean"
     }, 
     {
+      "busnrs": [
+        "102", 
+        "R01"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -614,11 +632,11 @@
     }, 
     {
       "hnrlbls": [
-        "163"
+        "162"
       ], 
-      "housenumber": "163", 
-      "lat": 50.690756421871, 
-      "lon": 4.233370896873, 
+      "housenumber": "162", 
+      "lat": 50.690470597588, 
+      "lon": 4.233238384058, 
       "municipality": "Tubize", 
       "pcode": "1480", 
       "source": "7703940", 
@@ -626,11 +644,11 @@
     }, 
     {
       "hnrlbls": [
-        "164"
+        "163"
       ], 
-      "housenumber": "164", 
-      "lat": 50.690470597588, 
-      "lon": 4.233238384058, 
+      "housenumber": "163", 
+      "lat": 50.690756421871, 
+      "lon": 4.233370896873, 
       "municipality": "Tubize", 
       "pcode": "1480", 
       "source": "7703940", 
@@ -733,6 +751,14 @@
       "street": "Rue Saint-Jean"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
       "hnrlbls": [
         "173"
       ], 
@@ -745,6 +771,14 @@
       "street": "Rue Saint-Jean"
     }, 
     {
+      "busnrs": [
+        "10", 
+        "11", 
+        "12", 
+        "7", 
+        "8", 
+        "9"
+      ], 
       "hnrlbls": [
         "175"
       ], 
@@ -769,6 +803,14 @@
       "street": "Rue Saint-Jean"
     }, 
     {
+      "busnrs": [
+        "13", 
+        "14", 
+        "15", 
+        "16", 
+        "17", 
+        "18"
+      ], 
       "hnrlbls": [
         "177"
       ], 
@@ -793,6 +835,14 @@
       "street": "Rue Saint-Jean"
     }, 
     {
+      "busnrs": [
+        "19", 
+        "20", 
+        "21", 
+        "22", 
+        "23", 
+        "24"
+      ], 
       "hnrlbls": [
         "179"
       ], 
@@ -950,18 +1000,6 @@
     }, 
     {
       "hnrlbls": [
-        "204"
-      ], 
-      "housenumber": "204", 
-      "lat": 50.688555663791, 
-      "lon": 4.237669265561, 
-      "municipality": "Tubize", 
-      "pcode": "1480", 
-      "source": "7703940", 
-      "street": "Rue Saint-Jean"
-    }, 
-    {
-      "hnrlbls": [
         "205"
       ], 
       "housenumber": "205", 
@@ -1061,8 +1099,8 @@
         "216"
       ], 
       "housenumber": "216", 
-      "lat": 50.688992791234, 
-      "lon": 4.240705276909, 
+      "lat": 50.689057058541, 
+      "lon": 4.240679262011, 
       "municipality": "Tubize", 
       "pcode": "1480", 
       "source": "7703940", 
@@ -1073,8 +1111,8 @@
         "218"
       ], 
       "housenumber": "218", 
-      "lat": 50.689092220693, 
-      "lon": 4.24096253072, 
+      "lat": 50.68902435497, 
+      "lon": 4.241002876657, 
       "municipality": "Tubize", 
       "pcode": "1480", 
       "source": "7703940", 
@@ -1106,11 +1144,23 @@
     }, 
     {
       "hnrlbls": [
+        "221"
+      ], 
+      "housenumber": "221", 
+      "lat": 50.689014408138, 
+      "lon": 4.238515256645, 
+      "municipality": "Tubize", 
+      "pcode": "1480", 
+      "source": "7703940", 
+      "street": "Rue Saint-Jean"
+    }, 
+    {
+      "hnrlbls": [
         "222"
       ], 
       "housenumber": "222", 
-      "lat": 50.689027168603, 
-      "lon": 4.241557991085, 
+      "lat": 50.689111121825, 
+      "lon": 4.241546628359, 
       "municipality": "Tubize", 
       "pcode": "1480", 
       "source": "7703940", 
@@ -1121,8 +1171,8 @@
         "223"
       ], 
       "housenumber": "223", 
-      "lat": 50.689017148807, 
-      "lon": 4.238516565243, 
+      "lat": 50.688940118106, 
+      "lon": 4.23854822933, 
       "municipality": "Tubize", 
       "pcode": "1480", 
       "source": "7703940", 
@@ -1135,18 +1185,6 @@
       "housenumber": "224", 
       "lat": 50.68910780148, 
       "lon": 4.241893090254, 
-      "municipality": "Tubize", 
-      "pcode": "1480", 
-      "source": "7703940", 
-      "street": "Rue Saint-Jean"
-    }, 
-    {
-      "hnrlbls": [
-        "225"
-      ], 
-      "housenumber": "225", 
-      "lat": 50.688941663387, 
-      "lon": 4.23855140218, 
       "municipality": "Tubize", 
       "pcode": "1480", 
       "source": "7703940", 
@@ -1229,8 +1267,8 @@
         "239"
       ], 
       "housenumber": "239", 
-      "lat": 50.689084063264, 
-      "lon": 4.240020233852, 
+      "lat": 50.689016414251, 
+      "lon": 4.239970885895, 
       "municipality": "Tubize", 
       "pcode": "1480", 
       "source": "7703940", 
@@ -1261,6 +1299,10 @@
       "street": "Rue Saint-Jean"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -1351,6 +1393,18 @@
       "housenumber": "34", 
       "lat": 50.69022689441, 
       "lon": 4.22342014804, 
+      "municipality": "Tubize", 
+      "pcode": "1480", 
+      "source": "7703940", 
+      "street": "Rue Saint-Jean"
+    }, 
+    {
+      "hnrlbls": [
+        "35"
+      ], 
+      "housenumber": "35", 
+      "lat": 50.691012335395, 
+      "lon": 4.225827539076, 
       "municipality": "Tubize", 
       "pcode": "1480", 
       "source": "7703940", 
@@ -1717,6 +1771,23 @@
       "street": "Rue Saint-Jean"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "201", 
+        "R01"
+      ], 
+      "hnrlbls": [
+        "76A"
+      ], 
+      "housenumber": "76A", 
+      "lat": 50.690642819064, 
+      "lon": 4.225659420681, 
+      "municipality": "Tubize", 
+      "pcode": "1480", 
+      "source": "7703940", 
+      "street": "Rue Saint-Jean"
+    }, 
+    {
       "hnrlbls": [
         "77"
       ], 
@@ -1898,6 +1969,18 @@
     }, 
     {
       "hnrlbls": [
+        "88A"
+      ], 
+      "housenumber": "88A", 
+      "lat": 50.690631692028, 
+      "lon": 4.22819963587, 
+      "municipality": "Tubize", 
+      "pcode": "1480", 
+      "source": "7703940", 
+      "street": "Rue Saint-Jean"
+    }, 
+    {
+      "hnrlbls": [
         "89"
       ], 
       "housenumber": "89", 
@@ -1957,6 +2040,13 @@
       "street": "Rue Saint-Jean"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
         "94"
       ], 

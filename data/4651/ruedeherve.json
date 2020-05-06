@@ -1,6 +1,16 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "11", 
+        "12", 
+        "21", 
+        "22", 
+        "31", 
+        "32", 
+        "41", 
+        "42"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -86,11 +96,50 @@
     }, 
     {
       "hnrlbls": [
+        "106"
+      ], 
+      "housenumber": "106", 
+      "lat": 50.646253005878, 
+      "lon": 5.807775423835, 
+      "municipality": "Herve", 
+      "pcode": "4651", 
+      "source": "7736071", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "busnrs": [
+        "000B"
+      ], 
+      "hnrlbls": [
         "107"
       ], 
       "housenumber": "107", 
       "lat": 50.645719292624, 
       "lon": 5.807872968733, 
+      "municipality": "Herve", 
+      "pcode": "4651", 
+      "source": "7736071", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "hnrlbls": [
+        "108"
+      ], 
+      "housenumber": "108", 
+      "lat": 50.646446260866, 
+      "lon": 5.807248128364, 
+      "municipality": "Herve", 
+      "pcode": "4651", 
+      "source": "7736071", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "hnrlbls": [
+        "108B"
+      ], 
+      "housenumber": "108B", 
+      "lat": 50.646086501688, 
+      "lon": 5.80671145843, 
       "municipality": "Herve", 
       "pcode": "4651", 
       "source": "7736071", 
@@ -122,11 +171,35 @@
     }, 
     {
       "hnrlbls": [
+        "110"
+      ], 
+      "housenumber": "110", 
+      "lat": 50.645756148375, 
+      "lon": 5.805676495989, 
+      "municipality": "Herve", 
+      "pcode": "4651", 
+      "source": "7736071", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "hnrlbls": [
         "112"
       ], 
       "housenumber": "112", 
       "lat": 50.645323088928, 
       "lon": 5.804600679328, 
+      "municipality": "Herve", 
+      "pcode": "4651", 
+      "source": "7736071", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "hnrlbls": [
+        "112A"
+      ], 
+      "housenumber": "112A", 
+      "lat": 50.645630359765, 
+      "lon": 5.803903678888, 
       "municipality": "Herve", 
       "pcode": "4651", 
       "source": "7736071", 
@@ -149,8 +222,8 @@
         "114"
       ], 
       "housenumber": "114", 
-      "lat": 50.64542079213, 
-      "lon": 5.803998328197, 
+      "lat": 50.645163514179, 
+      "lon": 5.803751923328, 
       "municipality": "Herve", 
       "pcode": "4651", 
       "source": "7736071", 
@@ -173,8 +246,8 @@
         "116"
       ], 
       "housenumber": "116", 
-      "lat": 50.64542079213, 
-      "lon": 5.803998328197, 
+      "lat": 50.645173762028, 
+      "lon": 5.803441308829, 
       "municipality": "Herve", 
       "pcode": "4651", 
       "source": "7736071", 
@@ -197,32 +270,24 @@
         "118"
       ], 
       "housenumber": "118", 
-      "lat": 50.645163514179, 
-      "lon": 5.803751923328, 
+      "lat": 50.645161706824, 
+      "lon": 5.802996388859, 
       "municipality": "Herve", 
       "pcode": "4651", 
       "source": "7736071", 
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "rez"
+      ], 
       "hnrlbls": [
         "12"
       ], 
       "housenumber": "12", 
       "lat": 50.647581520296, 
       "lon": 5.819874518686, 
-      "municipality": "Herve", 
-      "pcode": "4651", 
-      "source": "7736071", 
-      "street": "Rue de Herve"
-    }, 
-    {
-      "hnrlbls": [
-        "120"
-      ], 
-      "housenumber": "120", 
-      "lat": 50.645057605447, 
-      "lon": 5.802498682525, 
       "municipality": "Herve", 
       "pcode": "4651", 
       "source": "7736071", 
@@ -253,12 +318,33 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "000C", 
+        "11", 
+        "12", 
+        "21", 
+        "22", 
+        "31", 
+        "32"
+      ], 
       "hnrlbls": [
         "123"
       ], 
       "housenumber": "123", 
       "lat": 50.645062909834, 
       "lon": 5.805643922699, 
+      "municipality": "Herve", 
+      "pcode": "4651", 
+      "source": "7736071", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "hnrlbls": [
+        "124"
+      ], 
+      "housenumber": "124", 
+      "lat": 50.644786411678, 
+      "lon": 5.800791043819, 
       "municipality": "Herve", 
       "pcode": "4651", 
       "source": "7736071", 
@@ -361,6 +447,10 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "rez"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -553,6 +643,14 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "rez1"
+      ], 
       "hnrlbls": [
         "171"
       ], 
@@ -589,6 +687,11 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "rez"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -601,6 +704,10 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -637,6 +744,10 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "rez"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -649,6 +760,11 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "rez"
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -685,6 +801,12 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "11", 
+        "12", 
+        "rez1", 
+        "rez2"
+      ], 
       "hnrlbls": [
         "33"
       ], 
@@ -697,6 +819,10 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -757,6 +883,10 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "40B"
       ], 
@@ -889,6 +1019,11 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "rez"
+      ], 
       "hnrlbls": [
         "51"
       ], 
@@ -925,6 +1060,32 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "10", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
+      "hnrlbls": [
+        "54"
+      ], 
+      "housenumber": "54", 
+      "lat": 50.647702213732, 
+      "lon": 5.816569789058, 
+      "municipality": "Herve", 
+      "pcode": "4651", 
+      "source": "7736071", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "rez"
+      ], 
       "hnrlbls": [
         "55"
       ], 
@@ -1069,6 +1230,13 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "11", 
+        "12", 
+        "21", 
+        "22", 
+        "rez"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -1117,6 +1285,9 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "73"
       ], 
@@ -1250,6 +1421,18 @@
     }, 
     {
       "hnrlbls": [
+        "85"
+      ], 
+      "housenumber": "85", 
+      "lat": 50.646315455219, 
+      "lon": 5.81048885459, 
+      "municipality": "Herve", 
+      "pcode": "4651", 
+      "source": "7736071", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "hnrlbls": [
         "86"
       ], 
       "housenumber": "86", 
@@ -1297,6 +1480,10 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "rez1", 
+        "rez2"
+      ], 
       "hnrlbls": [
         "90"
       ], 

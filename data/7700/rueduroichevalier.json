@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -13,6 +18,18 @@
       "street": "Rue du Roi Chevalier"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008", 
+        "0009", 
+        "0010"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -37,24 +54,59 @@
       "street": "Rue du Roi Chevalier"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0012", 
+        "0021", 
+        "0102"
+      ], 
       "hnrlbls": [
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 50.738223310086, 
-      "lon": 3.204870560334, 
+      "lat": 50.738274665405, 
+      "lon": 3.204867793413, 
       "municipality": "Mouscron", 
       "pcode": "7700", 
       "source": "7716029", 
       "street": "Rue du Roi Chevalier"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0022", 
+        "0031", 
+        "0101", 
+        "0102", 
+        "0201"
+      ], 
       "hnrlbls": [
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.738276468581, 
-      "lon": 3.204872818348, 
+      "lat": 50.738401141382, 
+      "lon": 3.204874988306, 
+      "municipality": "Mouscron", 
+      "pcode": "7700", 
+      "source": "7716029", 
+      "street": "Rue du Roi Chevalier"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0012", 
+        "0013", 
+        "0102", 
+        "0201"
+      ], 
+      "hnrlbls": [
+        "16"
+      ], 
+      "housenumber": "16", 
+      "lat": 50.738580703154, 
+      "lon": 3.204889428968, 
       "municipality": "Mouscron", 
       "pcode": "7700", 
       "source": "7716029", 

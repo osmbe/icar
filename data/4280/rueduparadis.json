@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "000A", 
+        "000B", 
+        "000C"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -37,6 +42,10 @@
       "street": "Rue du Paradis"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "A/2"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -121,6 +130,10 @@
       "street": "Rue du Paradis"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "000C"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -133,6 +146,9 @@
       "street": "Rue du Paradis"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -145,6 +161,15 @@
       "street": "Rue du Paradis"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -181,6 +206,9 @@
       "street": "Rue du Paradis"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "7"
       ], 

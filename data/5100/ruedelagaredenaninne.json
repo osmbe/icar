@@ -13,6 +13,10 @@
       "street": "Rue de la Gare de Naninne"
     }, 
     {
+      "busnrs": [
+        "ET01", 
+        "ET02"
+      ], 
       "hnrlbls": [
         "102"
       ], 
@@ -290,6 +294,18 @@
     }, 
     {
       "hnrlbls": [
+        "49"
+      ], 
+      "housenumber": "49", 
+      "lat": 50.418934844766, 
+      "lon": 4.925943196238, 
+      "municipality": "Namur", 
+      "pcode": "5100", 
+      "source": "7753766", 
+      "street": "Rue de la Gare de Naninne"
+    }, 
+    {
+      "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
@@ -377,8 +393,8 @@
         "65"
       ], 
       "housenumber": "65", 
-      "lat": 50.419468739704, 
-      "lon": 4.928071419953, 
+      "lat": 50.419441381129, 
+      "lon": 4.928072027141, 
       "municipality": "Namur", 
       "pcode": "5100", 
       "source": "7753766", 
@@ -533,8 +549,8 @@
         "81"
       ], 
       "housenumber": "81", 
-      "lat": 50.420001830793, 
-      "lon": 4.929851574648, 
+      "lat": 50.420017770074, 
+      "lon": 4.929875778714, 
       "municipality": "Namur", 
       "pcode": "5100", 
       "source": "7753766", 

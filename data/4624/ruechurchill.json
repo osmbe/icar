@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "001", 
+        "011", 
+        "021"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -145,12 +150,15 @@
       "street": "Rue Churchill"
     }, 
     {
+      "busnrs": [
+        "021"
+      ], 
       "hnrlbls": [
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 50.614368885962, 
-      "lon": 5.662135161712, 
+      "lat": 50.614923177947, 
+      "lon": 5.662590794079, 
       "municipality": "Fl\u00e9ron", 
       "pcode": "4624", 
       "source": "7728879", 
@@ -317,8 +325,8 @@
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 50.611183729872, 
-      "lon": 5.663901577161, 
+      "lat": 50.611151017394, 
+      "lon": 5.663923112334, 
       "municipality": "Fl\u00e9ron", 
       "pcode": "4624", 
       "source": "7728879", 

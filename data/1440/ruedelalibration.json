@@ -1,6 +1,16 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "00R1", 
+        "00R2", 
+        "00R3", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -61,6 +71,9 @@
       "street": "Rue de la Lib\u00e9ration"
     }, 
     {
+      "busnrs": [
+        "bte2"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -73,6 +86,9 @@
       "street": "Rue de la Lib\u00e9ration"
     }, 
     {
+      "busnrs": [
+        "bte2"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -241,6 +257,17 @@
       "street": "Rue de la Lib\u00e9ration"
     }, 
     {
+      "busnrs": [
+        "bt10", 
+        "bt11", 
+        "bte3", 
+        "bte4", 
+        "bte5", 
+        "bte6", 
+        "bte7", 
+        "bte8", 
+        "bte9"
+      ], 
       "hnrlbls": [
         "42"
       ], 
@@ -409,6 +436,10 @@
       "street": "Rue de la Lib\u00e9ration"
     }, 
     {
+      "busnrs": [
+        "bte3", 
+        "bte4"
+      ], 
       "hnrlbls": [
         "68"
       ], 

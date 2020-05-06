@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A---"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -73,6 +76,10 @@
       "street": "Avenue des Ch\u00e2teaux"
     }, 
     {
+      "busnrs": [
+        "A---", 
+        "B---"
+      ], 
       "hnrlbls": [
         "109"
       ], 
@@ -133,6 +140,9 @@
       "street": "Avenue des Ch\u00e2teaux"
     }, 
     {
+      "busnrs": [
+        "C---"
+      ], 
       "hnrlbls": [
         "117"
       ], 
@@ -157,6 +167,10 @@
       "street": "Avenue des Ch\u00e2teaux"
     }, 
     {
+      "busnrs": [
+        "1/02", 
+        "2/01"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -313,6 +327,10 @@
       "street": "Avenue des Ch\u00e2teaux"
     }, 
     {
+      "busnrs": [
+        "1/01", 
+        "1/02"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -415,6 +433,18 @@
       "housenumber": "23", 
       "lat": 50.777409138526, 
       "lon": 2.998819939135, 
+      "municipality": "Comines-Warneton", 
+      "pcode": "7780", 
+      "source": "7716172", 
+      "street": "Avenue des Ch\u00e2teaux"
+    }, 
+    {
+      "hnrlbls": [
+        "25"
+      ], 
+      "housenumber": "25", 
+      "lat": 50.777436760374, 
+      "lon": 2.999032403006, 
       "municipality": "Comines-Warneton", 
       "pcode": "7780", 
       "source": "7716172", 
@@ -853,6 +883,9 @@
       "street": "Avenue des Ch\u00e2teaux"
     }, 
     {
+      "busnrs": [
+        "B---"
+      ], 
       "hnrlbls": [
         "72"
       ], 
@@ -1037,8 +1070,8 @@
         "90"
       ], 
       "housenumber": "90", 
-      "lat": 50.778270266797, 
-      "lon": 3.010096168711, 
+      "lat": 50.778321815541, 
+      "lon": 3.009796354119, 
       "municipality": "Comines-Warneton", 
       "pcode": "7780", 
       "source": "7716172", 

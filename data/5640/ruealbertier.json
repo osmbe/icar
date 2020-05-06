@@ -13,6 +13,9 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -205,6 +208,10 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -397,12 +404,15 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 50.322139188939, 
-      "lon": 4.658082544975, 
+      "lat": 50.322146308774, 
+      "lon": 4.658089276974, 
       "municipality": "Mettet", 
       "pcode": "5640", 
       "source": "7752812", 
@@ -445,6 +455,10 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -505,6 +519,10 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "000B"
+      ], 
       "hnrlbls": [
         "33"
       ], 
@@ -565,6 +583,9 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "38"
       ], 
@@ -577,6 +598,9 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "39"
       ], 
@@ -601,6 +625,9 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "40"
       ], 
@@ -661,6 +688,9 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "B"
+      ], 
       "hnrlbls": [
         "45"
       ], 
@@ -697,6 +727,10 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "49"
       ], 
@@ -721,6 +755,10 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "000B"
+      ], 
       "hnrlbls": [
         "50"
       ], 
@@ -841,12 +879,15 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.321248005348, 
-      "lon": 4.658064132957, 
+      "lat": 50.321267574934, 
+      "lon": 4.658088248148, 
       "municipality": "Mettet", 
       "pcode": "5640", 
       "source": "7752812", 
@@ -865,6 +906,9 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "000B"
+      ], 
       "hnrlbls": [
         "61"
       ], 
@@ -925,12 +969,29 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "0003", 
+        "0004"
+      ], 
       "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
       "lat": 50.321261022864, 
       "lon": 4.658398620246, 
+      "municipality": "Mettet", 
+      "pcode": "5640", 
+      "source": "7752812", 
+      "street": "Rue Albert Ier"
+    }, 
+    {
+      "hnrlbls": [
+        "70"
+      ], 
+      "housenumber": "70", 
+      "lat": 50.324279248816, 
+      "lon": 4.65667267546, 
       "municipality": "Mettet", 
       "pcode": "5640", 
       "source": "7752812", 

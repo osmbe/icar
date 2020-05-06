@@ -1,6 +1,20 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "0-3", 
+        "0-4", 
+        "0-5", 
+        "0-6", 
+        "0-7", 
+        "1-1", 
+        "1-2", 
+        "1-3", 
+        "2-1", 
+        "2-2"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +27,12 @@
       "street": "Rue des Cinq Visages"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "1-2", 
+        "1-3"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -37,6 +57,9 @@
       "street": "Rue des Cinq Visages"
     }, 
     {
+      "busnrs": [
+        "0-1"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -49,6 +72,18 @@
       "street": "Rue des Cinq Visages"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "19", 
+        "5", 
+        "A1-1", 
+        "B2-1", 
+        "B2-2", 
+        "C1-1", 
+        "C2-1", 
+        "C2-2"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -73,12 +108,17 @@
       "street": "Rue des Cinq Visages"
     }, 
     {
+      "busnrs": [
+        "1-1", 
+        "2-2", 
+        "RZCH"
+      ], 
       "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.452251393466, 
-      "lon": 3.946228842305, 
+      "lat": 50.451956548349, 
+      "lon": 3.946624991083, 
       "municipality": "Mons", 
       "pcode": "7000", 
       "source": "7713738", 
@@ -110,6 +150,18 @@
     }, 
     {
       "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.452251393466, 
+      "lon": 3.946228842305, 
+      "municipality": "Mons", 
+      "pcode": "7000", 
+      "source": "7713738", 
+      "street": "Rue des Cinq Visages"
+    }, 
+    {
+      "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
@@ -121,6 +173,17 @@
       "street": "Rue des Cinq Visages"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "1-1", 
+        "1-2", 
+        "1-3", 
+        "1-4", 
+        "2-1", 
+        "2-2", 
+        "2-3"
+      ], 
       "hnrlbls": [
         "8"
       ], 

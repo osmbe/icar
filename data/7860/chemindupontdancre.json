@@ -217,6 +217,13 @@
       "street": "Chemin du Pont d'Ancre"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
         "120"
       ], 
@@ -494,18 +501,6 @@
     }, 
     {
       "hnrlbls": [
-        "168"
-      ], 
-      "housenumber": "168", 
-      "lat": 50.720402654825, 
-      "lon": 3.827605787861, 
-      "municipality": "Lessines", 
-      "pcode": "7860", 
-      "source": "7717932", 
-      "street": "Chemin du Pont d'Ancre"
-    }, 
-    {
-      "hnrlbls": [
         "17"
       ], 
       "housenumber": "17", 
@@ -554,35 +549,11 @@
     }, 
     {
       "hnrlbls": [
-        "175"
-      ], 
-      "housenumber": "175", 
-      "lat": 50.721741888744, 
-      "lon": 3.827095467337, 
-      "municipality": "Lessines", 
-      "pcode": "7860", 
-      "source": "7717932", 
-      "street": "Chemin du Pont d'Ancre"
-    }, 
-    {
-      "hnrlbls": [
         "176"
       ], 
       "housenumber": "176", 
       "lat": 50.721078509001, 
       "lon": 3.827679879743, 
-      "municipality": "Lessines", 
-      "pcode": "7860", 
-      "source": "7717932", 
-      "street": "Chemin du Pont d'Ancre"
-    }, 
-    {
-      "hnrlbls": [
-        "177"
-      ], 
-      "housenumber": "177", 
-      "lat": 50.721840468858, 
-      "lon": 3.827172213273, 
       "municipality": "Lessines", 
       "pcode": "7860", 
       "source": "7717932", 
@@ -602,11 +573,11 @@
     }, 
     {
       "hnrlbls": [
-        "179"
+        "178BIS"
       ], 
-      "housenumber": "179", 
-      "lat": 50.721884875345, 
-      "lon": 3.827184888602, 
+      "housenumber": "178BIS", 
+      "lat": 50.721341278776, 
+      "lon": 3.82766427717, 
       "municipality": "Lessines", 
       "pcode": "7860", 
       "source": "7717932", 
@@ -626,42 +597,6 @@
     }, 
     {
       "hnrlbls": [
-        "181"
-      ], 
-      "housenumber": "181", 
-      "lat": 50.721984502247, 
-      "lon": 3.827180842099, 
-      "municipality": "Lessines", 
-      "pcode": "7860", 
-      "source": "7717932", 
-      "street": "Chemin du Pont d'Ancre"
-    }, 
-    {
-      "hnrlbls": [
-        "182"
-      ], 
-      "housenumber": "182", 
-      "lat": 50.722273535036, 
-      "lon": 3.827661901747, 
-      "municipality": "Lessines", 
-      "pcode": "7860", 
-      "source": "7717932", 
-      "street": "Chemin du Pont d'Ancre"
-    }, 
-    {
-      "hnrlbls": [
-        "183"
-      ], 
-      "housenumber": "183", 
-      "lat": 50.722161838949, 
-      "lon": 3.827108732522, 
-      "municipality": "Lessines", 
-      "pcode": "7860", 
-      "source": "7717932", 
-      "street": "Chemin du Pont d'Ancre"
-    }, 
-    {
-      "hnrlbls": [
         "19"
       ], 
       "housenumber": "19", 
@@ -673,6 +608,9 @@
       "street": "Chemin du Pont d'Ancre"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -1153,6 +1091,10 @@
       "street": "Chemin du Pont d'Ancre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "73"
       ], 

@@ -2,30 +2,6 @@
   "addresses": [
     {
       "hnrlbls": [
-        "100"
-      ], 
-      "housenumber": "100", 
-      "lat": 50.581596182585, 
-      "lon": 5.498977804513, 
-      "municipality": "Seraing", 
-      "pcode": "4100", 
-      "source": "7732264", 
-      "street": "Rue de la Verrerie"
-    }, 
-    {
-      "hnrlbls": [
-        "104"
-      ], 
-      "housenumber": "104", 
-      "lat": 50.581499549832, 
-      "lon": 5.498956090067, 
-      "municipality": "Seraing", 
-      "pcode": "4100", 
-      "source": "7732264", 
-      "street": "Rue de la Verrerie"
-    }, 
-    {
-      "hnrlbls": [
         "105"
       ], 
       "housenumber": "105", 
@@ -38,35 +14,11 @@
     }, 
     {
       "hnrlbls": [
-        "106"
-      ], 
-      "housenumber": "106", 
-      "lat": 50.581514745114, 
-      "lon": 5.49909882474, 
-      "municipality": "Seraing", 
-      "pcode": "4100", 
-      "source": "7732264", 
-      "street": "Rue de la Verrerie"
-    }, 
-    {
-      "hnrlbls": [
         "107"
       ], 
       "housenumber": "107", 
       "lat": 50.580867418051, 
       "lon": 5.499605084679, 
-      "municipality": "Seraing", 
-      "pcode": "4100", 
-      "source": "7732264", 
-      "street": "Rue de la Verrerie"
-    }, 
-    {
-      "hnrlbls": [
-        "108"
-      ], 
-      "housenumber": "108", 
-      "lat": 50.581485951443, 
-      "lon": 5.499129838179, 
       "municipality": "Seraing", 
       "pcode": "4100", 
       "source": "7732264", 
@@ -193,6 +145,10 @@
       "street": "Rue de la Verrerie"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "122"
       ], 
@@ -241,6 +197,9 @@
       "street": "Rue de la Verrerie"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "128"
       ], 
@@ -373,6 +332,9 @@
       "street": "Rue de la Verrerie"
     }, 
     {
+      "busnrs": [
+        "0002"
+      ], 
       "hnrlbls": [
         "146"
       ], 
@@ -421,6 +383,9 @@
       "street": "Rue de la Verrerie"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "154"
       ], 
@@ -469,6 +434,11 @@
       "street": "Rue de la Verrerie"
     }, 
     {
+      "busnrs": [
+        "0007", 
+        "11", 
+        "3"
+      ], 
       "hnrlbls": [
         "161"
       ], 
@@ -529,6 +499,11 @@
       "street": "Rue de la Verrerie"
     }, 
     {
+      "busnrs": [
+        "0003", 
+        "0005", 
+        "2"
+      ], 
       "hnrlbls": [
         "167"
       ], 
@@ -637,6 +612,44 @@
       "street": "Rue de la Verrerie"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0017", 
+        "0022", 
+        "0023", 
+        "0025", 
+        "0034", 
+        "0042", 
+        "0045", 
+        "0046", 
+        "0051", 
+        "0055", 
+        "11", 
+        "13", 
+        "14", 
+        "15", 
+        "16", 
+        "2", 
+        "24", 
+        "26", 
+        "27", 
+        "3", 
+        "31", 
+        "32", 
+        "33", 
+        "35", 
+        "37", 
+        "4", 
+        "41", 
+        "43", 
+        "44", 
+        "52", 
+        "53", 
+        "54", 
+        "56", 
+        "6", 
+        "7"
+      ], 
       "hnrlbls": [
         "185"
       ], 
@@ -685,6 +698,11 @@
       "street": "Rue de la Verrerie"
     }, 
     {
+      "busnrs": [
+        "11", 
+        "12", 
+        "2"
+      ], 
       "hnrlbls": [
         "196"
       ], 
@@ -745,6 +763,9 @@
       "street": "Rue de la Verrerie"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "206"
       ], 
@@ -1249,6 +1270,9 @@
       "street": "Rue de la Verrerie"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "97"
       ], 

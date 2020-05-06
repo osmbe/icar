@@ -85,6 +85,11 @@
       "street": "Rue Soubre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -145,6 +150,11 @@
       "street": "Rue Soubre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -181,6 +191,12 @@
       "street": "Rue Soubre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -326,6 +342,23 @@
     }, 
     {
       "hnrlbls": [
+        "35"
+      ], 
+      "housenumber": "35", 
+      "lat": 50.628674536747, 
+      "lon": 5.589950129224, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7731348", 
+      "street": "Rue Soubre"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
+      "hnrlbls": [
         "36"
       ], 
       "housenumber": "36", 
@@ -350,11 +383,47 @@
     }, 
     {
       "hnrlbls": [
+        "40"
+      ], 
+      "housenumber": "40", 
+      "lat": 50.628836818634, 
+      "lon": 5.58969246345, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7731348", 
+      "street": "Rue Soubre"
+    }, 
+    {
+      "hnrlbls": [
+        "48"
+      ], 
+      "housenumber": "48", 
+      "lat": 50.628844338023, 
+      "lon": 5.589644949823, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7731348", 
+      "street": "Rue Soubre"
+    }, 
+    {
+      "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
       "lat": 50.627836759863, 
       "lon": 5.590153969918, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7731348", 
+      "street": "Rue Soubre"
+    }, 
+    {
+      "hnrlbls": [
+        "50"
+      ], 
+      "housenumber": "50", 
+      "lat": 50.628928186508, 
+      "lon": 5.589622946616, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4030", 
       "source": "7731348", 

@@ -157,6 +157,10 @@
       "street": "Rue Ernest Deltenre"
     }, 
     {
+      "busnrs": [
+        "1Etg", 
+        "2Etg"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -337,6 +341,9 @@
       "street": "Rue Ernest Deltenre"
     }, 
     {
+      "busnrs": [
+        "1Etg"
+      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -889,6 +896,9 @@
       "street": "Rue Ernest Deltenre"
     }, 
     {
+      "busnrs": [
+        "2Etg"
+      ], 
       "hnrlbls": [
         "72"
       ], 
@@ -955,6 +965,18 @@
       "housenumber": "79", 
       "lat": 50.569834561211, 
       "lon": 4.489070907257, 
+      "municipality": "Villers-la-Ville", 
+      "pcode": "1495", 
+      "source": "7704085", 
+      "street": "Rue Ernest Deltenre"
+    }, 
+    {
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 50.566273153505, 
+      "lon": 4.492266922645, 
       "municipality": "Villers-la-Ville", 
       "pcode": "1495", 
       "source": "7704085", 

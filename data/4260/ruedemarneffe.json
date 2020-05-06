@@ -37,6 +37,9 @@
       "street": "Rue de Marneffe"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -85,6 +88,9 @@
       "street": "Rue de Marneffe"
     }, 
     {
+      "busnrs": [
+        "000B"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -121,6 +127,10 @@
       "street": "Rue de Marneffe"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "000C"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -149,8 +159,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.585801456966, 
-      "lon": 5.175514676436, 
+      "lat": 50.605185170467, 
+      "lon": 5.168143065942, 
       "municipality": "Braives", 
       "pcode": "4260", 
       "source": "7739977", 

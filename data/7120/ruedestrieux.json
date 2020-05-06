@@ -181,6 +181,9 @@
       "street": "Rue des Trieux"
     }, 
     {
+      "busnrs": [
+        "Bte1"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -751,6 +754,18 @@
       "housenumber": "187A", 
       "lat": 50.38703369974, 
       "lon": 4.099572693277, 
+      "municipality": "Estinnes", 
+      "pcode": "7120", 
+      "source": "7721319", 
+      "street": "Rue des Trieux"
+    }, 
+    {
+      "hnrlbls": [
+        "187B"
+      ], 
+      "housenumber": "187B", 
+      "lat": 50.386789096723, 
+      "lon": 4.099618797643, 
       "municipality": "Estinnes", 
       "pcode": "7120", 
       "source": "7721319", 
@@ -1861,6 +1876,16 @@
       "street": "Rue des Trieux"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "7", 
+        "8", 
+        "9"
+      ], 
       "hnrlbls": [
         "99"
       ], 

@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -13,6 +17,11 @@
       "street": "Rue de la Poule"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -37,6 +46,12 @@
       "street": "Rue de la Poule"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -61,6 +76,14 @@
       "street": "Rue de la Poule"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -85,6 +108,14 @@
       "street": "Rue de la Poule"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -97,12 +128,35 @@
       "street": "Rue de la Poule"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0031"
+      ], 
       "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
       "lat": 50.647082887291, 
       "lon": 5.58033367504, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730396", 
+      "street": "Rue de la Poule"
+    }, 
+    {
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 50.647159078272, 
+      "lon": 5.580253131893, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730396", 

@@ -85,6 +85,11 @@
       "street": "Rue des Canonniers"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -278,6 +283,18 @@
     }, 
     {
       "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.735093010202, 
+      "lon": 3.205899896359, 
+      "municipality": "Mouscron", 
+      "pcode": "7700", 
+      "source": "7715856", 
+      "street": "Rue des Canonniers"
+    }, 
+    {
+      "hnrlbls": [
         "41"
       ], 
       "housenumber": "41", 
@@ -313,6 +330,10 @@
       "street": "Rue des Canonniers"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "45"
       ], 

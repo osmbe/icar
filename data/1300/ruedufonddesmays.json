@@ -1,6 +1,22 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.70575111351, 
+      "lon": 4.614052696968, 
+      "municipality": "Wavre", 
+      "pcode": "1300", 
+      "source": "7704988", 
+      "street": "Rue du Fond des Mays"
+    }, 
+    {
       "hnrlbls": [
         "10"
       ], 
@@ -61,6 +77,10 @@
       "street": "Rue du Fond des Mays"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -85,6 +105,10 @@
       "street": "Rue du Fond des Mays"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "000B"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -169,6 +193,11 @@
       "street": "Rue du Fond des Mays"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "00A1", 
+        "00A2"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -217,6 +246,9 @@
       "street": "Rue du Fond des Mays"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -253,6 +285,9 @@
       "street": "Rue du Fond des Mays"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "36"
       ], 

@@ -25,18 +25,9 @@
       "street": "Rue Barth\u00e9lemy Molet"
     }, 
     {
-      "hnrlbls": [
-        "101"
+      "busnrs": [
+        "A"
       ], 
-      "housenumber": "101", 
-      "lat": 50.438331561422, 
-      "lon": 4.597925418935, 
-      "municipality": "Sambreville", 
-      "pcode": "5060", 
-      "source": "7755282", 
-      "street": "Rue Barth\u00e9lemy Molet"
-    }, 
-    {
       "hnrlbls": [
         "105"
       ], 
@@ -157,6 +148,14 @@
       "street": "Rue Barth\u00e9lemy Molet"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006"
+      ], 
       "hnrlbls": [
         "125"
       ], 
@@ -458,6 +457,18 @@
     }, 
     {
       "hnrlbls": [
+        "170"
+      ], 
+      "housenumber": "170", 
+      "lat": 50.438640320025, 
+      "lon": 4.594627393744, 
+      "municipality": "Sambreville", 
+      "pcode": "5060", 
+      "source": "7755282", 
+      "street": "Rue Barth\u00e9lemy Molet"
+    }, 
+    {
+      "hnrlbls": [
         "172"
       ], 
       "housenumber": "172", 
@@ -661,6 +672,9 @@
       "street": "Rue Barth\u00e9lemy Molet"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "202"
       ], 
@@ -703,18 +717,6 @@
       "housenumber": "23", 
       "lat": 50.439449579335, 
       "lon": 4.60496348298, 
-      "municipality": "Sambreville", 
-      "pcode": "5060", 
-      "source": "7755282", 
-      "street": "Rue Barth\u00e9lemy Molet"
-    }, 
-    {
-      "hnrlbls": [
-        "24"
-      ], 
-      "housenumber": "24", 
-      "lat": 50.439984739256, 
-      "lon": 4.604808726579, 
       "municipality": "Sambreville", 
       "pcode": "5060", 
       "source": "7755282", 
@@ -1010,18 +1012,6 @@
     }, 
     {
       "hnrlbls": [
-        "56"
-      ], 
-      "housenumber": "56", 
-      "lat": 50.439142600191, 
-      "lon": 4.601646068965, 
-      "municipality": "Sambreville", 
-      "pcode": "5060", 
-      "source": "7755282", 
-      "street": "Rue Barth\u00e9lemy Molet"
-    }, 
-    {
-      "hnrlbls": [
         "57"
       ], 
       "housenumber": "57", 
@@ -1141,6 +1131,10 @@
       "street": "Rue Barth\u00e9lemy Molet"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
       "hnrlbls": [
         "68"
       ], 

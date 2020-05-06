@@ -1,6 +1,13 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0/1", 
+        "0/2", 
+        "1/1", 
+        "1/2", 
+        "2/1"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -61,6 +68,11 @@
       "street": "Rue Jules Destr\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "1/1", 
+        "2/1"
+      ], 
       "hnrlbls": [
         "103"
       ], 
@@ -701,14 +713,20 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 50.464399172242, 
-      "lon": 4.328954056331, 
+      "lat": 50.464440697092, 
+      "lon": 4.328977247909, 
       "municipality": "Courcelles", 
       "pcode": "6183", 
       "source": "7709729", 
       "street": "Rue Jules Destr\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "0/2", 
+        "1/1", 
+        "1/2"
+      ], 
       "hnrlbls": [
         "38"
       ], 

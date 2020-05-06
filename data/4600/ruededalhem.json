@@ -1,18 +1,54 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "A  1", 
+        "A  3", 
+        "A002", 
+        "B  2", 
+        "B 1", 
+        "D  3"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.733128891927, 
-      "lon": 5.696946707952, 
+      "lat": 50.733110931512, 
+      "lon": 5.6968314981, 
       "municipality": "Vis\u00e9", 
       "pcode": "4600", 
       "source": "7733309", 
       "street": "Rue de Dalhem"
     }, 
     {
+      "busnrs": [
+        "A  2", 
+        "A  3", 
+        "A  4", 
+        "A  6", 
+        "A001", 
+        "A005", 
+        "B  2", 
+        "B  3", 
+        "B  4", 
+        "B  6", 
+        "B005", 
+        "C", 
+        "C  3", 
+        "C  4", 
+        "C  5", 
+        "C  6", 
+        "C001", 
+        "C002", 
+        "D  1", 
+        "D  2", 
+        "D  3", 
+        "D  5", 
+        "D  6"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -25,12 +61,43 @@
       "street": "Rue de Dalhem"
     }, 
     {
+      "busnrs": [
+        "A  1", 
+        "A  2", 
+        "A  3", 
+        "A  5", 
+        "A  7", 
+        "A006", 
+        "B  1", 
+        "B  2", 
+        "B  4", 
+        "B  6", 
+        "B  7", 
+        "B005", 
+        "C  1", 
+        "C  2", 
+        "C  6", 
+        "C004", 
+        "C005"
+      ], 
       "hnrlbls": [
         "14"
       ], 
       "housenumber": "14", 
       "lat": 50.730524993207, 
       "lon": 5.696860934705, 
+      "municipality": "Vis\u00e9", 
+      "pcode": "4600", 
+      "source": "7733309", 
+      "street": "Rue de Dalhem"
+    }, 
+    {
+      "hnrlbls": [
+        "15"
+      ], 
+      "housenumber": "15", 
+      "lat": 50.732173170546, 
+      "lon": 5.697146937617, 
       "municipality": "Vis\u00e9", 
       "pcode": "4600", 
       "source": "7733309", 
@@ -85,6 +152,17 @@
       "street": "Rue de Dalhem"
     }, 
     {
+      "busnrs": [
+        "A  1", 
+        "A003", 
+        "B  1", 
+        "B  2", 
+        "C  1", 
+        "C002", 
+        "D  1", 
+        "D  3", 
+        "D 2"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -98,11 +176,43 @@
     }, 
     {
       "hnrlbls": [
+        "25"
+      ], 
+      "housenumber": "25", 
+      "lat": 50.72878185974, 
+      "lon": 5.699604721829, 
+      "municipality": "Vis\u00e9", 
+      "pcode": "4600", 
+      "source": "7733309", 
+      "street": "Rue de Dalhem"
+    }, 
+    {
+      "busnrs": [
+        "A", 
+        "A 1"
+      ], 
+      "hnrlbls": [
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.728380835612, 
-      "lon": 5.701664737591, 
+      "lat": 50.728632395326, 
+      "lon": 5.699861366011, 
+      "municipality": "Vis\u00e9", 
+      "pcode": "4600", 
+      "source": "7733309", 
+      "street": "Rue de Dalhem"
+    }, 
+    {
+      "busnrs": [
+        "A  1", 
+        "B  1"
+      ], 
+      "hnrlbls": [
+        "29"
+      ], 
+      "housenumber": "29", 
+      "lat": 50.728495941136, 
+      "lon": 5.700145363993, 
       "municipality": "Vis\u00e9", 
       "pcode": "4600", 
       "source": "7733309", 
@@ -110,11 +220,11 @@
     }, 
     {
       "hnrlbls": [
-        "29"
+        "3"
       ], 
-      "housenumber": "29", 
-      "lat": 50.728387198875, 
-      "lon": 5.701779307887, 
+      "housenumber": "3", 
+      "lat": 50.73288395964, 
+      "lon": 5.697100953227, 
       "municipality": "Vis\u00e9", 
       "pcode": "4600", 
       "source": "7733309", 
@@ -125,8 +235,23 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 50.728400263576, 
-      "lon": 5.701964571961, 
+      "lat": 50.728460823965, 
+      "lon": 5.700555162279, 
+      "municipality": "Vis\u00e9", 
+      "pcode": "4600", 
+      "source": "7733309", 
+      "street": "Rue de Dalhem"
+    }, 
+    {
+      "busnrs": [
+        "A 1"
+      ], 
+      "hnrlbls": [
+        "33"
+      ], 
+      "housenumber": "33", 
+      "lat": 50.728450813394, 
+      "lon": 5.700932686067, 
       "municipality": "Vis\u00e9", 
       "pcode": "4600", 
       "source": "7733309", 
@@ -137,8 +262,8 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 50.72841332758, 
-      "lon": 5.702323298555, 
+      "lat": 50.728386854244, 
+      "lon": 5.701443592973, 
       "municipality": "Vis\u00e9", 
       "pcode": "4600", 
       "source": "7733309", 
@@ -149,8 +274,8 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 50.728425326522, 
-      "lon": 5.702449007259, 
+      "lat": 50.728380835612, 
+      "lon": 5.701664737591, 
       "municipality": "Vis\u00e9", 
       "pcode": "4600", 
       "source": "7733309", 
@@ -173,8 +298,20 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 50.728446069389, 
-      "lon": 5.702724046552, 
+      "lat": 50.728387198875, 
+      "lon": 5.701779307887, 
+      "municipality": "Vis\u00e9", 
+      "pcode": "4600", 
+      "source": "7733309", 
+      "street": "Rue de Dalhem"
+    }, 
+    {
+      "hnrlbls": [
+        "3A"
+      ], 
+      "housenumber": "3A", 
+      "lat": 50.732992705723, 
+      "lon": 5.697265954668, 
       "municipality": "Vis\u00e9", 
       "pcode": "4600", 
       "source": "7733309", 
@@ -209,8 +346,8 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 50.728472194899, 
-      "lon": 5.703026876456, 
+      "lat": 50.728400263576, 
+      "lon": 5.701964571961, 
       "municipality": "Vis\u00e9", 
       "pcode": "4600", 
       "source": "7733309", 
@@ -242,35 +379,65 @@
     }, 
     {
       "hnrlbls": [
+        "45"
+      ], 
+      "housenumber": "45", 
+      "lat": 50.72841332758, 
+      "lon": 5.702323298555, 
+      "municipality": "Vis\u00e9", 
+      "pcode": "4600", 
+      "source": "7733309", 
+      "street": "Rue de Dalhem"
+    }, 
+    {
+      "hnrlbls": [
+        "47"
+      ], 
+      "housenumber": "47", 
+      "lat": 50.728425326522, 
+      "lon": 5.702449007259, 
+      "municipality": "Vis\u00e9", 
+      "pcode": "4600", 
+      "source": "7733309", 
+      "street": "Rue de Dalhem"
+    }, 
+    {
+      "hnrlbls": [
+        "49"
+      ], 
+      "housenumber": "49", 
+      "lat": 50.728446069389, 
+      "lon": 5.702724046552, 
+      "municipality": "Vis\u00e9", 
+      "pcode": "4600", 
+      "source": "7733309", 
+      "street": "Rue de Dalhem"
+    }, 
+    {
+      "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 50.732796080486, 
+      "lon": 5.697025756671, 
+      "municipality": "Vis\u00e9", 
+      "pcode": "4600", 
+      "source": "7733309", 
+      "street": "Rue de Dalhem"
+    }, 
+    {
+      "busnrs": [
+        "A 1", 
+        "A001", 
+        "B 1", 
+        "B001"
+      ], 
+      "hnrlbls": [
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 50.72700778397, 
-      "lon": 5.705501337775, 
-      "municipality": "Vis\u00e9", 
-      "pcode": "4600", 
-      "source": "7733309", 
-      "street": "Rue de Dalhem"
-    }, 
-    {
-      "hnrlbls": [
-        "53"
-      ], 
-      "housenumber": "53", 
-      "lat": 50.726924162068, 
-      "lon": 5.705806696787, 
-      "municipality": "Vis\u00e9", 
-      "pcode": "4600", 
-      "source": "7733309", 
-      "street": "Rue de Dalhem"
-    }, 
-    {
-      "hnrlbls": [
-        "55"
-      ], 
-      "housenumber": "55", 
-      "lat": 50.726853013684, 
-      "lon": 5.706092888817, 
+      "lat": 50.728472194899, 
+      "lon": 5.703026876456, 
       "municipality": "Vis\u00e9", 
       "pcode": "4600", 
       "source": "7733309", 
@@ -283,18 +450,6 @@
       "housenumber": "56", 
       "lat": 50.726833830768, 
       "lon": 5.705246492783, 
-      "municipality": "Vis\u00e9", 
-      "pcode": "4600", 
-      "source": "7733309", 
-      "street": "Rue de Dalhem"
-    }, 
-    {
-      "hnrlbls": [
-        "57"
-      ], 
-      "housenumber": "57", 
-      "lat": 50.726678573511, 
-      "lon": 5.706366471552, 
       "municipality": "Vis\u00e9", 
       "pcode": "4600", 
       "source": "7733309", 
@@ -365,8 +520,60 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.732846218014, 
-      "lon": 5.697081967048, 
+      "lat": 50.732743343818, 
+      "lon": 5.696965487858, 
+      "municipality": "Vis\u00e9", 
+      "pcode": "4600", 
+      "source": "7733309", 
+      "street": "Rue de Dalhem"
+    }, 
+    {
+      "busnrs": [
+        "A  1", 
+        "B  1"
+      ], 
+      "hnrlbls": [
+        "73"
+      ], 
+      "housenumber": "73", 
+      "lat": 50.72700778397, 
+      "lon": 5.705501337775, 
+      "municipality": "Vis\u00e9", 
+      "pcode": "4600", 
+      "source": "7733309", 
+      "street": "Rue de Dalhem"
+    }, 
+    {
+      "hnrlbls": [
+        "75"
+      ], 
+      "housenumber": "75", 
+      "lat": 50.726924162068, 
+      "lon": 5.705806696787, 
+      "municipality": "Vis\u00e9", 
+      "pcode": "4600", 
+      "source": "7733309", 
+      "street": "Rue de Dalhem"
+    }, 
+    {
+      "hnrlbls": [
+        "77"
+      ], 
+      "housenumber": "77", 
+      "lat": 50.726853013684, 
+      "lon": 5.706092888817, 
+      "municipality": "Vis\u00e9", 
+      "pcode": "4600", 
+      "source": "7733309", 
+      "street": "Rue de Dalhem"
+    }, 
+    {
+      "hnrlbls": [
+        "79"
+      ], 
+      "housenumber": "79", 
+      "lat": 50.726678573511, 
+      "lon": 5.706366471552, 
       "municipality": "Vis\u00e9", 
       "pcode": "4600", 
       "source": "7733309", 

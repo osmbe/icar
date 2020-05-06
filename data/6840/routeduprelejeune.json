@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -85,6 +90,9 @@
       "street": "Route du P\u00e8re Lejeune"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -173,8 +181,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 49.847457633248, 
-      "lon": 5.377717252676, 
+      "lat": 49.847485638893, 
+      "lon": 5.377724831719, 
       "municipality": "Neufch\u00e2teau", 
       "pcode": "6840", 
       "source": "7745971", 
@@ -233,14 +241,17 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 49.847713133904, 
-      "lon": 5.378826351477, 
+      "lat": 49.847745166902, 
+      "lon": 5.378835855653, 
       "municipality": "Neufch\u00e2teau", 
       "pcode": "6840", 
       "source": "7745971", 
       "street": "Route du P\u00e8re Lejeune"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -257,8 +268,8 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 49.847836688225, 
-      "lon": 5.379114081724, 
+      "lat": 49.847905060142, 
+      "lon": 5.379103380907, 
       "municipality": "Neufch\u00e2teau", 
       "pcode": "6840", 
       "source": "7745971", 

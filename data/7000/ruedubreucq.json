@@ -37,6 +37,10 @@
       "street": "Rue Dubreucq"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "2-1"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -55,6 +59,24 @@
       "housenumber": "2", 
       "lat": 50.447941452345, 
       "lon": 3.952081157299, 
+      "municipality": "Mons", 
+      "pcode": "7000", 
+      "source": "7713985", 
+      "street": "Rue Dubreucq"
+    }, 
+    {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "2-1", 
+        "3-1"
+      ], 
+      "hnrlbls": [
+        "2A"
+      ], 
+      "housenumber": "2A", 
+      "lat": 50.448004861696, 
+      "lon": 3.952003210827, 
       "municipality": "Mons", 
       "pcode": "7000", 
       "source": "7713985", 

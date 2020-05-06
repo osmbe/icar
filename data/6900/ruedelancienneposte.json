@@ -1,12 +1,20 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "01", 
+        "02", 
+        "11", 
+        "12", 
+        "21", 
+        "22"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.202579272266, 
-      "lon": 5.319045394853, 
+      "lat": 50.203530798362, 
+      "lon": 5.320706817862, 
       "municipality": "Marche-en-Famenne", 
       "pcode": "6900", 
       "source": "7744064", 
@@ -110,6 +118,30 @@
     }, 
     {
       "hnrlbls": [
+        "1A"
+      ], 
+      "housenumber": "1A", 
+      "lat": 50.202579272266, 
+      "lon": 5.319045394853, 
+      "municipality": "Marche-en-Famenne", 
+      "pcode": "6900", 
+      "source": "7744064", 
+      "street": "Rue de l'Ancienne Poste"
+    }, 
+    {
+      "hnrlbls": [
+        "1B"
+      ], 
+      "housenumber": "1B", 
+      "lat": 50.20243286811, 
+      "lon": 5.31883098812, 
+      "municipality": "Marche-en-Famenne", 
+      "pcode": "6900", 
+      "source": "7744064", 
+      "street": "Rue de l'Ancienne Poste"
+    }, 
+    {
+      "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
@@ -137,8 +169,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.201003699761, 
-      "lon": 5.316882574031, 
+      "lat": 50.200552416322, 
+      "lon": 5.316925315201, 
       "municipality": "Marche-en-Famenne", 
       "pcode": "6900", 
       "source": "7744064", 

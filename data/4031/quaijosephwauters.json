@@ -1,6 +1,29 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0015", 
+        "0016", 
+        "0017", 
+        "0018", 
+        "0019", 
+        "0020", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024", 
+        "0031", 
+        "0032", 
+        "0033", 
+        "0041", 
+        "0042", 
+        "0051", 
+        "0052"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -14,11 +37,35 @@
     }, 
     {
       "hnrlbls": [
+        "15"
+      ], 
+      "housenumber": "15", 
+      "lat": 50.618147684515, 
+      "lon": 5.58164615947, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4031", 
+      "source": "7730132", 
+      "street": "Quai Joseph-Wauters"
+    }, 
+    {
+      "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
       "lat": 50.617488142244, 
       "lon": 5.581292582646, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4031", 
+      "source": "7730132", 
+      "street": "Quai Joseph-Wauters"
+    }, 
+    {
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 50.617647266826, 
+      "lon": 5.582913271696, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4031", 
       "source": "7730132", 

@@ -205,6 +205,10 @@
       "street": "Rue de l'Ecureuil"
     }, 
     {
+      "busnrs": [
+        "11", 
+        "21"
+      ], 
       "hnrlbls": [
         "120"
       ], 
@@ -307,6 +311,18 @@
       "housenumber": "51", 
       "lat": 50.585029429041, 
       "lon": 5.503418717603, 
+      "municipality": "Seraing", 
+      "pcode": "4100", 
+      "source": "7732276", 
+      "street": "Rue de l'Ecureuil"
+    }, 
+    {
+      "hnrlbls": [
+        "53"
+      ], 
+      "housenumber": "53", 
+      "lat": 50.584900153856, 
+      "lon": 5.503419727818, 
       "municipality": "Seraing", 
       "pcode": "4100", 
       "source": "7732276", 
@@ -553,6 +569,10 @@
       "street": "Rue de l'Ecureuil"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "94"
       ], 

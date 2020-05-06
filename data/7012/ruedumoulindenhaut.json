@@ -337,6 +337,12 @@
       "street": "Rue du Moulin d'en Haut"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1", 
+        "1-1", 
+        "2-1"
+      ], 
       "hnrlbls": [
         "126A"
       ], 
@@ -541,6 +547,10 @@
       "street": "Rue du Moulin d'en Haut"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1"
+      ], 
       "hnrlbls": [
         "140B"
       ], 
@@ -1105,6 +1115,11 @@
       "street": "Rue du Moulin d'en Haut"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "Et-1"
+      ], 
       "hnrlbls": [
         "183"
       ], 
@@ -1501,6 +1516,9 @@
       "street": "Rue du Moulin d'en Haut"
     }, 
     {
+      "busnrs": [
+        "212"
+      ], 
       "hnrlbls": [
         "210"
       ], 
@@ -2137,6 +2155,10 @@
       "street": "Rue du Moulin d'en Haut"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1"
+      ], 
       "hnrlbls": [
         "286"
       ], 
@@ -2791,18 +2813,6 @@
       "housenumber": "73", 
       "lat": 50.438088216942, 
       "lon": 3.896667714895, 
-      "municipality": "Mons", 
-      "pcode": "7012", 
-      "source": "7713933", 
-      "street": "Rue du Moulin d'en Haut"
-    }, 
-    {
-      "hnrlbls": [
-        "75"
-      ], 
-      "housenumber": "75", 
-      "lat": 50.438121464754, 
-      "lon": 3.896756662448, 
       "municipality": "Mons", 
       "pcode": "7012", 
       "source": "7713933", 

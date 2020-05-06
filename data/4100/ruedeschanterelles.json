@@ -253,6 +253,9 @@
       "street": "Rue des Chanterelles"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "128"
       ], 
@@ -655,6 +658,24 @@
       "housenumber": "180", 
       "lat": 50.596050164554, 
       "lon": 5.51719245495, 
+      "municipality": "Seraing", 
+      "pcode": "4100", 
+      "source": "7732329", 
+      "street": "Rue des Chanterelles"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
+      "hnrlbls": [
+        "181"
+      ], 
+      "housenumber": "181", 
+      "lat": 50.59636846805, 
+      "lon": 5.516168743707, 
       "municipality": "Seraing", 
       "pcode": "4100", 
       "source": "7732329", 
@@ -1321,6 +1342,11 @@
       "street": "Rue des Chanterelles"
     }, 
     {
+      "busnrs": [
+        "02", 
+        "1", 
+        "3"
+      ], 
       "hnrlbls": [
         "342"
       ], 
@@ -1459,6 +1485,18 @@
       "housenumber": "370", 
       "lat": 50.594859319878, 
       "lon": 5.512874490382, 
+      "municipality": "Seraing", 
+      "pcode": "4100", 
+      "source": "7732329", 
+      "street": "Rue des Chanterelles"
+    }, 
+    {
+      "hnrlbls": [
+        "374"
+      ], 
+      "housenumber": "374", 
+      "lat": 50.594705508924, 
+      "lon": 5.512424037668, 
       "municipality": "Seraing", 
       "pcode": "4100", 
       "source": "7732329", 

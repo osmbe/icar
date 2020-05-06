@@ -97,6 +97,9 @@
       "street": "Rue Saint-Georges"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -109,6 +112,11 @@
       "street": "Rue Saint-Georges"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0005"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -277,12 +285,15 @@
       "street": "Rue Saint-Georges"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 50.037299851772, 
-      "lon": 4.421436604553, 
+      "lat": 50.037346956228, 
+      "lon": 4.421431227055, 
       "municipality": "Couvin", 
       "pcode": "5660", 
       "source": "7756962", 
@@ -305,8 +316,8 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 50.037310182653, 
-      "lon": 4.421357482449, 
+      "lat": 50.037382816697, 
+      "lon": 4.421224059196, 
       "municipality": "Couvin", 
       "pcode": "5660", 
       "source": "7756962", 

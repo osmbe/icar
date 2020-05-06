@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -65,8 +68,8 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 50.412895274168, 
-      "lon": 4.379881103149, 
+      "lat": 50.427635770389, 
+      "lon": 4.41405284242, 
       "municipality": "Charleroi", 
       "pcode": "6030", 
       "source": "7760697", 
@@ -289,6 +292,10 @@
       "street": "Rue de la Colline"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "011"
+      ], 
       "hnrlbls": [
         "59"
       ], 

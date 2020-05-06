@@ -301,12 +301,15 @@
       "street": "Rue du Petit Bois"
     }, 
     {
+      "busnrs": [
+        "B011"
+      ], 
       "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.20301441978, 
-      "lon": 5.223206239514, 
+      "lat": 50.203005097472, 
+      "lon": 5.223180127151, 
       "municipality": "Rochefort", 
       "pcode": "5580", 
       "source": "7750549", 
@@ -337,6 +340,10 @@
       "street": "Rue du Petit Bois"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "9"
       ], 

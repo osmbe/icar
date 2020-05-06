@@ -61,6 +61,10 @@
       "street": "Rue du Roi Albert"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -169,6 +173,13 @@
       "street": "Rue du Roi Albert"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -233,8 +244,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 50.526054265936, 
-      "lon": 4.256026653102, 
+      "lat": 50.526050601722, 
+      "lon": 4.256142801262, 
       "municipality": "Seneffe", 
       "pcode": "7180", 
       "source": "7711485", 
@@ -445,6 +456,9 @@
       "street": "Rue du Roi Albert"
     }, 
     {
+      "busnrs": [
+        "0002"
+      ], 
       "hnrlbls": [
         "8"
       ], 

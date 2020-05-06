@@ -37,6 +37,13 @@
       "street": "Filly"
     }, 
     {
+      "busnrs": [
+        "bt1", 
+        "bt3", 
+        "bt4", 
+        "bt5", 
+        "bte2"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -97,6 +104,9 @@
       "street": "Filly"
     }, 
     {
+      "busnrs": [
+        "bt01"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -197,8 +207,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.147364234411, 
-      "lon": 5.6951762115, 
+      "lat": 50.147585068869, 
+      "lon": 5.695573666031, 
       "municipality": "Houffalize", 
       "pcode": "6660", 
       "source": "7742687", 
@@ -245,8 +255,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.144693573834, 
-      "lon": 5.695665707813, 
+      "lat": 50.145571021412, 
+      "lon": 5.695071147491, 
       "municipality": "Houffalize", 
       "pcode": "6660", 
       "source": "7742687", 
@@ -271,6 +281,30 @@
       "housenumber": "9A", 
       "lat": 50.144672581411, 
       "lon": 5.696546968556, 
+      "municipality": "Houffalize", 
+      "pcode": "6660", 
+      "source": "7742687", 
+      "street": "Filly"
+    }, 
+    {
+      "hnrlbls": [
+        "9D"
+      ], 
+      "housenumber": "9D", 
+      "lat": 50.144955732687, 
+      "lon": 5.696309733607, 
+      "municipality": "Houffalize", 
+      "pcode": "6660", 
+      "source": "7742687", 
+      "street": "Filly"
+    }, 
+    {
+      "hnrlbls": [
+        "9N"
+      ], 
+      "housenumber": "9N", 
+      "lat": 50.145145897847, 
+      "lon": 5.697467514724, 
       "municipality": "Houffalize", 
       "pcode": "6660", 
       "source": "7742687", 

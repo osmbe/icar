@@ -277,6 +277,9 @@
       "street": "Chauss\u00e9e de Louvain"
     }, 
     {
+      "busnrs": [
+        "Etg1"
+      ], 
       "hnrlbls": [
         "183"
       ], 
@@ -541,6 +544,9 @@
       "street": "Chauss\u00e9e de Louvain"
     }, 
     {
+      "busnrs": [
+        "Rdch"
+      ], 
       "hnrlbls": [
         "264"
       ], 
@@ -605,8 +611,8 @@
         "275"
       ], 
       "housenumber": "275", 
-      "lat": 50.701287576187, 
-      "lon": 4.425695384836, 
+      "lat": 50.70123595022, 
+      "lon": 4.425562019054, 
       "municipality": "Waterloo", 
       "pcode": "1410", 
       "source": "7704305", 
@@ -997,6 +1003,10 @@
       "street": "Chauss\u00e9e de Louvain"
     }, 
     {
+      "busnrs": [
+        "Etg1", 
+        "Rdch"
+      ], 
       "hnrlbls": [
         "73"
       ], 

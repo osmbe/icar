@@ -49,6 +49,10 @@
       "street": "Rue du Bailly"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -65,8 +69,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 50.714846220977, 
-      "lon": 5.027395639216, 
+      "lat": 50.71481032183, 
+      "lon": 5.027434475469, 
       "municipality": "Lincent", 
       "pcode": "4287", 
       "source": "7740727", 
@@ -134,6 +138,18 @@
     }, 
     {
       "hnrlbls": [
+        "34"
+      ], 
+      "housenumber": "34", 
+      "lat": 50.716089150483, 
+      "lon": 5.026411329352, 
+      "municipality": "Lincent", 
+      "pcode": "4287", 
+      "source": "7740727", 
+      "street": "Rue du Bailly"
+    }, 
+    {
+      "hnrlbls": [
         "35"
       ], 
       "housenumber": "35", 
@@ -170,11 +186,35 @@
     }, 
     {
       "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.713628170463, 
+      "lon": 5.029776833848, 
+      "municipality": "Lincent", 
+      "pcode": "4287", 
+      "source": "7740727", 
+      "street": "Rue du Bailly"
+    }, 
+    {
+      "hnrlbls": [
         "43"
       ], 
       "housenumber": "43", 
       "lat": 50.715872695782, 
       "lon": 5.025886212192, 
+      "municipality": "Lincent", 
+      "pcode": "4287", 
+      "source": "7740727", 
+      "street": "Rue du Bailly"
+    }, 
+    {
+      "hnrlbls": [
+        "45"
+      ], 
+      "housenumber": "45", 
+      "lat": 50.715992676695, 
+      "lon": 5.025674889656, 
       "municipality": "Lincent", 
       "pcode": "4287", 
       "source": "7740727", 

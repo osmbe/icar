@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A 1"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -25,6 +28,9 @@
       "street": "Avenue Albert 1er"
     }, 
     {
+      "busnrs": [
+        "A  1"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -49,6 +55,16 @@
       "street": "Avenue Albert 1er"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -61,6 +77,10 @@
       "street": "Avenue Albert 1er"
     }, 
     {
+      "busnrs": [
+        "A  1", 
+        "A  2"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -73,6 +93,10 @@
       "street": "Avenue Albert 1er"
     }, 
     {
+      "busnrs": [
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -133,6 +157,11 @@
       "street": "Avenue Albert 1er"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "A  1", 
+        "A 2"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -169,6 +198,10 @@
       "street": "Avenue Albert 1er"
     }, 
     {
+      "busnrs": [
+        "A1", 
+        "A2"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -193,12 +226,20 @@
       "street": "Avenue Albert 1er"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
       "hnrlbls": [
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 50.736839701214, 
-      "lon": 5.699398257335, 
+      "lat": 50.736587361595, 
+      "lon": 5.698995261038, 
       "municipality": "Vis\u00e9", 
       "pcode": "4600", 
       "source": "7733226", 
@@ -217,12 +258,34 @@
       "street": "Avenue Albert 1er"
     }, 
     {
+      "busnrs": [
+        "A  1"
+      ], 
       "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
       "lat": 50.737999814695, 
       "lon": 5.695870734742, 
+      "municipality": "Vis\u00e9", 
+      "pcode": "4600", 
+      "source": "7733226", 
+      "street": "Avenue Albert 1er"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
+      "hnrlbls": [
+        "30"
+      ], 
+      "housenumber": "30", 
+      "lat": 50.736707340911, 
+      "lon": 5.699422570736, 
       "municipality": "Vis\u00e9", 
       "pcode": "4600", 
       "source": "7733226", 
@@ -361,6 +424,12 @@
       "street": "Avenue Albert 1er"
     }, 
     {
+      "busnrs": [
+        "A  1", 
+        "A 2", 
+        "B  1", 
+        "B 2"
+      ], 
       "hnrlbls": [
         "43"
       ], 
@@ -389,8 +458,8 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 50.736313974119, 
-      "lon": 5.701227072338, 
+      "lat": 50.736324350168, 
+      "lon": 5.701214195036, 
       "municipality": "Vis\u00e9", 
       "pcode": "4600", 
       "source": "7733226", 
@@ -457,6 +526,12 @@
       "street": "Avenue Albert 1er"
     }, 
     {
+      "busnrs": [
+        "A  1", 
+        "A  2", 
+        "A  3", 
+        "B1"
+      ], 
       "hnrlbls": [
         "8"
       ], 

@@ -2,6 +2,18 @@
   "addresses": [
     {
       "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.712241348667, 
+      "lon": 5.28163464541, 
+      "municipality": "Waremme", 
+      "pcode": "4300", 
+      "source": "7741137", 
+      "street": "Rue des Mayeurs"
+    }, 
+    {
+      "hnrlbls": [
         "11"
       ], 
       "housenumber": "11", 
@@ -38,6 +50,18 @@
     }, 
     {
       "hnrlbls": [
+        "20"
+      ], 
+      "housenumber": "20", 
+      "lat": 50.711021918681, 
+      "lon": 5.281474025226, 
+      "municipality": "Waremme", 
+      "pcode": "4300", 
+      "source": "7741137", 
+      "street": "Rue des Mayeurs"
+    }, 
+    {
+      "hnrlbls": [
         "29"
       ], 
       "housenumber": "29", 
@@ -49,12 +73,16 @@
       "street": "Rue des Mayeurs"
     }, 
     {
+      "busnrs": [
+        "B001", 
+        "C02"
+      ], 
       "hnrlbls": [
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 50.712368025679, 
-      "lon": 5.281617391079, 
+      "lat": 50.710734120644, 
+      "lon": 5.281635183766, 
       "municipality": "Waremme", 
       "pcode": "4300", 
       "source": "7741137", 
@@ -79,18 +107,6 @@
       "housenumber": "41", 
       "lat": 50.710306236912, 
       "lon": 5.28137592937, 
-      "municipality": "Waremme", 
-      "pcode": "4300", 
-      "source": "7741137", 
-      "street": "Rue des Mayeurs"
-    }, 
-    {
-      "hnrlbls": [
-        "6"
-      ], 
-      "housenumber": "6", 
-      "lat": 50.711021918681, 
-      "lon": 5.281474025226, 
       "municipality": "Waremme", 
       "pcode": "4300", 
       "source": "7741137", 

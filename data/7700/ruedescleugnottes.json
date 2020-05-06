@@ -61,6 +61,10 @@
       "street": "Rue des Cleugnottes"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -86,9 +90,9 @@
     }, 
     {
       "hnrlbls": [
-        "2B000"
+        "2B"
       ], 
-      "housenumber": "2B000", 
+      "housenumber": "2B", 
       "lat": 50.738106539105, 
       "lon": 3.233447532334, 
       "municipality": "Mouscron", 

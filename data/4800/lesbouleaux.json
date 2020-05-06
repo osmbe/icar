@@ -145,6 +145,12 @@
       "street": "Les Bouleaux"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "2B", 
+        "2\u00e9.G", 
+        "rez."
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -169,6 +175,13 @@
       "street": "Les Bouleaux"
     }, 
     {
+      "busnrs": [
+        "1/D", 
+        "1\u00e9t.", 
+        "2A", 
+        "rez", 
+        "rez."
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -523,6 +536,18 @@
       "housenumber": "64", 
       "lat": 50.607232560277, 
       "lon": 5.835241164146, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738682", 
+      "street": "Les Bouleaux"
+    }, 
+    {
+      "hnrlbls": [
+        "66"
+      ], 
+      "housenumber": "66", 
+      "lat": 50.607136781564, 
+      "lon": 5.835550804028, 
       "municipality": "Verviers", 
       "pcode": "4800", 
       "source": "7738682", 

@@ -5,8 +5,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.599613745337, 
-      "lon": 4.333906346902, 
+      "lat": 50.5998989077, 
+      "lon": 4.334991759675, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702833", 
@@ -73,6 +73,9 @@
       "street": "Avenue de Burlet"
     }, 
     {
+      "busnrs": [
+        "0002"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -173,8 +176,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 50.600171820972, 
-      "lon": 4.334278822134, 
+      "lat": 50.600277900578, 
+      "lon": 4.334256322389, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702833", 
@@ -337,6 +340,13 @@
       "street": "Avenue de Burlet"
     }, 
     {
+      "busnrs": [
+        "A000", 
+        "B000", 
+        "BtE0", 
+        "C000", 
+        "D000"
+      ], 
       "hnrlbls": [
         "37"
       ], 
@@ -355,6 +365,18 @@
       "housenumber": "39", 
       "lat": 50.600947694563, 
       "lon": 4.334454553551, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7702833", 
+      "street": "Avenue de Burlet"
+    }, 
+    {
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.60178040844, 
+      "lon": 4.334089651325, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702833", 
@@ -653,8 +675,8 @@
         "65"
       ], 
       "housenumber": "65", 
-      "lat": 50.601275438855, 
-      "lon": 4.332909983727, 
+      "lat": 50.601286871063, 
+      "lon": 4.33295930886, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702833", 
@@ -673,6 +695,11 @@
       "street": "Avenue de Burlet"
     }, 
     {
+      "busnrs": [
+        "A000", 
+        "B000", 
+        "C000"
+      ], 
       "hnrlbls": [
         "69"
       ], 

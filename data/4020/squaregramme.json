@@ -13,12 +13,40 @@
       "street": "Square Gramme"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0041", 
+        "0042", 
+        "0051", 
+        "0052", 
+        "0061", 
+        "0062"
+      ], 
       "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
       "lat": 50.620857486326, 
       "lon": 5.581567031179, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7731465", 
+      "street": "Square Gramme"
+    }, 
+    {
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.620887851609, 
+      "lon": 5.581710374326, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7731465", 

@@ -109,6 +109,10 @@
       "street": "Rue Albert 1er"
     }, 
     {
+      "busnrs": [
+        "APT1", 
+        "APT2"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -637,6 +641,9 @@
       "street": "Rue Albert 1er"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "93"
       ], 
@@ -653,8 +660,8 @@
         "97"
       ], 
       "housenumber": "97", 
-      "lat": 50.507545088745, 
-      "lon": 3.712366961963, 
+      "lat": 50.507506370559, 
+      "lon": 3.712354922568, 
       "municipality": "Beloeil", 
       "pcode": "7973", 
       "source": "7707884", 

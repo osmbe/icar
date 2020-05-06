@@ -361,12 +361,19 @@
       "street": "Rue du Ch\u00eane"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "006"
+      ], 
       "hnrlbls": [
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 50.623610449904, 
-      "lon": 5.521024646104, 
+      "lat": 50.623776533127, 
+      "lon": 5.521127497268, 
       "municipality": "Saint-Nicolas", 
       "pcode": "4420", 
       "source": "7731962", 
@@ -397,6 +404,14 @@
       "street": "Rue du Ch\u00eane"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "002"
+      ], 
       "hnrlbls": [
         "41"
       ], 
@@ -439,6 +454,31 @@
       "housenumber": "7", 
       "lat": 50.624165308798, 
       "lon": 5.523655579659, 
+      "municipality": "Saint-Nicolas", 
+      "pcode": "4420", 
+      "source": "7731962", 
+      "street": "Rue du Ch\u00eane"
+    }, 
+    {
+      "busnrs": [
+        "001", 
+        "0011", 
+        "002", 
+        "012", 
+        "021", 
+        "022", 
+        "023", 
+        "031", 
+        "032", 
+        "033", 
+        "041"
+      ], 
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.624168079791, 
+      "lon": 5.523134487624, 
       "municipality": "Saint-Nicolas", 
       "pcode": "4420", 
       "source": "7731962", 

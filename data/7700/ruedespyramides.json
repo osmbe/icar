@@ -13,6 +13,10 @@
       "street": "Rue des Pyramides"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "02"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -98,9 +102,21 @@
     }, 
     {
       "hnrlbls": [
-        "1B000"
+        "1A"
       ], 
-      "housenumber": "1B000", 
+      "housenumber": "1A", 
+      "lat": 50.740810517044, 
+      "lon": 3.211765747522, 
+      "municipality": "Mouscron", 
+      "pcode": "7700", 
+      "source": "7715910", 
+      "street": "Rue des Pyramides"
+    }, 
+    {
+      "hnrlbls": [
+        "1B"
+      ], 
+      "housenumber": "1B", 
       "lat": 50.740753797511, 
       "lon": 3.211893869703, 
       "municipality": "Mouscron", 
@@ -133,6 +149,10 @@
       "street": "Rue des Pyramides"
     }, 
     {
+      "busnrs": [
+        "A000", 
+        "B000"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -151,6 +171,69 @@
       "housenumber": "27", 
       "lat": 50.740356030998, 
       "lon": 3.212804438389, 
+      "municipality": "Mouscron", 
+      "pcode": "7700", 
+      "source": "7715910", 
+      "street": "Rue des Pyramides"
+    }, 
+    {
+      "busnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "011", 
+        "012", 
+        "013", 
+        "021", 
+        "022", 
+        "023", 
+        "031"
+      ], 
+      "hnrlbls": [
+        "2A"
+      ], 
+      "housenumber": "2A", 
+      "lat": 50.740641093146, 
+      "lon": 3.211508640523, 
+      "municipality": "Mouscron", 
+      "pcode": "7700", 
+      "source": "7715910", 
+      "street": "Rue des Pyramides"
+    }, 
+    {
+      "busnrs": [
+        "002", 
+        "011", 
+        "012", 
+        "021", 
+        "022", 
+        "031", 
+        "032"
+      ], 
+      "hnrlbls": [
+        "2B"
+      ], 
+      "housenumber": "2B", 
+      "lat": 50.740566665391, 
+      "lon": 3.211681053335, 
+      "municipality": "Mouscron", 
+      "pcode": "7700", 
+      "source": "7715910", 
+      "street": "Rue des Pyramides"
+    }, 
+    {
+      "busnrs": [
+        "001", 
+        "002", 
+        "011", 
+        "012"
+      ], 
+      "hnrlbls": [
+        "2C"
+      ], 
+      "housenumber": "2C", 
+      "lat": 50.740482860955, 
+      "lon": 3.211865671392, 
       "municipality": "Mouscron", 
       "pcode": "7700", 
       "source": "7715910", 

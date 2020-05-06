@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "B11", 
+        "B12", 
+        "B21", 
+        "B22"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -17,8 +23,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.570220348913, 
-      "lon": 5.534907510597, 
+      "lat": 50.570160749983, 
+      "lon": 5.534693402471, 
       "municipality": "Seraing", 
       "pcode": "4100", 
       "source": "7732609", 
@@ -122,6 +128,18 @@
     }, 
     {
       "hnrlbls": [
+        "111"
+      ], 
+      "housenumber": "111", 
+      "lat": 50.566082998755, 
+      "lon": 5.528076474583, 
+      "municipality": "Seraing", 
+      "pcode": "4100", 
+      "source": "7732609", 
+      "street": "Rue Solvay"
+    }, 
+    {
+      "hnrlbls": [
         "112"
       ], 
       "housenumber": "112", 
@@ -139,6 +157,18 @@
       "housenumber": "115", 
       "lat": 50.565960409038, 
       "lon": 5.527847867414, 
+      "municipality": "Seraing", 
+      "pcode": "4100", 
+      "source": "7732609", 
+      "street": "Rue Solvay"
+    }, 
+    {
+      "hnrlbls": [
+        "116"
+      ], 
+      "housenumber": "116", 
+      "lat": 50.566005897445, 
+      "lon": 5.527148984475, 
       "municipality": "Seraing", 
       "pcode": "4100", 
       "source": "7732609", 
@@ -181,6 +211,10 @@
       "street": "Rue Solvay"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -197,8 +231,8 @@
         "123"
       ], 
       "housenumber": "123", 
-      "lat": 50.565568155554, 
-      "lon": 5.526976708458, 
+      "lat": 50.565557605773, 
+      "lon": 5.527008945003, 
       "municipality": "Seraing", 
       "pcode": "4100", 
       "source": "7732609", 
@@ -223,6 +257,18 @@
       "housenumber": "126", 
       "lat": 50.565348960088, 
       "lon": 5.525946063929, 
+      "municipality": "Seraing", 
+      "pcode": "4100", 
+      "source": "7732609", 
+      "street": "Rue Solvay"
+    }, 
+    {
+      "hnrlbls": [
+        "127"
+      ], 
+      "housenumber": "127", 
+      "lat": 50.565141460157, 
+      "lon": 5.526448255885, 
       "municipality": "Seraing", 
       "pcode": "4100", 
       "source": "7732609", 
@@ -485,8 +531,8 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 50.569142436532, 
-      "lon": 5.532854127656, 
+      "lat": 50.5691622989, 
+      "lon": 5.532866196297, 
       "municipality": "Seraing", 
       "pcode": "4100", 
       "source": "7732609", 
@@ -511,6 +557,26 @@
       "housenumber": "4", 
       "lat": 50.570329794646, 
       "lon": 5.535083990965, 
+      "municipality": "Seraing", 
+      "pcode": "4100", 
+      "source": "7732609", 
+      "street": "Rue Solvay"
+    }, 
+    {
+      "busnrs": [
+        "0014", 
+        "1", 
+        "11", 
+        "12", 
+        "13", 
+        "3"
+      ], 
+      "hnrlbls": [
+        "40"
+      ], 
+      "housenumber": "40", 
+      "lat": 50.569073375203, 
+      "lon": 5.532551445448, 
       "municipality": "Seraing", 
       "pcode": "4100", 
       "source": "7732609", 
@@ -565,6 +631,9 @@
       "street": "Rue Solvay"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "49"
       ], 
@@ -590,11 +659,35 @@
     }, 
     {
       "hnrlbls": [
+        "50"
+      ], 
+      "housenumber": "50", 
+      "lat": 50.568883591794, 
+      "lon": 5.532025726042, 
+      "municipality": "Seraing", 
+      "pcode": "4100", 
+      "source": "7732609", 
+      "street": "Rue Solvay"
+    }, 
+    {
+      "hnrlbls": [
         "51"
       ], 
       "housenumber": "51", 
       "lat": 50.569002053103, 
       "lon": 5.533276473043, 
+      "municipality": "Seraing", 
+      "pcode": "4100", 
+      "source": "7732609", 
+      "street": "Rue Solvay"
+    }, 
+    {
+      "hnrlbls": [
+        "52"
+      ], 
+      "housenumber": "52", 
+      "lat": 50.568776545717, 
+      "lon": 5.531786834178, 
       "municipality": "Seraing", 
       "pcode": "4100", 
       "source": "7732609", 
@@ -614,11 +707,35 @@
     }, 
     {
       "hnrlbls": [
+        "54"
+      ], 
+      "housenumber": "54", 
+      "lat": 50.568731872281, 
+      "lon": 5.53165070413, 
+      "municipality": "Seraing", 
+      "pcode": "4100", 
+      "source": "7732609", 
+      "street": "Rue Solvay"
+    }, 
+    {
+      "hnrlbls": [
         "55"
       ], 
       "housenumber": "55", 
       "lat": 50.568762878883, 
       "lon": 5.532655531364, 
+      "municipality": "Seraing", 
+      "pcode": "4100", 
+      "source": "7732609", 
+      "street": "Rue Solvay"
+    }, 
+    {
+      "hnrlbls": [
+        "56"
+      ], 
+      "housenumber": "56", 
+      "lat": 50.568666505531, 
+      "lon": 5.531377167019, 
       "municipality": "Seraing", 
       "pcode": "4100", 
       "source": "7732609", 
@@ -686,11 +803,35 @@
     }, 
     {
       "hnrlbls": [
+        "62"
+      ], 
+      "housenumber": "62", 
+      "lat": 50.568317505561, 
+      "lon": 5.530686709851, 
+      "municipality": "Seraing", 
+      "pcode": "4100", 
+      "source": "7732609", 
+      "street": "Rue Solvay"
+    }, 
+    {
+      "hnrlbls": [
         "63"
       ], 
       "housenumber": "63", 
       "lat": 50.568586145647, 
       "lon": 5.532131807765, 
+      "municipality": "Seraing", 
+      "pcode": "4100", 
+      "source": "7732609", 
+      "street": "Rue Solvay"
+    }, 
+    {
+      "hnrlbls": [
+        "64"
+      ], 
+      "housenumber": "64", 
+      "lat": 50.568247319541, 
+      "lon": 5.530538375857, 
       "municipality": "Seraing", 
       "pcode": "4100", 
       "source": "7732609", 

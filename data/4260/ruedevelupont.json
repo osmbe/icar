@@ -49,6 +49,20 @@
       "street": "Rue de Velupont"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0010", 
+        "0011", 
+        "0012", 
+        "0014", 
+        "0016", 
+        "0017"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -187,6 +201,18 @@
       "housenumber": "4", 
       "lat": 50.620941210246, 
       "lon": 5.115019924889, 
+      "municipality": "Braives", 
+      "pcode": "4260", 
+      "source": "7739979", 
+      "street": "Rue de Velupont"
+    }, 
+    {
+      "hnrlbls": [
+        "40"
+      ], 
+      "housenumber": "40", 
+      "lat": 50.622784156042, 
+      "lon": 5.119191451818, 
       "municipality": "Braives", 
       "pcode": "4260", 
       "source": "7739979", 

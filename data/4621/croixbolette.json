@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -97,6 +100,9 @@
       "street": "Croix Bolette"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -307,6 +313,18 @@
       "housenumber": "45", 
       "lat": 50.62271067071, 
       "lon": 5.693659687865, 
+      "municipality": "Fl\u00e9ron", 
+      "pcode": "4621", 
+      "source": "7728841", 
+      "street": "Croix Bolette"
+    }, 
+    {
+      "hnrlbls": [
+        "46"
+      ], 
+      "housenumber": "46", 
+      "lat": 50.62257638052, 
+      "lon": 5.694524533878, 
       "municipality": "Fl\u00e9ron", 
       "pcode": "4621", 
       "source": "7728841", 

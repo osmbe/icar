@@ -17,8 +17,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.536102087321, 
-      "lon": 5.213569462353, 
+      "lat": 50.536087071119, 
+      "lon": 5.213540827604, 
       "municipality": "Wanze", 
       "pcode": "4520", 
       "source": "7726486", 
@@ -49,6 +49,10 @@
       "street": "Rue Lucien Delloye"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -89,8 +93,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.536127267897, 
-      "lon": 5.213920317439, 
+      "lat": 50.536131803202, 
+      "lon": 5.213983664431, 
       "municipality": "Wanze", 
       "pcode": "4520", 
       "source": "7726486", 
@@ -109,12 +113,37 @@
       "street": "Rue Lucien Delloye"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
       "lat": 50.536115683421, 
       "lon": 5.213815661745, 
+      "municipality": "Wanze", 
+      "pcode": "4520", 
+      "source": "7726486", 
+      "street": "Rue Lucien Delloye"
+    }, 
+    {
+      "busnrs": [
+        "1\u00e9t1", 
+        "1\u00e9t2", 
+        "2\u00e9t1", 
+        "2\u00e9t2", 
+        "2\u00e9t3", 
+        "REZ1"
+      ], 
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.535784444649, 
+      "lon": 5.213220158397, 
       "municipality": "Wanze", 
       "pcode": "4520", 
       "source": "7726486", 

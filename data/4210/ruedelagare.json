@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -37,6 +40,9 @@
       "street": "Rue de la Gare"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -53,8 +59,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 50.581067375891, 
-      "lon": 5.069260827612, 
+      "lat": 50.581187684272, 
+      "lon": 5.069168934296, 
       "municipality": "Burdinne", 
       "pcode": "4210", 
       "source": "7724756", 
@@ -77,8 +83,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.581271962948, 
-      "lon": 5.069473306208, 
+      "lat": 50.579618896802, 
+      "lon": 5.069180157121, 
       "municipality": "Burdinne", 
       "pcode": "4210", 
       "source": "7724756", 
@@ -109,6 +115,9 @@
       "street": "Rue de la Gare"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -133,6 +142,12 @@
       "street": "Rue de la Gare"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "000B", 
+        "000C", 
+        "000D"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -145,6 +160,10 @@
       "street": "Rue de la Gare"
     }, 
     {
+      "busnrs": [
+        "000C", 
+        "000D"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -157,12 +176,15 @@
       "street": "Rue de la Gare"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.579527243922, 
-      "lon": 5.067078245612, 
+      "lat": 50.580428472397, 
+      "lon": 5.069112873901, 
       "municipality": "Burdinne", 
       "pcode": "4210", 
       "source": "7724756", 

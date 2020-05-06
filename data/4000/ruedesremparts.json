@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -50,6 +54,18 @@
     }, 
     {
       "hnrlbls": [
+        "15"
+      ], 
+      "housenumber": "15", 
+      "lat": 50.646233256534, 
+      "lon": 5.563764772048, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730714", 
+      "street": "Rue des Remparts"
+    }, 
+    {
+      "hnrlbls": [
         "17"
       ], 
       "housenumber": "17", 
@@ -74,6 +90,54 @@
     }, 
     {
       "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.646578443791, 
+      "lon": 5.563656753283, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730714", 
+      "street": "Rue des Remparts"
+    }, 
+    {
+      "hnrlbls": [
+        "4A"
+      ], 
+      "housenumber": "4A", 
+      "lat": 50.646646299, 
+      "lon": 5.563684929642, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730714", 
+      "street": "Rue des Remparts"
+    }, 
+    {
+      "hnrlbls": [
+        "4B"
+      ], 
+      "housenumber": "4B", 
+      "lat": 50.646585226623, 
+      "lon": 5.563634455057, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730714", 
+      "street": "Rue des Remparts"
+    }, 
+    {
+      "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 50.646824605649, 
+      "lon": 5.564298217908, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730714", 
+      "street": "Rue des Remparts"
+    }, 
+    {
+      "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
@@ -85,12 +149,32 @@
       "street": "Rue des Remparts"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0014", 
+        "0021"
+      ], 
       "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
       "lat": 50.64677035432, 
       "lon": 5.564316541615, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730714", 
+      "street": "Rue des Remparts"
+    }, 
+    {
+      "hnrlbls": [
+        "71"
+      ], 
+      "housenumber": "71", 
+      "lat": 50.647040984681, 
+      "lon": 5.564597595904, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730714", 

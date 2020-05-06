@@ -49,6 +49,19 @@
       "street": "Avenue du Chaineux"
     }, 
     {
+      "busnrs": [
+        "2\u00e9t.", 
+        "7", 
+        "8", 
+        "bt11", 
+        "bt12", 
+        "bt13", 
+        "bt15", 
+        "bte1", 
+        "bte3", 
+        "bte4", 
+        "bte9"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -74,11 +87,38 @@
     }, 
     {
       "hnrlbls": [
+        "21C"
+      ], 
+      "housenumber": "21C", 
+      "lat": 50.581380868102, 
+      "lon": 5.869887844708, 
+      "municipality": "Verviers", 
+      "pcode": "4802", 
+      "source": "7738588", 
+      "street": "Avenue du Chaineux"
+    }, 
+    {
+      "busnrs": [
+        "2\u00e9t."
+      ], 
+      "hnrlbls": [
         "23"
       ], 
       "housenumber": "23", 
       "lat": 50.580428380325, 
       "lon": 5.871072943092, 
+      "municipality": "Verviers", 
+      "pcode": "4802", 
+      "source": "7738588", 
+      "street": "Avenue du Chaineux"
+    }, 
+    {
+      "hnrlbls": [
+        "24"
+      ], 
+      "housenumber": "24", 
+      "lat": 50.582017358911, 
+      "lon": 5.870244073377, 
       "municipality": "Verviers", 
       "pcode": "4802", 
       "source": "7738588", 
@@ -109,6 +149,10 @@
       "street": "Avenue du Chaineux"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "2\u00e9t."
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -193,6 +237,9 @@
       "street": "Avenue du Chaineux"
     }, 
     {
+      "busnrs": [
+        "rez."
+      ], 
       "hnrlbls": [
         "43"
       ], 
@@ -325,6 +372,9 @@
       "street": "Avenue du Chaineux"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t."
+      ], 
       "hnrlbls": [
         "60"
       ], 
@@ -445,6 +495,9 @@
       "street": "Avenue du Chaineux"
     }, 
     {
+      "busnrs": [
+        "2\u00e9t."
+      ], 
       "hnrlbls": [
         "80"
       ], 

@@ -1,6 +1,41 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0015", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024", 
+        "0025", 
+        "0031", 
+        "0032", 
+        "0033", 
+        "0034", 
+        "0035", 
+        "0041", 
+        "0042", 
+        "0043", 
+        "0044", 
+        "0051", 
+        "0052", 
+        "0053", 
+        "0054", 
+        "0061", 
+        "0062", 
+        "0063", 
+        "0064", 
+        "0071", 
+        "0072", 
+        "0073", 
+        "0081"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -61,6 +96,15 @@
       "street": "Rue des Fories"
     }, 
     {
+      "busnrs": [
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0042", 
+        "0051"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -97,6 +141,14 @@
       "street": "Rue des Fories"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -110,11 +162,251 @@
     }, 
     {
       "hnrlbls": [
+        "58"
+      ], 
+      "housenumber": "58", 
+      "lat": 50.632561724768, 
+      "lon": 5.576067826543, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730617", 
+      "street": "Rue des Fories"
+    }, 
+    {
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.633381008332, 
+      "lon": 5.575221335845, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730617", 
+      "street": "Rue des Fories"
+    }, 
+    {
+      "hnrlbls": [
+        "64"
+      ], 
+      "housenumber": "64", 
+      "lat": 50.632259173656, 
+      "lon": 5.576364761437, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730617", 
+      "street": "Rue des Fories"
+    }, 
+    {
+      "hnrlbls": [
+        "65"
+      ], 
+      "housenumber": "65", 
+      "lat": 50.63220814612, 
+      "lon": 5.576401497627, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730617", 
+      "street": "Rue des Fories"
+    }, 
+    {
+      "hnrlbls": [
+        "66"
+      ], 
+      "housenumber": "66", 
+      "lat": 50.632170182284, 
+      "lon": 5.576423512448, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730617", 
+      "street": "Rue des Fories"
+    }, 
+    {
+      "hnrlbls": [
+        "68"
+      ], 
+      "housenumber": "68", 
+      "lat": 50.632118544799, 
+      "lon": 5.576446209306, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730617", 
+      "street": "Rue des Fories"
+    }, 
+    {
+      "hnrlbls": [
+        "69"
+      ], 
+      "housenumber": "69", 
+      "lat": 50.632052566467, 
+      "lon": 5.576503640468, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730617", 
+      "street": "Rue des Fories"
+    }, 
+    {
+      "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
       "lat": 50.633362585145, 
       "lon": 5.575789004803, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730617", 
+      "street": "Rue des Fories"
+    }, 
+    {
+      "hnrlbls": [
+        "70"
+      ], 
+      "housenumber": "70", 
+      "lat": 50.631953033793, 
+      "lon": 5.576555787975, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730617", 
+      "street": "Rue des Fories"
+    }, 
+    {
+      "hnrlbls": [
+        "71"
+      ], 
+      "housenumber": "71", 
+      "lat": 50.63189705957, 
+      "lon": 5.576606562015, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730617", 
+      "street": "Rue des Fories"
+    }, 
+    {
+      "hnrlbls": [
+        "72"
+      ], 
+      "housenumber": "72", 
+      "lat": 50.631782253599, 
+      "lon": 5.576630652932, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730617", 
+      "street": "Rue des Fories"
+    }, 
+    {
+      "hnrlbls": [
+        "73"
+      ], 
+      "housenumber": "73", 
+      "lat": 50.631731752662, 
+      "lon": 5.576704227708, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730617", 
+      "street": "Rue des Fories"
+    }, 
+    {
+      "hnrlbls": [
+        "74"
+      ], 
+      "housenumber": "74", 
+      "lat": 50.631696447818, 
+      "lon": 5.576716046982, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730617", 
+      "street": "Rue des Fories"
+    }, 
+    {
+      "hnrlbls": [
+        "75"
+      ], 
+      "housenumber": "75", 
+      "lat": 50.63166952379, 
+      "lon": 5.576724292154, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730617", 
+      "street": "Rue des Fories"
+    }, 
+    {
+      "hnrlbls": [
+        "76"
+      ], 
+      "housenumber": "76", 
+      "lat": 50.631634788876, 
+      "lon": 5.576731432653, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730617", 
+      "street": "Rue des Fories"
+    }, 
+    {
+      "hnrlbls": [
+        "77"
+      ], 
+      "housenumber": "77", 
+      "lat": 50.631580519035, 
+      "lon": 5.576739161644, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730617", 
+      "street": "Rue des Fories"
+    }, 
+    {
+      "hnrlbls": [
+        "78"
+      ], 
+      "housenumber": "78", 
+      "lat": 50.631542693754, 
+      "lon": 5.576362176376, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730617", 
+      "street": "Rue des Fories"
+    }, 
+    {
+      "hnrlbls": [
+        "82"
+      ], 
+      "housenumber": "82", 
+      "lat": 50.631310229012, 
+      "lon": 5.576984621349, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730617", 
+      "street": "Rue des Fories"
+    }, 
+    {
+      "hnrlbls": [
+        "83"
+      ], 
+      "housenumber": "83", 
+      "lat": 50.631114286233, 
+      "lon": 5.577065172625, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730617", 
+      "street": "Rue des Fories"
+    }, 
+    {
+      "hnrlbls": [
+        "84"
+      ], 
+      "housenumber": "84", 
+      "lat": 50.631114286233, 
+      "lon": 5.577065172625, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730617", 
+      "street": "Rue des Fories"
+    }, 
+    {
+      "hnrlbls": [
+        "85"
+      ], 
+      "housenumber": "85", 
+      "lat": 50.631114286233, 
+      "lon": 5.577065172625, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730617", 

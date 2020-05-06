@@ -1,6 +1,14 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -25,6 +33,23 @@
       "street": "Rue Ferdinand-Heuveneers"
     }, 
     {
+      "hnrlbls": [
+        "12"
+      ], 
+      "housenumber": "12", 
+      "lat": 50.643293172031, 
+      "lon": 5.609804644611, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730941", 
+      "street": "Rue Ferdinand-Heuveneers"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -85,6 +110,12 @@
       "street": "Rue Ferdinand-Heuveneers"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -169,6 +200,11 @@
       "street": "Rue Ferdinand-Heuveneers"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -193,6 +229,12 @@
       "street": "Rue Ferdinand-Heuveneers"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -205,6 +247,12 @@
       "street": "Rue Ferdinand-Heuveneers"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -217,6 +265,11 @@
       "street": "Rue Ferdinand-Heuveneers"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -235,6 +288,30 @@
       "housenumber": "6", 
       "lat": 50.643512027853, 
       "lon": 5.609776690893, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730941", 
+      "street": "Rue Ferdinand-Heuveneers"
+    }, 
+    {
+      "hnrlbls": [
+        "6B"
+      ], 
+      "housenumber": "6B", 
+      "lat": 50.64346783877, 
+      "lon": 5.609784041017, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730941", 
+      "street": "Rue Ferdinand-Heuveneers"
+    }, 
+    {
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 50.643289318317, 
+      "lon": 5.610123937786, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730941", 

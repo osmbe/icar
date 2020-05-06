@@ -1,6 +1,14 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -149,8 +157,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.612313881318, 
-      "lon": 4.54199896013, 
+      "lat": 50.611663382475, 
+      "lon": 4.544334793126, 
       "municipality": "Court-Saint-Etienne", 
       "pcode": "1490", 
       "source": "7701285", 
@@ -281,8 +289,8 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.612860114026, 
-      "lon": 4.544734371107, 
+      "lat": 50.61244781308, 
+      "lon": 4.547379870663, 
       "municipality": "Court-Saint-Etienne", 
       "pcode": "1490", 
       "source": "7701285", 
@@ -301,6 +309,10 @@
       "street": "Rue de la Belle Haie"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "9"
       ], 

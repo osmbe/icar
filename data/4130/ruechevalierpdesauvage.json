@@ -13,12 +13,35 @@
       "street": "Rue Chevalier P. de Sauvage"
     }, 
     {
+      "busnrs": [
+        "011", 
+        "021"
+      ], 
       "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
       "lat": 50.568711963855, 
       "lon": 5.582369659585, 
+      "municipality": "Esneux", 
+      "pcode": "4130", 
+      "source": "7728656", 
+      "street": "Rue Chevalier P. de Sauvage"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0211", 
+        "0212", 
+        "0213"
+      ], 
+      "hnrlbls": [
+        "2A"
+      ], 
+      "housenumber": "2A", 
+      "lat": 50.568548672774, 
+      "lon": 5.582478421924, 
       "municipality": "Esneux", 
       "pcode": "4130", 
       "source": "7728656", 
@@ -85,6 +108,11 @@
       "street": "Rue Chevalier P. de Sauvage"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "9"
       ], 

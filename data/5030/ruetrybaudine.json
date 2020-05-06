@@ -181,6 +181,9 @@
       "street": "Rue Try Baudine"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -193,6 +196,11 @@
       "street": "Rue Try Baudine"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -317,8 +325,8 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.551803914746, 
-      "lon": 4.729027242679, 
+      "lat": 50.551858386084, 
+      "lon": 4.729265343991, 
       "municipality": "Gembloux", 
       "pcode": "5030", 
       "source": "7756484", 
@@ -329,8 +337,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.551178786146, 
-      "lon": 4.728246096789, 
+      "lat": 50.552230296894, 
+      "lon": 4.730743726155, 
       "municipality": "Gembloux", 
       "pcode": "5030", 
       "source": "7756484", 

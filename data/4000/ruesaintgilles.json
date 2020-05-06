@@ -1,12 +1,30 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
       "lat": 50.639812604359, 
       "lon": 5.56812697156, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731307", 
+      "street": "Rue Saint-Gilles"
+    }, 
+    {
+      "hnrlbls": [
+        "10"
+      ], 
+      "housenumber": "10", 
+      "lat": 50.639924370702, 
+      "lon": 5.567881390265, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731307", 
@@ -53,8 +71,8 @@
         "104"
       ], 
       "housenumber": "104", 
-      "lat": 50.639790001252, 
-      "lon": 5.563014502776, 
+      "lat": 50.639369504365, 
+      "lon": 5.563159401408, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731307", 
@@ -67,6 +85,42 @@
       "housenumber": "105", 
       "lat": 50.638572455453, 
       "lon": 5.564772133438, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731307", 
+      "street": "Rue Saint-Gilles"
+    }, 
+    {
+      "hnrlbls": [
+        "106"
+      ], 
+      "housenumber": "106", 
+      "lat": 50.638438190764, 
+      "lon": 5.564034204952, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731307", 
+      "street": "Rue Saint-Gilles"
+    }, 
+    {
+      "hnrlbls": [
+        "107"
+      ], 
+      "housenumber": "107", 
+      "lat": 50.638519235008, 
+      "lon": 5.564701265187, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731307", 
+      "street": "Rue Saint-Gilles"
+    }, 
+    {
+      "hnrlbls": [
+        "108"
+      ], 
+      "housenumber": "108", 
+      "lat": 50.638451287158, 
+      "lon": 5.564023155161, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731307", 
@@ -103,6 +157,25 @@
       "housenumber": "110", 
       "lat": 50.638418697288, 
       "lon": 5.56398336386, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731307", 
+      "street": "Rue Saint-Gilles"
+    }, 
+    {
+      "busnrs": [
+        "0011", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0031"
+      ], 
+      "hnrlbls": [
+        "111"
+      ], 
+      "housenumber": "111", 
+      "lat": 50.638500182618, 
+      "lon": 5.56463899681, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731307", 
@@ -157,6 +230,17 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0031", 
+        "0032", 
+        "0033"
+      ], 
       "hnrlbls": [
         "116"
       ], 
@@ -175,6 +259,18 @@
       "housenumber": "117", 
       "lat": 50.638456778708, 
       "lon": 5.564499862194, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731307", 
+      "street": "Rue Saint-Gilles"
+    }, 
+    {
+      "hnrlbls": [
+        "118"
+      ], 
+      "housenumber": "118", 
+      "lat": 50.638373676964, 
+      "lon": 5.56377899646, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731307", 
@@ -301,12 +397,37 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0031", 
+        "A001", 
+        "A002", 
+        "A011", 
+        "A021", 
+        "A031"
+      ], 
       "hnrlbls": [
         "130"
       ], 
       "housenumber": "130", 
       "lat": 50.638306715043, 
       "lon": 5.563617054919, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731307", 
+      "street": "Rue Saint-Gilles"
+    }, 
+    {
+      "hnrlbls": [
+        "131"
+      ], 
+      "housenumber": "131", 
+      "lat": 50.638172086385, 
+      "lon": 5.564271423585, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731307", 
@@ -325,6 +446,13 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "133"
       ], 
@@ -343,6 +471,24 @@
       "housenumber": "134", 
       "lat": 50.638244845481, 
       "lon": 5.563495155697, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731307", 
+      "street": "Rue Saint-Gilles"
+    }, 
+    {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
+      "hnrlbls": [
+        "135"
+      ], 
+      "housenumber": "135", 
+      "lat": 50.638272345009, 
+      "lon": 5.564042516597, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731307", 
@@ -397,6 +543,20 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "140"
       ], 
@@ -415,6 +575,18 @@
       "housenumber": "141", 
       "lat": 50.638225825576, 
       "lon": 5.563880060658, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731307", 
+      "street": "Rue Saint-Gilles"
+    }, 
+    {
+      "hnrlbls": [
+        "142"
+      ], 
+      "housenumber": "142", 
+      "lat": 50.638170203443, 
+      "lon": 5.563261324475, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731307", 
@@ -457,6 +629,12 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "148"
       ], 
@@ -481,6 +659,29 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0021", 
+        "0032"
+      ], 
+      "hnrlbls": [
+        "15"
+      ], 
+      "housenumber": "15", 
+      "lat": 50.639634861079, 
+      "lon": 5.567767142952, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731307", 
+      "street": "Rue Saint-Gilles"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "150"
       ], 
@@ -493,6 +694,24 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "hnrlbls": [
+        "151"
+      ], 
+      "housenumber": "151", 
+      "lat": 50.638105502019, 
+      "lon": 5.563609188802, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731307", 
+      "street": "Rue Saint-Gilles"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "152"
       ], 
@@ -509,8 +728,8 @@
         "153"
       ], 
       "housenumber": "153", 
-      "lat": 50.638099873055, 
-      "lon": 5.563569727279, 
+      "lat": 50.638050989962, 
+      "lon": 5.563555510474, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731307", 
@@ -529,18 +748,30 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0022", 
+        "0031"
+      ], 
       "hnrlbls": [
         "155"
       ], 
       "housenumber": "155", 
-      "lat": 50.638021403411, 
-      "lon": 5.563519189097, 
+      "lat": 50.638079645713, 
+      "lon": 5.563474629022, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731307", 
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "156"
       ], 
@@ -553,6 +784,12 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "157"
       ], 
@@ -565,6 +802,9 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0023"
+      ], 
       "hnrlbls": [
         "158"
       ], 
@@ -578,6 +818,37 @@
     }, 
     {
       "hnrlbls": [
+        "159A"
+      ], 
+      "housenumber": "159A", 
+      "lat": 50.637940673892, 
+      "lon": 5.563403090717, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731307", 
+      "street": "Rue Saint-Gilles"
+    }, 
+    {
+      "hnrlbls": [
+        "159B"
+      ], 
+      "housenumber": "159B", 
+      "lat": 50.63793781645, 
+      "lon": 5.563302805491, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731307", 
+      "street": "Rue Saint-Gilles"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0012", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
+      "hnrlbls": [
         "159C"
       ], 
       "housenumber": "159C", 
@@ -589,6 +860,18 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024", 
+        "0025"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -601,12 +884,17 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "160"
       ], 
       "housenumber": "160", 
-      "lat": 50.638055622035, 
-      "lon": 5.563085496954, 
+      "lat": 50.638107080923, 
+      "lon": 5.563072943715, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731307", 
@@ -625,18 +913,33 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0032", 
+        "0033"
+      ], 
       "hnrlbls": [
         "162"
       ], 
       "housenumber": "162", 
-      "lat": 50.638097937554, 
-      "lon": 5.563005243693, 
+      "lat": 50.638041399609, 
+      "lon": 5.563026490831, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731307", 
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "163"
       ], 
@@ -649,12 +952,20 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "164"
       ], 
       "housenumber": "164", 
-      "lat": 50.638033211623, 
-      "lon": 5.56296471081, 
+      "lat": 50.638093367699, 
+      "lon": 5.5629308023, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731307", 
@@ -697,6 +1008,11 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "168"
       ], 
@@ -721,6 +1037,10 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -733,12 +1053,31 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "170"
       ], 
       "housenumber": "170", 
       "lat": 50.637999459341, 
       "lon": 5.562798621101, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731307", 
+      "street": "Rue Saint-Gilles"
+    }, 
+    {
+      "hnrlbls": [
+        "171"
+      ], 
+      "housenumber": "171", 
+      "lat": 50.637552671588, 
+      "lon": 5.562252903293, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731307", 
@@ -758,11 +1097,35 @@
     }, 
     {
       "hnrlbls": [
+        "173"
+      ], 
+      "housenumber": "173", 
+      "lat": 50.637145626594, 
+      "lon": 5.562230760575, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731307", 
+      "street": "Rue Saint-Gilles"
+    }, 
+    {
+      "hnrlbls": [
         "174"
       ], 
       "housenumber": "174", 
       "lat": 50.637969142262, 
       "lon": 5.562660570153, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731307", 
+      "street": "Rue Saint-Gilles"
+    }, 
+    {
+      "hnrlbls": [
+        "175"
+      ], 
+      "housenumber": "175", 
+      "lat": 50.637258953772, 
+      "lon": 5.562599607733, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731307", 
@@ -781,6 +1144,12 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "178"
       ], 
@@ -829,6 +1198,12 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "184"
       ], 
@@ -841,6 +1216,13 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "186"
       ], 
@@ -889,6 +1271,40 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
+      "hnrlbls": [
+        "192"
+      ], 
+      "housenumber": "192", 
+      "lat": 50.637676045869, 
+      "lon": 5.561961240053, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731307", 
+      "street": "Rue Saint-Gilles"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
+      "hnrlbls": [
+        "194"
+      ], 
+      "housenumber": "194", 
+      "lat": 50.637666614378, 
+      "lon": 5.561898793043, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731307", 
+      "street": "Rue Saint-Gilles"
+    }, 
+    {
       "hnrlbls": [
         "195"
       ], 
@@ -901,6 +1317,12 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "196"
       ], 
@@ -914,11 +1336,78 @@
     }, 
     {
       "hnrlbls": [
+        "198"
+      ], 
+      "housenumber": "198", 
+      "lat": 50.637645935481, 
+      "lon": 5.561861793383, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731307", 
+      "street": "Rue Saint-Gilles"
+    }, 
+    {
+      "hnrlbls": [
+        "199"
+      ], 
+      "housenumber": "199", 
+      "lat": 50.636466844276, 
+      "lon": 5.56147598874, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731307", 
+      "street": "Rue Saint-Gilles"
+    }, 
+    {
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.639988233839, 
+      "lon": 5.568062578688, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731307", 
+      "street": "Rue Saint-Gilles"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
+      "hnrlbls": [
         "20"
       ], 
       "housenumber": "20", 
       "lat": 50.639779519375, 
       "lon": 5.567490627145, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731307", 
+      "street": "Rue Saint-Gilles"
+    }, 
+    {
+      "hnrlbls": [
+        "200"
+      ], 
+      "housenumber": "200", 
+      "lat": 50.637625536975, 
+      "lon": 5.561753402488, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731307", 
+      "street": "Rue Saint-Gilles"
+    }, 
+    {
+      "hnrlbls": [
+        "200B"
+      ], 
+      "housenumber": "200B", 
+      "lat": 50.637630245362, 
+      "lon": 5.561788867248, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731307", 
@@ -937,6 +1426,29 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0015", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024", 
+        "0025", 
+        "0031", 
+        "0032", 
+        "0033", 
+        "0034", 
+        "0035", 
+        "0041", 
+        "0042", 
+        "0043", 
+        "0044", 
+        "0045"
+      ], 
       "hnrlbls": [
         "204"
       ], 
@@ -949,6 +1461,26 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024", 
+        "0031", 
+        "0032", 
+        "0033", 
+        "0034", 
+        "0041", 
+        "0051"
+      ], 
       "hnrlbls": [
         "205"
       ], 
@@ -974,6 +1506,18 @@
     }, 
     {
       "hnrlbls": [
+        "207"
+      ], 
+      "housenumber": "207", 
+      "lat": 50.636794808745, 
+      "lon": 5.560528829574, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731307", 
+      "street": "Rue Saint-Gilles"
+    }, 
+    {
+      "hnrlbls": [
         "21"
       ], 
       "housenumber": "21", 
@@ -985,6 +1529,26 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "hnrlbls": [
+        "213"
+      ], 
+      "housenumber": "213", 
+      "lat": 50.636684198318, 
+      "lon": 5.560299205981, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731307", 
+      "street": "Rue Saint-Gilles"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "215"
       ], 
@@ -1033,6 +1597,13 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "221"
       ], 
@@ -1045,6 +1616,19 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024", 
+        "0025"
+      ], 
       "hnrlbls": [
         "223"
       ], 
@@ -1082,6 +1666,18 @@
     }, 
     {
       "hnrlbls": [
+        "226"
+      ], 
+      "housenumber": "226", 
+      "lat": 50.637576753768, 
+      "lon": 5.561418930073, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731307", 
+      "street": "Rue Saint-Gilles"
+    }, 
+    {
+      "hnrlbls": [
         "227"
       ], 
       "housenumber": "227", 
@@ -1094,6 +1690,29 @@
     }, 
     {
       "hnrlbls": [
+        "228"
+      ], 
+      "housenumber": "228", 
+      "lat": 50.637558289518, 
+      "lon": 5.561351730779, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731307", 
+      "street": "Rue Saint-Gilles"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032"
+      ], 
+      "hnrlbls": [
         "229"
       ], 
       "housenumber": "229", 
@@ -1105,6 +1724,16 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -1130,6 +1759,23 @@
     }, 
     {
       "hnrlbls": [
+        "232"
+      ], 
+      "housenumber": "232", 
+      "lat": 50.637566744438, 
+      "lon": 5.561402432221, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731307", 
+      "street": "Rue Saint-Gilles"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
+      "hnrlbls": [
         "233"
       ], 
       "housenumber": "233", 
@@ -1142,6 +1788,69 @@
     }, 
     {
       "hnrlbls": [
+        "234"
+      ], 
+      "housenumber": "234", 
+      "lat": 50.637576690186, 
+      "lon": 5.561331907399, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731307", 
+      "street": "Rue Saint-Gilles"
+    }, 
+    {
+      "hnrlbls": [
+        "235"
+      ], 
+      "housenumber": "235", 
+      "lat": 50.6362469659, 
+      "lon": 5.559297115323, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731307", 
+      "street": "Rue Saint-Gilles"
+    }, 
+    {
+      "hnrlbls": [
+        "235A"
+      ], 
+      "housenumber": "235A", 
+      "lat": 50.636258148598, 
+      "lon": 5.559311436355, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731307", 
+      "street": "Rue Saint-Gilles"
+    }, 
+    {
+      "hnrlbls": [
+        "235B"
+      ], 
+      "housenumber": "235B", 
+      "lat": 50.636243274309, 
+      "lon": 5.559271192306, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731307", 
+      "street": "Rue Saint-Gilles"
+    }, 
+    {
+      "busnrs": [
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0041", 
+        "0042", 
+        "0051", 
+        "0052", 
+        "0061", 
+        "0062"
+      ], 
+      "hnrlbls": [
         "236"
       ], 
       "housenumber": "236", 
@@ -1153,6 +1862,14 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "237"
       ], 
@@ -1201,6 +1918,11 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "241"
       ], 
@@ -1214,6 +1936,39 @@
     }, 
     {
       "hnrlbls": [
+        "242"
+      ], 
+      "housenumber": "242", 
+      "lat": 50.637319332054, 
+      "lon": 5.561225941111, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731307", 
+      "street": "Rue Saint-Gilles"
+    }, 
+    {
+      "hnrlbls": [
+        "243"
+      ], 
+      "housenumber": "243", 
+      "lat": 50.636050489176, 
+      "lon": 5.559219815297, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731307", 
+      "street": "Rue Saint-Gilles"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032"
+      ], 
+      "hnrlbls": [
         "244"
       ], 
       "housenumber": "244", 
@@ -1225,6 +1980,13 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "246"
       ], 
@@ -1237,6 +1999,11 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "247"
       ], 
@@ -1249,6 +2016,29 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024", 
+        "0031", 
+        "0032", 
+        "0033", 
+        "0034", 
+        "0041", 
+        "0042", 
+        "0043", 
+        "0044"
+      ], 
       "hnrlbls": [
         "248"
       ], 
@@ -1273,6 +2063,15 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -1297,6 +2096,14 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "252"
       ], 
@@ -1333,6 +2140,12 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "255"
       ], 
@@ -1357,6 +2170,16 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "257"
       ], 
@@ -1369,6 +2192,16 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "258"
       ], 
@@ -1393,6 +2226,17 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0031", 
+        "0032", 
+        "0033"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -1405,6 +2249,25 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0015", 
+        "0016", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024", 
+        "0031", 
+        "0032", 
+        "0033"
+      ], 
       "hnrlbls": [
         "260"
       ], 
@@ -1417,6 +2280,14 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0021"
+      ], 
       "hnrlbls": [
         "261"
       ], 
@@ -1441,6 +2312,13 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021"
+      ], 
       "hnrlbls": [
         "263"
       ], 
@@ -1453,6 +2331,13 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "264"
       ], 
@@ -1490,6 +2375,60 @@
     }, 
     {
       "hnrlbls": [
+        "26A"
+      ], 
+      "housenumber": "26A", 
+      "lat": 50.63970236865, 
+      "lon": 5.56722606489, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731307", 
+      "street": "Rue Saint-Gilles"
+    }, 
+    {
+      "hnrlbls": [
+        "26B"
+      ], 
+      "housenumber": "26B", 
+      "lat": 50.639677522561, 
+      "lon": 5.567176513172, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731307", 
+      "street": "Rue Saint-Gilles"
+    }, 
+    {
+      "hnrlbls": [
+        "26C"
+      ], 
+      "housenumber": "26C", 
+      "lat": 50.639664605303, 
+      "lon": 5.56713857559, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731307", 
+      "street": "Rue Saint-Gilles"
+    }, 
+    {
+      "hnrlbls": [
+        "26D"
+      ], 
+      "housenumber": "26D", 
+      "lat": 50.639637706383, 
+      "lon": 5.567078791812, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731307", 
+      "street": "Rue Saint-Gilles"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
+      "hnrlbls": [
         "27"
       ], 
       "housenumber": "27", 
@@ -1501,6 +2440,16 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "270"
       ], 
@@ -1610,6 +2559,51 @@
     }, 
     {
       "hnrlbls": [
+        "282"
+      ], 
+      "housenumber": "282", 
+      "lat": 50.636818049494, 
+      "lon": 5.560123089193, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731307", 
+      "street": "Rue Saint-Gilles"
+    }, 
+    {
+      "hnrlbls": [
+        "282A"
+      ], 
+      "housenumber": "282A", 
+      "lat": 50.636798636445, 
+      "lon": 5.560145219936, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731307", 
+      "street": "Rue Saint-Gilles"
+    }, 
+    {
+      "hnrlbls": [
+        "282B"
+      ], 
+      "housenumber": "282B", 
+      "lat": 50.636939644352, 
+      "lon": 5.55998407138, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731307", 
+      "street": "Rue Saint-Gilles"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0031"
+      ], 
+      "hnrlbls": [
         "283"
       ], 
       "housenumber": "283", 
@@ -1621,6 +2615,13 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "284"
       ], 
@@ -1645,6 +2646,11 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "286"
       ], 
@@ -1657,6 +2663,13 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "287"
       ], 
@@ -1693,6 +2706,16 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -1705,6 +2728,11 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "291"
       ], 
@@ -1729,6 +2757,18 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0021", 
+        "0022", 
+        "0023"
+      ], 
       "hnrlbls": [
         "293"
       ], 
@@ -1789,6 +2829,15 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031"
+      ], 
       "hnrlbls": [
         "298"
       ], 
@@ -1801,18 +2850,29 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "299"
       ], 
       "housenumber": "299", 
-      "lat": 50.635345326267, 
-      "lon": 5.556344239089, 
+      "lat": 50.635324587244, 
+      "lon": 5.556429574716, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731307", 
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -1825,12 +2885,37 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "30"
       ], 
       "housenumber": "30", 
       "lat": 50.639552329972, 
       "lon": 5.566854303871, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731307", 
+      "street": "Rue Saint-Gilles"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021"
+      ], 
+      "hnrlbls": [
+        "300"
+      ], 
+      "housenumber": "300", 
+      "lat": 50.636560295934, 
+      "lon": 5.559536077041, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731307", 
@@ -1849,6 +2934,14 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "302"
       ], 
@@ -1873,6 +2966,14 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "304"
       ], 
@@ -1897,6 +2998,14 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "306"
       ], 
@@ -1939,6 +3048,18 @@
       "housenumber": "309", 
       "lat": 50.634830166386, 
       "lon": 5.555350490389, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731307", 
+      "street": "Rue Saint-Gilles"
+    }, 
+    {
+      "hnrlbls": [
+        "31"
+      ], 
+      "housenumber": "31", 
+      "lat": 50.639483785923, 
+      "lon": 5.567209343508, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731307", 
@@ -2017,6 +3138,12 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "316"
       ], 
@@ -2053,6 +3180,20 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "32"
       ], 
@@ -2065,6 +3206,14 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0021"
+      ], 
       "hnrlbls": [
         "320"
       ], 
@@ -2077,6 +3226,20 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0041", 
+        "0042", 
+        "0051", 
+        "0052"
+      ], 
       "hnrlbls": [
         "321"
       ], 
@@ -2101,6 +3264,23 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024", 
+        "0025", 
+        "0026", 
+        "0027"
+      ], 
       "hnrlbls": [
         "323"
       ], 
@@ -2137,6 +3317,13 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "326"
       ], 
@@ -2185,6 +3372,16 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "332"
       ], 
@@ -2197,6 +3394,13 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "334"
       ], 
@@ -2209,6 +3413,14 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031"
+      ], 
       "hnrlbls": [
         "336"
       ], 
@@ -2221,6 +3433,13 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "338"
       ], 
@@ -2245,6 +3464,13 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -2270,6 +3496,100 @@
     }, 
     {
       "hnrlbls": [
+        "341"
+      ], 
+      "housenumber": "341", 
+      "lat": 50.63350625039, 
+      "lon": 5.551589055379, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731307", 
+      "street": "Rue Saint-Gilles"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0015", 
+        "0016", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024", 
+        "0025", 
+        "0026", 
+        "0031", 
+        "0032", 
+        "0033", 
+        "0034", 
+        "0035", 
+        "0036", 
+        "0041", 
+        "0042", 
+        "0043", 
+        "0044", 
+        "0045", 
+        "0046", 
+        "0051", 
+        "0052", 
+        "0053", 
+        "0054", 
+        "0055", 
+        "0056", 
+        "0061", 
+        "0062", 
+        "0063", 
+        "0064", 
+        "0065", 
+        "0066", 
+        "0071", 
+        "0072", 
+        "0073", 
+        "0074", 
+        "0075", 
+        "0076", 
+        "0081", 
+        "0082", 
+        "0083", 
+        "0084", 
+        "0085", 
+        "0086", 
+        "0091", 
+        "0092", 
+        "0093", 
+        "0094", 
+        "0095", 
+        "0096", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0106", 
+        "0111", 
+        "0112", 
+        "0113", 
+        "0114", 
+        "0115", 
+        "0116", 
+        "0121", 
+        "0122", 
+        "0123", 
+        "0124", 
+        "0125", 
+        "0126", 
+        "0131", 
+        "0132", 
+        "0133"
+      ], 
+      "hnrlbls": [
         "343"
       ], 
       "housenumber": "343", 
@@ -2281,6 +3601,88 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0015", 
+        "0016", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024", 
+        "0025", 
+        "0026", 
+        "0031", 
+        "0032", 
+        "0033", 
+        "0034", 
+        "0035", 
+        "0036", 
+        "0041", 
+        "0042", 
+        "0043", 
+        "0044", 
+        "0045", 
+        "0046", 
+        "0051", 
+        "0052", 
+        "0053", 
+        "0054", 
+        "0055", 
+        "0056", 
+        "0061", 
+        "0062", 
+        "0063", 
+        "0064", 
+        "0065", 
+        "0066", 
+        "0071", 
+        "0072", 
+        "0073", 
+        "0074", 
+        "0075", 
+        "0076", 
+        "0081", 
+        "0082", 
+        "0083", 
+        "0084", 
+        "0085", 
+        "0086", 
+        "0091", 
+        "0092", 
+        "0093", 
+        "0094", 
+        "0095", 
+        "0096", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0106", 
+        "0111", 
+        "0112", 
+        "0113", 
+        "0114", 
+        "0115", 
+        "0116", 
+        "0121", 
+        "0122", 
+        "0123", 
+        "0124", 
+        "0125", 
+        "0126", 
+        "0131", 
+        "0132", 
+        "0133"
+      ], 
       "hnrlbls": [
         "345"
       ], 
@@ -2293,12 +3695,132 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0015", 
+        "0016", 
+        "0017", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024", 
+        "0025", 
+        "0026", 
+        "0027", 
+        "0031", 
+        "0032", 
+        "0033", 
+        "0034", 
+        "0035", 
+        "0036", 
+        "0037", 
+        "0041", 
+        "0042", 
+        "0043", 
+        "0044", 
+        "0045", 
+        "0046", 
+        "0047", 
+        "0051", 
+        "0052", 
+        "0053", 
+        "0054", 
+        "0055", 
+        "0056", 
+        "0057", 
+        "0061", 
+        "0062", 
+        "0063", 
+        "0064", 
+        "0065", 
+        "0066", 
+        "0067", 
+        "0071", 
+        "0072", 
+        "0073", 
+        "0074", 
+        "0075", 
+        "0076", 
+        "0077", 
+        "0081", 
+        "0082", 
+        "0083"
+      ], 
       "hnrlbls": [
         "347"
       ], 
       "housenumber": "347", 
       "lat": 50.633309113637, 
       "lon": 5.552112808596, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731307", 
+      "street": "Rue Saint-Gilles"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0015", 
+        "0016", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024", 
+        "0025", 
+        "0026", 
+        "0031", 
+        "0032", 
+        "0033", 
+        "0034", 
+        "0035", 
+        "0041", 
+        "0042", 
+        "0043", 
+        "0044", 
+        "0045", 
+        "0046", 
+        "0051", 
+        "0052", 
+        "0053", 
+        "0054", 
+        "0055", 
+        "0061", 
+        "0062", 
+        "0064", 
+        "0065", 
+        "0066", 
+        "0071", 
+        "0072", 
+        "0073", 
+        "0074", 
+        "0075", 
+        "0076", 
+        "0081", 
+        "0082"
+      ], 
+      "hnrlbls": [
+        "349"
+      ], 
+      "housenumber": "349", 
+      "lat": 50.633152021346, 
+      "lon": 5.55178560058, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731307", 
@@ -2329,6 +3851,59 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "A001", 
+        "A004", 
+        "A005", 
+        "A011", 
+        "A012", 
+        "A013", 
+        "A014", 
+        "A015", 
+        "A016", 
+        "A021", 
+        "A022", 
+        "A023", 
+        "A024", 
+        "A026", 
+        "A032", 
+        "A034", 
+        "A035", 
+        "A036", 
+        "A041", 
+        "A042", 
+        "A043", 
+        "A044", 
+        "A045", 
+        "A046", 
+        "A051", 
+        "A052", 
+        "A053", 
+        "A054", 
+        "B002", 
+        "B003", 
+        "B012", 
+        "B013", 
+        "B014", 
+        "B015", 
+        "B016", 
+        "B021", 
+        "B022", 
+        "B024", 
+        "B026", 
+        "B031", 
+        "B032", 
+        "B033", 
+        "B034", 
+        "B036", 
+        "B041", 
+        "B043", 
+        "B044", 
+        "B045", 
+        "B051", 
+        "B053", 
+        "B054"
+      ], 
       "hnrlbls": [
         "353"
       ], 
@@ -2342,6 +3917,52 @@
     }, 
     {
       "hnrlbls": [
+        "353A"
+      ], 
+      "housenumber": "353A", 
+      "lat": 50.632879113079, 
+      "lon": 5.551167482554, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731307", 
+      "street": "Rue Saint-Gilles"
+    }, 
+    {
+      "hnrlbls": [
+        "353B"
+      ], 
+      "housenumber": "353B", 
+      "lat": 50.63303537156, 
+      "lon": 5.550913555014, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731307", 
+      "street": "Rue Saint-Gilles"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
+      "hnrlbls": [
+        "354"
+      ], 
+      "housenumber": "354", 
+      "lat": 50.635795943787, 
+      "lon": 5.557341982591, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731307", 
+      "street": "Rue Saint-Gilles"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
+      "hnrlbls": [
         "355"
       ], 
       "housenumber": "355", 
@@ -2353,6 +3974,25 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "hnrlbls": [
+        "356"
+      ], 
+      "housenumber": "356", 
+      "lat": 50.63578123027, 
+      "lon": 5.55726823722, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731307", 
+      "street": "Rue Saint-Gilles"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021"
+      ], 
       "hnrlbls": [
         "357"
       ], 
@@ -2461,6 +4101,34 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "0003", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022", 
+        "0031"
+      ], 
+      "hnrlbls": [
+        "37"
+      ], 
+      "housenumber": "37", 
+      "lat": 50.639288662229, 
+      "lon": 5.566729323985, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731307", 
+      "street": "Rue Saint-Gilles"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "370"
       ], 
@@ -2489,14 +4157,19 @@
         "374"
       ], 
       "housenumber": "374", 
-      "lat": 50.635559439673, 
-      "lon": 5.556390301475, 
+      "lat": 50.635543322288, 
+      "lon": 5.556464132643, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731307", 
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "376A"
       ], 
@@ -2509,6 +4182,9 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "376B"
       ], 
@@ -2521,6 +4197,14 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0022", 
+        "0031"
+      ], 
       "hnrlbls": [
         "378"
       ], 
@@ -2617,6 +4301,11 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "388"
       ], 
@@ -2761,6 +4450,15 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0011", 
+        "0012", 
+        "0021"
+      ], 
       "hnrlbls": [
         "404"
       ], 
@@ -2845,6 +4543,14 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "412"
       ], 
@@ -3061,6 +4767,11 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011"
+      ], 
       "hnrlbls": [
         "440"
       ], 
@@ -3091,6 +4802,31 @@
       "housenumber": "444", 
       "lat": 50.634349849374, 
       "lon": 5.553054336963, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731307", 
+      "street": "Rue Saint-Gilles"
+    }, 
+    {
+      "busnrs": [
+        "0011", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0031", 
+        "0032", 
+        "0033", 
+        "0041", 
+        "0042", 
+        "0043", 
+        "0051"
+      ], 
+      "hnrlbls": [
+        "445"
+      ], 
+      "housenumber": "445", 
+      "lat": 50.632825890523, 
+      "lon": 5.548048981505, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731307", 
@@ -3133,6 +4869,11 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "449"
       ], 
@@ -3157,6 +4898,12 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "450"
       ], 
@@ -3169,6 +4916,11 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "451"
       ], 
@@ -3181,6 +4933,22 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024"
+      ], 
       "hnrlbls": [
         "452"
       ], 
@@ -3193,12 +4961,29 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "453"
       ], 
       "housenumber": "453", 
       "lat": 50.632710891378, 
       "lon": 5.547637345819, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731307", 
+      "street": "Rue Saint-Gilles"
+    }, 
+    {
+      "hnrlbls": [
+        "455"
+      ], 
+      "housenumber": "455", 
+      "lat": 50.63269019718, 
+      "lon": 5.547586116052, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731307", 
@@ -3229,6 +5014,10 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "46"
       ], 
@@ -3265,6 +5054,12 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "465"
       ], 
@@ -3313,6 +5108,13 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "48"
       ], 
@@ -3337,6 +5139,14 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -3349,12 +5159,36 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "50"
       ], 
       "housenumber": "50", 
       "lat": 50.639341784735, 
       "lon": 5.56629984877, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731307", 
+      "street": "Rue Saint-Gilles"
+    }, 
+    {
+      "busnrs": [
+        "0002", 
+        "0011", 
+        "0012", 
+        "0022"
+      ], 
+      "hnrlbls": [
+        "504"
+      ], 
+      "housenumber": "504", 
+      "lat": 50.633659111693, 
+      "lon": 5.55077521281, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731307", 
@@ -3481,6 +5315,11 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "53"
       ], 
@@ -3541,12 +5380,46 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0015", 
+        "0016", 
+        "0017", 
+        "0018", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024", 
+        "0025", 
+        "0026", 
+        "0027", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "55"
       ], 
       "housenumber": "55", 
       "lat": 50.639111491194, 
       "lon": 5.566233603488, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731307", 
+      "street": "Rue Saint-Gilles"
+    }, 
+    {
+      "hnrlbls": [
+        "550"
+      ], 
+      "housenumber": "550", 
+      "lat": 50.633449864971, 
+      "lon": 5.54925010272, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731307", 
@@ -3565,6 +5438,12 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "554"
       ], 
@@ -3577,6 +5456,23 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "hnrlbls": [
+        "56"
+      ], 
+      "housenumber": "56", 
+      "lat": 50.639330541549, 
+      "lon": 5.566100503091, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731307", 
+      "street": "Rue Saint-Gilles"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "57"
       ], 
@@ -3601,6 +5497,11 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "574"
       ], 
@@ -3637,6 +5538,11 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "580"
       ], 
@@ -3649,6 +5555,12 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "582"
       ], 
@@ -3709,6 +5621,11 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "590"
       ], 
@@ -3817,6 +5734,10 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "64"
       ], 
@@ -3829,6 +5750,12 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0013"
+      ], 
       "hnrlbls": [
         "65"
       ], 
@@ -3841,6 +5768,11 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "66"
       ], 
@@ -3853,6 +5785,9 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "67"
       ], 
@@ -3877,6 +5812,14 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "69"
       ], 
@@ -3890,6 +5833,25 @@
     }, 
     {
       "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 50.639778085889, 
+      "lon": 5.56796440112, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731307", 
+      "street": "Rue Saint-Gilles"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0032"
+      ], 
+      "hnrlbls": [
         "70"
       ], 
       "housenumber": "70", 
@@ -3901,6 +5863,12 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "71"
       ], 
@@ -3925,6 +5893,14 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "73"
       ], 
@@ -3973,6 +5949,10 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "77"
       ], 
@@ -3997,6 +5977,14 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "79"
       ], 
@@ -4033,6 +6021,14 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "81"
       ], 
@@ -4045,6 +6041,14 @@
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "82"
       ], 
@@ -4070,11 +6074,35 @@
     }, 
     {
       "hnrlbls": [
+        "84"
+      ], 
+      "housenumber": "84", 
+      "lat": 50.638943658548, 
+      "lon": 5.565249716589, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731307", 
+      "street": "Rue Saint-Gilles"
+    }, 
+    {
+      "hnrlbls": [
         "85"
       ], 
       "housenumber": "85", 
       "lat": 50.638221300403, 
       "lon": 5.565692526944, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731307", 
+      "street": "Rue Saint-Gilles"
+    }, 
+    {
+      "hnrlbls": [
+        "86"
+      ], 
+      "housenumber": "86", 
+      "lat": 50.639057307038, 
+      "lon": 5.565126905023, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731307", 
@@ -4109,14 +6137,21 @@
         "89"
       ], 
       "housenumber": "89", 
-      "lat": 50.63818455892, 
-      "lon": 5.564965174707, 
+      "lat": 50.638015014752, 
+      "lon": 5.564997452867, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731307", 
       "street": "Rue Saint-Gilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "9"
       ], 
@@ -4135,6 +6170,54 @@
       "housenumber": "90", 
       "lat": 50.638926053949, 
       "lon": 5.565190085651, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731307", 
+      "street": "Rue Saint-Gilles"
+    }, 
+    {
+      "hnrlbls": [
+        "90A"
+      ], 
+      "housenumber": "90A", 
+      "lat": 50.638883141525, 
+      "lon": 5.565066217348, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731307", 
+      "street": "Rue Saint-Gilles"
+    }, 
+    {
+      "hnrlbls": [
+        "90B"
+      ], 
+      "housenumber": "90B", 
+      "lat": 50.638836848647, 
+      "lon": 5.564951086103, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731307", 
+      "street": "Rue Saint-Gilles"
+    }, 
+    {
+      "hnrlbls": [
+        "90C"
+      ], 
+      "housenumber": "90C", 
+      "lat": 50.638781798621, 
+      "lon": 5.564804345326, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731307", 
+      "street": "Rue Saint-Gilles"
+    }, 
+    {
+      "hnrlbls": [
+        "90D"
+      ], 
+      "housenumber": "90D", 
+      "lat": 50.63872735886, 
+      "lon": 5.564668224332, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731307", 

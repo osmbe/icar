@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "2\u00e9t.", 
+        "rez."
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -61,6 +66,12 @@
       "street": "Rue Nicolas Arnold"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "2\u00e9t.", 
+        "Rez.", 
+        "rezD"
+      ], 
       "hnrlbls": [
         "108"
       ], 
@@ -73,6 +84,9 @@
       "street": "Rue Nicolas Arnold"
     }, 
     {
+      "busnrs": [
+        "rez."
+      ], 
       "hnrlbls": [
         "112"
       ], 
@@ -109,6 +123,21 @@
       "street": "Rue Nicolas Arnold"
     }, 
     {
+      "busnrs": [
+        "A.", 
+        "A/1\u00e9", 
+        "A/b1", 
+        "A/b5", 
+        "B/2", 
+        "B/3\u00e9", 
+        "B/7", 
+        "B/b6", 
+        "B2\u00e9t", 
+        "C1\u00e9t", 
+        "C2", 
+        "b/4", 
+        "cbt8"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -121,6 +150,9 @@
       "street": "Rue Nicolas Arnold"
     }, 
     {
+      "busnrs": [
+        "2\u00e9t."
+      ], 
       "hnrlbls": [
         "120"
       ], 
@@ -205,12 +237,27 @@
       "street": "Rue Nicolas Arnold"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t."
+      ], 
       "hnrlbls": [
         "16"
       ], 
       "housenumber": "16", 
       "lat": 50.613397458615, 
       "lon": 5.834382098409, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7739071", 
+      "street": "Rue Nicolas Arnold"
+    }, 
+    {
+      "hnrlbls": [
+        "17"
+      ], 
+      "housenumber": "17", 
+      "lat": 50.613639774821, 
+      "lon": 5.835321098342, 
       "municipality": "Verviers", 
       "pcode": "4800", 
       "source": "7739071", 
@@ -229,6 +276,9 @@
       "street": "Rue Nicolas Arnold"
     }, 
     {
+      "busnrs": [
+        "rez."
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -265,6 +315,11 @@
       "street": "Rue Nicolas Arnold"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "2\u00e9t.", 
+        "A/2\u00e9"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -314,6 +369,18 @@
     }, 
     {
       "hnrlbls": [
+        "25"
+      ], 
+      "housenumber": "25", 
+      "lat": 50.613701328977, 
+      "lon": 5.835709539134, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7739071", 
+      "street": "Rue Nicolas Arnold"
+    }, 
+    {
+      "hnrlbls": [
         "26"
       ], 
       "housenumber": "26", 
@@ -326,11 +393,41 @@
     }, 
     {
       "hnrlbls": [
+        "27"
+      ], 
+      "housenumber": "27", 
+      "lat": 50.613714877362, 
+      "lon": 5.835881920479, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7739071", 
+      "street": "Rue Nicolas Arnold"
+    }, 
+    {
+      "busnrs": [
+        "1\u00e9t.", 
+        "2\u00e9t.", 
+        "3\u00e9t.", 
+        "rez."
+      ], 
+      "hnrlbls": [
         "28"
       ], 
       "housenumber": "28", 
       "lat": 50.613447966933, 
       "lon": 5.835007211731, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7739071", 
+      "street": "Rue Nicolas Arnold"
+    }, 
+    {
+      "hnrlbls": [
+        "29"
+      ], 
+      "housenumber": "29", 
+      "lat": 50.613679201083, 
+      "lon": 5.836017552283, 
       "municipality": "Verviers", 
       "pcode": "4800", 
       "source": "7739071", 
@@ -350,11 +447,59 @@
     }, 
     {
       "hnrlbls": [
+        "29J"
+      ], 
+      "housenumber": "29J", 
+      "lat": 50.613603008986, 
+      "lon": 5.837194193526, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7739071", 
+      "street": "Rue Nicolas Arnold"
+    }, 
+    {
+      "hnrlbls": [
+        "29K"
+      ], 
+      "housenumber": "29K", 
+      "lat": 50.613587177675, 
+      "lon": 5.837317839779, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7739071", 
+      "street": "Rue Nicolas Arnold"
+    }, 
+    {
+      "hnrlbls": [
+        "29L"
+      ], 
+      "housenumber": "29L", 
+      "lat": 50.613736731853, 
+      "lon": 5.837306038852, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7739071", 
+      "street": "Rue Nicolas Arnold"
+    }, 
+    {
+      "hnrlbls": [
         "30"
       ], 
       "housenumber": "30", 
       "lat": 50.613453046358, 
       "lon": 5.835105982467, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7739071", 
+      "street": "Rue Nicolas Arnold"
+    }, 
+    {
+      "hnrlbls": [
+        "31"
+      ], 
+      "housenumber": "31", 
+      "lat": 50.613911982054, 
+      "lon": 5.837116751757, 
       "municipality": "Verviers", 
       "pcode": "4800", 
       "source": "7739071", 
@@ -373,6 +518,11 @@
       "street": "Rue Nicolas Arnold"
     }, 
     {
+      "busnrs": [
+        "2\u00e9t.", 
+        "Rez.", 
+        "rez."
+      ], 
       "hnrlbls": [
         "33"
       ], 
@@ -391,6 +541,18 @@
       "housenumber": "34", 
       "lat": 50.613459752893, 
       "lon": 5.835330634991, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7739071", 
+      "street": "Rue Nicolas Arnold"
+    }, 
+    {
+      "hnrlbls": [
+        "35"
+      ], 
+      "housenumber": "35", 
+      "lat": 50.613541909655, 
+      "lon": 5.837643559835, 
       "municipality": "Verviers", 
       "pcode": "4800", 
       "source": "7739071", 
@@ -457,6 +619,10 @@
       "street": "Rue Nicolas Arnold"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "rez."
+      ], 
       "hnrlbls": [
         "40"
       ], 
@@ -553,12 +719,27 @@
       "street": "Rue Nicolas Arnold"
     }, 
     {
+      "busnrs": [
+        "2\u00e9t."
+      ], 
       "hnrlbls": [
         "48"
       ], 
       "housenumber": "48", 
       "lat": 50.613479276596, 
       "lon": 5.836062473302, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7739071", 
+      "street": "Rue Nicolas Arnold"
+    }, 
+    {
+      "hnrlbls": [
+        "49"
+      ], 
+      "housenumber": "49", 
+      "lat": 50.613460975454, 
+      "lon": 5.838291608553, 
       "municipality": "Verviers", 
       "pcode": "4800", 
       "source": "7739071", 
@@ -578,6 +759,39 @@
     }, 
     {
       "hnrlbls": [
+        "50"
+      ], 
+      "housenumber": "50", 
+      "lat": 50.613499199856, 
+      "lon": 5.836118419244, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7739071", 
+      "street": "Rue Nicolas Arnold"
+    }, 
+    {
+      "hnrlbls": [
+        "51"
+      ], 
+      "housenumber": "51", 
+      "lat": 50.613447156486, 
+      "lon": 5.838381411253, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7739071", 
+      "street": "Rue Nicolas Arnold"
+    }, 
+    {
+      "busnrs": [
+        "3\u00e9t.", 
+        "4", 
+        "Bt02", 
+        "bte1", 
+        "bte5", 
+        "bte6", 
+        "bte8"
+      ], 
+      "hnrlbls": [
         "52"
       ], 
       "housenumber": "52", 
@@ -590,11 +804,35 @@
     }, 
     {
       "hnrlbls": [
+        "53"
+      ], 
+      "housenumber": "53", 
+      "lat": 50.613435357243, 
+      "lon": 5.838463631362, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7739071", 
+      "street": "Rue Nicolas Arnold"
+    }, 
+    {
+      "hnrlbls": [
+        "54"
+      ], 
+      "housenumber": "54", 
+      "lat": 50.613505434475, 
+      "lon": 5.836245362963, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7739071", 
+      "street": "Rue Nicolas Arnold"
+    }, 
+    {
+      "hnrlbls": [
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 50.613446601122, 
-      "lon": 5.838456166361, 
+      "lat": 50.613439563283, 
+      "lon": 5.838508037826, 
       "municipality": "Verviers", 
       "pcode": "4800", 
       "source": "7739071", 
@@ -625,6 +863,12 @@
       "street": "Rue Nicolas Arnold"
     }, 
     {
+      "busnrs": [
+        "3", 
+        "bte1", 
+        "bte2", 
+        "rez."
+      ], 
       "hnrlbls": [
         "58"
       ], 
@@ -649,6 +893,23 @@
       "street": "Rue Nicolas Arnold"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "bte3", 
+        "rez."
+      ], 
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.613382214025, 
+      "lon": 5.833601750118, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7739071", 
+      "street": "Rue Nicolas Arnold"
+    }, 
+    {
       "hnrlbls": [
         "60"
       ], 
@@ -661,6 +922,10 @@
       "street": "Rue Nicolas Arnold"
     }, 
     {
+      "busnrs": [
+        "1\u00e9tD", 
+        "1\u00e9tG"
+      ], 
       "hnrlbls": [
         "61"
       ], 
@@ -715,6 +980,18 @@
       "housenumber": "68", 
       "lat": 50.613483398646, 
       "lon": 5.836823849861, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7739071", 
+      "street": "Rue Nicolas Arnold"
+    }, 
+    {
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 50.613572600146, 
+      "lon": 5.834244010211, 
       "municipality": "Verviers", 
       "pcode": "4800", 
       "source": "7739071", 
@@ -782,6 +1059,18 @@
     }, 
     {
       "hnrlbls": [
+        "7A"
+      ], 
+      "housenumber": "7A", 
+      "lat": 50.613597252828, 
+      "lon": 5.83446576071, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7739071", 
+      "street": "Rue Nicolas Arnold"
+    }, 
+    {
+      "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
@@ -823,6 +1112,18 @@
       "housenumber": "84", 
       "lat": 50.613381870342, 
       "lon": 5.837476063303, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7739071", 
+      "street": "Rue Nicolas Arnold"
+    }, 
+    {
+      "hnrlbls": [
+        "88"
+      ], 
+      "housenumber": "88", 
+      "lat": 50.613347800747, 
+      "lon": 5.837801741597, 
       "municipality": "Verviers", 
       "pcode": "4800", 
       "source": "7739071", 
@@ -895,6 +1196,30 @@
       "housenumber": "98", 
       "lat": 50.613283972872, 
       "lon": 5.838222336232, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7739071", 
+      "street": "Rue Nicolas Arnold"
+    }, 
+    {
+      "hnrlbls": [
+        "9A"
+      ], 
+      "housenumber": "9A", 
+      "lat": 50.613601722021, 
+      "lon": 5.83461955982, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7739071", 
+      "street": "Rue Nicolas Arnold"
+    }, 
+    {
+      "hnrlbls": [
+        "9B"
+      ], 
+      "housenumber": "9B", 
+      "lat": 50.613605933045, 
+      "lon": 5.834737726926, 
       "municipality": "Verviers", 
       "pcode": "4800", 
       "source": "7739071", 

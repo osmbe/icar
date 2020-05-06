@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "B011"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -31,6 +34,18 @@
       "housenumber": "12", 
       "lat": 50.161108401345, 
       "lon": 5.217101837009, 
+      "municipality": "Rochefort", 
+      "pcode": "5580", 
+      "source": "7750364", 
+      "street": "Rue de Gemeroye"
+    }, 
+    {
+      "hnrlbls": [
+        "15"
+      ], 
+      "housenumber": "15", 
+      "lat": 50.160792602868, 
+      "lon": 5.216949054182, 
       "municipality": "Rochefort", 
       "pcode": "5580", 
       "source": "7750364", 
@@ -241,6 +256,10 @@
       "street": "Rue de Gemeroye"
     }, 
     {
+      "busnrs": [
+        "B011", 
+        "B021"
+      ], 
       "hnrlbls": [
         "38"
       ], 

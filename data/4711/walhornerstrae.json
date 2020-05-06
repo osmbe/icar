@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -193,6 +197,9 @@
       "street": "Walhorner Stra\u00dfe"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -217,6 +224,9 @@
       "street": "Walhorner Stra\u00dfe"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -245,8 +255,8 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.677171266988, 
-      "lon": 6.039165546351, 
+      "lat": 50.677231718162, 
+      "lon": 6.039139992596, 
       "municipality": "Lontzen", 
       "pcode": "4711", 
       "source": "7736795", 

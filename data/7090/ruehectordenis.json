@@ -97,6 +97,9 @@
       "street": "Rue Hector Denis"
     }, 
     {
+      "busnrs": [
+        "Et.1"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -182,11 +185,47 @@
     }, 
     {
       "hnrlbls": [
+        "25"
+      ], 
+      "housenumber": "25", 
+      "lat": 50.607729939406, 
+      "lon": 4.136602256121, 
+      "municipality": "Braine-le-Comte", 
+      "pcode": "7090", 
+      "source": "7716674", 
+      "street": "Rue Hector Denis"
+    }, 
+    {
+      "hnrlbls": [
+        "26"
+      ], 
+      "housenumber": "26", 
+      "lat": 50.60720891558, 
+      "lon": 4.136994820223, 
+      "municipality": "Braine-le-Comte", 
+      "pcode": "7090", 
+      "source": "7716674", 
+      "street": "Rue Hector Denis"
+    }, 
+    {
+      "hnrlbls": [
         "27"
       ], 
       "housenumber": "27", 
       "lat": 50.607256149504, 
       "lon": 4.136754833759, 
+      "municipality": "Braine-le-Comte", 
+      "pcode": "7090", 
+      "source": "7716674", 
+      "street": "Rue Hector Denis"
+    }, 
+    {
+      "hnrlbls": [
+        "28"
+      ], 
+      "housenumber": "28", 
+      "lat": 50.60717173556, 
+      "lon": 4.137007648914, 
       "municipality": "Braine-le-Comte", 
       "pcode": "7090", 
       "source": "7716674", 
@@ -205,6 +244,11 @@
       "street": "Rue Hector Denis"
     }, 
     {
+      "busnrs": [
+        "Et.1", 
+        "Et.2", 
+        "R.C."
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -221,8 +265,8 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 50.607167491013, 
-      "lon": 4.137073318376, 
+      "lat": 50.607139316803, 
+      "lon": 4.137019630675, 
       "municipality": "Braine-le-Comte", 
       "pcode": "7090", 
       "source": "7716674", 
@@ -253,6 +297,10 @@
       "street": "Rue Hector Denis"
     }, 
     {
+      "busnrs": [
+        "Et.1", 
+        "R.C."
+      ], 
       "hnrlbls": [
         "33"
       ], 
@@ -301,6 +349,9 @@
       "street": "Rue Hector Denis"
     }, 
     {
+      "busnrs": [
+        "Et.1"
+      ], 
       "hnrlbls": [
         "37"
       ], 
@@ -469,18 +520,30 @@
       "street": "Rue Hector Denis"
     }, 
     {
+      "busnrs": [
+        "Bt.4", 
+        "Bt.5", 
+        "E3B6", 
+        "Et.1", 
+        "Et.2", 
+        "Et.4"
+      ], 
       "hnrlbls": [
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 50.606722817175, 
-      "lon": 4.137265264071, 
+      "lat": 50.606692062461, 
+      "lon": 4.137229531012, 
       "municipality": "Braine-le-Comte", 
       "pcode": "7090", 
       "source": "7716674", 
       "street": "Rue Hector Denis"
     }, 
     {
+      "busnrs": [
+        "Et.1", 
+        "bte2"
+      ], 
       "hnrlbls": [
         "54"
       ], 
@@ -493,6 +556,19 @@
       "street": "Rue Hector Denis"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "10", 
+        "11", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
       "hnrlbls": [
         "56"
       ], 

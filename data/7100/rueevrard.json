@@ -133,6 +133,13 @@
       "street": "Rue Evrard"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -175,6 +182,18 @@
       "housenumber": "28", 
       "lat": 50.471463009325, 
       "lon": 4.212455745699, 
+      "municipality": "La Louvi\u00e8re", 
+      "pcode": "7100", 
+      "source": "7717630", 
+      "street": "Rue Evrard"
+    }, 
+    {
+      "hnrlbls": [
+        "2B"
+      ], 
+      "housenumber": "2B", 
+      "lat": 50.471200594885, 
+      "lon": 4.213939581834, 
       "municipality": "La Louvi\u00e8re", 
       "pcode": "7100", 
       "source": "7717630", 

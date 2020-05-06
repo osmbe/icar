@@ -73,6 +73,9 @@
       "street": "Place de Mesvin"
     }, 
     {
+      "busnrs": [
+        "0-1"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -110,11 +113,23 @@
     }, 
     {
       "hnrlbls": [
+        "18"
+      ], 
+      "housenumber": "18", 
+      "lat": 50.429731843841, 
+      "lon": 3.959935529343, 
+      "municipality": "Mons", 
+      "pcode": "7022", 
+      "source": "7713361", 
+      "street": "Place de Mesvin"
+    }, 
+    {
+      "hnrlbls": [
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 50.429716266195, 
-      "lon": 3.959914820157, 
+      "lat": 50.429698025974, 
+      "lon": 3.959895760934, 
       "municipality": "Mons", 
       "pcode": "7022", 
       "source": "7713361", 
@@ -133,6 +148,11 @@
       "street": "Place de Mesvin"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-2", 
+        "bis2"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -145,6 +165,12 @@
       "street": "Place de Mesvin"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "1-2", 
+        "2-1"
+      ], 
       "hnrlbls": [
         "20B"
       ], 
@@ -242,6 +268,18 @@
     }, 
     {
       "hnrlbls": [
+        "27A"
+      ], 
+      "housenumber": "27A", 
+      "lat": 50.42932417335, 
+      "lon": 3.95978645192, 
+      "municipality": "Mons", 
+      "pcode": "7022", 
+      "source": "7713361", 
+      "street": "Place de Mesvin"
+    }, 
+    {
+      "hnrlbls": [
         "28"
       ], 
       "housenumber": "28", 
@@ -289,12 +327,27 @@
       "street": "Place de Mesvin"
     }, 
     {
+      "busnrs": [
+        "1-1"
+      ], 
       "hnrlbls": [
         "32"
       ], 
       "housenumber": "32", 
       "lat": 50.429575783764, 
       "lon": 3.960066585784, 
+      "municipality": "Mons", 
+      "pcode": "7022", 
+      "source": "7713361", 
+      "street": "Place de Mesvin"
+    }, 
+    {
+      "hnrlbls": [
+        "34"
+      ], 
+      "housenumber": "34", 
+      "lat": 50.42928220048, 
+      "lon": 3.960418387416, 
       "municipality": "Mons", 
       "pcode": "7022", 
       "source": "7713361", 
@@ -331,6 +384,18 @@
       "housenumber": "38", 
       "lat": 50.429118308022, 
       "lon": 3.960734050729, 
+      "municipality": "Mons", 
+      "pcode": "7022", 
+      "source": "7713361", 
+      "street": "Place de Mesvin"
+    }, 
+    {
+      "hnrlbls": [
+        "39"
+      ], 
+      "housenumber": "39", 
+      "lat": 50.429054322901, 
+      "lon": 3.960846928909, 
       "municipality": "Mons", 
       "pcode": "7022", 
       "source": "7713361", 

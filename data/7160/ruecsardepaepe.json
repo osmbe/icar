@@ -1,6 +1,14 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1/1", 
+        "1/2", 
+        "2/3", 
+        "2/4", 
+        "RC/1", 
+        "RC/2"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -25,6 +33,11 @@
       "street": "Rue C\u00e9sar De Paepe"
     }, 
     {
+      "busnrs": [
+        "1/2", 
+        "1/3", 
+        "RC"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -109,6 +122,11 @@
       "street": "Rue C\u00e9sar De Paepe"
     }, 
     {
+      "busnrs": [
+        "A/1", 
+        "A/2", 
+        "A/RC"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -157,6 +175,11 @@
       "street": "Rue C\u00e9sar De Paepe"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "1/2", 
+        "2/3"
+      ], 
       "hnrlbls": [
         "8"
       ], 

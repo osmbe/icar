@@ -37,12 +37,27 @@
       "street": "Rue Robert Ledecq"
     }, 
     {
+      "busnrs": [
+        "Bbt2"
+      ], 
       "hnrlbls": [
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.685254814315, 
-      "lon": 4.317250763124, 
+      "lat": 50.685066630193, 
+      "lon": 4.316618222266, 
+      "municipality": "Braine-le-Ch\u00e2teau", 
+      "pcode": "1440", 
+      "source": "7700955", 
+      "street": "Rue Robert Ledecq"
+    }, 
+    {
+      "hnrlbls": [
+        "15C"
+      ], 
+      "housenumber": "15C", 
+      "lat": 50.685238837966, 
+      "lon": 4.317274588946, 
       "municipality": "Braine-le-Ch\u00e2teau", 
       "pcode": "1440", 
       "source": "7700955", 
@@ -67,6 +82,18 @@
       "housenumber": "18", 
       "lat": 50.685113598868, 
       "lon": 4.318121168999, 
+      "municipality": "Braine-le-Ch\u00e2teau", 
+      "pcode": "1440", 
+      "source": "7700955", 
+      "street": "Rue Robert Ledecq"
+    }, 
+    {
+      "hnrlbls": [
+        "19"
+      ], 
+      "housenumber": "19", 
+      "lat": 50.686321203357, 
+      "lon": 4.321797623423, 
       "municipality": "Braine-le-Ch\u00e2teau", 
       "pcode": "1440", 
       "source": "7700955", 
@@ -145,6 +172,9 @@
       "street": "Rue Robert Ledecq"
     }, 
     {
+      "busnrs": [
+        "000B"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -193,6 +223,10 @@
       "street": "Rue Robert Ledecq"
     }, 
     {
+      "busnrs": [
+        "bte1", 
+        "bte2"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -229,6 +263,10 @@
       "street": "Rue Robert Ledecq"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "000D"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -293,8 +331,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.684827764082, 
-      "lon": 4.316137456779, 
+      "lat": 50.684813461024, 
+      "lon": 4.316066336004, 
       "municipality": "Braine-le-Ch\u00e2teau", 
       "pcode": "1440", 
       "source": "7700955", 

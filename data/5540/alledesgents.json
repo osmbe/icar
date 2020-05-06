@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "12"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -125,6 +128,18 @@
         "22"
       ], 
       "housenumber": "22", 
+      "lat": 50.221829501998, 
+      "lon": 4.831710595282, 
+      "municipality": "Hasti\u00e8re", 
+      "pcode": "5540", 
+      "source": "7751022", 
+      "street": "All\u00e9e des Gen\u00eats"
+    }, 
+    {
+      "hnrlbls": [
+        "23"
+      ], 
+      "housenumber": "23", 
       "lat": 50.221628528391, 
       "lon": 4.831195866477, 
       "municipality": "Hasti\u00e8re", 
@@ -338,18 +353,6 @@
     }, 
     {
       "hnrlbls": [
-        "45"
-      ], 
-      "housenumber": "45", 
-      "lat": 50.222151186118, 
-      "lon": 4.829506923151, 
-      "municipality": "Hasti\u00e8re", 
-      "pcode": "5540", 
-      "source": "7751022", 
-      "street": "All\u00e9e des Gen\u00eats"
-    }, 
-    {
-      "hnrlbls": [
         "46"
       ], 
       "housenumber": "46", 
@@ -389,8 +392,8 @@
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 50.222247734964, 
-      "lon": 4.829122898606, 
+      "lat": 50.222341807429, 
+      "lon": 4.829154954066, 
       "municipality": "Hasti\u00e8re", 
       "pcode": "5540", 
       "source": "7751022", 

@@ -109,6 +109,14 @@
       "street": "Rue Strivay"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "12", 
+        "21", 
+        "22", 
+        "31", 
+        "32"
+      ], 
       "hnrlbls": [
         "129"
       ], 
@@ -133,6 +141,11 @@
       "street": "Rue Strivay"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "11", 
+        "2"
+      ], 
       "hnrlbls": [
         "133"
       ], 
@@ -434,30 +447,6 @@
     }, 
     {
       "hnrlbls": [
-        "49"
-      ], 
-      "housenumber": "49", 
-      "lat": 50.604426723334, 
-      "lon": 5.51739504575, 
-      "municipality": "Seraing", 
-      "pcode": "4100", 
-      "source": "7732611", 
-      "street": "Rue Strivay"
-    }, 
-    {
-      "hnrlbls": [
-        "51"
-      ], 
-      "housenumber": "51", 
-      "lat": 50.604369361008, 
-      "lon": 5.517369392304, 
-      "municipality": "Seraing", 
-      "pcode": "4100", 
-      "source": "7732611", 
-      "street": "Rue Strivay"
-    }, 
-    {
-      "hnrlbls": [
         "53"
       ], 
       "housenumber": "53", 
@@ -709,6 +698,9 @@
       "street": "Rue Strivay"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "75"
       ], 
@@ -829,6 +821,9 @@
       "street": "Rue Strivay"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "86"
       ], 
@@ -865,6 +860,10 @@
       "street": "Rue Strivay"
     }, 
     {
+      "busnrs": [
+        "6", 
+        "8"
+      ], 
       "hnrlbls": [
         "90"
       ], 

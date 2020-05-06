@@ -97,6 +97,11 @@
       "street": "Rue des Buissons"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -253,6 +258,11 @@
       "street": "Rue des Buissons"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -385,6 +395,11 @@
       "street": "Rue des Buissons"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "45"
       ], 
@@ -445,6 +460,11 @@
       "street": "Rue des Buissons"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "51"
       ], 
@@ -517,6 +537,10 @@
       "street": "Rue des Buissons"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0003"
+      ], 
       "hnrlbls": [
         "57B"
       ], 
@@ -553,6 +577,13 @@
       "street": "Rue des Buissons"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -757,6 +788,11 @@
       "street": "Rue des Buissons"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "74"
       ], 
@@ -805,12 +841,30 @@
       "street": "Rue des Buissons"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "79"
       ], 
       "housenumber": "79", 
       "lat": 50.651336370904, 
       "lon": 5.565862664923, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730570", 
+      "street": "Rue des Buissons"
+    }, 
+    {
+      "hnrlbls": [
+        "80"
+      ], 
+      "housenumber": "80", 
+      "lat": 50.651469622259, 
+      "lon": 5.565094208196, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730570", 

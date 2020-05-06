@@ -37,6 +37,10 @@
       "street": "Rue du Ch\u00e9ra"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -121,6 +125,10 @@
       "street": "Rue du Ch\u00e9ra"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "169"
       ], 
@@ -133,6 +141,11 @@
       "street": "Rue du Ch\u00e9ra"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -157,6 +170,12 @@
       "street": "Rue du Ch\u00e9ra"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0012", 
+        "0014", 
+        "0021"
+      ], 
       "hnrlbls": [
         "173"
       ], 
@@ -181,6 +200,11 @@
       "street": "Rue du Ch\u00e9ra"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -278,6 +302,37 @@
     }, 
     {
       "hnrlbls": [
+        "30"
+      ], 
+      "housenumber": "30", 
+      "lat": 50.616576095968, 
+      "lon": 5.566947196679, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730793", 
+      "street": "Rue du Ch\u00e9ra"
+    }, 
+    {
+      "hnrlbls": [
+        "32"
+      ], 
+      "housenumber": "32", 
+      "lat": 50.616576065873, 
+      "lon": 5.566990383321, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730793", 
+      "street": "Rue du Ch\u00e9ra"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
+      "hnrlbls": [
         "33"
       ], 
       "housenumber": "33", 
@@ -289,6 +344,12 @@
       "street": "Rue du Ch\u00e9ra"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -301,6 +362,14 @@
       "street": "Rue du Ch\u00e9ra"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "37"
       ], 
@@ -313,6 +382,13 @@
       "street": "Rue du Ch\u00e9ra"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "40"
       ], 
@@ -325,6 +401,15 @@
       "street": "Rue du Ch\u00e9ra"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "49"
       ], 
@@ -445,6 +530,20 @@
       "street": "Rue du Ch\u00e9ra"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0031", 
+        "0032", 
+        "0033"
+      ], 
       "hnrlbls": [
         "73"
       ], 
@@ -457,12 +556,48 @@
       "street": "Rue du Ch\u00e9ra"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0031", 
+        "0032"
+      ], 
+      "hnrlbls": [
+        "75"
+      ], 
+      "housenumber": "75", 
+      "lat": 50.617214607971, 
+      "lon": 5.567174424405, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730793", 
+      "street": "Rue du Ch\u00e9ra"
+    }, 
+    {
       "hnrlbls": [
         "79"
       ], 
       "housenumber": "79", 
       "lat": 50.617808081741, 
       "lon": 5.568609327552, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730793", 
+      "street": "Rue du Ch\u00e9ra"
+    }, 
+    {
+      "hnrlbls": [
+        "81"
+      ], 
+      "housenumber": "81", 
+      "lat": 50.616766408003, 
+      "lon": 5.567825105694, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730793", 

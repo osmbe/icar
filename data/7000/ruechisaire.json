@@ -1,6 +1,18 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "0-3", 
+        "0-4", 
+        "1-1", 
+        "1-2", 
+        "2-1", 
+        "2-2", 
+        "3-1", 
+        "3-2"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,12 +25,37 @@
       "street": "Rue Chisaire"
     }, 
     {
+      "busnrs": [
+        "A1-1", 
+        "A3-1", 
+        "A4-1", 
+        "B0-1", 
+        "B0-2", 
+        "B1-1", 
+        "B1-2", 
+        "B2-1", 
+        "B2-2", 
+        "B3-1", 
+        "B3-2"
+      ], 
       "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.45229737199, 
-      "lon": 3.943326912764, 
+      "lat": 50.452268750064, 
+      "lon": 3.943305745732, 
+      "municipality": "Mons", 
+      "pcode": "7000", 
+      "source": "7713495", 
+      "street": "Rue Chisaire"
+    }, 
+    {
+      "hnrlbls": [
+        "11"
+      ], 
+      "housenumber": "11", 
+      "lat": 50.451524469352, 
+      "lon": 3.94290404555, 
       "municipality": "Mons", 
       "pcode": "7000", 
       "source": "7713495", 
@@ -37,6 +74,15 @@
       "street": "Rue Chisaire"
     }, 
     {
+      "busnrs": [
+        "1-1", 
+        "1-2", 
+        "2-1", 
+        "2-2", 
+        "2-3", 
+        "3-1", 
+        "3-2"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -53,8 +99,8 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 50.451982145891, 
-      "lon": 3.942789633333, 
+      "lat": 50.451978558332, 
+      "lon": 3.942849276032, 
       "municipality": "Mons", 
       "pcode": "7000", 
       "source": "7713495", 
@@ -73,6 +119,38 @@
       "street": "Rue Chisaire"
     }, 
     {
+      "busnrs": [
+        "1-1", 
+        "1-2", 
+        "1-3", 
+        "1-4", 
+        "1-5", 
+        "2-1", 
+        "2-2", 
+        "2-3", 
+        "2-4", 
+        "2-5", 
+        "3-1", 
+        "3-2", 
+        "3-3", 
+        "3-4", 
+        "4-1", 
+        "4-2", 
+        "4-3", 
+        "4-4"
+      ], 
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.452546836523, 
+      "lon": 3.943292412696, 
+      "municipality": "Mons", 
+      "pcode": "7000", 
+      "source": "7713495", 
+      "street": "Rue Chisaire"
+    }, 
+    {
       "hnrlbls": [
         "20"
       ], 
@@ -85,6 +163,10 @@
       "street": "Rue Chisaire"
     }, 
     {
+      "busnrs": [
+        "1-1", 
+        "2-1"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -98,6 +180,26 @@
     }, 
     {
       "hnrlbls": [
+        "24"
+      ], 
+      "housenumber": "24", 
+      "lat": 50.451811386234, 
+      "lon": 3.942460352143, 
+      "municipality": "Mons", 
+      "pcode": "7000", 
+      "source": "7713495", 
+      "street": "Rue Chisaire"
+    }, 
+    {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "1-1", 
+        "2-1", 
+        "3-1", 
+        "3-2"
+      ], 
+      "hnrlbls": [
         "26"
       ], 
       "housenumber": "26", 
@@ -109,6 +211,13 @@
       "street": "Rue Chisaire"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "1-1", 
+        "2-1", 
+        "3-1"
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -122,6 +231,23 @@
     }, 
     {
       "hnrlbls": [
+        "2A"
+      ], 
+      "housenumber": "2A", 
+      "lat": 50.452463552753, 
+      "lon": 3.94350217456, 
+      "municipality": "Mons", 
+      "pcode": "7000", 
+      "source": "7713495", 
+      "street": "Rue Chisaire"
+    }, 
+    {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "2-1"
+      ], 
+      "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
@@ -133,6 +259,10 @@
       "street": "Rue Chisaire"
     }, 
     {
+      "busnrs": [
+        "1-1", 
+        "2-1"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -157,6 +287,30 @@
       "street": "Rue Chisaire"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "1-1", 
+        "1-2", 
+        "1-3", 
+        "1-4", 
+        "2-1", 
+        "2-2", 
+        "2-3", 
+        "2-4"
+      ], 
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.452423855145, 
+      "lon": 3.943475479592, 
+      "municipality": "Mons", 
+      "pcode": "7000", 
+      "source": "7713495", 
+      "street": "Rue Chisaire"
+    }, 
+    {
       "hnrlbls": [
         "5"
       ], 
@@ -169,6 +323,38 @@
       "street": "Rue Chisaire"
     }, 
     {
+      "busnrs": [
+        "1-1", 
+        "1-2", 
+        "2-1", 
+        "2-2", 
+        "3-1", 
+        "3-2"
+      ], 
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.452373478062, 
+      "lon": 3.943428419976, 
+      "municipality": "Mons", 
+      "pcode": "7000", 
+      "source": "7713495", 
+      "street": "Rue Chisaire"
+    }, 
+    {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "1-1", 
+        "1-2", 
+        "1-3", 
+        "1-4", 
+        "2-1", 
+        "2-2", 
+        "2-3", 
+        "2-4"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -194,11 +380,57 @@
     }, 
     {
       "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 50.452308083729, 
+      "lon": 3.943357339703, 
+      "municipality": "Mons", 
+      "pcode": "7000", 
+      "source": "7713495", 
+      "street": "Rue Chisaire"
+    }, 
+    {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "0-3", 
+        "1-1"
+      ], 
+      "hnrlbls": [
         "9"
       ], 
       "housenumber": "9", 
       "lat": 50.451720089917, 
       "lon": 3.94328329337, 
+      "municipality": "Mons", 
+      "pcode": "7000", 
+      "source": "7713495", 
+      "street": "Rue Chisaire"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2-1"
+      ], 
+      "hnrlbls": [
+        "9A"
+      ], 
+      "housenumber": "9A", 
+      "lat": 50.451613290703, 
+      "lon": 3.94299490085, 
+      "municipality": "Mons", 
+      "pcode": "7000", 
+      "source": "7713495", 
+      "street": "Rue Chisaire"
+    }, 
+    {
+      "hnrlbls": [
+        "9B"
+      ], 
+      "housenumber": "9B", 
+      "lat": 50.451587508783, 
+      "lon": 3.942969797095, 
       "municipality": "Mons", 
       "pcode": "7000", 
       "source": "7713495", 

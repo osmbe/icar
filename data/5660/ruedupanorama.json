@@ -85,6 +85,9 @@
       "street": "Rue du Panorama"
     }, 
     {
+      "busnrs": [
+        "0002"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -181,6 +184,10 @@
       "street": "Rue du Panorama"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -217,12 +224,15 @@
       "street": "Rue du Panorama"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.033062950189, 
-      "lon": 4.428312863279, 
+      "lat": 50.031215694839, 
+      "lon": 4.42857392368, 
       "municipality": "Couvin", 
       "pcode": "5660", 
       "source": "7756907", 

@@ -25,6 +25,11 @@
       "street": "Rue d'Incourt"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "RDCH"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -43,6 +48,18 @@
       "housenumber": "4", 
       "lat": 50.700654468754, 
       "lon": 4.742210462619, 
+      "municipality": "Chaumont-Gistoux", 
+      "pcode": "1325", 
+      "source": "7701150", 
+      "street": "Rue d'Incourt"
+    }, 
+    {
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.700494344694, 
+      "lon": 4.742611208048, 
       "municipality": "Chaumont-Gistoux", 
       "pcode": "1325", 
       "source": "7701150", 

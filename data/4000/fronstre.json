@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +19,12 @@
       "street": "F\u00e9ronstr\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -37,6 +49,12 @@
       "street": "F\u00e9ronstr\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "101"
       ], 
@@ -49,6 +67,21 @@
       "street": "F\u00e9ronstr\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0031", 
+        "0032", 
+        "0033"
+      ], 
       "hnrlbls": [
         "102"
       ], 
@@ -61,6 +94,12 @@
       "street": "F\u00e9ronstr\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "103"
       ], 
@@ -73,6 +112,16 @@
       "street": "F\u00e9ronstr\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "104"
       ], 
@@ -85,6 +134,13 @@
       "street": "F\u00e9ronstr\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "105"
       ], 
@@ -97,6 +153,14 @@
       "street": "F\u00e9ronstr\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "106"
       ], 
@@ -109,6 +173,13 @@
       "street": "F\u00e9ronstr\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0022", 
+        "0031"
+      ], 
       "hnrlbls": [
         "107"
       ], 
@@ -169,6 +240,11 @@
       "street": "F\u00e9ronstr\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "111"
       ], 
@@ -193,6 +269,17 @@
       "street": "F\u00e9ronstr\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0031"
+      ], 
       "hnrlbls": [
         "113"
       ], 
@@ -217,12 +304,32 @@
       "street": "F\u00e9ronstr\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "A011", 
+        "A021"
+      ], 
       "hnrlbls": [
         "115"
       ], 
       "housenumber": "115", 
       "lat": 50.647062877333, 
       "lon": 5.581205077633, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729833", 
+      "street": "F\u00e9ronstr\u00e9e"
+    }, 
+    {
+      "hnrlbls": [
+        "115A"
+      ], 
+      "housenumber": "115A", 
+      "lat": 50.647200892547, 
+      "lon": 5.581101122953, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7729833", 
@@ -241,6 +348,13 @@
       "street": "F\u00e9ronstr\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "117"
       ], 
@@ -254,6 +368,22 @@
     }, 
     {
       "hnrlbls": [
+        "118"
+      ], 
+      "housenumber": "118", 
+      "lat": 50.647047207992, 
+      "lon": 5.582565451645, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729833", 
+      "street": "F\u00e9ronstr\u00e9e"
+    }, 
+    {
+      "busnrs": [
+        "A011", 
+        "A021"
+      ], 
+      "hnrlbls": [
         "119"
       ], 
       "housenumber": "119", 
@@ -265,6 +395,14 @@
       "street": "F\u00e9ronstr\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -277,6 +415,16 @@
       "street": "F\u00e9ronstr\u00e9e"
     }, 
     {
+      "busnrs": [
+        "A011", 
+        "A012", 
+        "A021", 
+        "A031", 
+        "A041", 
+        "A042", 
+        "A051", 
+        "A052"
+      ], 
       "hnrlbls": [
         "120"
       ], 
@@ -326,6 +474,18 @@
     }, 
     {
       "hnrlbls": [
+        "13"
+      ], 
+      "housenumber": "13", 
+      "lat": 50.646132601569, 
+      "lon": 5.577456856607, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729833", 
+      "street": "F\u00e9ronstr\u00e9e"
+    }, 
+    {
+      "hnrlbls": [
         "132"
       ], 
       "housenumber": "132", 
@@ -337,6 +497,20 @@
       "street": "F\u00e9ronstr\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0031", 
+        "0032", 
+        "0041", 
+        "0042"
+      ], 
       "hnrlbls": [
         "133"
       ], 
@@ -349,6 +523,12 @@
       "street": "F\u00e9ronstr\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "135"
       ], 
@@ -361,6 +541,49 @@
       "street": "F\u00e9ronstr\u00e9e"
     }, 
     {
+      "hnrlbls": [
+        "136"
+      ], 
+      "housenumber": "136", 
+      "lat": 50.647163150685, 
+      "lon": 5.582898066176, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729833", 
+      "street": "F\u00e9ronstr\u00e9e"
+    }, 
+    {
+      "hnrlbls": [
+        "137"
+      ], 
+      "housenumber": "137", 
+      "lat": 50.647232903065, 
+      "lon": 5.582173709099, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729833", 
+      "street": "F\u00e9ronstr\u00e9e"
+    }, 
+    {
+      "hnrlbls": [
+        "139"
+      ], 
+      "housenumber": "139", 
+      "lat": 50.647219427695, 
+      "lon": 5.582165697976, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729833", 
+      "street": "F\u00e9ronstr\u00e9e"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -397,6 +620,13 @@
       "street": "F\u00e9ronstr\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "143"
       ], 
@@ -421,6 +651,30 @@
       "street": "F\u00e9ronstr\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0021"
+      ], 
+      "hnrlbls": [
+        "145"
+      ], 
+      "housenumber": "145", 
+      "lat": 50.647562141234, 
+      "lon": 5.583661925698, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729833", 
+      "street": "F\u00e9ronstr\u00e9e"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031"
+      ], 
       "hnrlbls": [
         "146"
       ], 
@@ -457,6 +711,11 @@
       "street": "F\u00e9ronstr\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "149"
       ], 
@@ -481,6 +740,12 @@
       "street": "F\u00e9ronstr\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "150"
       ], 
@@ -493,6 +758,14 @@
       "street": "F\u00e9ronstr\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0022", 
+        "0031"
+      ], 
       "hnrlbls": [
         "151"
       ], 
@@ -518,6 +791,26 @@
     }, 
     {
       "hnrlbls": [
+        "154"
+      ], 
+      "housenumber": "154", 
+      "lat": 50.647592400121, 
+      "lon": 5.584512033909, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729833", 
+      "street": "F\u00e9ronstr\u00e9e"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041", 
+        "0051"
+      ], 
+      "hnrlbls": [
         "155"
       ], 
       "housenumber": "155", 
@@ -529,6 +822,11 @@
       "street": "F\u00e9ronstr\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "157"
       ], 
@@ -541,6 +839,12 @@
       "street": "F\u00e9ronstr\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "159"
       ], 
@@ -553,6 +857,44 @@
       "street": "F\u00e9ronstr\u00e9e"
     }, 
     {
+      "hnrlbls": [
+        "16"
+      ], 
+      "housenumber": "16", 
+      "lat": 50.645960573141, 
+      "lon": 5.577728619913, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729833", 
+      "street": "F\u00e9ronstr\u00e9e"
+    }, 
+    {
+      "busnrs": [
+        "0021", 
+        "0031"
+      ], 
+      "hnrlbls": [
+        "161"
+      ], 
+      "housenumber": "161", 
+      "lat": 50.647767849615, 
+      "lon": 5.584431282501, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729833", 
+      "street": "F\u00e9ronstr\u00e9e"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "163"
       ], 
@@ -577,6 +919,11 @@
       "street": "F\u00e9ronstr\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "167"
       ], 
@@ -589,6 +936,13 @@
       "street": "F\u00e9ronstr\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "169"
       ], 
@@ -601,6 +955,12 @@
       "street": "F\u00e9ronstr\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -625,12 +985,30 @@
       "street": "F\u00e9ronstr\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "173"
       ], 
       "housenumber": "173", 
       "lat": 50.647869883488, 
       "lon": 5.584774564505, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729833", 
+      "street": "F\u00e9ronstr\u00e9e"
+    }, 
+    {
+      "hnrlbls": [
+        "175"
+      ], 
+      "housenumber": "175", 
+      "lat": 50.647899379807, 
+      "lon": 5.584809433915, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7729833", 
@@ -650,6 +1028,24 @@
     }, 
     {
       "hnrlbls": [
+        "19"
+      ], 
+      "housenumber": "19", 
+      "lat": 50.646205733136, 
+      "lon": 5.577705347572, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729833", 
+      "street": "F\u00e9ronstr\u00e9e"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
+      "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
@@ -661,6 +1057,13 @@
       "street": "F\u00e9ronstr\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -674,11 +1077,89 @@
     }, 
     {
       "hnrlbls": [
+        "21"
+      ], 
+      "housenumber": "21", 
+      "lat": 50.646224324325, 
+      "lon": 5.577785437295, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729833", 
+      "street": "F\u00e9ronstr\u00e9e"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024", 
+        "0031", 
+        "0032", 
+        "0033", 
+        "0034"
+      ], 
+      "hnrlbls": [
         "22"
       ], 
       "housenumber": "22", 
       "lat": 50.646037038564, 
       "lon": 5.577975498951, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729833", 
+      "street": "F\u00e9ronstr\u00e9e"
+    }, 
+    {
+      "hnrlbls": [
+        "23"
+      ], 
+      "housenumber": "23", 
+      "lat": 50.646253770272, 
+      "lon": 5.577850533068, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729833", 
+      "street": "F\u00e9ronstr\u00e9e"
+    }, 
+    {
+      "hnrlbls": [
+        "24"
+      ], 
+      "housenumber": "24", 
+      "lat": 50.646026657462, 
+      "lon": 5.57792828525, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729833", 
+      "street": "F\u00e9ronstr\u00e9e"
+    }, 
+    {
+      "hnrlbls": [
+        "25"
+      ], 
+      "housenumber": "25", 
+      "lat": 50.646271265133, 
+      "lon": 5.577932291746, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729833", 
+      "street": "F\u00e9ronstr\u00e9e"
+    }, 
+    {
+      "hnrlbls": [
+        "26"
+      ], 
+      "housenumber": "26", 
+      "lat": 50.646038797897, 
+      "lon": 5.577971443194, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7729833", 
@@ -698,6 +1179,18 @@
     }, 
     {
       "hnrlbls": [
+        "29"
+      ], 
+      "housenumber": "29", 
+      "lat": 50.646262598556, 
+      "lon": 5.57810574847, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729833", 
+      "street": "F\u00e9ronstr\u00e9e"
+    }, 
+    {
+      "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
@@ -709,6 +1202,17 @@
       "street": "F\u00e9ronstr\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0041"
+      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -721,6 +1225,29 @@
       "street": "F\u00e9ronstr\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0031"
+      ], 
+      "hnrlbls": [
+        "33"
+      ], 
+      "housenumber": "33", 
+      "lat": 50.646278723516, 
+      "lon": 5.578184332859, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729833", 
+      "street": "F\u00e9ronstr\u00e9e"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -733,6 +1260,12 @@
       "street": "F\u00e9ronstr\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "37"
       ], 
@@ -745,6 +1278,10 @@
       "street": "F\u00e9ronstr\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "39"
       ], 
@@ -769,6 +1306,9 @@
       "street": "F\u00e9ronstr\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "41"
       ], 
@@ -781,12 +1321,39 @@
       "street": "F\u00e9ronstr\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "43"
       ], 
       "housenumber": "43", 
       "lat": 50.646370220626, 
       "lon": 5.578511934517, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729833", 
+      "street": "F\u00e9ronstr\u00e9e"
+    }, 
+    {
+      "busnrs": [
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0031"
+      ], 
+      "hnrlbls": [
+        "45"
+      ], 
+      "housenumber": "45", 
+      "lat": 50.646435422719, 
+      "lon": 5.578541591388, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7729833", 
@@ -842,6 +1409,18 @@
     }, 
     {
       "hnrlbls": [
+        "56"
+      ], 
+      "housenumber": "56", 
+      "lat": 50.6463115546, 
+      "lon": 5.579076336598, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729833", 
+      "street": "F\u00e9ronstr\u00e9e"
+    }, 
+    {
+      "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
@@ -865,6 +1444,15 @@
       "street": "F\u00e9ronstr\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "71"
       ], 
@@ -877,6 +1465,14 @@
       "street": "F\u00e9ronstr\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "73"
       ], 
@@ -902,6 +1498,26 @@
     }, 
     {
       "hnrlbls": [
+        "77"
+      ], 
+      "housenumber": "77", 
+      "lat": 50.646598261687, 
+      "lon": 5.578826890558, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729833", 
+      "street": "F\u00e9ronstr\u00e9e"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
+      "hnrlbls": [
         "79"
       ], 
       "housenumber": "79", 
@@ -913,6 +1529,16 @@
       "street": "F\u00e9ronstr\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031"
+      ], 
       "hnrlbls": [
         "8"
       ], 
@@ -938,6 +1564,37 @@
     }, 
     {
       "hnrlbls": [
+        "83"
+      ], 
+      "housenumber": "83", 
+      "lat": 50.646669649362, 
+      "lon": 5.579589934277, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729833", 
+      "street": "F\u00e9ronstr\u00e9e"
+    }, 
+    {
+      "hnrlbls": [
+        "84"
+      ], 
+      "housenumber": "84", 
+      "lat": 50.646413727683, 
+      "lon": 5.579835782648, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729833", 
+      "street": "F\u00e9ronstr\u00e9e"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
+      "hnrlbls": [
         "85"
       ], 
       "housenumber": "85", 
@@ -961,6 +1618,13 @@
       "street": "F\u00e9ronstr\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "87"
       ], 
@@ -973,6 +1637,23 @@
       "street": "F\u00e9ronstr\u00e9e"
     }, 
     {
+      "hnrlbls": [
+        "88"
+      ], 
+      "housenumber": "88", 
+      "lat": 50.646496167723, 
+      "lon": 5.580200474112, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729833", 
+      "street": "F\u00e9ronstr\u00e9e"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012"
+      ], 
       "hnrlbls": [
         "89"
       ], 
@@ -1010,6 +1691,18 @@
     }, 
     {
       "hnrlbls": [
+        "91"
+      ], 
+      "housenumber": "91", 
+      "lat": 50.646860204134, 
+      "lon": 5.580020047934, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729833", 
+      "street": "F\u00e9ronstr\u00e9e"
+    }, 
+    {
+      "hnrlbls": [
         "92"
       ], 
       "housenumber": "92", 
@@ -1034,6 +1727,23 @@
     }, 
     {
       "hnrlbls": [
+        "94"
+      ], 
+      "housenumber": "94", 
+      "lat": 50.64681660513, 
+      "lon": 5.58095450367, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729833", 
+      "street": "F\u00e9ronstr\u00e9e"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
+      "hnrlbls": [
         "95"
       ], 
       "housenumber": "95", 
@@ -1046,6 +1756,26 @@
     }, 
     {
       "hnrlbls": [
+        "96"
+      ], 
+      "housenumber": "96", 
+      "lat": 50.646847328711, 
+      "lon": 5.581112825023, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729833", 
+      "street": "F\u00e9ronstr\u00e9e"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031"
+      ], 
+      "hnrlbls": [
         "97"
       ], 
       "housenumber": "97", 
@@ -1057,6 +1787,24 @@
       "street": "F\u00e9ronstr\u00e9e"
     }, 
     {
+      "hnrlbls": [
+        "98"
+      ], 
+      "housenumber": "98", 
+      "lat": 50.646842249956, 
+      "lon": 5.581092797977, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729833", 
+      "street": "F\u00e9ronstr\u00e9e"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "99"
       ], 

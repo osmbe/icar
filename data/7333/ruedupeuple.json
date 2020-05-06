@@ -85,6 +85,9 @@
       "street": "Rue du Peuple"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "110"
       ], 
@@ -457,6 +460,9 @@
       "street": "Rue du Peuple"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -661,6 +667,18 @@
       "street": "Rue du Peuple"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0022", 
+        "0024", 
+        "0031", 
+        "0032", 
+        "RCH2", 
+        "RCH3"
+      ], 
       "hnrlbls": [
         "58"
       ], 
@@ -821,8 +839,8 @@
         "73"
       ], 
       "housenumber": "73", 
-      "lat": 50.466515170666, 
-      "lon": 3.805675272683, 
+      "lat": 50.466492334535, 
+      "lon": 3.805550644706, 
       "municipality": "Saint-Ghislain", 
       "pcode": "7333", 
       "source": "7714804", 
@@ -997,6 +1015,11 @@
       "street": "Rue du Peuple"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "88"
       ], 

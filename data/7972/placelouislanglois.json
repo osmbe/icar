@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "APT1", 
+        "APT2", 
+        "APT3"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -25,6 +30,9 @@
       "street": "Place Louis Langlois"
     }, 
     {
+      "busnrs": [
+        "APT1"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -241,6 +249,11 @@
       "street": "Place Louis Langlois"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "3"
       ], 

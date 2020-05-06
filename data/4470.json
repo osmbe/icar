@@ -37,10 +37,10 @@
       "t": 50.623383879757
     }, 
     {
-      "b": 50.601817841955, 
+      "b": 50.601612019299, 
       "l": 5.381717228742, 
       "name": "Chemin des Pr\u00e9s", 
-      "numOfAddr": 12, 
+      "numOfAddr": 10, 
       "r": 5.38311185039, 
       "sanName": "chemindesprs", 
       "t": 50.603882232243
@@ -49,7 +49,7 @@
       "b": 50.607336350577, 
       "l": 5.38230588814, 
       "name": "Chemin des Tr\u00eehes", 
-      "numOfAddr": 5, 
+      "numOfAddr": 4, 
       "r": 5.384885759831, 
       "sanName": "chemindestrhes", 
       "t": 50.609228252438
@@ -71,6 +71,15 @@
       "r": 5.365123218481, 
       "sanName": "closdesbls", 
       "t": 50.603726665872
+    }, 
+    {
+      "b": 50.58700485114, 
+      "l": 5.362412100566, 
+      "name": "Clos des Trois All\u00e9es", 
+      "numOfAddr": 8, 
+      "r": 5.363112576171, 
+      "sanName": "closdestroisalles", 
+      "t": 50.587264115692
     }, 
     {
       "b": 50.602197645561, 
@@ -146,9 +155,9 @@
     }, 
     {
       "b": 50.591648000907, 
-      "l": 5.361072132314, 
+      "l": 5.361243209056, 
       "name": "Rue Brouesse", 
-      "numOfAddr": 12, 
+      "numOfAddr": 11, 
       "r": 5.362377476498, 
       "sanName": "ruebrouesse", 
       "t": 50.592638351135
@@ -166,7 +175,7 @@
       "b": 50.598244223594, 
       "l": 5.382894884416, 
       "name": "Rue Catherine Seret", 
-      "numOfAddr": 20, 
+      "numOfAddr": 16, 
       "r": 5.387619902274, 
       "sanName": "ruecatherineseret", 
       "t": 50.601764865673
@@ -238,7 +247,7 @@
       "b": 50.609881285077, 
       "l": 5.376167372777, 
       "name": "Rue de l'Alleu", 
-      "numOfAddr": 8, 
+      "numOfAddr": 7, 
       "r": 5.379367559615, 
       "sanName": "ruedelalleu", 
       "t": 50.611776568669
@@ -355,16 +364,16 @@
       "b": 50.593422901047, 
       "l": 5.380871543679, 
       "name": "Rue des Haies", 
-      "numOfAddr": 15, 
+      "numOfAddr": 14, 
       "r": 5.382820607079, 
       "sanName": "ruedeshaies", 
       "t": 50.59706031162
     }, 
     {
-      "b": 50.620350615335, 
+      "b": 50.620514577086, 
       "l": 5.359534446821, 
       "name": "Rue des Meuniers", 
-      "numOfAddr": 9, 
+      "numOfAddr": 8, 
       "r": 5.364027648057, 
       "sanName": "ruedesmeuniers", 
       "t": 50.62344994836
@@ -444,10 +453,10 @@
     {
       "b": 50.584239266946, 
       "l": 5.353204102354, 
-      "name": "Rue du Cim\u00e9ti\u00e8re", 
+      "name": "Rue du Cimeti\u00e8re", 
       "numOfAddr": 43, 
       "r": 5.357813359027, 
-      "sanName": "rueducimtire", 
+      "sanName": "rueducimetire", 
       "t": 50.586281132483
     }, 
     {
@@ -481,8 +490,8 @@
       "b": 50.620289303312, 
       "l": 5.358124780293, 
       "name": "Rue du Pouhon", 
-      "numOfAddr": 10, 
-      "r": 5.363033535201, 
+      "numOfAddr": 12, 
+      "r": 5.363199550917, 
       "sanName": "ruedupouhon", 
       "t": 50.623182987581
     }, 
@@ -496,10 +505,10 @@
       "t": 50.595492848125
     }, 
     {
-      "b": 50.613184632838, 
+      "b": 50.613014622757, 
       "l": 5.362207904898, 
       "name": "Rue du Vicinal", 
-      "numOfAddr": 19, 
+      "numOfAddr": 20, 
       "r": 5.366296017137, 
       "sanName": "rueduvicinal", 
       "t": 50.616578991948
@@ -517,7 +526,7 @@
       "b": 50.597934230277, 
       "l": 5.370050267999, 
       "name": "Rue Emile Delcour", 
-      "numOfAddr": 41, 
+      "numOfAddr": 40, 
       "r": 5.381416102896, 
       "sanName": "rueemiledelcour", 
       "t": 50.60036293101
@@ -526,8 +535,8 @@
       "b": 50.596256651599, 
       "l": 5.382707118985, 
       "name": "Rue Fond Bougerie", 
-      "numOfAddr": 22, 
-      "r": 5.387568663027, 
+      "numOfAddr": 18, 
+      "r": 5.386941175402, 
       "sanName": "ruefondbougerie", 
       "t": 50.597920253634
     }, 
@@ -553,7 +562,7 @@
       "b": 50.600000923754, 
       "l": 5.380443479247, 
       "name": "Rue Fond M\u00e9an", 
-      "numOfAddr": 6, 
+      "numOfAddr": 7, 
       "r": 5.383986096873, 
       "sanName": "ruefondman", 
       "t": 50.602131921822
@@ -571,7 +580,7 @@
       "b": 50.598649644574, 
       "l": 5.376751768119, 
       "name": "Rue Georges Berotte", 
-      "numOfAddr": 107, 
+      "numOfAddr": 102, 
       "r": 5.386078546635, 
       "sanName": "ruegeorgesberotte", 
       "t": 50.606910728307
@@ -643,7 +652,7 @@
       "b": 50.587727288626, 
       "l": 5.369164350027, 
       "name": "Rue Noiset", 
-      "numOfAddr": 13, 
+      "numOfAddr": 12, 
       "r": 5.390812807406, 
       "sanName": "ruenoiset", 
       "t": 50.590324479812
@@ -676,18 +685,18 @@
       "t": 50.608404038216
     }, 
     {
-      "b": 50.599855505743, 
+      "b": 50.59945908314, 
       "l": 5.359193895519, 
       "name": "Rue Solovaz", 
-      "numOfAddr": 19, 
-      "r": 5.366094760966, 
+      "numOfAddr": 22, 
+      "r": 5.365372159013, 
       "sanName": "ruesolovaz", 
       "t": 50.601538652694
     }, 
     {
       "b": 50.598495820357, 
       "l": 5.367308781888, 
-      "name": "Rue sous les Bois", 
+      "name": "Rue Sous-les-Bois", 
       "numOfAddr": 2, 
       "r": 5.36778598317, 
       "sanName": "ruesouslesbois", 
@@ -705,7 +714,7 @@
     {
       "b": 50.573002725703, 
       "l": 5.360249812342, 
-      "name": "Rue sur les Roches", 
+      "name": "Rue Sur-les-Roches", 
       "numOfAddr": 37, 
       "r": 5.368088030046, 
       "sanName": "ruesurlesroches", 
@@ -714,7 +723,7 @@
     {
       "b": 50.576452966553, 
       "l": 5.367955937949, 
-      "name": "Rue sur les Sarts", 
+      "name": "Rue Sur-les-Sarts", 
       "numOfAddr": 34, 
       "r": 5.372121624869, 
       "sanName": "ruesurlessarts", 

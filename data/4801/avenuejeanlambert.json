@@ -37,6 +37,9 @@
       "street": "Avenue Jean Lambert"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t."
+      ], 
       "hnrlbls": [
         "105"
       ], 
@@ -49,6 +52,10 @@
       "street": "Avenue Jean Lambert"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "2\u00e9t."
+      ], 
       "hnrlbls": [
         "107"
       ], 
@@ -134,11 +141,47 @@
     }, 
     {
       "hnrlbls": [
+        "119"
+      ], 
+      "housenumber": "119", 
+      "lat": 50.584837552915, 
+      "lon": 5.886607139223, 
+      "municipality": "Verviers", 
+      "pcode": "4801", 
+      "source": "7738604", 
+      "street": "Avenue Jean Lambert"
+    }, 
+    {
+      "hnrlbls": [
         "120"
       ], 
       "housenumber": "120", 
       "lat": 50.586570045318, 
       "lon": 5.887330009279, 
+      "municipality": "Verviers", 
+      "pcode": "4801", 
+      "source": "7738604", 
+      "street": "Avenue Jean Lambert"
+    }, 
+    {
+      "hnrlbls": [
+        "121"
+      ], 
+      "housenumber": "121", 
+      "lat": 50.584881290064, 
+      "lon": 5.886199457357, 
+      "municipality": "Verviers", 
+      "pcode": "4801", 
+      "source": "7738604", 
+      "street": "Avenue Jean Lambert"
+    }, 
+    {
+      "hnrlbls": [
+        "122"
+      ], 
+      "housenumber": "122", 
+      "lat": 50.586398173281, 
+      "lon": 5.887202311247, 
       "municipality": "Verviers", 
       "pcode": "4801", 
       "source": "7738604", 
@@ -193,6 +236,9 @@
       "street": "Avenue Jean Lambert"
     }, 
     {
+      "busnrs": [
+        "rez."
+      ], 
       "hnrlbls": [
         "128"
       ], 
@@ -278,6 +324,18 @@
     }, 
     {
       "hnrlbls": [
+        "138"
+      ], 
+      "housenumber": "138", 
+      "lat": 50.585149890048, 
+      "lon": 5.885714193542, 
+      "municipality": "Verviers", 
+      "pcode": "4801", 
+      "source": "7738604", 
+      "street": "Avenue Jean Lambert"
+    }, 
+    {
+      "hnrlbls": [
         "139"
       ], 
       "housenumber": "139", 
@@ -325,12 +383,40 @@
       "street": "Avenue Jean Lambert"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "rez."
+      ], 
       "hnrlbls": [
         "144"
       ], 
       "housenumber": "144", 
       "lat": 50.58456674405, 
       "lon": 5.88509516837, 
+      "municipality": "Verviers", 
+      "pcode": "4801", 
+      "source": "7738604", 
+      "street": "Avenue Jean Lambert"
+    }, 
+    {
+      "hnrlbls": [
+        "64"
+      ], 
+      "housenumber": "64", 
+      "lat": 50.58495568836, 
+      "lon": 5.887260690992, 
+      "municipality": "Verviers", 
+      "pcode": "4801", 
+      "source": "7738604", 
+      "street": "Avenue Jean Lambert"
+    }, 
+    {
+      "hnrlbls": [
+        "99"
+      ], 
+      "housenumber": "99", 
+      "lat": 50.585737990703, 
+      "lon": 5.887515230262, 
       "municipality": "Verviers", 
       "pcode": "4801", 
       "source": "7738604", 

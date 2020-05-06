@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "C", 
+        "D"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +17,19 @@
       "street": "Rue du Village"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "10", 
+        "11", 
+        "12", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "9"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -41,8 +58,8 @@
         "12A"
       ], 
       "housenumber": "12A", 
-      "lat": 49.914792075361, 
-      "lon": 5.378802235084, 
+      "lat": 49.914825375455, 
+      "lon": 5.378802937109, 
       "municipality": "Libramont-Chevigny", 
       "pcode": "6800", 
       "source": "7746827", 
@@ -53,8 +70,8 @@
         "12B"
       ], 
       "housenumber": "12B", 
-      "lat": 49.914762192996, 
-      "lon": 5.378845815771, 
+      "lat": 49.914795441285, 
+      "lon": 5.378852411029, 
       "municipality": "Libramont-Chevigny", 
       "pcode": "6800", 
       "source": "7746827", 
@@ -65,14 +82,18 @@
         "12C"
       ], 
       "housenumber": "12C", 
-      "lat": 49.91473035565, 
-      "lon": 5.378895250866, 
+      "lat": 49.914765995591, 
+      "lon": 5.378900423354, 
       "municipality": "Libramont-Chevigny", 
       "pcode": "6800", 
       "source": "7746827", 
       "street": "Rue du Village"
     }, 
     {
+      "busnrs": [
+        "B", 
+        "C"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -149,8 +170,8 @@
         "1A"
       ], 
       "housenumber": "1A", 
-      "lat": 49.915402440609, 
-      "lon": 5.378568502922, 
+      "lat": 49.915421291317, 
+      "lon": 5.378589163622, 
       "municipality": "Libramont-Chevigny", 
       "pcode": "6800", 
       "source": "7746827", 
@@ -253,6 +274,11 @@
       "street": "Rue du Village"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B", 
+        "C"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -385,6 +411,9 @@
       "street": "Rue du Village"
     }, 
     {
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "42"
       ], 
@@ -397,6 +426,12 @@
       "street": "Rue du Village"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "44"
       ], 
@@ -469,6 +504,12 @@
       "street": "Rue du Village"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "54"
       ], 
@@ -685,6 +726,10 @@
       "street": "Rue du Village"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
       "hnrlbls": [
         "8"
       ], 

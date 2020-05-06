@@ -253,12 +253,15 @@
       "street": "Rue de Tilleur"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "146"
       ], 
       "housenumber": "146", 
-      "lat": 50.629602002582, 
-      "lon": 5.544981367693, 
+      "lat": 50.629561608378, 
+      "lon": 5.545038330586, 
       "municipality": "Saint-Nicolas", 
       "pcode": "4420", 
       "source": "7731924", 
@@ -1009,6 +1012,10 @@
       "street": "Rue de Tilleur"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "300"
       ], 
@@ -1862,6 +1869,18 @@
     }, 
     {
       "hnrlbls": [
+        "395"
+      ], 
+      "housenumber": "395", 
+      "lat": 50.626160966394, 
+      "lon": 5.538212734635, 
+      "municipality": "Saint-Nicolas", 
+      "pcode": "4420", 
+      "source": "7731924", 
+      "street": "Rue de Tilleur"
+    }, 
+    {
+      "hnrlbls": [
         "397"
       ], 
       "housenumber": "397", 
@@ -2605,6 +2624,9 @@
       "street": "Rue de Tilleur"
     }, 
     {
+      "busnrs": [
+        "0002"
+      ], 
       "hnrlbls": [
         "76"
       ], 

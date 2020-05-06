@@ -1,6 +1,21 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "001"
+      ], 
+      "hnrlbls": [
+        "10"
+      ], 
+      "housenumber": "10", 
+      "lat": 50.630253171754, 
+      "lon": 5.540587798768, 
+      "municipality": "Saint-Nicolas", 
+      "pcode": "4420", 
+      "source": "7732009", 
+      "street": "Rue Likenne"
+    }, 
+    {
       "hnrlbls": [
         "12"
       ], 
@@ -49,6 +64,24 @@
       "street": "Rue Likenne"
     }, 
     {
+      "busnrs": [
+        "011", 
+        "012", 
+        "021", 
+        "022"
+      ], 
+      "hnrlbls": [
+        "25"
+      ], 
+      "housenumber": "25", 
+      "lat": 50.629860002027, 
+      "lon": 5.541564241964, 
+      "municipality": "Saint-Nicolas", 
+      "pcode": "4420", 
+      "source": "7732009", 
+      "street": "Rue Likenne"
+    }, 
+    {
       "hnrlbls": [
         "26"
       ], 
@@ -61,12 +94,48 @@
       "street": "Rue Likenne"
     }, 
     {
+      "busnrs": [
+        "011", 
+        "012", 
+        "021", 
+        "022"
+      ], 
+      "hnrlbls": [
+        "27"
+      ], 
+      "housenumber": "27", 
+      "lat": 50.629808873323, 
+      "lon": 5.541652407771, 
+      "municipality": "Saint-Nicolas", 
+      "pcode": "4420", 
+      "source": "7732009", 
+      "street": "Rue Likenne"
+    }, 
+    {
       "hnrlbls": [
         "28"
       ], 
       "housenumber": "28", 
       "lat": 50.62957434309, 
       "lon": 5.541316178657, 
+      "municipality": "Saint-Nicolas", 
+      "pcode": "4420", 
+      "source": "7732009", 
+      "street": "Rue Likenne"
+    }, 
+    {
+      "busnrs": [
+        "0021", 
+        "011", 
+        "012", 
+        "022"
+      ], 
+      "hnrlbls": [
+        "29"
+      ], 
+      "housenumber": "29", 
+      "lat": 50.629759925075, 
+      "lon": 5.541730182585, 
       "municipality": "Saint-Nicolas", 
       "pcode": "4420", 
       "source": "7732009", 
@@ -589,6 +658,9 @@
       "street": "Rue Likenne"
     }, 
     {
+      "busnrs": [
+        "B011"
+      ], 
       "hnrlbls": [
         "82"
       ], 

@@ -5,8 +5,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.332918315875, 
-      "lon": 4.610757025631, 
+      "lat": 50.332911874485, 
+      "lon": 4.610765911886, 
       "municipality": "Mettet", 
       "pcode": "5640", 
       "source": "7752928", 
@@ -29,8 +29,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 50.333195571906, 
-      "lon": 4.609698222384, 
+      "lat": 50.333194336031, 
+      "lon": 4.609720514101, 
       "municipality": "Mettet", 
       "pcode": "5640", 
       "source": "7752928", 
@@ -49,6 +49,11 @@
       "street": "Rue du Centre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -218,6 +223,18 @@
     }, 
     {
       "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.333491049497, 
+      "lon": 4.609293849344, 
+      "municipality": "Mettet", 
+      "pcode": "5640", 
+      "source": "7752928", 
+      "street": "Rue du Centre"
+    }, 
+    {
+      "hnrlbls": [
         "63"
       ], 
       "housenumber": "63", 
@@ -254,6 +271,18 @@
     }, 
     {
       "hnrlbls": [
+        "67"
+      ], 
+      "housenumber": "67", 
+      "lat": 50.334022295583, 
+      "lon": 4.605518141528, 
+      "municipality": "Mettet", 
+      "pcode": "5640", 
+      "source": "7752928", 
+      "street": "Rue du Centre"
+    }, 
+    {
+      "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
@@ -265,6 +294,10 @@
       "street": "Rue du Centre"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "000B"
+      ], 
       "hnrlbls": [
         "9"
       ], 

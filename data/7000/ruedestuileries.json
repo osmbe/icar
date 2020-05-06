@@ -1,6 +1,18 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "0-3", 
+        "1-1", 
+        "1-2", 
+        "1-3", 
+        "1-4", 
+        "1-5", 
+        "2-1", 
+        "2-2"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +25,13 @@
       "street": "Rue des Tuileries"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "1-1", 
+        "2", 
+        "Et-1"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -25,6 +44,11 @@
       "street": "Rue des Tuileries"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "2-1"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -49,6 +73,12 @@
       "street": "Rue des Tuileries"
     }, 
     {
+      "busnrs": [
+        "1-1", 
+        "2-1", 
+        "O-2", 
+        "RZ-g"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -61,6 +91,10 @@
       "street": "Rue des Tuileries"
     }, 
     {
+      "busnrs": [
+        "1-1", 
+        "2-1"
+      ], 
       "hnrlbls": [
         "3"
       ], 

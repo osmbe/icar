@@ -13,6 +13,9 @@
       "street": "Rue Saint-Luc"
     }, 
     {
+      "busnrs": [
+        "A011"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -65,8 +68,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.478737980227, 
-      "lon": 4.880763160617, 
+      "lat": 50.47602506672, 
+      "lon": 4.884634752275, 
       "municipality": "Namur", 
       "pcode": "5004", 
       "source": "7754577", 
@@ -185,8 +188,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.478249201874, 
-      "lon": 4.880680187685, 
+      "lat": 50.475927780621, 
+      "lon": 4.883996522415, 
       "municipality": "Namur", 
       "pcode": "5004", 
       "source": "7754577", 
@@ -353,8 +356,8 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 50.475582369794, 
-      "lon": 4.884180349185, 
+      "lat": 50.476145044322, 
+      "lon": 4.883951888489, 
       "municipality": "Namur", 
       "pcode": "5004", 
       "source": "7754577", 
@@ -409,6 +412,11 @@
       "street": "Rue Saint-Luc"
     }, 
     {
+      "busnrs": [
+        "ET01", 
+        "Et02", 
+        "REZ0"
+      ], 
       "hnrlbls": [
         "58"
       ], 

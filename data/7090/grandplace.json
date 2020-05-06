@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "Et.1"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -14,17 +17,35 @@
     }, 
     {
       "hnrlbls": [
-        "11"
+        "10"
       ], 
-      "housenumber": "11", 
-      "lat": 50.610286280773, 
-      "lon": 4.135872419201, 
+      "housenumber": "10", 
+      "lat": 50.610307862863, 
+      "lon": 4.135997415518, 
       "municipality": "Braine-le-Comte", 
       "pcode": "7090", 
       "source": "7716505", 
       "street": "Grand Place"
     }, 
     {
+      "hnrlbls": [
+        "11"
+      ], 
+      "housenumber": "11", 
+      "lat": 50.61032722957, 
+      "lon": 4.135890908374, 
+      "municipality": "Braine-le-Comte", 
+      "pcode": "7090", 
+      "source": "7716505", 
+      "street": "Grand Place"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -41,8 +62,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 50.610359324396, 
-      "lon": 4.135650795759, 
+      "lat": 50.610384561523, 
+      "lon": 4.135662634115, 
       "municipality": "Braine-le-Comte", 
       "pcode": "7090", 
       "source": "7716505", 
@@ -73,6 +94,9 @@
       "street": "Grand Place"
     }, 
     {
+      "busnrs": [
+        "Et.1"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -97,6 +121,9 @@
       "street": "Grand Place"
     }, 
     {
+      "busnrs": [
+        "Bt.2"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -109,6 +136,13 @@
       "street": "Grand Place"
     }, 
     {
+      "busnrs": [
+        "Bt.1", 
+        "Bt.2", 
+        "Bt.5", 
+        "Et.1", 
+        "Et.3"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -145,6 +179,24 @@
       "street": "Grand Place"
     }, 
     {
+      "busnrs": [
+        "Et.1", 
+        "Et.2", 
+        "Et.3", 
+        "Et.4"
+      ], 
+      "hnrlbls": [
+        "21"
+      ], 
+      "housenumber": "21", 
+      "lat": 50.61086464896, 
+      "lon": 4.135446402031, 
+      "municipality": "Braine-le-Comte", 
+      "pcode": "7090", 
+      "source": "7716505", 
+      "street": "Grand Place"
+    }, 
+    {
       "hnrlbls": [
         "22"
       ], 
@@ -169,6 +221,19 @@
       "street": "Grand Place"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "10", 
+        "11", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -205,6 +270,9 @@
       "street": "Grand Place"
     }, 
     {
+      "busnrs": [
+        "Et.1"
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -257,8 +325,8 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 50.611224477706, 
-      "lon": 4.136267012915, 
+      "lat": 50.611204989382, 
+      "lon": 4.136275332803, 
       "municipality": "Braine-le-Comte", 
       "pcode": "7090", 
       "source": "7716505", 
@@ -269,8 +337,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 50.611079765723, 
-      "lon": 4.13636717404, 
+      "lat": 50.611080682721, 
+      "lon": 4.13634997505, 
       "municipality": "Braine-le-Comte", 
       "pcode": "7090", 
       "source": "7716505", 
@@ -289,6 +357,9 @@
       "street": "Grand Place"
     }, 
     {
+      "busnrs": [
+        "Et.1"
+      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -301,24 +372,16 @@
       "street": "Grand Place"
     }, 
     {
+      "busnrs": [
+        "2Ch1", 
+        "Et.1"
+      ], 
       "hnrlbls": [
         "35"
       ], 
       "housenumber": "35", 
       "lat": 50.610888391521, 
       "lon": 4.136374908371, 
-      "municipality": "Braine-le-Comte", 
-      "pcode": "7090", 
-      "source": "7716505", 
-      "street": "Grand Place"
-    }, 
-    {
-      "hnrlbls": [
-        "36"
-      ], 
-      "housenumber": "36", 
-      "lat": 50.611068281431, 
-      "lon": 4.136501042199, 
       "municipality": "Braine-le-Comte", 
       "pcode": "7090", 
       "source": "7716505", 
@@ -385,6 +448,12 @@
       "street": "Grand Place"
     }, 
     {
+      "busnrs": [
+        "Et1D", 
+        "Et1G", 
+        "Et2D", 
+        "Et2G"
+      ], 
       "hnrlbls": [
         "42"
       ], 
@@ -425,8 +494,30 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.610148792477, 
-      "lon": 4.136214449009, 
+      "lat": 50.610255899525, 
+      "lon": 4.136248968769, 
+      "municipality": "Braine-le-Comte", 
+      "pcode": "7090", 
+      "source": "7716505", 
+      "street": "Grand Place"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8"
+      ], 
+      "hnrlbls": [
+        "7A"
+      ], 
+      "housenumber": "7A", 
+      "lat": 50.610292677808, 
+      "lon": 4.136265667462, 
       "municipality": "Braine-le-Comte", 
       "pcode": "7090", 
       "source": "7716505", 
@@ -437,8 +528,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.610274694939, 
-      "lon": 4.136095096535, 
+      "lat": 50.610262077484, 
+      "lon": 4.136179733584, 
       "municipality": "Braine-le-Comte", 
       "pcode": "7090", 
       "source": "7716505", 

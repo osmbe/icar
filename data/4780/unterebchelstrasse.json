@@ -25,6 +25,10 @@
       "street": "Untere B\u00fcchelstrasse"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "1/1"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -158,6 +162,18 @@
     }, 
     {
       "hnrlbls": [
+        "28A"
+      ], 
+      "housenumber": "28A", 
+      "lat": 50.277604066199, 
+      "lon": 6.1227226707, 
+      "municipality": "Sankt Vith", 
+      "pcode": "4780", 
+      "source": "7737794", 
+      "street": "Untere B\u00fcchelstrasse"
+    }, 
+    {
+      "hnrlbls": [
         "30"
       ], 
       "housenumber": "30", 
@@ -173,8 +189,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 50.277414168245, 
-      "lon": 6.122562056188, 
+      "lat": 50.277404488893, 
+      "lon": 6.122588432763, 
       "municipality": "Sankt Vith", 
       "pcode": "4780", 
       "source": "7737794", 

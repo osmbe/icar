@@ -157,6 +157,14 @@
       "street": "Rue des Hirondelles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0003", 
+        "0006", 
+        "0007", 
+        "0008", 
+        "C005"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -175,6 +183,18 @@
       "housenumber": "4", 
       "lat": 50.681307159823, 
       "lon": 4.381001272248, 
+      "municipality": "Braine-l'Alleud", 
+      "pcode": "1420", 
+      "source": "7700593", 
+      "street": "Rue des Hirondelles"
+    }, 
+    {
+      "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 50.681447489535, 
+      "lon": 4.381485207061, 
       "municipality": "Braine-l'Alleud", 
       "pcode": "1420", 
       "source": "7700593", 

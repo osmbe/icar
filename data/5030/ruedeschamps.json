@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0007", 
+        "0009", 
+        "0010", 
+        "001A"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -25,6 +31,12 @@
       "street": "Rue des Champs"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "000B", 
+        "000C", 
+        "000D"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -61,12 +73,15 @@
       "street": "Rue des Champs"
     }, 
     {
+      "busnrs": [
+        "0002"
+      ], 
       "hnrlbls": [
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 50.555220549291, 
-      "lon": 4.692192159357, 
+      "lat": 50.555103819628, 
+      "lon": 4.69243739828, 
       "municipality": "Gembloux", 
       "pcode": "5030", 
       "source": "7756315", 
@@ -97,6 +112,14 @@
       "street": "Rue des Champs"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "A001", 
+        "A003", 
+        "A004", 
+        "B002", 
+        "B003"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -109,6 +132,11 @@
       "street": "Rue des Champs"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "17B"
       ], 
@@ -349,6 +377,9 @@
       "street": "Rue des Champs"
     }, 
     {
+      "busnrs": [
+        "000B"
+      ], 
       "hnrlbls": [
         "5"
       ], 

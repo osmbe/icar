@@ -253,6 +253,9 @@
       "street": "Rue de Rabais"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -313,6 +316,13 @@
       "street": "Rue de Rabais"
     }, 
     {
+      "busnrs": [
+        "-1", 
+        "0/1", 
+        "0/2", 
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "36"
       ], 
@@ -625,6 +635,9 @@
       "street": "Rue de Rabais"
     }, 
     {
+      "busnrs": [
+        "A/1"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -697,6 +710,12 @@
       "street": "Rue de Rabais"
     }, 
     {
+      "busnrs": [
+        "A/0", 
+        "A/1", 
+        "B", 
+        "C"
+      ], 
       "hnrlbls": [
         "6A"
       ], 
@@ -721,6 +740,14 @@
       "street": "Rue de Rabais"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "0/2", 
+        "1/1", 
+        "1/2", 
+        "2/1", 
+        "2/2"
+      ], 
       "hnrlbls": [
         "70"
       ], 

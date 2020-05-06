@@ -61,6 +61,10 @@
       "street": "Rue d'Audregnies"
     }, 
     {
+      "busnrs": [
+        "D", 
+        "F"
+      ], 
       "hnrlbls": [
         "12B"
       ], 
@@ -415,6 +419,18 @@
       "housenumber": "6", 
       "lat": 50.39986153794, 
       "lon": 3.745558604056, 
+      "municipality": "Dour", 
+      "pcode": "7370", 
+      "source": "7712127", 
+      "street": "Rue d'Audregnies"
+    }, 
+    {
+      "hnrlbls": [
+        "65"
+      ], 
+      "housenumber": "65", 
+      "lat": 50.39834026595, 
+      "lon": 3.739610106038, 
       "municipality": "Dour", 
       "pcode": "7370", 
       "source": "7712127", 

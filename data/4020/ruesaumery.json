@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +19,11 @@
       "street": "Rue Saumery"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -31,6 +42,18 @@
       "housenumber": "15", 
       "lat": 50.63399406711, 
       "lon": 5.591069532023, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7731335", 
+      "street": "Rue Saumery"
+    }, 
+    {
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 50.634010585046, 
+      "lon": 5.59183473112, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7731335", 

@@ -1,6 +1,23 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A/09", 
+        "A/10", 
+        "A/11", 
+        "A/12", 
+        "A/13", 
+        "A/15", 
+        "A/16", 
+        "A/4", 
+        "A/5", 
+        "A/6", 
+        "A/7", 
+        "A/8", 
+        "A/b3", 
+        "A14", 
+        "Ap2"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +30,9 @@
       "street": "Pont de Sommeleville"
     }, 
     {
+      "busnrs": [
+        "3\u00e9t."
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -37,6 +57,36 @@
       "street": "Pont de Sommeleville"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "2\u00e9t.", 
+        "3\u00e9t.", 
+        "rez."
+      ], 
+      "hnrlbls": [
+        "22"
+      ], 
+      "housenumber": "22", 
+      "lat": 50.594576420147, 
+      "lon": 5.869897761791, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738718", 
+      "street": "Pont de Sommeleville"
+    }, 
+    {
+      "hnrlbls": [
+        "24"
+      ], 
+      "housenumber": "24", 
+      "lat": 50.594549540751, 
+      "lon": 5.869860465513, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738718", 
+      "street": "Pont de Sommeleville"
+    }, 
+    {
       "hnrlbls": [
         "3"
       ], 
@@ -50,11 +100,35 @@
     }, 
     {
       "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.594622274982, 
+      "lon": 5.87011333708, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738718", 
+      "street": "Pont de Sommeleville"
+    }, 
+    {
+      "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
       "lat": 50.594427489724, 
       "lon": 5.869584911564, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738718", 
+      "street": "Pont de Sommeleville"
+    }, 
+    {
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.594629711208, 
+      "lon": 5.870145530387, 
       "municipality": "Verviers", 
       "pcode": "4800", 
       "source": "7738718", 

@@ -61,6 +61,9 @@
       "street": "Place Van Zeeland"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -205,6 +208,10 @@
       "street": "Place Van Zeeland"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -229,6 +236,9 @@
       "street": "Place Van Zeeland"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -305,8 +315,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.578563168833, 
-      "lon": 4.068180078098, 
+      "lat": 50.578530672, 
+      "lon": 4.06821254593, 
       "municipality": "Soignies", 
       "pcode": "7060", 
       "source": "7718651", 

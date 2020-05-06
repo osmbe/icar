@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0RCH"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -37,6 +43,9 @@
       "street": "Rue de l'H\u00f4pital"
     }, 
     {
+      "busnrs": [
+        "0RCH"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -49,6 +58,10 @@
       "street": "Rue de l'H\u00f4pital"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0RCH"
+      ], 
       "hnrlbls": [
         "3"
       ], 

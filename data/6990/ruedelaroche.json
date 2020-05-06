@@ -277,6 +277,9 @@
       "street": "Rue de La-Roche"
     }, 
     {
+      "busnrs": [
+        "0006"
+      ], 
       "hnrlbls": [
         "33"
       ], 
@@ -554,11 +557,23 @@
     }, 
     {
       "hnrlbls": [
+        "51A"
+      ], 
+      "housenumber": "51A", 
+      "lat": 50.257484708927, 
+      "lon": 5.472859410541, 
+      "municipality": "Hotton", 
+      "pcode": "6990", 
+      "source": "7743661", 
+      "street": "Rue de La-Roche"
+    }, 
+    {
+      "hnrlbls": [
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 50.257442124118, 
-      "lon": 5.473137535837, 
+      "lat": 50.256543648512, 
+      "lon": 5.47544275432, 
       "municipality": "Hotton", 
       "pcode": "6990", 
       "source": "7743661", 
@@ -985,6 +1000,10 @@
       "street": "Rue de La-Roche"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0003"
+      ], 
       "hnrlbls": [
         "85"
       ], 

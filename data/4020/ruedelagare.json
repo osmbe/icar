@@ -1,6 +1,26 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.668854945424, 
+      "lon": 5.659961817984, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730370", 
+      "street": "Rue de la Gare"
+    }, 
+    {
       "hnrlbls": [
         "10"
       ], 
@@ -181,6 +201,11 @@
       "street": "Rue de la Gare"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -253,6 +278,22 @@
       "street": "Rue de la Gare"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0012"
+      ], 
+      "hnrlbls": [
+        "32"
+      ], 
+      "housenumber": "32", 
+      "lat": 50.669646739127, 
+      "lon": 5.658943039727, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730370", 
+      "street": "Rue de la Gare"
+    }, 
+    {
       "hnrlbls": [
         "4"
       ], 
@@ -277,6 +318,11 @@
       "street": "Rue de la Gare"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "6"
       ], 

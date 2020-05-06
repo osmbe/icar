@@ -2,11 +2,23 @@
   "addresses": [
     {
       "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.716264848736, 
+      "lon": 4.658395492844, 
+      "municipality": "Chaumont-Gistoux", 
+      "pcode": "1325", 
+      "source": "7701121", 
+      "street": "Rue de l'Ecole"
+    }, 
+    {
+      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.71571536597, 
-      "lon": 4.659285884313, 
+      "lat": 50.715630560021, 
+      "lon": 4.659402423656, 
       "municipality": "Chaumont-Gistoux", 
       "pcode": "1325", 
       "source": "7701121", 
@@ -65,8 +77,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.715753334053, 
-      "lon": 4.658993219268, 
+      "lat": 50.715245039461, 
+      "lon": 4.658573797011, 
       "municipality": "Chaumont-Gistoux", 
       "pcode": "1325", 
       "source": "7701121", 
@@ -89,8 +101,8 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 50.715083697095, 
-      "lon": 4.658361640493, 
+      "lat": 50.715605230017, 
+      "lon": 4.658877265519, 
       "municipality": "Chaumont-Gistoux", 
       "pcode": "1325", 
       "source": "7701121", 
@@ -125,8 +137,8 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.715866474423, 
-      "lon": 4.659534452748, 
+      "lat": 50.716053497692, 
+      "lon": 4.660703932736, 
       "municipality": "Chaumont-Gistoux", 
       "pcode": "1325", 
       "source": "7701121", 
@@ -146,35 +158,11 @@
     }, 
     {
       "hnrlbls": [
-        "21"
-      ], 
-      "housenumber": "21", 
-      "lat": 50.714874656897, 
-      "lon": 4.658157742985, 
-      "municipality": "Chaumont-Gistoux", 
-      "pcode": "1325", 
-      "source": "7701121", 
-      "street": "Rue de l'Ecole"
-    }, 
-    {
-      "hnrlbls": [
         "22"
       ], 
       "housenumber": "22", 
       "lat": 50.714816320618, 
       "lon": 4.659031694211, 
-      "municipality": "Chaumont-Gistoux", 
-      "pcode": "1325", 
-      "source": "7701121", 
-      "street": "Rue de l'Ecole"
-    }, 
-    {
-      "hnrlbls": [
-        "23"
-      ], 
-      "housenumber": "23", 
-      "lat": 50.714856715184, 
-      "lon": 4.658412296739, 
       "municipality": "Chaumont-Gistoux", 
       "pcode": "1325", 
       "source": "7701121", 
@@ -193,12 +181,15 @@
       "street": "Rue de l'Ecole"
     }, 
     {
+      "busnrs": [
+        "29/1"
+      ], 
       "hnrlbls": [
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 50.714542127895, 
-      "lon": 4.659153557418, 
+      "lat": 50.714874656897, 
+      "lon": 4.658157742985, 
       "municipality": "Chaumont-Gistoux", 
       "pcode": "1325", 
       "source": "7701121", 
@@ -211,6 +202,18 @@
       "housenumber": "3", 
       "lat": 50.716583417066, 
       "lon": 4.659509418198, 
+      "municipality": "Chaumont-Gistoux", 
+      "pcode": "1325", 
+      "source": "7701121", 
+      "street": "Rue de l'Ecole"
+    }, 
+    {
+      "hnrlbls": [
+        "31"
+      ], 
+      "housenumber": "31", 
+      "lat": 50.714856715184, 
+      "lon": 4.658412296739, 
       "municipality": "Chaumont-Gistoux", 
       "pcode": "1325", 
       "source": "7701121", 
@@ -242,6 +245,18 @@
     }, 
     {
       "hnrlbls": [
+        "37"
+      ], 
+      "housenumber": "37", 
+      "lat": 50.714542127895, 
+      "lon": 4.659153557418, 
+      "municipality": "Chaumont-Gistoux", 
+      "pcode": "1325", 
+      "source": "7701121", 
+      "street": "Rue de l'Ecole"
+    }, 
+    {
+      "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
@@ -266,11 +281,35 @@
     }, 
     {
       "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.715868612647, 
+      "lon": 4.659630938287, 
+      "municipality": "Chaumont-Gistoux", 
+      "pcode": "1325", 
+      "source": "7701121", 
+      "street": "Rue de l'Ecole"
+    }, 
+    {
+      "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
       "lat": 50.716190173701, 
       "lon": 4.659524136298, 
+      "municipality": "Chaumont-Gistoux", 
+      "pcode": "1325", 
+      "source": "7701121", 
+      "street": "Rue de l'Ecole"
+    }, 
+    {
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 50.715884434089, 
+      "lon": 4.659451965449, 
       "municipality": "Chaumont-Gistoux", 
       "pcode": "1325", 
       "source": "7701121", 

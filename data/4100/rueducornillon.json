@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A11", 
+        "A12"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -67,6 +71,18 @@
       "housenumber": "18", 
       "lat": 50.581017355203, 
       "lon": 5.538166468489, 
+      "municipality": "Seraing", 
+      "pcode": "4100", 
+      "source": "7732434", 
+      "street": "Rue du Cornillon"
+    }, 
+    {
+      "hnrlbls": [
+        "1A"
+      ], 
+      "housenumber": "1A", 
+      "lat": 50.580812759805, 
+      "lon": 5.53871854611, 
       "municipality": "Seraing", 
       "pcode": "4100", 
       "source": "7732434", 
@@ -199,6 +215,42 @@
       "housenumber": "35", 
       "lat": 50.581607188619, 
       "lon": 5.538350822344, 
+      "municipality": "Seraing", 
+      "pcode": "4100", 
+      "source": "7732434", 
+      "street": "Rue du Cornillon"
+    }, 
+    {
+      "hnrlbls": [
+        "36"
+      ], 
+      "housenumber": "36", 
+      "lat": 50.581675205982, 
+      "lon": 5.537512688849, 
+      "municipality": "Seraing", 
+      "pcode": "4100", 
+      "source": "7732434", 
+      "street": "Rue du Cornillon"
+    }, 
+    {
+      "hnrlbls": [
+        "38"
+      ], 
+      "housenumber": "38", 
+      "lat": 50.581734718358, 
+      "lon": 5.537485017146, 
+      "municipality": "Seraing", 
+      "pcode": "4100", 
+      "source": "7732434", 
+      "street": "Rue du Cornillon"
+    }, 
+    {
+      "hnrlbls": [
+        "38A"
+      ], 
+      "housenumber": "38A", 
+      "lat": 50.581823063748, 
+      "lon": 5.537428916033, 
       "municipality": "Seraing", 
       "pcode": "4100", 
       "source": "7732434", 

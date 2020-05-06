@@ -13,6 +13,9 @@
       "street": "Rue Saint-Pierre"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -313,12 +316,16 @@
       "street": "Rue Saint-Pierre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.62615993871, 
-      "lon": 5.146960284284, 
+      "lat": 50.626089503848, 
+      "lon": 5.146987465181, 
       "municipality": "Braives", 
       "pcode": "4260", 
       "source": "7740046", 
@@ -349,6 +356,9 @@
       "street": "Rue Saint-Pierre"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "9"
       ], 

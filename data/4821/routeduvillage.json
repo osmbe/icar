@@ -385,6 +385,10 @@
       "street": "Route du Village"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -482,11 +486,23 @@
     }, 
     {
       "hnrlbls": [
-        "44"
+        "44A"
       ], 
-      "housenumber": "44", 
-      "lat": 50.613377230261, 
-      "lon": 5.88553826279, 
+      "housenumber": "44A", 
+      "lat": 50.613413256921, 
+      "lon": 5.885535310485, 
+      "municipality": "Dison", 
+      "pcode": "4821", 
+      "source": "7735616", 
+      "street": "Route du Village"
+    }, 
+    {
+      "hnrlbls": [
+        "44B"
+      ], 
+      "housenumber": "44B", 
+      "lat": 50.613353425132, 
+      "lon": 5.885539367753, 
       "municipality": "Dison", 
       "pcode": "4821", 
       "source": "7735616", 
@@ -667,6 +683,18 @@
       "housenumber": "67", 
       "lat": 50.613728753249, 
       "lon": 5.886975500746, 
+      "municipality": "Dison", 
+      "pcode": "4821", 
+      "source": "7735616", 
+      "street": "Route du Village"
+    }, 
+    {
+      "hnrlbls": [
+        "82"
+      ], 
+      "housenumber": "82", 
+      "lat": 50.612929073105, 
+      "lon": 5.88596833249, 
       "municipality": "Dison", 
       "pcode": "4821", 
       "source": "7735616", 

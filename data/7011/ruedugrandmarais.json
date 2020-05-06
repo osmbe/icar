@@ -217,6 +217,9 @@
       "street": "Rue du Grand Marais"
     }, 
     {
+      "busnrs": [
+        "0-2"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -301,6 +304,9 @@
       "street": "Rue du Grand Marais"
     }, 
     {
+      "busnrs": [
+        "1-1"
+      ], 
       "hnrlbls": [
         "25B"
       ], 
@@ -313,6 +319,9 @@
       "street": "Rue du Grand Marais"
     }, 
     {
+      "busnrs": [
+        "1-1"
+      ], 
       "hnrlbls": [
         "25C"
       ], 
@@ -325,6 +334,11 @@
       "street": "Rue du Grand Marais"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "1-2"
+      ], 
       "hnrlbls": [
         "25D"
       ], 
@@ -613,6 +627,9 @@
       "street": "Rue du Grand Marais"
     }, 
     {
+      "busnrs": [
+        "A-2"
+      ], 
       "hnrlbls": [
         "47"
       ], 
@@ -931,6 +948,18 @@
       "housenumber": "79", 
       "lat": 50.46750364411, 
       "lon": 3.887766961518, 
+      "municipality": "Mons", 
+      "pcode": "7011", 
+      "source": "7713910", 
+      "street": "Rue du Grand Marais"
+    }, 
+    {
+      "hnrlbls": [
+        "79B"
+      ], 
+      "housenumber": "79B", 
+      "lat": 50.467497481864, 
+      "lon": 3.887940281892, 
       "municipality": "Mons", 
       "pcode": "7011", 
       "source": "7713910", 

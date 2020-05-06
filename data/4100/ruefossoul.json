@@ -181,6 +181,10 @@
       "street": "Rue Fossoul"
     }, 
     {
+      "busnrs": [
+        "11", 
+        "2"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -229,6 +233,12 @@
       "street": "Rue Fossoul"
     }, 
     {
+      "busnrs": [
+        "0008", 
+        "2", 
+        "5", 
+        "7"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -253,6 +263,15 @@
       "street": "Rue Fossoul"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "32", 
+        "5", 
+        "6", 
+        "7"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -343,6 +362,18 @@
       "housenumber": "35", 
       "lat": 50.574584531956, 
       "lon": 5.541562184032, 
+      "municipality": "Seraing", 
+      "pcode": "4100", 
+      "source": "7732510", 
+      "street": "Rue Fossoul"
+    }, 
+    {
+      "hnrlbls": [
+        "37"
+      ], 
+      "housenumber": "37", 
+      "lat": 50.574554997322, 
+      "lon": 5.54121117911, 
       "municipality": "Seraing", 
       "pcode": "4100", 
       "source": "7732510", 
@@ -559,6 +590,51 @@
       "housenumber": "74", 
       "lat": 50.574788831765, 
       "lon": 5.541852326322, 
+      "municipality": "Seraing", 
+      "pcode": "4100", 
+      "source": "7732510", 
+      "street": "Rue Fossoul"
+    }, 
+    {
+      "busnrs": [
+        "11"
+      ], 
+      "hnrlbls": [
+        "75"
+      ], 
+      "housenumber": "75", 
+      "lat": 50.575633332157, 
+      "lon": 5.537945871323, 
+      "municipality": "Seraing", 
+      "pcode": "4100", 
+      "source": "7732510", 
+      "street": "Rue Fossoul"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "10", 
+        "11", 
+        "12", 
+        "13", 
+        "14", 
+        "15", 
+        "16", 
+        "17", 
+        "18", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "8"
+      ], 
+      "hnrlbls": [
+        "82"
+      ], 
+      "housenumber": "82", 
+      "lat": 50.575013541271, 
+      "lon": 5.541456858942, 
       "municipality": "Seraing", 
       "pcode": "4100", 
       "source": "7732510", 

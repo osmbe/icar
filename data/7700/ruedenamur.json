@@ -2,18 +2,6 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1"
-      ], 
-      "housenumber": "1", 
-      "lat": 50.726508205917, 
-      "lon": 3.197351631182, 
-      "municipality": "Mouscron", 
-      "pcode": "7700", 
-      "source": "7715822", 
-      "street": "Rue de Namur"
-    }, 
-    {
-      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -127,18 +115,6 @@
       "housenumber": "19", 
       "lat": 50.726104952309, 
       "lon": 3.198106233729, 
-      "municipality": "Mouscron", 
-      "pcode": "7700", 
-      "source": "7715822", 
-      "street": "Rue de Namur"
-    }, 
-    {
-      "hnrlbls": [
-        "2"
-      ], 
-      "housenumber": "2", 
-      "lat": 50.726377351244, 
-      "lon": 3.197241945573, 
       "municipality": "Mouscron", 
       "pcode": "7700", 
       "source": "7715822", 
@@ -361,6 +337,15 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007"
+      ], 
       "hnrlbls": [
         "39"
       ], 
@@ -481,6 +466,13 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005"
+      ], 
       "hnrlbls": [
         "48"
       ], 
@@ -806,18 +798,6 @@
     }, 
     {
       "hnrlbls": [
-        "77"
-      ], 
-      "housenumber": "77", 
-      "lat": 50.725146681498, 
-      "lon": 3.199794490259, 
-      "municipality": "Mouscron", 
-      "pcode": "7700", 
-      "source": "7715822", 
-      "street": "Rue de Namur"
-    }, 
-    {
-      "hnrlbls": [
         "79"
       ], 
       "housenumber": "79", 
@@ -889,6 +869,10 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "88"
       ], 

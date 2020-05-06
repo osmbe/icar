@@ -25,12 +25,16 @@
       "street": "Rue Chantraine"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.650143126537, 
-      "lon": 5.356734227641, 
+      "lat": 50.650587076559, 
+      "lon": 5.356865422346, 
       "municipality": "Donceel", 
       "pcode": "4357", 
       "source": "7740154", 
@@ -53,8 +57,8 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 50.650564276852, 
-      "lon": 5.357757421992, 
+      "lat": 50.650171921869, 
+      "lon": 5.357586353908, 
       "municipality": "Donceel", 
       "pcode": "4357", 
       "source": "7740154", 
@@ -109,6 +113,9 @@
       "street": "Rue Chantraine"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "19"
       ], 

@@ -25,6 +25,11 @@
       "street": "Boulevard Z\u00e9nobe Gramme"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "R1", 
+        "R2"
+      ], 
       "hnrlbls": [
         "114"
       ], 
@@ -361,6 +366,13 @@
       "street": "Boulevard Z\u00e9nobe Gramme"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "188"
       ], 
@@ -481,6 +493,16 @@
       "street": "Boulevard Z\u00e9nobe Gramme"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "R2", 
+        "R3"
+      ], 
       "hnrlbls": [
         "204"
       ], 
@@ -614,47 +636,11 @@
     }, 
     {
       "hnrlbls": [
-        "44"
-      ], 
-      "housenumber": "44", 
-      "lat": 50.66772805419, 
-      "lon": 5.63911504096, 
-      "municipality": "Herstal", 
-      "pcode": "4040", 
-      "source": "7729056", 
-      "street": "Boulevard Z\u00e9nobe Gramme"
-    }, 
-    {
-      "hnrlbls": [
-        "45"
-      ], 
-      "housenumber": "45", 
-      "lat": 50.667778701398, 
-      "lon": 5.639167138459, 
-      "municipality": "Herstal", 
-      "pcode": "4040", 
-      "source": "7729056", 
-      "street": "Boulevard Z\u00e9nobe Gramme"
-    }, 
-    {
-      "hnrlbls": [
         "46"
       ], 
       "housenumber": "46", 
       "lat": 50.667858806749, 
       "lon": 5.63925945901, 
-      "municipality": "Herstal", 
-      "pcode": "4040", 
-      "source": "7729056", 
-      "street": "Boulevard Z\u00e9nobe Gramme"
-    }, 
-    {
-      "hnrlbls": [
-        "47"
-      ], 
-      "housenumber": "47", 
-      "lat": 50.667907736737, 
-      "lon": 5.639243785953, 
       "municipality": "Herstal", 
       "pcode": "4040", 
       "source": "7729056", 
@@ -673,6 +659,9 @@
       "street": "Boulevard Z\u00e9nobe Gramme"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "50"
       ], 
@@ -685,48 +674,19 @@
       "street": "Boulevard Z\u00e9nobe Gramme"
     }, 
     {
-      "hnrlbls": [
-        "51"
+      "busnrs": [
+        "0011", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032"
       ], 
-      "housenumber": "51", 
-      "lat": 50.668117585036, 
-      "lon": 5.639469166865, 
-      "municipality": "Herstal", 
-      "pcode": "4040", 
-      "source": "7729056", 
-      "street": "Boulevard Z\u00e9nobe Gramme"
-    }, 
-    {
-      "hnrlbls": [
-        "52"
-      ], 
-      "housenumber": "52", 
-      "lat": 50.66823128997, 
-      "lon": 5.63956235158, 
-      "municipality": "Herstal", 
-      "pcode": "4040", 
-      "source": "7729056", 
-      "street": "Boulevard Z\u00e9nobe Gramme"
-    }, 
-    {
       "hnrlbls": [
         "56"
       ], 
       "housenumber": "56", 
       "lat": 50.661829869042, 
       "lon": 5.630650233852, 
-      "municipality": "Herstal", 
-      "pcode": "4040", 
-      "source": "7729056", 
-      "street": "Boulevard Z\u00e9nobe Gramme"
-    }, 
-    {
-      "hnrlbls": [
-        "58"
-      ], 
-      "housenumber": "58", 
-      "lat": 50.668428395215, 
-      "lon": 5.639782949617, 
       "municipality": "Herstal", 
       "pcode": "4040", 
       "source": "7729056", 
@@ -751,18 +711,6 @@
       "housenumber": "6", 
       "lat": 50.663738408371, 
       "lon": 5.633573372183, 
-      "municipality": "Herstal", 
-      "pcode": "4040", 
-      "source": "7729056", 
-      "street": "Boulevard Z\u00e9nobe Gramme"
-    }, 
-    {
-      "hnrlbls": [
-        "60"
-      ], 
-      "housenumber": "60", 
-      "lat": 50.668544424316, 
-      "lon": 5.639873227318, 
       "municipality": "Herstal", 
       "pcode": "4040", 
       "source": "7729056", 
@@ -821,32 +769,8 @@
         "70"
       ], 
       "housenumber": "70", 
-      "lat": 50.669190448946, 
-      "lon": 5.640303846987, 
-      "municipality": "Herstal", 
-      "pcode": "4040", 
-      "source": "7729056", 
-      "street": "Boulevard Z\u00e9nobe Gramme"
-    }, 
-    {
-      "hnrlbls": [
-        "71"
-      ], 
-      "housenumber": "71", 
-      "lat": 50.669265278628, 
-      "lon": 5.64041487515, 
-      "municipality": "Herstal", 
-      "pcode": "4040", 
-      "source": "7729056", 
-      "street": "Boulevard Z\u00e9nobe Gramme"
-    }, 
-    {
-      "hnrlbls": [
-        "73"
-      ], 
-      "housenumber": "73", 
-      "lat": 50.669372876715, 
-      "lon": 5.640443766633, 
+      "lat": 50.661567811408, 
+      "lon": 5.630340703106, 
       "municipality": "Herstal", 
       "pcode": "4040", 
       "source": "7729056", 

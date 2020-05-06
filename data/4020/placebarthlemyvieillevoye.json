@@ -1,6 +1,13 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +20,11 @@
       "street": "Place Barth\u00e9lemy-Vieillevoye"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -49,6 +61,11 @@
       "street": "Place Barth\u00e9lemy-Vieillevoye"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -61,6 +78,24 @@
       "street": "Place Barth\u00e9lemy-Vieillevoye"
     }, 
     {
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.627938338893, 
+      "lon": 5.584034895442, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7729963", 
+      "street": "Place Barth\u00e9lemy-Vieillevoye"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "7"
       ], 

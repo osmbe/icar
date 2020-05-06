@@ -89,8 +89,8 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 50.483178996775, 
-      "lon": 5.296040765025, 
+      "lat": 50.483104183967, 
+      "lon": 5.296055321532, 
       "municipality": "Modave", 
       "pcode": "4577", 
       "source": "7725889", 
@@ -113,8 +113,8 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 50.483156922004, 
-      "lon": 5.295924881203, 
+      "lat": 50.483106440394, 
+      "lon": 5.295936969334, 
       "municipality": "Modave", 
       "pcode": "4577", 
       "source": "7725889", 
@@ -385,6 +385,9 @@
       "street": "Rue Mont Sainte Aldegonde"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -445,6 +448,10 @@
       "street": "Rue Mont Sainte Aldegonde"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "8"
       ], 

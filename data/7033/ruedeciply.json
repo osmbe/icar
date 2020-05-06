@@ -157,6 +157,10 @@
       "street": "Rue de Ciply"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "113B"
       ], 
@@ -601,6 +605,10 @@
       "street": "Rue de Ciply"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "Et-1"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -793,6 +801,9 @@
       "street": "Rue de Ciply"
     }, 
     {
+      "busnrs": [
+        "1-1"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -1333,6 +1344,12 @@
       "street": "Rue de Ciply"
     }, 
     {
+      "busnrs": [
+        "1-1", 
+        "1-2", 
+        "2-1", 
+        "2-2"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -1813,6 +1830,11 @@
       "street": "Rue de Ciply"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "0-3"
+      ], 
       "hnrlbls": [
         "33"
       ], 
@@ -1897,6 +1919,10 @@
       "street": "Rue de Ciply"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "0-2"
+      ], 
       "hnrlbls": [
         "376"
       ], 
@@ -1921,6 +1947,13 @@
       "street": "Rue de Ciply"
     }, 
     {
+      "busnrs": [
+        "1-1", 
+        "1-2", 
+        "2-1", 
+        "2-2", 
+        "A"
+      ], 
       "hnrlbls": [
         "380"
       ], 
@@ -1949,8 +1982,8 @@
         "385"
       ], 
       "housenumber": "385", 
-      "lat": 50.428068312689, 
-      "lon": 3.936543625335, 
+      "lat": 50.428140700194, 
+      "lon": 3.936605583154, 
       "municipality": "Mons", 
       "pcode": "7033", 
       "source": "7713526", 

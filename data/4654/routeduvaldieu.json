@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "000A", 
+        "000B"
+      ], 
       "hnrlbls": [
         "901"
       ], 
@@ -13,6 +17,10 @@
       "street": "Route du Val-Dieu"
     }, 
     {
+      "busnrs": [
+        "rez1", 
+        "rez2"
+      ], 
       "hnrlbls": [
         "902"
       ], 

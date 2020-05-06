@@ -337,6 +337,10 @@
       "street": "Rue d'Harnoncourt"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "33"
       ], 
@@ -493,6 +497,11 @@
       "street": "Rue d'Harnoncourt"
     }, 
     {
+      "busnrs": [
+        "0", 
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "43"
       ], 
@@ -799,6 +808,18 @@
       "housenumber": "82", 
       "lat": 49.552034618135, 
       "lon": 5.523201582807, 
+      "municipality": "Virton", 
+      "pcode": "6762", 
+      "source": "7747884", 
+      "street": "Rue d'Harnoncourt"
+    }, 
+    {
+      "hnrlbls": [
+        "83"
+      ], 
+      "housenumber": "83", 
+      "lat": 49.552439409841, 
+      "lon": 5.522861208588, 
       "municipality": "Virton", 
       "pcode": "6762", 
       "source": "7747884", 

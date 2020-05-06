@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0/01", 
+        "1/01"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -109,6 +113,11 @@
       "street": "Rue des Canons"
     }, 
     {
+      "busnrs": [
+        "/000", 
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -145,6 +154,13 @@
       "street": "Rue des Canons"
     }, 
     {
+      "busnrs": [
+        "0/01", 
+        "1/01", 
+        "1/02", 
+        "2/01", 
+        "2/02"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -217,6 +233,9 @@
       "street": "Rue des Canons"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -241,6 +260,9 @@
       "street": "Rue des Canons"
     }, 
     {
+      "busnrs": [
+        "0002"
+      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -277,6 +299,11 @@
       "street": "Rue des Canons"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "6"
       ], 

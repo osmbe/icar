@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0002", 
+        "A"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -197,8 +201,8 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.638713807002, 
-      "lon": 3.259314904924, 
+      "lat": 50.639000393435, 
+      "lon": 3.259274101313, 
       "municipality": "Tournai", 
       "pcode": "7520", 
       "source": "7723748", 
@@ -241,6 +245,9 @@
       "street": "Rue Estafflers"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "32"
       ], 
@@ -445,6 +452,11 @@
       "street": "Rue Estafflers"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -469,6 +481,9 @@
       "street": "Rue Estafflers"
     }, 
     {
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "51"
       ], 

@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "CPAS"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +16,10 @@
       "street": "Rue du Centre"
     }, 
     {
+      "busnrs": [
+        "Ap.1", 
+        "Ap.2"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -146,18 +153,6 @@
     }, 
     {
       "hnrlbls": [
-        "112"
-      ], 
-      "housenumber": "112", 
-      "lat": 50.500399730634, 
-      "lon": 5.664802924873, 
-      "municipality": "Sprimont", 
-      "pcode": "4140", 
-      "source": "7733088", 
-      "street": "Rue du Centre"
-    }, 
-    {
-      "hnrlbls": [
         "113"
       ], 
       "housenumber": "113", 
@@ -277,6 +272,9 @@
       "street": "Rue du Centre"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "126"
       ], 
@@ -433,6 +431,9 @@
       "street": "Rue du Centre"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -469,6 +470,10 @@
       "street": "Rue du Centre"
     }, 
     {
+      "busnrs": [
+        "Ap.1", 
+        "Ap.2"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -493,6 +498,10 @@
       "street": "Rue du Centre"
     }, 
     {
+      "busnrs": [
+        "Ap.1", 
+        "Ap.2"
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -589,6 +598,9 @@
       "street": "Rue du Centre"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -601,6 +613,9 @@
       "street": "Rue du Centre"
     }, 
     {
+      "busnrs": [
+        "\u00e9ta."
+      ], 
       "hnrlbls": [
         "36"
       ], 
@@ -673,6 +688,9 @@
       "street": "Rue du Centre"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t."
+      ], 
       "hnrlbls": [
         "42"
       ], 
@@ -721,6 +739,10 @@
       "street": "Rue du Centre"
     }, 
     {
+      "busnrs": [
+        "A1", 
+        "A2"
+      ], 
       "hnrlbls": [
         "47"
       ], 
@@ -757,6 +779,10 @@
       "street": "Rue du Centre"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "Rez0"
+      ], 
       "hnrlbls": [
         "51"
       ], 
@@ -793,6 +819,10 @@
       "street": "Rue du Centre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "56"
       ], 
@@ -841,6 +871,9 @@
       "street": "Rue du Centre"
     }, 
     {
+      "busnrs": [
+        "Ap1"
+      ], 
       "hnrlbls": [
         "62"
       ], 
@@ -853,6 +886,9 @@
       "street": "Rue du Centre"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t."
+      ], 
       "hnrlbls": [
         "64"
       ], 
@@ -961,6 +997,14 @@
       "street": "Rue du Centre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006"
+      ], 
       "hnrlbls": [
         "79"
       ], 
@@ -973,6 +1017,27 @@
       "street": "Rue du Centre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 50.505233955099, 
+      "lon": 5.663241633418, 
+      "municipality": "Sprimont", 
+      "pcode": "4140", 
+      "source": "7733088", 
+      "street": "Rue du Centre"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "80"
       ], 

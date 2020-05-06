@@ -61,6 +61,10 @@
       "street": "Hochkreuz"
     }, 
     {
+      "busnrs": [
+        "1/1", 
+        "P/1"
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -115,6 +119,18 @@
       "housenumber": "34", 
       "lat": 50.321174513326, 
       "lon": 6.152452613797, 
+      "municipality": "Amel", 
+      "pcode": "4770", 
+      "source": "7734935", 
+      "street": "Hochkreuz"
+    }, 
+    {
+      "hnrlbls": [
+        "34A"
+      ], 
+      "housenumber": "34A", 
+      "lat": 50.321072408182, 
+      "lon": 6.15242350826, 
       "municipality": "Amel", 
       "pcode": "4770", 
       "source": "7734935", 
@@ -218,6 +234,18 @@
     }, 
     {
       "hnrlbls": [
+        "57"
+      ], 
+      "housenumber": "57", 
+      "lat": 50.321222138537, 
+      "lon": 6.149939218892, 
+      "municipality": "Amel", 
+      "pcode": "4770", 
+      "source": "7734935", 
+      "street": "Hochkreuz"
+    }, 
+    {
+      "hnrlbls": [
         "58"
       ], 
       "housenumber": "58", 
@@ -245,8 +273,8 @@
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 50.319755634302, 
-      "lon": 6.15201615826, 
+      "lat": 50.319771549983, 
+      "lon": 6.152025582116, 
       "municipality": "Amel", 
       "pcode": "4770", 
       "source": "7734935", 
@@ -257,8 +285,8 @@
         "60A"
       ], 
       "housenumber": "60A", 
-      "lat": 50.319755634302, 
-      "lon": 6.15201615826, 
+      "lat": 50.319739321124, 
+      "lon": 6.152013222783, 
       "municipality": "Amel", 
       "pcode": "4770", 
       "source": "7734935", 

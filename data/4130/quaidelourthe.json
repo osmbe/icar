@@ -1,12 +1,18 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.569434202473, 
-      "lon": 5.583238264098, 
+      "lat": 50.5694595852, 
+      "lon": 5.5833136245, 
       "municipality": "Esneux", 
       "pcode": "4130", 
       "source": "7728639", 
@@ -61,6 +67,11 @@
       "street": "Quai de l'Ourthe"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -137,8 +148,8 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.569284879958, 
-      "lon": 5.58299278429, 
+      "lat": 50.569250958988, 
+      "lon": 5.58336142083, 
       "municipality": "Esneux", 
       "pcode": "4130", 
       "source": "7728639", 
@@ -241,6 +252,9 @@
       "street": "Quai de l'Ourthe"
     }, 
     {
+      "busnrs": [
+        "0021"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -325,6 +339,9 @@
       "street": "Quai de l'Ourthe"
     }, 
     {
+      "busnrs": [
+        "0021"
+      ], 
       "hnrlbls": [
         "38"
       ], 
@@ -361,6 +378,10 @@
       "street": "Quai de l'Ourthe"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "40"
       ], 
@@ -446,6 +467,18 @@
     }, 
     {
       "hnrlbls": [
+        "48"
+      ], 
+      "housenumber": "48", 
+      "lat": 50.564856037533, 
+      "lon": 5.576006141943, 
+      "municipality": "Esneux", 
+      "pcode": "4130", 
+      "source": "7728639", 
+      "street": "Quai de l'Ourthe"
+    }, 
+    {
+      "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
@@ -457,6 +490,9 @@
       "street": "Quai de l'Ourthe"
     }, 
     {
+      "busnrs": [
+        "0011"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -481,6 +517,10 @@
       "street": "Quai de l'Ourthe"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "8"
       ], 

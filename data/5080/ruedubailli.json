@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A001", 
+        "A002"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -193,6 +197,9 @@
       "street": "Rue du Bailli"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -331,6 +338,18 @@
       "housenumber": "35", 
       "lat": 50.52606390113, 
       "lon": 4.865217865066, 
+      "municipality": "La Bruy\u00e8re", 
+      "pcode": "5080", 
+      "source": "7756050", 
+      "street": "Rue du Bailli"
+    }, 
+    {
+      "hnrlbls": [
+        "3A"
+      ], 
+      "housenumber": "3A", 
+      "lat": 50.532947348064, 
+      "lon": 4.861606207013, 
       "municipality": "La Bruy\u00e8re", 
       "pcode": "5080", 
       "source": "7756050", 

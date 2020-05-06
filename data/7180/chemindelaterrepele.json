@@ -2,18 +2,6 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1"
-      ], 
-      "housenumber": "1", 
-      "lat": 50.533718721646, 
-      "lon": 4.241546041778, 
-      "municipality": "Seneffe", 
-      "pcode": "7180", 
-      "source": "7711322", 
-      "street": "Chemin de la Terre Pel\u00e9e"
-    }, 
-    {
-      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -199,18 +187,6 @@
       "housenumber": "29", 
       "lat": 50.53659794781, 
       "lon": 4.243362387501, 
-      "municipality": "Seneffe", 
-      "pcode": "7180", 
-      "source": "7711322", 
-      "street": "Chemin de la Terre Pel\u00e9e"
-    }, 
-    {
-      "hnrlbls": [
-        "3"
-      ], 
-      "housenumber": "3", 
-      "lat": 50.533797583667, 
-      "lon": 4.241637347222, 
       "municipality": "Seneffe", 
       "pcode": "7180", 
       "source": "7711322", 
@@ -433,24 +409,15 @@
       "street": "Chemin de la Terre Pel\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0003"
+      ], 
       "hnrlbls": [
         "49"
       ], 
       "housenumber": "49", 
       "lat": 50.538563366555, 
       "lon": 4.243595727174, 
-      "municipality": "Seneffe", 
-      "pcode": "7180", 
-      "source": "7711322", 
-      "street": "Chemin de la Terre Pel\u00e9e"
-    }, 
-    {
-      "hnrlbls": [
-        "5"
-      ], 
-      "housenumber": "5", 
-      "lat": 50.533876724722, 
-      "lon": 4.241729033074, 
       "municipality": "Seneffe", 
       "pcode": "7180", 
       "source": "7711322", 
@@ -493,6 +460,10 @@
       "street": "Chemin de la Terre Pel\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "53"
       ], 
@@ -638,35 +609,11 @@
     }, 
     {
       "hnrlbls": [
-        "7"
-      ], 
-      "housenumber": "7", 
-      "lat": 50.533955407131, 
-      "lon": 4.241820649929, 
-      "municipality": "Seneffe", 
-      "pcode": "7180", 
-      "source": "7711322", 
-      "street": "Chemin de la Terre Pel\u00e9e"
-    }, 
-    {
-      "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
       "lat": 50.53378912002, 
       "lon": 4.244838802734, 
-      "municipality": "Seneffe", 
-      "pcode": "7180", 
-      "source": "7711322", 
-      "street": "Chemin de la Terre Pel\u00e9e"
-    }, 
-    {
-      "hnrlbls": [
-        "9"
-      ], 
-      "housenumber": "9", 
-      "lat": 50.534062397447, 
-      "lon": 4.241960178699, 
       "municipality": "Seneffe", 
       "pcode": "7180", 
       "source": "7711322", 

@@ -1,24 +1,17 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A", 
+        "B", 
+        "C"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
       "lat": 50.215236533137, 
       "lon": 4.828326513401, 
-      "municipality": "Hasti\u00e8re", 
-      "pcode": "5541", 
-      "source": "7751137", 
-      "street": "Route de Blaimont"
-    }, 
-    {
-      "hnrlbls": [
-        "105"
-      ], 
-      "housenumber": "105", 
-      "lat": 50.213400569396, 
-      "lon": 4.837341838021, 
       "municipality": "Hasti\u00e8re", 
       "pcode": "5541", 
       "source": "7751137", 
@@ -86,6 +79,18 @@
     }, 
     {
       "hnrlbls": [
+        "12A"
+      ], 
+      "housenumber": "12A", 
+      "lat": 50.214311874022, 
+      "lon": 4.830278684477, 
+      "municipality": "Hasti\u00e8re", 
+      "pcode": "5541", 
+      "source": "7751137", 
+      "street": "Route de Blaimont"
+    }, 
+    {
+      "hnrlbls": [
         "13"
       ], 
       "housenumber": "13", 
@@ -109,6 +114,10 @@
       "street": "Route de Blaimont"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -133,6 +142,12 @@
       "street": "Route de Blaimont"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -145,6 +160,14 @@
       "street": "Route de Blaimont"
     }, 
     {
+      "busnrs": [
+        "D", 
+        "E", 
+        "F", 
+        "G", 
+        "H", 
+        "i"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -181,6 +204,10 @@
       "street": "Route de Blaimont"
     }, 
     {
+      "busnrs": [
+        "2", 
+        "4"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -193,6 +220,9 @@
       "street": "Route de Blaimont"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "8"
       ], 

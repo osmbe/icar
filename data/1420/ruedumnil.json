@@ -1,6 +1,13 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "B002", 
+        "B003", 
+        "C004", 
+        "C005", 
+        "D006"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -643,18 +650,6 @@
       "housenumber": "177", 
       "lat": 50.689796157189, 
       "lon": 4.385264443752, 
-      "municipality": "Braine-l'Alleud", 
-      "pcode": "1420", 
-      "source": "7700650", 
-      "street": "Rue du M\u00e9nil"
-    }, 
-    {
-      "hnrlbls": [
-        "182"
-      ], 
-      "housenumber": "182", 
-      "lat": 50.689365726527, 
-      "lon": 4.385598329908, 
       "municipality": "Braine-l'Alleud", 
       "pcode": "1420", 
       "source": "7700650", 

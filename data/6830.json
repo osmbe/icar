@@ -22,10 +22,10 @@
       "b": 49.795216964966, 
       "l": 5.06986240866, 
       "name": "Boulevard Heynen", 
-      "numOfAddr": 7, 
-      "r": 5.07000945154, 
+      "numOfAddr": 11, 
+      "r": 5.070094767887, 
       "sanName": "boulevardheynen", 
-      "t": 49.79555205145
+      "t": 49.795801410592
     }, 
     {
       "b": 49.79687945819, 
@@ -37,11 +37,11 @@
       "t": 49.797340141066
     }, 
     {
-      "b": 49.793412935842, 
+      "b": 49.791918725862, 
       "l": 5.075731302331, 
       "name": "Chemin de Chanteraine", 
-      "numOfAddr": 1, 
-      "r": 5.075731302331, 
+      "numOfAddr": 2, 
+      "r": 5.079309644579, 
       "sanName": "chemindechanteraine", 
       "t": 49.793412935842
     }, 
@@ -58,10 +58,10 @@
       "b": 49.782756052932, 
       "l": 5.079552133401, 
       "name": "Chemin de la Platinerie", 
-      "numOfAddr": 2, 
-      "r": 5.079856071843, 
+      "numOfAddr": 3, 
+      "r": 5.079994051276, 
       "sanName": "chemindelaplatinerie", 
-      "t": 49.78292725323
+      "t": 49.783130493281
     }, 
     {
       "b": 49.796572228165, 
@@ -112,7 +112,7 @@
       "b": 49.810229519797, 
       "l": 4.995006931041, 
       "name": "Chemin des Fauch\u00e9s", 
-      "numOfAddr": 47, 
+      "numOfAddr": 48, 
       "r": 5.000442113375, 
       "sanName": "chemindesfauchs", 
       "t": 49.813883866404
@@ -121,7 +121,7 @@
       "b": 49.812508590168, 
       "l": 4.994400619417, 
       "name": "Chemin de Sn\u00e9viot", 
-      "numOfAddr": 9, 
+      "numOfAddr": 10, 
       "r": 4.998682438345, 
       "sanName": "chemindesnviot", 
       "t": 49.817507443594
@@ -136,6 +136,15 @@
       "t": 49.845143547891
     }, 
     {
+      "b": 49.797623665866, 
+      "l": 5.044241216791, 
+      "name": "Cordemois", 
+      "numOfAddr": 2, 
+      "r": 5.049330353994, 
+      "sanName": "cordemois", 
+      "t": 49.804660411921
+    }, 
+    {
       "b": 49.792800965657, 
       "l": 5.065438976243, 
       "name": "Esplanade Godefroid de Bouillon", 
@@ -146,18 +155,27 @@
     }, 
     {
       "b": 49.786098471613, 
-      "l": 5.064343756587, 
+      "l": 5.064325308741, 
       "name": "Faubourg de France", 
-      "numOfAddr": 46, 
+      "numOfAddr": 48, 
       "r": 5.065363844515, 
       "sanName": "faubourgdefrance", 
       "t": 49.791016205139
     }, 
     {
-      "b": 49.795099594355, 
+      "b": 49.717849998128, 
+      "l": 5.123970255042, 
+      "name": "Grand Hez", 
+      "numOfAddr": 1, 
+      "r": 5.123970255042, 
+      "sanName": "grandhez", 
+      "t": 49.717849998128
+    }, 
+    {
+      "b": 49.794940429063, 
       "l": 5.069396757115, 
       "name": "Grand-Rue", 
-      "numOfAddr": 18, 
+      "numOfAddr": 19, 
       "r": 5.069787549973, 
       "sanName": "grandrue", 
       "t": 49.795863246479
@@ -175,7 +193,7 @@
       "b": 49.821278203948, 
       "l": 5.156709755974, 
       "name": "La Cornette", 
-      "numOfAddr": 13, 
+      "numOfAddr": 14, 
       "otherPCs": [
         "6834"
       ], 
@@ -205,7 +223,7 @@
       "b": 49.81139441935, 
       "l": 5.145343307428, 
       "name": "Les Blancs Cailloux", 
-      "numOfAddr": 10, 
+      "numOfAddr": 11, 
       "r": 5.147125189506, 
       "sanName": "lesblancscailloux", 
       "t": 49.812736436179
@@ -301,13 +319,13 @@
       "t": 49.791643031988
     }, 
     {
-      "b": 49.784241789171, 
-      "l": 5.071251743926, 
+      "b": 49.784068001246, 
+      "l": 5.069972033151, 
       "name": "P\u00e9rimino", 
-      "numOfAddr": 1, 
+      "numOfAddr": 4, 
       "r": 5.071251743926, 
       "sanName": "primino", 
-      "t": 49.784241789171
+      "t": 49.784337516448
     }, 
     {
       "b": 49.795199111263, 
@@ -319,11 +337,11 @@
       "t": 49.795199111263
     }, 
     {
-      "b": 49.795946438774, 
+      "b": 49.795923176198, 
       "l": 5.071144674973, 
       "name": "Quai de la Tannerie", 
       "numOfAddr": 4, 
-      "r": 5.07131067398, 
+      "r": 5.071299870333, 
       "sanName": "quaidelatannerie", 
       "t": 49.796416096055
     }, 
@@ -331,7 +349,7 @@
       "b": 49.791724242588, 
       "l": 5.065389148332, 
       "name": "Quai du Rempart", 
-      "numOfAddr": 37, 
+      "numOfAddr": 39, 
       "r": 5.069515460656, 
       "sanName": "quaidurempart", 
       "t": 49.794883182633
@@ -376,19 +394,19 @@
       "b": 49.790614290975, 
       "l": 5.069868865314, 
       "name": "Route du Christ", 
-      "numOfAddr": 66, 
-      "r": 5.083111129803, 
+      "numOfAddr": 68, 
+      "r": 5.086179128816, 
       "sanName": "routeduchrist", 
-      "t": 49.798040285557
+      "t": 49.798969666012
     }, 
     {
       "b": 49.812628881789, 
-      "l": 4.995803763324, 
+      "l": 4.995719738987, 
       "name": "Route du Hotchet", 
-      "numOfAddr": 12, 
+      "numOfAddr": 14, 
       "r": 4.999917727852, 
       "sanName": "routeduhotchet", 
-      "t": 49.816342736415
+      "t": 49.820477761118
     }, 
     {
       "b": 49.798499733137, 
@@ -401,9 +419,9 @@
     }, 
     {
       "b": 49.782914854484, 
-      "l": 5.072283047732, 
+      "l": 5.072235987251, 
       "name": "Rue de Germauchamps", 
-      "numOfAddr": 29, 
+      "numOfAddr": 35, 
       "r": 5.083741936659, 
       "sanName": "ruedegermauchamps", 
       "t": 49.787091704622
@@ -412,7 +430,7 @@
       "b": 49.786229408104, 
       "l": 5.076739482386, 
       "name": "Rue de Grimouty", 
-      "numOfAddr": 10, 
+      "numOfAddr": 12, 
       "r": 5.077774392086, 
       "sanName": "ruedegrimouty", 
       "t": 49.786759044859
@@ -574,7 +592,7 @@
       "b": 49.812564043549, 
       "l": 5.143323111127, 
       "name": "Rue de la Semois", 
-      "numOfAddr": 38, 
+      "numOfAddr": 37, 
       "r": 5.149278022663, 
       "sanName": "ruedelasemois", 
       "t": 49.813470587154
@@ -607,13 +625,13 @@
       "t": 49.796339910604
     }, 
     {
-      "b": 49.795220246644, 
-      "l": 5.068011405302, 
+      "b": 49.795318829251, 
+      "l": 5.068055934083, 
       "name": "Rue de l'H\u00f4tel de Ville", 
-      "numOfAddr": 2, 
-      "r": 5.068064721187, 
+      "numOfAddr": 4, 
+      "r": 5.068105031444, 
       "sanName": "ruedelhteldeville", 
-      "t": 49.795332426043
+      "t": 49.795480298498
     }, 
     {
       "b": 49.785129269915, 
@@ -664,7 +682,7 @@
       "b": 49.796655929975, 
       "l": 5.067449151088, 
       "name": "Rue des Bastions", 
-      "numOfAddr": 4, 
+      "numOfAddr": 6, 
       "r": 5.069391367874, 
       "sanName": "ruedesbastions", 
       "t": 49.797259035495
@@ -706,11 +724,11 @@
       "t": 49.791374651292
     }, 
     {
-      "b": 49.82776887534, 
+      "b": 49.828139409618, 
       "l": 4.999292002356, 
       "name": "Rue des Cr\u00eates", 
-      "numOfAddr": 42, 
-      "r": 5.002577073887, 
+      "numOfAddr": 38, 
+      "r": 5.002719227508, 
       "sanName": "ruedescrtes", 
       "t": 49.83503232095
     }, 
@@ -745,7 +763,7 @@
       "b": 49.811425116085, 
       "l": 5.000335941986, 
       "name": "Rue des Lavandi\u00e8res", 
-      "numOfAddr": 32, 
+      "numOfAddr": 31, 
       "r": 5.002541442539, 
       "sanName": "ruedeslavandires", 
       "t": 49.813275217634
@@ -799,7 +817,7 @@
       "b": 49.795438887028, 
       "l": 5.06672098795, 
       "name": "Rue du Brutz", 
-      "numOfAddr": 27, 
+      "numOfAddr": 32, 
       "r": 5.068373326513, 
       "sanName": "ruedubrutz", 
       "t": 49.795769835053
@@ -826,7 +844,7 @@
       "b": 49.796055606579, 
       "l": 5.071762406058, 
       "name": "Rue du Lion d'Or", 
-      "numOfAddr": 37, 
+      "numOfAddr": 40, 
       "r": 5.073646658203, 
       "sanName": "rueduliondor", 
       "t": 49.797360984706
@@ -835,7 +853,7 @@
       "b": 49.810730767505, 
       "l": 5.002798408137, 
       "name": "Rue du Mont", 
-      "numOfAddr": 21, 
+      "numOfAddr": 19, 
       "r": 5.004968035437, 
       "sanName": "ruedumont", 
       "t": 49.811632953384
@@ -880,7 +898,7 @@
       "b": 49.807812926697, 
       "l": 5.00440552472, 
       "name": "Rue du Pont", 
-      "numOfAddr": 24, 
+      "numOfAddr": 23, 
       "r": 5.006639753003, 
       "sanName": "ruedupont", 
       "t": 49.810645887469
@@ -889,10 +907,10 @@
       "b": 49.834985283826, 
       "l": 4.996366024441, 
       "name": "Rue du Tabac", 
-      "numOfAddr": 5, 
+      "numOfAddr": 3, 
       "r": 4.999818437726, 
       "sanName": "ruedutabac", 
-      "t": 49.836291742745
+      "t": 49.835664263421
     }, 
     {
       "b": 49.795803762442, 
@@ -914,10 +932,10 @@
     }, 
     {
       "b": 49.788750590572, 
-      "l": 5.065040947094, 
+      "l": 5.065012429046, 
       "name": "Ruelle des Bains", 
-      "numOfAddr": 2, 
-      "r": 5.06510069134, 
+      "numOfAddr": 4, 
+      "r": 5.065119128874, 
       "sanName": "ruelledesbains", 
       "t": 49.788955582477
     }, 
@@ -967,19 +985,19 @@
       "t": 49.78478408134
     }, 
     {
-      "b": 49.792351469014, 
-      "l": 5.143313483418, 
+      "b": 49.788345419994, 
+      "l": 5.140192662922, 
       "name": "Scierie devant Dohan", 
-      "numOfAddr": 6, 
-      "r": 5.14536678052, 
+      "numOfAddr": 84, 
+      "r": 5.147981693797, 
       "sanName": "scieriedevantdohan", 
-      "t": 49.793269890527
+      "t": 49.793871488308
     }, 
     {
       "b": 49.779567291387, 
       "l": 5.058512911166, 
       "name": "Vieille Route de France", 
-      "numOfAddr": 35, 
+      "numOfAddr": 37, 
       "r": 5.064443767691, 
       "sanName": "vieilleroutedefrance", 
       "t": 49.791193168844
@@ -997,7 +1015,7 @@
       "b": 49.794841967814, 
       "l": 5.071207095713, 
       "name": "Voie Jocqu\u00e9e", 
-      "numOfAddr": 54, 
+      "numOfAddr": 52, 
       "r": 5.084735779644, 
       "sanName": "voiejocque", 
       "t": 49.799886548382

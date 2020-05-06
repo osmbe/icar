@@ -61,6 +61,14 @@
       "street": "Rue Laixhay"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0021"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -74,11 +82,35 @@
     }, 
     {
       "hnrlbls": [
+        "29"
+      ], 
+      "housenumber": "29", 
+      "lat": 50.673977051826, 
+      "lon": 5.659924643481, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7731125", 
+      "street": "Rue Laixhay"
+    }, 
+    {
+      "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
       "lat": 50.673717047208, 
       "lon": 5.661095477123, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7731125", 
+      "street": "Rue Laixhay"
+    }, 
+    {
+      "hnrlbls": [
+        "32"
+      ], 
+      "housenumber": "32", 
+      "lat": 50.674197094463, 
+      "lon": 5.660158052266, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7731125", 

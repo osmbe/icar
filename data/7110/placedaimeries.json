@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0003", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -133,6 +139,9 @@
       "street": "Place d'Aimeries"
     }, 
     {
+      "busnrs": [
+        "0004"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -157,6 +166,10 @@
       "street": "Place d'Aimeries"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "5"
       ], 

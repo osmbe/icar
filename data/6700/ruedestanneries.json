@@ -13,6 +13,25 @@
       "street": "Rue des Tanneries"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "10", 
+        "11", 
+        "12", 
+        "13", 
+        "14", 
+        "15", 
+        "16", 
+        "17", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -49,6 +68,30 @@
       "street": "Rue des Tanneries"
     }, 
     {
+      "busnrs": [
+        "2"
+      ], 
+      "hnrlbls": [
+        "17"
+      ], 
+      "housenumber": "17", 
+      "lat": 49.681977187606, 
+      "lon": 5.819719598181, 
+      "municipality": "Arlon", 
+      "pcode": "6700", 
+      "source": "7741630", 
+      "street": "Rue des Tanneries"
+    }, 
+    {
+      "busnrs": [
+        "10", 
+        "5", 
+        "6", 
+        "7", 
+        "9", 
+        "Bte1", 
+        "Bte4"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -109,6 +152,9 @@
       "street": "Rue des Tanneries"
     }, 
     {
+      "busnrs": [
+        "3"
+      ], 
       "hnrlbls": [
         "6"
       ], 

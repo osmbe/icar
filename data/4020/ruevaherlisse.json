@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -91,6 +95,18 @@
       "housenumber": "17", 
       "lat": 50.676082496, 
       "lon": 5.658987756988, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7731385", 
+      "street": "Rue Vaherlisse"
+    }, 
+    {
+      "hnrlbls": [
+        "19"
+      ], 
+      "housenumber": "19", 
+      "lat": 50.676159373459, 
+      "lon": 5.658950933609, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7731385", 

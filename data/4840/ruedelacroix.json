@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "2.Et", 
+        "A", 
+        "B", 
+        "C"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +19,9 @@
       "street": "Rue de la Croix"
     }, 
     {
+      "busnrs": [
+        "1.Et"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -61,6 +70,9 @@
       "street": "Rue de la Croix"
     }, 
     {
+      "busnrs": [
+        "1.Et"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -97,6 +109,11 @@
       "street": "Rue de la Croix"
     }, 
     {
+      "busnrs": [
+        "1E", 
+        "2E", 
+        "RC"
+      ], 
       "hnrlbls": [
         "17A"
       ], 
@@ -157,6 +174,10 @@
       "street": "Rue de la Croix"
     }, 
     {
+      "busnrs": [
+        "1.Et", 
+        "2.Et"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -193,6 +214,13 @@
       "street": "Rue de la Croix"
     }, 
     {
+      "busnrs": [
+        "1E.1", 
+        "1E.2", 
+        "RC.1", 
+        "RC.2", 
+        "RC.3"
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -205,6 +233,11 @@
       "street": "Rue de la Croix"
     }, 
     {
+      "busnrs": [
+        "1.Et", 
+        "2.Et", 
+        "R.C."
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -233,8 +266,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 50.664852007221, 
-      "lon": 5.974438370302, 
+      "lat": 50.663973884941, 
+      "lon": 5.975317350187, 
       "municipality": "Welkenraedt", 
       "pcode": "4840", 
       "source": "7739393", 

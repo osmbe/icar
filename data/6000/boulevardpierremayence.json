@@ -37,6 +37,22 @@
       "street": "Boulevard Pierre Mayence"
     }, 
     {
+      "busnrs": [
+        "011", 
+        "012", 
+        "013", 
+        "021", 
+        "022", 
+        "024", 
+        "031", 
+        "042", 
+        "051", 
+        "052", 
+        "061", 
+        "071", 
+        "3/C3", 
+        "4/A4"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -109,6 +125,10 @@
       "street": "Boulevard Pierre Mayence"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "021"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -169,6 +189,10 @@
       "street": "Boulevard Pierre Mayence"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "011"
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -241,6 +265,11 @@
       "street": "Boulevard Pierre Mayence"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "001", 
+        "011"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -265,6 +294,11 @@
       "street": "Boulevard Pierre Mayence"
     }, 
     {
+      "busnrs": [
+        "00RC", 
+        "011", 
+        "021"
+      ], 
       "hnrlbls": [
         "43"
       ], 
@@ -277,6 +311,10 @@
       "street": "Boulevard Pierre Mayence"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "011"
+      ], 
       "hnrlbls": [
         "45"
       ], 
@@ -301,6 +339,9 @@
       "street": "Boulevard Pierre Mayence"
     }, 
     {
+      "busnrs": [
+        "002"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -313,6 +354,18 @@
       "street": "Boulevard Pierre Mayence"
     }, 
     {
+      "busnrs": [
+        "011", 
+        "012", 
+        "021", 
+        "022", 
+        "031", 
+        "032", 
+        "042", 
+        "051", 
+        "052", 
+        "062"
+      ], 
       "hnrlbls": [
         "63"
       ], 
@@ -325,12 +378,46 @@
       "street": "Boulevard Pierre Mayence"
     }, 
     {
-      "hnrlbls": [
-        "65"
+      "busnrs": [
+        "001", 
+        "021", 
+        "022", 
+        "031", 
+        "032", 
+        "041", 
+        "052"
       ], 
-      "housenumber": "65", 
+      "hnrlbls": [
+        "65A"
+      ], 
+      "housenumber": "65A", 
       "lat": 50.410411586269, 
       "lon": 4.453136225673, 
+      "municipality": "Charleroi", 
+      "pcode": "6000", 
+      "source": "7760105", 
+      "street": "Boulevard Pierre Mayence"
+    }, 
+    {
+      "busnrs": [
+        "002", 
+        "011", 
+        "021", 
+        "022", 
+        "031", 
+        "032", 
+        "041", 
+        "051", 
+        "052", 
+        "061", 
+        "062"
+      ], 
+      "hnrlbls": [
+        "65B"
+      ], 
+      "housenumber": "65B", 
+      "lat": 50.4107754717, 
+      "lon": 4.453000658897, 
       "municipality": "Charleroi", 
       "pcode": "6000", 
       "source": "7760105", 
@@ -409,6 +496,9 @@
       "street": "Boulevard Pierre Mayence"
     }, 
     {
+      "busnrs": [
+        "011"
+      ], 
       "hnrlbls": [
         "78"
       ], 
@@ -421,6 +511,12 @@
       "street": "Boulevard Pierre Mayence"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "001", 
+        "011", 
+        "SS1"
+      ], 
       "hnrlbls": [
         "8"
       ], 
@@ -433,6 +529,11 @@
       "street": "Boulevard Pierre Mayence"
     }, 
     {
+      "busnrs": [
+        "011", 
+        "021", 
+        "RC/A"
+      ], 
       "hnrlbls": [
         "80"
       ], 
@@ -457,6 +558,12 @@
       "street": "Boulevard Pierre Mayence"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "011", 
+        "031", 
+        "041"
+      ], 
       "hnrlbls": [
         "84"
       ], 

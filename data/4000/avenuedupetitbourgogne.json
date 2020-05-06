@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -145,6 +149,11 @@
       "street": "Avenue du Petit-Bourgogne"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012"
+      ], 
       "hnrlbls": [
         "144"
       ], 
@@ -218,6 +227,26 @@
     }, 
     {
       "hnrlbls": [
+        "156"
+      ], 
+      "housenumber": "156", 
+      "lat": 50.615737145859, 
+      "lon": 5.563720569402, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729642", 
+      "street": "Avenue du Petit-Bourgogne"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0022", 
+        "0023"
+      ], 
+      "hnrlbls": [
         "16"
       ], 
       "housenumber": "16", 
@@ -259,6 +288,18 @@
       "housenumber": "20", 
       "lat": 50.612335527921, 
       "lon": 5.558832066376, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729642", 
+      "street": "Avenue du Petit-Bourgogne"
+    }, 
+    {
+      "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 50.612131452871, 
+      "lon": 5.558829649682, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7729642", 
@@ -403,6 +444,18 @@
       "housenumber": "48", 
       "lat": 50.612560974193, 
       "lon": 5.559315524802, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729642", 
+      "street": "Avenue du Petit-Bourgogne"
+    }, 
+    {
+      "hnrlbls": [
+        "49"
+      ], 
+      "housenumber": "49", 
+      "lat": 50.613004669497, 
+      "lon": 5.560103630976, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7729642", 

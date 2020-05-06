@@ -1,12 +1,36 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "BT10", 
+        "BTE1", 
+        "BTE2", 
+        "BTE3", 
+        "BTE4", 
+        "BTE5", 
+        "BTE6", 
+        "BTE7", 
+        "BTE8", 
+        "BTE9"
+      ], 
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.599517658929, 
+      "lon": 3.615736073344, 
+      "municipality": "Leuze-en-Hainaut", 
+      "pcode": "7900", 
+      "source": "7724235", 
+      "street": "Rue de Carencro"
+    }, 
+    {
       "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.599159412562, 
-      "lon": 3.615845546714, 
+      "lat": 50.599143607687, 
+      "lon": 3.615866111015, 
       "municipality": "Leuze-en-Hainaut", 
       "pcode": "7900", 
       "source": "7724235", 
@@ -49,6 +73,29 @@
       "street": "Rue de Carencro"
     }, 
     {
+      "busnrs": [
+        "BTE1", 
+        "BTE2", 
+        "BTE3", 
+        "BTE4", 
+        "BTE5", 
+        "BTE6", 
+        "BTE7", 
+        "BTE8", 
+        "BTE9"
+      ], 
+      "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 50.599213428611, 
+      "lon": 3.616069810986, 
+      "municipality": "Leuze-en-Hainaut", 
+      "pcode": "7900", 
+      "source": "7724235", 
+      "street": "Rue de Carencro"
+    }, 
+    {
       "hnrlbls": [
         "4"
       ], 
@@ -77,8 +124,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.599159412562, 
-      "lon": 3.615845546714, 
+      "lat": 50.599176656301, 
+      "lon": 3.615826715317, 
       "municipality": "Leuze-en-Hainaut", 
       "pcode": "7900", 
       "source": "7724235", 

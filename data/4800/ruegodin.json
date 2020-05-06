@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "3\u00e9t."
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +17,9 @@
       "street": "Rue Godin"
     }, 
     {
+      "busnrs": [
+        "Rez."
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -37,6 +44,9 @@
       "street": "Rue Godin"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t."
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -49,6 +59,10 @@
       "street": "Rue Godin"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "Rez."
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -61,6 +75,10 @@
       "street": "Rue Godin"
     }, 
     {
+      "busnrs": [
+        "2", 
+        "2\u00e9t."
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -97,6 +115,11 @@
       "street": "Rue Godin"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "2\u00e9t.", 
+        "rez."
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -109,6 +132,10 @@
       "street": "Rue Godin"
     }, 
     {
+      "busnrs": [
+        "2+3\u00e9", 
+        "rez."
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -121,6 +148,12 @@
       "street": "Rue Godin"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "2\u00e9t", 
+        "3\u00e9t.", 
+        "rez."
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -145,6 +178,11 @@
       "street": "Rue Godin"
     }, 
     {
+      "busnrs": [
+        "2\u00e9t.", 
+        "Rez.", 
+        "rez."
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -157,6 +195,10 @@
       "street": "Rue Godin"
     }, 
     {
+      "busnrs": [
+        "1+2\u00e9", 
+        "rez."
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -169,6 +211,9 @@
       "street": "Rue Godin"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t."
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -181,6 +226,11 @@
       "street": "Rue Godin"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "2\u00e9t.", 
+        "Rez."
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -205,6 +255,10 @@
       "street": "Rue Godin"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "rez."
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -235,6 +289,30 @@
       "housenumber": "27", 
       "lat": 50.583829561182, 
       "lon": 5.840900210873, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7739001", 
+      "street": "Rue Godin"
+    }, 
+    {
+      "hnrlbls": [
+        "28"
+      ], 
+      "housenumber": "28", 
+      "lat": 50.583514904974, 
+      "lon": 5.840329024826, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7739001", 
+      "street": "Rue Godin"
+    }, 
+    {
+      "hnrlbls": [
+        "29+"
+      ], 
+      "housenumber": "29+", 
+      "lat": 50.584150258691, 
+      "lon": 5.840683279784, 
       "municipality": "Verviers", 
       "pcode": "4800", 
       "source": "7739001", 
@@ -278,6 +356,42 @@
     }, 
     {
       "hnrlbls": [
+        "33A"
+      ], 
+      "housenumber": "33A", 
+      "lat": 50.583940760351, 
+      "lon": 5.841249950878, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7739001", 
+      "street": "Rue Godin"
+    }, 
+    {
+      "hnrlbls": [
+        "33B"
+      ], 
+      "housenumber": "33B", 
+      "lat": 50.584296527336, 
+      "lon": 5.841082442975, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7739001", 
+      "street": "Rue Godin"
+    }, 
+    {
+      "hnrlbls": [
+        "33C"
+      ], 
+      "housenumber": "33C", 
+      "lat": 50.584032464233, 
+      "lon": 5.841382496829, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7739001", 
+      "street": "Rue Godin"
+    }, 
+    {
+      "hnrlbls": [
         "35"
       ], 
       "housenumber": "35", 
@@ -301,6 +415,9 @@
       "street": "Rue Godin"
     }, 
     {
+      "busnrs": [
+        "rez."
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -337,6 +454,9 @@
       "street": "Rue Godin"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t."
+      ], 
       "hnrlbls": [
         "45"
       ], 
@@ -349,6 +469,10 @@
       "street": "Rue Godin"
     }, 
     {
+      "busnrs": [
+        "bte1", 
+        "rez."
+      ], 
       "hnrlbls": [
         "47"
       ], 
@@ -361,6 +485,11 @@
       "street": "Rue Godin"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "2\u00e9t.", 
+        "rez."
+      ], 
       "hnrlbls": [
         "49"
       ], 
@@ -373,6 +502,10 @@
       "street": "Rue Godin"
     }, 
     {
+      "busnrs": [
+        "2\u00e9t.", 
+        "r+1\u00e9"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -445,6 +578,10 @@
       "street": "Rue Godin"
     }, 
     {
+      "busnrs": [
+        "1+2\u00e9", 
+        "rez."
+      ], 
       "hnrlbls": [
         "56"
       ], 
@@ -457,6 +594,11 @@
       "street": "Rue Godin"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "2\u00e9t.", 
+        "rez."
+      ], 
       "hnrlbls": [
         "57"
       ], 
@@ -469,6 +611,12 @@
       "street": "Rue Godin"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "2\u00e9t.", 
+        "ap3D", 
+        "bt6D"
+      ], 
       "hnrlbls": [
         "58"
       ], 
@@ -481,12 +629,32 @@
       "street": "Rue Godin"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "rez."
+      ], 
       "hnrlbls": [
         "59"
       ], 
       "housenumber": "59", 
       "lat": 50.583464187226, 
       "lon": 5.842057988352, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7739001", 
+      "street": "Rue Godin"
+    }, 
+    {
+      "busnrs": [
+        "1\u00e9t.", 
+        "2\u00e9t."
+      ], 
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.583355295272, 
+      "lon": 5.839685217599, 
       "municipality": "Verviers", 
       "pcode": "4800", 
       "source": "7739001", 
@@ -577,6 +745,12 @@
       "street": "Rue Godin"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "2\u00e9t.", 
+        "3\u00e9t.", 
+        "rez."
+      ], 
       "hnrlbls": [
         "67"
       ], 
@@ -625,6 +799,10 @@
       "street": "Rue Godin"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "Rez."
+      ], 
       "hnrlbls": [
         "70"
       ], 
@@ -649,6 +827,11 @@
       "street": "Rue Godin"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "2\u00e9t.", 
+        "rez."
+      ], 
       "hnrlbls": [
         "72"
       ], 
@@ -661,6 +844,10 @@
       "street": "Rue Godin"
     }, 
     {
+      "busnrs": [
+        "2\u00e9t.", 
+        "bte1"
+      ], 
       "hnrlbls": [
         "73"
       ], 
@@ -698,6 +885,23 @@
     }, 
     {
       "hnrlbls": [
+        "78"
+      ], 
+      "housenumber": "78", 
+      "lat": 50.583247855937, 
+      "lon": 5.839179645621, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7739001", 
+      "street": "Rue Godin"
+    }, 
+    {
+      "busnrs": [
+        "1\u00e9t.", 
+        "2\u00e9t.", 
+        "rez."
+      ], 
+      "hnrlbls": [
         "79"
       ], 
       "housenumber": "79", 
@@ -709,6 +913,9 @@
       "street": "Rue Godin"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t."
+      ], 
       "hnrlbls": [
         "8"
       ], 
@@ -739,6 +946,18 @@
       "housenumber": "83", 
       "lat": 50.582822117871, 
       "lon": 5.843272982302, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7739001", 
+      "street": "Rue Godin"
+    }, 
+    {
+      "hnrlbls": [
+        "85"
+      ], 
+      "housenumber": "85", 
+      "lat": 50.582720114436, 
+      "lon": 5.843435728031, 
       "municipality": "Verviers", 
       "pcode": "4800", 
       "source": "7739001", 

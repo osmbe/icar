@@ -373,6 +373,12 @@
       "street": "Rue du Mistral"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt04"
+      ], 
       "hnrlbls": [
         "42"
       ], 
@@ -385,6 +391,12 @@
       "street": "Rue du Mistral"
     }, 
     {
+      "busnrs": [
+        "A004", 
+        "Bt01", 
+        "Bt02", 
+        "Bt03"
+      ], 
       "hnrlbls": [
         "44"
       ], 
@@ -533,8 +545,8 @@
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 50.586549124767, 
-      "lon": 4.336895034248, 
+      "lat": 50.586569938172, 
+      "lon": 4.336896888757, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703111", 

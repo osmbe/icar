@@ -1,12 +1,31 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "A011"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
       "lat": 50.642432300497, 
       "lon": 5.568241411102, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730808", 
+      "street": "Rue du Diamant"
+    }, 
+    {
+      "hnrlbls": [
+        "1A"
+      ], 
+      "housenumber": "1A", 
+      "lat": 50.642427598148, 
+      "lon": 5.568230912987, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730808", 
@@ -25,6 +44,13 @@
       "street": "Rue du Diamant"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -37,6 +63,26 @@
       "street": "Rue du Diamant"
     }, 
     {
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.642440462683, 
+      "lon": 5.568457617425, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730808", 
+      "street": "Rue du Diamant"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "5"
       ], 

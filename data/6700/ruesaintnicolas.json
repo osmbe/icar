@@ -205,6 +205,12 @@
       "street": "Rue Saint-Nicolas"
     }, 
     {
+      "busnrs": [
+        "A  5", 
+        "A/ 4", 
+        "A1", 
+        "A2"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -235,6 +241,18 @@
       "housenumber": "8", 
       "lat": 49.651075677866, 
       "lon": 5.842691438555, 
+      "municipality": "Arlon", 
+      "pcode": "6700", 
+      "source": "7741751", 
+      "street": "Rue Saint-Nicolas"
+    }, 
+    {
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 49.648925764451, 
+      "lon": 5.84594839386, 
       "municipality": "Arlon", 
       "pcode": "6700", 
       "source": "7741751", 

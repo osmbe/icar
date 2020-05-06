@@ -1,6 +1,35 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1", 
+        "10", 
+        "11", 
+        "12", 
+        "13", 
+        "14", 
+        "15", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.001995048034, 
+      "lon": 5.709241103847, 
+      "municipality": "Bastogne", 
+      "pcode": "6600", 
+      "source": "7742344", 
+      "street": "Chemin de Renval"
+    }, 
+    {
       "hnrlbls": [
         "10"
       ], 
@@ -277,6 +306,12 @@
       "street": "Chemin de Renval"
     }, 
     {
+      "busnrs": [
+        "A  1", 
+        "A  2", 
+        "B  1", 
+        "B  2"
+      ], 
       "hnrlbls": [
         "36"
       ], 

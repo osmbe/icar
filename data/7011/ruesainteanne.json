@@ -5,8 +5,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.475371658504, 
-      "lon": 3.905778719979, 
+      "lat": 50.475523436823, 
+      "lon": 3.905740750264, 
       "municipality": "Mons", 
       "pcode": "7011", 
       "source": "7714165", 
@@ -97,6 +97,11 @@
       "street": "Rue Sainte-Anne"
     }, 
     {
+      "busnrs": [
+        "1-1", 
+        "2-1", 
+        "2-2"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -121,6 +126,10 @@
       "street": "Rue Sainte-Anne"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1"
+      ], 
       "hnrlbls": [
         "27"
       ], 

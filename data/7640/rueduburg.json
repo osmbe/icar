@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "01", 
+        "12"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -17,8 +21,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.566399569636, 
-      "lon": 3.44815186695, 
+      "lat": 50.565843601546, 
+      "lon": 3.448304804255, 
       "municipality": "Antoing", 
       "pcode": "7640", 
       "source": "7722073", 
@@ -61,6 +65,9 @@
       "street": "Rue du Burg"
     }, 
     {
+      "busnrs": [
+        "01"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -91,18 +98,6 @@
       "housenumber": "16", 
       "lat": 50.566264301158, 
       "lon": 3.44808633534, 
-      "municipality": "Antoing", 
-      "pcode": "7640", 
-      "source": "7722073", 
-      "street": "Rue du Burg"
-    }, 
-    {
-      "hnrlbls": [
-        "2"
-      ], 
-      "housenumber": "2", 
-      "lat": 50.566809831219, 
-      "lon": 3.448035084088, 
       "municipality": "Antoing", 
       "pcode": "7640", 
       "source": "7722073", 
@@ -181,6 +176,10 @@
       "street": "Rue du Burg"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "02"
+      ], 
       "hnrlbls": [
         "7"
       ], 

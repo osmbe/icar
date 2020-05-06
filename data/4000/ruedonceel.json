@@ -1,6 +1,14 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -13,6 +21,14 @@
       "street": "Rue Donceel"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -25,12 +41,53 @@
       "street": "Rue Donceel"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0041", 
+        "0042"
+      ], 
       "hnrlbls": [
         "14"
       ], 
       "housenumber": "14", 
       "lat": 50.642629469978, 
       "lon": 5.574318145315, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730752", 
+      "street": "Rue Donceel"
+    }, 
+    {
+      "hnrlbls": [
+        "16"
+      ], 
+      "housenumber": "16", 
+      "lat": 50.642601894808, 
+      "lon": 5.574378128851, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730752", 
+      "street": "Rue Donceel"
+    }, 
+    {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
+      "hnrlbls": [
+        "18"
+      ], 
+      "housenumber": "18", 
+      "lat": 50.642579598739, 
+      "lon": 5.574440594424, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730752", 
@@ -49,6 +106,9 @@
       "street": "Rue Donceel"
     }, 
     {
+      "busnrs": [
+        "A041"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -61,12 +121,30 @@
       "street": "Rue Donceel"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "4A"
       ], 
       "housenumber": "4A", 
       "lat": 50.642772144406, 
       "lon": 5.573933128191, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730752", 
+      "street": "Rue Donceel"
+    }, 
+    {
+      "hnrlbls": [
+        "4B"
+      ], 
+      "housenumber": "4B", 
+      "lat": 50.642753381944, 
+      "lon": 5.573986903601, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730752", 
@@ -85,6 +163,13 @@
       "street": "Rue Donceel"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "8"
       ], 

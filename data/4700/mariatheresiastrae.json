@@ -25,6 +25,12 @@
       "street": "Maria-Theresia-Stra\u00dfe"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -158,6 +164,18 @@
     }, 
     {
       "hnrlbls": [
+        "23"
+      ], 
+      "housenumber": "23", 
+      "lat": 50.625831926435, 
+      "lon": 6.037430791813, 
+      "municipality": "Eupen", 
+      "pcode": "4700", 
+      "source": "7735849", 
+      "street": "Maria-Theresia-Stra\u00dfe"
+    }, 
+    {
+      "hnrlbls": [
         "24"
       ], 
       "housenumber": "24", 
@@ -217,12 +235,18 @@
       "street": "Maria-Theresia-Stra\u00dfe"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 50.62605167855, 
-      "lon": 6.037637047455, 
+      "lat": 50.626008179283, 
+      "lon": 6.037684133654, 
       "municipality": "Eupen", 
       "pcode": "4700", 
       "source": "7735849", 

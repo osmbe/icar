@@ -221,8 +221,8 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.282085479849, 
-      "lon": 6.220767804081, 
+      "lat": 50.282087641401, 
+      "lon": 6.220692133342, 
       "municipality": "Sankt Vith", 
       "pcode": "4783", 
       "source": "7737598", 
@@ -325,6 +325,9 @@
       "street": "Atzerath"
     }, 
     {
+      "busnrs": [
+        "0/1"
+      ], 
       "hnrlbls": [
         "33"
       ], 
@@ -493,12 +496,29 @@
       "street": "Atzerath"
     }, 
     {
+      "busnrs": [
+        "-1/1", 
+        "0/1", 
+        "1/1"
+      ], 
       "hnrlbls": [
         "42"
       ], 
       "housenumber": "42", 
       "lat": 50.283199309267, 
       "lon": 6.229290798361, 
+      "municipality": "Sankt Vith", 
+      "pcode": "4783", 
+      "source": "7737598", 
+      "street": "Atzerath"
+    }, 
+    {
+      "hnrlbls": [
+        "43"
+      ], 
+      "housenumber": "43", 
+      "lat": 50.283651272577, 
+      "lon": 6.229341453009, 
       "municipality": "Sankt Vith", 
       "pcode": "4783", 
       "source": "7737598", 

@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "2+3\u00e9", 
+        "2\u00e9t.", 
+        "rez."
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -13,6 +18,10 @@
       "street": "Rue de la Banque"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2-3\u00e9"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -49,6 +58,9 @@
       "street": "Rue de la Banque"
     }, 
     {
+      "busnrs": [
+        "3\u00e9t."
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -85,6 +97,9 @@
       "street": "Rue de la Banque"
     }, 
     {
+      "busnrs": [
+        "2\u00e9t."
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -110,6 +125,27 @@
     }, 
     {
       "hnrlbls": [
+        "32"
+      ], 
+      "housenumber": "32", 
+      "lat": 50.590868134014, 
+      "lon": 5.862466147196, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738785", 
+      "street": "Rue de la Banque"
+    }, 
+    {
+      "busnrs": [
+        "2", 
+        "2\u00e9t.", 
+        "4\u00e9t.", 
+        "6", 
+        "bt10", 
+        "bt11", 
+        "bte4"
+      ], 
+      "hnrlbls": [
         "34"
       ], 
       "housenumber": "34", 
@@ -121,6 +157,9 @@
       "street": "Rue de la Banque"
     }, 
     {
+      "busnrs": [
+        "rez."
+      ], 
       "hnrlbls": [
         "36"
       ], 
@@ -133,6 +172,18 @@
       "street": "Rue de la Banque"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "4\u00e9t.", 
+        "4\u00e9tD", 
+        "8", 
+        "Ssol", 
+        "bt12", 
+        "bt13", 
+        "rez.", 
+        "rezD", 
+        "ssol"
+      ], 
       "hnrlbls": [
         "38"
       ], 
@@ -145,6 +196,10 @@
       "street": "Rue de la Banque"
     }, 
     {
+      "busnrs": [
+        "2\u00e9t.", 
+        "rez."
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -157,6 +212,16 @@
       "street": "Rue de la Banque"
     }, 
     {
+      "busnrs": [
+        "10", 
+        "3", 
+        "4\u00e9t.", 
+        "B1", 
+        "B9", 
+        "bte2", 
+        "bte4", 
+        "rezG"
+      ], 
       "hnrlbls": [
         "40"
       ], 
@@ -175,6 +240,18 @@
       "housenumber": "6", 
       "lat": 50.591191284179, 
       "lon": 5.865032349471, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738785", 
+      "street": "Rue de la Banque"
+    }, 
+    {
+      "hnrlbls": [
+        "60"
+      ], 
+      "housenumber": "60", 
+      "lat": 50.590980714441, 
+      "lon": 5.863252505534, 
       "municipality": "Verviers", 
       "pcode": "4800", 
       "source": "7738785", 

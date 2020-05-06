@@ -13,12 +13,29 @@
       "street": "Rue du Presbyt\u00e8re"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B", 
+        "C"
+      ], 
       "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
       "lat": 50.032243808309, 
       "lon": 4.922649498169, 
+      "municipality": "Gedinne", 
+      "pcode": "5575", 
+      "source": "7749596", 
+      "street": "Rue du Presbyt\u00e8re"
+    }, 
+    {
+      "hnrlbls": [
+        "11"
+      ], 
+      "housenumber": "11", 
+      "lat": 50.031961731586, 
+      "lon": 4.923614088861, 
       "municipality": "Gedinne", 
       "pcode": "5575", 
       "source": "7749596", 
@@ -73,6 +90,9 @@
       "street": "Rue du Presbyt\u00e8re"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "18"
       ], 

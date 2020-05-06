@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "Ap1", 
+        "Ap2", 
+        "Ap3"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -25,6 +30,9 @@
       "street": "Rue du Fays"
     }, 
     {
+      "busnrs": [
+        "ap.1"
+      ], 
       "hnrlbls": [
         "4"
       ], 

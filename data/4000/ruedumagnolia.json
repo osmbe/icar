@@ -85,6 +85,10 @@
       "street": "Rue du Magnolia"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -151,6 +155,18 @@
       "housenumber": "28", 
       "lat": 50.621492085041, 
       "lon": 5.559560960961, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730833", 
+      "street": "Rue du Magnolia"
+    }, 
+    {
+      "hnrlbls": [
+        "2A"
+      ], 
+      "housenumber": "2A", 
+      "lat": 50.621704699251, 
+      "lon": 5.557964926703, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730833", 

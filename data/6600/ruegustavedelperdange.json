@@ -2,6 +2,30 @@
   "addresses": [
     {
       "hnrlbls": [
+        "112"
+      ], 
+      "housenumber": "112", 
+      "lat": 50.00795187824, 
+      "lon": 5.735790497073, 
+      "municipality": "Bastogne", 
+      "pcode": "6600", 
+      "source": "7742469", 
+      "street": "Rue Gustave-Delperdange"
+    }, 
+    {
+      "hnrlbls": [
+        "118"
+      ], 
+      "housenumber": "118", 
+      "lat": 50.007563540149, 
+      "lon": 5.740075335945, 
+      "municipality": "Bastogne", 
+      "pcode": "6600", 
+      "source": "7742469", 
+      "street": "Rue Gustave-Delperdange"
+    }, 
+    {
+      "hnrlbls": [
         "12"
       ], 
       "housenumber": "12", 
@@ -61,6 +85,10 @@
       "street": "Rue Gustave-Delperdange"
     }, 
     {
+      "busnrs": [
+        "R  1", 
+        "R  2"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -157,6 +185,24 @@
       "street": "Rue Gustave-Delperdange"
     }, 
     {
+      "busnrs": [
+        "A  1", 
+        "A  2", 
+        "A  3", 
+        "A  4", 
+        "A  5", 
+        "B  1", 
+        "B  2", 
+        "B  4", 
+        "B  5", 
+        "C  1", 
+        "C  3", 
+        "C  4", 
+        "R  1", 
+        "R  2", 
+        "R  3", 
+        "R  4"
+      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -169,6 +215,10 @@
       "street": "Rue Gustave-Delperdange"
     }, 
     {
+      "busnrs": [
+        "A  1", 
+        "A  2"
+      ], 
       "hnrlbls": [
         "36"
       ], 

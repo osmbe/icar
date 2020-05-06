@@ -49,6 +49,10 @@
       "street": "Wesselbend"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "108"
       ], 
@@ -505,6 +509,11 @@
       "street": "Wesselbend"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0004"
+      ], 
       "hnrlbls": [
         "42"
       ], 
@@ -517,6 +526,11 @@
       "street": "Wesselbend"
     }, 
     {
+      "busnrs": [
+        "0003", 
+        "0004", 
+        "0005"
+      ], 
       "hnrlbls": [
         "44"
       ], 
@@ -533,8 +547,8 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 50.712496882751, 
-      "lon": 6.094525328137, 
+      "lat": 50.710574417658, 
+      "lon": 6.0952287081, 
       "municipality": "Raeren", 
       "pcode": "4731", 
       "source": "7737560", 
@@ -649,6 +663,10 @@
       "street": "Wesselbend"
     }, 
     {
+      "busnrs": [
+        "A002", 
+        "A003"
+      ], 
       "hnrlbls": [
         "71"
       ], 

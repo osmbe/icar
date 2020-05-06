@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -19,6 +24,18 @@
       "housenumber": "10", 
       "lat": 50.249337445819, 
       "lon": 4.259897727759, 
+      "municipality": "Beaumont", 
+      "pcode": "6500", 
+      "source": "7719235", 
+      "street": "Chemin de la Buissi\u00e8re"
+    }, 
+    {
+      "hnrlbls": [
+        "12"
+      ], 
+      "housenumber": "12", 
+      "lat": 50.249246542218, 
+      "lon": 4.260462758459, 
       "municipality": "Beaumont", 
       "pcode": "6500", 
       "source": "7719235", 
@@ -49,6 +66,10 @@
       "street": "Chemin de la Buissi\u00e8re"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -101,8 +122,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.249426241929, 
-      "lon": 4.260163999147, 
+      "lat": 50.249698836522, 
+      "lon": 4.260011755071, 
       "municipality": "Beaumont", 
       "pcode": "6500", 
       "source": "7719235", 

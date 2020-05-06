@@ -13,6 +13,9 @@
       "street": "Avenue Franklin Roosevelt"
     }, 
     {
+      "busnrs": [
+        "A  1"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -37,6 +40,10 @@
       "street": "Avenue Franklin Roosevelt"
     }, 
     {
+      "busnrs": [
+        "A  1", 
+        "A  2"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -61,6 +68,10 @@
       "street": "Avenue Franklin Roosevelt"
     }, 
     {
+      "busnrs": [
+        "A  1", 
+        "A  2"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -98,6 +109,18 @@
     }, 
     {
       "hnrlbls": [
+        "17"
+      ], 
+      "housenumber": "17", 
+      "lat": 50.737162312656, 
+      "lon": 5.686594445664, 
+      "municipality": "Vis\u00e9", 
+      "pcode": "4600", 
+      "source": "7733233", 
+      "street": "Avenue Franklin Roosevelt"
+    }, 
+    {
+      "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
@@ -113,8 +136,8 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 50.737197944655, 
-      "lon": 5.68648355226, 
+      "lat": 50.73720162195, 
+      "lon": 5.686410553851, 
       "municipality": "Vis\u00e9", 
       "pcode": "4600", 
       "source": "7733233", 
@@ -193,10 +216,27 @@
       "street": "Avenue Franklin Roosevelt"
     }, 
     {
+      "busnrs": [
+        "A  1", 
+        "B  1", 
+        "B  2"
+      ], 
       "hnrlbls": [
         "23"
       ], 
       "housenumber": "23", 
+      "lat": 50.737349034971, 
+      "lon": 5.685934283482, 
+      "municipality": "Vis\u00e9", 
+      "pcode": "4600", 
+      "source": "7733233", 
+      "street": "Avenue Franklin Roosevelt"
+    }, 
+    {
+      "hnrlbls": [
+        "23A"
+      ], 
+      "housenumber": "23A", 
       "lat": 50.737318679625, 
       "lon": 5.686025374444, 
       "municipality": "Vis\u00e9", 
@@ -205,6 +245,10 @@
       "street": "Avenue Franklin Roosevelt"
     }, 
     {
+      "busnrs": [
+        "A  1", 
+        "A  2"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -229,6 +273,9 @@
       "street": "Avenue Franklin Roosevelt"
     }, 
     {
+      "busnrs": [
+        "A  1"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -241,6 +288,9 @@
       "street": "Avenue Franklin Roosevelt"
     }, 
     {
+      "busnrs": [
+        "A  2"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -265,6 +315,9 @@
       "street": "Avenue Franklin Roosevelt"
     }, 
     {
+      "busnrs": [
+        "A  1"
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -326,30 +379,6 @@
     }, 
     {
       "hnrlbls": [
-        "34"
-      ], 
-      "housenumber": "34", 
-      "lat": 50.737587168564, 
-      "lon": 5.686066592457, 
-      "municipality": "Vis\u00e9", 
-      "pcode": "4600", 
-      "source": "7733233", 
-      "street": "Avenue Franklin Roosevelt"
-    }, 
-    {
-      "hnrlbls": [
-        "34A"
-      ], 
-      "housenumber": "34A", 
-      "lat": 50.737616627073, 
-      "lon": 5.685973704828, 
-      "municipality": "Vis\u00e9", 
-      "pcode": "4600", 
-      "source": "7733233", 
-      "street": "Avenue Franklin Roosevelt"
-    }, 
-    {
-      "hnrlbls": [
         "35"
       ], 
       "housenumber": "35", 
@@ -361,12 +390,27 @@
       "street": "Avenue Franklin Roosevelt"
     }, 
     {
+      "busnrs": [
+        "A  1"
+      ], 
       "hnrlbls": [
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 50.737627227102, 
-      "lon": 5.685704739473, 
+      "lat": 50.737616627073, 
+      "lon": 5.685973704828, 
+      "municipality": "Vis\u00e9", 
+      "pcode": "4600", 
+      "source": "7733233", 
+      "street": "Avenue Franklin Roosevelt"
+    }, 
+    {
+      "hnrlbls": [
+        "36A"
+      ], 
+      "housenumber": "36A", 
+      "lat": 50.737587168564, 
+      "lon": 5.686066592457, 
       "municipality": "Vis\u00e9", 
       "pcode": "4600", 
       "source": "7733233", 
@@ -385,12 +429,15 @@
       "street": "Avenue Franklin Roosevelt"
     }, 
     {
+      "busnrs": [
+        "A001"
+      ], 
       "hnrlbls": [
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 50.737710671639, 
-      "lon": 5.685487004651, 
+      "lat": 50.737628870639, 
+      "lon": 5.685839019652, 
       "municipality": "Vis\u00e9", 
       "pcode": "4600", 
       "source": "7733233", 
@@ -421,12 +468,16 @@
       "street": "Avenue Franklin Roosevelt"
     }, 
     {
+      "busnrs": [
+        "A  2", 
+        "A 1"
+      ], 
       "hnrlbls": [
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 50.737848071492, 
-      "lon": 5.685135125864, 
+      "lat": 50.737627227102, 
+      "lon": 5.685704739473, 
       "municipality": "Vis\u00e9", 
       "pcode": "4600", 
       "source": "7733233", 
@@ -449,44 +500,55 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 50.737879057075, 
-      "lon": 5.684904106028, 
+      "lat": 50.737710671639, 
+      "lon": 5.685487004651, 
       "municipality": "Vis\u00e9", 
       "pcode": "4600", 
       "source": "7733233", 
       "street": "Avenue Franklin Roosevelt"
     }, 
     {
+      "busnrs": [
+        "A  2"
+      ], 
       "hnrlbls": [
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 50.737524635714, 
-      "lon": 5.684768920593, 
+      "lat": 50.737522629631, 
+      "lon": 5.684693514181, 
       "municipality": "Vis\u00e9", 
       "pcode": "4600", 
       "source": "7733233", 
       "street": "Avenue Franklin Roosevelt"
     }, 
     {
+      "busnrs": [
+        "A  1", 
+        "A  3", 
+        "A002"
+      ], 
       "hnrlbls": [
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 50.737793888493, 
-      "lon": 5.684752684549, 
+      "lat": 50.737848071492, 
+      "lon": 5.685135125864, 
       "municipality": "Vis\u00e9", 
       "pcode": "4600", 
       "source": "7733233", 
       "street": "Avenue Franklin Roosevelt"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 50.737527946802, 
-      "lon": 5.684692814071, 
+      "lat": 50.73753414264, 
+      "lon": 5.684586147002, 
       "municipality": "Vis\u00e9", 
       "pcode": "4600", 
       "source": "7733233", 
@@ -497,8 +559,8 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 50.73797640575, 
-      "lon": 5.684578833515, 
+      "lat": 50.737879057075, 
+      "lon": 5.684904106028, 
       "municipality": "Vis\u00e9", 
       "pcode": "4600", 
       "source": "7733233", 
@@ -509,8 +571,8 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 50.737537003682, 
-      "lon": 5.684576714109, 
+      "lat": 50.737547379366, 
+      "lon": 5.6844791609, 
       "municipality": "Vis\u00e9", 
       "pcode": "4600", 
       "source": "7733233", 
@@ -518,17 +580,37 @@
     }, 
     {
       "hnrlbls": [
-        "49"
+        "48"
       ], 
-      "housenumber": "49", 
-      "lat": 50.737561387599, 
-      "lon": 5.684436091328, 
+      "housenumber": "48", 
+      "lat": 50.737793888493, 
+      "lon": 5.684752684549, 
       "municipality": "Vis\u00e9", 
       "pcode": "4600", 
       "source": "7733233", 
       "street": "Avenue Franklin Roosevelt"
     }, 
     {
+      "busnrs": [
+        "A  1", 
+        "B"
+      ], 
+      "hnrlbls": [
+        "49"
+      ], 
+      "housenumber": "49", 
+      "lat": 50.73755605949, 
+      "lon": 5.684402202609, 
+      "municipality": "Vis\u00e9", 
+      "pcode": "4600", 
+      "source": "7733233", 
+      "street": "Avenue Franklin Roosevelt"
+    }, 
+    {
+      "busnrs": [
+        "A  1", 
+        "A 2"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -541,12 +623,49 @@
       "street": "Avenue Franklin Roosevelt"
     }, 
     {
+      "busnrs": [
+        "A001", 
+        "A002"
+      ], 
+      "hnrlbls": [
+        "50"
+      ], 
+      "housenumber": "50", 
+      "lat": 50.737898580035, 
+      "lon": 5.684789670695, 
+      "municipality": "Vis\u00e9", 
+      "pcode": "4600", 
+      "source": "7733233", 
+      "street": "Avenue Franklin Roosevelt"
+    }, 
+    {
+      "busnrs": [
+        "A  1", 
+        "A  2", 
+        "A001", 
+        "B001"
+      ], 
       "hnrlbls": [
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 50.737571303537, 
-      "lon": 5.684157288041, 
+      "lat": 50.737583584499, 
+      "lon": 5.684232906443, 
+      "municipality": "Vis\u00e9", 
+      "pcode": "4600", 
+      "source": "7733233", 
+      "street": "Avenue Franklin Roosevelt"
+    }, 
+    {
+      "busnrs": [
+        "A001"
+      ], 
+      "hnrlbls": [
+        "53"
+      ], 
+      "housenumber": "53", 
+      "lat": 50.737606907716, 
+      "lon": 5.684069202698, 
       "municipality": "Vis\u00e9", 
       "pcode": "4600", 
       "source": "7733233", 
@@ -554,17 +673,48 @@
     }, 
     {
       "hnrlbls": [
-        "53"
+        "54"
       ], 
-      "housenumber": "53", 
-      "lat": 50.737594002722, 
-      "lon": 5.683930585684, 
+      "housenumber": "54", 
+      "lat": 50.73797640575, 
+      "lon": 5.684578833515, 
       "municipality": "Vis\u00e9", 
       "pcode": "4600", 
       "source": "7733233", 
       "street": "Avenue Franklin Roosevelt"
     }, 
     {
+      "busnrs": [
+        "A  1", 
+        "A  3", 
+        "A  4", 
+        "A002", 
+        "B  1", 
+        "B  2", 
+        "B  3", 
+        "B 4"
+      ], 
+      "hnrlbls": [
+        "55"
+      ], 
+      "housenumber": "55", 
+      "lat": 50.737610060491, 
+      "lon": 5.683929428859, 
+      "municipality": "Vis\u00e9", 
+      "pcode": "4600", 
+      "source": "7733233", 
+      "street": "Avenue Franklin Roosevelt"
+    }, 
+    {
+      "busnrs": [
+        "A  1", 
+        "A  2", 
+        "A  3", 
+        "B  1", 
+        "B  2", 
+        "B  3", 
+        "C  1"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -577,6 +727,9 @@
       "street": "Avenue Franklin Roosevelt"
     }, 
     {
+      "busnrs": [
+        "A  1"
+      ], 
       "hnrlbls": [
         "7"
       ], 

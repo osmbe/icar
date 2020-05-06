@@ -29,8 +29,8 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 50.610005906175, 
-      "lon": 4.653199620548, 
+      "lat": 50.6112951092, 
+      "lon": 4.652789930729, 
       "municipality": "Walhain", 
       "pcode": "1457", 
       "source": "7707145", 
@@ -41,8 +41,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 50.610993461717, 
-      "lon": 4.652656278945, 
+      "lat": 50.610236398119, 
+      "lon": 4.653228162044, 
       "municipality": "Walhain", 
       "pcode": "1457", 
       "source": "7707145", 
@@ -55,6 +55,18 @@
       "housenumber": "14", 
       "lat": 50.610111014358, 
       "lon": 4.652626723614, 
+      "municipality": "Walhain", 
+      "pcode": "1457", 
+      "source": "7707145", 
+      "street": "Rue des Cours"
+    }, 
+    {
+      "hnrlbls": [
+        "16"
+      ], 
+      "housenumber": "16", 
+      "lat": 50.610213053141, 
+      "lon": 4.652531451789, 
       "municipality": "Walhain", 
       "pcode": "1457", 
       "source": "7707145", 
@@ -121,6 +133,11 @@
       "street": "Rue des Cours"
     }, 
     {
+      "busnrs": [
+        "B101", 
+        "B102", 
+        "Bte1"
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -137,8 +154,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.609718322763, 
-      "lon": 4.653609283166, 
+      "lat": 50.609568977614, 
+      "lon": 4.653485787616, 
       "municipality": "Walhain", 
       "pcode": "1457", 
       "source": "7707145", 
@@ -157,6 +174,14 @@
       "street": "Rue des Cours"
     }, 
     {
+      "busnrs": [
+        "B101", 
+        "B102", 
+        "B103", 
+        "B104", 
+        "Bte1", 
+        "Bte2"
+      ], 
       "hnrlbls": [
         "41"
       ], 
@@ -181,6 +206,9 @@
       "street": "Rue des Cours"
     }, 
     {
+      "busnrs": [
+        "B101"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -193,6 +221,9 @@
       "street": "Rue des Cours"
     }, 
     {
+      "busnrs": [
+        "B101"
+      ], 
       "hnrlbls": [
         "9"
       ], 

@@ -277,6 +277,9 @@
       "street": "Petite Rue des Pr\u00e9s"
     }, 
     {
+      "busnrs": [
+        "1-1"
+      ], 
       "hnrlbls": [
         "35A"
       ], 
@@ -289,12 +292,16 @@
       "street": "Petite Rue des Pr\u00e9s"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1"
+      ], 
       "hnrlbls": [
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 50.459394216047, 
-      "lon": 3.941606910976, 
+      "lat": 50.459386697038, 
+      "lon": 3.941599712929, 
       "municipality": "Mons", 
       "pcode": "7000", 
       "source": "7713341", 

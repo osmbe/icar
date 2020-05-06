@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0106"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -85,6 +88,32 @@
       "street": "Rue du Champ M\u00eal\u00e9"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0106", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0205", 
+        "0206", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304", 
+        "0305", 
+        "0306"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -115,6 +144,18 @@
       "housenumber": "23", 
       "lat": 50.468855046903, 
       "lon": 4.206287676061, 
+      "municipality": "La Louvi\u00e8re", 
+      "pcode": "7100", 
+      "source": "7717514", 
+      "street": "Rue du Champ M\u00eal\u00e9"
+    }, 
+    {
+      "hnrlbls": [
+        "25"
+      ], 
+      "housenumber": "25", 
+      "lat": 50.468920828021, 
+      "lon": 4.206298761283, 
       "municipality": "La Louvi\u00e8re", 
       "pcode": "7100", 
       "source": "7717514", 
@@ -218,11 +259,59 @@
     }, 
     {
       "hnrlbls": [
+        "41"
+      ], 
+      "housenumber": "41", 
+      "lat": 50.469619837362, 
+      "lon": 4.206477780919, 
+      "municipality": "La Louvi\u00e8re", 
+      "pcode": "7100", 
+      "source": "7717514", 
+      "street": "Rue du Champ M\u00eal\u00e9"
+    }, 
+    {
+      "hnrlbls": [
         "43"
       ], 
       "housenumber": "43", 
       "lat": 50.469685586708, 
       "lon": 4.206488665256, 
+      "municipality": "La Louvi\u00e8re", 
+      "pcode": "7100", 
+      "source": "7717514", 
+      "street": "Rue du Champ M\u00eal\u00e9"
+    }, 
+    {
+      "hnrlbls": [
+        "45"
+      ], 
+      "housenumber": "45", 
+      "lat": 50.469806127774, 
+      "lon": 4.206562689791, 
+      "municipality": "La Louvi\u00e8re", 
+      "pcode": "7100", 
+      "source": "7717514", 
+      "street": "Rue du Champ M\u00eal\u00e9"
+    }, 
+    {
+      "hnrlbls": [
+        "47"
+      ], 
+      "housenumber": "47", 
+      "lat": 50.469870671236, 
+      "lon": 4.206574022122, 
+      "municipality": "La Louvi\u00e8re", 
+      "pcode": "7100", 
+      "source": "7717514", 
+      "street": "Rue du Champ M\u00eal\u00e9"
+    }, 
+    {
+      "hnrlbls": [
+        "49"
+      ], 
+      "housenumber": "49", 
+      "lat": 50.469938124004, 
+      "lon": 4.206585392464, 
       "municipality": "La Louvi\u00e8re", 
       "pcode": "7100", 
       "source": "7717514", 

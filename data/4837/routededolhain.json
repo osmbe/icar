@@ -397,6 +397,10 @@
       "street": "Route de Dolhain"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "36"
       ], 
@@ -457,6 +461,10 @@
       "street": "Route de Dolhain"
     }, 
     {
+      "busnrs": [
+        "A/1", 
+        "A/2"
+      ], 
       "hnrlbls": [
         "41"
       ], 
@@ -499,18 +507,6 @@
       "housenumber": "53", 
       "lat": 50.626359833726, 
       "lon": 5.966103340954, 
-      "municipality": "Baelen", 
-      "pcode": "4837", 
-      "source": "7735228", 
-      "street": "Route de Dolhain"
-    }, 
-    {
-      "hnrlbls": [
-        "53A"
-      ], 
-      "housenumber": "53A", 
-      "lat": 50.626292614496, 
-      "lon": 5.966145624034, 
       "municipality": "Baelen", 
       "pcode": "4837", 
       "source": "7735228", 

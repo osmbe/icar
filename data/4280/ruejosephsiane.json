@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "000A", 
+        "000B", 
+        "000C", 
+        "000D"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +19,10 @@
       "street": "Rue Joseph Siane"
     }, 
     {
+      "busnrs": [
+        "Abt1", 
+        "Abt2"
+      ], 
       "hnrlbls": [
         "3"
       ], 

@@ -97,6 +97,9 @@
       "street": "Rue du Ch\u00e2teau Cugnon"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "16B"
       ], 
@@ -305,8 +308,8 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 49.581309086038, 
-      "lon": 5.582255446949, 
+      "lat": 49.581360437653, 
+      "lon": 5.582253751452, 
       "municipality": "Virton", 
       "pcode": "6760", 
       "source": "7747900", 
@@ -385,6 +388,11 @@
       "street": "Rue du Ch\u00e2teau Cugnon"
     }, 
     {
+      "busnrs": [
+        "0/0", 
+        "1/1", 
+        "2/1"
+      ], 
       "hnrlbls": [
         "3A"
       ], 

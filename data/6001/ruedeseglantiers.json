@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "011", 
+        "012", 
+        "021", 
+        "031"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -25,6 +31,9 @@
       "street": "Rue des Eglantiers"
     }, 
     {
+      "busnrs": [
+        "A021"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -49,6 +58,13 @@
       "street": "Rue des Eglantiers"
     }, 
     {
+      "busnrs": [
+        "0021", 
+        "0031", 
+        "00O1", 
+        "012", 
+        "032"
+      ], 
       "hnrlbls": [
         "3"
       ], 

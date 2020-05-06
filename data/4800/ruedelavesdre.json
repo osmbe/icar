@@ -13,6 +13,9 @@
       "street": "Rue de la Vesdre"
     }, 
     {
+      "busnrs": [
+        "rez."
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -25,6 +28,10 @@
       "street": "Rue de la Vesdre"
     }, 
     {
+      "busnrs": [
+        "1\u00e9tD", 
+        "2\u00e9tD"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -74,6 +81,18 @@
     }, 
     {
       "hnrlbls": [
+        "17"
+      ], 
+      "housenumber": "17", 
+      "lat": 50.590021487244, 
+      "lon": 5.847686376636, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738818", 
+      "street": "Rue de la Vesdre"
+    }, 
+    {
+      "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
@@ -85,6 +104,21 @@
       "street": "Rue de la Vesdre"
     }, 
     {
+      "hnrlbls": [
+        "19"
+      ], 
+      "housenumber": "19", 
+      "lat": 50.590003378571, 
+      "lon": 5.847612877978, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738818", 
+      "street": "Rue de la Vesdre"
+    }, 
+    {
+      "busnrs": [
+        "1\u00e9t."
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -145,6 +179,9 @@
       "street": "Rue de la Vesdre"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t."
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -169,6 +206,9 @@
       "street": "Rue de la Vesdre"
     }, 
     {
+      "busnrs": [
+        "2+3\u00e9"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -197,14 +237,31 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 50.589858211488, 
-      "lon": 5.84598847133, 
+      "lat": 50.590046203574, 
+      "lon": 5.846001271321, 
       "municipality": "Verviers", 
       "pcode": "4800", 
       "source": "7738818", 
       "street": "Rue de la Vesdre"
     }, 
     {
+      "hnrlbls": [
+        "31"
+      ], 
+      "housenumber": "31", 
+      "lat": 50.589960939018, 
+      "lon": 5.84733180923, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738818", 
+      "street": "Rue de la Vesdre"
+    }, 
+    {
+      "busnrs": [
+        "2\u00e9t.", 
+        "A1\u00e9D", 
+        "rez."
+      ], 
       "hnrlbls": [
         "32"
       ], 
@@ -218,6 +275,28 @@
     }, 
     {
       "hnrlbls": [
+        "32A"
+      ], 
+      "housenumber": "32A", 
+      "lat": 50.589997882735, 
+      "lon": 5.845891395975, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738818", 
+      "street": "Rue de la Vesdre"
+    }, 
+    {
+      "busnrs": [
+        "101", 
+        "102", 
+        "103", 
+        "204", 
+        "205", 
+        "206", 
+        "307", 
+        "308"
+      ], 
+      "hnrlbls": [
         "34"
       ], 
       "housenumber": "34", 
@@ -229,6 +308,9 @@
       "street": "Rue de la Vesdre"
     }, 
     {
+      "busnrs": [
+        "r+1\u00e9"
+      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -245,8 +327,8 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 50.589888529178, 
-      "lon": 5.845757360073, 
+      "lat": 50.589835942269, 
+      "lon": 5.845760405374, 
       "municipality": "Verviers", 
       "pcode": "4800", 
       "source": "7738818", 
@@ -266,11 +348,80 @@
     }, 
     {
       "hnrlbls": [
+        "47"
+      ], 
+      "housenumber": "47", 
+      "lat": 50.589775581758, 
+      "lon": 5.846291000438, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738818", 
+      "street": "Rue de la Vesdre"
+    }, 
+    {
+      "hnrlbls": [
+        "48"
+      ], 
+      "housenumber": "48", 
+      "lat": 50.58994740143, 
+      "lon": 5.846374429279, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738818", 
+      "street": "Rue de la Vesdre"
+    }, 
+    {
+      "hnrlbls": [
+        "49"
+      ], 
+      "housenumber": "49", 
+      "lat": 50.589740650779, 
+      "lon": 5.846064002098, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738818", 
+      "street": "Rue de la Vesdre"
+    }, 
+    {
+      "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
       "lat": 50.590022239277, 
       "lon": 5.847893218851, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738818", 
+      "street": "Rue de la Vesdre"
+    }, 
+    {
+      "busnrs": [
+        "2\u00e9t.", 
+        "C1\u00e9t", 
+        "bteB", 
+        "rez."
+      ], 
+      "hnrlbls": [
+        "51"
+      ], 
+      "housenumber": "51", 
+      "lat": 50.58968844457, 
+      "lon": 5.845714136482, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738818", 
+      "street": "Rue de la Vesdre"
+    }, 
+    {
+      "busnrs": [
+        "rez."
+      ], 
+      "hnrlbls": [
+        "53"
+      ], 
+      "housenumber": "53", 
+      "lat": 50.589670557382, 
+      "lon": 5.845614968376, 
       "municipality": "Verviers", 
       "pcode": "4800", 
       "source": "7738818", 
@@ -290,6 +441,30 @@
     }, 
     {
       "hnrlbls": [
+        "6A"
+      ], 
+      "housenumber": "6A", 
+      "lat": 50.590135090867, 
+      "lon": 5.847454123811, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738818", 
+      "street": "Rue de la Vesdre"
+    }, 
+    {
+      "hnrlbls": [
+        "6B"
+      ], 
+      "housenumber": "6B", 
+      "lat": 50.590076486956, 
+      "lon": 5.847122663138, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738818", 
+      "street": "Rue de la Vesdre"
+    }, 
+    {
+      "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
@@ -301,6 +476,10 @@
       "street": "Rue de la Vesdre"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "2\u00e9t."
+      ], 
       "hnrlbls": [
         "9"
       ], 

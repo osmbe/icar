@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "000A", 
+        "000B", 
+        "000C", 
+        "000D"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -13,6 +19,9 @@
       "street": "Rue Jean Fran\u00e7ois"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -121,6 +130,9 @@
       "street": "Rue Jean Fran\u00e7ois"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "2"
       ], 

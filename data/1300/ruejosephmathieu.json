@@ -157,6 +157,9 @@
       "street": "Rue Joseph Mathieu"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -253,6 +256,9 @@
       "street": "Rue Joseph Mathieu"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "37"
       ], 
@@ -326,11 +332,35 @@
     }, 
     {
       "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 50.698797722186, 
+      "lon": 4.568549592029, 
+      "municipality": "Wavre", 
+      "pcode": "1300", 
+      "source": "7705028", 
+      "street": "Rue Joseph Mathieu"
+    }, 
+    {
+      "hnrlbls": [
         "50"
       ], 
       "housenumber": "50", 
       "lat": 50.700472979827, 
       "lon": 4.56343879118, 
+      "municipality": "Wavre", 
+      "pcode": "1300", 
+      "source": "7705028", 
+      "street": "Rue Joseph Mathieu"
+    }, 
+    {
+      "hnrlbls": [
+        "5A"
+      ], 
+      "housenumber": "5A", 
+      "lat": 50.698851586865, 
+      "lon": 4.568486152431, 
       "municipality": "Wavre", 
       "pcode": "1300", 
       "source": "7705028", 

@@ -1,6 +1,14 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "2", 
+        "A0", 
+        "A1", 
+        "A2", 
+        "B0", 
+        "B1"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +21,14 @@
       "street": "Rue des Framboisiers"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "A1", 
+        "A2", 
+        "B0", 
+        "B1", 
+        "B2"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -25,6 +41,12 @@
       "street": "Rue des Framboisiers"
     }, 
     {
+      "busnrs": [
+        "C0", 
+        "C1", 
+        "D1", 
+        "D2"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -37,6 +59,13 @@
       "street": "Rue des Framboisiers"
     }, 
     {
+      "busnrs": [
+        "C  0", 
+        "C  1", 
+        "D 2", 
+        "D0", 
+        "D1"
+      ], 
       "hnrlbls": [
         "4"
       ], 

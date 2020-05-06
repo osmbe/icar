@@ -62,11 +62,11 @@
     }, 
     {
       "hnrlbls": [
-        "20"
+        "2"
       ], 
-      "housenumber": "20", 
-      "lat": 50.744893554446, 
-      "lon": 3.204377188296, 
+      "housenumber": "2", 
+      "lat": 50.745088452278, 
+      "lon": 3.204943598749, 
       "municipality": "Mouscron", 
       "pcode": "7700", 
       "source": "7715991", 
@@ -74,11 +74,11 @@
     }, 
     {
       "hnrlbls": [
-        "20002"
+        "20"
       ], 
-      "housenumber": "20002", 
-      "lat": 50.745088452278, 
-      "lon": 3.204943598749, 
+      "housenumber": "20", 
+      "lat": 50.744893554446, 
+      "lon": 3.204377188296, 
       "municipality": "Mouscron", 
       "pcode": "7700", 
       "source": "7715991", 
@@ -169,6 +169,10 @@
       "street": "Rue du Levant"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "46"
       ], 

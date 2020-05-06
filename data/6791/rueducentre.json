@@ -13,6 +13,12 @@
       "street": "Rue du Centre"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "02", 
+        "11", 
+        "21"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -121,6 +127,11 @@
       "street": "Rue du Centre"
     }, 
     {
+      "busnrs": [
+        "11", 
+        "21", 
+        "41"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -169,6 +180,11 @@
       "street": "Rue du Centre"
     }, 
     {
+      "busnrs": [
+        "11", 
+        "A21", 
+        "A22"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -241,6 +257,11 @@
       "street": "Rue du Centre"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "11", 
+        "21"
+      ], 
       "hnrlbls": [
         "37"
       ], 
@@ -253,6 +274,9 @@
       "street": "Rue du Centre"
     }, 
     {
+      "busnrs": [
+        "01"
+      ], 
       "hnrlbls": [
         "38"
       ], 
@@ -265,18 +289,33 @@
       "street": "Rue du Centre"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "02", 
+        "12", 
+        "13", 
+        "21", 
+        "22", 
+        "A11", 
+        "A21"
+      ], 
       "hnrlbls": [
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 49.564194004279, 
-      "lon": 5.834455758884, 
+      "lat": 49.564184143559, 
+      "lon": 5.836058878031, 
       "municipality": "Aubange", 
       "pcode": "6791", 
       "source": "7742067", 
       "street": "Rue du Centre"
     }, 
     {
+      "busnrs": [
+        "11", 
+        "21", 
+        "31"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -409,6 +448,11 @@
       "street": "Rue du Centre"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "02", 
+        "12"
+      ], 
       "hnrlbls": [
         "59"
       ], 
@@ -433,6 +477,12 @@
       "street": "Rue du Centre"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "02", 
+        "11", 
+        "12"
+      ], 
       "hnrlbls": [
         "61"
       ], 
@@ -497,8 +547,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 49.563011343535, 
-      "lon": 5.836846399853, 
+      "lat": 49.564234492508, 
+      "lon": 5.833289469908, 
       "municipality": "Aubange", 
       "pcode": "6791", 
       "source": "7742067", 

@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "E1.1", 
+        "E1.2", 
+        "E2.1", 
+        "E2.2"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -205,10 +211,16 @@
       "street": "Haute Rue"
     }, 
     {
-      "hnrlbls": [
-        "27BTE1"
+      "busnrs": [
+        "BTE1", 
+        "BTE2", 
+        "BTE3", 
+        "BTE4"
       ], 
-      "housenumber": "27BTE1", 
+      "hnrlbls": [
+        "27"
+      ], 
+      "housenumber": "27", 
       "lat": 50.573737527672, 
       "lon": 4.180148421816, 
       "municipality": "Ecaussinnes", 

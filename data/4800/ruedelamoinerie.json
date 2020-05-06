@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1\u00e9t."
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -25,12 +28,56 @@
       "street": "Rue de la Moinerie"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "2\u00e9t.", 
+        "3\u00e9t."
+      ], 
       "hnrlbls": [
         "11"
       ], 
       "housenumber": "11", 
       "lat": 50.612548817436, 
       "lon": 5.833398474113, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738804", 
+      "street": "Rue de la Moinerie"
+    }, 
+    {
+      "hnrlbls": [
+        "12"
+      ], 
+      "housenumber": "12", 
+      "lat": 50.612569793644, 
+      "lon": 5.83311683106, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738804", 
+      "street": "Rue de la Moinerie"
+    }, 
+    {
+      "busnrs": [
+        "rez."
+      ], 
+      "hnrlbls": [
+        "13"
+      ], 
+      "housenumber": "13", 
+      "lat": 50.612477585149, 
+      "lon": 5.833482057998, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738804", 
+      "street": "Rue de la Moinerie"
+    }, 
+    {
+      "hnrlbls": [
+        "14"
+      ], 
+      "housenumber": "14", 
+      "lat": 50.612507394731, 
+      "lon": 5.833116872869, 
       "municipality": "Verviers", 
       "pcode": "4800", 
       "source": "7738804", 
@@ -49,6 +96,22 @@
       "street": "Rue de la Moinerie"
     }, 
     {
+      "hnrlbls": [
+        "16"
+      ], 
+      "housenumber": "16", 
+      "lat": 50.6124695607, 
+      "lon": 5.833125916708, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738804", 
+      "street": "Rue de la Moinerie"
+    }, 
+    {
+      "busnrs": [
+        "1\u00e9t.", 
+        "rez."
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -73,6 +136,13 @@
       "street": "Rue de la Moinerie"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "2\u00e9t.", 
+        "Rez.", 
+        "bte3", 
+        "rez."
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -85,6 +155,14 @@
       "street": "Rue de la Moinerie"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "2\u00e9t.", 
+        "3bt7", 
+        "bte3", 
+        "bte5", 
+        "rez."
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -169,6 +247,10 @@
       "street": "Rue de la Moinerie"
     }, 
     {
+      "busnrs": [
+        "bt1", 
+        "bt2"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -199,6 +281,46 @@
       "housenumber": "28", 
       "lat": 50.612061608508, 
       "lon": 5.833159220523, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738804", 
+      "street": "Rue de la Moinerie"
+    }, 
+    {
+      "hnrlbls": [
+        "28A"
+      ], 
+      "housenumber": "28A", 
+      "lat": 50.612008231615, 
+      "lon": 5.833141671332, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738804", 
+      "street": "Rue de la Moinerie"
+    }, 
+    {
+      "hnrlbls": [
+        "28B"
+      ], 
+      "housenumber": "28B", 
+      "lat": 50.611984788752, 
+      "lon": 5.832994680021, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738804", 
+      "street": "Rue de la Moinerie"
+    }, 
+    {
+      "busnrs": [
+        "1\u00e9t.", 
+        "rez."
+      ], 
+      "hnrlbls": [
+        "29"
+      ], 
+      "housenumber": "29", 
+      "lat": 50.611370304944, 
+      "lon": 5.833738278487, 
       "municipality": "Verviers", 
       "pcode": "4800", 
       "source": "7738804", 
@@ -254,11 +376,35 @@
     }, 
     {
       "hnrlbls": [
+        "35"
+      ], 
+      "housenumber": "35", 
+      "lat": 50.611129094271, 
+      "lon": 5.833850444321, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738804", 
+      "street": "Rue de la Moinerie"
+    }, 
+    {
+      "hnrlbls": [
         "36"
       ], 
       "housenumber": "36", 
       "lat": 50.61178351201, 
       "lon": 5.833239341323, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738804", 
+      "street": "Rue de la Moinerie"
+    }, 
+    {
+      "hnrlbls": [
+        "37"
+      ], 
+      "housenumber": "37", 
+      "lat": 50.611131323472, 
+      "lon": 5.833791812123, 
       "municipality": "Verviers", 
       "pcode": "4800", 
       "source": "7738804", 
@@ -302,6 +448,18 @@
     }, 
     {
       "hnrlbls": [
+        "40"
+      ], 
+      "housenumber": "40", 
+      "lat": 50.611689696393, 
+      "lon": 5.83303890073, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738804", 
+      "street": "Rue de la Moinerie"
+    }, 
+    {
+      "hnrlbls": [
         "41"
       ], 
       "housenumber": "41", 
@@ -326,11 +484,35 @@
     }, 
     {
       "hnrlbls": [
+        "44"
+      ], 
+      "housenumber": "44", 
+      "lat": 50.61167754705, 
+      "lon": 5.833132400581, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738804", 
+      "street": "Rue de la Moinerie"
+    }, 
+    {
+      "hnrlbls": [
         "44A"
       ], 
       "housenumber": "44A", 
       "lat": 50.611766433428, 
       "lon": 5.833038370787, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738804", 
+      "street": "Rue de la Moinerie"
+    }, 
+    {
+      "hnrlbls": [
+        "44B"
+      ], 
+      "housenumber": "44B", 
+      "lat": 50.611419700393, 
+      "lon": 5.833129926466, 
       "municipality": "Verviers", 
       "pcode": "4800", 
       "source": "7738804", 
@@ -362,6 +544,30 @@
     }, 
     {
       "hnrlbls": [
+        "46"
+      ], 
+      "housenumber": "46", 
+      "lat": 50.610983108684, 
+      "lon": 5.832924303389, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738804", 
+      "street": "Rue de la Moinerie"
+    }, 
+    {
+      "hnrlbls": [
+        "48"
+      ], 
+      "housenumber": "48", 
+      "lat": 50.610916575615, 
+      "lon": 5.832928118887, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738804", 
+      "street": "Rue de la Moinerie"
+    }, 
+    {
+      "hnrlbls": [
         "50"
       ], 
       "housenumber": "50", 
@@ -374,11 +580,47 @@
     }, 
     {
       "hnrlbls": [
-        "52"
+        "52A"
       ], 
-      "housenumber": "52", 
+      "housenumber": "52A", 
+      "lat": 50.610360163803, 
+      "lon": 5.833080014271, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738804", 
+      "street": "Rue de la Moinerie"
+    }, 
+    {
+      "hnrlbls": [
+        "52B"
+      ], 
+      "housenumber": "52B", 
+      "lat": 50.610502301396, 
+      "lon": 5.833024360774, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738804", 
+      "street": "Rue de la Moinerie"
+    }, 
+    {
+      "hnrlbls": [
+        "52C"
+      ], 
+      "housenumber": "52C", 
       "lat": 50.610481490147, 
       "lon": 5.833068529335, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738804", 
+      "street": "Rue de la Moinerie"
+    }, 
+    {
+      "hnrlbls": [
+        "52D"
+      ], 
+      "housenumber": "52D", 
+      "lat": 50.610337612721, 
+      "lon": 5.833345001228, 
       "municipality": "Verviers", 
       "pcode": "4800", 
       "source": "7738804", 
@@ -389,18 +631,6 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 50.610360163803, 
-      "lon": 5.833080014271, 
-      "municipality": "Verviers", 
-      "pcode": "4800", 
-      "source": "7738804", 
-      "street": "Rue de la Moinerie"
-    }, 
-    {
-      "hnrlbls": [
-        "54A"
-      ], 
-      "housenumber": "54A", 
       "lat": 50.609969480574, 
       "lon": 5.832946782481, 
       "municipality": "Verviers", 

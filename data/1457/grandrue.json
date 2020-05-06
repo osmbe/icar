@@ -241,6 +241,9 @@
       "street": "Grand'Rue"
     }, 
     {
+      "busnrs": [
+        "Bte1"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -457,6 +460,9 @@
       "street": "Grand'Rue"
     }, 
     {
+      "busnrs": [
+        "Bte2"
+      ], 
       "hnrlbls": [
         "58"
       ], 
@@ -517,12 +523,27 @@
       "street": "Grand'Rue"
     }, 
     {
+      "busnrs": [
+        "Bte1"
+      ], 
       "hnrlbls": [
         "64"
       ], 
       "housenumber": "64", 
       "lat": 50.610029099823, 
       "lon": 4.655890309441, 
+      "municipality": "Walhain", 
+      "pcode": "1457", 
+      "source": "7707083", 
+      "street": "Grand'Rue"
+    }, 
+    {
+      "hnrlbls": [
+        "65"
+      ], 
+      "housenumber": "65", 
+      "lat": 50.610112119071, 
+      "lon": 4.655200896015, 
       "municipality": "Walhain", 
       "pcode": "1457", 
       "source": "7707083", 
@@ -577,6 +598,9 @@
       "street": "Grand'Rue"
     }, 
     {
+      "busnrs": [
+        "Bte1"
+      ], 
       "hnrlbls": [
         "70"
       ], 
@@ -674,6 +698,18 @@
     }, 
     {
       "hnrlbls": [
+        "81"
+      ], 
+      "housenumber": "81", 
+      "lat": 50.609375246804, 
+      "lon": 4.653008198924, 
+      "municipality": "Walhain", 
+      "pcode": "1457", 
+      "source": "7707083", 
+      "street": "Grand'Rue"
+    }, 
+    {
+      "hnrlbls": [
         "82"
       ], 
       "housenumber": "82", 
@@ -721,6 +757,9 @@
       "street": "Grand'Rue"
     }, 
     {
+      "busnrs": [
+        "Bte1"
+      ], 
       "hnrlbls": [
         "87"
       ], 

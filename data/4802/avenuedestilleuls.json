@@ -13,6 +13,25 @@
       "street": "Avenue des Tilleuls"
     }, 
     {
+      "busnrs": [
+        "0008", 
+        "1", 
+        "5", 
+        "6", 
+        "bte2"
+      ], 
+      "hnrlbls": [
+        "13"
+      ], 
+      "housenumber": "13", 
+      "lat": 50.579289160961, 
+      "lon": 5.861281095661, 
+      "municipality": "Verviers", 
+      "pcode": "4802", 
+      "source": "7738586", 
+      "street": "Avenue des Tilleuls"
+    }, 
+    {
       "hnrlbls": [
         "14"
       ], 
@@ -25,6 +44,14 @@
       "street": "Avenue des Tilleuls"
     }, 
     {
+      "busnrs": [
+        "3\u00e9t.", 
+        "4", 
+        "7", 
+        "Bte2", 
+        "bte1", 
+        "bte6"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -37,6 +64,9 @@
       "street": "Avenue des Tilleuls"
     }, 
     {
+      "busnrs": [
+        "Brez"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -49,12 +79,27 @@
       "street": "Avenue des Tilleuls"
     }, 
     {
+      "busnrs": [
+        "R+1\u00e9"
+      ], 
       "hnrlbls": [
         "17"
       ], 
       "housenumber": "17", 
       "lat": 50.579002337772, 
       "lon": 5.861305148444, 
+      "municipality": "Verviers", 
+      "pcode": "4802", 
+      "source": "7738586", 
+      "street": "Avenue des Tilleuls"
+    }, 
+    {
+      "hnrlbls": [
+        "18"
+      ], 
+      "housenumber": "18", 
+      "lat": 50.577956959499, 
+      "lon": 5.861432067751, 
       "municipality": "Verviers", 
       "pcode": "4802", 
       "source": "7738586", 
@@ -121,6 +166,17 @@
       "street": "Avenue des Tilleuls"
     }, 
     {
+      "busnrs": [
+        "11", 
+        "B/1", 
+        "B/10", 
+        "B/12", 
+        "B/13", 
+        "B/7", 
+        "B/b9", 
+        "Bbt5", 
+        "bis4"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -157,6 +213,15 @@
       "street": "Avenue des Tilleuls"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "4", 
+        "7", 
+        "8", 
+        "9", 
+        "bte3"
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -181,6 +246,12 @@
       "street": "Avenue des Tilleuls"
     }, 
     {
+      "busnrs": [
+        "1/1", 
+        "2/1", 
+        "B2.2", 
+        "b1-2"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -217,12 +288,47 @@
       "street": "Avenue des Tilleuls"
     }, 
     {
-      "hnrlbls": [
-        "33"
+      "busnrs": [
+        "1", 
+        "102", 
+        "103", 
+        "204", 
+        "205"
       ], 
-      "housenumber": "33", 
+      "hnrlbls": [
+        "33B"
+      ], 
+      "housenumber": "33B", 
       "lat": 50.57627618554, 
       "lon": 5.861505667647, 
+      "municipality": "Verviers", 
+      "pcode": "4802", 
+      "source": "7738586", 
+      "street": "Avenue des Tilleuls"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "10", 
+        "11", 
+        "12", 
+        "13", 
+        "14", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 50.579678440089, 
+      "lon": 5.862849888524, 
       "municipality": "Verviers", 
       "pcode": "4802", 
       "source": "7738586", 

@@ -25,6 +25,10 @@
       "street": "Rue de la Gare"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0003"
+      ], 
       "hnrlbls": [
         "101"
       ], 
@@ -313,6 +317,9 @@
       "street": "Rue de la Gare"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "144"
       ], 
@@ -403,6 +410,18 @@
       "housenumber": "166", 
       "lat": 49.674284800288, 
       "lon": 5.56840478881, 
+      "municipality": "Etalle", 
+      "pcode": "6740", 
+      "source": "7747066", 
+      "street": "Rue de la Gare"
+    }, 
+    {
+      "hnrlbls": [
+        "168"
+      ], 
+      "housenumber": "168", 
+      "lat": 49.674258795435, 
+      "lon": 5.568819674544, 
       "municipality": "Etalle", 
       "pcode": "6740", 
       "source": "7747066", 
@@ -517,6 +536,9 @@
       "street": "Rue de la Gare"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "38"
       ], 
@@ -733,12 +755,16 @@
       "street": "Rue de la Gare"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "78"
       ], 
       "housenumber": "78", 
-      "lat": 49.672365855845, 
-      "lon": 5.586797149565, 
+      "lat": 49.674894447282, 
+      "lon": 5.555236341941, 
       "municipality": "Etalle", 
       "pcode": "6740", 
       "source": "7747066", 

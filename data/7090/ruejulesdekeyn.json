@@ -13,6 +13,9 @@
       "street": "Rue Jules Dekeyn"
     }, 
     {
+      "busnrs": [
+        "Et.1"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -169,6 +172,13 @@
       "street": "Rue Jules Dekeyn"
     }, 
     {
+      "busnrs": [
+        "Bt.1", 
+        "Bt.3", 
+        "Bt.4", 
+        "Bt.7", 
+        "Bt.8"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -218,6 +228,18 @@
     }, 
     {
       "hnrlbls": [
+        "29"
+      ], 
+      "housenumber": "29", 
+      "lat": 50.610196139105, 
+      "lon": 4.223628384639, 
+      "municipality": "Braine-le-Comte", 
+      "pcode": "7090", 
+      "source": "7716677", 
+      "street": "Rue Jules Dekeyn"
+    }, 
+    {
+      "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
@@ -235,6 +257,18 @@
       "housenumber": "30", 
       "lat": 50.610326139243, 
       "lon": 4.223218308264, 
+      "municipality": "Braine-le-Comte", 
+      "pcode": "7090", 
+      "source": "7716677", 
+      "street": "Rue Jules Dekeyn"
+    }, 
+    {
+      "hnrlbls": [
+        "31"
+      ], 
+      "housenumber": "31", 
+      "lat": 50.614019249644, 
+      "lon": 4.224164875581, 
       "municipality": "Braine-le-Comte", 
       "pcode": "7090", 
       "source": "7716677", 

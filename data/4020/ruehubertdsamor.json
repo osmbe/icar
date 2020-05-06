@@ -1,6 +1,13 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -25,6 +32,15 @@
       "street": "Rue Hubert-D\u00e9samor\u00e9"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -121,12 +137,29 @@
       "street": "Rue Hubert-D\u00e9samor\u00e9"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "19"
       ], 
       "housenumber": "19", 
       "lat": 50.618229784097, 
       "lon": 5.594674098485, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7731052", 
+      "street": "Rue Hubert-D\u00e9samor\u00e9"
+    }, 
+    {
+      "hnrlbls": [
+        "20A"
+      ], 
+      "housenumber": "20A", 
+      "lat": 50.618416787355, 
+      "lon": 5.594478709249, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7731052", 
@@ -145,6 +178,14 @@
       "street": "Rue Hubert-D\u00e9samor\u00e9"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -289,12 +330,29 @@
       "street": "Rue Hubert-D\u00e9samor\u00e9"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "34"
       ], 
       "housenumber": "34", 
       "lat": 50.618166268307, 
       "lon": 5.593979458758, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7731052", 
+      "street": "Rue Hubert-D\u00e9samor\u00e9"
+    }, 
+    {
+      "hnrlbls": [
+        "36"
+      ], 
+      "housenumber": "36", 
+      "lat": 50.618100782467, 
+      "lon": 5.59387785622, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7731052", 
@@ -313,6 +371,11 @@
       "street": "Rue Hubert-D\u00e9samor\u00e9"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -325,6 +388,14 @@
       "street": "Rue Hubert-D\u00e9samor\u00e9"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041", 
+        "0051", 
+        "0061"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -349,6 +420,19 @@
       "street": "Rue Hubert-D\u00e9samor\u00e9"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0041", 
+        "0042", 
+        "0051", 
+        "0052"
+      ], 
       "hnrlbls": [
         "9"
       ], 

@@ -1,6 +1,13 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt05", 
+        "BteC"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -25,12 +32,31 @@
       "street": "Faubourg de Bruxelles"
     }, 
     {
+      "busnrs": [
+        "B/02", 
+        "B003", 
+        "B101", 
+        "B102", 
+        "B103", 
+        "B201", 
+        "B202", 
+        "B203", 
+        "B301", 
+        "B302", 
+        "C004", 
+        "C104", 
+        "C105", 
+        "C205", 
+        "C303", 
+        "C304", 
+        "C401"
+      ], 
       "hnrlbls": [
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 50.601008430362, 
-      "lon": 4.32639105407, 
+      "lat": 50.601043665815, 
+      "lon": 4.326395738096, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702929", 
@@ -43,6 +69,18 @@
       "housenumber": "12", 
       "lat": 50.601171679512, 
       "lon": 4.326978639357, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7702929", 
+      "street": "Faubourg de Bruxelles"
+    }, 
+    {
+      "hnrlbls": [
+        "12B"
+      ], 
+      "housenumber": "12B", 
+      "lat": 50.601176422575, 
+      "lon": 4.327001381625, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702929", 
@@ -133,6 +171,13 @@
       "street": "Faubourg de Bruxelles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "3.1", 
+        "Bt01"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -163,6 +208,18 @@
       "housenumber": "22A", 
       "lat": 50.601472381856, 
       "lon": 4.327709493311, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7702929", 
+      "street": "Faubourg de Bruxelles"
+    }, 
+    {
+      "hnrlbls": [
+        "22B"
+      ], 
+      "housenumber": "22B", 
+      "lat": 50.601518319684, 
+      "lon": 4.32778379745, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702929", 
@@ -253,12 +310,27 @@
       "street": "Faubourg de Bruxelles"
     }, 
     {
+      "busnrs": [
+        "Bt01"
+      ], 
       "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
       "lat": 50.600585515648, 
       "lon": 4.326434813153, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7702929", 
+      "street": "Faubourg de Bruxelles"
+    }, 
+    {
+      "hnrlbls": [
+        "30"
+      ], 
+      "housenumber": "30", 
+      "lat": 50.601692834898, 
+      "lon": 4.328096322825, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702929", 
@@ -281,8 +353,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 50.601868552722, 
-      "lon": 4.328421153043, 
+      "lat": 50.601841647096, 
+      "lon": 4.328341194147, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702929", 
@@ -373,6 +445,9 @@
       "street": "Faubourg de Bruxelles"
     }, 
     {
+      "busnrs": [
+        "RDCH"
+      ], 
       "hnrlbls": [
         "45"
       ], 
@@ -605,8 +680,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.600909895861, 
-      "lon": 4.326416162846, 
+      "lat": 50.600840931177, 
+      "lon": 4.326458269478, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702929", 

@@ -61,6 +61,11 @@
       "street": "Rue Neuve"
     }, 
     {
+      "busnrs": [
+        "B0001", 
+        "B0101", 
+        "B0102"
+      ], 
       "hnrlbls": [
         "105"
       ], 
@@ -211,6 +216,18 @@
       "housenumber": "120", 
       "lat": 50.470127584598, 
       "lon": 4.220841543318, 
+      "municipality": "Manage", 
+      "pcode": "7170", 
+      "source": "7710831", 
+      "street": "Rue Neuve"
+    }, 
+    {
+      "hnrlbls": [
+        "120B"
+      ], 
+      "housenumber": "120B", 
+      "lat": 50.469947820294, 
+      "lon": 4.221037636105, 
       "municipality": "Manage", 
       "pcode": "7170", 
       "source": "7710831", 
@@ -553,6 +570,9 @@
       "street": "Rue Neuve"
     }, 
     {
+      "busnrs": [
+        "0101"
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -601,6 +621,9 @@
       "street": "Rue Neuve"
     }, 
     {
+      "busnrs": [
+        "B000"
+      ], 
       "hnrlbls": [
         "33"
       ], 

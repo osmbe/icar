@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +17,10 @@
       "street": "Avenue du Doyard"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -121,6 +129,13 @@
       "street": "Avenue du Doyard"
     }, 
     {
+      "busnrs": [
+        "D2", 
+        "E1/3", 
+        "E2/4", 
+        "E2/6", 
+        "E7"
+      ], 
       "hnrlbls": [
         "5"
       ], 

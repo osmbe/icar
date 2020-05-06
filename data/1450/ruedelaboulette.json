@@ -49,6 +49,9 @@
       "street": "Rue de la Boulette"
     }, 
     {
+      "busnrs": [
+        "0101"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -61,6 +64,10 @@
       "street": "Rue de la Boulette"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "000A"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -146,11 +153,52 @@
     }, 
     {
       "hnrlbls": [
+        "35"
+      ], 
+      "housenumber": "35", 
+      "lat": 50.58611777624, 
+      "lon": 4.608170584318, 
+      "municipality": "Chastre", 
+      "pcode": "1450", 
+      "source": "7705258", 
+      "street": "Rue de la Boulette"
+    }, 
+    {
+      "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.588880619716, 
-      "lon": 4.604549101098, 
+      "lat": 50.588805190751, 
+      "lon": 4.604517245942, 
+      "municipality": "Chastre", 
+      "pcode": "1450", 
+      "source": "7705258", 
+      "street": "Rue de la Boulette"
+    }, 
+    {
+      "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 50.588745450356, 
+      "lon": 4.60491347639, 
+      "municipality": "Chastre", 
+      "pcode": "1450", 
+      "source": "7705258", 
+      "street": "Rue de la Boulette"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0003", 
+        "000B"
+      ], 
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.588239546909, 
+      "lon": 4.604361781388, 
       "municipality": "Chastre", 
       "pcode": "1450", 
       "source": "7705258", 

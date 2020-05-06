@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "01"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -37,6 +40,10 @@
       "street": "Rue du Rempart"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "11"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -49,6 +56,12 @@
       "street": "Rue du Rempart"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "11", 
+        "21", 
+        "22"
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -85,6 +98,10 @@
       "street": "Rue du Rempart"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "11"
+      ], 
       "hnrlbls": [
         "33"
       ], 

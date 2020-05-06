@@ -73,6 +73,10 @@
       "street": "Avenue Gabrielle Petit"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "R01"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -457,6 +461,10 @@
       "street": "Avenue Gabrielle Petit"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -481,6 +489,10 @@
       "street": "Avenue Gabrielle Petit"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "R01"
+      ], 
       "hnrlbls": [
         "51"
       ], 
@@ -517,6 +529,16 @@
       "street": "Avenue Gabrielle Petit"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "R01", 
+        "R02"
+      ], 
       "hnrlbls": [
         "54"
       ], 
@@ -565,6 +587,10 @@
       "street": "Avenue Gabrielle Petit"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "59"
       ], 
@@ -589,6 +615,10 @@
       "street": "Avenue Gabrielle Petit"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "60"
       ], 
@@ -650,6 +680,18 @@
     }, 
     {
       "hnrlbls": [
+        "65"
+      ], 
+      "housenumber": "65", 
+      "lat": 50.689425921413, 
+      "lon": 4.209199490991, 
+      "municipality": "Tubize", 
+      "pcode": "1480", 
+      "source": "7703728", 
+      "street": "Avenue Gabrielle Petit"
+    }, 
+    {
+      "hnrlbls": [
         "66"
       ], 
       "housenumber": "66", 
@@ -679,18 +721,6 @@
       "housenumber": "69", 
       "lat": 50.689335635005, 
       "lon": 4.209136644646, 
-      "municipality": "Tubize", 
-      "pcode": "1480", 
-      "source": "7703728", 
-      "street": "Avenue Gabrielle Petit"
-    }, 
-    {
-      "hnrlbls": [
-        "7"
-      ], 
-      "housenumber": "7", 
-      "lat": 50.690864032451, 
-      "lon": 4.210597490489, 
       "municipality": "Tubize", 
       "pcode": "1480", 
       "source": "7703728", 
@@ -761,8 +791,8 @@
         "76"
       ], 
       "housenumber": "76", 
-      "lat": 50.689023021049, 
-      "lon": 4.209209787757, 
+      "lat": 50.688984083671, 
+      "lon": 4.209228047462, 
       "municipality": "Tubize", 
       "pcode": "1480", 
       "source": "7703728", 
@@ -809,8 +839,20 @@
         "81"
       ], 
       "housenumber": "81", 
-      "lat": 50.689043923133, 
-      "lon": 4.208866618549, 
+      "lat": 50.688990245132, 
+      "lon": 4.208886895405, 
+      "municipality": "Tubize", 
+      "pcode": "1480", 
+      "source": "7703728", 
+      "street": "Avenue Gabrielle Petit"
+    }, 
+    {
+      "hnrlbls": [
+        "83"
+      ], 
+      "housenumber": "83", 
+      "lat": 50.689132615631, 
+      "lon": 4.208017425403, 
       "municipality": "Tubize", 
       "pcode": "1480", 
       "source": "7703728", 

@@ -13,6 +13,13 @@
       "street": "Place Verhaeren"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -37,6 +44,11 @@
       "street": "Place Verhaeren"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "11", 
+        "2"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -97,12 +109,15 @@
       "street": "Place Verhaeren"
     }, 
     {
+      "busnrs": [
+        "11"
+      ], 
       "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 50.584250994369, 
-      "lon": 5.498591557742, 
+      "lat": 50.584271213989, 
+      "lon": 5.498664968071, 
       "municipality": "Seraing", 
       "pcode": "4100", 
       "source": "7732139", 
@@ -133,6 +148,10 @@
       "street": "Place Verhaeren"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -331,6 +350,18 @@
       "housenumber": "50", 
       "lat": 50.583863327501, 
       "lon": 5.497912154003, 
+      "municipality": "Seraing", 
+      "pcode": "4100", 
+      "source": "7732139", 
+      "street": "Place Verhaeren"
+    }, 
+    {
+      "hnrlbls": [
+        "51"
+      ], 
+      "housenumber": "51", 
+      "lat": 50.583896833667, 
+      "lon": 5.4978520296, 
       "municipality": "Seraing", 
       "pcode": "4100", 
       "source": "7732139", 

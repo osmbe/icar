@@ -29,8 +29,8 @@
         "100"
       ], 
       "housenumber": "100", 
-      "lat": 50.599191193455, 
-      "lon": 4.321935995917, 
+      "lat": 50.599203672287, 
+      "lon": 4.321912626681, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702862", 
@@ -41,8 +41,8 @@
         "102"
       ], 
       "housenumber": "102", 
-      "lat": 50.599207155176, 
-      "lon": 4.321969837898, 
+      "lat": 50.599229148917, 
+      "lon": 4.3219483267, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702862", 
@@ -242,11 +242,35 @@
     }, 
     {
       "hnrlbls": [
+        "23"
+      ], 
+      "housenumber": "23", 
+      "lat": 50.598749490323, 
+      "lon": 4.320387423989, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7702862", 
+      "street": "Boulevard des Arbal\u00e9triers"
+    }, 
+    {
+      "hnrlbls": [
         "24"
       ], 
       "housenumber": "24", 
       "lat": 50.59797141253, 
       "lon": 4.31912865017, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7702862", 
+      "street": "Boulevard des Arbal\u00e9triers"
+    }, 
+    {
+      "hnrlbls": [
+        "25"
+      ], 
+      "housenumber": "25", 
+      "lat": 50.598779862177, 
+      "lon": 4.320495024676, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702862", 
@@ -409,6 +433,9 @@
       "street": "Boulevard des Arbal\u00e9triers"
     }, 
     {
+      "busnrs": [
+        "Et01"
+      ], 
       "hnrlbls": [
         "39"
       ], 
@@ -497,8 +524,8 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 50.59915410974, 
-      "lon": 4.320946818934, 
+      "lat": 50.599250366586, 
+      "lon": 4.321072642979, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702862", 
@@ -553,12 +580,17 @@
       "street": "Boulevard des Arbal\u00e9triers"
     }, 
     {
+      "busnrs": [
+        "A000", 
+        "B000", 
+        "C000"
+      ], 
       "hnrlbls": [
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 50.599215825113, 
-      "lon": 4.321525867309, 
+      "lat": 50.59913230428, 
+      "lon": 4.321441072727, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702862", 
@@ -578,6 +610,18 @@
     }, 
     {
       "hnrlbls": [
+        "53"
+      ], 
+      "housenumber": "53", 
+      "lat": 50.599160492931, 
+      "lon": 4.321507245778, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7702862", 
+      "street": "Boulevard des Arbal\u00e9triers"
+    }, 
+    {
+      "hnrlbls": [
         "54"
       ], 
       "housenumber": "54", 
@@ -589,12 +633,17 @@
       "street": "Boulevard des Arbal\u00e9triers"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03"
+      ], 
       "hnrlbls": [
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 50.599250755556, 
-      "lon": 4.321694216877, 
+      "lat": 50.599223390776, 
+      "lon": 4.321667149195, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702862", 
@@ -758,6 +807,18 @@
     }, 
     {
       "hnrlbls": [
+        "68A"
+      ], 
+      "housenumber": "68A", 
+      "lat": 50.598741591474, 
+      "lon": 4.320900039162, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7702862", 
+      "street": "Boulevard des Arbal\u00e9triers"
+    }, 
+    {
+      "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
@@ -853,12 +914,16 @@
       "street": "Boulevard des Arbal\u00e9triers"
     }, 
     {
+      "busnrs": [
+        "Et01", 
+        "Et02"
+      ], 
       "hnrlbls": [
         "84"
       ], 
       "housenumber": "84", 
-      "lat": 50.598926582634, 
-      "lon": 4.321511645893, 
+      "lat": 50.598965103831, 
+      "lon": 4.321479468145, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702862", 
@@ -881,8 +946,8 @@
         "88"
       ], 
       "housenumber": "88", 
-      "lat": 50.598985954853, 
-      "lon": 4.321629304386, 
+      "lat": 50.599013534597, 
+      "lon": 4.32159788466, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702862", 
@@ -901,12 +966,15 @@
       "street": "Boulevard des Arbal\u00e9triers"
     }, 
     {
+      "busnrs": [
+        "0092"
+      ], 
       "hnrlbls": [
         "90"
       ], 
       "housenumber": "90", 
-      "lat": 50.599048864399, 
-      "lon": 4.321712664386, 
+      "lat": 50.599078848471, 
+      "lon": 4.321745522063, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702862", 

@@ -25,6 +25,11 @@
       "street": "Rue de Charleroi"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -137,8 +142,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.595975851425, 
-      "lon": 4.327821783497, 
+      "lat": 50.596006665534, 
+      "lon": 4.327509718184, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702997", 
@@ -193,6 +198,14 @@
       "street": "Rue de Charleroi"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt04", 
+        "Bt05", 
+        "Bt06"
+      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -229,12 +242,31 @@
       "street": "Rue de Charleroi"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "RDC1", 
+        "RDCH"
+      ], 
       "hnrlbls": [
         "34"
       ], 
       "housenumber": "34", 
       "lat": 50.595853311018, 
       "lon": 4.327004900876, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7702997", 
+      "street": "Rue de Charleroi"
+    }, 
+    {
+      "hnrlbls": [
+        "37"
+      ], 
+      "housenumber": "37", 
+      "lat": 50.595264049063, 
+      "lon": 4.327166418436, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702997", 
@@ -257,8 +289,8 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 50.595243001734, 
-      "lon": 4.327231101003, 
+      "lat": 50.595218809539, 
+      "lon": 4.327159373097, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702997", 
@@ -313,6 +345,11 @@
       "street": "Rue de Charleroi"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03"
+      ], 
       "hnrlbls": [
         "43"
       ], 
@@ -338,6 +375,18 @@
     }, 
     {
       "hnrlbls": [
+        "45"
+      ], 
+      "housenumber": "45", 
+      "lat": 50.595031870683, 
+      "lon": 4.327147514194, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7702997", 
+      "street": "Rue de Charleroi"
+    }, 
+    {
+      "hnrlbls": [
         "46"
       ], 
       "housenumber": "46", 
@@ -353,8 +402,8 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 50.594945572816, 
-      "lon": 4.32719984801, 
+      "lat": 50.594943178002, 
+      "lon": 4.327154072348, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702997", 
@@ -385,6 +434,11 @@
       "street": "Rue de Charleroi"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "Bt02", 
+        "RDCH"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -397,6 +451,11 @@
       "street": "Rue de Charleroi"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "0003", 
+        "Bt03"
+      ], 
       "hnrlbls": [
         "7"
       ], 

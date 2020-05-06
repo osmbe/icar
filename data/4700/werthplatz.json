@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -29,8 +35,8 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 50.632253017014, 
-      "lon": 6.038451253781, 
+      "lat": 50.632267794966, 
+      "lon": 6.038391175005, 
       "municipality": "Eupen", 
       "pcode": "4700", 
       "source": "7735924", 
@@ -53,14 +59,19 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 50.632178579065, 
-      "lon": 6.038439317348, 
+      "lat": 50.632222768536, 
+      "lon": 6.038495073178, 
       "municipality": "Eupen", 
       "pcode": "4700", 
       "source": "7735924", 
       "street": "Werthplatz"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -85,6 +96,11 @@
       "street": "Werthplatz"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "16A"
       ], 
@@ -125,8 +141,8 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.632977599769, 
-      "lon": 6.038489258794, 
+      "lat": 50.632914000226, 
+      "lon": 6.038391042837, 
       "municipality": "Eupen", 
       "pcode": "4700", 
       "source": "7735924", 
@@ -139,6 +155,18 @@
       "housenumber": "20", 
       "lat": 50.632486886457, 
       "lon": 6.039396146532, 
+      "municipality": "Eupen", 
+      "pcode": "4700", 
+      "source": "7735924", 
+      "street": "Werthplatz"
+    }, 
+    {
+      "hnrlbls": [
+        "22"
+      ], 
+      "housenumber": "22", 
+      "lat": 50.632440265899, 
+      "lon": 6.039553910619, 
       "municipality": "Eupen", 
       "pcode": "4700", 
       "source": "7735924", 
@@ -169,12 +197,19 @@
       "street": "Werthplatz"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 50.632209077832, 
-      "lon": 6.039447136531, 
+      "lat": 50.632304869774, 
+      "lon": 6.03946678657, 
       "municipality": "Eupen", 
       "pcode": "4700", 
       "source": "7735924", 
@@ -193,6 +228,12 @@
       "street": "Werthplatz"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -205,12 +246,52 @@
       "street": "Werthplatz"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
+      "hnrlbls": [
+        "30"
+      ], 
+      "housenumber": "30", 
+      "lat": 50.63234758389, 
+      "lon": 6.039717463536, 
+      "municipality": "Eupen", 
+      "pcode": "4700", 
+      "source": "7735924", 
+      "street": "Werthplatz"
+    }, 
+    {
       "hnrlbls": [
         "31"
       ], 
       "housenumber": "31", 
       "lat": 50.631886535904, 
       "lon": 6.039048838282, 
+      "municipality": "Eupen", 
+      "pcode": "4700", 
+      "source": "7735924", 
+      "street": "Werthplatz"
+    }, 
+    {
+      "hnrlbls": [
+        "32"
+      ], 
+      "housenumber": "32", 
+      "lat": 50.632251204181, 
+      "lon": 6.039494653966, 
+      "municipality": "Eupen", 
+      "pcode": "4700", 
+      "source": "7735924", 
+      "street": "Werthplatz"
+    }, 
+    {
+      "hnrlbls": [
+        "35"
+      ], 
+      "housenumber": "35", 
+      "lat": 50.63179372311, 
+      "lon": 6.039205306574, 
       "municipality": "Eupen", 
       "pcode": "4700", 
       "source": "7735924", 
@@ -254,6 +335,24 @@
     }, 
     {
       "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.632932270529, 
+      "lon": 6.038497942407, 
+      "municipality": "Eupen", 
+      "pcode": "4700", 
+      "source": "7735924", 
+      "street": "Werthplatz"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
+      "hnrlbls": [
         "40"
       ], 
       "housenumber": "40", 
@@ -265,6 +364,10 @@
       "street": "Werthplatz"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "44"
       ], 
@@ -278,6 +381,25 @@
     }, 
     {
       "hnrlbls": [
+        "46"
+      ], 
+      "housenumber": "46", 
+      "lat": 50.632102860193, 
+      "lon": 6.039911799924, 
+      "municipality": "Eupen", 
+      "pcode": "4700", 
+      "source": "7735924", 
+      "street": "Werthplatz"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
+      "hnrlbls": [
         "48"
       ], 
       "housenumber": "48", 
@@ -289,6 +411,10 @@
       "street": "Werthplatz"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -301,6 +427,10 @@
       "street": "Werthplatz"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "50"
       ], 
@@ -313,6 +443,12 @@
       "street": "Werthplatz"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "54"
       ], 
@@ -329,8 +465,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.632953607736, 
-      "lon": 6.038679691667, 
+      "lat": 50.632937936593, 
+      "lon": 6.038677453279, 
       "municipality": "Eupen", 
       "pcode": "4700", 
       "source": "7735924", 
@@ -365,8 +501,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.632266482592, 
-      "lon": 6.038361102788, 
+      "lat": 50.632087643765, 
+      "lon": 6.038017512469, 
       "municipality": "Eupen", 
       "pcode": "4700", 
       "source": "7735924", 

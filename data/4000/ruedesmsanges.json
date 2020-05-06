@@ -353,8 +353,8 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 50.620996300559, 
-      "lon": 5.555997067143, 
+      "lat": 50.620997265706, 
+      "lon": 5.556087742364, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730666", 
@@ -469,12 +469,29 @@
       "street": "Rue des M\u00e9sanges"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "66"
       ], 
       "housenumber": "66", 
       "lat": 50.62066042833, 
       "lon": 5.556366103242, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730666", 
+      "street": "Rue des M\u00e9sanges"
+    }, 
+    {
+      "hnrlbls": [
+        "68"
+      ], 
+      "housenumber": "68", 
+      "lat": 50.620636697865, 
+      "lon": 5.556304563921, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730666", 
@@ -541,6 +558,10 @@
       "street": "Rue des M\u00e9sanges"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "82"
       ], 

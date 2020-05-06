@@ -121,6 +121,16 @@
       "street": "Avenue Reine-Astrid"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "115"
       ], 
@@ -163,6 +173,18 @@
       "housenumber": "12", 
       "lat": 50.623923453476, 
       "lon": 5.597159514219, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7729662", 
+      "street": "Avenue Reine-Astrid"
+    }, 
+    {
+      "hnrlbls": [
+        "120"
+      ], 
+      "housenumber": "120", 
+      "lat": 50.624389096033, 
+      "lon": 5.59774549036, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4030", 
       "source": "7729662", 
@@ -1153,6 +1175,11 @@
       "street": "Avenue Reine-Astrid"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "51B"
       ], 
@@ -1369,6 +1396,11 @@
       "street": "Avenue Reine-Astrid"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "68"
       ], 
@@ -1471,6 +1503,30 @@
       "housenumber": "78", 
       "lat": 50.62396417532, 
       "lon": 5.598561453814, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7729662", 
+      "street": "Avenue Reine-Astrid"
+    }, 
+    {
+      "hnrlbls": [
+        "7B"
+      ], 
+      "housenumber": "7B", 
+      "lat": 50.623732207697, 
+      "lon": 5.597455964064, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7729662", 
+      "street": "Avenue Reine-Astrid"
+    }, 
+    {
+      "hnrlbls": [
+        "7C"
+      ], 
+      "housenumber": "7C", 
+      "lat": 50.623738732026, 
+      "lon": 5.59755016901, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4030", 
       "source": "7729662", 

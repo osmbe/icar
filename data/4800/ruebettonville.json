@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "rez."
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -13,6 +16,9 @@
       "street": "Rue Bettonville"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t."
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -25,6 +31,10 @@
       "street": "Rue Bettonville"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "rez."
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -37,6 +47,9 @@
       "street": "Rue Bettonville"
     }, 
     {
+      "busnrs": [
+        "2\u00e9t."
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -49,6 +62,9 @@
       "street": "Rue Bettonville"
     }, 
     {
+      "busnrs": [
+        "2\u00e9t."
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -61,12 +77,72 @@
       "street": "Rue Bettonville"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t."
+      ], 
+      "hnrlbls": [
+        "18"
+      ], 
+      "housenumber": "18", 
+      "lat": 50.59522415909, 
+      "lon": 5.850538991647, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738745", 
+      "street": "Rue Bettonville"
+    }, 
+    {
+      "busnrs": [
+        "1\u00e9t."
+      ], 
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.594967075449, 
+      "lon": 5.850638144181, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738745", 
+      "street": "Rue Bettonville"
+    }, 
+    {
+      "busnrs": [
+        "2\u00e9t.", 
+        "3\u00e9t.", 
+        "3\u00e9tD", 
+        "4\u00e9tD"
+      ], 
       "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
       "lat": 50.594946772813, 
       "lon": 5.850403617414, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738745", 
+      "street": "Rue Bettonville"
+    }, 
+    {
+      "hnrlbls": [
+        "71"
+      ], 
+      "housenumber": "71", 
+      "lat": 50.595367901038, 
+      "lon": 5.850486062074, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738745", 
+      "street": "Rue Bettonville"
+    }, 
+    {
+      "hnrlbls": [
+        "75"
+      ], 
+      "housenumber": "75", 
+      "lat": 50.595323120618, 
+      "lon": 5.850288884927, 
       "municipality": "Verviers", 
       "pcode": "4800", 
       "source": "7738745", 

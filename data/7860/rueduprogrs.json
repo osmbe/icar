@@ -13,6 +13,11 @@
       "street": "Rue du Progr\u00e8s"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -49,6 +54,12 @@
       "street": "Rue du Progr\u00e8s"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -169,6 +180,9 @@
       "street": "Rue du Progr\u00e8s"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -221,8 +235,8 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 50.71036062114, 
-      "lon": 3.83081537767, 
+      "lat": 50.710402485044, 
+      "lon": 3.830857815492, 
       "municipality": "Lessines", 
       "pcode": "7860", 
       "source": "7718060", 
@@ -257,8 +271,8 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 50.710385550204, 
-      "lon": 3.83092097198, 
+      "lat": 50.710344263651, 
+      "lon": 3.830873090622, 
       "municipality": "Lessines", 
       "pcode": "7860", 
       "source": "7718060", 
@@ -373,6 +387,11 @@
       "street": "Rue du Progr\u00e8s"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -427,18 +446,6 @@
       "housenumber": "45", 
       "lat": 50.710090331964, 
       "lon": 3.831676409962, 
-      "municipality": "Lessines", 
-      "pcode": "7860", 
-      "source": "7718060", 
-      "street": "Rue du Progr\u00e8s"
-    }, 
-    {
-      "hnrlbls": [
-        "47"
-      ], 
-      "housenumber": "47", 
-      "lat": 50.710105824515, 
-      "lon": 3.831902430943, 
       "municipality": "Lessines", 
       "pcode": "7860", 
       "source": "7718060", 

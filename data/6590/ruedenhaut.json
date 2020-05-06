@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0004", 
+        "00A3"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +19,11 @@
       "street": "Rue d'en Haut"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -373,6 +384,9 @@
       "street": "Rue d'en Haut"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "4"
       ], 

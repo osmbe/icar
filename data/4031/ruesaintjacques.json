@@ -25,6 +25,11 @@
       "street": "Rue Saint-Jacques"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -61,6 +66,10 @@
       "street": "Rue Saint-Jacques"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -409,6 +418,14 @@
       "street": "Rue Saint-Jacques"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0021"
+      ], 
       "hnrlbls": [
         "45"
       ], 
@@ -487,6 +504,22 @@
       "housenumber": "50", 
       "lat": 50.611143431118, 
       "lon": 5.606620392382, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4031", 
+      "source": "7731309", 
+      "street": "Rue Saint-Jacques"
+    }, 
+    {
+      "busnrs": [
+        "0011", 
+        "0022"
+      ], 
+      "hnrlbls": [
+        "58"
+      ], 
+      "housenumber": "58", 
+      "lat": 50.611835038631, 
+      "lon": 5.604470492682, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4031", 
       "source": "7731309", 

@@ -193,6 +193,10 @@
       "street": "Rue du Lou\u00e2t"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "011"
+      ], 
       "hnrlbls": [
         "119"
       ], 
@@ -217,6 +221,9 @@
       "street": "Rue du Lou\u00e2t"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "121"
       ], 
@@ -673,6 +680,16 @@
       "street": "Rue du Lou\u00e2t"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008"
+      ], 
       "hnrlbls": [
         "163"
       ], 
@@ -751,18 +768,6 @@
       "housenumber": "175", 
       "lat": 50.431476575849, 
       "lon": 4.536900239726, 
-      "municipality": "Farciennes", 
-      "pcode": "6240", 
-      "source": "7709837", 
-      "street": "Rue du Lou\u00e2t"
-    }, 
-    {
-      "hnrlbls": [
-        "184"
-      ], 
-      "housenumber": "184", 
-      "lat": 50.432322970832, 
-      "lon": 4.536737420346, 
       "municipality": "Farciennes", 
       "pcode": "6240", 
       "source": "7709837", 
@@ -1177,6 +1182,9 @@
       "street": "Rue du Lou\u00e2t"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "56"
       ], 
@@ -1225,6 +1233,9 @@
       "street": "Rue du Lou\u00e2t"
     }, 
     {
+      "busnrs": [
+        "0066"
+      ], 
       "hnrlbls": [
         "64"
       ], 
@@ -1337,8 +1348,8 @@
         "76"
       ], 
       "housenumber": "76", 
-      "lat": 50.428882900762, 
-      "lon": 4.537885034531, 
+      "lat": 50.42888041054, 
+      "lon": 4.537817257944, 
       "municipality": "Farciennes", 
       "pcode": "6240", 
       "source": "7709837", 
@@ -1409,8 +1420,8 @@
         "83"
       ], 
       "housenumber": "83", 
-      "lat": 50.428666628937, 
-      "lon": 4.537866723729, 
+      "lat": 50.428636804443, 
+      "lon": 4.537807589721, 
       "municipality": "Farciennes", 
       "pcode": "6240", 
       "source": "7709837", 
@@ -1421,8 +1432,8 @@
         "85"
       ], 
       "housenumber": "85", 
-      "lat": 50.428671813506, 
-      "lon": 4.537770179061, 
+      "lat": 50.428692685183, 
+      "lon": 4.537840568576, 
       "municipality": "Farciennes", 
       "pcode": "6240", 
       "source": "7709837", 

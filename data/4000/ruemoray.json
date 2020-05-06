@@ -1,6 +1,19 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "C002", 
+        "C003", 
+        "C011", 
+        "C021", 
+        "C031"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,12 +26,30 @@
       "street": "Rue Moray"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "1A"
       ], 
       "housenumber": "1A", 
       "lat": 50.64673816409, 
       "lon": 5.575884555518, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731198", 
+      "street": "Rue Moray"
+    }, 
+    {
+      "hnrlbls": [
+        "1B"
+      ], 
+      "housenumber": "1B", 
+      "lat": 50.646756348091, 
+      "lon": 5.575784209113, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731198", 
@@ -37,6 +68,12 @@
       "street": "Rue Moray"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -49,6 +86,12 @@
       "street": "Rue Moray"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "5"
       ], 

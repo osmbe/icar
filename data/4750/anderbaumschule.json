@@ -25,6 +25,9 @@
       "street": "An der Baumschule"
     }, 
     {
+      "busnrs": [
+        "1/1"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -37,6 +40,10 @@
       "street": "An der Baumschule"
     }, 
     {
+      "busnrs": [
+        "1/1", 
+        "A/-1"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -157,6 +164,11 @@
       "street": "An der Baumschule"
     }, 
     {
+      "busnrs": [
+        "-1/1", 
+        "-1/2", 
+        "1/1"
+      ], 
       "hnrlbls": [
         "9"
       ], 

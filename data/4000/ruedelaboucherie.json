@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A011", 
+        "B001", 
+        "B011"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,12 +18,53 @@
       "street": "Rue de la Boucherie"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0041"
+      ], 
       "hnrlbls": [
         "13"
       ], 
       "housenumber": "13", 
       "lat": 50.64564881418, 
       "lon": 5.577880478203, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730337", 
+      "street": "Rue de la Boucherie"
+    }, 
+    {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0031", 
+        "0032", 
+        "0033", 
+        "0041", 
+        "0042", 
+        "0043", 
+        "0051", 
+        "0052", 
+        "0061", 
+        "0062", 
+        "0063"
+      ], 
+      "hnrlbls": [
+        "15"
+      ], 
+      "housenumber": "15", 
+      "lat": 50.645687953285, 
+      "lon": 5.577963723863, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730337", 
@@ -37,12 +83,56 @@
       "street": "Rue de la Boucherie"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041", 
+        "0051", 
+        "0061"
+      ], 
       "hnrlbls": [
         "19"
       ], 
       "housenumber": "19", 
       "lat": 50.645728486643, 
       "lon": 5.578122389818, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730337", 
+      "street": "Rue de la Boucherie"
+    }, 
+    {
+      "hnrlbls": [
+        "1A"
+      ], 
+      "housenumber": "1A", 
+      "lat": 50.645469679229, 
+      "lon": 5.577492052626, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730337", 
+      "street": "Rue de la Boucherie"
+    }, 
+    {
+      "hnrlbls": [
+        "1B"
+      ], 
+      "housenumber": "1B", 
+      "lat": 50.645495662289, 
+      "lon": 5.577509545719, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730337", 
+      "street": "Rue de la Boucherie"
+    }, 
+    {
+      "hnrlbls": [
+        "1C"
+      ], 
+      "housenumber": "1C", 
+      "lat": 50.645504583933, 
+      "lon": 5.577542297891, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730337", 
@@ -73,6 +163,24 @@
       "street": "Rue de la Boucherie"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0031", 
+        "0032", 
+        "0033", 
+        "0041", 
+        "0042", 
+        "0043", 
+        "0051", 
+        "0052"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -85,6 +193,13 @@
       "street": "Rue de la Boucherie"
     }, 
     {
+      "busnrs": [
+        "B011", 
+        "B021", 
+        "B022", 
+        "B031", 
+        "B032"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -133,6 +248,15 @@
       "street": "Rue de la Boucherie"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0031", 
+        "0041", 
+        "0051"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -145,6 +269,12 @@
       "street": "Rue de la Boucherie"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "9"
       ], 

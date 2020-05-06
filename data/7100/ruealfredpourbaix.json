@@ -2,18 +2,6 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1"
-      ], 
-      "housenumber": "1", 
-      "lat": 50.476358441094, 
-      "lon": 4.185274330422, 
-      "municipality": "La Louvi\u00e8re", 
-      "pcode": "7100", 
-      "source": "7717132", 
-      "street": "Rue Alfred Pourbaix"
-    }, 
-    {
-      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -73,12 +61,49 @@
       "street": "Rue Alfred Pourbaix"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008"
+      ], 
       "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
       "lat": 50.475769936511, 
       "lon": 4.184497001095, 
+      "municipality": "La Louvi\u00e8re", 
+      "pcode": "7100", 
+      "source": "7717132", 
+      "street": "Rue Alfred Pourbaix"
+    }, 
+    {
+      "busnrs": [
+        "0101", 
+        "0201"
+      ], 
+      "hnrlbls": [
+        "1A"
+      ], 
+      "housenumber": "1A", 
+      "lat": 50.476358441094, 
+      "lon": 4.185274330422, 
+      "municipality": "La Louvi\u00e8re", 
+      "pcode": "7100", 
+      "source": "7717132", 
+      "street": "Rue Alfred Pourbaix"
+    }, 
+    {
+      "hnrlbls": [
+        "25"
+      ], 
+      "housenumber": "25", 
+      "lat": 50.475729411666, 
+      "lon": 4.184691248478, 
       "municipality": "La Louvi\u00e8re", 
       "pcode": "7100", 
       "source": "7717132", 

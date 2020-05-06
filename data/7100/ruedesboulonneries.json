@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0101"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -133,6 +136,9 @@
       "street": "Rue des Boulonneries"
     }, 
     {
+      "busnrs": [
+        "0002"
+      ], 
       "hnrlbls": [
         "132"
       ], 
@@ -169,6 +175,14 @@
       "street": "Rue des Boulonneries"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0007"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -481,6 +495,11 @@
       "street": "Rue des Boulonneries"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "90"
       ], 

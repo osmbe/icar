@@ -25,6 +25,12 @@
       "street": "Rue de la Clef"
     }, 
     {
+      "busnrs": [
+        "011", 
+        "012", 
+        "021", 
+        "022"
+      ], 
       "hnrlbls": [
         "100"
       ], 
@@ -37,6 +43,9 @@
       "street": "Rue de la Clef"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "101"
       ], 
@@ -121,6 +130,10 @@
       "street": "Rue de la Clef"
     }, 
     {
+      "busnrs": [
+        "011", 
+        "021"
+      ], 
       "hnrlbls": [
         "109"
       ], 
@@ -145,6 +158,12 @@
       "street": "Rue de la Clef"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "011", 
+        "012", 
+        "013"
+      ], 
       "hnrlbls": [
         "111"
       ], 
@@ -181,6 +200,9 @@
       "street": "Rue de la Clef"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "117"
       ], 
@@ -197,8 +219,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.615020864637, 
-      "lon": 5.690094114953, 
+      "lat": 50.614897203287, 
+      "lon": 5.690535483918, 
       "municipality": "Fl\u00e9ron", 
       "pcode": "4621", 
       "source": "7728894", 
@@ -229,6 +251,9 @@
       "street": "Rue de la Clef"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -305,8 +330,8 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 50.615401022534, 
-      "lon": 5.691351455879, 
+      "lat": 50.615308824535, 
+      "lon": 5.691384020848, 
       "municipality": "Fl\u00e9ron", 
       "pcode": "4621", 
       "source": "7728894", 
@@ -325,6 +350,19 @@
       "street": "Rue de la Clef"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "10", 
+        "12", 
+        "14", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -349,6 +387,16 @@
       "street": "Rue de la Clef"
     }, 
     {
+      "busnrs": [
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -373,12 +421,27 @@
       "street": "Rue de la Clef"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
       "lat": 50.6146419218, 
       "lon": 5.688569341547, 
+      "municipality": "Fl\u00e9ron", 
+      "pcode": "4621", 
+      "source": "7728894", 
+      "street": "Rue de la Clef"
+    }, 
+    {
+      "hnrlbls": [
+        "52"
+      ], 
+      "housenumber": "52", 
+      "lat": 50.617181824828, 
+      "lon": 5.695222386786, 
       "municipality": "Fl\u00e9ron", 
       "pcode": "4621", 
       "source": "7728894", 
@@ -469,6 +532,10 @@
       "street": "Rue de la Clef"
     }, 
     {
+      "busnrs": [
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -481,6 +548,16 @@
       "street": "Rue de la Clef"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B001", 
+        "B011", 
+        "B012", 
+        "B013", 
+        "B014", 
+        "B021", 
+        "B022"
+      ], 
       "hnrlbls": [
         "60"
       ], 
@@ -517,6 +594,14 @@
       "street": "Rue de la Clef"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
       "hnrlbls": [
         "64"
       ], 
@@ -590,18 +675,6 @@
     }, 
     {
       "hnrlbls": [
-        "74"
-      ], 
-      "housenumber": "74", 
-      "lat": 50.618919099627, 
-      "lon": 5.696912891154, 
-      "municipality": "Fl\u00e9ron", 
-      "pcode": "4621", 
-      "source": "7728894", 
-      "street": "Rue de la Clef"
-    }, 
-    {
-      "hnrlbls": [
         "75"
       ], 
       "housenumber": "75", 
@@ -613,6 +686,10 @@
       "street": "Rue de la Clef"
     }, 
     {
+      "busnrs": [
+        "011", 
+        "021"
+      ], 
       "hnrlbls": [
         "76"
       ], 
@@ -637,6 +714,25 @@
       "street": "Rue de la Clef"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "A001", 
+        "A002", 
+        "A011", 
+        "A012", 
+        "A021", 
+        "A022", 
+        "B001", 
+        "B002", 
+        "B011", 
+        "B012", 
+        "B021", 
+        "B022", 
+        "C011", 
+        "C021"
+      ], 
       "hnrlbls": [
         "8"
       ], 
@@ -721,12 +817,28 @@
       "street": "Rue de la Clef"
     }, 
     {
+      "busnrs": [
+        "021", 
+        "1"
+      ], 
       "hnrlbls": [
         "87"
       ], 
       "housenumber": "87", 
       "lat": 50.619830217383, 
       "lon": 5.697880953888, 
+      "municipality": "Fl\u00e9ron", 
+      "pcode": "4621", 
+      "source": "7728894", 
+      "street": "Rue de la Clef"
+    }, 
+    {
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.614945332648, 
+      "lon": 5.688291680345, 
       "municipality": "Fl\u00e9ron", 
       "pcode": "4621", 
       "source": "7728894", 
@@ -793,6 +905,10 @@
       "street": "Rue de la Clef"
     }, 
     {
+      "busnrs": [
+        "A011", 
+        "A012"
+      ], 
       "hnrlbls": [
         "96"
       ], 

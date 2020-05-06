@@ -709,6 +709,9 @@
       "street": "Rue des Fran\u00e7ais"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "36"
       ], 
@@ -1069,6 +1072,11 @@
       "street": "Rue des Fran\u00e7ais"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0004"
+      ], 
       "hnrlbls": [
         "73"
       ], 
@@ -1085,8 +1093,8 @@
         "74"
       ], 
       "housenumber": "74", 
-      "lat": 50.426766017108, 
-      "lon": 4.576311436342, 
+      "lat": 50.426751124091, 
+      "lon": 4.576326265122, 
       "municipality": "Aiseau-Presles", 
       "pcode": "6250", 
       "source": "7711629", 
@@ -1109,8 +1117,8 @@
         "76"
       ], 
       "housenumber": "76", 
-      "lat": 50.426797494165, 
-      "lon": 4.576395707015, 
+      "lat": 50.426779034562, 
+      "lon": 4.576409589841, 
       "municipality": "Aiseau-Presles", 
       "pcode": "6250", 
       "source": "7711629", 
@@ -1123,6 +1131,18 @@
       "housenumber": "78", 
       "lat": 50.426619550873, 
       "lon": 4.576359037715, 
+      "municipality": "Aiseau-Presles", 
+      "pcode": "6250", 
+      "source": "7711629", 
+      "street": "Rue des Fran\u00e7ais"
+    }, 
+    {
+      "hnrlbls": [
+        "78/1"
+      ], 
+      "housenumber": "78/1", 
+      "lat": 50.426732183215, 
+      "lon": 4.576531390051, 
       "municipality": "Aiseau-Presles", 
       "pcode": "6250", 
       "source": "7711629", 

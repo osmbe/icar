@@ -17,8 +17,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.166225133019, 
-      "lon": 4.172839368371, 
+      "lat": 50.166468805129, 
+      "lon": 4.173361531457, 
       "municipality": "Sivry-Rance", 
       "pcode": "6470", 
       "source": "7721868", 
@@ -181,12 +181,33 @@
       "street": "Rue de la Marzelle"
     }, 
     {
+      "busnrs": [
+        "A  1", 
+        "A  2", 
+        "A  4", 
+        "A 3", 
+        "C  2", 
+        "C 1", 
+        "C 3"
+      ], 
       "hnrlbls": [
         "22"
       ], 
       "housenumber": "22", 
       "lat": 50.165914005673, 
       "lon": 4.171028209867, 
+      "municipality": "Sivry-Rance", 
+      "pcode": "6470", 
+      "source": "7721868", 
+      "street": "Rue de la Marzelle"
+    }, 
+    {
+      "hnrlbls": [
+        "22A"
+      ], 
+      "housenumber": "22A", 
+      "lat": 50.165879626749, 
+      "lon": 4.170633715345, 
       "municipality": "Sivry-Rance", 
       "pcode": "6470", 
       "source": "7721868", 
@@ -253,6 +274,10 @@
       "street": "Rue de la Marzelle"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -409,6 +434,9 @@
       "street": "Rue de la Marzelle"
     }, 
     {
+      "busnrs": [
+        "5"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -775,6 +803,18 @@
       "housenumber": "64", 
       "lat": 50.167290263832, 
       "lon": 4.155306030004, 
+      "municipality": "Sivry-Rance", 
+      "pcode": "6470", 
+      "source": "7721868", 
+      "street": "Rue de la Marzelle"
+    }, 
+    {
+      "hnrlbls": [
+        "66"
+      ], 
+      "housenumber": "66", 
+      "lat": 50.167299499872, 
+      "lon": 4.15509754383, 
       "municipality": "Sivry-Rance", 
       "pcode": "6470", 
       "source": "7721868", 

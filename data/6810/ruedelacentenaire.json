@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -37,6 +40,11 @@
       "street": "Rue de la Centenaire"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B", 
+        "C"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -133,6 +141,10 @@
       "street": "Rue de la Centenaire"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -205,6 +217,10 @@
       "street": "Rue de la Centenaire"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -217,6 +233,9 @@
       "street": "Rue de la Centenaire"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -247,6 +266,30 @@
       "housenumber": "5", 
       "lat": 49.696172350483, 
       "lon": 5.4172608566, 
+      "municipality": "Chiny", 
+      "pcode": "6810", 
+      "source": "7746921", 
+      "street": "Rue de la Centenaire"
+    }, 
+    {
+      "hnrlbls": [
+        "5A"
+      ], 
+      "housenumber": "5A", 
+      "lat": 49.696185434681, 
+      "lon": 5.417034652637, 
+      "municipality": "Chiny", 
+      "pcode": "6810", 
+      "source": "7746921", 
+      "street": "Rue de la Centenaire"
+    }, 
+    {
+      "hnrlbls": [
+        "5B"
+      ], 
+      "housenumber": "5B", 
+      "lat": 49.696183312795, 
+      "lon": 5.417136380504, 
       "municipality": "Chiny", 
       "pcode": "6810", 
       "source": "7746921", 

@@ -85,6 +85,10 @@
       "street": "Rue Georges Willame"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "Bt01"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -101,8 +105,8 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 50.601032258715, 
-      "lon": 4.335903178271, 
+      "lat": 50.601042709659, 
+      "lon": 4.335847858443, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703137", 
@@ -241,6 +245,14 @@
       "street": "Rue Georges Willame"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt04", 
+        "Bt05", 
+        "RDCH"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -278,6 +290,25 @@
     }, 
     {
       "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.60003827983, 
+      "lon": 4.335669055458, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703137", 
+      "street": "Rue Georges Willame"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "Bt01", 
+        "Bt03"
+      ], 
+      "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
@@ -301,6 +332,15 @@
       "street": "Rue Georges Willame"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt04", 
+        "Bt05", 
+        "Bt06", 
+        "Bt07"
+      ], 
       "hnrlbls": [
         "9"
       ], 

@@ -13,6 +13,10 @@
       "street": "Rue de Monceau"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "bte2"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -133,12 +137,40 @@
       "street": "Rue de Monceau"
     }, 
     {
+      "busnrs": [
+        "22  B", 
+        "22 A"
+      ], 
       "hnrlbls": [
         "22"
       ], 
       "housenumber": "22", 
       "lat": 49.940266585146, 
       "lon": 5.017026971108, 
+      "municipality": "Bi\u00e8vre", 
+      "pcode": "5555", 
+      "source": "7748644", 
+      "street": "Rue de Monceau"
+    }, 
+    {
+      "hnrlbls": [
+        "22A"
+      ], 
+      "housenumber": "22A", 
+      "lat": 49.940297875659, 
+      "lon": 5.016954594177, 
+      "municipality": "Bi\u00e8vre", 
+      "pcode": "5555", 
+      "source": "7748644", 
+      "street": "Rue de Monceau"
+    }, 
+    {
+      "hnrlbls": [
+        "22B"
+      ], 
+      "housenumber": "22B", 
+      "lat": 49.940227253844, 
+      "lon": 5.016949214709, 
       "municipality": "Bi\u00e8vre", 
       "pcode": "5555", 
       "source": "7748644", 
@@ -158,11 +190,23 @@
     }, 
     {
       "hnrlbls": [
+        "26"
+      ], 
+      "housenumber": "26", 
+      "lat": 49.939840514686, 
+      "lon": 5.016979732229, 
+      "municipality": "Bi\u00e8vre", 
+      "pcode": "5555", 
+      "source": "7748644", 
+      "street": "Rue de Monceau"
+    }, 
+    {
+      "hnrlbls": [
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 49.93980645583, 
-      "lon": 5.017090200483, 
+      "lat": 49.939785607714, 
+      "lon": 5.017032785162, 
       "municipality": "Bi\u00e8vre", 
       "pcode": "5555", 
       "source": "7748644", 

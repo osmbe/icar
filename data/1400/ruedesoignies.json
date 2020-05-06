@@ -13,6 +13,10 @@
       "street": "Rue de Soignies"
     }, 
     {
+      "busnrs": [
+        "Bt02", 
+        "Bt03"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -38,11 +42,35 @@
     }, 
     {
       "hnrlbls": [
+        "13B"
+      ], 
+      "housenumber": "13B", 
+      "lat": 50.597078951732, 
+      "lon": 4.320813052728, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703052", 
+      "street": "Rue de Soignies"
+    }, 
+    {
+      "hnrlbls": [
         "14"
       ], 
       "housenumber": "14", 
       "lat": 50.597475571415, 
       "lon": 4.320909099367, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703052", 
+      "street": "Rue de Soignies"
+    }, 
+    {
+      "hnrlbls": [
+        "15"
+      ], 
+      "housenumber": "15", 
+      "lat": 50.596981377056, 
+      "lon": 4.320686090831, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703052", 
@@ -61,6 +89,10 @@
       "street": "Rue de Soignies"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -73,6 +105,13 @@
       "street": "Rue de Soignies"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "Bt01", 
+        "Bt03", 
+        "Bt2", 
+        "RDCH"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -97,6 +136,12 @@
       "street": "Rue de Soignies"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "A003", 
+        "Bt02", 
+        "Bt03"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -125,8 +170,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.597071137501, 
-      "lon": 4.320404035321, 
+      "lat": 50.597214469868, 
+      "lon": 4.320453406603, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703052", 
@@ -181,6 +226,9 @@
       "street": "Rue de Soignies"
     }, 
     {
+      "busnrs": [
+        "01Et"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -241,6 +289,14 @@
       "street": "Rue de Soignies"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt04", 
+        "Bt05", 
+        "RDCG"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -301,6 +357,11 @@
       "street": "Rue de Soignies"
     }, 
     {
+      "busnrs": [
+        "A000", 
+        "B000", 
+        "RDCH"
+      ], 
       "hnrlbls": [
         "39"
       ], 
@@ -365,8 +426,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.597693409924, 
-      "lon": 4.321245370476, 
+      "lat": 50.59763822932, 
+      "lon": 4.321252899832, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703052", 

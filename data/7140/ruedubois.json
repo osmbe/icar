@@ -97,6 +97,10 @@
       "street": "Rue du Bois"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "114"
       ], 
@@ -689,8 +693,8 @@
         "222"
       ], 
       "housenumber": "222", 
-      "lat": 50.463945374921, 
-      "lon": 4.219693466503, 
+      "lat": 50.463179406781, 
+      "lon": 4.220498198312, 
       "municipality": "Morlanwelz", 
       "pcode": "7140", 
       "source": "7721732", 
@@ -745,6 +749,10 @@
       "street": "Rue du Bois"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "230"
       ], 
@@ -757,6 +765,9 @@
       "street": "Rue du Bois"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "232"
       ], 
@@ -769,12 +780,46 @@
       "street": "Rue du Bois"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008"
+      ], 
       "hnrlbls": [
         "234"
       ], 
       "housenumber": "234", 
       "lat": 50.46381156595, 
       "lon": 4.219933801879, 
+      "municipality": "Morlanwelz", 
+      "pcode": "7140", 
+      "source": "7721732", 
+      "street": "Rue du Bois"
+    }, 
+    {
+      "hnrlbls": [
+        "236"
+      ], 
+      "housenumber": "236", 
+      "lat": 50.463889009101, 
+      "lon": 4.219793328625, 
+      "municipality": "Morlanwelz", 
+      "pcode": "7140", 
+      "source": "7721732", 
+      "street": "Rue du Bois"
+    }, 
+    {
+      "hnrlbls": [
+        "238"
+      ], 
+      "housenumber": "238", 
+      "lat": 50.463945374921, 
+      "lon": 4.219693466503, 
       "municipality": "Morlanwelz", 
       "pcode": "7140", 
       "source": "7721732", 
@@ -829,6 +874,10 @@
       "street": "Rue du Bois"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "3"
       ], 

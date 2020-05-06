@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A1", 
+        "A2", 
+        "B1"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -97,6 +102,28 @@
       "street": "Rue Mathieu Van Roggen"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8"
+      ], 
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.506923258594, 
+      "lon": 5.661204828497, 
+      "municipality": "Sprimont", 
+      "pcode": "4140", 
+      "source": "7733139", 
+      "street": "Rue Mathieu Van Roggen"
+    }, 
+    {
       "hnrlbls": [
         "20"
       ], 
@@ -109,6 +136,9 @@
       "street": "Rue Mathieu Van Roggen"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -121,6 +151,14 @@
       "street": "Rue Mathieu Van Roggen"
     }, 
     {
+      "busnrs": [
+        "Ap.1", 
+        "Ap.2", 
+        "Ap.4", 
+        "Ap.5", 
+        "Ap.6", 
+        "Ap.C"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -253,12 +291,52 @@
       "street": "Rue Mathieu Van Roggen"
     }, 
     {
+      "busnrs": [
+        "000E", 
+        "A1"
+      ], 
       "hnrlbls": [
         "42"
       ], 
       "housenumber": "42", 
       "lat": 50.506381463866, 
       "lon": 5.655029272639, 
+      "municipality": "Sprimont", 
+      "pcode": "4140", 
+      "source": "7733139", 
+      "street": "Rue Mathieu Van Roggen"
+    }, 
+    {
+      "hnrlbls": [
+        "42B"
+      ], 
+      "housenumber": "42B", 
+      "lat": 50.50629202275, 
+      "lon": 5.653958117841, 
+      "municipality": "Sprimont", 
+      "pcode": "4140", 
+      "source": "7733139", 
+      "street": "Rue Mathieu Van Roggen"
+    }, 
+    {
+      "hnrlbls": [
+        "42C"
+      ], 
+      "housenumber": "42C", 
+      "lat": 50.506233805959, 
+      "lon": 5.653736438869, 
+      "municipality": "Sprimont", 
+      "pcode": "4140", 
+      "source": "7733139", 
+      "street": "Rue Mathieu Van Roggen"
+    }, 
+    {
+      "hnrlbls": [
+        "42D"
+      ], 
+      "housenumber": "42D", 
+      "lat": 50.5062128647, 
+      "lon": 5.653478468414, 
       "municipality": "Sprimont", 
       "pcode": "4140", 
       "source": "7733139", 
@@ -337,6 +415,10 @@
       "street": "Rue Mathieu Van Roggen"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "52"
       ], 
@@ -385,6 +467,9 @@
       "street": "Rue Mathieu Van Roggen"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "7"
       ], 

@@ -1,6 +1,15 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "BTE1", 
+        "BTE2", 
+        "BTE3", 
+        "BTE4", 
+        "BTE5", 
+        "BTE6", 
+        "BTE7"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -41,8 +50,8 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 50.598184972213, 
-      "lon": 3.623183882465, 
+      "lat": 50.598201097541, 
+      "lon": 3.62317430272, 
       "municipality": "Leuze-en-Hainaut", 
       "pcode": "7900", 
       "source": "7724242", 
@@ -65,8 +74,20 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 50.598184972213, 
-      "lon": 3.623183882465, 
+      "lat": 50.598169094987, 
+      "lon": 3.623191626233, 
+      "municipality": "Leuze-en-Hainaut", 
+      "pcode": "7900", 
+      "source": "7724242", 
+      "street": "Rue de la Bonneterie"
+    }, 
+    {
+      "hnrlbls": [
+        "14"
+      ], 
+      "housenumber": "14", 
+      "lat": 50.598716496393, 
+      "lon": 3.623058926408, 
       "municipality": "Leuze-en-Hainaut", 
       "pcode": "7900", 
       "source": "7724242", 
@@ -125,8 +146,8 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 50.598000358085, 
-      "lon": 3.623181975616, 
+      "lat": 50.598018012969, 
+      "lon": 3.623264666687, 
       "municipality": "Leuze-en-Hainaut", 
       "pcode": "7900", 
       "source": "7724242", 
@@ -205,12 +226,18 @@
       "street": "Rue de la Bonneterie"
     }, 
     {
+      "busnrs": [
+        "BTE1", 
+        "BTE2", 
+        "BTE3", 
+        "BTE4"
+      ], 
       "hnrlbls": [
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.597747891726, 
-      "lon": 3.623224983033, 
+      "lat": 50.597754566361, 
+      "lon": 3.623376238346, 
       "municipality": "Leuze-en-Hainaut", 
       "pcode": "7900", 
       "source": "7724242", 
@@ -245,8 +272,8 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 50.598331620524, 
-      "lon": 3.623390146946, 
+      "lat": 50.598332747486, 
+      "lon": 3.623343037858, 
       "municipality": "Leuze-en-Hainaut", 
       "pcode": "7900", 
       "source": "7724242", 
@@ -269,8 +296,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.598877644429, 
-      "lon": 3.622550407463, 
+      "lat": 50.598868474628, 
+      "lon": 3.622604370594, 
       "municipality": "Leuze-en-Hainaut", 
       "pcode": "7900", 
       "source": "7724242", 
@@ -317,8 +344,8 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 50.597387805126, 
-      "lon": 3.623225135398, 
+      "lat": 50.597404359934, 
+      "lon": 3.623508161297, 
       "municipality": "Leuze-en-Hainaut", 
       "pcode": "7900", 
       "source": "7724242", 
@@ -373,6 +400,11 @@
       "street": "Rue de la Bonneterie"
     }, 
     {
+      "busnrs": [
+        "BTE1", 
+        "BTE2", 
+        "BTE3"
+      ], 
       "hnrlbls": [
         "38"
       ], 
@@ -391,6 +423,18 @@
       "housenumber": "39", 
       "lat": 50.59722535181, 
       "lon": 3.623566754463, 
+      "municipality": "Leuze-en-Hainaut", 
+      "pcode": "7900", 
+      "source": "7724242", 
+      "street": "Rue de la Bonneterie"
+    }, 
+    {
+      "hnrlbls": [
+        "3B"
+      ], 
+      "housenumber": "3B", 
+      "lat": 50.598531036113, 
+      "lon": 3.622366098143, 
       "municipality": "Leuze-en-Hainaut", 
       "pcode": "7900", 
       "source": "7724242", 
@@ -425,8 +469,8 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 50.597158447478, 
-      "lon": 3.623533413903, 
+      "lat": 50.597168290298, 
+      "lon": 3.623584833714, 
       "municipality": "Leuze-en-Hainaut", 
       "pcode": "7900", 
       "source": "7724242", 
@@ -473,8 +517,8 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 50.597046822706, 
-      "lon": 3.623601235265, 
+      "lat": 50.597046557013, 
+      "lon": 3.623634126772, 
       "municipality": "Leuze-en-Hainaut", 
       "pcode": "7900", 
       "source": "7724242", 
@@ -533,8 +577,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.598348459058, 
-      "lon": 3.622605976937, 
+      "lat": 50.59828628021, 
+      "lon": 3.622591260199, 
       "municipality": "Leuze-en-Hainaut", 
       "pcode": "7900", 
       "source": "7724242", 
@@ -547,6 +591,24 @@
       "housenumber": "50", 
       "lat": 50.5977375849, 
       "lon": 3.623604676638, 
+      "municipality": "Leuze-en-Hainaut", 
+      "pcode": "7900", 
+      "source": "7724242", 
+      "street": "Rue de la Bonneterie"
+    }, 
+    {
+      "busnrs": [
+        "BTE1", 
+        "BTE2", 
+        "BTE3", 
+        "BTE4"
+      ], 
+      "hnrlbls": [
+        "52"
+      ], 
+      "housenumber": "52", 
+      "lat": 50.597671058874, 
+      "lon": 3.62365019506, 
       "municipality": "Leuze-en-Hainaut", 
       "pcode": "7900", 
       "source": "7724242", 
@@ -649,6 +711,20 @@
       "street": "Rue de la Bonneterie"
     }, 
     {
+      "busnrs": [
+        "AP13", 
+        "BTE1", 
+        "BTE10", 
+        "BTE11", 
+        "BTE12", 
+        "BTE2", 
+        "BTE3", 
+        "BTE4", 
+        "BTE5", 
+        "BTE6", 
+        "BTE7", 
+        "BTE8"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -749,8 +825,8 @@
         "82"
       ], 
       "housenumber": "82", 
-      "lat": 50.596984753262, 
-      "lon": 3.624001583776, 
+      "lat": 50.596976821286, 
+      "lon": 3.623921581689, 
       "municipality": "Leuze-en-Hainaut", 
       "pcode": "7900", 
       "source": "7724242", 
@@ -761,8 +837,8 @@
         "84"
       ], 
       "housenumber": "84", 
-      "lat": 50.59694555843, 
-      "lon": 3.623962707357, 
+      "lat": 50.596942144715, 
+      "lon": 3.623934656586, 
       "municipality": "Leuze-en-Hainaut", 
       "pcode": "7900", 
       "source": "7724242", 
@@ -785,8 +861,8 @@
         "88"
       ], 
       "housenumber": "88", 
-      "lat": 50.596869653702, 
-      "lon": 3.6239531675, 
+      "lat": 50.596864718168, 
+      "lon": 3.623955039084, 
       "municipality": "Leuze-en-Hainaut", 
       "pcode": "7900", 
       "source": "7724242", 
@@ -821,8 +897,8 @@
         "92"
       ], 
       "housenumber": "92", 
-      "lat": 50.59679632756, 
-      "lon": 3.624016655494, 
+      "lat": 50.596795108606, 
+      "lon": 3.623974818191, 
       "municipality": "Leuze-en-Hainaut", 
       "pcode": "7900", 
       "source": "7724242", 
@@ -845,8 +921,8 @@
         "96"
       ], 
       "housenumber": "96", 
-      "lat": 50.596723194728, 
-      "lon": 3.624037158059, 
+      "lat": 50.596724417299, 
+      "lon": 3.624004998925, 
       "municipality": "Leuze-en-Hainaut", 
       "pcode": "7900", 
       "source": "7724242", 

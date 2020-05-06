@@ -97,6 +97,13 @@
       "street": "Rue Castelain"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "02Et", 
+        "RDCH"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -145,6 +152,11 @@
       "street": "Rue Castelain"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "2Et", 
+        "Bt02"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -157,12 +169,28 @@
       "street": "Rue Castelain"
     }, 
     {
+      "busnrs": [
+        "BBt1", 
+        "BBt2"
+      ], 
       "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
       "lat": 50.600185065677, 
       "lon": 4.332062600981, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7702980", 
+      "street": "Rue Castelain"
+    }, 
+    {
+      "hnrlbls": [
+        "5A"
+      ], 
+      "housenumber": "5A", 
+      "lat": 50.600254818659, 
+      "lon": 4.33206299561, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702980", 
@@ -199,6 +227,18 @@
       "housenumber": "7", 
       "lat": 50.600348376956, 
       "lon": 4.331998319385, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7702980", 
+      "street": "Rue Castelain"
+    }, 
+    {
+      "hnrlbls": [
+        "7A"
+      ], 
+      "housenumber": "7A", 
+      "lat": 50.600397510619, 
+      "lon": 4.331979171728, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702980", 

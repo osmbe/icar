@@ -205,6 +205,10 @@
       "street": "Rue Haut-Douy"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "11"
+      ], 
       "hnrlbls": [
         "168"
       ], 
@@ -385,6 +389,10 @@
       "street": "Rue Haut-Douy"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "11"
+      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -433,6 +441,10 @@
       "street": "Rue Haut-Douy"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "11"
+      ], 
       "hnrlbls": [
         "47"
       ], 
@@ -457,6 +469,10 @@
       "street": "Rue Haut-Douy"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "11"
+      ], 
       "hnrlbls": [
         "49"
       ], 
@@ -602,11 +618,35 @@
     }, 
     {
       "hnrlbls": [
+        "77"
+      ], 
+      "housenumber": "77", 
+      "lat": 50.656128255927, 
+      "lon": 5.546982472201, 
+      "municipality": "Ans", 
+      "pcode": "4430", 
+      "source": "7727086", 
+      "street": "Rue Haut-Douy"
+    }, 
+    {
+      "hnrlbls": [
         "78"
       ], 
       "housenumber": "78", 
       "lat": 50.65534280874, 
       "lon": 5.547566895934, 
+      "municipality": "Ans", 
+      "pcode": "4430", 
+      "source": "7727086", 
+      "street": "Rue Haut-Douy"
+    }, 
+    {
+      "hnrlbls": [
+        "79"
+      ], 
+      "housenumber": "79", 
+      "lat": 50.65617664272, 
+      "lon": 5.546961227555, 
       "municipality": "Ans", 
       "pcode": "4430", 
       "source": "7727086", 
@@ -625,6 +665,11 @@
       "street": "Rue Haut-Douy"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "11", 
+        "21"
+      ], 
       "hnrlbls": [
         "85"
       ], 

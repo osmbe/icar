@@ -73,6 +73,9 @@
       "street": "Rue Carl Jost"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -229,6 +232,11 @@
       "street": "Rue Carl Jost"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "011", 
+        "021"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -337,6 +345,9 @@
       "street": "Rue Carl Jost"
     }, 
     {
+      "busnrs": [
+        "011"
+      ], 
       "hnrlbls": [
         "43"
       ], 
@@ -373,6 +384,9 @@
       "street": "Rue Carl Jost"
     }, 
     {
+      "busnrs": [
+        "3"
+      ], 
       "hnrlbls": [
         "48"
       ], 
@@ -397,6 +411,10 @@
       "street": "Rue Carl Jost"
     }, 
     {
+      "busnrs": [
+        "011", 
+        "021"
+      ], 
       "hnrlbls": [
         "50"
       ], 
@@ -409,6 +427,15 @@
       "street": "Rue Carl Jost"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "011", 
+        "012", 
+        "021", 
+        "022", 
+        "031", 
+        "032"
+      ], 
       "hnrlbls": [
         "52"
       ], 
@@ -421,6 +448,11 @@
       "street": "Rue Carl Jost"
     }, 
     {
+      "busnrs": [
+        "A001", 
+        "A011", 
+        "A021"
+      ], 
       "hnrlbls": [
         "53"
       ], 
@@ -487,18 +519,6 @@
       "housenumber": "67", 
       "lat": 50.625713141629, 
       "lon": 5.706859507802, 
-      "municipality": "Fl\u00e9ron", 
-      "pcode": "4621", 
-      "source": "7728874", 
-      "street": "Rue Carl Jost"
-    }, 
-    {
-      "hnrlbls": [
-        "8"
-      ], 
-      "housenumber": "8", 
-      "lat": 50.624004890695, 
-      "lon": 5.708239127734, 
       "municipality": "Fl\u00e9ron", 
       "pcode": "4621", 
       "source": "7728874", 

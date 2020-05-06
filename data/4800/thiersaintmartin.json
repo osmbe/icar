@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "2\u00e9t."
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -25,6 +28,11 @@
       "street": "Thier Saint-Martin"
     }, 
     {
+      "busnrs": [
+        "3\u00e9t.", 
+        "rez.", 
+        "rezG"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -37,6 +45,18 @@
       "street": "Thier Saint-Martin"
     }, 
     {
+      "busnrs": [
+        "10", 
+        "12", 
+        "1\u00e9t.", 
+        "2", 
+        "2\u00e9t.", 
+        "4", 
+        "5", 
+        "bt11", 
+        "bte6", 
+        "bte8"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -49,12 +69,39 @@
       "street": "Thier Saint-Martin"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t."
+      ], 
+      "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 50.613868898475, 
+      "lon": 5.833137872816, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7739134", 
+      "street": "Thier Saint-Martin"
+    }, 
+    {
       "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
       "lat": 50.61387360132, 
       "lon": 5.833434312391, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7739134", 
+      "street": "Thier Saint-Martin"
+    }, 
+    {
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 50.613946021715, 
+      "lon": 5.833529195061, 
       "municipality": "Verviers", 
       "pcode": "4800", 
       "source": "7739134", 

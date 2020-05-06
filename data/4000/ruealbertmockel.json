@@ -1,12 +1,33 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
       "lat": 50.623223918399, 
       "lon": 5.567073527436, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730164", 
+      "street": "Rue Albert-Mockel"
+    }, 
+    {
+      "hnrlbls": [
+        "10"
+      ], 
+      "housenumber": "10", 
+      "lat": 50.622990229715, 
+      "lon": 5.566602489923, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730164", 
@@ -25,6 +46,13 @@
       "street": "Rue Albert-Mockel"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "103"
       ], 
@@ -37,6 +65,15 @@
       "street": "Rue Albert-Mockel"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -73,6 +110,12 @@
       "street": "Rue Albert-Mockel"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "115"
       ], 
@@ -85,6 +128,23 @@
       "street": "Rue Albert-Mockel"
     }, 
     {
+      "hnrlbls": [
+        "12"
+      ], 
+      "housenumber": "12", 
+      "lat": 50.622837924259, 
+      "lon": 5.566552096253, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730164", 
+      "street": "Rue Albert-Mockel"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -181,6 +241,11 @@
       "street": "Rue Albert-Mockel"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -193,6 +258,12 @@
       "street": "Rue Albert-Mockel"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -211,6 +282,18 @@
       "housenumber": "31", 
       "lat": 50.622372897543, 
       "lon": 5.567152032683, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730164", 
+      "street": "Rue Albert-Mockel"
+    }, 
+    {
+      "hnrlbls": [
+        "43"
+      ], 
+      "housenumber": "43", 
+      "lat": 50.621874269707, 
+      "lon": 5.566935397846, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730164", 
@@ -253,6 +336,15 @@
       "street": "Rue Albert-Mockel"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -271,6 +363,18 @@
       "housenumber": "51", 
       "lat": 50.62158665754, 
       "lon": 5.566554831672, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730164", 
+      "street": "Rue Albert-Mockel"
+    }, 
+    {
+      "hnrlbls": [
+        "53"
+      ], 
+      "housenumber": "53", 
+      "lat": 50.621576481404, 
+      "lon": 5.566471468481, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730164", 
@@ -313,6 +417,63 @@
       "street": "Rue Albert-Mockel"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0031"
+      ], 
+      "hnrlbls": [
+        "65"
+      ], 
+      "housenumber": "65", 
+      "lat": 50.621413053007, 
+      "lon": 5.566223237177, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730164", 
+      "street": "Rue Albert-Mockel"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0022", 
+        "0031", 
+        "0032"
+      ], 
+      "hnrlbls": [
+        "67"
+      ], 
+      "housenumber": "67", 
+      "lat": 50.621181140428, 
+      "lon": 5.566059766983, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730164", 
+      "street": "Rue Albert-Mockel"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -349,6 +510,11 @@
       "street": "Rue Albert-Mockel"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "81"
       ], 
@@ -409,6 +575,14 @@
       "street": "Rue Albert-Mockel"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "9"
       ], 

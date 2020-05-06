@@ -145,6 +145,11 @@
       "street": "Chauss\u00e9e de Mons"
     }, 
     {
+      "busnrs": [
+        "B000", 
+        "C000", 
+        "D000"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -361,6 +366,9 @@
       "street": "Chauss\u00e9e de Mons"
     }, 
     {
+      "busnrs": [
+        "A001"
+      ], 
       "hnrlbls": [
         "45"
       ], 
@@ -607,6 +615,18 @@
       "housenumber": "59", 
       "lat": 50.494594552675, 
       "lon": 4.22708023141, 
+      "municipality": "Manage", 
+      "pcode": "7170", 
+      "source": "7710637", 
+      "street": "Chauss\u00e9e de Mons"
+    }, 
+    {
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.499467699297, 
+      "lon": 4.231353611338, 
       "municipality": "Manage", 
       "pcode": "7170", 
       "source": "7710637", 
@@ -949,6 +969,13 @@
       "street": "Chauss\u00e9e de Mons"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005"
+      ], 
       "hnrlbls": [
         "86"
       ], 

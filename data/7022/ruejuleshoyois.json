@@ -13,6 +13,12 @@
       "street": "Rue Jules Hoyois"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "1-1", 
+        "1-2"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -49,6 +55,10 @@
       "street": "Rue Jules Hoyois"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -133,6 +143,12 @@
       "street": "Rue Jules Hoyois"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "1-1", 
+        "1-2"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -199,6 +215,18 @@
       "housenumber": "30", 
       "lat": 50.442132672863, 
       "lon": 3.962570037684, 
+      "municipality": "Mons", 
+      "pcode": "7022", 
+      "source": "7714069", 
+      "street": "Rue Jules Hoyois"
+    }, 
+    {
+      "hnrlbls": [
+        "30A"
+      ], 
+      "housenumber": "30A", 
+      "lat": 50.442090156484, 
+      "lon": 3.962928344021, 
       "municipality": "Mons", 
       "pcode": "7022", 
       "source": "7714069", 

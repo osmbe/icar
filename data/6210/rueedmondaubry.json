@@ -2,6 +2,18 @@
   "addresses": [
     {
       "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.523503056619, 
+      "lon": 4.479406865256, 
+      "municipality": "Les Bons Villers", 
+      "pcode": "6210", 
+      "source": "7711837", 
+      "street": "Rue Edmond Aubry"
+    }, 
+    {
+      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -146,18 +158,6 @@
     }, 
     {
       "hnrlbls": [
-        "2"
-      ], 
-      "housenumber": "2", 
-      "lat": 50.523158264906, 
-      "lon": 4.477853772547, 
-      "municipality": "Les Bons Villers", 
-      "pcode": "6210", 
-      "source": "7711837", 
-      "street": "Rue Edmond Aubry"
-    }, 
-    {
-      "hnrlbls": [
         "20"
       ], 
       "housenumber": "20", 
@@ -205,6 +205,9 @@
       "street": "Rue Edmond Aubry"
     }, 
     {
+      "busnrs": [
+        "B001"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -307,6 +310,18 @@
       "housenumber": "29", 
       "lat": 50.518791612939, 
       "lon": 4.480377946601, 
+      "municipality": "Les Bons Villers", 
+      "pcode": "6210", 
+      "source": "7711837", 
+      "street": "Rue Edmond Aubry"
+    }, 
+    {
+      "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 50.523307277611, 
+      "lon": 4.479427276213, 
       "municipality": "Les Bons Villers", 
       "pcode": "6210", 
       "source": "7711837", 
@@ -493,6 +508,26 @@
       "street": "Rue Edmond Aubry"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008", 
+        "0009", 
+        "0010", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0015", 
+        "0016", 
+        "0017", 
+        "0018"
+      ], 
       "hnrlbls": [
         "6"
       ], 

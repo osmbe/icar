@@ -553,6 +553,9 @@
       "street": "Rue de Bruxelles"
     }, 
     {
+      "busnrs": [
+        "0066"
+      ], 
       "hnrlbls": [
         "64"
       ], 
@@ -614,11 +617,11 @@
     }, 
     {
       "hnrlbls": [
-        "7-9"
+        "7"
       ], 
-      "housenumber": "7-9", 
-      "lat": 50.744684255637, 
-      "lon": 3.212396041301, 
+      "housenumber": "7", 
+      "lat": 50.744653608508, 
+      "lon": 3.212348061503, 
       "municipality": "Mouscron", 
       "pcode": "7700", 
       "source": "7715720", 

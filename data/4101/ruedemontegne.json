@@ -265,12 +265,28 @@
       "street": "Rue de Montegn\u00e9e"
     }, 
     {
+      "busnrs": [
+        "A1", 
+        "A11"
+      ], 
       "hnrlbls": [
         "176"
       ], 
       "housenumber": "176", 
       "lat": 50.627062916916, 
       "lon": 5.520279815426, 
+      "municipality": "Seraing", 
+      "pcode": "4101", 
+      "source": "7732292", 
+      "street": "Rue de Montegn\u00e9e"
+    }, 
+    {
+      "hnrlbls": [
+        "176B"
+      ], 
+      "housenumber": "176B", 
+      "lat": 50.627297604676, 
+      "lon": 5.520550661506, 
       "municipality": "Seraing", 
       "pcode": "4101", 
       "source": "7732292", 
@@ -469,6 +485,9 @@
       "street": "Rue de Montegn\u00e9e"
     }, 
     {
+      "busnrs": [
+        "5"
+      ], 
       "hnrlbls": [
         "208"
       ], 
@@ -665,8 +684,8 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 50.625733568468, 
-      "lon": 5.516261638896, 
+      "lat": 50.625748116538, 
+      "lon": 5.516083345425, 
       "municipality": "Seraing", 
       "pcode": "4101", 
       "source": "7732292", 

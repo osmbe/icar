@@ -217,6 +217,13 @@
       "street": "Rue de la Franco-Belge"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "141"
       ], 
@@ -265,6 +272,9 @@
       "street": "Rue de la Franco-Belge"
     }, 
     {
+      "busnrs": [
+        "A000"
+      ], 
       "hnrlbls": [
         "1A"
       ], 
@@ -325,6 +335,9 @@
       "street": "Rue de la Franco-Belge"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -341,8 +354,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 50.486838363047, 
-      "lon": 4.207705104661, 
+      "lat": 50.486771287444, 
+      "lon": 4.207705599462, 
       "municipality": "La Louvi\u00e8re", 
       "pcode": "7100", 
       "source": "7717254", 
@@ -409,6 +422,9 @@
       "street": "Rue de la Franco-Belge"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -541,6 +557,17 @@
       "street": "Rue de la Franco-Belge"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0010", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "49"
       ], 
@@ -919,18 +946,6 @@
       "housenumber": "9", 
       "lat": 50.487129422379, 
       "lon": 4.207222905821, 
-      "municipality": "La Louvi\u00e8re", 
-      "pcode": "7100", 
-      "source": "7717254", 
-      "street": "Rue de la Franco-Belge"
-    }, 
-    {
-      "hnrlbls": [
-        "90"
-      ], 
-      "housenumber": "90", 
-      "lat": 50.484633166429, 
-      "lon": 4.211061641169, 
       "municipality": "La Louvi\u00e8re", 
       "pcode": "7100", 
       "source": "7717254", 

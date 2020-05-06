@@ -109,6 +109,10 @@
       "street": "Rue de Nieuport"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "154"
       ], 
@@ -181,6 +185,11 @@
       "street": "Rue de Nieuport"
     }, 
     {
+      "busnrs": [
+        "A002", 
+        "B000", 
+        "C000"
+      ], 
       "hnrlbls": [
         "174"
       ], 
@@ -277,6 +286,13 @@
       "street": "Rue de Nieuport"
     }, 
     {
+      "busnrs": [
+        "A001", 
+        "A011", 
+        "A021", 
+        "A022", 
+        "B000"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -365,8 +381,8 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 50.75077304962, 
-      "lon": 3.204384464808, 
+      "lat": 50.750711644184, 
+      "lon": 3.204400040642, 
       "municipality": "Mouscron", 
       "pcode": "7700", 
       "source": "7715826", 

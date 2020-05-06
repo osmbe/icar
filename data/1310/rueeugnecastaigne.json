@@ -37,6 +37,9 @@
       "street": "Rue Eug\u00e8ne Castaigne"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -73,6 +76,10 @@
       "street": "Rue Eug\u00e8ne Castaigne"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -593,8 +600,8 @@
         "68"
       ], 
       "housenumber": "68", 
-      "lat": 50.731706857993, 
-      "lon": 4.482098227374, 
+      "lat": 50.731699197618, 
+      "lon": 4.482274431865, 
       "municipality": "La Hulpe", 
       "pcode": "1310", 
       "source": "7702634", 

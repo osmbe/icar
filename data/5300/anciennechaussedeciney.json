@@ -13,6 +13,10 @@
       "street": "Ancienne Chauss\u00e9e de Ciney"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "RC00"
+      ], 
       "hnrlbls": [
         "100"
       ], 
@@ -253,6 +257,9 @@
       "street": "Ancienne Chauss\u00e9e de Ciney"
     }, 
     {
+      "busnrs": [
+        "RC00"
+      ], 
       "hnrlbls": [
         "41"
       ], 
@@ -289,6 +296,11 @@
       "street": "Ancienne Chauss\u00e9e de Ciney"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0004"
+      ], 
       "hnrlbls": [
         "44"
       ], 
@@ -425,8 +437,8 @@
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 50.480285771753, 
-      "lon": 5.101620748532, 
+      "lat": 50.480289789525, 
+      "lon": 5.101541046095, 
       "municipality": "Andenne", 
       "pcode": "5300", 
       "source": "7751420", 

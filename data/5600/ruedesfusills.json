@@ -97,12 +97,16 @@
       "street": "Rue des Fusill\u00e9s"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.180103526497, 
-      "lon": 4.69472569692, 
+      "lat": 50.18021101597, 
+      "lon": 4.694525492692, 
       "municipality": "Philippeville", 
       "pcode": "5600", 
       "source": "7757575", 
@@ -170,6 +174,18 @@
     }, 
     {
       "hnrlbls": [
+        "41"
+      ], 
+      "housenumber": "41", 
+      "lat": 50.179111413662, 
+      "lon": 4.694930667052, 
+      "municipality": "Philippeville", 
+      "pcode": "5600", 
+      "source": "7757575", 
+      "street": "Rue des Fusill\u00e9s"
+    }, 
+    {
+      "hnrlbls": [
         "49"
       ], 
       "housenumber": "49", 
@@ -197,8 +213,8 @@
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 50.177526315544, 
-      "lon": 4.695559891485, 
+      "lat": 50.177541985976, 
+      "lon": 4.695524438615, 
       "municipality": "Philippeville", 
       "pcode": "5600", 
       "source": "7757575", 

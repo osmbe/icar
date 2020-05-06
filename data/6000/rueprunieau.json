@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "011", 
+        "021", 
+        "031", 
+        "041"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -25,6 +31,9 @@
       "street": "Rue Prunieau"
     }, 
     {
+      "busnrs": [
+        "001"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -37,6 +46,11 @@
       "street": "Rue Prunieau"
     }, 
     {
+      "busnrs": [
+        "00O3", 
+        "021", 
+        "041"
+      ], 
       "hnrlbls": [
         "6"
       ], 

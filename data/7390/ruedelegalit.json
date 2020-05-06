@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "100"
       ], 
@@ -13,6 +16,11 @@
       "street": "Rue de l'Egalit\u00e9"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -37,6 +45,10 @@
       "street": "Rue de l'Egalit\u00e9"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -181,6 +193,9 @@
       "street": "Rue de l'Egalit\u00e9"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -193,6 +208,10 @@
       "street": "Rue de l'Egalit\u00e9"
     }, 
     {
+      "busnrs": [
+        "2", 
+        "4"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -209,8 +228,8 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 50.44088511158, 
-      "lon": 3.863588749438, 
+      "lat": 50.440811085989, 
+      "lon": 3.863556115564, 
       "municipality": "Quaregnon", 
       "pcode": "7390", 
       "source": "7714368", 
@@ -221,8 +240,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 50.440858659514, 
-      "lon": 3.863302428351, 
+      "lat": 50.440807395099, 
+      "lon": 3.863314729291, 
       "municipality": "Quaregnon", 
       "pcode": "7390", 
       "source": "7714368", 
@@ -245,8 +264,8 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 50.440842197822, 
-      "lon": 3.863120207431, 
+      "lat": 50.440798473752, 
+      "lon": 3.863115323366, 
       "municipality": "Quaregnon", 
       "pcode": "7390", 
       "source": "7714368", 
@@ -265,6 +284,11 @@
       "street": "Rue de l'Egalit\u00e9"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -281,8 +305,8 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 50.440835871981, 
-      "lon": 3.863060977749, 
+      "lat": 50.440776416375, 
+      "lon": 3.863010986105, 
       "municipality": "Quaregnon", 
       "pcode": "7390", 
       "source": "7714368", 
@@ -493,6 +517,11 @@
       "street": "Rue de l'Egalit\u00e9"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "63"
       ], 
@@ -509,8 +538,8 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 50.440580468481, 
-      "lon": 3.862148723416, 
+      "lat": 50.4405923348, 
+      "lon": 3.86220424734, 
       "municipality": "Quaregnon", 
       "pcode": "7390", 
       "source": "7714368", 

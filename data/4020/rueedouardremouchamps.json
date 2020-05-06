@@ -1,6 +1,14 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -25,6 +33,12 @@
       "street": "Rue Edouard-Remouchamps"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -37,6 +51,10 @@
       "street": "Rue Edouard-Remouchamps"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -61,6 +79,10 @@
       "street": "Rue Edouard-Remouchamps"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -85,6 +107,14 @@
       "street": "Rue Edouard-Remouchamps"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0032", 
+        "0041"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -122,6 +152,27 @@
     }, 
     {
       "hnrlbls": [
+        "27"
+      ], 
+      "housenumber": "27", 
+      "lat": 50.634320913562, 
+      "lon": 5.582675631616, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730909", 
+      "street": "Rue Edouard-Remouchamps"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0031"
+      ], 
+      "hnrlbls": [
         "29"
       ], 
       "housenumber": "29", 
@@ -158,6 +209,24 @@
     }, 
     {
       "hnrlbls": [
+        "33"
+      ], 
+      "housenumber": "33", 
+      "lat": 50.63422893991, 
+      "lon": 5.582436507825, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730909", 
+      "street": "Rue Edouard-Remouchamps"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
+      "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
@@ -169,6 +238,15 @@
       "street": "Rue Edouard-Remouchamps"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -181,6 +259,11 @@
       "street": "Rue Edouard-Remouchamps"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "9"
       ], 

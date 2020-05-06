@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1", 
+        "rez"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -145,6 +149,11 @@
       "street": "Rue de Verviers"
     }, 
     {
+      "busnrs": [
+        "/rez1", 
+        "/rez2", 
+        "/rez3"
+      ], 
       "hnrlbls": [
         "126"
       ], 
@@ -169,6 +178,16 @@
       "street": "Rue de Verviers"
     }, 
     {
+      "busnrs": [
+        "/11", 
+        "/12", 
+        "/2", 
+        "/4", 
+        "/5", 
+        "/6", 
+        "/rez1", 
+        "/rez2"
+      ], 
       "hnrlbls": [
         "130"
       ], 
@@ -193,6 +212,9 @@
       "street": "Rue de Verviers"
     }, 
     {
+      "busnrs": [
+        "000B"
+      ], 
       "hnrlbls": [
         "134"
       ], 
@@ -221,8 +243,8 @@
         "138"
       ], 
       "housenumber": "138", 
-      "lat": 50.626646318169, 
-      "lon": 5.825041712653, 
+      "lat": 50.626405662352, 
+      "lon": 5.825018766856, 
       "municipality": "Herve", 
       "pcode": "4651", 
       "source": "7736089", 
@@ -241,6 +263,10 @@
       "street": "Rue de Verviers"
     }, 
     {
+      "busnrs": [
+        "/1", 
+        "/rez"
+      ], 
       "hnrlbls": [
         "140"
       ], 
@@ -433,6 +459,14 @@
       "street": "Rue de Verviers"
     }, 
     {
+      "busnrs": [
+        "11", 
+        "12", 
+        "21", 
+        "22", 
+        "rez1", 
+        "rez2"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -457,6 +491,14 @@
       "street": "Rue de Verviers"
     }, 
     {
+      "busnrs": [
+        "10", 
+        "11", 
+        "12", 
+        "20", 
+        "21", 
+        "22"
+      ], 
       "hnrlbls": [
         "18B"
       ], 
@@ -553,6 +595,18 @@
       "street": "Rue de Verviers"
     }, 
     {
+      "busnrs": [
+        "11", 
+        "12", 
+        "13", 
+        "21", 
+        "22", 
+        "23", 
+        "31", 
+        "32", 
+        "33", 
+        "rez1"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -625,6 +679,19 @@
       "street": "Rue de Verviers"
     }, 
     {
+      "busnrs": [
+        "11", 
+        "12", 
+        "13", 
+        "14", 
+        "15", 
+        "16", 
+        "17", 
+        "21", 
+        "22", 
+        "23", 
+        "24"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -733,6 +800,22 @@
       "street": "Rue de Verviers"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "10", 
+        "11", 
+        "12", 
+        "14", 
+        "15", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -757,6 +840,10 @@
       "street": "Rue de Verviers"
     }, 
     {
+      "busnrs": [
+        "B/1", 
+        "B/2"
+      ], 
       "hnrlbls": [
         "42"
       ], 
@@ -781,6 +868,11 @@
       "street": "Rue de Verviers"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "rez"
+      ], 
       "hnrlbls": [
         "44"
       ], 
@@ -865,6 +957,10 @@
       "street": "Rue de Verviers"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "5"
       ], 

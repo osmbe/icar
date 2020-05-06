@@ -25,6 +25,10 @@
       "street": "Rue des Canonniers"
     }, 
     {
+      "busnrs": [
+        "A000", 
+        "B000"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -53,14 +57,18 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 50.600374671809, 
-      "lon": 4.324730482128, 
+      "lat": 50.600397261337, 
+      "lon": 4.324711775015, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703065", 
       "street": "Rue des Canonniers"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -73,12 +81,42 @@
       "street": "Rue des Canonniers"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "0R01", 
+        "A101", 
+        "A102", 
+        "A201", 
+        "AR01", 
+        "AR02"
+      ], 
       "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
       "lat": 50.599956322639, 
       "lon": 4.324544257776, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703065", 
+      "street": "Rue des Canonniers"
+    }, 
+    {
+      "busnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "R01", 
+        "R02"
+      ], 
+      "hnrlbls": [
+        "3A"
+      ], 
+      "housenumber": "3A", 
+      "lat": 50.600095116758, 
+      "lon": 4.324514006469, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703065", 
@@ -97,6 +135,15 @@
       "street": "Rue des Canonniers"
     }, 
     {
+      "busnrs": [
+        "01AR", 
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt04", 
+        "Bt06", 
+        "Bt07"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -109,6 +156,10 @@
       "street": "Rue des Canonniers"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02"
+      ], 
       "hnrlbls": [
         "7"
       ], 

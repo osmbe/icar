@@ -13,6 +13,11 @@
       "street": "Rue du Brasseur"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2", 
+        "Bte3"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -269,8 +274,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 50.740103441532, 
-      "lon": 4.982321783536, 
+      "lat": 50.740200676946, 
+      "lon": 4.982422012778, 
       "municipality": "H\u00e9l\u00e9cine", 
       "pcode": "1357", 
       "source": "7705410", 
@@ -313,6 +318,21 @@
       "street": "Rue du Brasseur"
     }, 
     {
+      "hnrlbls": [
+        "31"
+      ], 
+      "housenumber": "31", 
+      "lat": 50.740031602801, 
+      "lon": 4.982272285836, 
+      "municipality": "H\u00e9l\u00e9cine", 
+      "pcode": "1357", 
+      "source": "7705410", 
+      "street": "Rue du Brasseur"
+    }, 
+    {
+      "busnrs": [
+        "Bte1"
+      ], 
       "hnrlbls": [
         "32"
       ], 

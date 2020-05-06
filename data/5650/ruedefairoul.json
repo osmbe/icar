@@ -121,10 +121,14 @@
       "street": "Rue de Fairoul"
     }, 
     {
-      "hnrlbls": [
-        "118000A"
+      "busnrs": [
+        "000A", 
+        "000B"
       ], 
-      "housenumber": "118000A", 
+      "hnrlbls": [
+        "118"
+      ], 
+      "housenumber": "118", 
       "lat": 50.25706820016, 
       "lon": 4.494952681242, 
       "municipality": "Walcourt", 

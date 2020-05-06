@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -209,8 +213,8 @@
         "115"
       ], 
       "housenumber": "115", 
-      "lat": 50.441484220267, 
-      "lon": 4.66640182322, 
+      "lat": 50.441530958322, 
+      "lon": 4.666364402012, 
       "municipality": "Jemeppe-sur-Sambre", 
       "pcode": "5190", 
       "source": "7755865", 
@@ -221,8 +225,8 @@
         "117"
       ], 
       "housenumber": "117", 
-      "lat": 50.441519606085, 
-      "lon": 4.666303808798, 
+      "lat": 50.441468681509, 
+      "lon": 4.666308528462, 
       "municipality": "Jemeppe-sur-Sambre", 
       "pcode": "5190", 
       "source": "7755865", 
@@ -745,6 +749,9 @@
       "street": "Rue du Baty"
     }, 
     {
+      "busnrs": [
+        "000C"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -961,6 +968,10 @@
       "street": "Rue du Baty"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "56"
       ], 
@@ -1349,8 +1360,8 @@
         "88"
       ], 
       "housenumber": "88", 
-      "lat": 50.441479256627, 
-      "lon": 4.666822361119, 
+      "lat": 50.44152084788, 
+      "lon": 4.666804166762, 
       "municipality": "Jemeppe-sur-Sambre", 
       "pcode": "5190", 
       "source": "7755865", 
@@ -1429,6 +1440,11 @@
       "street": "Rue du Baty"
     }, 
     {
+      "busnrs": [
+        "A/0", 
+        "A/01", 
+        "A/02"
+      ], 
       "hnrlbls": [
         "95"
       ], 

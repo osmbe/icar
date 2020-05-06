@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -85,10 +90,30 @@
       "street": "Rue C\u00e9lestin-Demblon"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "16"
       ], 
       "housenumber": "16", 
+      "lat": 50.630537226969, 
+      "lon": 5.606385652746, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730242", 
+      "street": "Rue C\u00e9lestin-Demblon"
+    }, 
+    {
+      "hnrlbls": [
+        "18"
+      ], 
+      "housenumber": "18", 
       "lat": 50.630537226969, 
       "lon": 5.606385652746, 
       "municipality": "Li\u00e8ge", 
@@ -133,6 +158,12 @@
       "street": "Rue C\u00e9lestin-Demblon"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -193,6 +224,11 @@
       "street": "Rue C\u00e9lestin-Demblon"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "26"
       ], 

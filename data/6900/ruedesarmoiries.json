@@ -13,6 +13,11 @@
       "street": "Rue des Armoiries"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -31,6 +36,30 @@
       "housenumber": "12", 
       "lat": 50.226225079282, 
       "lon": 5.345194687842, 
+      "municipality": "Marche-en-Famenne", 
+      "pcode": "6900", 
+      "source": "7744084", 
+      "street": "Rue des Armoiries"
+    }, 
+    {
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.226488765865, 
+      "lon": 5.345440436316, 
+      "municipality": "Marche-en-Famenne", 
+      "pcode": "6900", 
+      "source": "7744084", 
+      "street": "Rue des Armoiries"
+    }, 
+    {
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.226442001375, 
+      "lon": 5.345369709655, 
       "municipality": "Marche-en-Famenne", 
       "pcode": "6900", 
       "source": "7744084", 
@@ -73,6 +102,13 @@
       "street": "Rue des Armoiries"
     }, 
     {
+      "busnrs": [
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "rez"
+      ], 
       "hnrlbls": [
         "8"
       ], 

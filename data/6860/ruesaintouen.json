@@ -1,12 +1,17 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A", 
+        "B", 
+        "C"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 49.852503331301, 
-      "lon": 5.541036667394, 
+      "lat": 49.852691525994, 
+      "lon": 5.540193085428, 
       "municipality": "L\u00e9glise", 
       "pcode": "6860", 
       "source": "7745609", 
@@ -53,6 +58,18 @@
         "3"
       ], 
       "housenumber": "3", 
+      "lat": 49.852503331301, 
+      "lon": 5.541036667394, 
+      "municipality": "L\u00e9glise", 
+      "pcode": "6860", 
+      "source": "7745609", 
+      "street": "Rue Saint-Ouen"
+    }, 
+    {
+      "hnrlbls": [
+        "3A"
+      ], 
+      "housenumber": "3A", 
       "lat": 49.852664709337, 
       "lon": 5.541416615588, 
       "municipality": "L\u00e9glise", 

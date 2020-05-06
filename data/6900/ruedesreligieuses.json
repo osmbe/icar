@@ -1,6 +1,25 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "2", 
+        "21"
+      ], 
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.227604461532, 
+      "lon": 5.342255311764, 
+      "municipality": "Marche-en-Famenne", 
+      "pcode": "6900", 
+      "source": "7744139", 
+      "street": "Rue des Religieuses"
+    }, 
+    {
+      "busnrs": [
+        "B3"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -121,6 +140,9 @@
       "street": "Rue des Religieuses"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -205,6 +227,13 @@
       "street": "Rue des Religieuses"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "A1", 
+        "B 11", 
+        "B 22", 
+        "B21"
+      ], 
       "hnrlbls": [
         "7"
       ], 

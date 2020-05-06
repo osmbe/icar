@@ -133,6 +133,9 @@
       "street": "Place Cousin"
     }, 
     {
+      "busnrs": [
+        "A/B2"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -169,10 +172,14 @@
       "street": "Place Cousin"
     }, 
     {
-      "hnrlbls": [
-        "22BTE1"
+      "busnrs": [
+        "BTE1", 
+        "BTE2"
       ], 
-      "housenumber": "22BTE1", 
+      "hnrlbls": [
+        "22"
+      ], 
+      "housenumber": "22", 
       "lat": 50.561738909431, 
       "lon": 4.15197724593, 
       "municipality": "Ecaussinnes", 
@@ -193,10 +200,15 @@
       "street": "Place Cousin"
     }, 
     {
-      "hnrlbls": [
-        "24BTE1"
+      "busnrs": [
+        "BTE1", 
+        "BTE2", 
+        "BTE3"
       ], 
-      "housenumber": "24BTE1", 
+      "hnrlbls": [
+        "24"
+      ], 
+      "housenumber": "24", 
       "lat": 50.561662148884, 
       "lon": 4.151941874563, 
       "municipality": "Ecaussinnes", 
@@ -253,6 +265,15 @@
       "street": "Place Cousin"
     }, 
     {
+      "busnrs": [
+        "BTE1", 
+        "BTE3", 
+        "BTE4", 
+        "BTE5", 
+        "BTE7", 
+        "BTE8", 
+        "BTE9"
+      ], 
       "hnrlbls": [
         "7BTE1"
       ], 

@@ -865,6 +865,9 @@
       "street": "Rue de Presles"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -929,8 +932,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 50.351937883164, 
-      "lon": 4.547395900494, 
+      "lat": 50.351851130408, 
+      "lon": 4.547334491305, 
       "municipality": "Gerpinnes", 
       "pcode": "6280", 
       "source": "7710520", 
@@ -1297,6 +1300,10 @@
       "street": "Rue de Presles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0003"
+      ], 
       "hnrlbls": [
         "67"
       ], 

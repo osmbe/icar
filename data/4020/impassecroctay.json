@@ -2,6 +2,18 @@
   "addresses": [
     {
       "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.639919565535, 
+      "lon": 5.582840772394, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7729850", 
+      "street": "Impasse Croctay"
+    }, 
+    {
+      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -25,6 +37,12 @@
       "street": "Impasse Croctay"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -73,12 +91,28 @@
       "street": "Impasse Croctay"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
       "lat": 50.639702667569, 
       "lon": 5.582759053349, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7729850", 
+      "street": "Impasse Croctay"
+    }, 
+    {
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.639653636563, 
+      "lon": 5.582690985307, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7729850", 

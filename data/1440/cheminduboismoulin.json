@@ -13,6 +13,9 @@
       "street": "Chemin du Bois Moulin"
     }, 
     {
+      "busnrs": [
+        "bte1"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -25,6 +28,10 @@
       "street": "Chemin du Bois Moulin"
     }, 
     {
+      "busnrs": [
+        "bte1", 
+        "bte2"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -89,8 +96,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.66672125303, 
-      "lon": 4.324431591254, 
+      "lat": 50.666614525005, 
+      "lon": 4.324432354761, 
       "municipality": "Braine-le-Ch\u00e2teau", 
       "pcode": "1440", 
       "source": "7700827", 

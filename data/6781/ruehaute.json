@@ -2,6 +2,18 @@
   "addresses": [
     {
       "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 49.609989145706, 
+      "lon": 5.84958955855, 
+      "municipality": "Messancy", 
+      "pcode": "6781", 
+      "source": "7742305", 
+      "street": "Rue Haute"
+    }, 
+    {
+      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -122,23 +134,11 @@
     }, 
     {
       "hnrlbls": [
-        "23"
-      ], 
-      "housenumber": "23", 
-      "lat": 49.609517813346, 
-      "lon": 5.848269372722, 
-      "municipality": "Messancy", 
-      "pcode": "6781", 
-      "source": "7742305", 
-      "street": "Rue Haute"
-    }, 
-    {
-      "hnrlbls": [
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 49.609754495684, 
-      "lon": 5.848002447075, 
+      "lat": 49.609718256056, 
+      "lon": 5.847898085547, 
       "municipality": "Messancy", 
       "pcode": "6781", 
       "source": "7742305", 
@@ -151,18 +151,6 @@
       "housenumber": "25", 
       "lat": 49.609480457951, 
       "lon": 5.848089702787, 
-      "municipality": "Messancy", 
-      "pcode": "6781", 
-      "source": "7742305", 
-      "street": "Rue Haute"
-    }, 
-    {
-      "hnrlbls": [
-        "26"
-      ], 
-      "housenumber": "26", 
-      "lat": 49.609724283194, 
-      "lon": 5.847875275728, 
       "municipality": "Messancy", 
       "pcode": "6781", 
       "source": "7742305", 
@@ -233,8 +221,8 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 49.609553851818, 
-      "lon": 5.847070432966, 
+      "lat": 49.609577022565, 
+      "lon": 5.847191967092, 
       "municipality": "Messancy", 
       "pcode": "6781", 
       "source": "7742305", 
@@ -265,6 +253,10 @@
       "street": "Rue Haute"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "2/1"
+      ], 
       "hnrlbls": [
         "38"
       ], 
@@ -317,8 +309,20 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 49.609202473015, 
-      "lon": 5.847006883318, 
+      "lat": 49.609275211653, 
+      "lon": 5.846993552366, 
+      "municipality": "Messancy", 
+      "pcode": "6781", 
+      "source": "7742305", 
+      "street": "Rue Haute"
+    }, 
+    {
+      "hnrlbls": [
+        "43A"
+      ], 
+      "housenumber": "43A", 
+      "lat": 49.609201423128, 
+      "lon": 5.847022828373, 
       "municipality": "Messancy", 
       "pcode": "6781", 
       "source": "7742305", 
@@ -350,18 +354,6 @@
     }, 
     {
       "hnrlbls": [
-        "5"
-      ], 
-      "housenumber": "5", 
-      "lat": 49.609989145706, 
-      "lon": 5.84958955855, 
-      "municipality": "Messancy", 
-      "pcode": "6781", 
-      "source": "7742305", 
-      "street": "Rue Haute"
-    }, 
-    {
-      "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
@@ -373,6 +365,11 @@
       "street": "Rue Haute"
     }, 
     {
+      "busnrs": [
+        "0003", 
+        "1/1", 
+        "2/1"
+      ], 
       "hnrlbls": [
         "7"
       ], 

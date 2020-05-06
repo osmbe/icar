@@ -133,6 +133,9 @@
       "street": "Chauss\u00e9e de Braine"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "108"
       ], 
@@ -157,6 +160,14 @@
       "street": "Chauss\u00e9e de Braine"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "11", 
+        "12", 
+        "13", 
+        "2", 
+        "4"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -302,9 +313,9 @@
     }, 
     {
       "hnrlbls": [
-        "155"
+        "153"
       ], 
-      "housenumber": "155", 
+      "housenumber": "153", 
       "lat": 50.587725051897, 
       "lon": 4.089234366516, 
       "municipality": "Soignies", 
@@ -493,6 +504,9 @@
       "street": "Chauss\u00e9e de Braine"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -529,6 +543,10 @@
       "street": "Chauss\u00e9e de Braine"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "32"
       ], 
@@ -565,6 +583,9 @@
       "street": "Chauss\u00e9e de Braine"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "36"
       ], 
@@ -745,6 +766,10 @@
       "street": "Chauss\u00e9e de Braine"
     }, 
     {
+      "busnrs": [
+        "11", 
+        "12"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -841,6 +866,9 @@
       "street": "Chauss\u00e9e de Braine"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "59"
       ], 
@@ -913,6 +941,9 @@
       "street": "Chauss\u00e9e de Braine"
     }, 
     {
+      "busnrs": [
+        "02"
+      ], 
       "hnrlbls": [
         "66"
       ], 
@@ -1025,8 +1056,8 @@
         "74"
       ], 
       "housenumber": "74", 
-      "lat": 50.583711920104, 
-      "lon": 4.081126837046, 
+      "lat": 50.58365698506, 
+      "lon": 4.080971266811, 
       "municipality": "Soignies", 
       "pcode": "7060", 
       "source": "7718478", 

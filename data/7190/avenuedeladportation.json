@@ -25,10 +25,15 @@
       "street": "Avenue de la D\u00e9portation"
     }, 
     {
-      "hnrlbls": [
-        "11BTE1"
+      "busnrs": [
+        "BTE1", 
+        "BTE2", 
+        "BTE3"
       ], 
-      "housenumber": "11BTE1", 
+      "hnrlbls": [
+        "11"
+      ], 
+      "housenumber": "11", 
       "lat": 50.563403078238, 
       "lon": 4.160381927425, 
       "municipality": "Ecaussinnes", 
@@ -73,6 +78,9 @@
       "street": "Avenue de la D\u00e9portation"
     }, 
     {
+      "busnrs": [
+        "BTE2"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -134,6 +142,18 @@
     }, 
     {
       "hnrlbls": [
+        "1B000"
+      ], 
+      "housenumber": "1B000", 
+      "lat": 50.563641956373, 
+      "lon": 4.161141822668, 
+      "municipality": "Ecaussinnes", 
+      "pcode": "7190", 
+      "source": "7718838", 
+      "street": "Avenue de la D\u00e9portation"
+    }, 
+    {
+      "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
@@ -145,6 +165,9 @@
       "street": "Avenue de la D\u00e9portation"
     }, 
     {
+      "busnrs": [
+        "BTE1"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -505,10 +528,14 @@
       "street": "Avenue de la D\u00e9portation"
     }, 
     {
-      "hnrlbls": [
-        "49BTE1"
+      "busnrs": [
+        "BTE1", 
+        "BTE2"
       ], 
-      "housenumber": "49BTE1", 
+      "hnrlbls": [
+        "49"
+      ], 
+      "housenumber": "49", 
       "lat": 50.562094734837, 
       "lon": 4.158639096174, 
       "municipality": "Ecaussinnes", 
@@ -553,10 +580,14 @@
       "street": "Avenue de la D\u00e9portation"
     }, 
     {
-      "hnrlbls": [
-        "52BTE1"
+      "busnrs": [
+        "BTE1", 
+        "BTE2"
       ], 
-      "housenumber": "52BTE1", 
+      "hnrlbls": [
+        "52"
+      ], 
+      "housenumber": "52", 
       "lat": 50.562227526675, 
       "lon": 4.158088472114, 
       "municipality": "Ecaussinnes", 
@@ -565,10 +596,15 @@
       "street": "Avenue de la D\u00e9portation"
     }, 
     {
-      "hnrlbls": [
-        "53BTE1"
+      "busnrs": [
+        "BTE1", 
+        "BTE2", 
+        "BTE3"
       ], 
-      "housenumber": "53BTE1", 
+      "hnrlbls": [
+        "53"
+      ], 
+      "housenumber": "53", 
       "lat": 50.56190547031, 
       "lon": 4.158401847075, 
       "municipality": "Ecaussinnes", 
@@ -589,10 +625,28 @@
       "street": "Avenue de la D\u00e9portation"
     }, 
     {
-      "hnrlbls": [
-        "55B001"
+      "busnrs": [
+        "B001", 
+        "B002", 
+        "B003", 
+        "B004", 
+        "B005", 
+        "B006", 
+        "B007", 
+        "B008", 
+        "B009", 
+        "B010", 
+        "B011", 
+        "B012", 
+        "B013", 
+        "B014", 
+        "B015", 
+        "B016"
       ], 
-      "housenumber": "55B001", 
+      "hnrlbls": [
+        "55"
+      ], 
+      "housenumber": "55", 
       "lat": 50.561813555007, 
       "lon": 4.158271913041, 
       "municipality": "Ecaussinnes", 
@@ -625,6 +679,10 @@
       "street": "Avenue de la D\u00e9portation"
     }, 
     {
+      "busnrs": [
+        "BTE1", 
+        "BTE2"
+      ], 
       "hnrlbls": [
         "58"
       ], 
@@ -637,12 +695,35 @@
       "street": "Avenue de la D\u00e9portation"
     }, 
     {
-      "hnrlbls": [
-        "59BTE1"
+      "busnrs": [
+        "BTE1", 
+        "BTE2", 
+        "BTE3"
       ], 
-      "housenumber": "59BTE1", 
+      "hnrlbls": [
+        "59"
+      ], 
+      "housenumber": "59", 
       "lat": 50.561701127789, 
       "lon": 4.158144060603, 
+      "municipality": "Ecaussinnes", 
+      "pcode": "7190", 
+      "source": "7718838", 
+      "street": "Avenue de la D\u00e9portation"
+    }, 
+    {
+      "busnrs": [
+        "BTE1", 
+        "BTE2", 
+        "BTE3", 
+        "BTE4"
+      ], 
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.563899683875, 
+      "lon": 4.160215959388, 
       "municipality": "Ecaussinnes", 
       "pcode": "7190", 
       "source": "7718838", 
@@ -674,6 +755,18 @@
     }, 
     {
       "hnrlbls": [
+        "62"
+      ], 
+      "housenumber": "62", 
+      "lat": 50.562479969041, 
+      "lon": 4.157589438386, 
+      "municipality": "Ecaussinnes", 
+      "pcode": "7190", 
+      "source": "7718838", 
+      "street": "Avenue de la D\u00e9portation"
+    }, 
+    {
+      "hnrlbls": [
         "64"
       ], 
       "housenumber": "64", 
@@ -685,6 +778,9 @@
       "street": "Avenue de la D\u00e9portation"
     }, 
     {
+      "busnrs": [
+        "BTE2"
+      ], 
       "hnrlbls": [
         "66"
       ], 

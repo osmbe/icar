@@ -41,8 +41,8 @@
         "111"
       ], 
       "housenumber": "111", 
-      "lat": 50.167555395198, 
-      "lon": 5.209075859141, 
+      "lat": 50.167712593705, 
+      "lon": 5.208782068144, 
       "municipality": "Rochefort", 
       "pcode": "5580", 
       "source": "7750424", 
@@ -457,6 +457,10 @@
       "street": "Rue de Navaugle"
     }, 
     {
+      "busnrs": [
+        "A001", 
+        "B011"
+      ], 
       "hnrlbls": [
         "165"
       ], 
@@ -601,6 +605,10 @@
       "street": "Rue de Navaugle"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "177"
       ], 
@@ -775,6 +783,18 @@
       "housenumber": "30", 
       "lat": 50.16402824213, 
       "lon": 5.210282869416, 
+      "municipality": "Rochefort", 
+      "pcode": "5580", 
+      "source": "7750424", 
+      "street": "Rue de Navaugle"
+    }, 
+    {
+      "hnrlbls": [
+        "31"
+      ], 
+      "housenumber": "31", 
+      "lat": 50.163911123953, 
+      "lon": 5.209801401317, 
       "municipality": "Rochefort", 
       "pcode": "5580", 
       "source": "7750424", 

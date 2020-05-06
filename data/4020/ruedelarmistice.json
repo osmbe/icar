@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +19,12 @@
       "street": "Rue de l'Armistice"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -25,6 +37,13 @@
       "street": "Rue de l'Armistice"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -50,6 +69,27 @@
     }, 
     {
       "hnrlbls": [
+        "15"
+      ], 
+      "housenumber": "15", 
+      "lat": 50.640254978143, 
+      "lon": 5.593505519829, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730441", 
+      "street": "Rue de l'Armistice"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024"
+      ], 
+      "hnrlbls": [
         "16"
       ], 
       "housenumber": "16", 
@@ -62,11 +102,47 @@
     }, 
     {
       "hnrlbls": [
+        "17"
+      ], 
+      "housenumber": "17", 
+      "lat": 50.640210240675, 
+      "lon": 5.593587496905, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730441", 
+      "street": "Rue de l'Armistice"
+    }, 
+    {
+      "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
       "lat": 50.639887737341, 
       "lon": 5.593538504087, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730441", 
+      "street": "Rue de l'Armistice"
+    }, 
+    {
+      "hnrlbls": [
+        "19"
+      ], 
+      "housenumber": "19", 
+      "lat": 50.640158938287, 
+      "lon": 5.593646727433, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730441", 
+      "street": "Rue de l'Armistice"
+    }, 
+    {
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.640275640978, 
+      "lon": 5.593138720259, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730441", 
@@ -89,14 +165,19 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.640150731583, 
-      "lon": 5.593662529806, 
+      "lat": 50.640105532958, 
+      "lon": 5.593707744156, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730441", 
       "street": "Rue de l'Armistice"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -109,6 +190,12 @@
       "street": "Rue de l'Armistice"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -133,6 +220,12 @@
       "street": "Rue de l'Armistice"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -157,6 +250,12 @@
       "street": "Rue de l'Armistice"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -181,6 +280,11 @@
       "street": "Rue de l'Armistice"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -193,6 +297,11 @@
       "street": "Rue de l'Armistice"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -229,6 +338,30 @@
       "street": "Rue de l'Armistice"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
+      "hnrlbls": [
+        "33"
+      ], 
+      "housenumber": "33", 
+      "lat": 50.639836446106, 
+      "lon": 5.594035758071, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730441", 
+      "street": "Rue de l'Armistice"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -241,6 +374,10 @@
       "street": "Rue de l'Armistice"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -253,6 +390,13 @@
       "street": "Rue de l'Armistice"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "37"
       ], 
@@ -277,6 +421,17 @@
       "street": "Rue de l'Armistice"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -289,6 +444,11 @@
       "street": "Rue de l'Armistice"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "41"
       ], 
@@ -301,6 +461,12 @@
       "street": "Rue de l'Armistice"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "44"
       ], 
@@ -325,6 +491,11 @@
       "street": "Rue de l'Armistice"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "46"
       ], 
@@ -337,6 +508,11 @@
       "street": "Rue de l'Armistice"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "47"
       ], 
@@ -349,6 +525,12 @@
       "street": "Rue de l'Armistice"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "48"
       ], 
@@ -361,6 +543,11 @@
       "street": "Rue de l'Armistice"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "49"
       ], 
@@ -373,6 +560,12 @@
       "street": "Rue de l'Armistice"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "50"
       ], 
@@ -397,6 +590,12 @@
       "street": "Rue de l'Armistice"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "52"
       ], 
@@ -421,6 +620,13 @@
       "street": "Rue de l'Armistice"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "54"
       ], 
@@ -433,6 +639,14 @@
       "street": "Rue de l'Armistice"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0031"
+      ], 
       "hnrlbls": [
         "55"
       ], 
@@ -445,6 +659,12 @@
       "street": "Rue de l'Armistice"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "56"
       ], 
@@ -529,6 +749,12 @@
       "street": "Rue de l'Armistice"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "62"
       ], 
@@ -553,6 +779,15 @@
       "street": "Rue de l'Armistice"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "64"
       ], 
@@ -565,6 +800,13 @@
       "street": "Rue de l'Armistice"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0022", 
+        "0031"
+      ], 
       "hnrlbls": [
         "8"
       ], 

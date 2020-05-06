@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A011"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -19,6 +22,18 @@
       "housenumber": "14", 
       "lat": 50.132073564325, 
       "lon": 5.181219403752, 
+      "municipality": "Rochefort", 
+      "pcode": "5580", 
+      "source": "7750416", 
+      "street": "Rue de Malispr\u00e9"
+    }, 
+    {
+      "hnrlbls": [
+        "16"
+      ], 
+      "housenumber": "16", 
+      "lat": 50.131835615016, 
+      "lon": 5.181015376143, 
       "municipality": "Rochefort", 
       "pcode": "5580", 
       "source": "7750416", 

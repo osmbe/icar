@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "10"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -65,8 +68,8 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 50.718424871095, 
-      "lon": 5.98716559676, 
+      "lat": 50.720032206421, 
+      "lon": 5.986193150532, 
       "municipality": "Plombi\u00e8res", 
       "pcode": "4850", 
       "source": "7739703", 
@@ -145,6 +148,10 @@
       "street": "Rue Foulerie"
     }, 
     {
+      "busnrs": [
+        "10", 
+        "20"
+      ], 
       "hnrlbls": [
         "5"
       ], 

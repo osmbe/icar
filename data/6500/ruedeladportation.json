@@ -14,18 +14,6 @@
     }, 
     {
       "hnrlbls": [
-        "11"
-      ], 
-      "housenumber": "11", 
-      "lat": 50.237805160296, 
-      "lon": 4.236459733907, 
-      "municipality": "Beaumont", 
-      "pcode": "6500", 
-      "source": "7719333", 
-      "street": "Rue de la D\u00e9portation"
-    }, 
-    {
-      "hnrlbls": [
         "12"
       ], 
       "housenumber": "12", 
@@ -61,6 +49,9 @@
       "street": "Rue de la D\u00e9portation"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -85,6 +76,9 @@
       "street": "Rue de la D\u00e9portation"
     }, 
     {
+      "busnrs": [
+        "0002"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -217,6 +211,9 @@
       "street": "Rue de la D\u00e9portation"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -265,6 +262,13 @@
       "street": "Rue de la D\u00e9portation"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -289,6 +293,10 @@
       "street": "Rue de la D\u00e9portation"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "6"
       ], 

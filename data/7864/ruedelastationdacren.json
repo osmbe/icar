@@ -145,6 +145,12 @@
       "street": "Rue de la Station d'Acren"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "2", 
+        "A001", 
+        "A002"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -217,6 +223,10 @@
       "street": "Rue de la Station d'Acren"
     }, 
     {
+      "busnrs": [
+        "B001", 
+        "B002"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -265,6 +275,17 @@
       "street": "Rue de la Station d'Acren"
     }, 
     {
+      "busnrs": [
+        "2", 
+        "A001", 
+        "A002", 
+        "A003", 
+        "A004", 
+        "A005", 
+        "A006", 
+        "A007", 
+        "B001"
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -361,6 +382,11 @@
       "street": "Rue de la Station d'Acren"
     }, 
     {
+      "busnrs": [
+        "2", 
+        "bte1", 
+        "bte3"
+      ], 
       "hnrlbls": [
         "36"
       ], 
@@ -650,18 +676,6 @@
     }, 
     {
       "hnrlbls": [
-        "56"
-      ], 
-      "housenumber": "56", 
-      "lat": 50.73264955248, 
-      "lon": 3.846637734817, 
-      "municipality": "Lessines", 
-      "pcode": "7864", 
-      "source": "7718018", 
-      "street": "Rue de la Station d'Acren"
-    }, 
-    {
-      "hnrlbls": [
         "57"
       ], 
       "housenumber": "57", 
@@ -709,6 +723,10 @@
       "street": "Rue de la Station d'Acren"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "61"
       ], 
@@ -1027,6 +1045,18 @@
       "housenumber": "92A", 
       "lat": 50.734763224806, 
       "lon": 3.843921085549, 
+      "municipality": "Lessines", 
+      "pcode": "7864", 
+      "source": "7718018", 
+      "street": "Rue de la Station d'Acren"
+    }, 
+    {
+      "hnrlbls": [
+        "92B"
+      ], 
+      "housenumber": "92B", 
+      "lat": 50.734934445477, 
+      "lon": 3.843711790605, 
       "municipality": "Lessines", 
       "pcode": "7864", 
       "source": "7718018", 

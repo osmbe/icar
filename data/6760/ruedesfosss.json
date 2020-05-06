@@ -49,6 +49,10 @@
       "street": "Rue des Foss\u00e9s"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -109,6 +113,12 @@
       "street": "Rue des Foss\u00e9s"
     }, 
     {
+      "busnrs": [
+        "B1/2", 
+        "B1/3", 
+        "B1/4", 
+        "B2/1"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -133,6 +143,9 @@
       "street": "Rue des Foss\u00e9s"
     }, 
     {
+      "busnrs": [
+        "0/1"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -145,6 +158,10 @@
       "street": "Rue des Foss\u00e9s"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -205,6 +222,10 @@
       "street": "Rue des Foss\u00e9s"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -233,8 +254,20 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 49.568096462936, 
-      "lon": 5.534149334014, 
+      "lat": 49.568064409834, 
+      "lon": 5.534143072816, 
+      "municipality": "Virton", 
+      "pcode": "6760", 
+      "source": "7747866", 
+      "street": "Rue des Foss\u00e9s"
+    }, 
+    {
+      "hnrlbls": [
+        "31A"
+      ], 
+      "housenumber": "31A", 
+      "lat": 49.568116330576, 
+      "lon": 5.534113699884, 
       "municipality": "Virton", 
       "pcode": "6760", 
       "source": "7747866", 
@@ -265,6 +298,11 @@
       "street": "Rue des Foss\u00e9s"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "36"
       ], 
@@ -317,8 +355,8 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 49.568903516493, 
-      "lon": 5.532639121557, 
+      "lat": 49.568856272042, 
+      "lon": 5.532664501831, 
       "municipality": "Virton", 
       "pcode": "6760", 
       "source": "7747866", 

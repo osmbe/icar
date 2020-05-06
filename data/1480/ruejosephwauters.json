@@ -37,6 +37,10 @@
       "street": "Rue Joseph Wauters"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "R01"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -181,6 +185,10 @@
       "street": "Rue Joseph Wauters"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -314,11 +322,11 @@
     }, 
     {
       "hnrlbls": [
-        "38"
+        "37"
       ], 
-      "housenumber": "38", 
-      "lat": 50.704720457327, 
-      "lon": 4.159180939569, 
+      "housenumber": "37", 
+      "lat": 50.704262302212, 
+      "lon": 4.159344254166, 
       "municipality": "Tubize", 
       "pcode": "1480", 
       "source": "7703920", 
@@ -337,12 +345,26 @@
       "street": "Rue Joseph Wauters"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "102", 
+        "103", 
+        "104", 
+        "201", 
+        "202", 
+        "203", 
+        "204", 
+        "R01", 
+        "R02", 
+        "R03", 
+        "R04"
+      ], 
       "hnrlbls": [
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 50.704683938431, 
-      "lon": 4.159225100136, 
+      "lat": 50.704718825092, 
+      "lon": 4.159181122342, 
       "municipality": "Tubize", 
       "pcode": "1480", 
       "source": "7703920", 
@@ -353,8 +375,20 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 50.704647508516, 
-      "lon": 4.159273790356, 
+      "lat": 50.704686674132, 
+      "lon": 4.159228669645, 
+      "municipality": "Tubize", 
+      "pcode": "1480", 
+      "source": "7703920", 
+      "street": "Rue Joseph Wauters"
+    }, 
+    {
+      "hnrlbls": [
+        "44"
+      ], 
+      "housenumber": "44", 
+      "lat": 50.704649983137, 
+      "lon": 4.159275640993, 
       "municipality": "Tubize", 
       "pcode": "1480", 
       "source": "7703920", 

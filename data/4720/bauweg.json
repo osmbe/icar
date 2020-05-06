@@ -266,9 +266,9 @@
     }, 
     {
       "hnrlbls": [
-        "22A000"
+        "22A"
       ], 
-      "housenumber": "22A000", 
+      "housenumber": "22A", 
       "lat": 50.71617119559, 
       "lon": 6.004048162437, 
       "municipality": "Kelmis", 
@@ -457,6 +457,9 @@
       "street": "Bauweg"
     }, 
     {
+      "busnrs": [
+        "000E"
+      ], 
       "hnrlbls": [
         "41"
       ], 
@@ -505,6 +508,10 @@
       "street": "Bauweg"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "E1Et"
+      ], 
       "hnrlbls": [
         "43"
       ], 

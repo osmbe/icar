@@ -85,6 +85,9 @@
       "street": "Rue de la Caserne"
     }, 
     {
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -337,6 +340,10 @@
       "street": "Rue de la Caserne"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -529,6 +536,10 @@
       "street": "Rue de la Caserne"
     }, 
     {
+      "busnrs": [
+        "31", 
+        "32"
+      ], 
       "hnrlbls": [
         "67"
       ], 
@@ -545,8 +556,8 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 49.685690143949, 
-      "lon": 5.814970106574, 
+      "lat": 49.685256509981, 
+      "lon": 5.818047859842, 
       "municipality": "Arlon", 
       "pcode": "6700", 
       "source": "7741505", 

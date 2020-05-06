@@ -37,6 +37,9 @@
       "street": "Rue de la Croix Rouge"
     }, 
     {
+      "busnrs": [
+        "15"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -67,6 +70,18 @@
       "housenumber": "17", 
       "lat": 50.742341742455, 
       "lon": 5.696162534165, 
+      "municipality": "Vis\u00e9", 
+      "pcode": "4600", 
+      "source": "7733320", 
+      "street": "Rue de la Croix Rouge"
+    }, 
+    {
+      "hnrlbls": [
+        "17A"
+      ], 
+      "housenumber": "17A", 
+      "lat": 50.742583785775, 
+      "lon": 5.696433704795, 
       "municipality": "Vis\u00e9", 
       "pcode": "4600", 
       "source": "7733320", 
@@ -121,6 +136,12 @@
       "street": "Rue de la Croix Rouge"
     }, 
     {
+      "busnrs": [
+        "A  1", 
+        "A 2", 
+        "B  1", 
+        "B  2"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -229,6 +250,12 @@
       "street": "Rue de la Croix Rouge"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "A  1", 
+        "A  2"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -361,6 +388,9 @@
       "street": "Rue de la Croix Rouge"
     }, 
     {
+      "busnrs": [
+        "0002"
+      ], 
       "hnrlbls": [
         "7"
       ], 

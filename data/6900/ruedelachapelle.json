@@ -25,6 +25,10 @@
       "street": "Rue de la Chapelle"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "11"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -233,8 +237,32 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.185503856955, 
-      "lon": 5.31009710837, 
+      "lat": 50.185499249517, 
+      "lon": 5.310151667469, 
+      "municipality": "Marche-en-Famenne", 
+      "pcode": "6900", 
+      "source": "7744029", 
+      "street": "Rue de la Chapelle"
+    }, 
+    {
+      "hnrlbls": [
+        "9A"
+      ], 
+      "housenumber": "9A", 
+      "lat": 50.18550670952, 
+      "lon": 5.310095498318, 
+      "municipality": "Marche-en-Famenne", 
+      "pcode": "6900", 
+      "source": "7744029", 
+      "street": "Rue de la Chapelle"
+    }, 
+    {
+      "hnrlbls": [
+        "9B"
+      ], 
+      "housenumber": "9B", 
+      "lat": 50.185525603394, 
+      "lon": 5.310039368828, 
       "municipality": "Marche-en-Famenne", 
       "pcode": "6900", 
       "source": "7744029", 

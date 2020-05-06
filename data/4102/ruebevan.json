@@ -61,6 +61,9 @@
       "street": "Rue Bevan"
     }, 
     {
+      "busnrs": [
+        "11"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -103,6 +106,18 @@
       "housenumber": "19", 
       "lat": 50.581400928916, 
       "lon": 5.544608209558, 
+      "municipality": "Seraing", 
+      "pcode": "4102", 
+      "source": "7732170", 
+      "street": "Rue Bevan"
+    }, 
+    {
+      "hnrlbls": [
+        "19B"
+      ], 
+      "housenumber": "19B", 
+      "lat": 50.581373734361, 
+      "lon": 5.544518267036, 
       "municipality": "Seraing", 
       "pcode": "4102", 
       "source": "7732170", 
@@ -229,6 +244,10 @@
       "street": "Rue Bevan"
     }, 
     {
+      "busnrs": [
+        "11", 
+        "21"
+      ], 
       "hnrlbls": [
         "31"
       ], 

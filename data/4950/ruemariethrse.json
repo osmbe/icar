@@ -38,11 +38,23 @@
     }, 
     {
       "hnrlbls": [
-        "12"
+        "12A"
       ], 
-      "housenumber": "12", 
-      "lat": 50.404767863076, 
-      "lon": 6.137138898741, 
+      "housenumber": "12A", 
+      "lat": 50.404704901826, 
+      "lon": 6.137132827947, 
+      "municipality": "Waimes", 
+      "pcode": "4950", 
+      "source": "7739309", 
+      "street": "Rue Marie-Th\u00e9r\u00e8se"
+    }, 
+    {
+      "hnrlbls": [
+        "12B"
+      ], 
+      "housenumber": "12B", 
+      "lat": 50.404813003125, 
+      "lon": 6.137143373554, 
       "municipality": "Waimes", 
       "pcode": "4950", 
       "source": "7739309", 
@@ -85,6 +97,10 @@
       "street": "Rue Marie-Th\u00e9r\u00e8se"
     }, 
     {
+      "busnrs": [
+        "B/1", 
+        "B/2"
+      ], 
       "hnrlbls": [
         "16"
       ], 

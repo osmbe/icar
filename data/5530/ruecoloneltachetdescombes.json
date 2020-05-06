@@ -37,6 +37,9 @@
       "street": "Rue Colonel Tachet des Combes"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -49,6 +52,12 @@
       "street": "Rue Colonel Tachet des Combes"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -85,6 +94,10 @@
       "street": "Rue Colonel Tachet des Combes"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -97,6 +110,9 @@
       "street": "Rue Colonel Tachet des Combes"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -187,18 +203,6 @@
       "housenumber": "6", 
       "lat": 50.326308128683, 
       "lon": 4.878843665129, 
-      "municipality": "Yvoir", 
-      "pcode": "5530", 
-      "source": "7750887", 
-      "street": "Rue Colonel Tachet des Combes"
-    }, 
-    {
-      "hnrlbls": [
-        "7"
-      ], 
-      "housenumber": "7", 
-      "lat": 50.326271760655, 
-      "lon": 4.878562039309, 
       "municipality": "Yvoir", 
       "pcode": "5530", 
       "source": "7750887", 

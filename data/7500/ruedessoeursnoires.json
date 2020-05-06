@@ -97,6 +97,11 @@
       "street": "Rue des Soeurs Noires"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "11", 
+        "21"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -157,6 +162,11 @@
       "street": "Rue des Soeurs Noires"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "11", 
+        "21"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -193,6 +203,9 @@
       "street": "Rue des Soeurs Noires"
     }, 
     {
+      "busnrs": [
+        "11"
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -217,12 +230,18 @@
       "street": "Rue des Soeurs Noires"
     }, 
     {
+      "busnrs": [
+        "11", 
+        "21", 
+        "31", 
+        "41"
+      ], 
       "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.608127898965, 
-      "lon": 3.384261742137, 
+      "lat": 50.608739809635, 
+      "lon": 3.383836912096, 
       "municipality": "Tournai", 
       "pcode": "7500", 
       "source": "7723584", 
@@ -313,6 +332,9 @@
       "street": "Rue des Soeurs Noires"
     }, 
     {
+      "busnrs": [
+        "21"
+      ], 
       "hnrlbls": [
         "40"
       ], 
@@ -337,6 +359,11 @@
       "street": "Rue des Soeurs Noires"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "11", 
+        "21"
+      ], 
       "hnrlbls": [
         "42"
       ], 
@@ -349,6 +376,10 @@
       "street": "Rue des Soeurs Noires"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "11"
+      ], 
       "hnrlbls": [
         "43"
       ], 
@@ -397,6 +428,10 @@
       "street": "Rue des Soeurs Noires"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "02"
+      ], 
       "hnrlbls": [
         "47"
       ], 
@@ -409,6 +444,9 @@
       "street": "Rue des Soeurs Noires"
     }, 
     {
+      "busnrs": [
+        "11"
+      ], 
       "hnrlbls": [
         "48"
       ], 
@@ -437,8 +475,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.60862017856, 
-      "lon": 3.383620658629, 
+      "lat": 50.608384091011, 
+      "lon": 3.3839150943, 
       "municipality": "Tournai", 
       "pcode": "7500", 
       "source": "7723584", 
@@ -469,6 +507,12 @@
       "street": "Rue des Soeurs Noires"
     }, 
     {
+      "busnrs": [
+        "02", 
+        "11", 
+        "12", 
+        "O001"
+      ], 
       "hnrlbls": [
         "9"
       ], 

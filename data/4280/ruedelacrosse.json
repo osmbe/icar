@@ -49,6 +49,9 @@
       "street": "Rue de la Crosse"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -169,12 +172,16 @@
       "street": "Rue de la Crosse"
     }, 
     {
+      "busnrs": [
+        "Abt1", 
+        "Abt2"
+      ], 
       "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.657112887053, 
-      "lon": 5.094595788575, 
+      "lat": 50.657219673699, 
+      "lon": 5.094431288788, 
       "municipality": "Hannut", 
       "pcode": "4280", 
       "source": "7740466", 

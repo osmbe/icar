@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "00/1", 
+        "01/1", 
+        "SS/1"
+      ], 
       "hnrlbls": [
         "70"
       ], 
@@ -13,6 +18,12 @@
       "street": "Rue du Sanatorium"
     }, 
     {
+      "busnrs": [
+        "00/1", 
+        "00/2", 
+        "01/1", 
+        "01/2"
+      ], 
       "hnrlbls": [
         "72"
       ], 
@@ -29,8 +40,8 @@
         "74"
       ], 
       "housenumber": "74", 
-      "lat": 50.359156471984, 
-      "lon": 4.432203488103, 
+      "lat": 50.357400788033, 
+      "lon": 4.430538993351, 
       "municipality": "Ham-sur-Heure-Nalinnes", 
       "pcode": "6120", 
       "source": "7721546", 

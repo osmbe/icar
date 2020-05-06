@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -13,6 +17,15 @@
       "street": "Rue de l'Alun"
     }, 
     {
+      "busnrs": [
+        "A  1", 
+        "A  2", 
+        "B  2", 
+        "B  3", 
+        "C 1", 
+        "C 2", 
+        "C 3"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -25,6 +38,39 @@
       "street": "Rue de l'Alun"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "A  1", 
+        "A3", 
+        "B  1", 
+        "B  3", 
+        "B 2", 
+        "C  2"
+      ], 
+      "hnrlbls": [
+        "14"
+      ], 
+      "housenumber": "14", 
+      "lat": 50.729897674525, 
+      "lon": 5.698362562471, 
+      "municipality": "Vis\u00e9", 
+      "pcode": "4600", 
+      "source": "7733333", 
+      "street": "Rue de l'Alun"
+    }, 
+    {
+      "busnrs": [
+        "52", 
+        "A  1", 
+        "A  2", 
+        "A  4", 
+        "A 5", 
+        "B  1", 
+        "B  3", 
+        "B  4", 
+        "B  5", 
+        "B002"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -37,12 +83,37 @@
       "street": "Rue de l'Alun"
     }, 
     {
+      "busnrs": [
+        "A  1", 
+        "A  5", 
+        "A 2", 
+        "A001", 
+        "A004", 
+        "B", 
+        "B  1", 
+        "B  2", 
+        "B 3", 
+        "B 4", 
+        "C  1"
+      ], 
       "hnrlbls": [
         "22"
       ], 
       "housenumber": "22", 
       "lat": 50.730063734553, 
       "lon": 5.697350000903, 
+      "municipality": "Vis\u00e9", 
+      "pcode": "4600", 
+      "source": "7733333", 
+      "street": "Rue de l'Alun"
+    }, 
+    {
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.728690942184, 
+      "lon": 5.698547066583, 
       "municipality": "Vis\u00e9", 
       "pcode": "4600", 
       "source": "7733333", 

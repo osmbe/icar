@@ -121,12 +121,16 @@
       "street": "Rue des D\u00e9port\u00e9s"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "B/RZ"
+      ], 
       "hnrlbls": [
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.507898097961, 
-      "lon": 3.793544885948, 
+      "lat": 50.507956017966, 
+      "lon": 3.793509135111, 
       "municipality": "Saint-Ghislain", 
       "pcode": "7332", 
       "source": "7714737", 
@@ -173,8 +177,8 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 50.507921811916, 
-      "lon": 3.793032538833, 
+      "lat": 50.507988680739, 
+      "lon": 3.7930375352, 
       "municipality": "Saint-Ghislain", 
       "pcode": "7332", 
       "source": "7714737", 
@@ -649,6 +653,9 @@
       "street": "Rue des D\u00e9port\u00e9s"
     }, 
     {
+      "busnrs": [
+        "RCH2"
+      ], 
       "hnrlbls": [
         "70"
       ], 

@@ -85,6 +85,10 @@
       "street": "Rue Walth\u00e8re-Lallemand"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -163,6 +167,18 @@
       "housenumber": "24", 
       "lat": 50.625370837843, 
       "lon": 5.602076790385, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7731414", 
+      "street": "Rue Walth\u00e8re-Lallemand"
+    }, 
+    {
+      "hnrlbls": [
+        "25"
+      ], 
+      "housenumber": "25", 
+      "lat": 50.625255119603, 
+      "lon": 5.602448463862, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4030", 
       "source": "7731414", 
@@ -445,6 +461,11 @@
       "street": "Rue Walth\u00e8re-Lallemand"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "50"
       ], 
@@ -589,6 +610,13 @@
       "street": "Rue Walth\u00e8re-Lallemand"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "61"
       ], 

@@ -121,6 +121,12 @@
       "street": "Rue du Pommier"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -182,11 +188,35 @@
     }, 
     {
       "hnrlbls": [
+        "23"
+      ], 
+      "housenumber": "23", 
+      "lat": 50.651749291533, 
+      "lon": 5.596809667103, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730859", 
+      "street": "Rue du Pommier"
+    }, 
+    {
+      "hnrlbls": [
         "24"
       ], 
       "housenumber": "24", 
       "lat": 50.65180901921, 
       "lon": 5.597154067958, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730859", 
+      "street": "Rue du Pommier"
+    }, 
+    {
+      "hnrlbls": [
+        "25"
+      ], 
+      "housenumber": "25", 
+      "lat": 50.65180216562, 
+      "lon": 5.596723641993, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730859", 
@@ -361,6 +391,12 @@
       "street": "Rue du Pommier"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "40"
       ], 
@@ -373,6 +409,11 @@
       "street": "Rue du Pommier"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "41"
       ], 
@@ -487,6 +528,18 @@
       "housenumber": "56", 
       "lat": 50.65232811732, 
       "lon": 5.596363425474, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730859", 
+      "street": "Rue du Pommier"
+    }, 
+    {
+      "hnrlbls": [
+        "58"
+      ], 
+      "housenumber": "58", 
+      "lat": 50.652356914206, 
+      "lon": 5.596322566714, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730859", 

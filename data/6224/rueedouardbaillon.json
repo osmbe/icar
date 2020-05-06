@@ -1,12 +1,17 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.471345096775, 
-      "lon": 4.584977927047, 
+      "lat": 50.471095538023, 
+      "lon": 4.585202934919, 
       "municipality": "Fleurus", 
       "pcode": "6224", 
       "source": "7710077", 
@@ -133,6 +138,9 @@
       "street": "Rue Edouard Baillon"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -241,6 +249,9 @@
       "street": "Rue Edouard Baillon"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -277,6 +288,9 @@
       "street": "Rue Edouard Baillon"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -307,6 +321,25 @@
       "housenumber": "36", 
       "lat": 50.472140147086, 
       "lon": 4.584841413258, 
+      "municipality": "Fleurus", 
+      "pcode": "6224", 
+      "source": "7710077", 
+      "street": "Rue Edouard Baillon"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
+      "hnrlbls": [
+        "37"
+      ], 
+      "housenumber": "37", 
+      "lat": 50.472759369885, 
+      "lon": 4.583817832664, 
       "municipality": "Fleurus", 
       "pcode": "6224", 
       "source": "7710077", 
@@ -361,6 +394,9 @@
       "street": "Rue Edouard Baillon"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "44"
       ], 

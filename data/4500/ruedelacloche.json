@@ -1,6 +1,14 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "00A1", 
+        "A/03", 
+        "A/11", 
+        "A/21", 
+        "A/22", 
+        "BRCH"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -61,6 +69,10 @@
       "street": "Rue de la Cloche"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -73,6 +85,11 @@
       "street": "Rue de la Cloche"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "4"
       ], 

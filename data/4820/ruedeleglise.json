@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0101"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +16,9 @@
       "street": "Rue de l'Eglise"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -25,6 +31,11 @@
       "street": "Rue de l'Eglise"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -37,6 +48,10 @@
       "street": "Rue de l'Eglise"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "9"
       ], 

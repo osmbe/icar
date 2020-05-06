@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "01", 
+        "21", 
+        "31"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -49,6 +54,10 @@
       "street": "Rue d'Espinoy"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "11"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -61,6 +70,11 @@
       "street": "Rue d'Espinoy"
     }, 
     {
+      "busnrs": [
+        "21", 
+        "31", 
+        "32"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -85,6 +99,9 @@
       "street": "Rue d'Espinoy"
     }, 
     {
+      "busnrs": [
+        "11"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -121,6 +138,12 @@
       "street": "Rue d'Espinoy"
     }, 
     {
+      "busnrs": [
+        "11", 
+        "12", 
+        "21", 
+        "31"
+      ], 
       "hnrlbls": [
         "9"
       ], 

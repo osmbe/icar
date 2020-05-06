@@ -5,8 +5,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.48055219697, 
-      "lon": 5.710767945103, 
+      "lat": 50.480570931944, 
+      "lon": 5.711111853532, 
       "municipality": "Aywaille", 
       "pcode": "4920", 
       "source": "7727536", 
@@ -121,6 +121,9 @@
       "street": "Rue Magrite"
     }, 
     {
+      "busnrs": [
+        "bt02"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -133,6 +136,10 @@
       "street": "Rue Magrite"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "02"
+      ], 
       "hnrlbls": [
         "1A"
       ], 
@@ -151,6 +158,18 @@
       "housenumber": "2", 
       "lat": 50.480084727, 
       "lon": 5.711568706191, 
+      "municipality": "Aywaille", 
+      "pcode": "4920", 
+      "source": "7727536", 
+      "street": "Rue Magrite"
+    }, 
+    {
+      "hnrlbls": [
+        "21"
+      ], 
+      "housenumber": "21", 
+      "lat": 50.481575871234, 
+      "lon": 5.710232947685, 
       "municipality": "Aywaille", 
       "pcode": "4920", 
       "source": "7727536", 
@@ -265,6 +284,11 @@
       "street": "Rue Magrite"
     }, 
     {
+      "busnrs": [
+        "bt01", 
+        "bt02", 
+        "bt03"
+      ], 
       "hnrlbls": [
         "44"
       ], 

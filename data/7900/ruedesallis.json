@@ -97,6 +97,12 @@
       "street": "Rue des Alli\u00e9s"
     }, 
     {
+      "busnrs": [
+        "BTE2", 
+        "BTE3", 
+        "BTE4", 
+        "BTE5"
+      ], 
       "hnrlbls": [
         "107"
       ], 
@@ -241,6 +247,11 @@
       "street": "Rue des Alli\u00e9s"
     }, 
     {
+      "busnrs": [
+        "BTE1", 
+        "BTE2", 
+        "BTE3"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -458,35 +469,11 @@
     }, 
     {
       "hnrlbls": [
-        "21"
-      ], 
-      "housenumber": "21", 
-      "lat": 50.595505200617, 
-      "lon": 3.622844755184, 
-      "municipality": "Leuze-en-Hainaut", 
-      "pcode": "7900", 
-      "source": "7724279", 
-      "street": "Rue des Alli\u00e9s"
-    }, 
-    {
-      "hnrlbls": [
         "22"
       ], 
       "housenumber": "22", 
       "lat": 50.595807785244, 
       "lon": 3.623738948309, 
-      "municipality": "Leuze-en-Hainaut", 
-      "pcode": "7900", 
-      "source": "7724279", 
-      "street": "Rue des Alli\u00e9s"
-    }, 
-    {
-      "hnrlbls": [
-        "23"
-      ], 
-      "housenumber": "23", 
-      "lat": 50.595505200617, 
-      "lon": 3.622844755184, 
       "municipality": "Leuze-en-Hainaut", 
       "pcode": "7900", 
       "source": "7724279", 
@@ -521,8 +508,8 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 50.595528497681, 
-      "lon": 3.623654799917, 
+      "lat": 50.595557473813, 
+      "lon": 3.623629118401, 
       "municipality": "Leuze-en-Hainaut", 
       "pcode": "7900", 
       "source": "7724279", 
@@ -589,6 +576,15 @@
       "street": "Rue des Alli\u00e9s"
     }, 
     {
+      "busnrs": [
+        "APT1", 
+        "APT2", 
+        "APT3", 
+        "APT4", 
+        "APT5", 
+        "APT6", 
+        "APT7"
+      ], 
       "hnrlbls": [
         "32"
       ], 
@@ -811,6 +807,18 @@
       "housenumber": "49", 
       "lat": 50.594762208581, 
       "lon": 3.623040609953, 
+      "municipality": "Leuze-en-Hainaut", 
+      "pcode": "7900", 
+      "source": "7724279", 
+      "street": "Rue des Alli\u00e9s"
+    }, 
+    {
+      "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 50.595963481688, 
+      "lon": 3.623524217267, 
       "municipality": "Leuze-en-Hainaut", 
       "pcode": "7900", 
       "source": "7724279", 

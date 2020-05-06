@@ -37,6 +37,9 @@
       "street": "Avenue de Saint-Pierre"
     }, 
     {
+      "busnrs": [
+        "Rzch"
+      ], 
       "hnrlbls": [
         "104"
       ], 
@@ -49,6 +52,11 @@
       "street": "Avenue de Saint-Pierre"
     }, 
     {
+      "busnrs": [
+        "1-1", 
+        "2-1", 
+        "3-1"
+      ], 
       "hnrlbls": [
         "106"
       ], 
@@ -85,6 +93,11 @@
       "street": "Avenue de Saint-Pierre"
     }, 
     {
+      "busnrs": [
+        "1-1", 
+        "1-2", 
+        "2-2"
+      ], 
       "hnrlbls": [
         "112"
       ], 
@@ -241,6 +254,15 @@
       "street": "Avenue de Saint-Pierre"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "0-3", 
+        "1-1", 
+        "2-1", 
+        "2-2", 
+        "2-3"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -253,6 +275,9 @@
       "street": "Avenue de Saint-Pierre"
     }, 
     {
+      "busnrs": [
+        "B"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -301,6 +326,39 @@
       "street": "Avenue de Saint-Pierre"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "1-2", 
+        "10", 
+        "11", 
+        "2", 
+        "2-2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
+      "hnrlbls": [
+        "23"
+      ], 
+      "housenumber": "23", 
+      "lat": 50.450958951156, 
+      "lon": 3.962722576136, 
+      "municipality": "Mons", 
+      "pcode": "7000", 
+      "source": "7713064", 
+      "street": "Avenue de Saint-Pierre"
+    }, 
+    {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "1-1", 
+        "1-2"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -337,12 +395,30 @@
       "street": "Avenue de Saint-Pierre"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "0-3", 
+        "0-4", 
+        "1-1", 
+        "1-2", 
+        "1-3", 
+        "1-4", 
+        "2-1", 
+        "2-2", 
+        "2-3", 
+        "2-4", 
+        "3-1", 
+        "3-2", 
+        "3-3", 
+        "3-4"
+      ], 
       "hnrlbls": [
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.450783710853, 
-      "lon": 3.962681326092, 
+      "lat": 50.450826578395, 
+      "lon": 3.962695861421, 
       "municipality": "Mons", 
       "pcode": "7000", 
       "source": "7713064", 
@@ -361,12 +437,23 @@
       "street": "Avenue de Saint-Pierre"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "1-1", 
+        "1-2", 
+        "2-1", 
+        "2-2", 
+        "3-1", 
+        "3-2", 
+        "4-1"
+      ], 
       "hnrlbls": [
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 50.450775139944, 
-      "lon": 3.962679164735, 
+      "lat": 50.4507227289, 
+      "lon": 3.962656328663, 
       "municipality": "Mons", 
       "pcode": "7000", 
       "source": "7713064", 
@@ -409,6 +496,11 @@
       "street": "Avenue de Saint-Pierre"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "2-1"
+      ], 
       "hnrlbls": [
         "31B"
       ], 
@@ -421,6 +513,10 @@
       "street": "Avenue de Saint-Pierre"
     }, 
     {
+      "busnrs": [
+        "3-1", 
+        "3-2"
+      ], 
       "hnrlbls": [
         "31C"
       ], 
@@ -481,6 +577,17 @@
       "street": "Avenue de Saint-Pierre"
     }, 
     {
+      "busnrs": [
+        "1-1", 
+        "1-2", 
+        "12", 
+        "22", 
+        "3-1", 
+        "3-2", 
+        "5D", 
+        "Et-6", 
+        "RZCH"
+      ], 
       "hnrlbls": [
         "36"
       ], 
@@ -517,6 +624,12 @@
       "street": "Avenue de Saint-Pierre"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "1-1", 
+        "2-1"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -577,6 +690,11 @@
       "street": "Avenue de Saint-Pierre"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "2-1"
+      ], 
       "hnrlbls": [
         "44"
       ], 
@@ -721,6 +839,9 @@
       "street": "Avenue de Saint-Pierre"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "56"
       ], 
@@ -739,6 +860,18 @@
       "housenumber": "57", 
       "lat": 50.449559752173, 
       "lon": 3.962350288249, 
+      "municipality": "Mons", 
+      "pcode": "7000", 
+      "source": "7713064", 
+      "street": "Avenue de Saint-Pierre"
+    }, 
+    {
+      "hnrlbls": [
+        "58"
+      ], 
+      "housenumber": "58", 
+      "lat": 50.451135095322, 
+      "lon": 3.962415568711, 
       "municipality": "Mons", 
       "pcode": "7000", 
       "source": "7713064", 
@@ -773,8 +906,8 @@
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 50.451140516321, 
-      "lon": 3.962405968322, 
+      "lat": 50.451079475174, 
+      "lon": 3.962398295477, 
       "municipality": "Mons", 
       "pcode": "7000", 
       "source": "7713064", 
@@ -797,8 +930,8 @@
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 50.451084735397, 
-      "lon": 3.962376368515, 
+      "lat": 50.451029732408, 
+      "lon": 3.96237777137, 
       "municipality": "Mons", 
       "pcode": "7000", 
       "source": "7713064", 
@@ -821,8 +954,8 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 50.451036137594, 
-      "lon": 3.962354437792, 
+      "lat": 50.450973096649, 
+      "lon": 3.962353114378, 
       "municipality": "Mons", 
       "pcode": "7000", 
       "source": "7713064", 
@@ -833,8 +966,8 @@
         "66"
       ], 
       "housenumber": "66", 
-      "lat": 50.450975817366, 
-      "lon": 3.962327665002, 
+      "lat": 50.450902027254, 
+      "lon": 3.962313394622, 
       "municipality": "Mons", 
       "pcode": "7000", 
       "source": "7713064", 
@@ -857,14 +990,19 @@
         "68"
       ], 
       "housenumber": "68", 
-      "lat": 50.45090409978, 
-      "lon": 3.962296455752, 
+      "lat": 50.450824928577, 
+      "lon": 3.962273849099, 
       "municipality": "Mons", 
       "pcode": "7000", 
       "source": "7713064", 
       "street": "Avenue de Saint-Pierre"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "2-1"
+      ], 
       "hnrlbls": [
         "69"
       ], 
@@ -877,12 +1015,17 @@
       "street": "Avenue de Saint-Pierre"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "2-1"
+      ], 
       "hnrlbls": [
         "70"
       ], 
       "housenumber": "70", 
-      "lat": 50.450828826603, 
-      "lon": 3.962261418845, 
+      "lat": 50.450767527948, 
+      "lon": 3.962247972433, 
       "municipality": "Mons", 
       "pcode": "7000", 
       "source": "7713064", 
@@ -893,8 +1036,8 @@
         "72"
       ], 
       "housenumber": "72", 
-      "lat": 50.450768698281, 
-      "lon": 3.96222523857, 
+      "lat": 50.450717501647, 
+      "lon": 3.962209842831, 
       "municipality": "Mons", 
       "pcode": "7000", 
       "source": "7713064", 
@@ -937,12 +1080,34 @@
       "street": "Avenue de Saint-Pierre"
     }, 
     {
+      "busnrs": [
+        "0-C", 
+        "1-3", 
+        "1-A", 
+        "2-2", 
+        "2-3", 
+        "2-B", 
+        "2C", 
+        "3-B", 
+        "4-2", 
+        "4A", 
+        "5-C", 
+        "5A17", 
+        "6-3", 
+        "6A", 
+        "7-B", 
+        "79B4", 
+        "79B6", 
+        "79C1", 
+        "79C4", 
+        "7C.."
+      ], 
       "hnrlbls": [
         "77"
       ], 
       "housenumber": "77", 
-      "lat": 50.448804252246, 
-      "lon": 3.962667718586, 
+      "lat": 50.448838574131, 
+      "lon": 3.96261899422, 
       "municipality": "Mons", 
       "pcode": "7000", 
       "source": "7713064", 
@@ -961,12 +1126,15 @@
       "street": "Avenue de Saint-Pierre"
     }, 
     {
+      "busnrs": [
+        "21"
+      ], 
       "hnrlbls": [
         "79"
       ], 
       "housenumber": "79", 
-      "lat": 50.448804252246, 
-      "lon": 3.962667718586, 
+      "lat": 50.44876013684, 
+      "lon": 3.962636429091, 
       "municipality": "Mons", 
       "pcode": "7000", 
       "source": "7713064", 
@@ -986,6 +1154,25 @@
     }, 
     {
       "hnrlbls": [
+        "81"
+      ], 
+      "housenumber": "81", 
+      "lat": 50.448740099579, 
+      "lon": 3.962972740685, 
+      "municipality": "Mons", 
+      "pcode": "7000", 
+      "source": "7713064", 
+      "street": "Avenue de Saint-Pierre"
+    }, 
+    {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "1-1", 
+        "2-1", 
+        "2-2"
+      ], 
+      "hnrlbls": [
         "82"
       ], 
       "housenumber": "82", 
@@ -997,6 +1184,16 @@
       "street": "Avenue de Saint-Pierre"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "1-1", 
+        "1-2", 
+        "2-1", 
+        "2-2", 
+        "3-1", 
+        "3-2"
+      ], 
       "hnrlbls": [
         "83"
       ], 
@@ -1057,6 +1254,14 @@
       "street": "Avenue de Saint-Pierre"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "2-1", 
+        "3-1", 
+        "4-1", 
+        "5-1"
+      ], 
       "hnrlbls": [
         "90"
       ], 

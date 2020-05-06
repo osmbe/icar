@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "001"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -37,6 +40,9 @@
       "street": "Rue Jules Bordet"
     }, 
     {
+      "busnrs": [
+        "000B"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -97,6 +103,17 @@
       "street": "Rue Jules Bordet"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "011", 
+        "012", 
+        "021", 
+        "022", 
+        "023", 
+        "031"
+      ], 
       "hnrlbls": [
         "34"
       ], 

@@ -85,6 +85,10 @@
       "street": "Avenue du Castillon"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -133,6 +137,11 @@
       "street": "Avenue du Castillon"
     }, 
     {
+      "busnrs": [
+        "000", 
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -145,6 +154,10 @@
       "street": "Avenue du Castillon"
     }, 
     {
+      "busnrs": [
+        "0", 
+        "1"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -205,6 +218,10 @@
       "street": "Avenue du Castillon"
     }, 
     {
+      "busnrs": [
+        "0", 
+        "A"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -305,8 +322,8 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 50.610099458642, 
-      "lon": 4.639704235744, 
+      "lat": 50.610152592192, 
+      "lon": 4.639752742872, 
       "municipality": "Chastre", 
       "pcode": "1450", 
       "source": "7705217", 
@@ -590,6 +607,18 @@
     }, 
     {
       "hnrlbls": [
+        "62"
+      ], 
+      "housenumber": "62", 
+      "lat": 50.609057225851, 
+      "lon": 4.646986752551, 
+      "municipality": "Chastre", 
+      "pcode": "1450", 
+      "source": "7705217", 
+      "street": "Avenue du Castillon"
+    }, 
+    {
+      "hnrlbls": [
         "64"
       ], 
       "housenumber": "64", 
@@ -661,12 +690,29 @@
       "street": "Avenue du Castillon"
     }, 
     {
+      "busnrs": [
+        "0", 
+        "A", 
+        "C"
+      ], 
       "hnrlbls": [
         "71"
       ], 
       "housenumber": "71", 
-      "lat": 50.610600706655, 
-      "lon": 4.644242193503, 
+      "lat": 50.61102269596, 
+      "lon": 4.644560687347, 
+      "municipality": "Chastre", 
+      "pcode": "1450", 
+      "source": "7705217", 
+      "street": "Avenue du Castillon"
+    }, 
+    {
+      "hnrlbls": [
+        "77"
+      ], 
+      "housenumber": "77", 
+      "lat": 50.609981704458, 
+      "lon": 4.645688123659, 
       "municipality": "Chastre", 
       "pcode": "1450", 
       "source": "7705217", 

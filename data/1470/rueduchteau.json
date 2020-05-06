@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "Bte1"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -77,8 +80,8 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 50.612322931231, 
-      "lon": 4.505819533041, 
+      "lat": 50.612231465662, 
+      "lon": 4.505584034483, 
       "municipality": "Genappe", 
       "pcode": "1470", 
       "source": "7701598", 
@@ -469,6 +472,11 @@
       "street": "Rue du Ch\u00e2teau"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2", 
+        "Bte3"
+      ], 
       "hnrlbls": [
         "39"
       ], 

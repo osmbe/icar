@@ -385,6 +385,12 @@
       "street": "Rue de la Terre Franche"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2", 
+        "Bte3", 
+        "Bte4"
+      ], 
       "hnrlbls": [
         "145"
       ], 
@@ -601,6 +607,9 @@
       "street": "Rue de la Terre Franche"
     }, 
     {
+      "busnrs": [
+        "A000"
+      ], 
       "hnrlbls": [
         "33"
       ], 
@@ -1195,6 +1204,18 @@
       "housenumber": "92", 
       "lat": 50.56877548244, 
       "lon": 4.901255384537, 
+      "municipality": "Eghez\u00e9e", 
+      "pcode": "5310", 
+      "source": "7752099", 
+      "street": "Rue de la Terre Franche"
+    }, 
+    {
+      "hnrlbls": [
+        "94"
+      ], 
+      "housenumber": "94", 
+      "lat": 50.568453188029, 
+      "lon": 4.901495553434, 
       "municipality": "Eghez\u00e9e", 
       "pcode": "5310", 
       "source": "7752099", 

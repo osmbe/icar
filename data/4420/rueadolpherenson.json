@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "101"
       ], 
@@ -217,6 +220,10 @@
       "street": "Rue Adolphe Renson"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "011"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -343,6 +350,18 @@
       "housenumber": "151", 
       "lat": 50.641553832377, 
       "lon": 5.530271912401, 
+      "municipality": "Saint-Nicolas", 
+      "pcode": "4420", 
+      "source": "7731868", 
+      "street": "Rue Adolphe Renson"
+    }, 
+    {
+      "hnrlbls": [
+        "153"
+      ], 
+      "housenumber": "153", 
+      "lat": 50.641587966525, 
+      "lon": 5.530202492684, 
       "municipality": "Saint-Nicolas", 
       "pcode": "4420", 
       "source": "7731868", 

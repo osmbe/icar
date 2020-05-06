@@ -121,6 +121,9 @@
       "street": "Rue de devant les Bois"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -133,6 +136,10 @@
       "street": "Rue de devant les Bois"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -151,6 +158,18 @@
       "housenumber": "17", 
       "lat": 50.349611048681, 
       "lon": 4.643138706701, 
+      "municipality": "Mettet", 
+      "pcode": "5640", 
+      "source": "7752836", 
+      "street": "Rue de devant les Bois"
+    }, 
+    {
+      "hnrlbls": [
+        "18"
+      ], 
+      "housenumber": "18", 
+      "lat": 50.350014460407, 
+      "lon": 4.642680111254, 
       "municipality": "Mettet", 
       "pcode": "5640", 
       "source": "7752836", 
@@ -197,8 +216,8 @@
         "1B"
       ], 
       "housenumber": "1B", 
-      "lat": 50.351006656488, 
-      "lon": 4.649081727842, 
+      "lat": 50.350960783492, 
+      "lon": 4.649087290588, 
       "municipality": "Mettet", 
       "pcode": "5640", 
       "source": "7752836", 
@@ -217,6 +236,11 @@
       "street": "Rue de devant les Bois"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "20"
       ], 

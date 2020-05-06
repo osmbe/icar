@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "2", 
+        "B1"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -91,6 +95,18 @@
       "housenumber": "23", 
       "lat": 50.156438761478, 
       "lon": 4.323726467073, 
+      "municipality": "Froidchapelle", 
+      "pcode": "6440", 
+      "source": "7720462", 
+      "street": "Rue du Moulin"
+    }, 
+    {
+      "hnrlbls": [
+        "24"
+      ], 
+      "housenumber": "24", 
+      "lat": 50.157345386836, 
+      "lon": 4.322577601437, 
       "municipality": "Froidchapelle", 
       "pcode": "6440", 
       "source": "7720462", 

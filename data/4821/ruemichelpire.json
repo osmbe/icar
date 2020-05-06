@@ -2,6 +2,18 @@
   "addresses": [
     {
       "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.599241262973, 
+      "lon": 5.861328232954, 
+      "municipality": "Dison", 
+      "pcode": "4821", 
+      "source": "7735691", 
+      "street": "Rue Michel Pire"
+    }, 
+    {
+      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -253,12 +265,41 @@
       "street": "Rue Michel Pire"
     }, 
     {
+      "busnrs": [
+        "2EA", 
+        "2EB", 
+        "2EC", 
+        "2ED", 
+        "2EE", 
+        "2EF", 
+        "RZA", 
+        "RZB", 
+        "RZC", 
+        "RZD", 
+        "RZE", 
+        "RZF"
+      ], 
       "hnrlbls": [
         "1A"
       ], 
       "housenumber": "1A", 
-      "lat": 50.599239051752, 
-      "lon": 5.861327540038, 
+      "lat": 50.598779346943, 
+      "lon": 5.860774745938, 
+      "municipality": "Dison", 
+      "pcode": "4821", 
+      "source": "7735691", 
+      "street": "Rue Michel Pire"
+    }, 
+    {
+      "busnrs": [
+        "2ETA"
+      ], 
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.598727482807, 
+      "lon": 5.861370197046, 
       "municipality": "Dison", 
       "pcode": "4821", 
       "source": "7735691", 
@@ -445,6 +486,10 @@
       "street": "Rue Michel Pire"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0301"
+      ], 
       "hnrlbls": [
         "34"
       ], 

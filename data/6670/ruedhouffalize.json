@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "B", 
+        "Bte1"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -205,6 +209,15 @@
       "street": "Rue d'Houffalize"
     }, 
     {
+      "busnrs": [
+        "/A011", 
+        "/B002", 
+        "/B011", 
+        "2B/04", 
+        "Ab12", 
+        "Abt1", 
+        "Abt2"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -229,6 +242,10 @@
       "street": "Rue d'Houffalize"
     }, 
     {
+      "busnrs": [
+        "Ap.C", 
+        "ap.A"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -253,12 +270,43 @@
       "street": "Rue d'Houffalize"
     }, 
     {
+      "busnrs": [
+        "/0001", 
+        "/0011", 
+        "/002", 
+        "Bt12", 
+        "Bt13"
+      ], 
       "hnrlbls": [
         "22"
       ], 
       "housenumber": "22", 
       "lat": 50.186463832187, 
       "lon": 5.946880639337, 
+      "municipality": "Gouvy", 
+      "pcode": "6670", 
+      "source": "7743010", 
+      "street": "Rue d'Houffalize"
+    }, 
+    {
+      "hnrlbls": [
+        "22A"
+      ], 
+      "housenumber": "22A", 
+      "lat": 50.186523434753, 
+      "lon": 5.947292170078, 
+      "municipality": "Gouvy", 
+      "pcode": "6670", 
+      "source": "7743010", 
+      "street": "Rue d'Houffalize"
+    }, 
+    {
+      "hnrlbls": [
+        "22B"
+      ], 
+      "housenumber": "22B", 
+      "lat": 50.186555984376, 
+      "lon": 5.947426745431, 
       "municipality": "Gouvy", 
       "pcode": "6670", 
       "source": "7743010", 
@@ -493,6 +541,20 @@
       "street": "Rue d'Houffalize"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008", 
+        "0009", 
+        "0010", 
+        "0011", 
+        "0012", 
+        "Ap3"
+      ], 
       "hnrlbls": [
         "37"
       ], 
@@ -721,6 +783,15 @@
       "street": "Rue d'Houffalize"
     }, 
     {
+      "busnrs": [
+        "Ap.2", 
+        "Ap.6", 
+        "Ap3", 
+        "Ap4", 
+        "Ap5", 
+        "Ap7", 
+        "ap.1"
+      ], 
       "hnrlbls": [
         "54"
       ], 

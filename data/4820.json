@@ -119,9 +119,12 @@
     }, 
     {
       "b": 50.604928332034, 
-      "l": 5.838909120681, 
+      "l": 5.838927265514, 
       "name": "Hameau de Husquet", 
       "numOfAddr": 24, 
+      "otherPCs": [
+        "4800"
+      ], 
       "r": 5.84638289218, 
       "sanName": "hameaudehusquet", 
       "t": 50.606775088477
@@ -152,6 +155,9 @@
       "l": 5.847539039124, 
       "name": "Montagne de l'Invasion", 
       "numOfAddr": 33, 
+      "otherPCs": [
+        "4800"
+      ], 
       "r": 5.849204329258, 
       "sanName": "montagnedelinvasion", 
       "t": 50.598589225794
@@ -178,7 +184,7 @@
       "b": 50.602902500292, 
       "l": 5.854860081325, 
       "name": "Place Jean Roggeman", 
-      "numOfAddr": 16, 
+      "numOfAddr": 15, 
       "r": 5.855884815756, 
       "sanName": "placejeanroggeman", 
       "t": 50.603563182084
@@ -224,6 +230,9 @@
       "l": 5.849663522392, 
       "name": "Rue Adrien Bruy\u00e8re", 
       "numOfAddr": 22, 
+      "otherPCs": [
+        "4800"
+      ], 
       "r": 5.850016549611, 
       "sanName": "rueadrienbruyre", 
       "t": 50.598572765803
@@ -232,7 +241,7 @@
       "b": 50.60610125084, 
       "l": 5.853789578045, 
       "name": "Rue Albert Ier", 
-      "numOfAddr": 80, 
+      "numOfAddr": 78, 
       "r": 5.856020426047, 
       "sanName": "ruealbertier", 
       "t": 50.609761905936
@@ -251,18 +260,21 @@
       "l": 5.842299881562, 
       "name": "Rue Bellevue", 
       "numOfAddr": 32, 
+      "otherPCs": [
+        "4800"
+      ], 
       "r": 5.845506654805, 
       "sanName": "ruebellevue", 
       "t": 50.611767056688
     }, 
     {
       "b": 50.610871009206, 
-      "l": 5.843224213821, 
+      "l": 5.843218768881, 
       "name": "Rue Bois des Haies", 
       "numOfAddr": 22, 
       "r": 5.844648610398, 
       "sanName": "rueboisdeshaies", 
-      "t": 50.612975689265
+      "t": 50.612986614323
     }, 
     {
       "b": 50.616224415334, 
@@ -298,7 +310,7 @@
       "b": 50.608578159818, 
       "l": 5.846660363409, 
       "name": "Rue de Husquet", 
-      "numOfAddr": 76, 
+      "numOfAddr": 75, 
       "r": 5.849542722697, 
       "sanName": "ruedehusquet", 
       "t": 50.610798217976
@@ -317,6 +329,9 @@
       "l": 5.852304182696, 
       "name": "Rue de la Grappe", 
       "numOfAddr": 19, 
+      "otherPCs": [
+        "4800"
+      ], 
       "r": 5.85252156187, 
       "sanName": "ruedelagrappe", 
       "t": 50.599197536497
@@ -379,7 +394,7 @@
       "b": 50.610323498088, 
       "l": 5.857738630927, 
       "name": "Rue de Mont", 
-      "numOfAddr": 178, 
+      "numOfAddr": 177, 
       "r": 5.867169556383, 
       "sanName": "ruedemont", 
       "t": 50.626470427268
@@ -388,7 +403,7 @@
       "b": 50.610777603167, 
       "l": 5.843299924499, 
       "name": "Rue de Rechain", 
-      "numOfAddr": 137, 
+      "numOfAddr": 134, 
       "r": 5.849091712664, 
       "sanName": "ruederechain", 
       "t": 50.613067358752
@@ -562,8 +577,8 @@
       "b": 50.611835113955, 
       "l": 5.852556802047, 
       "name": "Rue du Vivier", 
-      "numOfAddr": 12, 
-      "r": 5.853790059941, 
+      "numOfAddr": 11, 
+      "r": 5.853298095422, 
       "sanName": "rueduvivier", 
       "t": 50.612556500516
     }, 
@@ -625,7 +640,7 @@
       "b": 50.601877659203, 
       "l": 5.853027040687, 
       "name": "Rue Neufmoulin", 
-      "numOfAddr": 47, 
+      "numOfAddr": 46, 
       "r": 5.856081541222, 
       "sanName": "rueneufmoulin", 
       "t": 50.602864181623
@@ -652,7 +667,7 @@
       "b": 50.597473838097, 
       "l": 5.852184155268, 
       "name": "Rue Pisseroule", 
-      "numOfAddr": 145, 
+      "numOfAddr": 143, 
       "r": 5.856925579861, 
       "sanName": "ruepisseroule", 
       "t": 50.606046463602
@@ -697,10 +712,10 @@
       "t": 50.610754729354
     }, 
     {
-      "b": 50.598575307997, 
+      "b": 50.598555091668, 
       "l": 5.850426482897, 
       "name": "So l'cr\u00e8sse", 
-      "numOfAddr": 14, 
+      "numOfAddr": 15, 
       "r": 5.851106401106, 
       "sanName": "solcrsse", 
       "t": 50.599260184252

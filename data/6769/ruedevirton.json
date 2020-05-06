@@ -17,8 +17,8 @@
         "100"
       ], 
       "housenumber": "100", 
-      "lat": 49.600867125713, 
-      "lon": 5.480956892404, 
+      "lat": 49.600860451259, 
+      "lon": 5.480970464887, 
       "municipality": "Meix-devant-Virton", 
       "pcode": "6769", 
       "source": "7747384", 
@@ -73,6 +73,10 @@
       "street": "Rue de Virton"
     }, 
     {
+      "busnrs": [
+        "app1", 
+        "app2"
+      ], 
       "hnrlbls": [
         "106"
       ], 
@@ -97,6 +101,13 @@
       "street": "Rue de Virton"
     }, 
     {
+      "busnrs": [
+        "0003", 
+        "App1", 
+        "App3", 
+        "app2", 
+        "app8"
+      ], 
       "hnrlbls": [
         "108"
       ], 
@@ -266,6 +277,18 @@
     }, 
     {
       "hnrlbls": [
+        "29B"
+      ], 
+      "housenumber": "29B", 
+      "lat": 49.602732899123, 
+      "lon": 5.481521953327, 
+      "municipality": "Meix-devant-Virton", 
+      "pcode": "6769", 
+      "source": "7747384", 
+      "street": "Rue de Virton"
+    }, 
+    {
+      "hnrlbls": [
         "30"
       ], 
       "housenumber": "30", 
@@ -277,6 +300,9 @@
       "street": "Rue de Virton"
     }, 
     {
+      "busnrs": [
+        "App1"
+      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -397,6 +423,11 @@
       "street": "Rue de Virton"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "App3"
+      ], 
       "hnrlbls": [
         "44"
       ], 
@@ -409,6 +440,10 @@
       "street": "Rue de Virton"
     }, 
     {
+      "busnrs": [
+        "app1", 
+        "app2"
+      ], 
       "hnrlbls": [
         "46"
       ], 
@@ -449,14 +484,18 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 49.598049233916, 
-      "lon": 5.482995945772, 
+      "lat": 49.598038176997, 
+      "lon": 5.48297098505, 
       "municipality": "Meix-devant-Virton", 
       "pcode": "6769", 
       "source": "7747384", 
       "street": "Rue de Virton"
     }, 
     {
+      "busnrs": [
+        "App2", 
+        "app1"
+      ], 
       "hnrlbls": [
         "52"
       ], 

@@ -86,11 +86,11 @@
     }, 
     {
       "hnrlbls": [
-        "21"
+        "20"
       ], 
-      "housenumber": "21", 
-      "lat": 50.483320662494, 
-      "lon": 4.543547150386, 
+      "housenumber": "20", 
+      "lat": 50.483092086776, 
+      "lon": 4.542763216225, 
       "municipality": "Fleurus", 
       "pcode": "6220", 
       "source": "7710128", 
@@ -98,11 +98,11 @@
     }, 
     {
       "hnrlbls": [
-        "22"
+        "21"
       ], 
-      "housenumber": "22", 
-      "lat": 50.483092086776, 
-      "lon": 4.542763216225, 
+      "housenumber": "21", 
+      "lat": 50.483320662494, 
+      "lon": 4.543547150386, 
       "municipality": "Fleurus", 
       "pcode": "6220", 
       "source": "7710128", 
@@ -421,12 +421,39 @@
       "street": "Rue Saint-Roch"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 50.483493944554, 
-      "lon": 4.542390158244, 
+      "lat": 50.483469546029, 
+      "lon": 4.54248066194, 
+      "municipality": "Fleurus", 
+      "pcode": "6220", 
+      "source": "7710128", 
+      "street": "Rue Saint-Roch"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "10", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8"
+      ], 
+      "hnrlbls": [
+        "53"
+      ], 
+      "housenumber": "53", 
+      "lat": 50.48351214601, 
+      "lon": 4.542297258821, 
       "municipality": "Fleurus", 
       "pcode": "6220", 
       "source": "7710128", 

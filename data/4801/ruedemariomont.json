@@ -49,6 +49,12 @@
       "street": "Rue de Mariomont"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "203", 
+        "204"
+      ], 
       "hnrlbls": [
         "139"
       ], 
@@ -62,23 +68,11 @@
     }, 
     {
       "hnrlbls": [
-        "21"
+        "139B"
       ], 
-      "housenumber": "21", 
-      "lat": 50.58303516487, 
-      "lon": 5.90154953898, 
-      "municipality": "Verviers", 
-      "pcode": "4801", 
-      "source": "7738840", 
-      "street": "Rue de Mariomont"
-    }, 
-    {
-      "hnrlbls": [
-        "27"
-      ], 
-      "housenumber": "27", 
-      "lat": 50.583210606742, 
-      "lon": 5.901895543392, 
+      "housenumber": "139B", 
+      "lat": 50.586555476786, 
+      "lon": 5.906992296566, 
       "municipality": "Verviers", 
       "pcode": "4801", 
       "source": "7738840", 
@@ -89,8 +83,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 50.583252324098, 
-      "lon": 5.901983458292, 
+      "lat": 50.583245140163, 
+      "lon": 5.901986962164, 
       "municipality": "Verviers", 
       "pcode": "4801", 
       "source": "7738840", 
@@ -101,8 +95,20 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 50.583299618959, 
-      "lon": 5.902035363583, 
+      "lat": 50.583280298911, 
+      "lon": 5.902057157213, 
+      "municipality": "Verviers", 
+      "pcode": "4801", 
+      "source": "7738840", 
+      "street": "Rue de Mariomont"
+    }, 
+    {
+      "hnrlbls": [
+        "41"
+      ], 
+      "housenumber": "41", 
+      "lat": 50.583562561817, 
+      "lon": 5.90239794276, 
       "municipality": "Verviers", 
       "pcode": "4801", 
       "source": "7738840", 
@@ -113,8 +119,8 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 50.583574971742, 
-      "lon": 5.902433403894, 
+      "lat": 50.583584139852, 
+      "lon": 5.902459859296, 
       "municipality": "Verviers", 
       "pcode": "4801", 
       "source": "7738840", 

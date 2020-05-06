@@ -73,6 +73,17 @@
       "street": "Rue Henkart"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0031"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -85,6 +96,15 @@
       "street": "Rue Henkart"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -122,6 +142,18 @@
     }, 
     {
       "hnrlbls": [
+        "21"
+      ], 
+      "housenumber": "21", 
+      "lat": 50.637032808855, 
+      "lon": 5.55913672315, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731028", 
+      "street": "Rue Henkart"
+    }, 
+    {
+      "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
@@ -133,6 +165,10 @@
       "street": "Rue Henkart"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "0021"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -145,6 +181,13 @@
       "street": "Rue Henkart"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -169,12 +212,43 @@
       "street": "Rue Henkart"
     }, 
     {
+      "busnrs": [
+        "0012"
+      ], 
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 50.636748699144, 
+      "lon": 5.559329609238, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731028", 
+      "street": "Rue Henkart"
+    }, 
+    {
       "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
       "lat": 50.636864948327, 
       "lon": 5.559587479569, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731028", 
+      "street": "Rue Henkart"
+    }, 
+    {
+      "busnrs": [
+        "0012", 
+        "0021"
+      ], 
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.636840010242, 
+      "lon": 5.559236481195, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731028", 

@@ -276,6 +276,8 @@ function getOsmInfo() {
 		');'+
 		'out center;'
 
+    //console.log(query);
+
 	var req = new XMLHttpRequest();
 	req.onreadystatechange = function()
 	{

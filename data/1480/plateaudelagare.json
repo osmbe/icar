@@ -1,12 +1,27 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "101"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
       "lat": 50.692639062757, 
       "lon": 4.205039517827, 
+      "municipality": "Tubize", 
+      "pcode": "1480", 
+      "source": "7703783", 
+      "street": "Plateau de la Gare"
+    }, 
+    {
+      "hnrlbls": [
+        "10"
+      ], 
+      "housenumber": "10", 
+      "lat": 50.692755651845, 
+      "lon": 4.205292517601, 
       "municipality": "Tubize", 
       "pcode": "1480", 
       "source": "7703783", 
@@ -25,6 +40,11 @@
       "street": "Plateau de la Gare"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "201", 
+        "R01"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -49,18 +69,10 @@
       "street": "Plateau de la Gare"
     }, 
     {
-      "hnrlbls": [
-        "16"
+      "busnrs": [
+        "101", 
+        "R01"
       ], 
-      "housenumber": "16", 
-      "lat": 50.692596726011, 
-      "lon": 4.205734759163, 
-      "municipality": "Tubize", 
-      "pcode": "1480", 
-      "source": "7703783", 
-      "street": "Plateau de la Gare"
-    }, 
-    {
       "hnrlbls": [
         "17"
       ], 
@@ -85,6 +97,10 @@
       "street": "Plateau de la Gare"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -97,6 +113,10 @@
       "street": "Plateau de la Gare"
     }, 
     {
+      "busnrs": [
+        "R01", 
+        "R02"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -109,6 +129,10 @@
       "street": "Plateau de la Gare"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "R01"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -133,6 +157,12 @@
       "street": "Plateau de la Gare"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "201", 
+        "301", 
+        "R01"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -145,6 +175,9 @@
       "street": "Plateau de la Gare"
     }, 
     {
+      "busnrs": [
+        "A101"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -157,6 +190,10 @@
       "street": "Plateau de la Gare"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -169,6 +206,11 @@
       "street": "Plateau de la Gare"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "102", 
+        "R01"
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -181,6 +223,10 @@
       "street": "Plateau de la Gare"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "R01"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -217,6 +263,10 @@
       "street": "Plateau de la Gare"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "R01"
+      ], 
       "hnrlbls": [
         "33"
       ], 
@@ -301,6 +351,14 @@
       "street": "Plateau de la Gare"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "R01", 
+        "R02"
+      ], 
       "hnrlbls": [
         "47"
       ], 
@@ -313,6 +371,14 @@
       "street": "Plateau de la Gare"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
+      ], 
       "hnrlbls": [
         "49"
       ], 
@@ -410,9 +476,9 @@
     }, 
     {
       "hnrlbls": [
-        "61"
+        "63"
       ], 
-      "housenumber": "61", 
+      "housenumber": "63", 
       "lat": 50.690929032667, 
       "lon": 4.204910173256, 
       "municipality": "Tubize", 
@@ -421,6 +487,9 @@
       "street": "Plateau de la Gare"
     }, 
     {
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "65"
       ], 
@@ -433,6 +502,11 @@
       "street": "Plateau de la Gare"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "7"
       ], 

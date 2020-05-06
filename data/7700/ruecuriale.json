@@ -121,6 +121,11 @@
       "street": "Rue Curiale"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -289,6 +294,11 @@
       "street": "Rue Curiale"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -337,6 +347,9 @@
       "street": "Rue Curiale"
     }, 
     {
+      "busnrs": [
+        "0002"
+      ], 
       "hnrlbls": [
         "50"
       ], 
@@ -365,8 +378,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.739215332956, 
-      "lon": 3.235617429423, 
+      "lat": 50.739245169597, 
+      "lon": 3.235456337852, 
       "municipality": "Mouscron", 
       "pcode": "7700", 
       "source": "7715714", 

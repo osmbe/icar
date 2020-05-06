@@ -37,6 +37,10 @@
       "street": "Rue Homvent"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "101"
       ], 
@@ -253,6 +257,10 @@
       "street": "Rue Homvent"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "011"
+      ], 
       "hnrlbls": [
         "151"
       ], 
@@ -269,8 +277,8 @@
         "155"
       ], 
       "housenumber": "155", 
-      "lat": 50.629360911895, 
-      "lon": 5.52193068654, 
+      "lat": 50.62933698541, 
+      "lon": 5.521935814159, 
       "municipality": "Saint-Nicolas", 
       "pcode": "4420", 
       "source": "7731995", 
@@ -319,6 +327,22 @@
       "housenumber": "165", 
       "lat": 50.629418335751, 
       "lon": 5.522255571255, 
+      "municipality": "Saint-Nicolas", 
+      "pcode": "4420", 
+      "source": "7731995", 
+      "street": "Rue Homvent"
+    }, 
+    {
+      "busnrs": [
+        "001", 
+        "002"
+      ], 
+      "hnrlbls": [
+        "17"
+      ], 
+      "housenumber": "17", 
+      "lat": 50.634382791579, 
+      "lon": 5.524927971087, 
       "municipality": "Saint-Nicolas", 
       "pcode": "4420", 
       "source": "7731995", 
@@ -421,6 +445,10 @@
       "street": "Rue Homvent"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "011"
+      ], 
       "hnrlbls": [
         "199"
       ], 
@@ -761,8 +789,8 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 50.631358446052, 
-      "lon": 5.521591694913, 
+      "lat": 50.631380720678, 
+      "lon": 5.521606601507, 
       "municipality": "Saint-Nicolas", 
       "pcode": "4420", 
       "source": "7731995", 
@@ -925,6 +953,20 @@
       "street": "Rue Homvent"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008", 
+        "0009", 
+        "001", 
+        "0010", 
+        "0011", 
+        "0012"
+      ], 
       "hnrlbls": [
         "80"
       ], 
@@ -967,6 +1009,22 @@
       "housenumber": "83", 
       "lat": 50.632058852208, 
       "lon": 5.522498301396, 
+      "municipality": "Saint-Nicolas", 
+      "pcode": "4420", 
+      "source": "7731995", 
+      "street": "Rue Homvent"
+    }, 
+    {
+      "busnrs": [
+        "0011", 
+        "021"
+      ], 
+      "hnrlbls": [
+        "88"
+      ], 
+      "housenumber": "88", 
+      "lat": 50.629442321739, 
+      "lon": 5.521688973077, 
       "municipality": "Saint-Nicolas", 
       "pcode": "4420", 
       "source": "7731995", 

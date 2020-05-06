@@ -1,12 +1,28 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1G", 
+        "2G"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
       "lat": 49.680780202669, 
       "lon": 5.811610108734, 
+      "municipality": "Arlon", 
+      "pcode": "6700", 
+      "source": "7741370", 
+      "street": "Avenue de la Gare"
+    }, 
+    {
+      "hnrlbls": [
+        "10"
+      ], 
+      "housenumber": "10", 
+      "lat": 49.680273797379, 
+      "lon": 5.811474409762, 
       "municipality": "Arlon", 
       "pcode": "6700", 
       "source": "7741370", 
@@ -97,6 +113,10 @@
       "street": "Avenue de la Gare"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -133,6 +153,9 @@
       "street": "Avenue de la Gare"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -265,6 +288,9 @@
       "street": "Avenue de la Gare"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -397,6 +423,9 @@
       "street": "Avenue de la Gare"
     }, 
     {
+      "busnrs": [
+        "3"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -565,6 +594,9 @@
       "street": "Avenue de la Gare"
     }, 
     {
+      "busnrs": [
+        "3"
+      ], 
       "hnrlbls": [
         "85"
       ], 

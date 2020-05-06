@@ -1,6 +1,17 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022", 
+        "0023"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -109,6 +120,12 @@
       "street": "Rue Henri-Koch"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -121,6 +138,12 @@
       "street": "Rue Henri-Koch"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -133,6 +156,12 @@
       "street": "Rue Henri-Koch"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -223,6 +252,18 @@
       "housenumber": "26", 
       "lat": 50.628079421396, 
       "lon": 5.559158081357, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731039", 
+      "street": "Rue Henri-Koch"
+    }, 
+    {
+      "hnrlbls": [
+        "26A"
+      ], 
+      "housenumber": "26A", 
+      "lat": 50.628199165381, 
+      "lon": 5.558998600256, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731039", 

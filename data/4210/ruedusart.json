@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "000A", 
+        "000B"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -25,12 +29,15 @@
       "street": "Rue du Sart"
     }, 
     {
+      "busnrs": [
+        "00PR"
+      ], 
       "hnrlbls": [
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 50.566240542546, 
-      "lon": 5.144116016909, 
+      "lat": 50.566051342567, 
+      "lon": 5.143620632124, 
       "municipality": "Burdinne", 
       "pcode": "4210", 
       "source": "7724788", 
@@ -121,6 +128,9 @@
       "street": "Rue du Sart"
     }, 
     {
+      "busnrs": [
+        "000B"
+      ], 
       "hnrlbls": [
         "9"
       ], 

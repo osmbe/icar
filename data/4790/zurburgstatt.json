@@ -97,6 +97,12 @@
       "street": "Zur Burgstatt"
     }, 
     {
+      "busnrs": [
+        "0A", 
+        "1A", 
+        "2A", 
+        "2B"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -229,6 +235,11 @@
       "street": "Zur Burgstatt"
     }, 
     {
+      "busnrs": [
+        "1A", 
+        "1B", 
+        "1C"
+      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -271,6 +282,18 @@
       "housenumber": "4", 
       "lat": 50.221528620257, 
       "lon": 6.023472323897, 
+      "municipality": "Burg-Reuland", 
+      "pcode": "4790", 
+      "source": "7763565", 
+      "street": "Zur Burgstatt"
+    }, 
+    {
+      "hnrlbls": [
+        "43"
+      ], 
+      "housenumber": "43", 
+      "lat": 50.220672140174, 
+      "lon": 6.018980135669, 
       "municipality": "Burg-Reuland", 
       "pcode": "4790", 
       "source": "7763565", 
@@ -397,6 +420,10 @@
       "street": "Zur Burgstatt"
     }, 
     {
+      "busnrs": [
+        "0A", 
+        "2A"
+      ], 
       "hnrlbls": [
         "87"
       ], 

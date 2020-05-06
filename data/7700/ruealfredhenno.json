@@ -13,6 +13,10 @@
       "street": "Rue Alfred Henno"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "100"
       ], 
@@ -205,6 +209,12 @@
       "street": "Rue Alfred Henno"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004"
+      ], 
       "hnrlbls": [
         "126"
       ], 
@@ -301,6 +311,23 @@
       "street": "Rue Alfred Henno"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
+      "hnrlbls": [
+        "134"
+      ], 
+      "housenumber": "134", 
+      "lat": 50.742442342805, 
+      "lon": 3.19526195713, 
+      "municipality": "Mouscron", 
+      "pcode": "7700", 
+      "source": "7715692", 
+      "street": "Rue Alfred Henno"
+    }, 
+    {
       "hnrlbls": [
         "135"
       ], 
@@ -329,14 +356,17 @@
         "137"
       ], 
       "housenumber": "137", 
-      "lat": 50.742690000908, 
-      "lon": 3.196177178555, 
+      "lat": 50.742705237936, 
+      "lon": 3.196099007547, 
       "municipality": "Mouscron", 
       "pcode": "7700", 
       "source": "7715692", 
       "street": "Rue Alfred Henno"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "138"
       ], 
@@ -355,6 +385,42 @@
       "housenumber": "14", 
       "lat": 50.745283132428, 
       "lon": 3.199601070446, 
+      "municipality": "Mouscron", 
+      "pcode": "7700", 
+      "source": "7715692", 
+      "street": "Rue Alfred Henno"
+    }, 
+    {
+      "hnrlbls": [
+        "143"
+      ], 
+      "housenumber": "143", 
+      "lat": 50.742545221693, 
+      "lon": 3.195914172678, 
+      "municipality": "Mouscron", 
+      "pcode": "7700", 
+      "source": "7715692", 
+      "street": "Rue Alfred Henno"
+    }, 
+    {
+      "hnrlbls": [
+        "145"
+      ], 
+      "housenumber": "145", 
+      "lat": 50.742509324329, 
+      "lon": 3.195857142948, 
+      "municipality": "Mouscron", 
+      "pcode": "7700", 
+      "source": "7715692", 
+      "street": "Rue Alfred Henno"
+    }, 
+    {
+      "hnrlbls": [
+        "147"
+      ], 
+      "housenumber": "147", 
+      "lat": 50.742461854547, 
+      "lon": 3.195784654495, 
       "municipality": "Mouscron", 
       "pcode": "7700", 
       "source": "7715692", 
@@ -409,6 +475,12 @@
       "street": "Rue Alfred Henno"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "A000", 
+        "B000", 
+        "B002"
+      ], 
       "hnrlbls": [
         "163"
       ], 

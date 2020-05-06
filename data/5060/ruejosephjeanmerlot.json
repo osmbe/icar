@@ -109,6 +109,9 @@
       "street": "Rue Joseph-Jean Merlot"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -473,8 +476,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.419002546556, 
-      "lon": 4.621125107978, 
+      "lat": 50.419037289501, 
+      "lon": 4.62146568065, 
       "municipality": "Sambreville", 
       "pcode": "5060", 
       "source": "7755479", 
@@ -493,6 +496,9 @@
       "street": "Rue Joseph-Jean Merlot"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "41"
       ], 
@@ -541,6 +547,9 @@
       "street": "Rue Joseph-Jean Merlot"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "43"
       ], 
@@ -925,6 +934,11 @@
       "street": "Rue Joseph-Jean Merlot"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "B000", 
+        "C000"
+      ], 
       "hnrlbls": [
         "71"
       ], 
@@ -1165,6 +1179,18 @@
       "street": "Rue Joseph-Jean Merlot"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008", 
+        "0009", 
+        "0010", 
+        "0011"
+      ], 
       "hnrlbls": [
         "89"
       ], 

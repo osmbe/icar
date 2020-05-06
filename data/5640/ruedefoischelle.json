@@ -185,20 +185,24 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 50.326452315309, 
-      "lon": 4.66847903428, 
+      "lat": 50.326453734972, 
+      "lon": 4.668518580013, 
       "municipality": "Mettet", 
       "pcode": "5640", 
       "source": "7752842", 
       "street": "Rue de Foischelle"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
       "hnrlbls": [
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 50.326660871311, 
-      "lon": 4.668777619485, 
+      "lat": 50.326701347611, 
+      "lon": 4.668763012673, 
       "municipality": "Mettet", 
       "pcode": "5640", 
       "source": "7752842", 
@@ -398,6 +402,26 @@
     }, 
     {
       "hnrlbls": [
+        "87"
+      ], 
+      "housenumber": "87", 
+      "lat": 50.326581895682, 
+      "lon": 4.657456619178, 
+      "municipality": "Mettet", 
+      "pcode": "5640", 
+      "source": "7752842", 
+      "street": "Rue de Foischelle"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
+      "hnrlbls": [
         "89"
       ], 
       "housenumber": "89", 
@@ -409,12 +433,38 @@
       "street": "Rue de Foischelle"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "91"
       ], 
       "housenumber": "91", 
       "lat": 50.326293498743, 
       "lon": 4.656832678703, 
+      "municipality": "Mettet", 
+      "pcode": "5640", 
+      "source": "7752842", 
+      "street": "Rue de Foischelle"
+    }, 
+    {
+      "busnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "004", 
+        "005", 
+        "006", 
+        "007"
+      ], 
+      "hnrlbls": [
+        "93"
+      ], 
+      "housenumber": "93", 
+      "lat": 50.326438315091, 
+      "lon": 4.656654615183, 
       "municipality": "Mettet", 
       "pcode": "5640", 
       "source": "7752842", 

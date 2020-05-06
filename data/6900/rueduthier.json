@@ -157,6 +157,9 @@
       "street": "Rue du Thier"
     }, 
     {
+      "busnrs": [
+        "A1"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -193,6 +196,10 @@
       "street": "Rue du Thier"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "11"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -254,9 +261,9 @@
     }, 
     {
       "hnrlbls": [
-        "33"
+        "31"
       ], 
-      "housenumber": "33", 
+      "housenumber": "31", 
       "lat": 50.208214361502, 
       "lon": 5.342356543315, 
       "municipality": "Marche-en-Famenne", 

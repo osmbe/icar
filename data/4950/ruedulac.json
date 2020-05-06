@@ -73,6 +73,9 @@
       "street": "Rue du Lac"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -97,6 +100,9 @@
       "street": "Rue du Lac"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -157,6 +163,11 @@
       "street": "Rue du Lac"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -193,6 +204,10 @@
       "street": "Rue du Lac"
     }, 
     {
+      "busnrs": [
+        "/1", 
+        "/2"
+      ], 
       "hnrlbls": [
         "33"
       ], 

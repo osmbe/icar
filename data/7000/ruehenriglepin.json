@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "Et-2"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -133,6 +138,12 @@
       "street": "Rue Henri Glepin"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "Et-2", 
+        "Et.1"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -145,6 +156,9 @@
       "street": "Rue Henri Glepin"
     }, 
     {
+      "busnrs": [
+        "1-1"
+      ], 
       "hnrlbls": [
         "9"
       ], 

@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "A000", 
+        "B000"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -157,6 +163,9 @@
       "street": "Rue Sainte-Catherine"
     }, 
     {
+      "busnrs": [
+        "B000"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -373,6 +382,13 @@
       "street": "Rue Sainte-Catherine"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "A000", 
+        "B000"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -389,8 +405,8 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 50.505705529407, 
-      "lon": 4.233942283219, 
+      "lat": 50.504148167189, 
+      "lon": 4.234980372621, 
       "municipality": "Manage", 
       "pcode": "7170", 
       "source": "7710844", 
@@ -517,6 +533,9 @@
       "street": "Rue Sainte-Catherine"
     }, 
     {
+      "busnrs": [
+        "B101"
+      ], 
       "hnrlbls": [
         "32"
       ], 
@@ -565,6 +584,9 @@
       "street": "Rue Sainte-Catherine"
     }, 
     {
+      "busnrs": [
+        "A000"
+      ], 
       "hnrlbls": [
         "36"
       ], 
@@ -601,6 +623,10 @@
       "street": "Rue Sainte-Catherine"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "A101"
+      ], 
       "hnrlbls": [
         "39"
       ], 
@@ -613,6 +639,14 @@
       "street": "Rue Sainte-Catherine"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "A000", 
+        "B000"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -685,6 +719,10 @@
       "street": "Rue Sainte-Catherine"
     }, 
     {
+      "busnrs": [
+        "B000", 
+        "C000"
+      ], 
       "hnrlbls": [
         "45"
       ], 
@@ -757,6 +795,11 @@
       "street": "Rue Sainte-Catherine"
     }, 
     {
+      "busnrs": [
+        "A000", 
+        "B000", 
+        "C000"
+      ], 
       "hnrlbls": [
         "54"
       ], 
@@ -877,6 +920,9 @@
       "street": "Rue Sainte-Catherine"
     }, 
     {
+      "busnrs": [
+        "BIS0"
+      ], 
       "hnrlbls": [
         "63"
       ], 

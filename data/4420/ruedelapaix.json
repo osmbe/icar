@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0002"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -181,6 +184,10 @@
       "street": "Rue de la Paix"
     }, 
     {
+      "busnrs": [
+        "011", 
+        "021"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -233,8 +240,8 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 50.627280940348, 
-      "lon": 5.541710057334, 
+      "lat": 50.627267805427, 
+      "lon": 5.541777457959, 
       "municipality": "Saint-Nicolas", 
       "pcode": "4420", 
       "source": "7731907", 

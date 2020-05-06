@@ -49,6 +49,9 @@
       "street": "Rue de Messancy"
     }, 
     {
+      "busnrs": [
+        "01"
+      ], 
       "hnrlbls": [
         "110"
       ], 
@@ -65,8 +68,8 @@
         "111"
       ], 
       "housenumber": "111", 
-      "lat": 49.578027891073, 
-      "lon": 5.806888932433, 
+      "lat": 49.578022037481, 
+      "lon": 5.806973819025, 
       "municipality": "Aubange", 
       "pcode": "6790", 
       "source": "7742011", 
@@ -469,6 +472,10 @@
       "street": "Rue de Messancy"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "11"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -661,6 +668,17 @@
       "street": "Rue de Messancy"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "02", 
+        "03", 
+        "04", 
+        "11", 
+        "13", 
+        "14", 
+        "21", 
+        "22"
+      ], 
       "hnrlbls": [
         "48"
       ], 
@@ -685,6 +703,11 @@
       "street": "Rue de Messancy"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "21", 
+        "22"
+      ], 
       "hnrlbls": [
         "50"
       ], 
@@ -709,6 +732,9 @@
       "street": "Rue de Messancy"
     }, 
     {
+      "busnrs": [
+        "01"
+      ], 
       "hnrlbls": [
         "54"
       ], 
@@ -829,6 +855,10 @@
       "street": "Rue de Messancy"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "11"
+      ], 
       "hnrlbls": [
         "66"
       ], 
@@ -841,6 +871,10 @@
       "street": "Rue de Messancy"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "12"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -901,6 +935,11 @@
       "street": "Rue de Messancy"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "02", 
+        "03"
+      ], 
       "hnrlbls": [
         "73"
       ], 

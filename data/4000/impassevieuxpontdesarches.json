@@ -1,6 +1,13 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,12 +20,28 @@
       "street": "Impasse Vieux-Pont-des-Arches"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
       "lat": 50.64436522098, 
       "lon": 5.578026968219, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729911", 
+      "street": "Impasse Vieux-Pont-des-Arches"
+    }, 
+    {
+      "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 50.64431920877, 
+      "lon": 5.577925010703, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7729911", 

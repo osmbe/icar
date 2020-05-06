@@ -97,6 +97,9 @@
       "street": "Rue des Brasseurs"
     }, 
     {
+      "busnrs": [
+        "0102"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -121,6 +124,10 @@
       "street": "Rue des Brasseurs"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "Bt01"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -133,6 +140,11 @@
       "street": "Rue des Brasseurs"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "RDCH"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -290,6 +302,18 @@
     }, 
     {
       "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 50.596593800395, 
+      "lon": 4.324252822493, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703064", 
+      "street": "Rue des Brasseurs"
+    }, 
+    {
+      "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
@@ -313,6 +337,12 @@
       "street": "Rue des Brasseurs"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt04"
+      ], 
       "hnrlbls": [
         "8"
       ], 

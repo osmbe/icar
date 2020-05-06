@@ -49,6 +49,13 @@
       "street": "Rue d'Arlon"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "0/2", 
+        "1/1", 
+        "1/2", 
+        "A1/1"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -97,6 +104,16 @@
       "street": "Rue d'Arlon"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "0/2", 
+        "1/1", 
+        "1/2", 
+        "2/1", 
+        "2/2", 
+        "3/1", 
+        "3/2"
+      ], 
       "hnrlbls": [
         "117"
       ], 
@@ -121,6 +138,16 @@
       "street": "Rue d'Arlon"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "0/2", 
+        "01/2", 
+        "1/2", 
+        "2/1", 
+        "2/2", 
+        "3/1", 
+        "3/2"
+      ], 
       "hnrlbls": [
         "119"
       ], 
@@ -157,6 +184,16 @@
       "street": "Rue d'Arlon"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "0/2", 
+        "1/1", 
+        "1/2", 
+        "2/1", 
+        "2/2", 
+        "3/1", 
+        "3/2"
+      ], 
       "hnrlbls": [
         "122"
       ], 
@@ -181,6 +218,16 @@
       "street": "Rue d'Arlon"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "0/2", 
+        "1/1", 
+        "1/2", 
+        "2/1", 
+        "2/2", 
+        "3/1", 
+        "3/2"
+      ], 
       "hnrlbls": [
         "124"
       ], 
@@ -265,6 +312,14 @@
       "street": "Rue d'Arlon"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "0/2", 
+        "1/1", 
+        "1/2", 
+        "2/1", 
+        "2/2"
+      ], 
       "hnrlbls": [
         "132"
       ], 
@@ -289,6 +344,19 @@
       "street": "Rue d'Arlon"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "0/2", 
+        "0/3", 
+        "1/1", 
+        "1/2", 
+        "1/3", 
+        "2/1", 
+        "2/2", 
+        "2/3", 
+        "3/1", 
+        "3/2"
+      ], 
       "hnrlbls": [
         "134"
       ], 
@@ -313,6 +381,19 @@
       "street": "Rue d'Arlon"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "0/2", 
+        "0/3", 
+        "1/1", 
+        "1/2", 
+        "1/3", 
+        "2/1", 
+        "2/2", 
+        "2/3", 
+        "3/1", 
+        "3/2"
+      ], 
       "hnrlbls": [
         "136"
       ], 
@@ -337,12 +418,32 @@
       "street": "Rue d'Arlon"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "0/2", 
+        "1/1", 
+        "1/2", 
+        "2/1", 
+        "2/2"
+      ], 
       "hnrlbls": [
         "138"
       ], 
       "housenumber": "138", 
       "lat": 49.603982288891, 
       "lon": 5.811971608027, 
+      "municipality": "Messancy", 
+      "pcode": "6780", 
+      "source": "7742214", 
+      "street": "Rue d'Arlon"
+    }, 
+    {
+      "hnrlbls": [
+        "141"
+      ], 
+      "housenumber": "141", 
+      "lat": 49.604214982653, 
+      "lon": 5.811315475935, 
       "municipality": "Messancy", 
       "pcode": "6780", 
       "source": "7742214", 
@@ -365,8 +466,20 @@
         "143"
       ], 
       "housenumber": "143", 
-      "lat": 49.604352424023, 
-      "lon": 5.811298258275, 
+      "lat": 49.604310985838, 
+      "lon": 5.811301411847, 
+      "municipality": "Messancy", 
+      "pcode": "6780", 
+      "source": "7742214", 
+      "street": "Rue d'Arlon"
+    }, 
+    {
+      "hnrlbls": [
+        "143A"
+      ], 
+      "housenumber": "143A", 
+      "lat": 49.604392063891, 
+      "lon": 5.811281784577, 
       "municipality": "Messancy", 
       "pcode": "6780", 
       "source": "7742214", 
@@ -469,6 +582,9 @@
       "street": "Rue d'Arlon"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "156"
       ], 
@@ -541,12 +657,30 @@
       "street": "Rue d'Arlon"
     }, 
     {
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "162A"
       ], 
       "housenumber": "162A", 
-      "lat": 49.605844873669, 
-      "lon": 5.811662543637, 
+      "lat": 49.605863262842, 
+      "lon": 5.811638198646, 
+      "municipality": "Messancy", 
+      "pcode": "6780", 
+      "source": "7742214", 
+      "street": "Rue d'Arlon"
+    }, 
+    {
+      "busnrs": [
+        "1/1"
+      ], 
+      "hnrlbls": [
+        "162B"
+      ], 
+      "housenumber": "162B", 
+      "lat": 49.605807345162, 
+      "lon": 5.811723844113, 
       "municipality": "Messancy", 
       "pcode": "6780", 
       "source": "7742214", 
@@ -581,8 +715,20 @@
         "164A"
       ], 
       "housenumber": "164A", 
-      "lat": 49.606068525197, 
-      "lon": 5.811661912827, 
+      "lat": 49.606064582198, 
+      "lon": 5.811597360698, 
+      "municipality": "Messancy", 
+      "pcode": "6780", 
+      "source": "7742214", 
+      "street": "Rue d'Arlon"
+    }, 
+    {
+      "hnrlbls": [
+        "164B"
+      ], 
+      "housenumber": "164B", 
+      "lat": 49.606085692663, 
+      "lon": 5.811762925096, 
       "municipality": "Messancy", 
       "pcode": "6780", 
       "source": "7742214", 
@@ -709,6 +855,9 @@
       "street": "Rue d'Arlon"
     }, 
     {
+      "busnrs": [
+        "B"
+      ], 
       "hnrlbls": [
         "175"
       ], 
@@ -749,8 +898,20 @@
         "177"
       ], 
       "housenumber": "177", 
-      "lat": 49.607198894786, 
-      "lon": 5.8108266658, 
+      "lat": 49.607202697812, 
+      "lon": 5.810864671294, 
+      "municipality": "Messancy", 
+      "pcode": "6780", 
+      "source": "7742214", 
+      "street": "Rue d'Arlon"
+    }, 
+    {
+      "hnrlbls": [
+        "177A"
+      ], 
+      "housenumber": "177A", 
+      "lat": 49.607193456234, 
+      "lon": 5.810780814148, 
       "municipality": "Messancy", 
       "pcode": "6780", 
       "source": "7742214", 
@@ -794,11 +955,26 @@
     }, 
     {
       "hnrlbls": [
+        "186"
+      ], 
+      "housenumber": "186", 
+      "lat": 49.608073260616, 
+      "lon": 5.811286737049, 
+      "municipality": "Messancy", 
+      "pcode": "6780", 
+      "source": "7742214", 
+      "street": "Rue d'Arlon"
+    }, 
+    {
+      "busnrs": [
+        "A"
+      ], 
+      "hnrlbls": [
         "188"
       ], 
       "housenumber": "188", 
-      "lat": 49.608073260616, 
-      "lon": 5.811286737049, 
+      "lat": 49.60820259916, 
+      "lon": 5.811265744222, 
       "municipality": "Messancy", 
       "pcode": "6780", 
       "source": "7742214", 
@@ -817,12 +993,41 @@
       "street": "Rue d'Arlon"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B", 
+        "C"
+      ], 
       "hnrlbls": [
         "190"
       ], 
       "housenumber": "190", 
       "lat": 49.608405817151, 
       "lon": 5.811220665747, 
+      "municipality": "Messancy", 
+      "pcode": "6780", 
+      "source": "7742214", 
+      "street": "Rue d'Arlon"
+    }, 
+    {
+      "hnrlbls": [
+        "192"
+      ], 
+      "housenumber": "192", 
+      "lat": 49.608644671654, 
+      "lon": 5.811190364521, 
+      "municipality": "Messancy", 
+      "pcode": "6780", 
+      "source": "7742214", 
+      "street": "Rue d'Arlon"
+    }, 
+    {
+      "hnrlbls": [
+        "199"
+      ], 
+      "housenumber": "199", 
+      "lat": 49.609478518908, 
+      "lon": 5.808742195055, 
       "municipality": "Messancy", 
       "pcode": "6780", 
       "source": "7742214", 
@@ -1153,6 +1358,11 @@
       "street": "Rue d'Arlon"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B", 
+        "C"
+      ], 
       "hnrlbls": [
         "48"
       ], 
@@ -1213,6 +1423,10 @@
       "street": "Rue d'Arlon"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "53"
       ], 
@@ -1225,6 +1439,22 @@
       "street": "Rue d'Arlon"
     }, 
     {
+      "hnrlbls": [
+        "54"
+      ], 
+      "housenumber": "54", 
+      "lat": 49.599531786765, 
+      "lon": 5.814445526973, 
+      "municipality": "Messancy", 
+      "pcode": "6780", 
+      "source": "7742214", 
+      "street": "Rue d'Arlon"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "55"
       ], 
@@ -1261,6 +1491,17 @@
       "street": "Rue d'Arlon"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "1/1", 
+        "1/2", 
+        "A", 
+        "B1/1", 
+        "B1/2", 
+        "B2/1", 
+        "B3/1", 
+        "BO1"
+      ], 
       "hnrlbls": [
         "61"
       ], 
@@ -1285,6 +1526,11 @@
       "street": "Rue d'Arlon"
     }, 
     {
+      "busnrs": [
+        "A1", 
+        "A2", 
+        "A3"
+      ], 
       "hnrlbls": [
         "63"
       ], 
@@ -1573,6 +1819,9 @@
       "street": "Rue d'Arlon"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "9"
       ], 
@@ -1601,8 +1850,8 @@
         "94"
       ], 
       "housenumber": "94", 
-      "lat": 49.600914001706, 
-      "lon": 5.812546136587, 
+      "lat": 49.600940133104, 
+      "lon": 5.812596337516, 
       "municipality": "Messancy", 
       "pcode": "6780", 
       "source": "7742214", 

@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A---"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -29,8 +32,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.771029787308, 
-      "lon": 2.996672557883, 
+      "lat": 50.770988074235, 
+      "lon": 2.996663110403, 
       "municipality": "Comines-Warneton", 
       "pcode": "7780", 
       "source": "7716335", 
@@ -41,8 +44,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.771021230219, 
-      "lon": 2.996582969426, 
+      "lat": 50.770974268581, 
+      "lon": 2.996601352175, 
       "municipality": "Comines-Warneton", 
       "pcode": "7780", 
       "source": "7716335", 
@@ -61,6 +64,14 @@
       "street": "Rue des D\u00e9port\u00e9s"
     }, 
     {
+      "busnrs": [
+        "1/01", 
+        "1/02", 
+        "2/01", 
+        "2/02", 
+        "3/01", 
+        "3/02"
+      ], 
       "hnrlbls": [
         "9"
       ], 

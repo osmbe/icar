@@ -1,12 +1,39 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
       "lat": 50.198183994051, 
       "lon": 4.304640569857, 
+      "municipality": "Froidchapelle", 
+      "pcode": "6440", 
+      "source": "7720480", 
+      "street": "Rue Vigneron"
+    }, 
+    {
+      "hnrlbls": [
+        "14"
+      ], 
+      "housenumber": "14", 
+      "lat": 50.197340380554, 
+      "lon": 4.30459050386, 
+      "municipality": "Froidchapelle", 
+      "pcode": "6440", 
+      "source": "7720480", 
+      "street": "Rue Vigneron"
+    }, 
+    {
+      "hnrlbls": [
+        "16"
+      ], 
+      "housenumber": "16", 
+      "lat": 50.196346203309, 
+      "lon": 4.304851222633, 
       "municipality": "Froidchapelle", 
       "pcode": "6440", 
       "source": "7720480", 

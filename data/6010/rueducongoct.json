@@ -25,6 +25,11 @@
       "street": "Rue du Congo (CT)"
     }, 
     {
+      "busnrs": [
+        "002", 
+        "011", 
+        "012"
+      ], 
       "hnrlbls": [
         "101"
       ], 
@@ -37,6 +42,11 @@
       "street": "Rue du Congo (CT)"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "011", 
+        "012"
+      ], 
       "hnrlbls": [
         "103"
       ], 
@@ -49,6 +59,13 @@
       "street": "Rue du Congo (CT)"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "002", 
+        "011", 
+        "012", 
+        "SS01"
+      ], 
       "hnrlbls": [
         "105"
       ], 
@@ -73,6 +90,12 @@
       "street": "Rue du Congo (CT)"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "011", 
+        "012", 
+        "SS 1"
+      ], 
       "hnrlbls": [
         "107"
       ], 
@@ -85,6 +108,9 @@
       "street": "Rue du Congo (CT)"
     }, 
     {
+      "busnrs": [
+        "012"
+      ], 
       "hnrlbls": [
         "109"
       ], 
@@ -97,6 +123,12 @@
       "street": "Rue du Congo (CT)"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "002", 
+        "011", 
+        "012"
+      ], 
       "hnrlbls": [
         "111"
       ], 
@@ -109,6 +141,12 @@
       "street": "Rue du Congo (CT)"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "002", 
+        "011", 
+        "012"
+      ], 
       "hnrlbls": [
         "113"
       ], 
@@ -121,6 +159,11 @@
       "street": "Rue du Congo (CT)"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "002", 
+        "012"
+      ], 
       "hnrlbls": [
         "115"
       ], 
@@ -133,6 +176,12 @@
       "street": "Rue du Congo (CT)"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "011", 
+        "012", 
+        "022"
+      ], 
       "hnrlbls": [
         "117"
       ], 
@@ -145,6 +194,12 @@
       "street": "Rue du Congo (CT)"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "002", 
+        "012", 
+        "021"
+      ], 
       "hnrlbls": [
         "119"
       ], 
@@ -625,12 +680,17 @@
       "street": "Rue du Congo (CT)"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "000B", 
+        "001"
+      ], 
       "hnrlbls": [
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 50.386574157719, 
-      "lon": 4.472144561261, 
+      "lat": 50.386378849229, 
+      "lon": 4.472346663165, 
       "municipality": "Charleroi", 
       "pcode": "6010", 
       "source": "7760410", 

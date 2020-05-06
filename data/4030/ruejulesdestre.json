@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -13,6 +17,11 @@
       "street": "Rue Jules-Destr\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -229,6 +238,10 @@
       "street": "Rue Jules-Destr\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -289,6 +302,11 @@
       "street": "Rue Jules-Destr\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -386,6 +404,18 @@
     }, 
     {
       "hnrlbls": [
+        "36B"
+      ], 
+      "housenumber": "36B", 
+      "lat": 50.630662535634, 
+      "lon": 5.604566510056, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7731115", 
+      "street": "Rue Jules-Destr\u00e9e"
+    }, 
+    {
+      "hnrlbls": [
         "37"
       ], 
       "housenumber": "37", 
@@ -469,6 +499,10 @@
       "street": "Rue Jules-Destr\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "41"
       ], 
@@ -505,12 +539,30 @@
       "street": "Rue Jules-Destr\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "A001", 
+        "A011"
+      ], 
       "hnrlbls": [
         "44"
       ], 
       "housenumber": "44", 
       "lat": 50.63105046624, 
       "lon": 5.604520305917, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7731115", 
+      "street": "Rue Jules-Destr\u00e9e"
+    }, 
+    {
+      "hnrlbls": [
+        "44A"
+      ], 
+      "housenumber": "44A", 
+      "lat": 50.630971558963, 
+      "lon": 5.604055073873, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4030", 
       "source": "7731115", 
@@ -529,6 +581,12 @@
       "street": "Rue Jules-Destr\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "46"
       ], 

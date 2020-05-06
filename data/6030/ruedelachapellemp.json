@@ -133,6 +133,9 @@
       "street": "Rue de la Chapelle (MP)"
     }, 
     {
+      "busnrs": [
+        "011"
+      ], 
       "hnrlbls": [
         "117"
       ], 
@@ -253,6 +256,11 @@
       "street": "Rue de la Chapelle (MP)"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "011", 
+        "021"
+      ], 
       "hnrlbls": [
         "147"
       ], 
@@ -265,6 +273,10 @@
       "street": "Rue de la Chapelle (MP)"
     }, 
     {
+      "busnrs": [
+        "011", 
+        "021"
+      ], 
       "hnrlbls": [
         "149"
       ], 
@@ -329,8 +341,8 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 50.41797405697, 
-      "lon": 4.425959839192, 
+      "lat": 50.401346004311, 
+      "lon": 4.396137070798, 
       "municipality": "Charleroi", 
       "pcode": "6030", 
       "source": "7760614", 
@@ -353,8 +365,8 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 50.401297902252, 
-      "lon": 4.396152261834, 
+      "lat": 50.417971236148, 
+      "lon": 4.425865222253, 
       "municipality": "Charleroi", 
       "pcode": "6030", 
       "source": "7760614", 
@@ -613,6 +625,10 @@
       "street": "Rue de la Chapelle (MP)"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "011"
+      ], 
       "hnrlbls": [
         "46"
       ], 

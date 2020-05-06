@@ -1,12 +1,33 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "Bt01", 
+        "Bt02", 
+        "Bt03"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.597454910676, 
-      "lon": 4.327323908358, 
+      "lat": 50.597496536068, 
+      "lon": 4.327322938847, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7702966", 
+      "street": "Rue Al'Gaille"
+    }, 
+    {
+      "busnrs": [
+        "BteB"
+      ], 
+      "hnrlbls": [
+        "11"
+      ], 
+      "housenumber": "11", 
+      "lat": 50.597344315266, 
+      "lon": 4.327847787908, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702966", 
@@ -14,11 +35,11 @@
     }, 
     {
       "hnrlbls": [
-        "11"
+        "13"
       ], 
-      "housenumber": "11", 
-      "lat": 50.597133065104, 
-      "lon": 4.327421940464, 
+      "housenumber": "13", 
+      "lat": 50.597135553299, 
+      "lon": 4.327423801327, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702966", 

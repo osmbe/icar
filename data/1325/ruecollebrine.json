@@ -1,6 +1,14 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "0-3", 
+        "1-1", 
+        "1-2", 
+        "1-3"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -26,11 +34,35 @@
     }, 
     {
       "hnrlbls": [
+        "14"
+      ], 
+      "housenumber": "14", 
+      "lat": 50.687393729047, 
+      "lon": 4.696853777292, 
+      "municipality": "Chaumont-Gistoux", 
+      "pcode": "1325", 
+      "source": "7701098", 
+      "street": "Rue Collebrine"
+    }, 
+    {
+      "hnrlbls": [
         "15"
       ], 
       "housenumber": "15", 
       "lat": 50.688082535485, 
       "lon": 4.69454104589, 
+      "municipality": "Chaumont-Gistoux", 
+      "pcode": "1325", 
+      "source": "7701098", 
+      "street": "Rue Collebrine"
+    }, 
+    {
+      "hnrlbls": [
+        "16"
+      ], 
+      "housenumber": "16", 
+      "lat": 50.688295705125, 
+      "lon": 4.697164046369, 
       "municipality": "Chaumont-Gistoux", 
       "pcode": "1325", 
       "source": "7701098", 
@@ -61,6 +93,9 @@
       "street": "Rue Collebrine"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -110,11 +145,23 @@
     }, 
     {
       "hnrlbls": [
+        "34A"
+      ], 
+      "housenumber": "34A", 
+      "lat": 50.688584520755, 
+      "lon": 4.69448814077, 
+      "municipality": "Chaumont-Gistoux", 
+      "pcode": "1325", 
+      "source": "7701098", 
+      "street": "Rue Collebrine"
+    }, 
+    {
+      "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.688295705125, 
-      "lon": 4.697164046369, 
+      "lat": 50.686861450609, 
+      "lon": 4.697271777573, 
       "municipality": "Chaumont-Gistoux", 
       "pcode": "1325", 
       "source": "7701098", 
@@ -137,8 +184,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.687991815066, 
-      "lon": 4.695574509177, 
+      "lat": 50.686849826561, 
+      "lon": 4.697037426447, 
       "municipality": "Chaumont-Gistoux", 
       "pcode": "1325", 
       "source": "7701098", 

@@ -133,6 +133,11 @@
       "street": "Rue Delval"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "201", 
+        "R01"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -355,18 +360,6 @@
       "housenumber": "45", 
       "lat": 50.672833953155, 
       "lon": 4.217985717225, 
-      "municipality": "Tubize", 
-      "pcode": "1480", 
-      "source": "7703854", 
-      "street": "Rue Delval"
-    }, 
-    {
-      "hnrlbls": [
-        "49"
-      ], 
-      "housenumber": "49", 
-      "lat": 50.672885571925, 
-      "lon": 4.217949661958, 
       "municipality": "Tubize", 
       "pcode": "1480", 
       "source": "7703854", 

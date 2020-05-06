@@ -13,12 +13,36 @@
       "street": "Rue Michel Body"
     }, 
     {
+      "busnrs": [
+        "A001", 
+        "B001", 
+        "B003", 
+        "B004", 
+        "B005", 
+        "B006", 
+        "B007", 
+        "B009", 
+        "B013", 
+        "B014"
+      ], 
+      "hnrlbls": [
+        "10"
+      ], 
+      "housenumber": "10", 
+      "lat": 50.631229258588, 
+      "lon": 5.475453985932, 
+      "municipality": "Gr\u00e2ce-Hollogne", 
+      "pcode": "4460", 
+      "source": "7733764", 
+      "street": "Rue Michel Body"
+    }, 
+    {
       "hnrlbls": [
         "10A"
       ], 
       "housenumber": "10A", 
-      "lat": 50.631909126053, 
-      "lon": 5.475223670313, 
+      "lat": 50.631854611859, 
+      "lon": 5.475177509415, 
       "municipality": "Gr\u00e2ce-Hollogne", 
       "pcode": "4460", 
       "source": "7733764", 
@@ -193,6 +217,10 @@
       "street": "Rue Michel Body"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -542,6 +570,21 @@
     }, 
     {
       "hnrlbls": [
+        "48A"
+      ], 
+      "housenumber": "48A", 
+      "lat": 50.628433519298, 
+      "lon": 5.476060338163, 
+      "municipality": "Gr\u00e2ce-Hollogne", 
+      "pcode": "4460", 
+      "source": "7733764", 
+      "street": "Rue Michel Body"
+    }, 
+    {
+      "busnrs": [
+        "0001"
+      ], 
+      "hnrlbls": [
         "49"
       ], 
       "housenumber": "49", 
@@ -865,6 +908,18 @@
       "street": "Rue Michel Body"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008", 
+        "0009", 
+        "0010", 
+        "0012"
+      ], 
       "hnrlbls": [
         "75"
       ], 
@@ -877,6 +932,19 @@
       "street": "Rue Michel Body"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008", 
+        "0009", 
+        "0010", 
+        "0011"
+      ], 
       "hnrlbls": [
         "76"
       ], 
@@ -889,6 +957,20 @@
       "street": "Rue Michel Body"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008", 
+        "0009", 
+        "0010", 
+        "0011", 
+        "0012"
+      ], 
       "hnrlbls": [
         "77"
       ], 

@@ -409,6 +409,16 @@
       "street": "Route de Diekirch"
     }, 
     {
+      "busnrs": [
+        "11", 
+        "13", 
+        "14", 
+        "23", 
+        "A12", 
+        "A21", 
+        "A22", 
+        "A32"
+      ], 
       "hnrlbls": [
         "344"
       ], 
@@ -433,6 +443,10 @@
       "street": "Route de Diekirch"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "347"
       ], 
@@ -541,6 +555,9 @@
       "street": "Route de Diekirch"
     }, 
     {
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "358"
       ], 
@@ -793,6 +810,9 @@
       "street": "Route de Diekirch"
     }, 
     {
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "391"
       ], 
@@ -937,6 +957,15 @@
       "street": "Route de Diekirch"
     }, 
     {
+      "busnrs": [
+        "3", 
+        "301", 
+        "8", 
+        "A101", 
+        "A102", 
+        "A202", 
+        "A203"
+      ], 
       "hnrlbls": [
         "420"
       ], 
@@ -949,6 +978,16 @@
       "street": "Route de Diekirch"
     }, 
     {
+      "busnrs": [
+        "10", 
+        "104", 
+        "105", 
+        "106", 
+        "18", 
+        "204", 
+        "B1", 
+        "B205"
+      ], 
       "hnrlbls": [
         "422"
       ], 
@@ -979,6 +1018,98 @@
       "housenumber": "434", 
       "lat": 49.705247897984, 
       "lon": 5.829016665919, 
+      "municipality": "Arlon", 
+      "pcode": "6700", 
+      "source": "7741464", 
+      "street": "Route de Diekirch"
+    }, 
+    {
+      "hnrlbls": [
+        "500"
+      ], 
+      "housenumber": "500", 
+      "lat": 49.710143775079, 
+      "lon": 5.837914347577, 
+      "municipality": "Arlon", 
+      "pcode": "6700", 
+      "source": "7741464", 
+      "street": "Route de Diekirch"
+    }, 
+    {
+      "busnrs": [
+        "101", 
+        "103", 
+        "301", 
+        "302", 
+        "303", 
+        "A101"
+      ], 
+      "hnrlbls": [
+        "600"
+      ], 
+      "housenumber": "600", 
+      "lat": 49.721908624616, 
+      "lon": 5.836762241685, 
+      "municipality": "Arlon", 
+      "pcode": "6700", 
+      "source": "7741464", 
+      "street": "Route de Diekirch"
+    }, 
+    {
+      "hnrlbls": [
+        "600A"
+      ], 
+      "housenumber": "600A", 
+      "lat": 49.722055353087, 
+      "lon": 5.836802611065, 
+      "municipality": "Arlon", 
+      "pcode": "6700", 
+      "source": "7741464", 
+      "street": "Route de Diekirch"
+    }, 
+    {
+      "hnrlbls": [
+        "601"
+      ], 
+      "housenumber": "601", 
+      "lat": 49.72050758474, 
+      "lon": 5.836566924025, 
+      "municipality": "Arlon", 
+      "pcode": "6700", 
+      "source": "7741464", 
+      "street": "Route de Diekirch"
+    }, 
+    {
+      "hnrlbls": [
+        "608"
+      ], 
+      "housenumber": "608", 
+      "lat": 49.722779377297, 
+      "lon": 5.8374390198, 
+      "municipality": "Arlon", 
+      "pcode": "6700", 
+      "source": "7741464", 
+      "street": "Route de Diekirch"
+    }, 
+    {
+      "hnrlbls": [
+        "610"
+      ], 
+      "housenumber": "610", 
+      "lat": 49.723141215409, 
+      "lon": 5.837605317138, 
+      "municipality": "Arlon", 
+      "pcode": "6700", 
+      "source": "7741464", 
+      "street": "Route de Diekirch"
+    }, 
+    {
+      "hnrlbls": [
+        "612"
+      ], 
+      "housenumber": "612", 
+      "lat": 49.723321828968, 
+      "lon": 5.837863225102, 
       "municipality": "Arlon", 
       "pcode": "6700", 
       "source": "7741464", 

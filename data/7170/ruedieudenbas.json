@@ -145,6 +145,9 @@
       "street": "Rue Dieu d'en Bas"
     }, 
     {
+      "busnrs": [
+        "0101"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -313,6 +316,9 @@
       "street": "Rue Dieu d'en Bas"
     }, 
     {
+      "busnrs": [
+        "A000"
+      ], 
       "hnrlbls": [
         "37"
       ], 
@@ -469,6 +475,10 @@
       "street": "Rue Dieu d'en Bas"
     }, 
     {
+      "busnrs": [
+        "A000", 
+        "B000"
+      ], 
       "hnrlbls": [
         "48"
       ], 
@@ -521,8 +531,8 @@
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 50.490513170237, 
-      "lon": 4.234088261644, 
+      "lat": 50.489375539908, 
+      "lon": 4.240222365688, 
       "municipality": "Manage", 
       "pcode": "7170", 
       "source": "7710771", 

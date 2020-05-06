@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -85,6 +88,11 @@
       "street": "Remparts Saint-Christophe"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -157,6 +165,11 @@
       "street": "Remparts Saint-Christophe"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "RDC"
+      ], 
       "hnrlbls": [
         "37"
       ], 

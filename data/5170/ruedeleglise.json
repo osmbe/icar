@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -73,6 +76,10 @@
       "street": "Rue de l'Eglise"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -157,6 +164,9 @@
       "street": "Rue de l'Eglise"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -233,8 +243,8 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 50.373795987768, 
-      "lon": 4.774599904463, 
+      "lat": 50.373737984734, 
+      "lon": 4.774598817448, 
       "municipality": "Profondeville", 
       "pcode": "5170", 
       "source": "7754960", 
@@ -257,8 +267,8 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 50.373709114884, 
-      "lon": 4.77419843448, 
+      "lat": 50.373864157162, 
+      "lon": 4.774231630344, 
       "municipality": "Profondeville", 
       "pcode": "5170", 
       "source": "7754960", 

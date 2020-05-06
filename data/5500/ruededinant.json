@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "C"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -25,6 +28,9 @@
       "street": "Rue de Dinant"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -181,6 +187,9 @@
       "street": "Rue de Dinant"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -193,6 +202,9 @@
       "street": "Rue de Dinant"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -253,6 +265,10 @@
       "street": "Rue de Dinant"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "C"
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -278,35 +294,11 @@
     }, 
     {
       "hnrlbls": [
-        "3"
-      ], 
-      "housenumber": "3", 
-      "lat": 50.210663083189, 
-      "lon": 4.898625617937, 
-      "municipality": "Dinant", 
-      "pcode": "5500", 
-      "source": "7749229", 
-      "street": "Rue de Dinant"
-    }, 
-    {
-      "hnrlbls": [
         "34"
       ], 
       "housenumber": "34", 
       "lat": 50.206064588364, 
       "lon": 4.896521683572, 
-      "municipality": "Dinant", 
-      "pcode": "5500", 
-      "source": "7749229", 
-      "street": "Rue de Dinant"
-    }, 
-    {
-      "hnrlbls": [
-        "35"
-      ], 
-      "housenumber": "35", 
-      "lat": 50.20621502353, 
-      "lon": 4.89534890702, 
       "municipality": "Dinant", 
       "pcode": "5500", 
       "source": "7749229", 
@@ -338,18 +330,6 @@
     }, 
     {
       "hnrlbls": [
-        "38"
-      ], 
-      "housenumber": "38", 
-      "lat": 50.205806414183, 
-      "lon": 4.895746478021, 
-      "municipality": "Dinant", 
-      "pcode": "5500", 
-      "source": "7749229", 
-      "street": "Rue de Dinant"
-    }, 
-    {
-      "hnrlbls": [
         "39"
       ], 
       "housenumber": "39", 
@@ -367,18 +347,6 @@
       "housenumber": "4", 
       "lat": 50.210433868603, 
       "lon": 4.898440136107, 
-      "municipality": "Dinant", 
-      "pcode": "5500", 
-      "source": "7749229", 
-      "street": "Rue de Dinant"
-    }, 
-    {
-      "hnrlbls": [
-        "40"
-      ], 
-      "housenumber": "40", 
-      "lat": 50.205373007876, 
-      "lon": 4.895923174186, 
       "municipality": "Dinant", 
       "pcode": "5500", 
       "source": "7749229", 
@@ -493,6 +461,10 @@
       "street": "Rue de Dinant"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2"
+      ], 
       "hnrlbls": [
         "50"
       ], 
@@ -649,6 +621,9 @@
       "street": "Rue de Dinant"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "62"
       ], 
@@ -685,6 +660,9 @@
       "street": "Rue de Dinant"
     }, 
     {
+      "busnrs": [
+        "Bte1"
+      ], 
       "hnrlbls": [
         "66"
       ], 
@@ -721,6 +699,12 @@
       "street": "Rue de Dinant"
     }, 
     {
+      "busnrs": [
+        "A1", 
+        "A2", 
+        "A3", 
+        "A4"
+      ], 
       "hnrlbls": [
         "69"
       ], 
@@ -739,6 +723,95 @@
       "housenumber": "7", 
       "lat": 50.209812864698, 
       "lon": 4.898969873111, 
+      "municipality": "Dinant", 
+      "pcode": "5500", 
+      "source": "7749229", 
+      "street": "Rue de Dinant"
+    }, 
+    {
+      "busnrs": [
+        "A1", 
+        "A2", 
+        "ABt2"
+      ], 
+      "hnrlbls": [
+        "70"
+      ], 
+      "housenumber": "70", 
+      "lat": 50.202693255805, 
+      "lon": 4.894009626064, 
+      "municipality": "Dinant", 
+      "pcode": "5500", 
+      "source": "7749229", 
+      "street": "Rue de Dinant"
+    }, 
+    {
+      "hnrlbls": [
+        "72"
+      ], 
+      "housenumber": "72", 
+      "lat": 50.202448214989, 
+      "lon": 4.893793402053, 
+      "municipality": "Dinant", 
+      "pcode": "5500", 
+      "source": "7749229", 
+      "street": "Rue de Dinant"
+    }, 
+    {
+      "hnrlbls": [
+        "73"
+      ], 
+      "housenumber": "73", 
+      "lat": 50.202311429727, 
+      "lon": 4.893698335799, 
+      "municipality": "Dinant", 
+      "pcode": "5500", 
+      "source": "7749229", 
+      "street": "Rue de Dinant"
+    }, 
+    {
+      "hnrlbls": [
+        "74"
+      ], 
+      "housenumber": "74", 
+      "lat": 50.202229537345, 
+      "lon": 4.893667638288, 
+      "municipality": "Dinant", 
+      "pcode": "5500", 
+      "source": "7749229", 
+      "street": "Rue de Dinant"
+    }, 
+    {
+      "hnrlbls": [
+        "75"
+      ], 
+      "housenumber": "75", 
+      "lat": 50.202106079247, 
+      "lon": 4.893617446134, 
+      "municipality": "Dinant", 
+      "pcode": "5500", 
+      "source": "7749229", 
+      "street": "Rue de Dinant"
+    }, 
+    {
+      "hnrlbls": [
+        "76"
+      ], 
+      "housenumber": "76", 
+      "lat": 50.201761067905, 
+      "lon": 4.893573734092, 
+      "municipality": "Dinant", 
+      "pcode": "5500", 
+      "source": "7749229", 
+      "street": "Rue de Dinant"
+    }, 
+    {
+      "hnrlbls": [
+        "77"
+      ], 
+      "housenumber": "77", 
+      "lat": 50.200809142693, 
+      "lon": 4.893068712095, 
       "municipality": "Dinant", 
       "pcode": "5500", 
       "source": "7749229", 

@@ -13,6 +13,11 @@
       "street": "Rue du Seuwoir"
     }, 
     {
+      "busnrs": [
+        "BTE1", 
+        "BTE2", 
+        "BTE3"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -25,18 +30,41 @@
       "street": "Rue du Seuwoir"
     }, 
     {
+      "busnrs": [
+        "BTE1", 
+        "BTE2"
+      ], 
       "hnrlbls": [
         "12B"
       ], 
       "housenumber": "12B", 
-      "lat": 50.600299364742, 
-      "lon": 3.617895351544, 
+      "lat": 50.600302305647, 
+      "lon": 3.617891034562, 
       "municipality": "Leuze-en-Hainaut", 
       "pcode": "7900", 
       "source": "7724329", 
       "street": "Rue du Seuwoir"
     }, 
     {
+      "hnrlbls": [
+        "12D"
+      ], 
+      "housenumber": "12D", 
+      "lat": 50.600270385614, 
+      "lon": 3.617810063867, 
+      "municipality": "Leuze-en-Hainaut", 
+      "pcode": "7900", 
+      "source": "7724329", 
+      "street": "Rue du Seuwoir"
+    }, 
+    {
+      "busnrs": [
+        "BTE1", 
+        "BTE2", 
+        "BTE3", 
+        "a/bte1", 
+        "a/bte2"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -49,6 +77,11 @@
       "street": "Rue du Seuwoir"
     }, 
     {
+      "busnrs": [
+        "BTE1", 
+        "BTE2", 
+        "BTE3"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -61,12 +94,29 @@
       "street": "Rue du Seuwoir"
     }, 
     {
+      "busnrs": [
+        "BTE1", 
+        "BTE2", 
+        "BTE3"
+      ], 
+      "hnrlbls": [
+        "18"
+      ], 
+      "housenumber": "18", 
+      "lat": 50.60015988749, 
+      "lon": 3.617402611194, 
+      "municipality": "Leuze-en-Hainaut", 
+      "pcode": "7900", 
+      "source": "7724329", 
+      "street": "Rue du Seuwoir"
+    }, 
+    {
       "hnrlbls": [
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 50.60015023996, 
-      "lon": 3.61741744981, 
+      "lat": 50.599757742608, 
+      "lon": 3.617787979058, 
       "municipality": "Leuze-en-Hainaut", 
       "pcode": "7900", 
       "source": "7724329", 
@@ -205,6 +255,13 @@
       "street": "Rue du Seuwoir"
     }, 
     {
+      "busnrs": [
+        "1/1", 
+        "1/2", 
+        "2/1", 
+        "2/2", 
+        "3/0"
+      ], 
       "hnrlbls": [
         "8"
       ], 

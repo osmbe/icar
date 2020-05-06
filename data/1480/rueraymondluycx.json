@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "201", 
+        "301", 
+        "R01"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -265,6 +270,10 @@
       "street": "Rue Raymond Luycx"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "R01"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -277,6 +286,14 @@
       "street": "Rue Raymond Luycx"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "R01", 
+        "R02"
+      ], 
       "hnrlbls": [
         "140"
       ], 
@@ -301,6 +318,14 @@
       "street": "Rue Raymond Luycx"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -481,6 +506,13 @@
       "street": "Rue Raymond Luycx"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "4", 
+        "5", 
+        "6"
+      ], 
       "hnrlbls": [
         "46"
       ], 
@@ -493,6 +525,10 @@
       "street": "Rue Raymond Luycx"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "47"
       ], 
@@ -541,6 +577,11 @@
       "street": "Rue Raymond Luycx"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "201", 
+        "R01"
+      ], 
       "hnrlbls": [
         "51"
       ], 
@@ -565,6 +606,10 @@
       "street": "Rue Raymond Luycx"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "53"
       ], 
@@ -805,6 +850,32 @@
       "street": "Rue Raymond Luycx"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "102", 
+        "103", 
+        "104", 
+        "105", 
+        "106", 
+        "201", 
+        "202", 
+        "203", 
+        "204", 
+        "205", 
+        "206", 
+        "301", 
+        "302", 
+        "303", 
+        "304", 
+        "305", 
+        "306", 
+        "R01", 
+        "R02", 
+        "R03", 
+        "R04", 
+        "R05", 
+        "R06"
+      ], 
       "hnrlbls": [
         "79"
       ], 
@@ -835,6 +906,33 @@
       "housenumber": "80", 
       "lat": 50.685422696583, 
       "lon": 4.211544104189, 
+      "municipality": "Tubize", 
+      "pcode": "1480", 
+      "source": "7703933", 
+      "street": "Rue Raymond Luycx"
+    }, 
+    {
+      "busnrs": [
+        "101", 
+        "102", 
+        "103", 
+        "201", 
+        "202", 
+        "203", 
+        "301", 
+        "302", 
+        "303", 
+        "304", 
+        "R01", 
+        "R02", 
+        "R03"
+      ], 
+      "hnrlbls": [
+        "82"
+      ], 
+      "housenumber": "82", 
+      "lat": 50.685513406531, 
+      "lon": 4.211645556273, 
       "municipality": "Tubize", 
       "pcode": "1480", 
       "source": "7703933", 

@@ -217,6 +217,9 @@
       "street": "Rue de Jemappes"
     }, 
     {
+      "busnrs": [
+        "0011"
+      ], 
       "hnrlbls": [
         "128"
       ], 
@@ -769,6 +772,24 @@
       "street": "Rue de Jemappes"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "02", 
+        "11", 
+        "12"
+      ], 
+      "hnrlbls": [
+        "57B"
+      ], 
+      "housenumber": "57B", 
+      "lat": 50.417164266723, 
+      "lon": 3.894394759121, 
+      "municipality": "Frameries", 
+      "pcode": "7080", 
+      "source": "7712402", 
+      "street": "Rue de Jemappes"
+    }, 
+    {
       "hnrlbls": [
         "58"
       ], 
@@ -1109,8 +1130,8 @@
         "89"
       ], 
       "housenumber": "89", 
-      "lat": 50.418439371256, 
-      "lon": 3.893822855506, 
+      "lat": 50.418491388895, 
+      "lon": 3.893844526179, 
       "municipality": "Frameries", 
       "pcode": "7080", 
       "source": "7712402", 

@@ -109,12 +109,27 @@
       "street": "Rue de Neuville"
     }, 
     {
+      "busnrs": [
+        "B001", 
+        "B002", 
+        "B003", 
+        "B004", 
+        "B005", 
+        "B006", 
+        "B007", 
+        "B008", 
+        "B009", 
+        "B010", 
+        "B011", 
+        "B012", 
+        "B013"
+      ], 
       "hnrlbls": [
         "2B"
       ], 
       "housenumber": "2B", 
-      "lat": 50.194178825972, 
-      "lon": 4.535778855937, 
+      "lat": 50.194524512505, 
+      "lon": 4.536070954971, 
       "municipality": "Philippeville", 
       "pcode": "5600", 
       "source": "7757549", 
@@ -125,8 +140,8 @@
         "2C"
       ], 
       "housenumber": "2C", 
-      "lat": 50.194469009931, 
-      "lon": 4.53602398523, 
+      "lat": 50.194181541752, 
+      "lon": 4.535774704612, 
       "municipality": "Philippeville", 
       "pcode": "5600", 
       "source": "7757549", 
@@ -223,6 +238,25 @@
       "housenumber": "39", 
       "lat": 50.190847565598, 
       "lon": 4.533854014394, 
+      "municipality": "Philippeville", 
+      "pcode": "5600", 
+      "source": "7757549", 
+      "street": "Rue de Neuville"
+    }, 
+    {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0015"
+      ], 
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.193757761211, 
+      "lon": 4.535690674615, 
       "municipality": "Philippeville", 
       "pcode": "5600", 
       "source": "7757549", 
@@ -329,8 +363,8 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 50.189105473894, 
-      "lon": 4.533729541149, 
+      "lat": 50.189048723303, 
+      "lon": 4.53369140293, 
       "municipality": "Philippeville", 
       "pcode": "5600", 
       "source": "7757549", 

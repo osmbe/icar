@@ -217,12 +217,53 @@
       "street": "Rue de la Barri\u00e8re de Fer"
     }, 
     {
+      "busnrs": [
+        "0003", 
+        "0005", 
+        "F000"
+      ], 
       "hnrlbls": [
         "125"
       ], 
       "housenumber": "125", 
-      "lat": 50.723792676111, 
-      "lon": 3.312312040399, 
+      "lat": 50.723820149472, 
+      "lon": 3.312908510493, 
+      "municipality": "Mouscron", 
+      "pcode": "7711", 
+      "source": "7715727", 
+      "street": "Rue de la Barri\u00e8re de Fer"
+    }, 
+    {
+      "hnrlbls": [
+        "125A"
+      ], 
+      "housenumber": "125A", 
+      "lat": 50.723759269937, 
+      "lon": 3.312172366679, 
+      "municipality": "Mouscron", 
+      "pcode": "7711", 
+      "source": "7715727", 
+      "street": "Rue de la Barri\u00e8re de Fer"
+    }, 
+    {
+      "hnrlbls": [
+        "125D"
+      ], 
+      "housenumber": "125D", 
+      "lat": 50.724052801469, 
+      "lon": 3.312645472115, 
+      "municipality": "Mouscron", 
+      "pcode": "7711", 
+      "source": "7715727", 
+      "street": "Rue de la Barri\u00e8re de Fer"
+    }, 
+    {
+      "hnrlbls": [
+        "125I"
+      ], 
+      "housenumber": "125I", 
+      "lat": 50.724079956549, 
+      "lon": 3.312913187754, 
       "municipality": "Mouscron", 
       "pcode": "7711", 
       "source": "7715727", 
@@ -413,8 +454,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.729404745228, 
-      "lon": 3.323517051661, 
+      "lat": 50.729451820988, 
+      "lon": 3.323514095848, 
       "municipality": "Mouscron", 
       "pcode": "7711", 
       "source": "7715727", 
@@ -470,9 +511,9 @@
     }, 
     {
       "hnrlbls": [
-        "36A000"
+        "36A"
       ], 
-      "housenumber": "36A000", 
+      "housenumber": "36A", 
       "lat": 50.728706209273, 
       "lon": 3.320760279953, 
       "municipality": "Mouscron", 
@@ -533,8 +574,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.72941849769, 
-      "lon": 3.323345529623, 
+      "lat": 50.729368580613, 
+      "lon": 3.32335650954, 
       "municipality": "Mouscron", 
       "pcode": "7711", 
       "source": "7715727", 

@@ -13,12 +13,35 @@
       "street": "Rue Toffaite"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "2", 
+        "Bte3", 
+        "Bte4", 
+        "Bte5", 
+        "Bte6"
+      ], 
       "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
       "lat": 50.228821007786, 
       "lon": 4.381027079832, 
+      "municipality": "Froidchapelle", 
+      "pcode": "6440", 
+      "source": "7720478", 
+      "street": "Rue Toffaite"
+    }, 
+    {
+      "busnrs": [
+        "0001"
+      ], 
+      "hnrlbls": [
+        "11"
+      ], 
+      "housenumber": "11", 
+      "lat": 50.228533011531, 
+      "lon": 4.381287891594, 
       "municipality": "Froidchapelle", 
       "pcode": "6440", 
       "source": "7720478", 
@@ -37,6 +60,9 @@
       "street": "Rue Toffaite"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "3"
       ], 

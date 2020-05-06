@@ -121,6 +121,15 @@
       "street": "Rue Wiertz"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -133,6 +142,11 @@
       "street": "Rue Wiertz"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -169,6 +183,11 @@
       "street": "Rue Wiertz"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -181,6 +200,13 @@
       "street": "Rue Wiertz"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -217,6 +243,21 @@
       "street": "Rue Wiertz"
     }, 
     {
+      "hnrlbls": [
+        "27"
+      ], 
+      "housenumber": "27", 
+      "lat": 50.641257783672, 
+      "lon": 5.55503572004, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731419", 
+      "street": "Rue Wiertz"
+    }, 
+    {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -265,6 +306,24 @@
       "street": "Rue Wiertz"
     }, 
     {
+      "hnrlbls": [
+        "32"
+      ], 
+      "housenumber": "32", 
+      "lat": 50.641446746054, 
+      "lon": 5.555268680926, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731419", 
+      "street": "Rue Wiertz"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "33"
       ], 
@@ -373,6 +432,11 @@
       "street": "Rue Wiertz"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012"
+      ], 
       "hnrlbls": [
         "41"
       ], 
@@ -397,6 +461,11 @@
       "street": "Rue Wiertz"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011"
+      ], 
       "hnrlbls": [
         "43"
       ], 
@@ -421,6 +490,14 @@
       "street": "Rue Wiertz"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "46"
       ], 
@@ -445,12 +522,44 @@
       "street": "Rue Wiertz"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0021"
+      ], 
       "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
       "lat": 50.640682096077, 
       "lon": 5.555412859676, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731419", 
+      "street": "Rue Wiertz"
+    }, 
+    {
+      "hnrlbls": [
+        "50"
+      ], 
+      "housenumber": "50", 
+      "lat": 50.642886492345, 
+      "lon": 5.555180314294, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731419", 
+      "street": "Rue Wiertz"
+    }, 
+    {
+      "hnrlbls": [
+        "51"
+      ], 
+      "housenumber": "51", 
+      "lat": 50.642180527015, 
+      "lon": 5.554494434247, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731419", 
@@ -493,6 +602,12 @@
       "street": "Rue Wiertz"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0012", 
+        "0014"
+      ], 
       "hnrlbls": [
         "57"
       ], 
@@ -506,11 +621,35 @@
     }, 
     {
       "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.640872142531, 
+      "lon": 5.55568236818, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731419", 
+      "street": "Rue Wiertz"
+    }, 
+    {
+      "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
       "lat": 50.640736435595, 
       "lon": 5.5553919146, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731419", 
+      "street": "Rue Wiertz"
+    }, 
+    {
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 50.640923766941, 
+      "lon": 5.555627816714, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731419", 

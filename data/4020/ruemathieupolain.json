@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -13,6 +19,11 @@
       "street": "Rue Mathieu-Polain"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -25,6 +36,11 @@
       "street": "Rue Mathieu-Polain"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -37,6 +53,16 @@
       "street": "Rue Mathieu-Polain"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0041"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -49,6 +75,27 @@
       "street": "Rue Mathieu-Polain"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
+      "hnrlbls": [
+        "18"
+      ], 
+      "housenumber": "18", 
+      "lat": 50.643666581633, 
+      "lon": 5.582188891824, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7731183", 
+      "street": "Rue Mathieu-Polain"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -61,6 +108,17 @@
       "street": "Rue Mathieu-Polain"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024", 
+        "0025", 
+        "0031"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -73,6 +131,11 @@
       "street": "Rue Mathieu-Polain"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "8"
       ], 

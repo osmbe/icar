@@ -1,13 +1,31 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0003"
+      ], 
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.695748685035, 
+      "lon": 5.743508194495, 
+      "municipality": "Blegny", 
+      "pcode": "4670", 
+      "source": "7733831", 
+      "street": "Chemin de Cortils"
+    }, 
+    {
+      "busnrs": [
+        "0011"
+      ], 
       "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
       "lat": 50.695985948868, 
       "lon": 5.743095604845, 
-      "municipality": "Bl\u00e9gny", 
+      "municipality": "Blegny", 
       "pcode": "4670", 
       "source": "7733831", 
       "street": "Chemin de Cortils"
@@ -19,7 +37,7 @@
       "housenumber": "4", 
       "lat": 50.6962279089, 
       "lon": 5.742956353379, 
-      "municipality": "Bl\u00e9gny", 
+      "municipality": "Blegny", 
       "pcode": "4670", 
       "source": "7733831", 
       "street": "Chemin de Cortils"

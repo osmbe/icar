@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0", 
+        "2"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -170,6 +174,18 @@
     }, 
     {
       "hnrlbls": [
+        "28"
+      ], 
+      "housenumber": "28", 
+      "lat": 50.627507230146, 
+      "lon": 4.632706471171, 
+      "municipality": "Chastre", 
+      "pcode": "1450", 
+      "source": "7705252", 
+      "street": "Rue de Bau"
+    }, 
+    {
+      "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
@@ -181,6 +197,10 @@
       "street": "Rue de Bau"
     }, 
     {
+      "busnrs": [
+        "0", 
+        "1"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -193,6 +213,10 @@
       "street": "Rue de Bau"
     }, 
     {
+      "busnrs": [
+        "0", 
+        "A"
+      ], 
       "hnrlbls": [
         "5"
       ], 

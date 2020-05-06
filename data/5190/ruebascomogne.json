@@ -325,6 +325,11 @@
       "street": "Rue Bas Comogne"
     }, 
     {
+      "busnrs": [
+        "A/01", 
+        "A/02", 
+        "A/03"
+      ], 
       "hnrlbls": [
         "49"
       ], 
@@ -481,12 +486,15 @@
       "street": "Rue Bas Comogne"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 50.465370473332, 
-      "lon": 4.650579662737, 
+      "lat": 50.465378582024, 
+      "lon": 4.650661334727, 
       "municipality": "Jemeppe-sur-Sambre", 
       "pcode": "5190", 
       "source": "7755753", 

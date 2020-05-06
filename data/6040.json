@@ -32,7 +32,7 @@
       "l": 4.437573170783, 
       "name": "Chauss\u00e9e de Gilly (JT)", 
       "numOfAddr": 217, 
-      "r": 4.463620097287, 
+      "r": 4.473665924055, 
       "sanName": "chaussedegillyjt", 
       "t": 50.456032111074
     }, 
@@ -131,7 +131,7 @@
       "l": 4.424908788606, 
       "name": "Place du Chef lieu", 
       "numOfAddr": 13, 
-      "r": 4.426100428389, 
+      "r": 4.425778720843, 
       "sanName": "placeducheflieu", 
       "t": 50.451186476245
     }, 
@@ -319,7 +319,7 @@
       "t": 50.43930646848
     }, 
     {
-      "b": 50.441900235903, 
+      "b": 50.441976550987, 
       "l": 4.4248915497, 
       "name": "Rue Breydel", 
       "numOfAddr": 21, 
@@ -609,10 +609,10 @@
     {
       "b": 50.437172554565, 
       "l": 4.46217598646, 
-      "name": "Rue de la Libert\u00e9 (JT)", 
+      "name": "Rue de la Libert\u00e9", 
       "numOfAddr": 53, 
       "r": 4.467066814884, 
-      "sanName": "ruedelalibertjt", 
+      "sanName": "ruedelalibert", 
       "t": 50.438782388315
     }, 
     {
@@ -686,6 +686,15 @@
       "r": 4.431731495983, 
       "sanName": "ruedelanglejt", 
       "t": 50.438649302798
+    }, 
+    {
+      "b": 50.439147133719, 
+      "l": 4.472176083783, 
+      "name": "Rue de la Paraison", 
+      "numOfAddr": 1, 
+      "r": 4.472176083783, 
+      "sanName": "ruedelaparaison", 
+      "t": 50.439147133719
     }, 
     {
       "b": 50.43398579168, 
@@ -877,11 +886,20 @@
       "t": 50.444695272949
     }, 
     {
+      "b": 50.451746051195, 
+      "l": 4.412930397344, 
+      "name": "Rue de l\u2019H\u00f4tel-Dieu", 
+      "numOfAddr": 16, 
+      "r": 4.416862725865, 
+      "sanName": "ruedelhteldieu", 
+      "t": 50.452374841722
+    }, 
+    {
       "b": 50.438428175092, 
       "l": 4.418075023129, 
       "name": "Rue de l'Industrie (JT)", 
       "numOfAddr": 38, 
-      "r": 4.422683981218, 
+      "r": 4.422737363421, 
       "sanName": "ruedelindustriejt", 
       "t": 50.442022631984
     }, 
@@ -1050,10 +1068,10 @@
     {
       "b": 50.437865593699, 
       "l": 4.410323002534, 
-      "name": "Rue des C\u00f4teaux (JT)", 
+      "name": "Rue des C\u00f4teaux", 
       "numOfAddr": 20, 
       "r": 4.411641126179, 
-      "sanName": "ruedescteauxjt", 
+      "sanName": "ruedescteaux", 
       "t": 50.438120338439
     }, 
     {
@@ -1067,15 +1085,6 @@
       "r": 4.477091122362, 
       "sanName": "ruedescueilleurs", 
       "t": 50.440499753871
-    }, 
-    {
-      "b": 50.451746051195, 
-      "l": 4.412930397344, 
-      "name": "Rue des Ecoles (JT)", 
-      "numOfAddr": 16, 
-      "r": 4.416862725865, 
-      "sanName": "ruedesecolesjt", 
-      "t": 50.452374841722
     }, 
     {
       "b": 50.447896597207, 
@@ -1121,6 +1130,15 @@
       "r": 4.415015434221, 
       "sanName": "ruedeshayettesjt", 
       "t": 50.456281869375
+    }, 
+    {
+      "b": 50.438567393755, 
+      "l": 4.471757716091, 
+      "name": "Rue des Manike\u00fbs", 
+      "numOfAddr": 20, 
+      "r": 4.472471508998, 
+      "sanName": "ruedesmanikes", 
+      "t": 50.438933203517
     }, 
     {
       "b": 50.439191860516, 
@@ -1231,6 +1249,15 @@
       "t": 50.438924592996
     }, 
     {
+      "b": 50.440240874256, 
+      "l": 4.452127581309, 
+      "name": "Rue d\u2019Houbois", 
+      "numOfAddr": 19, 
+      "r": 4.453140679564, 
+      "sanName": "ruedhoubois", 
+      "t": 50.441105040747
+    }, 
+    {
       "b": 50.451659631908, 
       "l": 4.40875413708, 
       "name": "Rue Docteur Pircard", 
@@ -1319,15 +1346,6 @@
       "r": 4.43224123911, 
       "sanName": "rueducentre", 
       "t": 50.444352427421
-    }, 
-    {
-      "b": 50.440240874256, 
-      "l": 4.452127581309, 
-      "name": "Rue du Cercle (JT)", 
-      "numOfAddr": 19, 
-      "r": 4.453140679564, 
-      "sanName": "rueducerclejt", 
-      "t": 50.441105040747
     }, 
     {
       "b": 50.435830317006, 
@@ -1438,6 +1456,15 @@
       "t": 50.437656489624
     }, 
     {
+      "b": 50.438373937507, 
+      "l": 4.405531095998, 
+      "name": "Rue du Parrain Pirau", 
+      "numOfAddr": 8, 
+      "r": 4.40577458039, 
+      "sanName": "rueduparrainpirau", 
+      "t": 50.438893688338
+    }, 
+    {
       "b": 50.45914463574, 
       "l": 4.466436485957, 
       "name": "Rue du Perdu", 
@@ -1499,15 +1526,6 @@
       "r": 4.439334687796, 
       "sanName": "rueduprogrsjt", 
       "t": 50.441587520378
-    }, 
-    {
-      "b": 50.438373937507, 
-      "l": 4.405531095998, 
-      "name": "Rue du Ravin (JT)", 
-      "numOfAddr": 8, 
-      "r": 4.40577458039, 
-      "sanName": "rueduravinjt", 
-      "t": 50.438893688338
     }, 
     {
       "b": 50.436699132271, 

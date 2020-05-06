@@ -13,6 +13,10 @@
       "street": "Rue Saint-Pierre"
     }, 
     {
+      "busnrs": [
+        "bt01", 
+        "bt02"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -61,6 +65,10 @@
       "street": "Rue Saint-Pierre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -73,12 +81,35 @@
       "street": "Rue Saint-Pierre"
     }, 
     {
+      "busnrs": [
+        "bt01", 
+        "bt02", 
+        "bt05", 
+        "bt06"
+      ], 
       "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
       "lat": 50.473795889575, 
       "lon": 5.676488684787, 
+      "municipality": "Aywaille", 
+      "pcode": "4920", 
+      "source": "7727548", 
+      "street": "Rue Saint-Pierre"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
+      "hnrlbls": [
+        "20"
+      ], 
+      "housenumber": "20", 
+      "lat": 50.474775638596, 
+      "lon": 5.675613611182, 
       "municipality": "Aywaille", 
       "pcode": "4920", 
       "source": "7727548", 
@@ -97,6 +128,10 @@
       "street": "Rue Saint-Pierre"
     }, 
     {
+      "busnrs": [
+        "bt01", 
+        "bt02"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -109,6 +144,10 @@
       "street": "Rue Saint-Pierre"
     }, 
     {
+      "busnrs": [
+        "bt01", 
+        "bt02"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -121,6 +160,10 @@
       "street": "Rue Saint-Pierre"
     }, 
     {
+      "busnrs": [
+        "bt01", 
+        "bt02"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -133,6 +176,10 @@
       "street": "Rue Saint-Pierre"
     }, 
     {
+      "busnrs": [
+        "bt01", 
+        "bt02"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -145,6 +192,10 @@
       "street": "Rue Saint-Pierre"
     }, 
     {
+      "busnrs": [
+        "bt01", 
+        "bt02"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -169,6 +220,9 @@
       "street": "Rue Saint-Pierre"
     }, 
     {
+      "busnrs": [
+        "01"
+      ], 
       "hnrlbls": [
         "8A"
       ], 

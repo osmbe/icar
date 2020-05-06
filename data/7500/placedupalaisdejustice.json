@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "01", 
+        "21", 
+        "31", 
+        "32"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +19,10 @@
       "street": "Place du Palais de Justice"
     }, 
     {
+      "busnrs": [
+        "21", 
+        "31"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -37,6 +47,20 @@
       "street": "Place du Palais de Justice"
     }, 
     {
+      "busnrs": [
+        "B010", 
+        "B032", 
+        "B061", 
+        "B11", 
+        "B12", 
+        "B21", 
+        "B22", 
+        "B31", 
+        "B32", 
+        "B41", 
+        "B42", 
+        "B51"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -49,6 +73,20 @@
       "street": "Place du Palais de Justice"
     }, 
     {
+      "busnrs": [
+        "0004", 
+        "0006", 
+        "0061", 
+        "11", 
+        "12", 
+        "22", 
+        "32", 
+        "41", 
+        "42", 
+        "51", 
+        "52", 
+        "62"
+      ], 
       "hnrlbls": [
         "6"
       ], 

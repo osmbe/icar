@@ -13,6 +13,9 @@
       "street": "Rue de la Fontaine"
     }, 
     {
+      "busnrs": [
+        "Bte3"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -25,6 +28,9 @@
       "street": "Rue de la Fontaine"
     }, 
     {
+      "busnrs": [
+        "Bte2"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -73,6 +79,9 @@
       "street": "Rue de la Fontaine"
     }, 
     {
+      "busnrs": [
+        "Bte3"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -145,6 +154,10 @@
       "street": "Rue de la Fontaine"
     }, 
     {
+      "busnrs": [
+        "Bte4", 
+        "BteA"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -169,12 +182,19 @@
       "street": "Rue de la Fontaine"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2", 
+        "Bte3", 
+        "Bte4", 
+        "Bte5"
+      ], 
       "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.026906446162, 
-      "lon": 5.373848080567, 
+      "lat": 50.026867676352, 
+      "lon": 5.37378620241, 
       "municipality": "Saint-Hubert", 
       "pcode": "6870", 
       "source": "7746316", 

@@ -1,6 +1,13 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "000A", 
+        "000E", 
+        "000F", 
+        "00A1", 
+        "00A2"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -31,6 +38,18 @@
       "housenumber": "11", 
       "lat": 50.695790407272, 
       "lon": 4.577096995781, 
+      "municipality": "Wavre", 
+      "pcode": "1300", 
+      "source": "7704915", 
+      "street": "Rue de la Closi\u00e8re"
+    }, 
+    {
+      "hnrlbls": [
+        "12"
+      ], 
+      "housenumber": "12", 
+      "lat": 50.694512252431, 
+      "lon": 4.576919710218, 
       "municipality": "Wavre", 
       "pcode": "1300", 
       "source": "7704915", 
@@ -85,6 +104,9 @@
       "street": "Rue de la Closi\u00e8re"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -133,6 +155,10 @@
       "street": "Rue de la Closi\u00e8re"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "000B"
+      ], 
       "hnrlbls": [
         "3"
       ], 

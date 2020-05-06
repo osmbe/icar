@@ -169,6 +169,9 @@
       "street": "Rue de Philippeville"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -205,6 +208,9 @@
       "street": "Rue de Philippeville"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -289,6 +295,10 @@
       "street": "Rue de Philippeville"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "36"
       ], 
@@ -325,6 +335,10 @@
       "street": "Rue de Philippeville"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "39"
       ], 
@@ -337,6 +351,9 @@
       "street": "Rue de Philippeville"
     }, 
     {
+      "busnrs": [
+        "0002"
+      ], 
       "hnrlbls": [
         "40"
       ], 
@@ -349,6 +366,10 @@
       "street": "Rue de Philippeville"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "000A"
+      ], 
       "hnrlbls": [
         "42"
       ], 
@@ -385,6 +406,19 @@
       "street": "Rue de Philippeville"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008", 
+        "0009", 
+        "0010", 
+        "0011", 
+        "0012"
+      ], 
       "hnrlbls": [
         "49"
       ], 
@@ -493,6 +527,10 @@
       "street": "Rue de Philippeville"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "000A"
+      ], 
       "hnrlbls": [
         "57"
       ], 
@@ -505,6 +543,9 @@
       "street": "Rue de Philippeville"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "58"
       ], 
@@ -749,8 +790,8 @@
         "87"
       ], 
       "housenumber": "87", 
-      "lat": 50.336049495858, 
-      "lon": 4.475145708126, 
+      "lat": 50.336386900781, 
+      "lon": 4.475113514389, 
       "municipality": "Ham-sur-Heure-Nalinnes", 
       "pcode": "6120", 
       "source": "7721497", 

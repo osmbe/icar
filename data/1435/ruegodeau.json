@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A101", 
+        "A201"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -170,6 +174,18 @@
     }, 
     {
       "hnrlbls": [
+        "24"
+      ], 
+      "housenumber": "24", 
+      "lat": 50.643840633957, 
+      "lon": 4.651334552187, 
+      "municipality": "Mont-Saint-Guibert", 
+      "pcode": "1435", 
+      "source": "7702761", 
+      "street": "Rue Godeau"
+    }, 
+    {
+      "hnrlbls": [
         "25"
       ], 
       "housenumber": "25", 
@@ -197,8 +213,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.645125571253, 
-      "lon": 4.649668527705, 
+      "lat": 50.645108002207, 
+      "lon": 4.649679646295, 
       "municipality": "Mont-Saint-Guibert", 
       "pcode": "1435", 
       "source": "7702761", 

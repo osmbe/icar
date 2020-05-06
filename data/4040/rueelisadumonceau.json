@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +17,10 @@
       "street": "Rue Elisa Dumonceau"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "R2"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -25,6 +33,9 @@
       "street": "Rue Elisa Dumonceau"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -49,6 +60,10 @@
       "street": "Rue Elisa Dumonceau"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -73,6 +88,11 @@
       "street": "Rue Elisa Dumonceau"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "R2"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -97,6 +117,10 @@
       "street": "Rue Elisa Dumonceau"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -121,6 +145,9 @@
       "street": "Rue Elisa Dumonceau"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -157,6 +184,9 @@
       "street": "Rue Elisa Dumonceau"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -253,6 +283,10 @@
       "street": "Rue Elisa Dumonceau"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0004"
+      ], 
       "hnrlbls": [
         "37"
       ], 
@@ -277,6 +311,10 @@
       "street": "Rue Elisa Dumonceau"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "41"
       ], 
@@ -313,6 +351,9 @@
       "street": "Rue Elisa Dumonceau"
     }, 
     {
+      "busnrs": [
+        "0002"
+      ], 
       "hnrlbls": [
         "47"
       ], 
@@ -337,6 +378,10 @@
       "street": "Rue Elisa Dumonceau"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "49"
       ], 
@@ -373,6 +418,14 @@
       "street": "Rue Elisa Dumonceau"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "51"
       ], 
@@ -385,6 +438,10 @@
       "street": "Rue Elisa Dumonceau"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "52"
       ], 
@@ -421,6 +478,15 @@
       "street": "Rue Elisa Dumonceau"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0041", 
+        "0042"
+      ], 
       "hnrlbls": [
         "55"
       ], 
@@ -493,6 +559,10 @@
       "street": "Rue Elisa Dumonceau"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "65"
       ], 
@@ -505,6 +575,11 @@
       "street": "Rue Elisa Dumonceau"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "66"
       ], 
@@ -541,6 +616,9 @@
       "street": "Rue Elisa Dumonceau"
     }, 
     {
+      "busnrs": [
+        "0012"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -569,8 +647,8 @@
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 50.663491233906, 
-      "lon": 5.629921917765, 
+      "lat": 50.663332781062, 
+      "lon": 5.630543565386, 
       "municipality": "Herstal", 
       "pcode": "4040", 
       "source": "7729337", 

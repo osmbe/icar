@@ -1225,6 +1225,13 @@
       "street": "Rue Voie des Vaux"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "002", 
+        "011", 
+        "012", 
+        "021"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -1339,6 +1346,18 @@
       "housenumber": "323", 
       "lat": 50.632176195501, 
       "lon": 5.50803453673, 
+      "municipality": "Saint-Nicolas", 
+      "pcode": "4420", 
+      "source": "7732045", 
+      "street": "Rue Voie des Vaux"
+    }, 
+    {
+      "hnrlbls": [
+        "325"
+      ], 
+      "housenumber": "325", 
+      "lat": 50.63199641389, 
+      "lon": 5.507896178949, 
       "municipality": "Saint-Nicolas", 
       "pcode": "4420", 
       "source": "7732045", 

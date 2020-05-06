@@ -73,6 +73,14 @@
       "street": "Rue Auguste Scohy"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "0/2", 
+        "0/3", 
+        "1/1", 
+        "1/2", 
+        "1/3"
+      ], 
       "hnrlbls": [
         "105"
       ], 
@@ -157,6 +165,9 @@
       "street": "Rue Auguste Scohy"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "115"
       ], 
@@ -1105,6 +1116,11 @@
       "street": "Rue Auguste Scohy"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -1141,6 +1157,9 @@
       "street": "Rue Auguste Scohy"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "201"
       ], 
@@ -1301,8 +1320,8 @@
         "217"
       ], 
       "housenumber": "217", 
-      "lat": 50.412995680123, 
-      "lon": 4.560345950988, 
+      "lat": 50.412975696703, 
+      "lon": 4.560347358566, 
       "municipality": "Aiseau-Presles", 
       "pcode": "6250", 
       "source": "7711569", 
@@ -1313,8 +1332,8 @@
         "219"
       ], 
       "housenumber": "219", 
-      "lat": 50.412969455525, 
-      "lon": 4.560497838312, 
+      "lat": 50.41293729527, 
+      "lon": 4.560526557519, 
       "municipality": "Aiseau-Presles", 
       "pcode": "6250", 
       "source": "7711569", 
@@ -1441,6 +1460,9 @@
       "street": "Rue Auguste Scohy"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "228"
       ], 
@@ -1865,8 +1887,8 @@
         "280"
       ], 
       "housenumber": "280", 
-      "lat": 50.412734680079, 
-      "lon": 4.559671470569, 
+      "lat": 50.412735101032, 
+      "lon": 4.559704603136, 
       "municipality": "Aiseau-Presles", 
       "pcode": "6250", 
       "source": "7711569", 
@@ -2557,6 +2579,21 @@
       "street": "Rue Auguste Scohy"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
+      "hnrlbls": [
+        "66"
+      ], 
+      "housenumber": "66", 
+      "lat": 50.408679427663, 
+      "lon": 4.543412487071, 
+      "municipality": "Aiseau-Presles", 
+      "pcode": "6250", 
+      "source": "7711569", 
+      "street": "Rue Auguste Scohy"
+    }, 
+    {
       "hnrlbls": [
         "67"
       ], 
@@ -2585,8 +2622,8 @@
         "68"
       ], 
       "housenumber": "68", 
-      "lat": 50.408642549327, 
-      "lon": 4.54347552301, 
+      "lat": 50.408623489738, 
+      "lon": 4.543495180498, 
       "municipality": "Aiseau-Presles", 
       "pcode": "6250", 
       "source": "7711569", 
@@ -2618,11 +2655,35 @@
     }, 
     {
       "hnrlbls": [
+        "70"
+      ], 
+      "housenumber": "70", 
+      "lat": 50.408599117791, 
+      "lon": 4.543533854104, 
+      "municipality": "Aiseau-Presles", 
+      "pcode": "6250", 
+      "source": "7711569", 
+      "street": "Rue Auguste Scohy"
+    }, 
+    {
+      "hnrlbls": [
         "71"
       ], 
       "housenumber": "71", 
       "lat": 50.409630820775, 
       "lon": 4.54409263096, 
+      "municipality": "Aiseau-Presles", 
+      "pcode": "6250", 
+      "source": "7711569", 
+      "street": "Rue Auguste Scohy"
+    }, 
+    {
+      "hnrlbls": [
+        "72"
+      ], 
+      "housenumber": "72", 
+      "lat": 50.408574321792, 
+      "lon": 4.543571729838, 
       "municipality": "Aiseau-Presles", 
       "pcode": "6250", 
       "source": "7711569", 
@@ -2761,288 +2822,33 @@
       "street": "Rue Auguste Scohy"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007"
+      ], 
+      "hnrlbls": [
+        "76"
+      ], 
+      "housenumber": "76", 
+      "lat": 50.408882611065, 
+      "lon": 4.543384949252, 
+      "municipality": "Aiseau-Presles", 
+      "pcode": "6250", 
+      "source": "7711569", 
+      "street": "Rue Auguste Scohy"
+    }, 
+    {
       "hnrlbls": [
         "77"
       ], 
       "housenumber": "77", 
       "lat": 50.409842725901, 
       "lon": 4.544257274502, 
-      "municipality": "Aiseau-Presles", 
-      "pcode": "6250", 
-      "source": "7711569", 
-      "street": "Rue Auguste Scohy"
-    }, 
-    {
-      "hnrlbls": [
-        "77/1"
-      ], 
-      "housenumber": "77/1", 
-      "lat": 50.409774196273, 
-      "lon": 4.543815382199, 
-      "municipality": "Aiseau-Presles", 
-      "pcode": "6250", 
-      "source": "7711569", 
-      "street": "Rue Auguste Scohy"
-    }, 
-    {
-      "hnrlbls": [
-        "77/10"
-      ], 
-      "housenumber": "77/10", 
-      "lat": 50.409894331434, 
-      "lon": 4.543509274017, 
-      "municipality": "Aiseau-Presles", 
-      "pcode": "6250", 
-      "source": "7711569", 
-      "street": "Rue Auguste Scohy"
-    }, 
-    {
-      "hnrlbls": [
-        "77/11"
-      ], 
-      "housenumber": "77/11", 
-      "lat": 50.409918664967, 
-      "lon": 4.543462090475, 
-      "municipality": "Aiseau-Presles", 
-      "pcode": "6250", 
-      "source": "7711569", 
-      "street": "Rue Auguste Scohy"
-    }, 
-    {
-      "hnrlbls": [
-        "77/12"
-      ], 
-      "housenumber": "77/12", 
-      "lat": 50.409940617172, 
-      "lon": 4.543417132189, 
-      "municipality": "Aiseau-Presles", 
-      "pcode": "6250", 
-      "source": "7711569", 
-      "street": "Rue Auguste Scohy"
-    }, 
-    {
-      "hnrlbls": [
-        "77/13"
-      ], 
-      "housenumber": "77/13", 
-      "lat": 50.410182289723, 
-      "lon": 4.543821287406, 
-      "municipality": "Aiseau-Presles", 
-      "pcode": "6250", 
-      "source": "7711569", 
-      "street": "Rue Auguste Scohy"
-    }, 
-    {
-      "hnrlbls": [
-        "77/14"
-      ], 
-      "housenumber": "77/14", 
-      "lat": 50.410202129792, 
-      "lon": 4.543914493172, 
-      "municipality": "Aiseau-Presles", 
-      "pcode": "6250", 
-      "source": "7711569", 
-      "street": "Rue Auguste Scohy"
-    }, 
-    {
-      "hnrlbls": [
-        "77/15"
-      ], 
-      "housenumber": "77/15", 
-      "lat": 50.410225105144, 
-      "lon": 4.544010392146, 
-      "municipality": "Aiseau-Presles", 
-      "pcode": "6250", 
-      "source": "7711569", 
-      "street": "Rue Auguste Scohy"
-    }, 
-    {
-      "hnrlbls": [
-        "77/16"
-      ], 
-      "housenumber": "77/16", 
-      "lat": 50.410244412121, 
-      "lon": 4.543890306699, 
-      "municipality": "Aiseau-Presles", 
-      "pcode": "6250", 
-      "source": "7711569", 
-      "street": "Rue Auguste Scohy"
-    }, 
-    {
-      "hnrlbls": [
-        "77/17"
-      ], 
-      "housenumber": "77/17", 
-      "lat": 50.410255760195, 
-      "lon": 4.543936356411, 
-      "municipality": "Aiseau-Presles", 
-      "pcode": "6250", 
-      "source": "7711569", 
-      "street": "Rue Auguste Scohy"
-    }, 
-    {
-      "hnrlbls": [
-        "77/18"
-      ], 
-      "housenumber": "77/18", 
-      "lat": 50.410266683692, 
-      "lon": 4.543980171858, 
-      "municipality": "Aiseau-Presles", 
-      "pcode": "6250", 
-      "source": "7711569", 
-      "street": "Rue Auguste Scohy"
-    }, 
-    {
-      "hnrlbls": [
-        "77/19"
-      ], 
-      "housenumber": "77/19", 
-      "lat": 50.410247808389, 
-      "lon": 4.544091797975, 
-      "municipality": "Aiseau-Presles", 
-      "pcode": "6250", 
-      "source": "7711569", 
-      "street": "Rue Auguste Scohy"
-    }, 
-    {
-      "hnrlbls": [
-        "77/2"
-      ], 
-      "housenumber": "77/2", 
-      "lat": 50.409812954077, 
-      "lon": 4.54374619836, 
-      "municipality": "Aiseau-Presles", 
-      "pcode": "6250", 
-      "source": "7711569", 
-      "street": "Rue Auguste Scohy"
-    }, 
-    {
-      "hnrlbls": [
-        "77/20"
-      ], 
-      "housenumber": "77/20", 
-      "lat": 50.410304999841, 
-      "lon": 4.544392925775, 
-      "municipality": "Aiseau-Presles", 
-      "pcode": "6250", 
-      "source": "7711569", 
-      "street": "Rue Auguste Scohy"
-    }, 
-    {
-      "hnrlbls": [
-        "77/21"
-      ], 
-      "housenumber": "77/21", 
-      "lat": 50.410361518088, 
-      "lon": 4.544377315445, 
-      "municipality": "Aiseau-Presles", 
-      "pcode": "6250", 
-      "source": "7711569", 
-      "street": "Rue Auguste Scohy"
-    }, 
-    {
-      "hnrlbls": [
-        "77/22"
-      ], 
-      "housenumber": "77/22", 
-      "lat": 50.410405864331, 
-      "lon": 4.544348632139, 
-      "municipality": "Aiseau-Presles", 
-      "pcode": "6250", 
-      "source": "7711569", 
-      "street": "Rue Auguste Scohy"
-    }, 
-    {
-      "hnrlbls": [
-        "77/23"
-      ], 
-      "housenumber": "77/23", 
-      "lat": 50.410456192435, 
-      "lon": 4.544297636748, 
-      "municipality": "Aiseau-Presles", 
-      "pcode": "6250", 
-      "source": "7711569", 
-      "street": "Rue Auguste Scohy"
-    }, 
-    {
-      "hnrlbls": [
-        "77/3"
-      ], 
-      "housenumber": "77/3", 
-      "lat": 50.409737402787, 
-      "lon": 4.543764529999, 
-      "municipality": "Aiseau-Presles", 
-      "pcode": "6250", 
-      "source": "7711569", 
-      "street": "Rue Auguste Scohy"
-    }, 
-    {
-      "hnrlbls": [
-        "77/4"
-      ], 
-      "housenumber": "77/4", 
-      "lat": 50.409759466187, 
-      "lon": 4.543724596337, 
-      "municipality": "Aiseau-Presles", 
-      "pcode": "6250", 
-      "source": "7711569", 
-      "street": "Rue Auguste Scohy"
-    }, 
-    {
-      "hnrlbls": [
-        "77/5"
-      ], 
-      "housenumber": "77/5", 
-      "lat": 50.40977825116, 
-      "lon": 4.543689768668, 
-      "municipality": "Aiseau-Presles", 
-      "pcode": "6250", 
-      "source": "7711569", 
-      "street": "Rue Auguste Scohy"
-    }, 
-    {
-      "hnrlbls": [
-        "77/6"
-      ], 
-      "housenumber": "77/6", 
-      "lat": 50.409848454721, 
-      "lon": 4.543668625886, 
-      "municipality": "Aiseau-Presles", 
-      "pcode": "6250", 
-      "source": "7711569", 
-      "street": "Rue Auguste Scohy"
-    }, 
-    {
-      "hnrlbls": [
-        "77/7"
-      ], 
-      "housenumber": "77/7", 
-      "lat": 50.409885134891, 
-      "lon": 4.543597571445, 
-      "municipality": "Aiseau-Presles", 
-      "pcode": "6250", 
-      "source": "7711569", 
-      "street": "Rue Auguste Scohy"
-    }, 
-    {
-      "hnrlbls": [
-        "77/8"
-      ], 
-      "housenumber": "77/8", 
-      "lat": 50.40992591518, 
-      "lon": 4.543544009555, 
-      "municipality": "Aiseau-Presles", 
-      "pcode": "6250", 
-      "source": "7711569", 
-      "street": "Rue Auguste Scohy"
-    }, 
-    {
-      "hnrlbls": [
-        "77/9"
-      ], 
-      "housenumber": "77/9", 
-      "lat": 50.409973617935, 
-      "lon": 4.543458943854, 
       "municipality": "Aiseau-Presles", 
       "pcode": "6250", 
       "source": "7711569", 
@@ -3085,6 +2891,18 @@
       "street": "Rue Auguste Scohy"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008", 
+        "0009", 
+        "0010"
+      ], 
       "hnrlbls": [
         "82"
       ], 
@@ -3181,6 +2999,9 @@
       "street": "Rue Auguste Scohy"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "9"
       ], 
@@ -3209,8 +3030,8 @@
         "92"
       ], 
       "housenumber": "92", 
-      "lat": 50.409566749193, 
-      "lon": 4.544949224661, 
+      "lat": 50.409592436754, 
+      "lon": 4.544950808872, 
       "municipality": "Aiseau-Presles", 
       "pcode": "6250", 
       "source": "7711569", 
@@ -3229,6 +3050,12 @@
       "street": "Rue Auguste Scohy"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004"
+      ], 
       "hnrlbls": [
         "95"
       ], 
@@ -3241,6 +3068,13 @@
       "street": "Rue Auguste Scohy"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005"
+      ], 
       "hnrlbls": [
         "97"
       ], 

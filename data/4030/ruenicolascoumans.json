@@ -1,6 +1,22 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0011", 
+        "0021"
+      ], 
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.633100616909, 
+      "lon": 5.604451788314, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7731212", 
+      "street": "Rue Nicolas-Coumans"
+    }, 
+    {
       "hnrlbls": [
         "11"
       ], 
@@ -13,6 +29,11 @@
       "street": "Rue Nicolas-Coumans"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -49,6 +70,11 @@
       "street": "Rue Nicolas-Coumans"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -61,6 +87,20 @@
       "street": "Rue Nicolas-Coumans"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -109,6 +149,11 @@
       "street": "Rue Nicolas-Coumans"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -121,6 +166,12 @@
       "street": "Rue Nicolas-Coumans"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -145,12 +196,29 @@
       "street": "Rue Nicolas-Coumans"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "9"
       ], 
       "housenumber": "9", 
       "lat": 50.633022321524, 
       "lon": 5.604121490273, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7731212", 
+      "street": "Rue Nicolas-Coumans"
+    }, 
+    {
+      "hnrlbls": [
+        "9B"
+      ], 
+      "housenumber": "9B", 
+      "lat": 50.633050060724, 
+      "lon": 5.604106086015, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4030", 
       "source": "7731212", 

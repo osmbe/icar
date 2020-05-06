@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "2\u00e9t.", 
+        "3\u00e9t."
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -157,6 +162,9 @@
       "street": "Rue Hauzeur"
     }, 
     {
+      "busnrs": [
+        "Rez."
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -241,6 +249,10 @@
       "street": "Rue Hauzeur"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t", 
+        "2\u00e9t."
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -385,6 +397,11 @@
       "street": "Rue Hauzeur"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "2\u00e9t.", 
+        "rez."
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -445,6 +462,9 @@
       "street": "Rue Hauzeur"
     }, 
     {
+      "busnrs": [
+        "2\u00e9t."
+      ], 
       "hnrlbls": [
         "46"
       ], 
@@ -517,6 +537,10 @@
       "street": "Rue Hauzeur"
     }, 
     {
+      "busnrs": [
+        "2+3\u00e9", 
+        "rez."
+      ], 
       "hnrlbls": [
         "52"
       ], 
@@ -566,11 +590,47 @@
     }, 
     {
       "hnrlbls": [
+        "5B"
+      ], 
+      "housenumber": "5B", 
+      "lat": 50.585634830115, 
+      "lon": 5.839297128267, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7739012", 
+      "street": "Rue Hauzeur"
+    }, 
+    {
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.585342776287, 
+      "lon": 5.839913348757, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7739012", 
+      "street": "Rue Hauzeur"
+    }, 
+    {
+      "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
       "lat": 50.585598640268, 
       "lon": 5.839487942548, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7739012", 
+      "street": "Rue Hauzeur"
+    }, 
+    {
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 50.585315074539, 
+      "lon": 5.839985205694, 
       "municipality": "Verviers", 
       "pcode": "4800", 
       "source": "7739012", 

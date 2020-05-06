@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -133,6 +137,9 @@
       "street": "Rue Jean-Fran\u00e7ois Grange"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -181,6 +188,13 @@
       "street": "Rue Jean-Fran\u00e7ois Grange"
     }, 
     {
+      "busnrs": [
+        "A/1", 
+        "A/2", 
+        "B", 
+        "C", 
+        "D"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -199,6 +213,18 @@
       "housenumber": "25", 
       "lat": 49.559096954872, 
       "lon": 5.531153314143, 
+      "municipality": "Virton", 
+      "pcode": "6762", 
+      "source": "7747927", 
+      "street": "Rue Jean-Fran\u00e7ois Grange"
+    }, 
+    {
+      "hnrlbls": [
+        "25A"
+      ], 
+      "housenumber": "25A", 
+      "lat": 49.559120980974, 
+      "lon": 5.531278808105, 
       "municipality": "Virton", 
       "pcode": "6762", 
       "source": "7747927", 
@@ -289,6 +315,12 @@
       "street": "Rue Jean-Fran\u00e7ois Grange"
     }, 
     {
+      "busnrs": [
+        "A1/1", 
+        "A1/2", 
+        "B0/1", 
+        "B0/2"
+      ], 
       "hnrlbls": [
         "36"
       ], 
@@ -301,6 +333,13 @@
       "street": "Rue Jean-Fran\u00e7ois Grange"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "0/2", 
+        "1/1", 
+        "1/2", 
+        "2/1"
+      ], 
       "hnrlbls": [
         "38"
       ], 
@@ -325,6 +364,10 @@
       "street": "Rue Jean-Fran\u00e7ois Grange"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "2"
+      ], 
       "hnrlbls": [
         "44"
       ], 
@@ -361,6 +404,10 @@
       "street": "Rue Jean-Fran\u00e7ois Grange"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
       "hnrlbls": [
         "52"
       ], 

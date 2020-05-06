@@ -49,6 +49,13 @@
       "street": "Rue de Cornillon"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "107"
       ], 
@@ -109,6 +116,11 @@
       "street": "Rue de Cornillon"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "115"
       ], 
@@ -121,6 +133,11 @@
       "street": "Rue de Cornillon"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "119"
       ], 
@@ -181,6 +198,16 @@
       "street": "Rue de Cornillon"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0015", 
+        "0021"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -385,6 +412,11 @@
       "street": "Rue de Cornillon"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -433,6 +465,11 @@
       "street": "Rue de Cornillon"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -493,6 +530,10 @@
       "street": "Rue de Cornillon"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -505,6 +546,13 @@
       "street": "Rue de Cornillon"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "40"
       ], 
@@ -529,6 +577,11 @@
       "street": "Rue de Cornillon"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "42"
       ], 
@@ -553,6 +606,14 @@
       "street": "Rue de Cornillon"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0021"
+      ], 
       "hnrlbls": [
         "44"
       ], 
@@ -577,6 +638,13 @@
       "street": "Rue de Cornillon"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "46"
       ], 
@@ -625,6 +693,13 @@
       "street": "Rue de Cornillon"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -710,6 +785,42 @@
     }, 
     {
       "hnrlbls": [
+        "56"
+      ], 
+      "housenumber": "56", 
+      "lat": 50.637718262596, 
+      "lon": 5.595989969114, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730312", 
+      "street": "Rue de Cornillon"
+    }, 
+    {
+      "hnrlbls": [
+        "57"
+      ], 
+      "housenumber": "57", 
+      "lat": 50.637010279295, 
+      "lon": 5.59436620587, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730312", 
+      "street": "Rue de Cornillon"
+    }, 
+    {
+      "hnrlbls": [
+        "58"
+      ], 
+      "housenumber": "58", 
+      "lat": 50.637757156614, 
+      "lon": 5.595950827475, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730312", 
+      "street": "Rue de Cornillon"
+    }, 
+    {
+      "hnrlbls": [
         "59"
       ], 
       "housenumber": "59", 
@@ -757,6 +868,21 @@
       "street": "Rue de Cornillon"
     }, 
     {
+      "busnrs": [
+        "0011"
+      ], 
+      "hnrlbls": [
+        "62"
+      ], 
+      "housenumber": "62", 
+      "lat": 50.637797294567, 
+      "lon": 5.595972937592, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730312", 
+      "street": "Rue de Cornillon"
+    }, 
+    {
       "hnrlbls": [
         "63"
       ], 
@@ -770,11 +896,40 @@
     }, 
     {
       "hnrlbls": [
+        "64"
+      ], 
+      "housenumber": "64", 
+      "lat": 50.637832982634, 
+      "lon": 5.596007798013, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730312", 
+      "street": "Rue de Cornillon"
+    }, 
+    {
+      "hnrlbls": [
         "65"
       ], 
       "housenumber": "65", 
       "lat": 50.637154703796, 
       "lon": 5.594567454087, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730312", 
+      "street": "Rue de Cornillon"
+    }, 
+    {
+      "busnrs": [
+        "0011", 
+        "0021", 
+        "0022"
+      ], 
+      "hnrlbls": [
+        "66"
+      ], 
+      "housenumber": "66", 
+      "lat": 50.637889804285, 
+      "lon": 5.596093541099, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730312", 
@@ -794,11 +949,35 @@
     }, 
     {
       "hnrlbls": [
+        "73"
+      ], 
+      "housenumber": "73", 
+      "lat": 50.63726063507, 
+      "lon": 5.594781686221, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730312", 
+      "street": "Rue de Cornillon"
+    }, 
+    {
+      "hnrlbls": [
         "75"
       ], 
       "housenumber": "75", 
       "lat": 50.637327204222, 
       "lon": 5.594837466486, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730312", 
+      "street": "Rue de Cornillon"
+    }, 
+    {
+      "hnrlbls": [
+        "76"
+      ], 
+      "housenumber": "76", 
+      "lat": 50.637973857837, 
+      "lon": 5.596206007562, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730312", 
@@ -865,6 +1044,11 @@
       "street": "Rue de Cornillon"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "81"
       ], 
@@ -1003,6 +1187,18 @@
       "housenumber": "93", 
       "lat": 50.6376814301, 
       "lon": 5.595370469904, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730312", 
+      "street": "Rue de Cornillon"
+    }, 
+    {
+      "hnrlbls": [
+        "94"
+      ], 
+      "housenumber": "94", 
+      "lat": 50.638167236212, 
+      "lon": 5.59656279085, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730312", 

@@ -13,6 +13,10 @@
       "street": "Rue Charles Duvivier"
     }, 
     {
+      "busnrs": [
+        "BTE1", 
+        "BTE2"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -29,14 +33,30 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.599490482703, 
-      "lon": 3.622599785104, 
+      "lat": 50.599515028316, 
+      "lon": 3.622569497871, 
       "municipality": "Leuze-en-Hainaut", 
       "pcode": "7900", 
       "source": "7724227", 
       "street": "Rue Charles Duvivier"
     }, 
     {
+      "hnrlbls": [
+        "14"
+      ], 
+      "housenumber": "14", 
+      "lat": 50.599466667733, 
+      "lon": 3.622609627867, 
+      "municipality": "Leuze-en-Hainaut", 
+      "pcode": "7900", 
+      "source": "7724227", 
+      "street": "Rue Charles Duvivier"
+    }, 
+    {
+      "busnrs": [
+        "18A", 
+        "18B"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -53,14 +73,17 @@
         "2/4"
       ], 
       "housenumber": "2/4", 
-      "lat": 50.599890734187, 
-      "lon": 3.622549680889, 
+      "lat": 50.599877137559, 
+      "lon": 3.622553151407, 
       "municipality": "Leuze-en-Hainaut", 
       "pcode": "7900", 
       "source": "7724227", 
       "street": "Rue Charles Duvivier"
     }, 
     {
+      "busnrs": [
+        "20B"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -89,8 +112,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.599536858623, 
-      "lon": 3.622289373994, 
+      "lat": 50.599525833627, 
+      "lon": 3.622350842568, 
       "municipality": "Leuze-en-Hainaut", 
       "pcode": "7900", 
       "source": "7724227", 
@@ -110,11 +133,35 @@
     }, 
     {
       "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 50.599393056765, 
+      "lon": 3.622080744671, 
+      "municipality": "Leuze-en-Hainaut", 
+      "pcode": "7900", 
+      "source": "7724227", 
+      "street": "Rue Charles Duvivier"
+    }, 
+    {
+      "hnrlbls": [
         "8/1"
       ], 
       "housenumber": "8/1", 
-      "lat": 50.599687493965, 
-      "lon": 3.622545301633, 
+      "lat": 50.599714667183, 
+      "lon": 3.622546620312, 
+      "municipality": "Leuze-en-Hainaut", 
+      "pcode": "7900", 
+      "source": "7724227", 
+      "street": "Rue Charles Duvivier"
+    }, 
+    {
+      "hnrlbls": [
+        "8/2"
+      ], 
+      "housenumber": "8/2", 
+      "lat": 50.599662025092, 
+      "lon": 3.62254464682, 
       "municipality": "Leuze-en-Hainaut", 
       "pcode": "7900", 
       "source": "7724227", 

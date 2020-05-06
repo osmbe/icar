@@ -49,6 +49,14 @@
       "street": "Clos du Colbie"
     }, 
     {
+      "busnrs": [
+        "B001", 
+        "B002", 
+        "C003", 
+        "C004", 
+        "D005", 
+        "D007"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -169,6 +177,13 @@
       "street": "Clos du Colbie"
     }, 
     {
+      "busnrs": [
+        "0004", 
+        "B003", 
+        "B006", 
+        "C005", 
+        "D001"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -193,12 +208,24 @@
       "street": "Clos du Colbie"
     }, 
     {
+      "busnrs": [
+        "0006", 
+        "0007", 
+        "A004", 
+        "A008", 
+        "A012", 
+        "B003", 
+        "B011", 
+        "C002", 
+        "C010", 
+        "D005"
+      ], 
       "hnrlbls": [
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 50.67811441222, 
-      "lon": 4.368863972522, 
+      "lat": 50.678084816181, 
+      "lon": 4.369036797, 
       "municipality": "Braine-l'Alleud", 
       "pcode": "1420", 
       "source": "7700434", 
@@ -253,12 +280,17 @@
       "street": "Clos du Colbie"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 50.678446624773, 
-      "lon": 4.36885894121, 
+      "lat": 50.678469647213, 
+      "lon": 4.368952959719, 
       "municipality": "Braine-l'Alleud", 
       "pcode": "1420", 
       "source": "7700434", 
@@ -305,8 +337,8 @@
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 50.678401450006, 
-      "lon": 4.368936800642, 
+      "lat": 50.678416336807, 
+      "lon": 4.368996692303, 
       "municipality": "Braine-l'Alleud", 
       "pcode": "1420", 
       "source": "7700434", 

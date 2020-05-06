@@ -2,6 +2,18 @@
   "addresses": [
     {
       "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.711813556079, 
+      "lon": 3.829823570958, 
+      "municipality": "Lessines", 
+      "pcode": "7860", 
+      "source": "7717943", 
+      "street": "Grand'Rue"
+    }, 
+    {
+      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -43,18 +55,6 @@
       "housenumber": "13", 
       "lat": 50.711892739505, 
       "lon": 3.830354893503, 
-      "municipality": "Lessines", 
-      "pcode": "7860", 
-      "source": "7717943", 
-      "street": "Grand'Rue"
-    }, 
-    {
-      "hnrlbls": [
-        "14"
-      ], 
-      "housenumber": "14", 
-      "lat": 50.711716797901, 
-      "lon": 3.830081860662, 
       "municipality": "Lessines", 
       "pcode": "7860", 
       "source": "7717943", 
@@ -145,6 +145,10 @@
       "street": "Grand'Rue"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -205,6 +209,10 @@
       "street": "Grand'Rue"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -577,6 +585,12 @@
       "street": "Grand'Rue"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "59"
       ], 
@@ -649,6 +663,10 @@
       "street": "Grand'Rue"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "9"
       ], 

@@ -209,8 +209,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 50.545272069261, 
-      "lon": 4.55521790128, 
+      "lat": 50.545293768091, 
+      "lon": 4.555221720332, 
       "municipality": "Villers-la-Ville", 
       "pcode": "1495", 
       "source": "7704003", 
@@ -221,8 +221,8 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 50.546067470085, 
-      "lon": 4.556059434531, 
+      "lat": 50.54577214454, 
+      "lon": 4.555846653349, 
       "municipality": "Villers-la-Ville", 
       "pcode": "1495", 
       "source": "7704003", 
@@ -241,6 +241,12 @@
       "street": "Rue Catalogne"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102"
+      ], 
       "hnrlbls": [
         "37"
       ], 
@@ -265,12 +271,16 @@
       "street": "Rue Catalogne"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 50.545499738935, 
-      "lon": 4.555603208109, 
+      "lat": 50.545497520881, 
+      "lon": 4.55565135468, 
       "municipality": "Villers-la-Ville", 
       "pcode": "1495", 
       "source": "7704003", 
@@ -434,11 +444,59 @@
     }, 
     {
       "hnrlbls": [
+        "81"
+      ], 
+      "housenumber": "81", 
+      "lat": 50.542451483036, 
+      "lon": 4.556992945358, 
+      "municipality": "Villers-la-Ville", 
+      "pcode": "1495", 
+      "source": "7704003", 
+      "street": "Rue Catalogne"
+    }, 
+    {
+      "hnrlbls": [
+        "81A"
+      ], 
+      "housenumber": "81A", 
+      "lat": 50.542399926031, 
+      "lon": 4.557017992921, 
+      "municipality": "Villers-la-Ville", 
+      "pcode": "1495", 
+      "source": "7704003", 
+      "street": "Rue Catalogne"
+    }, 
+    {
+      "hnrlbls": [
+        "81B"
+      ], 
+      "housenumber": "81B", 
+      "lat": 50.542350411986, 
+      "lon": 4.557041685752, 
+      "municipality": "Villers-la-Ville", 
+      "pcode": "1495", 
+      "source": "7704003", 
+      "street": "Rue Catalogne"
+    }, 
+    {
+      "hnrlbls": [
         "83"
       ], 
       "housenumber": "83", 
       "lat": 50.542179546971, 
       "lon": 4.557091858416, 
+      "municipality": "Villers-la-Ville", 
+      "pcode": "1495", 
+      "source": "7704003", 
+      "street": "Rue Catalogne"
+    }, 
+    {
+      "hnrlbls": [
+        "85"
+      ], 
+      "housenumber": "85", 
+      "lat": 50.541974689762, 
+      "lon": 4.557221991254, 
       "municipality": "Villers-la-Ville", 
       "pcode": "1495", 
       "source": "7704003", 

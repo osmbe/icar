@@ -145,6 +145,10 @@
       "street": "Rue du Centre"
     }, 
     {
+      "busnrs": [
+        "B001", 
+        "B002"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -242,11 +246,23 @@
     }, 
     {
       "hnrlbls": [
+        "29"
+      ], 
+      "housenumber": "29", 
+      "lat": 50.249455531918, 
+      "lon": 4.714133598611, 
+      "municipality": "Florennes", 
+      "pcode": "5620", 
+      "source": "7757260", 
+      "street": "Rue du Centre"
+    }, 
+    {
+      "hnrlbls": [
         "2A"
       ], 
       "housenumber": "2A", 
-      "lat": 50.250220978996, 
-      "lon": 4.711732997328, 
+      "lat": 50.250238207027, 
+      "lon": 4.711698990342, 
       "municipality": "Florennes", 
       "pcode": "5620", 
       "source": "7757260", 
@@ -341,8 +357,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.249185351084, 
-      "lon": 4.715412024269, 
+      "lat": 50.249147479092, 
+      "lon": 4.715349051877, 
       "municipality": "Florennes", 
       "pcode": "5620", 
       "source": "7757260", 

@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "01Et", 
+        "RDCH"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -109,12 +113,24 @@
       "street": "Rue Saint-Georges"
     }, 
     {
+      "busnrs": [
+        "D001", 
+        "D002", 
+        "D003", 
+        "D005", 
+        "P001", 
+        "P002", 
+        "P003", 
+        "R001", 
+        "R002", 
+        "R003"
+      ], 
       "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 50.59739860252, 
-      "lon": 4.327006312535, 
+      "lat": 50.597350707669, 
+      "lon": 4.327105030158, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703171", 
@@ -137,8 +153,8 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.596317178614, 
-      "lon": 4.325743977581, 
+      "lat": 50.596345701127, 
+      "lon": 4.325686401907, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703171", 
@@ -149,8 +165,8 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 50.597512990605, 
-      "lon": 4.327335948832, 
+      "lat": 50.597530864013, 
+      "lon": 4.327432163457, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703171", 
@@ -169,12 +185,15 @@
       "street": "Rue Saint-Georges"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 50.597530661214, 
-      "lon": 4.327428081659, 
+      "lat": 50.597544366634, 
+      "lon": 4.327508418369, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703171", 
@@ -206,6 +225,23 @@
     }, 
     {
       "hnrlbls": [
+        "24A"
+      ], 
+      "housenumber": "24A", 
+      "lat": 50.597563384201, 
+      "lon": 4.327593883412, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703171", 
+      "street": "Rue Saint-Georges"
+    }, 
+    {
+      "busnrs": [
+        "Bt01", 
+        "Bt03", 
+        "Bt07"
+      ], 
+      "hnrlbls": [
         "25"
       ], 
       "housenumber": "25", 
@@ -217,6 +253,10 @@
       "street": "Rue Saint-Georges"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -229,6 +269,12 @@
       "street": "Rue Saint-Georges"
     }, 
     {
+      "busnrs": [
+        "0003", 
+        "Bt01", 
+        "Bt02", 
+        "Bt04"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -241,6 +287,10 @@
       "street": "Rue Saint-Georges"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "RDCH"
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -265,6 +315,10 @@
       "street": "Rue Saint-Georges"
     }, 
     {
+      "busnrs": [
+        "A000", 
+        "B000"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -337,12 +391,31 @@
       "street": "Rue Saint-Georges"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt03", 
+        "Bt04", 
+        "Bt05", 
+        "Bt06"
+      ], 
+      "hnrlbls": [
+        "37"
+      ], 
+      "housenumber": "37", 
+      "lat": 50.597967643786, 
+      "lon": 4.326949814092, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703171", 
+      "street": "Rue Saint-Georges"
+    }, 
+    {
       "hnrlbls": [
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 50.598400937872, 
-      "lon": 4.327212813937, 
+      "lat": 50.597783084358, 
+      "lon": 4.327486402377, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703171", 
@@ -409,6 +482,15 @@
       "street": "Rue Saint-Georges"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt03", 
+        "Bt04", 
+        "Bt05", 
+        "Bt06", 
+        "Bt08", 
+        "Bt10"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -517,12 +599,36 @@
       "street": "Rue Saint-Georges"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02"
+      ], 
       "hnrlbls": [
         "65"
       ], 
       "housenumber": "65", 
       "lat": 50.597810710323, 
       "lon": 4.328104901427, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703171", 
+      "street": "Rue Saint-Georges"
+    }, 
+    {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203"
+      ], 
+      "hnrlbls": [
+        "67"
+      ], 
+      "housenumber": "67", 
+      "lat": 50.597843351731, 
+      "lon": 4.328250493859, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703171", 
@@ -553,6 +659,13 @@
       "street": "Rue Saint-Georges"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005"
+      ], 
       "hnrlbls": [
         "9"
       ], 

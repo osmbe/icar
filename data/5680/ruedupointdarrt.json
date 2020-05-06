@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "000C"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -19,6 +22,18 @@
       "housenumber": "1B", 
       "lat": 50.135106899128, 
       "lon": 4.718168915315, 
+      "municipality": "Doische", 
+      "pcode": "5680", 
+      "source": "7757077", 
+      "street": "Rue du Point-d'Arr\u00eat"
+    }, 
+    {
+      "hnrlbls": [
+        "1C"
+      ], 
+      "housenumber": "1C", 
+      "lat": 50.134776828781, 
+      "lon": 4.718447763695, 
       "municipality": "Doische", 
       "pcode": "5680", 
       "source": "7757077", 

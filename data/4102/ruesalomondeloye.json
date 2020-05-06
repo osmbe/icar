@@ -1,6 +1,31 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0041", 
+        "0071", 
+        "1", 
+        "11", 
+        "12", 
+        "13", 
+        "14", 
+        "21", 
+        "22", 
+        "24", 
+        "3", 
+        "31", 
+        "32", 
+        "33", 
+        "44", 
+        "51", 
+        "52", 
+        "53", 
+        "54", 
+        "61", 
+        "62", 
+        "63", 
+        "72"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +38,9 @@
       "street": "Rue Salomon Deloye"
     }, 
     {
+      "busnrs": [
+        "21"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -37,6 +65,12 @@
       "street": "Rue Salomon Deloye"
     }, 
     {
+      "busnrs": [
+        "11", 
+        "12", 
+        "21", 
+        "22"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -55,6 +89,18 @@
       "housenumber": "15", 
       "lat": 50.580561420947, 
       "lon": 5.546507329516, 
+      "municipality": "Seraing", 
+      "pcode": "4102", 
+      "source": "7732606", 
+      "street": "Rue Salomon Deloye"
+    }, 
+    {
+      "hnrlbls": [
+        "17"
+      ], 
+      "housenumber": "17", 
+      "lat": 50.580507880969, 
+      "lon": 5.546444340462, 
       "municipality": "Seraing", 
       "pcode": "4102", 
       "source": "7732606", 
@@ -158,6 +204,18 @@
     }, 
     {
       "hnrlbls": [
+        "25"
+      ], 
+      "housenumber": "25", 
+      "lat": 50.580294519721, 
+      "lon": 5.546221783112, 
+      "municipality": "Seraing", 
+      "pcode": "4102", 
+      "source": "7732606", 
+      "street": "Rue Salomon Deloye"
+    }, 
+    {
+      "hnrlbls": [
         "26"
       ], 
       "housenumber": "26", 
@@ -205,6 +263,34 @@
       "street": "Rue Salomon Deloye"
     }, 
     {
+      "busnrs": [
+        "0013", 
+        "0024", 
+        "0031", 
+        "0033", 
+        "0051", 
+        "0053", 
+        "0054", 
+        "0061", 
+        "0062", 
+        "0072", 
+        "1", 
+        "11", 
+        "12", 
+        "14", 
+        "2", 
+        "21", 
+        "22", 
+        "23", 
+        "3", 
+        "34", 
+        "4", 
+        "42", 
+        "44", 
+        "52", 
+        "63", 
+        "71"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -337,6 +423,9 @@
       "street": "Rue Salomon Deloye"
     }, 
     {
+      "busnrs": [
+        "21"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -409,12 +498,55 @@
       "street": "Rue Salomon Deloye"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "0013", 
+        "0022", 
+        "0023", 
+        "0033", 
+        "0041", 
+        "0043", 
+        "0054", 
+        "0063", 
+        "0072", 
+        "1", 
+        "11", 
+        "12", 
+        "14", 
+        "21", 
+        "24", 
+        "3", 
+        "31", 
+        "32", 
+        "34", 
+        "4", 
+        "42", 
+        "44", 
+        "51", 
+        "52", 
+        "53", 
+        "61", 
+        "62", 
+        "71"
+      ], 
       "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.580922986242, 
-      "lon": 5.550141249754, 
+      "lat": 50.580916704357, 
+      "lon": 5.549810432702, 
+      "municipality": "Seraing", 
+      "pcode": "4102", 
+      "source": "7732606", 
+      "street": "Rue Salomon Deloye"
+    }, 
+    {
+      "hnrlbls": [
+        "50"
+      ], 
+      "housenumber": "50", 
+      "lat": 50.58059400058, 
+      "lon": 5.545850743994, 
       "municipality": "Seraing", 
       "pcode": "4102", 
       "source": "7732606", 
@@ -559,6 +691,26 @@
       "housenumber": "8", 
       "lat": 50.58145782647, 
       "lon": 5.548003742964, 
+      "municipality": "Seraing", 
+      "pcode": "4102", 
+      "source": "7732606", 
+      "street": "Rue Salomon Deloye"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "12", 
+        "13", 
+        "2", 
+        "21", 
+        "3"
+      ], 
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.580975064259, 
+      "lon": 5.547272921634, 
       "municipality": "Seraing", 
       "pcode": "4102", 
       "source": "7732606", 

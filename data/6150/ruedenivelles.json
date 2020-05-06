@@ -29,8 +29,8 @@
         "101"
       ], 
       "housenumber": "101", 
-      "lat": 50.419452403259, 
-      "lon": 4.274984308032, 
+      "lat": 50.419417106, 
+      "lon": 4.275016488339, 
       "municipality": "Anderlues", 
       "pcode": "6150", 
       "source": "7719091", 
@@ -529,6 +529,9 @@
       "street": "Rue de Nivelles"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "149"
       ], 
@@ -649,6 +652,11 @@
       "street": "Rue de Nivelles"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "4"
+      ], 
       "hnrlbls": [
         "161"
       ], 
@@ -1141,6 +1149,10 @@
       "street": "Rue de Nivelles"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "207"
       ], 

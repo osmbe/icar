@@ -49,6 +49,10 @@
       "street": "Rue de Mons"
     }, 
     {
+      "busnrs": [
+        "R01", 
+        "R02"
+      ], 
       "hnrlbls": [
         "102"
       ], 
@@ -85,6 +89,10 @@
       "street": "Rue de Mons"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "R01"
+      ], 
       "hnrlbls": [
         "105"
       ], 
@@ -229,6 +237,12 @@
       "street": "Rue de Mons"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "R01"
+      ], 
       "hnrlbls": [
         "122"
       ], 
@@ -253,6 +267,24 @@
       "street": "Rue de Mons"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "102", 
+        "103", 
+        "104", 
+        "201", 
+        "202", 
+        "203", 
+        "204", 
+        "301", 
+        "302", 
+        "303", 
+        "304", 
+        "401", 
+        "402", 
+        "R01", 
+        "R02"
+      ], 
       "hnrlbls": [
         "125"
       ], 
@@ -313,6 +345,10 @@
       "street": "Rue de Mons"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "R01"
+      ], 
       "hnrlbls": [
         "133"
       ], 
@@ -325,12 +361,35 @@
       "street": "Rue de Mons"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "201", 
+        "R01"
+      ], 
       "hnrlbls": [
         "139"
       ], 
       "housenumber": "139", 
       "lat": 50.688993765134, 
       "lon": 4.200842084382, 
+      "municipality": "Tubize", 
+      "pcode": "1480", 
+      "source": "7703841", 
+      "street": "Rue de Mons"
+    }, 
+    {
+      "busnrs": [
+        "101", 
+        "201", 
+        "R01", 
+        "R02"
+      ], 
+      "hnrlbls": [
+        "14"
+      ], 
+      "housenumber": "14", 
+      "lat": 50.692298610673, 
+      "lon": 4.204603269998, 
       "municipality": "Tubize", 
       "pcode": "1480", 
       "source": "7703841", 
@@ -349,6 +408,10 @@
       "street": "Rue de Mons"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "R01"
+      ], 
       "hnrlbls": [
         "141"
       ], 
@@ -433,6 +496,10 @@
       "street": "Rue de Mons"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "149"
       ], 
@@ -470,18 +537,6 @@
     }, 
     {
       "hnrlbls": [
-        "151"
-      ], 
-      "housenumber": "151", 
-      "lat": 50.68869321694, 
-      "lon": 4.200354035239, 
-      "municipality": "Tubize", 
-      "pcode": "1480", 
-      "source": "7703841", 
-      "street": "Rue de Mons"
-    }, 
-    {
-      "hnrlbls": [
         "152"
       ], 
       "housenumber": "152", 
@@ -497,8 +552,20 @@
         "153"
       ], 
       "housenumber": "153", 
-      "lat": 50.688647780284, 
-      "lon": 4.200265139574, 
+      "lat": 50.688687866988, 
+      "lon": 4.200353363654, 
+      "municipality": "Tubize", 
+      "pcode": "1480", 
+      "source": "7703841", 
+      "street": "Rue de Mons"
+    }, 
+    {
+      "hnrlbls": [
+        "154"
+      ], 
+      "housenumber": "154", 
+      "lat": 50.688476135907, 
+      "lon": 4.200579581999, 
       "municipality": "Tubize", 
       "pcode": "1480", 
       "source": "7703841", 
@@ -509,8 +576,8 @@
         "155"
       ], 
       "housenumber": "155", 
-      "lat": 50.688603503124, 
-      "lon": 4.200219968945, 
+      "lat": 50.688640696888, 
+      "lon": 4.20028124262, 
       "municipality": "Tubize", 
       "pcode": "1480", 
       "source": "7703841", 
@@ -521,8 +588,8 @@
         "157"
       ], 
       "housenumber": "157", 
-      "lat": 50.688701970324, 
-      "lon": 4.199914095186, 
+      "lat": 50.688600613067, 
+      "lon": 4.200224486571, 
       "municipality": "Tubize", 
       "pcode": "1480", 
       "source": "7703841", 
@@ -535,6 +602,18 @@
       "housenumber": "16", 
       "lat": 50.692254221421, 
       "lon": 4.204523008643, 
+      "municipality": "Tubize", 
+      "pcode": "1480", 
+      "source": "7703841", 
+      "street": "Rue de Mons"
+    }, 
+    {
+      "hnrlbls": [
+        "160"
+      ], 
+      "housenumber": "160", 
+      "lat": 50.688408803081, 
+      "lon": 4.200483405422, 
       "municipality": "Tubize", 
       "pcode": "1480", 
       "source": "7703841", 
@@ -557,14 +636,19 @@
         "162"
       ], 
       "housenumber": "162", 
-      "lat": 50.68841026386, 
-      "lon": 4.200475826232, 
+      "lat": 50.688350708317, 
+      "lon": 4.200412384893, 
       "municipality": "Tubize", 
       "pcode": "1480", 
       "source": "7703841", 
       "street": "Rue de Mons"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "201", 
+        "R01"
+      ], 
       "hnrlbls": [
         "163"
       ], 
@@ -581,8 +665,8 @@
         "164"
       ], 
       "housenumber": "164", 
-      "lat": 50.688355528168, 
-      "lon": 4.200409507703, 
+      "lat": 50.688310729208, 
+      "lon": 4.200352753086, 
       "municipality": "Tubize", 
       "pcode": "1480", 
       "source": "7703841", 
@@ -601,12 +685,17 @@
       "street": "Rue de Mons"
     }, 
     {
+      "busnrs": [
+        "201", 
+        "301", 
+        "R01"
+      ], 
       "hnrlbls": [
         "166"
       ], 
       "housenumber": "166", 
-      "lat": 50.688312522512, 
-      "lon": 4.200348242226, 
+      "lat": 50.688263904144, 
+      "lon": 4.200281766367, 
       "municipality": "Tubize", 
       "pcode": "1480", 
       "source": "7703841", 
@@ -629,8 +718,8 @@
         "168"
       ], 
       "housenumber": "168", 
-      "lat": 50.688265561646, 
-      "lon": 4.200280976468, 
+      "lat": 50.688215503822, 
+      "lon": 4.200206268184, 
       "municipality": "Tubize", 
       "pcode": "1480", 
       "source": "7703841", 
@@ -649,6 +738,10 @@
       "street": "Rue de Mons"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "R01"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -661,6 +754,10 @@
       "street": "Rue de Mons"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "R01"
+      ], 
       "hnrlbls": [
         "171"
       ], 
@@ -677,8 +774,20 @@
         "172"
       ], 
       "housenumber": "172", 
-      "lat": 50.688216746739, 
-      "lon": 4.20021225982, 
+      "lat": 50.688166681473, 
+      "lon": 4.200132403343, 
+      "municipality": "Tubize", 
+      "pcode": "1480", 
+      "source": "7703841", 
+      "street": "Rue de Mons"
+    }, 
+    {
+      "hnrlbls": [
+        "174"
+      ], 
+      "housenumber": "174", 
+      "lat": 50.688101003041, 
+      "lon": 4.200034787166, 
       "municipality": "Tubize", 
       "pcode": "1480", 
       "source": "7703841", 
@@ -691,18 +800,6 @@
       "housenumber": "175", 
       "lat": 50.688263576584, 
       "lon": 4.199706977406, 
-      "municipality": "Tubize", 
-      "pcode": "1480", 
-      "source": "7703841", 
-      "street": "Rue de Mons"
-    }, 
-    {
-      "hnrlbls": [
-        "176"
-      ], 
-      "housenumber": "176", 
-      "lat": 50.688127527904, 
-      "lon": 4.200078688693, 
       "municipality": "Tubize", 
       "pcode": "1480", 
       "source": "7703841", 
@@ -806,6 +903,18 @@
     }, 
     {
       "hnrlbls": [
+        "190"
+      ], 
+      "housenumber": "190", 
+      "lat": 50.687779218999, 
+      "lon": 4.19960095645, 
+      "municipality": "Tubize", 
+      "pcode": "1480", 
+      "source": "7703841", 
+      "street": "Rue de Mons"
+    }, 
+    {
+      "hnrlbls": [
         "20"
       ], 
       "housenumber": "20", 
@@ -817,6 +926,19 @@
       "street": "Rue de Mons"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401", 
+        "402", 
+        "501", 
+        "502", 
+        "R01", 
+        "R02"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -829,6 +951,10 @@
       "street": "Rue de Mons"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "R01"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -913,6 +1039,12 @@
       "street": "Rue de Mons"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "201", 
+        "R01", 
+        "R02"
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -937,6 +1069,10 @@
       "street": "Rue de Mons"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "R01"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -973,6 +1109,11 @@
       "street": "Rue de Mons"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "102", 
+        "R01"
+      ], 
       "hnrlbls": [
         "33"
       ], 
@@ -1021,6 +1162,12 @@
       "street": "Rue de Mons"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "201", 
+        "R01", 
+        "R02"
+      ], 
       "hnrlbls": [
         "37"
       ], 
@@ -1105,6 +1252,10 @@
       "street": "Rue de Mons"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "R01"
+      ], 
       "hnrlbls": [
         "43"
       ], 
@@ -1153,6 +1304,34 @@
       "street": "Rue de Mons"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "201"
+      ], 
+      "hnrlbls": [
+        "46A"
+      ], 
+      "housenumber": "46A", 
+      "lat": 50.691502234809, 
+      "lon": 4.203986345109, 
+      "municipality": "Tubize", 
+      "pcode": "1480", 
+      "source": "7703841", 
+      "street": "Rue de Mons"
+    }, 
+    {
+      "hnrlbls": [
+        "46B"
+      ], 
+      "housenumber": "46B", 
+      "lat": 50.691385568745, 
+      "lon": 4.204242879257, 
+      "municipality": "Tubize", 
+      "pcode": "1480", 
+      "source": "7703841", 
+      "street": "Rue de Mons"
+    }, 
+    {
       "hnrlbls": [
         "47"
       ], 
@@ -1177,6 +1356,10 @@
       "street": "Rue de Mons"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "49"
       ], 
@@ -1201,6 +1384,12 @@
       "street": "Rue de Mons"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "50"
       ], 
@@ -1213,6 +1402,12 @@
       "street": "Rue de Mons"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "201", 
+        "301", 
+        "R01"
+      ], 
       "hnrlbls": [
         "51"
       ], 
@@ -1237,6 +1432,11 @@
       "street": "Rue de Mons"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "102", 
+        "201"
+      ], 
       "hnrlbls": [
         "54"
       ], 
@@ -1273,6 +1473,28 @@
       "street": "Rue de Mons"
     }, 
     {
+      "busnrs": [
+        "101"
+      ], 
+      "hnrlbls": [
+        "57"
+      ], 
+      "housenumber": "57", 
+      "lat": 50.691146025714, 
+      "lon": 4.20298259691, 
+      "municipality": "Tubize", 
+      "pcode": "1480", 
+      "source": "7703841", 
+      "street": "Rue de Mons"
+    }, 
+    {
+      "busnrs": [
+        "101", 
+        "201", 
+        "R01", 
+        "R02", 
+        "R03"
+      ], 
       "hnrlbls": [
         "58"
       ], 
@@ -1321,6 +1543,10 @@
       "street": "Rue de Mons"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "61"
       ], 
@@ -1333,6 +1559,11 @@
       "street": "Rue de Mons"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "201", 
+        "R01"
+      ], 
       "hnrlbls": [
         "62"
       ], 
@@ -1345,6 +1576,25 @@
       "street": "Rue de Mons"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "102", 
+        "103", 
+        "201", 
+        "202", 
+        "203", 
+        "301", 
+        "302", 
+        "303", 
+        "401", 
+        "402", 
+        "403", 
+        "501", 
+        "502", 
+        "503", 
+        "R01", 
+        "R02"
+      ], 
       "hnrlbls": [
         "63"
       ], 
@@ -1357,12 +1607,29 @@
       "street": "Rue de Mons"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "201", 
+        "R01"
+      ], 
       "hnrlbls": [
         "64"
       ], 
       "housenumber": "64", 
       "lat": 50.691016194213, 
       "lon": 4.203311092134, 
+      "municipality": "Tubize", 
+      "pcode": "1480", 
+      "source": "7703841", 
+      "street": "Rue de Mons"
+    }, 
+    {
+      "hnrlbls": [
+        "65"
+      ], 
+      "housenumber": "65", 
+      "lat": 50.690918931508, 
+      "lon": 4.20271820982, 
       "municipality": "Tubize", 
       "pcode": "1480", 
       "source": "7703841", 
@@ -1385,8 +1652,8 @@
         "67"
       ], 
       "housenumber": "67", 
-      "lat": 50.690922026307, 
-      "lon": 4.202719819429, 
+      "lat": 50.690854193778, 
+      "lon": 4.202689165252, 
       "municipality": "Tubize", 
       "pcode": "1480", 
       "source": "7703841", 
@@ -1411,6 +1678,30 @@
       "housenumber": "7", 
       "lat": 50.69255495705, 
       "lon": 4.204456593309, 
+      "municipality": "Tubize", 
+      "pcode": "1480", 
+      "source": "7703841", 
+      "street": "Rue de Mons"
+    }, 
+    {
+      "hnrlbls": [
+        "71"
+      ], 
+      "housenumber": "71", 
+      "lat": 50.690733381028, 
+      "lon": 4.202565082975, 
+      "municipality": "Tubize", 
+      "pcode": "1480", 
+      "source": "7703841", 
+      "street": "Rue de Mons"
+    }, 
+    {
+      "hnrlbls": [
+        "73"
+      ], 
+      "housenumber": "73", 
+      "lat": 50.690663838879, 
+      "lon": 4.202470535665, 
       "municipality": "Tubize", 
       "pcode": "1480", 
       "source": "7703841", 
@@ -1477,6 +1768,10 @@
       "street": "Rue de Mons"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "8"
       ], 
@@ -1489,6 +1784,14 @@
       "street": "Rue de Mons"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "R01", 
+        "R02"
+      ], 
       "hnrlbls": [
         "80"
       ], 
@@ -1537,6 +1840,10 @@
       "street": "Rue de Mons"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "R01"
+      ], 
       "hnrlbls": [
         "89"
       ], 
@@ -1609,6 +1916,10 @@
       "street": "Rue de Mons"
     }, 
     {
+      "busnrs": [
+        "A101", 
+        "A102"
+      ], 
       "hnrlbls": [
         "95"
       ], 
@@ -1645,6 +1956,10 @@
       "street": "Rue de Mons"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "R01"
+      ], 
       "hnrlbls": [
         "98"
       ], 

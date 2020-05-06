@@ -26,18 +26,6 @@
     }, 
     {
       "hnrlbls": [
-        "100"
-      ], 
-      "housenumber": "100", 
-      "lat": 50.39977279221, 
-      "lon": 3.781884662961, 
-      "municipality": "Dour", 
-      "pcode": "7370", 
-      "source": "7712243", 
-      "street": "Rue Grande"
-    }, 
-    {
-      "hnrlbls": [
         "100B"
       ], 
       "housenumber": "100B", 
@@ -65,8 +53,8 @@
         "102"
       ], 
       "housenumber": "102", 
-      "lat": 50.399897217607, 
-      "lon": 3.782240123481, 
+      "lat": 50.399886648827, 
+      "lon": 3.782208155133, 
       "municipality": "Dour", 
       "pcode": "7370", 
       "source": "7712243", 
@@ -89,8 +77,8 @@
         "105"
       ], 
       "housenumber": "105", 
-      "lat": 50.399829316685, 
-      "lon": 3.783013638952, 
+      "lat": 50.39988249955, 
+      "lon": 3.782804570376, 
       "municipality": "Dour", 
       "pcode": "7370", 
       "source": "7712243", 
@@ -121,6 +109,11 @@
       "street": "Rue Grande"
     }, 
     {
+      "busnrs": [
+        "110 B", 
+        "Apt1", 
+        "Apt2"
+      ], 
       "hnrlbls": [
         "110"
       ], 
@@ -145,6 +138,10 @@
       "street": "Rue Grande"
     }, 
     {
+      "busnrs": [
+        "Apt1", 
+        "Apt2"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -265,6 +262,10 @@
       "street": "Rue Grande"
     }, 
     {
+      "busnrs": [
+        "Apt1", 
+        "Apt2"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -277,6 +278,14 @@
       "street": "Rue Grande"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2", 
+        "Bte3", 
+        "Bte4", 
+        "Bte5", 
+        "Bte6"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -325,6 +334,12 @@
       "street": "Rue Grande"
     }, 
     {
+      "busnrs": [
+        "Bte3", 
+        "Bte4", 
+        "Bte5", 
+        "Bte6"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -361,6 +376,9 @@
       "street": "Rue Grande"
     }, 
     {
+      "busnrs": [
+        "Apt1"
+      ], 
       "hnrlbls": [
         "33"
       ], 
@@ -530,9 +548,9 @@
     }, 
     {
       "hnrlbls": [
-        "53"
+        "53A"
       ], 
-      "housenumber": "53", 
+      "housenumber": "53A", 
       "lat": 50.398582297548, 
       "lon": 3.780198148471, 
       "municipality": "Dour", 
@@ -553,6 +571,10 @@
       "street": "Rue Grande"
     }, 
     {
+      "busnrs": [
+        "Boite 1", 
+        "Boite 2"
+      ], 
       "hnrlbls": [
         "53C"
       ], 
@@ -577,6 +599,11 @@
       "street": "Rue Grande"
     }, 
     {
+      "busnrs": [
+        "Apt1", 
+        "Apt2", 
+        "Apt3"
+      ], 
       "hnrlbls": [
         "55"
       ], 
@@ -613,6 +640,9 @@
       "street": "Rue Grande"
     }, 
     {
+      "busnrs": [
+        "Apt1"
+      ], 
       "hnrlbls": [
         "58"
       ], 
@@ -661,6 +691,10 @@
       "street": "Rue Grande"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2"
+      ], 
       "hnrlbls": [
         "63"
       ], 
@@ -673,6 +707,17 @@
       "street": "Rue Grande"
     }, 
     {
+      "busnrs": [
+        "1A", 
+        "1B", 
+        "2A", 
+        "2B", 
+        "3A", 
+        "3B", 
+        "4A", 
+        "4B", 
+        "5"
+      ], 
       "hnrlbls": [
         "64"
       ], 
@@ -877,6 +922,9 @@
       "street": "Rue Grande"
     }, 
     {
+      "busnrs": [
+        "Bte1"
+      ], 
       "hnrlbls": [
         "79"
       ], 
@@ -913,6 +961,11 @@
       "street": "Rue Grande"
     }, 
     {
+      "busnrs": [
+        "Apt1", 
+        "Apt2", 
+        "Apt3"
+      ], 
       "hnrlbls": [
         "81"
       ], 
@@ -961,6 +1014,9 @@
       "street": "Rue Grande"
     }, 
     {
+      "busnrs": [
+        "Apt1"
+      ], 
       "hnrlbls": [
         "86"
       ], 
@@ -974,11 +1030,11 @@
     }, 
     {
       "hnrlbls": [
-        "87"
+        "88"
       ], 
-      "housenumber": "87", 
-      "lat": 50.399552383223, 
-      "lon": 3.781832288851, 
+      "housenumber": "88", 
+      "lat": 50.399562067749, 
+      "lon": 3.78136069126, 
       "municipality": "Dour", 
       "pcode": "7370", 
       "source": "7712243", 
@@ -986,11 +1042,11 @@
     }, 
     {
       "hnrlbls": [
-        "88"
+        "89"
       ], 
-      "housenumber": "88", 
-      "lat": 50.399562067749, 
-      "lon": 3.78136069126, 
+      "housenumber": "89", 
+      "lat": 50.399552383223, 
+      "lon": 3.781832288851, 
       "municipality": "Dour", 
       "pcode": "7370", 
       "source": "7712243", 
@@ -1069,6 +1125,9 @@
       "street": "Rue Grande"
     }, 
     {
+      "busnrs": [
+        "96 B"
+      ], 
       "hnrlbls": [
         "96"
       ], 
@@ -1093,6 +1152,22 @@
       "street": "Rue Grande"
     }, 
     {
+      "busnrs": [
+        "Boite 1", 
+        "Boite 10", 
+        "Boite 11", 
+        "Boite 12", 
+        "Boite 13", 
+        "Boite 14", 
+        "Boite 2", 
+        "Boite 3", 
+        "Boite 4", 
+        "Boite 5", 
+        "Boite 6", 
+        "Boite 7", 
+        "Boite 8", 
+        "Boite 9"
+      ], 
       "hnrlbls": [
         "98"
       ], 

@@ -433,6 +433,10 @@
       "street": "Rue de Fl\u00e9ron"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "140"
       ], 
@@ -457,6 +461,12 @@
       "street": "Rue de Fl\u00e9ron"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012"
+      ], 
       "hnrlbls": [
         "142"
       ], 
@@ -493,6 +503,10 @@
       "street": "Rue de Fl\u00e9ron"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "146"
       ], 
@@ -511,6 +525,18 @@
       "housenumber": "147", 
       "lat": 50.63842213231, 
       "lon": 5.655832134859, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730318", 
+      "street": "Rue de Fl\u00e9ron"
+    }, 
+    {
+      "hnrlbls": [
+        "148"
+      ], 
+      "housenumber": "148", 
+      "lat": 50.639268286288, 
+      "lon": 5.654797399012, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730318", 
@@ -613,6 +639,11 @@
       "street": "Rue de Fl\u00e9ron"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011"
+      ], 
       "hnrlbls": [
         "157"
       ], 
@@ -637,12 +668,60 @@
       "street": "Rue de Fl\u00e9ron"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "A001", 
+        "A002", 
+        "A003", 
+        "A004", 
+        "A005", 
+        "A006", 
+        "B001", 
+        "B002", 
+        "B003", 
+        "B004", 
+        "B005", 
+        "B006"
+      ], 
       "hnrlbls": [
         "159"
       ], 
       "housenumber": "159", 
       "lat": 50.638007780728, 
       "lon": 5.655992293568, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730318", 
+      "street": "Rue de Fl\u00e9ron"
+    }, 
+    {
+      "hnrlbls": [
+        "159A"
+      ], 
+      "housenumber": "159A", 
+      "lat": 50.637898730642, 
+      "lon": 5.656051274543, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730318", 
+      "street": "Rue de Fl\u00e9ron"
+    }, 
+    {
+      "hnrlbls": [
+        "159B"
+      ], 
+      "housenumber": "159B", 
+      "lat": 50.637787659916, 
+      "lon": 5.656096994636, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730318", 
@@ -697,6 +776,11 @@
       "street": "Rue de Fl\u00e9ron"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "164"
       ], 
@@ -709,6 +793,11 @@
       "street": "Rue de Fl\u00e9ron"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "166"
       ], 
@@ -725,8 +814,8 @@
         "173"
       ], 
       "housenumber": "173", 
-      "lat": 50.637102910097, 
-      "lon": 5.65649114287, 
+      "lat": 50.637051705692, 
+      "lon": 5.656480442518, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730318", 
@@ -793,6 +882,12 @@
       "street": "Rue de Fl\u00e9ron"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011"
+      ], 
       "hnrlbls": [
         "194"
       ], 
@@ -1069,6 +1164,10 @@
       "street": "Rue de Fl\u00e9ron"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "219"
       ], 
@@ -1087,6 +1186,18 @@
       "housenumber": "22", 
       "lat": 50.642508925333, 
       "lon": 5.650645423077, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730318", 
+      "street": "Rue de Fl\u00e9ron"
+    }, 
+    {
+      "hnrlbls": [
+        "220"
+      ], 
+      "housenumber": "220", 
+      "lat": 50.637447019135, 
+      "lon": 5.655879780657, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730318", 
@@ -1226,11 +1337,35 @@
     }, 
     {
       "hnrlbls": [
+        "236"
+      ], 
+      "housenumber": "236", 
+      "lat": 50.636871330753, 
+      "lon": 5.656302000345, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730318", 
+      "street": "Rue de Fl\u00e9ron"
+    }, 
+    {
+      "hnrlbls": [
         "237"
       ], 
       "housenumber": "237", 
       "lat": 50.636038051335, 
       "lon": 5.660575048691, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730318", 
+      "street": "Rue de Fl\u00e9ron"
+    }, 
+    {
+      "hnrlbls": [
+        "238"
+      ], 
+      "housenumber": "238", 
+      "lat": 50.636855163611, 
+      "lon": 5.656390065364, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730318", 
@@ -1249,6 +1384,36 @@
       "street": "Rue de Fl\u00e9ron"
     }, 
     {
+      "hnrlbls": [
+        "240"
+      ], 
+      "housenumber": "240", 
+      "lat": 50.63682379374, 
+      "lon": 5.656470646303, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730318", 
+      "street": "Rue de Fl\u00e9ron"
+    }, 
+    {
+      "hnrlbls": [
+        "242"
+      ], 
+      "housenumber": "242", 
+      "lat": 50.636802937757, 
+      "lon": 5.656568055914, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730318", 
+      "street": "Rue de Fl\u00e9ron"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "244"
       ], 
@@ -1322,6 +1487,18 @@
     }, 
     {
       "hnrlbls": [
+        "26"
+      ], 
+      "housenumber": "26", 
+      "lat": 50.642384170181, 
+      "lon": 5.650798549414, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730318", 
+      "street": "Rue de Fl\u00e9ron"
+    }, 
+    {
+      "hnrlbls": [
         "272"
       ], 
       "housenumber": "272", 
@@ -1334,6 +1511,22 @@
     }, 
     {
       "hnrlbls": [
+        "274"
+      ], 
+      "housenumber": "274", 
+      "lat": 50.636399260691, 
+      "lon": 5.657737581572, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730318", 
+      "street": "Rue de Fl\u00e9ron"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
+      "hnrlbls": [
         "276"
       ], 
       "housenumber": "276", 
@@ -1345,6 +1538,23 @@
       "street": "Rue de Fl\u00e9ron"
     }, 
     {
+      "hnrlbls": [
+        "28"
+      ], 
+      "housenumber": "28", 
+      "lat": 50.64224358815, 
+      "lon": 5.650991133682, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730318", 
+      "street": "Rue de Fl\u00e9ron"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011"
+      ], 
       "hnrlbls": [
         "280"
       ], 
@@ -1526,11 +1736,35 @@
     }, 
     {
       "hnrlbls": [
+        "346"
+      ], 
+      "housenumber": "346", 
+      "lat": 50.635622963144, 
+      "lon": 5.660102589317, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730318", 
+      "street": "Rue de Fl\u00e9ron"
+    }, 
+    {
+      "hnrlbls": [
         "348"
       ], 
       "housenumber": "348", 
       "lat": 50.635679569015, 
       "lon": 5.660213396884, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730318", 
+      "street": "Rue de Fl\u00e9ron"
+    }, 
+    {
+      "hnrlbls": [
+        "35"
+      ], 
+      "housenumber": "35", 
+      "lat": 50.64209304334, 
+      "lon": 5.651697431795, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730318", 
@@ -1741,6 +1975,9 @@
       "street": "Rue de Fl\u00e9ron"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "50"
       ], 
@@ -1753,6 +1990,11 @@
       "street": "Rue de Fl\u00e9ron"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "52"
       ], 
@@ -1921,6 +2163,14 @@
       "street": "Rue de Fl\u00e9ron"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -1994,6 +2244,18 @@
     }, 
     {
       "hnrlbls": [
+        "78B"
+      ], 
+      "housenumber": "78B", 
+      "lat": 50.640826642364, 
+      "lon": 5.652283866785, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730318", 
+      "street": "Rue de Fl\u00e9ron"
+    }, 
+    {
+      "hnrlbls": [
         "79"
       ], 
       "housenumber": "79", 
@@ -2029,6 +2291,11 @@
       "street": "Rue de Fl\u00e9ron"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011"
+      ], 
       "hnrlbls": [
         "82"
       ], 
@@ -2126,6 +2393,18 @@
     }, 
     {
       "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.642744689438, 
+      "lon": 5.650826020164, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730318", 
+      "street": "Rue de Fl\u00e9ron"
+    }, 
+    {
+      "hnrlbls": [
         "90"
       ], 
       "housenumber": "90", 
@@ -2137,12 +2416,29 @@
       "street": "Rue de Fl\u00e9ron"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "92"
       ], 
       "housenumber": "92", 
       "lat": 50.640658703574, 
       "lon": 5.653040511992, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730318", 
+      "street": "Rue de Fl\u00e9ron"
+    }, 
+    {
+      "hnrlbls": [
+        "93"
+      ], 
+      "housenumber": "93", 
+      "lat": 50.639899682726, 
+      "lon": 5.654502935234, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730318", 

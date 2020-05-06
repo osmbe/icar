@@ -25,6 +25,9 @@
       "street": "Route de Bomal"
     }, 
     {
+      "busnrs": [
+        "0002"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -62,18 +65,6 @@
     }, 
     {
       "hnrlbls": [
-        "15"
-      ], 
-      "housenumber": "15", 
-      "lat": 50.292593543768, 
-      "lon": 5.661894277794, 
-      "municipality": "Manhay", 
-      "pcode": "6960", 
-      "source": "7744711", 
-      "street": "Route de Bomal"
-    }, 
-    {
-      "hnrlbls": [
         "17"
       ], 
       "housenumber": "17", 
@@ -97,6 +88,12 @@
       "street": "Route de Bomal"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004"
+      ], 
       "hnrlbls": [
         "2"
       ], 

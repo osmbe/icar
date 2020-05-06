@@ -13,12 +13,30 @@
       "street": "Rue de la Forge"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0BC1", 
+        "B001"
+      ], 
       "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.645557347501, 
-      "lon": 4.651847801447, 
+      "lat": 50.645520812508, 
+      "lon": 4.651769171576, 
+      "municipality": "Mont-Saint-Guibert", 
+      "pcode": "1435", 
+      "source": "7702703", 
+      "street": "Rue de la Forge"
+    }, 
+    {
+      "hnrlbls": [
+        "10A"
+      ], 
+      "housenumber": "10A", 
+      "lat": 50.645559015927, 
+      "lon": 4.651848591945, 
       "municipality": "Mont-Saint-Guibert", 
       "pcode": "1435", 
       "source": "7702703", 
@@ -37,6 +55,9 @@
       "street": "Rue de la Forge"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -67,6 +88,18 @@
       "housenumber": "14", 
       "lat": 50.645243207265, 
       "lon": 4.652150632221, 
+      "municipality": "Mont-Saint-Guibert", 
+      "pcode": "1435", 
+      "source": "7702703", 
+      "street": "Rue de la Forge"
+    }, 
+    {
+      "hnrlbls": [
+        "15"
+      ], 
+      "housenumber": "15", 
+      "lat": 50.644957172265, 
+      "lon": 4.651995125196, 
       "municipality": "Mont-Saint-Guibert", 
       "pcode": "1435", 
       "source": "7702703", 

@@ -1,6 +1,19 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "011", 
+        "012", 
+        "013", 
+        "014", 
+        "021", 
+        "022", 
+        "023", 
+        "024", 
+        "031", 
+        "033", 
+        "034"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -139,6 +152,18 @@
       "housenumber": "1A", 
       "lat": 50.393704158259, 
       "lon": 4.414445086716, 
+      "municipality": "Charleroi", 
+      "pcode": "6032", 
+      "source": "7760907", 
+      "street": "Rue Neuve (MM)"
+    }, 
+    {
+      "hnrlbls": [
+        "1B"
+      ], 
+      "housenumber": "1B", 
+      "lat": 50.393452744355, 
+      "lon": 4.414578197714, 
       "municipality": "Charleroi", 
       "pcode": "6032", 
       "source": "7760907", 

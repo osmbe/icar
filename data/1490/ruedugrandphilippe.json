@@ -181,6 +181,9 @@
       "street": "Rue du Grand Philippe"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -197,8 +200,8 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 50.644548558128, 
-      "lon": 4.599645352072, 
+      "lat": 50.644525935879, 
+      "lon": 4.599528265422, 
       "municipality": "Court-Saint-Etienne", 
       "pcode": "1490", 
       "source": "7701340", 
@@ -397,6 +400,14 @@
       "street": "Rue du Grand Philippe"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "A001", 
+        "A101", 
+        "A102", 
+        "A103", 
+        "A104"
+      ], 
       "hnrlbls": [
         "8"
       ], 

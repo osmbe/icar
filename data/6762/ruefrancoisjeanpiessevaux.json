@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A0/1", 
+        "A1/1", 
+        "A2/1", 
+        "A3/1"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -325,6 +331,16 @@
       "street": "Rue Francois-Jean Piessevaux"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "0/2", 
+        "1/1", 
+        "1/2", 
+        "1/3", 
+        "2/1", 
+        "2/2", 
+        "2/3"
+      ], 
       "hnrlbls": [
         "38"
       ], 
@@ -349,6 +365,14 @@
       "street": "Rue Francois-Jean Piessevaux"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "0/2", 
+        "1/1", 
+        "1/2", 
+        "2/1", 
+        "2/2"
+      ], 
       "hnrlbls": [
         "40"
       ], 
@@ -361,6 +385,14 @@
       "street": "Rue Francois-Jean Piessevaux"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "0/2", 
+        "1/1", 
+        "1/2", 
+        "2/1", 
+        "2/2"
+      ], 
       "hnrlbls": [
         "42"
       ], 

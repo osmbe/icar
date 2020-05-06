@@ -877,6 +877,11 @@
       "street": "Rue de Fontenoy"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "11", 
+        "21"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -1022,9 +1027,9 @@
     }, 
     {
       "hnrlbls": [
-        "6B"
+        "6A"
       ], 
-      "housenumber": "6B", 
+      "housenumber": "6A", 
       "lat": 50.566497798285, 
       "lon": 3.455121648364, 
       "municipality": "Antoing", 

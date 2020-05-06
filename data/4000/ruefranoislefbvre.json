@@ -1,6 +1,15 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "B002"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -38,6 +47,51 @@
     }, 
     {
       "hnrlbls": [
+        "10B"
+      ], 
+      "housenumber": "10B", 
+      "lat": 50.676803744979, 
+      "lon": 5.546686723278, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730969", 
+      "street": "Rue Fran\u00e7ois-Lef\u00e8bvre"
+    }, 
+    {
+      "hnrlbls": [
+        "10C"
+      ], 
+      "housenumber": "10C", 
+      "lat": 50.676887212097, 
+      "lon": 5.546648056552, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730969", 
+      "street": "Rue Fran\u00e7ois-Lef\u00e8bvre"
+    }, 
+    {
+      "hnrlbls": [
+        "10D"
+      ], 
+      "housenumber": "10D", 
+      "lat": 50.676928480483, 
+      "lon": 5.546674840582, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730969", 
+      "street": "Rue Fran\u00e7ois-Lef\u00e8bvre"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
+      "hnrlbls": [
         "113"
       ], 
       "housenumber": "113", 
@@ -73,6 +127,11 @@
       "street": "Rue Fran\u00e7ois-Lef\u00e8bvre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -85,6 +144,13 @@
       "street": "Rue Fran\u00e7ois-Lef\u00e8bvre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021"
+      ], 
       "hnrlbls": [
         "120"
       ], 
@@ -193,6 +259,12 @@
       "street": "Rue Fran\u00e7ois-Lef\u00e8bvre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "130"
       ], 
@@ -301,6 +373,17 @@
       "street": "Rue Fran\u00e7ois-Lef\u00e8bvre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0015", 
+        "0016", 
+        "0017", 
+        "0018"
+      ], 
       "hnrlbls": [
         "148"
       ], 
@@ -325,6 +408,12 @@
       "street": "Rue Fran\u00e7ois-Lef\u00e8bvre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011"
+      ], 
       "hnrlbls": [
         "150"
       ], 
@@ -349,6 +438,10 @@
       "street": "Rue Fran\u00e7ois-Lef\u00e8bvre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "152"
       ], 
@@ -451,6 +544,18 @@
       "housenumber": "164", 
       "lat": 50.68339823363, 
       "lon": 5.549331730126, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730969", 
+      "street": "Rue Fran\u00e7ois-Lef\u00e8bvre"
+    }, 
+    {
+      "hnrlbls": [
+        "167"
+      ], 
+      "housenumber": "167", 
+      "lat": 50.683163265245, 
+      "lon": 5.548522626614, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730969", 
@@ -566,6 +671,18 @@
     }, 
     {
       "hnrlbls": [
+        "177"
+      ], 
+      "housenumber": "177", 
+      "lat": 50.683699412328, 
+      "lon": 5.54854807349, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730969", 
+      "street": "Rue Fran\u00e7ois-Lef\u00e8bvre"
+    }, 
+    {
+      "hnrlbls": [
         "178"
       ], 
       "housenumber": "178", 
@@ -589,6 +706,10 @@
       "street": "Rue Fran\u00e7ois-Lef\u00e8bvre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "180"
       ], 
@@ -613,12 +734,28 @@
       "street": "Rue Fran\u00e7ois-Lef\u00e8bvre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "183"
       ], 
       "housenumber": "183", 
       "lat": 50.683807623254, 
       "lon": 5.549037118216, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730969", 
+      "street": "Rue Fran\u00e7ois-Lef\u00e8bvre"
+    }, 
+    {
+      "hnrlbls": [
+        "184"
+      ], 
+      "housenumber": "184", 
+      "lat": 50.683861558793, 
+      "lon": 5.549789733259, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730969", 
@@ -649,6 +786,12 @@
       "street": "Rue Fran\u00e7ois-Lef\u00e8bvre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "188"
       ], 
@@ -667,6 +810,18 @@
       "housenumber": "189", 
       "lat": 50.683987890718, 
       "lon": 5.549239308751, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730969", 
+      "street": "Rue Fran\u00e7ois-Lef\u00e8bvre"
+    }, 
+    {
+      "hnrlbls": [
+        "19"
+      ], 
+      "housenumber": "19", 
+      "lat": 50.677028265289, 
+      "lon": 5.546221701942, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730969", 
@@ -697,12 +852,60 @@
       "street": "Rue Fran\u00e7ois-Lef\u00e8bvre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012"
+      ], 
       "hnrlbls": [
         "192"
       ], 
       "housenumber": "192", 
       "lat": 50.684196539629, 
       "lon": 5.549784157354, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730969", 
+      "street": "Rue Fran\u00e7ois-Lef\u00e8bvre"
+    }, 
+    {
+      "busnrs": [
+        "A001"
+      ], 
+      "hnrlbls": [
+        "193"
+      ], 
+      "housenumber": "193", 
+      "lat": 50.684103060423, 
+      "lon": 5.54930031577, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730969", 
+      "street": "Rue Fran\u00e7ois-Lef\u00e8bvre"
+    }, 
+    {
+      "hnrlbls": [
+        "193A"
+      ], 
+      "housenumber": "193A", 
+      "lat": 50.684160056529, 
+      "lon": 5.549327154795, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730969", 
+      "street": "Rue Fran\u00e7ois-Lef\u00e8bvre"
+    }, 
+    {
+      "busnrs": [
+        "0011"
+      ], 
+      "hnrlbls": [
+        "194"
+      ], 
+      "housenumber": "194", 
+      "lat": 50.684219121868, 
+      "lon": 5.549817372271, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730969", 
@@ -758,6 +961,18 @@
     }, 
     {
       "hnrlbls": [
+        "19B"
+      ], 
+      "housenumber": "19B", 
+      "lat": 50.677074855661, 
+      "lon": 5.546237864542, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730969", 
+      "street": "Rue Fran\u00e7ois-Lef\u00e8bvre"
+    }, 
+    {
+      "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
@@ -805,12 +1020,31 @@
       "street": "Rue Fran\u00e7ois-Lef\u00e8bvre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0013"
+      ], 
       "hnrlbls": [
         "202"
       ], 
       "housenumber": "202", 
       "lat": 50.684590428754, 
       "lon": 5.550135167432, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730969", 
+      "street": "Rue Fran\u00e7ois-Lef\u00e8bvre"
+    }, 
+    {
+      "hnrlbls": [
+        "202B"
+      ], 
+      "housenumber": "202B", 
+      "lat": 50.68458275779, 
+      "lon": 5.55021354891, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730969", 
@@ -878,6 +1112,18 @@
     }, 
     {
       "hnrlbls": [
+        "209"
+      ], 
+      "housenumber": "209", 
+      "lat": 50.686624861293, 
+      "lon": 5.548917654443, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730969", 
+      "street": "Rue Fran\u00e7ois-Lef\u00e8bvre"
+    }, 
+    {
+      "hnrlbls": [
         "21"
       ], 
       "housenumber": "21", 
@@ -895,6 +1141,18 @@
       "housenumber": "210", 
       "lat": 50.684821647802, 
       "lon": 5.550415433591, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730969", 
+      "street": "Rue Fran\u00e7ois-Lef\u00e8bvre"
+    }, 
+    {
+      "hnrlbls": [
+        "211"
+      ], 
+      "housenumber": "211", 
+      "lat": 50.685822453164, 
+      "lon": 5.550949706922, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730969", 
@@ -931,6 +1189,18 @@
       "housenumber": "214", 
       "lat": 50.68489666813, 
       "lon": 5.550510592722, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730969", 
+      "street": "Rue Fran\u00e7ois-Lef\u00e8bvre"
+    }, 
+    {
+      "hnrlbls": [
+        "215"
+      ], 
+      "housenumber": "215", 
+      "lat": 50.686412012821, 
+      "lon": 5.551365301975, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730969", 
@@ -1094,6 +1364,24 @@
     }, 
     {
       "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 50.676541032669, 
+      "lon": 5.546133407612, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730969", 
+      "street": "Rue Fran\u00e7ois-Lef\u00e8bvre"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021"
+      ], 
+      "hnrlbls": [
         "30"
       ], 
       "housenumber": "30", 
@@ -1238,6 +1526,18 @@
     }, 
     {
       "hnrlbls": [
+        "42"
+      ], 
+      "housenumber": "42", 
+      "lat": 50.678105050141, 
+      "lon": 5.547280439039, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730969", 
+      "street": "Rue Fran\u00e7ois-Lef\u00e8bvre"
+    }, 
+    {
+      "hnrlbls": [
         "43"
       ], 
       "housenumber": "43", 
@@ -1249,6 +1549,10 @@
       "street": "Rue Fran\u00e7ois-Lef\u00e8bvre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "44"
       ], 
@@ -1286,6 +1590,30 @@
     }, 
     {
       "hnrlbls": [
+        "46A"
+      ], 
+      "housenumber": "46A", 
+      "lat": 50.678265613296, 
+      "lon": 5.547077148907, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730969", 
+      "street": "Rue Fran\u00e7ois-Lef\u00e8bvre"
+    }, 
+    {
+      "hnrlbls": [
+        "46B"
+      ], 
+      "housenumber": "46B", 
+      "lat": 50.678182065663, 
+      "lon": 5.547212885721, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730969", 
+      "street": "Rue Fran\u00e7ois-Lef\u00e8bvre"
+    }, 
+    {
+      "hnrlbls": [
         "47"
       ], 
       "housenumber": "47", 
@@ -1297,6 +1625,12 @@
       "street": "Rue Fran\u00e7ois-Lef\u00e8bvre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011"
+      ], 
       "hnrlbls": [
         "48"
       ], 
@@ -1309,6 +1643,10 @@
       "street": "Rue Fran\u00e7ois-Lef\u00e8bvre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "49"
       ], 
@@ -1478,6 +1816,18 @@
     }, 
     {
       "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 50.676637497661, 
+      "lon": 5.546098602176, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730969", 
+      "street": "Rue Fran\u00e7ois-Lef\u00e8bvre"
+    }, 
+    {
+      "hnrlbls": [
         "70"
       ], 
       "housenumber": "70", 
@@ -1561,6 +1911,13 @@
       "street": "Rue Fran\u00e7ois-Lef\u00e8bvre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021"
+      ], 
       "hnrlbls": [
         "77"
       ], 
@@ -1585,6 +1942,12 @@
       "street": "Rue Fran\u00e7ois-Lef\u00e8bvre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "79"
       ], 
@@ -1609,6 +1972,12 @@
       "street": "Rue Fran\u00e7ois-Lef\u00e8bvre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "80"
       ], 
@@ -1669,6 +2038,14 @@
       "street": "Rue Fran\u00e7ois-Lef\u00e8bvre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0021"
+      ], 
       "hnrlbls": [
         "88"
       ], 
@@ -1682,11 +2059,35 @@
     }, 
     {
       "hnrlbls": [
+        "90"
+      ], 
+      "housenumber": "90", 
+      "lat": 50.681298698119, 
+      "lon": 5.548585851439, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730969", 
+      "street": "Rue Fran\u00e7ois-Lef\u00e8bvre"
+    }, 
+    {
+      "hnrlbls": [
         "91"
       ], 
       "housenumber": "91", 
       "lat": 50.680592016237, 
       "lon": 5.548019329045, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730969", 
+      "street": "Rue Fran\u00e7ois-Lef\u00e8bvre"
+    }, 
+    {
+      "hnrlbls": [
+        "93"
+      ], 
+      "housenumber": "93", 
+      "lat": 50.680741129681, 
+      "lon": 5.547850400539, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730969", 

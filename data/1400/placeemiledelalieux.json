@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "Bt02"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -25,6 +28,10 @@
       "street": "Place Emile de Lalieux"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -37,6 +44,12 @@
       "street": "Place Emile de Lalieux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "Bt03", 
+        "Bt04", 
+        "Bt05"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -49,6 +62,11 @@
       "street": "Place Emile de Lalieux"
     }, 
     {
+      "busnrs": [
+        "Bt02", 
+        "Bt03", 
+        "Bt04"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -61,6 +79,13 @@
       "street": "Place Emile de Lalieux"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "Bt04", 
+        "Bt06", 
+        "Bt07", 
+        "Bt08"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -85,12 +110,20 @@
       "street": "Place Emile de Lalieux"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt04", 
+        "Bt05", 
+        "Bt06"
+      ], 
       "hnrlbls": [
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 50.598595287042, 
-      "lon": 4.328254412772, 
+      "lat": 50.598587654493, 
+      "lon": 4.328193876123, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702960", 
@@ -113,14 +146,17 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 50.598595287042, 
-      "lon": 4.328254412772, 
+      "lat": 50.598556751989, 
+      "lon": 4.328251455019, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702960", 
       "street": "Place Emile de Lalieux"
     }, 
     {
+      "busnrs": [
+        "000C"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -137,8 +173,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.598523369101, 
-      "lon": 4.328525937286, 
+      "lat": 50.598508101342, 
+      "lon": 4.328393653282, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702960", 
@@ -149,8 +185,8 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 50.598458179596, 
-      "lon": 4.327808426319, 
+      "lat": 50.5984420194, 
+      "lon": 4.327851044551, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702960", 
@@ -161,8 +197,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 50.598523369101, 
-      "lon": 4.328525937286, 
+      "lat": 50.598486236315, 
+      "lon": 4.328448234163, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702960", 
@@ -173,20 +209,29 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 50.598429524289, 
-      "lon": 4.327874978257, 
+      "lat": 50.598397431465, 
+      "lon": 4.327929381528, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702960", 
       "street": "Place Emile de Lalieux"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt03", 
+        "Bt04", 
+        "Bt05", 
+        "Bt06", 
+        "Bt07", 
+        "Bt10"
+      ], 
       "hnrlbls": [
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.598523369101, 
-      "lon": 4.328525937286, 
+      "lat": 50.598458185489, 
+      "lon": 4.328498336977, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702960", 
@@ -197,8 +242,20 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 50.598398508342, 
-      "lon": 4.327926390408, 
+      "lat": 50.598352495692, 
+      "lon": 4.327966230118, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7702960", 
+      "street": "Place Emile de Lalieux"
+    }, 
+    {
+      "hnrlbls": [
+        "26A"
+      ], 
+      "housenumber": "26A", 
+      "lat": 50.598365216413, 
+      "lon": 4.327949966007, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702960", 
@@ -221,8 +278,8 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 50.598356091851, 
-      "lon": 4.327948333873, 
+      "lat": 50.598325425842, 
+      "lon": 4.328000492796, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702960", 
@@ -233,8 +290,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 50.598368019488, 
-      "lon": 4.328680732971, 
+      "lat": 50.598378476108, 
+      "lon": 4.328652322259, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702960", 
@@ -245,8 +302,8 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 50.598322727064, 
-      "lon": 4.327992742031, 
+      "lat": 50.598297054558, 
+      "lon": 4.328040972817, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702960", 
@@ -254,11 +311,26 @@
     }, 
     {
       "hnrlbls": [
+        "31"
+      ], 
+      "housenumber": "31", 
+      "lat": 50.598353935015, 
+      "lon": 4.328697410463, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7702960", 
+      "street": "Place Emile de Lalieux"
+    }, 
+    {
+      "busnrs": [
+        "Bt02"
+      ], 
+      "hnrlbls": [
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 50.598295475913, 
-      "lon": 4.328038373797, 
+      "lat": 50.598269086311, 
+      "lon": 4.328077075207, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702960", 
@@ -278,11 +350,23 @@
     }, 
     {
       "hnrlbls": [
+        "33A"
+      ], 
+      "housenumber": "33A", 
+      "lat": 50.598308291643, 
+      "lon": 4.328777422562, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7702960", 
+      "street": "Place Emile de Lalieux"
+    }, 
+    {
+      "hnrlbls": [
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 50.598266287961, 
-      "lon": 4.328072566148, 
+      "lat": 50.598234555595, 
+      "lon": 4.328137620215, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702960", 
@@ -305,8 +389,8 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 50.598241805276, 
-      "lon": 4.32814318204, 
+      "lat": 50.598189729457, 
+      "lon": 4.328190314854, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702960", 
@@ -329,8 +413,8 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 50.598173859959, 
-      "lon": 4.328200062962, 
+      "lat": 50.598153524017, 
+      "lon": 4.328204003947, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702960", 
@@ -349,6 +433,10 @@
       "street": "Place Emile de Lalieux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "RDCO"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -385,6 +473,9 @@
       "street": "Place Emile de Lalieux"
     }, 
     {
+      "busnrs": [
+        "Bt02"
+      ], 
       "hnrlbls": [
         "42"
       ], 
@@ -397,6 +488,9 @@
       "street": "Place Emile de Lalieux"
     }, 
     {
+      "busnrs": [
+        "Bt01"
+      ], 
       "hnrlbls": [
         "43"
       ], 
@@ -421,6 +515,11 @@
       "street": "Place Emile de Lalieux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "Bt01", 
+        "Bt02"
+      ], 
       "hnrlbls": [
         "45"
       ], 
@@ -469,6 +568,11 @@
       "street": "Place Emile de Lalieux"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -493,6 +597,9 @@
       "street": "Place Emile de Lalieux"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "53"
       ], 
@@ -517,6 +624,19 @@
       "street": "Place Emile de Lalieux"
     }, 
     {
+      "busnrs": [
+        "0010", 
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt04", 
+        "Bt05", 
+        "Bt07", 
+        "Bt08", 
+        "Bt09", 
+        "Bt10", 
+        "Bt12"
+      ], 
       "hnrlbls": [
         "6"
       ], 

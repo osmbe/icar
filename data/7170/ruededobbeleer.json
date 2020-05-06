@@ -13,6 +13,9 @@
       "street": "Rue Dedobbeleer"
     }, 
     {
+      "busnrs": [
+        "000B"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -85,6 +88,10 @@
       "street": "Rue Dedobbeleer"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -373,6 +380,9 @@
       "street": "Rue Dedobbeleer"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -725,8 +735,8 @@
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 50.501701782165, 
-      "lon": 4.228117351191, 
+      "lat": 50.505509025334, 
+      "lon": 4.225157391448, 
       "municipality": "Manage", 
       "pcode": "7170", 
       "source": "7710744", 

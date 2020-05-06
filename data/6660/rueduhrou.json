@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "bt1"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -199,6 +202,18 @@
       "housenumber": "4", 
       "lat": 50.158791002958, 
       "lon": 5.680365160214, 
+      "municipality": "Houffalize", 
+      "pcode": "6660", 
+      "source": "7742735", 
+      "street": "Rue du H\u00e9rou"
+    }, 
+    {
+      "hnrlbls": [
+        "41"
+      ], 
+      "housenumber": "41", 
+      "lat": 50.156399078237, 
+      "lon": 5.672227545626, 
       "municipality": "Houffalize", 
       "pcode": "6660", 
       "source": "7742735", 

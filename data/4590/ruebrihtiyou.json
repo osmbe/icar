@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -127,6 +130,18 @@
       "housenumber": "26A", 
       "lat": 50.448257861819, 
       "lon": 5.473939852412, 
+      "municipality": "Ouffet", 
+      "pcode": "4590", 
+      "source": "7726067", 
+      "street": "Rue Brih\u00ee Tiyou"
+    }, 
+    {
+      "hnrlbls": [
+        "26B"
+      ], 
+      "housenumber": "26B", 
+      "lat": 50.448640613321, 
+      "lon": 5.474447362295, 
       "municipality": "Ouffet", 
       "pcode": "4590", 
       "source": "7726067", 

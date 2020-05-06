@@ -241,6 +241,11 @@
       "street": "Rue de Freux"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2", 
+        "Bte3"
+      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -253,6 +258,11 @@
       "street": "Rue de Freux"
     }, 
     {
+      "busnrs": [
+        "Bte3", 
+        "Bte4", 
+        "Bte5"
+      ], 
       "hnrlbls": [
         "36"
       ], 
@@ -290,11 +300,35 @@
     }, 
     {
       "hnrlbls": [
+        "40"
+      ], 
+      "housenumber": "40", 
+      "lat": 49.999272805197, 
+      "lon": 5.397390738241, 
+      "municipality": "Saint-Hubert", 
+      "pcode": "6870", 
+      "source": "7746312", 
+      "street": "Rue de Freux"
+    }, 
+    {
+      "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
       "lat": 50.005004378138, 
       "lon": 5.396534781538, 
+      "municipality": "Saint-Hubert", 
+      "pcode": "6870", 
+      "source": "7746312", 
+      "street": "Rue de Freux"
+    }, 
+    {
+      "hnrlbls": [
+        "50"
+      ], 
+      "housenumber": "50", 
+      "lat": 49.998432730305, 
+      "lon": 5.397488312129, 
       "municipality": "Saint-Hubert", 
       "pcode": "6870", 
       "source": "7746312", 
@@ -313,6 +347,10 @@
       "street": "Rue de Freux"
     }, 
     {
+      "busnrs": [
+        "Bte2", 
+        "BteC"
+      ], 
       "hnrlbls": [
         "8"
       ], 

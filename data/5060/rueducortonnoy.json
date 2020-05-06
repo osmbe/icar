@@ -169,6 +169,11 @@
       "street": "Rue du Cortonnoy"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "40"
       ], 
@@ -253,6 +258,12 @@
       "street": "Rue du Cortonnoy"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "A001", 
+        "B001"
+      ], 
       "hnrlbls": [
         "51"
       ], 
@@ -271,6 +282,18 @@
       "housenumber": "53", 
       "lat": 50.472499452684, 
       "lon": 4.601056231884, 
+      "municipality": "Sambreville", 
+      "pcode": "5060", 
+      "source": "7755416", 
+      "street": "Rue du Cortonnoy"
+    }, 
+    {
+      "hnrlbls": [
+        "53A"
+      ], 
+      "housenumber": "53A", 
+      "lat": 50.47235404172, 
+      "lon": 4.600946702961, 
       "municipality": "Sambreville", 
       "pcode": "5060", 
       "source": "7755416", 

@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A/01", 
+        "A/11"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -25,6 +29,12 @@
       "street": "Rue des Quatre Couronn\u00e9s"
     }, 
     {
+      "busnrs": [
+        "A/01", 
+        "A/11", 
+        "B0.1", 
+        "B1.1"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -49,6 +59,12 @@
       "street": "Rue des Quatre Couronn\u00e9s"
     }, 
     {
+      "busnrs": [
+        "A/01", 
+        "A1.1", 
+        "B/01", 
+        "B1.1"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -73,6 +89,10 @@
       "street": "Rue des Quatre Couronn\u00e9s"
     }, 
     {
+      "busnrs": [
+        "B.01", 
+        "B1/1"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -313,6 +333,10 @@
       "street": "Rue des Quatre Couronn\u00e9s"
     }, 
     {
+      "busnrs": [
+        "A0.1", 
+        "A1.1"
+      ], 
       "hnrlbls": [
         "8"
       ], 

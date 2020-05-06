@@ -13,6 +13,11 @@
       "street": "Rue des XII Hommes"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "3"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -199,6 +204,18 @@
       "housenumber": "31", 
       "lat": 50.541467545765, 
       "lon": 5.745259293685, 
+      "municipality": "Sprimont", 
+      "pcode": "4141", 
+      "source": "7733060", 
+      "street": "Rue des XII Hommes"
+    }, 
+    {
+      "hnrlbls": [
+        "31A"
+      ], 
+      "housenumber": "31A", 
+      "lat": 50.541844616724, 
+      "lon": 5.74521723652, 
       "municipality": "Sprimont", 
       "pcode": "4141", 
       "source": "7733060", 
@@ -409,6 +426,22 @@
       "street": "Rue des XII Hommes"
     }, 
     {
+      "hnrlbls": [
+        "52"
+      ], 
+      "housenumber": "52", 
+      "lat": 50.542278498559, 
+      "lon": 5.74765628453, 
+      "municipality": "Sprimont", 
+      "pcode": "4141", 
+      "source": "7733060", 
+      "street": "Rue des XII Hommes"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "53"
       ], 

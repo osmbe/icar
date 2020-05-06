@@ -1,6 +1,15 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0007", 
+        "0008"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -61,6 +70,11 @@
       "street": "Rue du Manoir Saint-Jean"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -709,6 +723,11 @@
       "street": "Rue du Manoir Saint-Jean"
     }, 
     {
+      "busnrs": [
+        "A001", 
+        "A002", 
+        "B001"
+      ], 
       "hnrlbls": [
         "73"
       ], 

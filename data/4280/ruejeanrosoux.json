@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +16,17 @@
       "street": "Rue Jean Rosoux"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "000B", 
+        "000D", 
+        "C/1", 
+        "C/2", 
+        "C/3", 
+        "C/4", 
+        "C/5", 
+        "C/6"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -25,6 +39,17 @@
       "street": "Rue Jean Rosoux"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2", 
+        "Bte3", 
+        "Bte4", 
+        "Bte5", 
+        "Bte6", 
+        "Bte7", 
+        "Bte8", 
+        "Bte9"
+      ], 
       "hnrlbls": [
         "3"
       ], 

@@ -13,10 +13,14 @@
       "street": "Rue Docteur Ren\u00e9 Bureau"
     }, 
     {
-      "hnrlbls": [
-        "11BTE1"
+      "busnrs": [
+        "BTE1", 
+        "BTE2"
       ], 
-      "housenumber": "11BTE1", 
+      "hnrlbls": [
+        "11"
+      ], 
+      "housenumber": "11", 
       "lat": 50.572853683931, 
       "lon": 4.173356728096, 
       "municipality": "Ecaussinnes", 
@@ -613,6 +617,10 @@
       "street": "Rue Docteur Ren\u00e9 Bureau"
     }, 
     {
+      "busnrs": [
+        "BTE1", 
+        "BTE2"
+      ], 
       "hnrlbls": [
         "60BTE1"
       ], 
@@ -745,6 +753,9 @@
       "street": "Rue Docteur Ren\u00e9 Bureau"
     }, 
     {
+      "busnrs": [
+        "BTE2"
+      ], 
       "hnrlbls": [
         "71BTE1"
       ], 

@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "011", 
+        "021"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -31,6 +35,18 @@
       "housenumber": "3", 
       "lat": 50.627545488156, 
       "lon": 5.530357590691, 
+      "municipality": "Saint-Nicolas", 
+      "pcode": "4420", 
+      "source": "7732042", 
+      "street": "Rue Vieille Fosse"
+    }, 
+    {
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.627696325645, 
+      "lon": 5.530263118341, 
       "municipality": "Saint-Nicolas", 
       "pcode": "4420", 
       "source": "7732042", 

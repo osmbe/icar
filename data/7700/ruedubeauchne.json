@@ -109,6 +109,10 @@
       "street": "Rue du Beau Ch\u00eane"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -121,6 +125,12 @@
       "street": "Rue du Beau Ch\u00eane"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "A000", 
+        "B000"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -254,18 +264,6 @@
     }, 
     {
       "hnrlbls": [
-        "4"
-      ], 
-      "housenumber": "4", 
-      "lat": 50.738888208108, 
-      "lon": 3.220433526204, 
-      "municipality": "Mouscron", 
-      "pcode": "7700", 
-      "source": "7715936", 
-      "street": "Rue du Beau Ch\u00eane"
-    }, 
-    {
-      "hnrlbls": [
         "40"
       ], 
       "housenumber": "40", 
@@ -313,6 +311,9 @@
       "street": "Rue du Beau Ch\u00eane"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "45"
       ], 
@@ -373,6 +374,10 @@
       "street": "Rue du Beau Ch\u00eane"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "5"
       ], 

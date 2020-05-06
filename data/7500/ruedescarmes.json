@@ -145,6 +145,9 @@
       "street": "Rue des Carmes"
     }, 
     {
+      "busnrs": [
+        "21"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -289,6 +292,11 @@
       "street": "Rue des Carmes"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "11", 
+        "21"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -377,8 +385,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.607985769561, 
-      "lon": 3.383435409504, 
+      "lat": 50.607973221912, 
+      "lon": 3.383071528517, 
       "municipality": "Tournai", 
       "pcode": "7500", 
       "source": "7723485", 

@@ -25,6 +25,11 @@
       "street": "Place de la Gare"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -61,12 +66,30 @@
       "street": "Place de la Gare"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
       "lat": 50.547288393538, 
       "lon": 5.587945922973, 
+      "municipality": "Esneux", 
+      "pcode": "4130", 
+      "source": "7728627", 
+      "street": "Place de la Gare"
+    }, 
+    {
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.547322773238, 
+      "lon": 5.588275985753, 
       "municipality": "Esneux", 
       "pcode": "4130", 
       "source": "7728627", 

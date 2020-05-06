@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1\u00e9t."
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -49,6 +52,9 @@
       "street": "Rue entre les Ponts"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t."
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -85,6 +91,11 @@
       "street": "Rue entre les Ponts"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "2\u00e9t.", 
+        "rez."
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -97,6 +108,10 @@
       "street": "Rue entre les Ponts"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "2\u00e9t."
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -109,6 +124,9 @@
       "street": "Rue entre les Ponts"
     }, 
     {
+      "busnrs": [
+        "rez."
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -145,6 +163,25 @@
       "street": "Rue entre les Ponts"
     }, 
     {
+      "busnrs": [
+        "rez."
+      ], 
+      "hnrlbls": [
+        "25"
+      ], 
+      "housenumber": "25", 
+      "lat": 50.587966886788, 
+      "lon": 5.843764712973, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738987", 
+      "street": "Rue entre les Ponts"
+    }, 
+    {
+      "busnrs": [
+        "1\u00e9t.", 
+        "2\u00e9t."
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -157,12 +194,27 @@
       "street": "Rue entre les Ponts"
     }, 
     {
+      "busnrs": [
+        "3\u00e9t."
+      ], 
       "hnrlbls": [
         "27"
       ], 
       "housenumber": "27", 
       "lat": 50.587951089743, 
       "lon": 5.843620754036, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738987", 
+      "street": "Rue entre les Ponts"
+    }, 
+    {
+      "hnrlbls": [
+        "27A"
+      ], 
+      "housenumber": "27A", 
+      "lat": 50.587981355544, 
+      "lon": 5.843458203311, 
       "municipality": "Verviers", 
       "pcode": "4800", 
       "source": "7738987", 

@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1001", 
+        "2001", 
+        "2002"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +18,12 @@
       "street": "Ruelle des B\u00e9guines"
     }, 
     {
+      "busnrs": [
+        "1  2", 
+        "2001", 
+        "2002", 
+        "Bte1"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -25,6 +36,13 @@
       "street": "Ruelle des B\u00e9guines"
     }, 
     {
+      "busnrs": [
+        "1  2", 
+        "1001", 
+        "2  1", 
+        "RDC1", 
+        "RDC2"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -37,6 +55,13 @@
       "street": "Ruelle des B\u00e9guines"
     }, 
     {
+      "busnrs": [
+        "1001", 
+        "1002", 
+        "2001", 
+        "RDC1", 
+        "RDC2"
+      ], 
       "hnrlbls": [
         "5"
       ], 

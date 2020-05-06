@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A1", 
+        "ABt2", 
+        "ABt3", 
+        "C2"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -37,6 +43,9 @@
       "street": "Chemin des P\u00e9lerins"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -67,18 +76,6 @@
       "housenumber": "33", 
       "lat": 50.24691408436, 
       "lon": 4.985235622181, 
-      "municipality": "Dinant", 
-      "pcode": "5504", 
-      "source": "7749114", 
-      "street": "Chemin des P\u00e9lerins"
-    }, 
-    {
-      "hnrlbls": [
-        "35"
-      ], 
-      "housenumber": "35", 
-      "lat": 50.247018890128, 
-      "lon": 4.984729421556, 
       "municipality": "Dinant", 
       "pcode": "5504", 
       "source": "7749114", 

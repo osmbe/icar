@@ -2,18 +2,6 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1"
-      ], 
-      "housenumber": "1", 
-      "lat": 50.230938167608, 
-      "lon": 5.343591924286, 
-      "municipality": "Marche-en-Famenne", 
-      "pcode": "6900", 
-      "source": "7744265", 
-      "street": "Vieille Route de Li\u00e8ge"
-    }, 
-    {
-      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -385,6 +373,9 @@
       "street": "Vieille Route de Li\u00e8ge"
     }, 
     {
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -403,6 +394,18 @@
       "housenumber": "67", 
       "lat": 50.238211530271, 
       "lon": 5.344061278457, 
+      "municipality": "Marche-en-Famenne", 
+      "pcode": "6900", 
+      "source": "7744265", 
+      "street": "Vieille Route de Li\u00e8ge"
+    }, 
+    {
+      "hnrlbls": [
+        "69"
+      ], 
+      "housenumber": "69", 
+      "lat": 50.238362472564, 
+      "lon": 5.343864072141, 
       "municipality": "Marche-en-Famenne", 
       "pcode": "6900", 
       "source": "7744265", 

@@ -2,6 +2,35 @@
   "addresses": [
     {
       "hnrlbls": [
+        "10"
+      ], 
+      "housenumber": "10", 
+      "lat": 50.630189825478, 
+      "lon": 5.587403185684, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730382", 
+      "street": "Rue de la Limite"
+    }, 
+    {
+      "hnrlbls": [
+        "14"
+      ], 
+      "housenumber": "14", 
+      "lat": 50.630085231175, 
+      "lon": 5.587055365995, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730382", 
+      "street": "Rue de la Limite"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
+      "hnrlbls": [
         "16"
       ], 
       "housenumber": "16", 
@@ -25,6 +54,15 @@
       "street": "Rue de la Limite"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -49,12 +87,29 @@
       "street": "Rue de la Limite"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
       "lat": 50.630358810712, 
       "lon": 5.588084262747, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730382", 
+      "street": "Rue de la Limite"
+    }, 
+    {
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 50.630227879369, 
+      "lon": 5.587606004265, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730382", 

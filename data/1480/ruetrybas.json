@@ -37,6 +37,10 @@
       "street": "Rue Try-Bas"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "103"
       ], 
@@ -253,6 +257,10 @@
       "street": "Rue Try-Bas"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -367,6 +375,18 @@
       "housenumber": "27", 
       "lat": 50.691191997319, 
       "lon": 4.16749672847, 
+      "municipality": "Tubize", 
+      "pcode": "1480", 
+      "source": "7703944", 
+      "street": "Rue Try-Bas"
+    }, 
+    {
+      "hnrlbls": [
+        "27A"
+      ], 
+      "housenumber": "27A", 
+      "lat": 50.691242423242, 
+      "lon": 4.167419071092, 
       "municipality": "Tubize", 
       "pcode": "1480", 
       "source": "7703944", 

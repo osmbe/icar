@@ -97,6 +97,9 @@
       "street": "Rue de Caraman"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -217,6 +220,11 @@
       "street": "Rue de Caraman"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "02", 
+        "11"
+      ], 
       "hnrlbls": [
         "127"
       ], 
@@ -469,6 +477,14 @@
       "street": "Rue de Caraman"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "11", 
+        "12", 
+        "21", 
+        "22", 
+        "31"
+      ], 
       "hnrlbls": [
         "172"
       ], 
@@ -749,8 +765,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.434244334774, 
-      "lon": 3.795390845338, 
+      "lat": 50.433767662956, 
+      "lon": 3.792274785849, 
       "municipality": "Boussu", 
       "pcode": "7300", 
       "source": "7711960", 
@@ -889,6 +905,12 @@
       "street": "Rue de Caraman"
     }, 
     {
+      "busnrs": [
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
         "6"
       ], 

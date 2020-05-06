@@ -2,6 +2,22 @@
   "addresses": [
     {
       "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.741155125782, 
+      "lon": 4.986107455013, 
+      "municipality": "H\u00e9l\u00e9cine", 
+      "pcode": "1357", 
+      "source": "7705417", 
+      "street": "Rue Georges Dupont"
+    }, 
+    {
+      "busnrs": [
+        "Bte1", 
+        "Bte2"
+      ], 
+      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -101,8 +117,8 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 50.739765108529, 
-      "lon": 4.985279895861, 
+      "lat": 50.739835566905, 
+      "lon": 4.98507371664, 
       "municipality": "H\u00e9l\u00e9cine", 
       "pcode": "1357", 
       "source": "7705417", 
@@ -169,6 +185,11 @@
       "street": "Rue Georges Dupont"
     }, 
     {
+      "busnrs": [
+        "Bte3", 
+        "Bte6", 
+        "bte1"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -229,6 +250,9 @@
       "street": "Rue Georges Dupont"
     }, 
     {
+      "busnrs": [
+        "Bte2"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -253,6 +277,9 @@
       "street": "Rue Georges Dupont"
     }, 
     {
+      "busnrs": [
+        "Abt1"
+      ], 
       "hnrlbls": [
         "26"
       ], 

@@ -109,6 +109,9 @@
       "street": "Rue Armand Enkart"
     }, 
     {
+      "busnrs": [
+        "/1"
+      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -173,8 +176,8 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 50.542803108057, 
-      "lon": 5.865002864888, 
+      "lat": 50.542828263015, 
+      "lon": 5.86515598914, 
       "municipality": "Theux", 
       "pcode": "4910", 
       "source": "7738434", 
@@ -257,8 +260,8 @@
         "46B"
       ], 
       "housenumber": "46B", 
-      "lat": 50.542975279856, 
-      "lon": 5.866045494736, 
+      "lat": 50.542997597331, 
+      "lon": 5.866057850073, 
       "municipality": "Theux", 
       "pcode": "4910", 
       "source": "7738434", 
@@ -277,6 +280,13 @@
       "street": "Rue Armand Enkart"
     }, 
     {
+      "busnrs": [
+        "/2A", 
+        "/B/1A", 
+        "/B/2B", 
+        "/B1B", 
+        "/B2A"
+      ], 
       "hnrlbls": [
         "47"
       ], 
@@ -397,6 +407,11 @@
       "street": "Rue Armand Enkart"
     }, 
     {
+      "busnrs": [
+        "/1A", 
+        "/1B", 
+        "/RC"
+      ], 
       "hnrlbls": [
         "56"
       ], 
@@ -433,6 +448,9 @@
       "street": "Rue Armand Enkart"
     }, 
     {
+      "busnrs": [
+        "/BIS0"
+      ], 
       "hnrlbls": [
         "58"
       ], 

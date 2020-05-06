@@ -77,8 +77,8 @@
         "104"
       ], 
       "housenumber": "104", 
-      "lat": 50.767783038878, 
-      "lon": 4.794629626886, 
+      "lat": 50.767830926128, 
+      "lon": 4.7947100263, 
       "municipality": "Beauvechain", 
       "pcode": "1320", 
       "source": "7700137", 
@@ -457,6 +457,9 @@
       "street": "Rue Longue"
     }, 
     {
+      "busnrs": [
+        "bte1"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -733,6 +736,9 @@
       "street": "Rue Longue"
     }, 
     {
+      "busnrs": [
+        "Bte1"
+      ], 
       "hnrlbls": [
         "39"
       ], 
@@ -821,8 +827,8 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 50.76255987199, 
-      "lon": 4.78558765023, 
+      "lat": 50.762599068391, 
+      "lon": 4.785739945173, 
       "municipality": "Beauvechain", 
       "pcode": "1320", 
       "source": "7700137", 
@@ -1393,6 +1399,12 @@
       "street": "Rue Longue"
     }, 
     {
+      "busnrs": [
+        "BP03", 
+        "Bte1", 
+        "Bte4", 
+        "bte2"
+      ], 
       "hnrlbls": [
         "83"
       ], 

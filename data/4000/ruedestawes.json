@@ -13,6 +13,12 @@
       "street": "Rue des Tawes"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -157,6 +163,13 @@
       "street": "Rue des Tawes"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "110"
       ], 
@@ -457,6 +470,10 @@
       "street": "Rue des Tawes"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "151"
       ], 
@@ -589,12 +606,29 @@
       "street": "Rue des Tawes"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "17"
       ], 
       "housenumber": "17", 
       "lat": 50.655968551192, 
       "lon": 5.572533727231, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730723", 
+      "street": "Rue des Tawes"
+    }, 
+    {
+      "hnrlbls": [
+        "173"
+      ], 
+      "housenumber": "173", 
+      "lat": 50.65960449035, 
+      "lon": 5.574107014456, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730723", 
@@ -853,6 +887,11 @@
       "street": "Rue des Tawes"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "36"
       ], 
@@ -865,6 +904,21 @@
       "street": "Rue des Tawes"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "37"
       ], 
@@ -889,6 +943,27 @@
       "street": "Rue des Tawes"
     }, 
     {
+      "hnrlbls": [
+        "39"
+      ], 
+      "housenumber": "39", 
+      "lat": 50.656594436833, 
+      "lon": 5.571937632475, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730723", 
+      "street": "Rue des Tawes"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -1309,6 +1384,14 @@
       "street": "Rue des Tawes"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0021"
+      ], 
       "hnrlbls": [
         "89"
       ], 
@@ -1363,6 +1446,18 @@
       "housenumber": "94", 
       "lat": 50.657529375529, 
       "lon": 5.573584537691, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730723", 
+      "street": "Rue des Tawes"
+    }, 
+    {
+      "hnrlbls": [
+        "95"
+      ], 
+      "housenumber": "95", 
+      "lat": 50.657666566208, 
+      "lon": 5.573303599554, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730723", 

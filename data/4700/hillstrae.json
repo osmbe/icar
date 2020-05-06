@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -41,8 +45,20 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.621096401094, 
-      "lon": 6.040592019263, 
+      "lat": 50.621021670591, 
+      "lon": 6.040111041814, 
+      "municipality": "Eupen", 
+      "pcode": "4700", 
+      "source": "7735798", 
+      "street": "Hillstra\u00dfe"
+    }, 
+    {
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.621029242119, 
+      "lon": 6.041047344732, 
       "municipality": "Eupen", 
       "pcode": "4700", 
       "source": "7735798", 

@@ -301,6 +301,14 @@
       "street": "Devant l'A\u00eete"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0021"
+      ], 
       "hnrlbls": [
         "36"
       ], 
@@ -349,12 +357,45 @@
       "street": "Devant l'A\u00eete"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0021", 
+        "0022", 
+        "0023"
+      ], 
+      "hnrlbls": [
+        "40"
+      ], 
+      "housenumber": "40", 
+      "lat": 50.60955460967, 
+      "lon": 5.60339839618, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4031", 
+      "source": "7729820", 
+      "street": "Devant l'A\u00eete"
+    }, 
+    {
       "hnrlbls": [
         "41"
       ], 
       "housenumber": "41", 
       "lat": 50.609983525198, 
       "lon": 5.603593232852, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4031", 
+      "source": "7729820", 
+      "street": "Devant l'A\u00eete"
+    }, 
+    {
+      "hnrlbls": [
+        "42"
+      ], 
+      "housenumber": "42", 
+      "lat": 50.609632980342, 
+      "lon": 5.603910963852, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4031", 
       "source": "7729820", 

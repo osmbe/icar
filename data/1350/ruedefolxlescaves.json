@@ -61,6 +61,10 @@
       "street": "Rue de Folx-les-Caves"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "Bte2"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -85,6 +89,14 @@
       "street": "Rue de Folx-les-Caves"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2", 
+        "Bte3", 
+        "Bte5", 
+        "Bte6", 
+        "bte4"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -277,6 +289,9 @@
       "street": "Rue de Folx-les-Caves"
     }, 
     {
+      "busnrs": [
+        "Bt01"
+      ], 
       "hnrlbls": [
         "39"
       ], 
@@ -377,8 +392,8 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 50.677881687291, 
-      "lon": 4.953181715295, 
+      "lat": 50.678013772312, 
+      "lon": 4.953349826386, 
       "municipality": "Orp-Jauche", 
       "pcode": "1350", 
       "source": "7705790", 

@@ -1,6 +1,54 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "001", 
+        "002", 
+        "011", 
+        "012", 
+        "021", 
+        "022"
+      ], 
+      "hnrlbls": [
+        "73"
+      ], 
+      "housenumber": "73", 
+      "lat": 50.623580176688, 
+      "lon": 5.539842546815, 
+      "municipality": "Saint-Nicolas", 
+      "pcode": "4420", 
+      "source": "7731838", 
+      "street": "Avenue des Platanes"
+    }, 
+    {
+      "busnrs": [
+        "001", 
+        "011"
+      ], 
+      "hnrlbls": [
+        "75"
+      ], 
+      "housenumber": "75", 
+      "lat": 50.623533026486, 
+      "lon": 5.53993262332, 
+      "municipality": "Saint-Nicolas", 
+      "pcode": "4420", 
+      "source": "7731838", 
+      "street": "Avenue des Platanes"
+    }, 
+    {
+      "hnrlbls": [
+        "77"
+      ], 
+      "housenumber": "77", 
+      "lat": 50.623501502509, 
+      "lon": 5.539982700918, 
+      "municipality": "Saint-Nicolas", 
+      "pcode": "4420", 
+      "source": "7731838", 
+      "street": "Avenue des Platanes"
+    }, 
+    {
       "hnrlbls": [
         "85"
       ], 

@@ -1,36 +1,17 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "/1", 
+        "/Bis", 
+        "/RC"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
       "lat": 50.549287880581, 
       "lon": 5.806230969315, 
-      "municipality": "Theux", 
-      "pcode": "4910", 
-      "source": "7738393", 
-      "street": "Parc Forges Thiry"
-    }, 
-    {
-      "hnrlbls": [
-        "1/B"
-      ], 
-      "housenumber": "1/B", 
-      "lat": 50.548835884269, 
-      "lon": 5.806709177635, 
-      "municipality": "Theux", 
-      "pcode": "4910", 
-      "source": "7738393", 
-      "street": "Parc Forges Thiry"
-    }, 
-    {
-      "hnrlbls": [
-        "1/C"
-      ], 
-      "housenumber": "1/C", 
-      "lat": 50.548453285099, 
-      "lon": 5.80708761025, 
       "municipality": "Theux", 
       "pcode": "4910", 
       "source": "7738393", 
@@ -74,23 +55,11 @@
     }, 
     {
       "hnrlbls": [
-        "13"
-      ], 
-      "housenumber": "13", 
-      "lat": 50.551316327398, 
-      "lon": 5.805520362704, 
-      "municipality": "Theux", 
-      "pcode": "4910", 
-      "source": "7738393", 
-      "street": "Parc Forges Thiry"
-    }, 
-    {
-      "hnrlbls": [
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 50.551052961805, 
-      "lon": 5.805566638696, 
+      "lat": 50.551892969715, 
+      "lon": 5.806611604284, 
       "municipality": "Theux", 
       "pcode": "4910", 
       "source": "7738393", 
@@ -101,14 +70,58 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.551895273885, 
-      "lon": 5.806545645806, 
+      "lat": 50.552095309532, 
+      "lon": 5.806626413907, 
       "municipality": "Theux", 
       "pcode": "4910", 
       "source": "7738393", 
       "street": "Parc Forges Thiry"
     }, 
     {
+      "busnrs": [
+        "/1", 
+        "/R1", 
+        "/R2"
+      ], 
+      "hnrlbls": [
+        "1A"
+      ], 
+      "housenumber": "1A", 
+      "lat": 50.548905719966, 
+      "lon": 5.806680496573, 
+      "municipality": "Theux", 
+      "pcode": "4910", 
+      "source": "7738393", 
+      "street": "Parc Forges Thiry"
+    }, 
+    {
+      "hnrlbls": [
+        "1B"
+      ], 
+      "housenumber": "1B", 
+      "lat": 50.548779991848, 
+      "lon": 5.806756019345, 
+      "municipality": "Theux", 
+      "pcode": "4910", 
+      "source": "7738393", 
+      "street": "Parc Forges Thiry"
+    }, 
+    {
+      "hnrlbls": [
+        "1C"
+      ], 
+      "housenumber": "1C", 
+      "lat": 50.548453285099, 
+      "lon": 5.80708761025, 
+      "municipality": "Theux", 
+      "pcode": "4910", 
+      "source": "7738393", 
+      "street": "Parc Forges Thiry"
+    }, 
+    {
+      "busnrs": [
+        "/2"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -146,11 +159,51 @@
     }, 
     {
       "hnrlbls": [
+        "32"
+      ], 
+      "housenumber": "32", 
+      "lat": 50.551316327398, 
+      "lon": 5.805520362704, 
+      "municipality": "Theux", 
+      "pcode": "4910", 
+      "source": "7738393", 
+      "street": "Parc Forges Thiry"
+    }, 
+    {
+      "hnrlbls": [
+        "34"
+      ], 
+      "housenumber": "34", 
+      "lat": 50.55105164394, 
+      "lon": 5.805573244568, 
+      "municipality": "Theux", 
+      "pcode": "4910", 
+      "source": "7738393", 
+      "street": "Parc Forges Thiry"
+    }, 
+    {
+      "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
       "lat": 50.549606457677, 
       "lon": 5.806764409669, 
+      "municipality": "Theux", 
+      "pcode": "4910", 
+      "source": "7738393", 
+      "street": "Parc Forges Thiry"
+    }, 
+    {
+      "busnrs": [
+        "/1", 
+        "/RC"
+      ], 
+      "hnrlbls": [
+        "4A"
+      ], 
+      "housenumber": "4A", 
+      "lat": 50.549313376418, 
+      "lon": 5.80690802603, 
       "municipality": "Theux", 
       "pcode": "4910", 
       "source": "7738393", 

@@ -1,6 +1,15 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -13,6 +22,18 @@
       "street": "Stockem"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "10", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
       "hnrlbls": [
         "10A"
       ], 
@@ -49,6 +70,10 @@
       "street": "Stockem"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "122"
       ], 
@@ -91,6 +116,18 @@
       "housenumber": "12A", 
       "lat": 50.627664953284, 
       "lon": 6.023681299188, 
+      "municipality": "Eupen", 
+      "pcode": "4700", 
+      "source": "7735905", 
+      "street": "Stockem"
+    }, 
+    {
+      "hnrlbls": [
+        "13"
+      ], 
+      "housenumber": "13", 
+      "lat": 50.628264307, 
+      "lon": 6.022506582616, 
       "municipality": "Eupen", 
       "pcode": "4700", 
       "source": "7735905", 
@@ -149,8 +186,20 @@
         "14D"
       ], 
       "housenumber": "14D", 
-      "lat": 50.62735188899, 
-      "lon": 6.022683850427, 
+      "lat": 50.627346231649, 
+      "lon": 6.022747238535, 
+      "municipality": "Eupen", 
+      "pcode": "4700", 
+      "source": "7735905", 
+      "street": "Stockem"
+    }, 
+    {
+      "hnrlbls": [
+        "14E"
+      ], 
+      "housenumber": "14E", 
+      "lat": 50.6273644654, 
+      "lon": 6.02262442415, 
       "municipality": "Eupen", 
       "pcode": "4700", 
       "source": "7735905", 
@@ -193,6 +242,11 @@
       "street": "Stockem"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -218,6 +272,30 @@
     }, 
     {
       "hnrlbls": [
+        "20A"
+      ], 
+      "housenumber": "20A", 
+      "lat": 50.628144848624, 
+      "lon": 6.021809789586, 
+      "municipality": "Eupen", 
+      "pcode": "4700", 
+      "source": "7735905", 
+      "street": "Stockem"
+    }, 
+    {
+      "hnrlbls": [
+        "20B"
+      ], 
+      "housenumber": "20B", 
+      "lat": 50.62818835653, 
+      "lon": 6.021719672082, 
+      "municipality": "Eupen", 
+      "pcode": "4700", 
+      "source": "7735905", 
+      "street": "Stockem"
+    }, 
+    {
+      "hnrlbls": [
         "21"
       ], 
       "housenumber": "21", 
@@ -233,8 +311,20 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 50.628250080349, 
-      "lon": 6.021560528605, 
+      "lat": 50.628265961218, 
+      "lon": 6.021531160551, 
+      "municipality": "Eupen", 
+      "pcode": "4700", 
+      "source": "7735905", 
+      "street": "Stockem"
+    }, 
+    {
+      "hnrlbls": [
+        "22A"
+      ], 
+      "housenumber": "22A", 
+      "lat": 50.628227240446, 
+      "lon": 6.021620042183, 
       "municipality": "Eupen", 
       "pcode": "4700", 
       "source": "7735905", 
@@ -289,6 +379,10 @@
       "street": "Stockem"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -313,6 +407,12 @@
       "street": "Stockem"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "30A"
       ], 
@@ -325,6 +425,10 @@
       "street": "Stockem"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -350,6 +454,18 @@
     }, 
     {
       "hnrlbls": [
+        "33"
+      ], 
+      "housenumber": "33", 
+      "lat": 50.63010975062, 
+      "lon": 6.017719790433, 
+      "municipality": "Eupen", 
+      "pcode": "4700", 
+      "source": "7735905", 
+      "street": "Stockem"
+    }, 
+    {
+      "hnrlbls": [
         "34"
       ], 
       "housenumber": "34", 
@@ -365,8 +481,8 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 50.630077770606, 
-      "lon": 6.017669663468, 
+      "lat": 50.630041466183, 
+      "lon": 6.017612285563, 
       "municipality": "Eupen", 
       "pcode": "4700", 
       "source": "7735905", 
@@ -434,6 +550,18 @@
     }, 
     {
       "hnrlbls": [
+        "37A"
+      ], 
+      "housenumber": "37A", 
+      "lat": 50.630094356693, 
+      "lon": 6.017506012367, 
+      "municipality": "Eupen", 
+      "pcode": "4700", 
+      "source": "7735905", 
+      "street": "Stockem"
+    }, 
+    {
+      "hnrlbls": [
         "38"
       ], 
       "housenumber": "38", 
@@ -449,8 +577,8 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 50.630095456829, 
-      "lon": 6.017518329384, 
+      "lat": 50.630136189007, 
+      "lon": 6.017413893316, 
       "municipality": "Eupen", 
       "pcode": "4700", 
       "source": "7735905", 
@@ -485,8 +613,8 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 50.630181192109, 
-      "lon": 6.017440442358, 
+      "lat": 50.6302493672, 
+      "lon": 6.017464892728, 
       "municipality": "Eupen", 
       "pcode": "4700", 
       "source": "7735905", 
@@ -545,8 +673,8 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 50.630241576929, 
-      "lon": 6.01629955807, 
+      "lat": 50.630533963154, 
+      "lon": 6.016368117976, 
       "municipality": "Eupen", 
       "pcode": "4700", 
       "source": "7735905", 
@@ -554,11 +682,95 @@
     }, 
     {
       "hnrlbls": [
+        "50A"
+      ], 
+      "housenumber": "50A", 
+      "lat": 50.630252304622, 
+      "lon": 6.016258484927, 
+      "municipality": "Eupen", 
+      "pcode": "4700", 
+      "source": "7735905", 
+      "street": "Stockem"
+    }, 
+    {
+      "hnrlbls": [
+        "50B"
+      ], 
+      "housenumber": "50B", 
+      "lat": 50.630326696181, 
+      "lon": 6.015933683607, 
+      "municipality": "Eupen", 
+      "pcode": "4700", 
+      "source": "7735905", 
+      "street": "Stockem"
+    }, 
+    {
+      "hnrlbls": [
+        "50C"
+      ], 
+      "housenumber": "50C", 
+      "lat": 50.630417217919, 
+      "lon": 6.015841456437, 
+      "municipality": "Eupen", 
+      "pcode": "4700", 
+      "source": "7735905", 
+      "street": "Stockem"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
+      "hnrlbls": [
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 50.630364820163, 
-      "lon": 6.01590624936, 
+      "lat": 50.630685397381, 
+      "lon": 6.016202474554, 
+      "municipality": "Eupen", 
+      "pcode": "4700", 
+      "source": "7735905", 
+      "street": "Stockem"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
+      "hnrlbls": [
+        "52A"
+      ], 
+      "housenumber": "52A", 
+      "lat": 50.630640707998, 
+      "lon": 6.016088282684, 
+      "municipality": "Eupen", 
+      "pcode": "4700", 
+      "source": "7735905", 
+      "street": "Stockem"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
+      "hnrlbls": [
+        "52B"
+      ], 
+      "housenumber": "52B", 
+      "lat": 50.630601103736, 
+      "lon": 6.015961215034, 
+      "municipality": "Eupen", 
+      "pcode": "4700", 
+      "source": "7735905", 
+      "street": "Stockem"
+    }, 
+    {
+      "hnrlbls": [
+        "52C"
+      ], 
+      "housenumber": "52C", 
+      "lat": 50.63054575739, 
+      "lon": 6.015836964479, 
       "municipality": "Eupen", 
       "pcode": "4700", 
       "source": "7735905", 
@@ -577,12 +789,63 @@
       "street": "Stockem"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "10", 
+        "11", 
+        "12", 
+        "13", 
+        "14", 
+        "15", 
+        "16", 
+        "17", 
+        "18", 
+        "19", 
+        "2", 
+        "20", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
+      "hnrlbls": [
+        "53A"
+      ], 
+      "housenumber": "53A", 
+      "lat": 50.63150683392, 
+      "lon": 6.016429367143, 
+      "municipality": "Eupen", 
+      "pcode": "4700", 
+      "source": "7735905", 
+      "street": "Stockem"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "54"
       ], 
       "housenumber": "54", 
       "lat": 50.63117714941, 
       "lon": 6.015663487681, 
+      "municipality": "Eupen", 
+      "pcode": "4700", 
+      "source": "7735905", 
+      "street": "Stockem"
+    }, 
+    {
+      "hnrlbls": [
+        "54A"
+      ], 
+      "housenumber": "54A", 
+      "lat": 50.631196662136, 
+      "lon": 6.015758493147, 
       "municipality": "Eupen", 
       "pcode": "4700", 
       "source": "7735905", 
@@ -613,12 +876,28 @@
       "street": "Stockem"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "57"
       ], 
       "housenumber": "57", 
-      "lat": 50.631619224637, 
-      "lon": 6.015242284935, 
+      "lat": 50.63158770353, 
+      "lon": 6.015284203433, 
+      "municipality": "Eupen", 
+      "pcode": "4700", 
+      "source": "7735905", 
+      "street": "Stockem"
+    }, 
+    {
+      "hnrlbls": [
+        "57A"
+      ], 
+      "housenumber": "57A", 
+      "lat": 50.631628895595, 
+      "lon": 6.015220884904, 
       "municipality": "Eupen", 
       "pcode": "4700", 
       "source": "7735905", 
@@ -637,6 +916,10 @@
       "street": "Stockem"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "59"
       ], 
@@ -685,6 +968,10 @@
       "street": "Stockem"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "62"
       ], 
@@ -697,6 +984,10 @@
       "street": "Stockem"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "62A"
       ], 
@@ -793,6 +1084,9 @@
       "street": "Stockem"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "75"
       ], 
@@ -805,6 +1099,11 @@
       "street": "Stockem"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "75A"
       ], 
@@ -853,6 +1152,11 @@
       "street": "Stockem"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "78A"
       ], 
@@ -877,6 +1181,16 @@
       "street": "Stockem"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8"
+      ], 
       "hnrlbls": [
         "8"
       ], 
@@ -925,6 +1239,10 @@
       "street": "Stockem"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "83"
       ], 
@@ -938,11 +1256,27 @@
     }, 
     {
       "hnrlbls": [
+        "84"
+      ], 
+      "housenumber": "84", 
+      "lat": 50.630880221921, 
+      "lon": 6.011018990899, 
+      "municipality": "Eupen", 
+      "pcode": "4700", 
+      "source": "7735905", 
+      "street": "Stockem"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
+      "hnrlbls": [
         "84A"
       ], 
       "housenumber": "84A", 
-      "lat": 50.63081660808, 
-      "lon": 6.011038377352, 
+      "lat": 50.630759124843, 
+      "lon": 6.011023285572, 
       "municipality": "Eupen", 
       "pcode": "4700", 
       "source": "7735905", 
@@ -1001,8 +1335,8 @@
         "96"
       ], 
       "housenumber": "96", 
-      "lat": 50.63016466908, 
-      "lon": 6.008382931914, 
+      "lat": 50.630184170222, 
+      "lon": 6.008654416672, 
       "municipality": "Eupen", 
       "pcode": "4700", 
       "source": "7735905", 

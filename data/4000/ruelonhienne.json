@@ -1,6 +1,22 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0041", 
+        "0042", 
+        "0043", 
+        "0051", 
+        "0052", 
+        "0061", 
+        "0063"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -14,6 +30,31 @@
     }, 
     {
       "hnrlbls": [
+        "10"
+      ], 
+      "housenumber": "10", 
+      "lat": 50.642083503911, 
+      "lon": 5.565358747464, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731153", 
+      "street": "Rue Lonhienne"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0042"
+      ], 
+      "hnrlbls": [
         "11"
       ], 
       "housenumber": "11", 
@@ -25,6 +66,53 @@
       "street": "Rue Lonhienne"
     }, 
     {
+      "busnrs": [
+        "0022", 
+        "0032", 
+        "0051"
+      ], 
+      "hnrlbls": [
+        "12"
+      ], 
+      "housenumber": "12", 
+      "lat": 50.642065198589, 
+      "lon": 5.565320106237, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731153", 
+      "street": "Rue Lonhienne"
+    }, 
+    {
+      "hnrlbls": [
+        "13"
+      ], 
+      "housenumber": "13", 
+      "lat": 50.641748596004, 
+      "lon": 5.565273419901, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731153", 
+      "street": "Rue Lonhienne"
+    }, 
+    {
+      "hnrlbls": [
+        "14"
+      ], 
+      "housenumber": "14", 
+      "lat": 50.642050555448, 
+      "lon": 5.565275053681, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731153", 
+      "street": "Rue Lonhienne"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -49,6 +137,13 @@
       "street": "Rue Lonhienne"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -62,11 +157,107 @@
     }, 
     {
       "hnrlbls": [
+        "18"
+      ], 
+      "housenumber": "18", 
+      "lat": 50.642014482586, 
+      "lon": 5.565189159849, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731153", 
+      "street": "Rue Lonhienne"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0033", 
+        "0041", 
+        "0042", 
+        "0043", 
+        "0051", 
+        "0052"
+      ], 
+      "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
       "lat": 50.642186478843, 
       "lon": 5.565635838141, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731153", 
+      "street": "Rue Lonhienne"
+    }, 
+    {
+      "busnrs": [
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0041", 
+        "0042", 
+        "0051", 
+        "0052"
+      ], 
+      "hnrlbls": [
+        "20"
+      ], 
+      "housenumber": "20", 
+      "lat": 50.641995690023, 
+      "lon": 5.565136649575, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731153", 
+      "street": "Rue Lonhienne"
+    }, 
+    {
+      "hnrlbls": [
+        "22"
+      ], 
+      "housenumber": "22", 
+      "lat": 50.641972574082, 
+      "lon": 5.565076111551, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731153", 
+      "street": "Rue Lonhienne"
+    }, 
+    {
+      "hnrlbls": [
+        "24"
+      ], 
+      "housenumber": "24", 
+      "lat": 50.641953233485, 
+      "lon": 5.5650332024, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731153", 
+      "street": "Rue Lonhienne"
+    }, 
+    {
+      "busnrs": [
+        "0013", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0031", 
+        "0032", 
+        "0041", 
+        "0042", 
+        "0051", 
+        "0052"
+      ], 
+      "hnrlbls": [
+        "26"
+      ], 
+      "housenumber": "26", 
+      "lat": 50.641936518462, 
+      "lon": 5.564988521703, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731153", 
@@ -98,6 +289,18 @@
     }, 
     {
       "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.642126087753, 
+      "lon": 5.565476055308, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731153", 
+      "street": "Rue Lonhienne"
+    }, 
+    {
+      "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
@@ -109,12 +312,68 @@
       "street": "Rue Lonhienne"
     }, 
     {
+      "busnrs": [
+        "0021", 
+        "0031", 
+        "0042", 
+        "0052"
+      ], 
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.642113052518, 
+      "lon": 5.565440799777, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731153", 
+      "street": "Rue Lonhienne"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0041", 
+        "0042", 
+        "0051", 
+        "0061"
+      ], 
       "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
       "lat": 50.641850955253, 
       "lon": 5.565506235967, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731153", 
+      "street": "Rue Lonhienne"
+    }, 
+    {
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 50.642099679464, 
+      "lon": 5.565403414753, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731153", 
+      "street": "Rue Lonhienne"
+    }, 
+    {
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.641683123609, 
+      "lon": 5.565447977568, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731153", 

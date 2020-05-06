@@ -25,6 +25,13 @@
       "street": "Impasse Hubart"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -206,11 +213,42 @@
     }, 
     {
       "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 50.648758408151, 
+      "lon": 5.581198421127, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729888", 
+      "street": "Impasse Hubart"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
+      "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
       "lat": 50.648515070122, 
       "lon": 5.581638151422, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729888", 
+      "street": "Impasse Hubart"
+    }, 
+    {
+      "busnrs": [
+        "0011"
+      ], 
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.648786200128, 
+      "lon": 5.581171559074, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7729888", 

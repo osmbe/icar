@@ -89,8 +89,8 @@
         "105"
       ], 
       "housenumber": "105", 
-      "lat": 50.463157619973, 
-      "lon": 3.821022579162, 
+      "lat": 50.463119827483, 
+      "lon": 3.821050114522, 
       "municipality": "Saint-Ghislain", 
       "pcode": "7333", 
       "source": "7714608", 
@@ -485,8 +485,8 @@
         "148"
       ], 
       "housenumber": "148", 
-      "lat": 50.463086890902, 
-      "lon": 3.821458474591, 
+      "lat": 50.463124837875, 
+      "lon": 3.821425529232, 
       "municipality": "Saint-Ghislain", 
       "pcode": "7333", 
       "source": "7714608", 
@@ -877,6 +877,9 @@
       "street": "Cit\u00e9 Wauters"
     }, 
     {
+      "busnrs": [
+        "RZCH"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -1957,6 +1960,10 @@
       "street": "Cit\u00e9 Wauters"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "RCH1"
+      ], 
       "hnrlbls": [
         "93"
       ], 
@@ -1981,6 +1988,9 @@
       "street": "Cit\u00e9 Wauters"
     }, 
     {
+      "busnrs": [
+        "RCH2"
+      ], 
       "hnrlbls": [
         "95"
       ], 

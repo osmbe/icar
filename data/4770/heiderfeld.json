@@ -25,6 +25,11 @@
       "street": "Heiderfeld"
     }, 
     {
+      "busnrs": [
+        "1/1", 
+        "2/1", 
+        "P/1"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -37,6 +42,14 @@
       "street": "Heiderfeld"
     }, 
     {
+      "busnrs": [
+        "1/1", 
+        "1/2", 
+        "2/1", 
+        "2/2", 
+        "P/1", 
+        "P/2"
+      ], 
       "hnrlbls": [
         "15A"
       ], 
@@ -458,6 +471,18 @@
     }, 
     {
       "hnrlbls": [
+        "61"
+      ], 
+      "housenumber": "61", 
+      "lat": 50.351624224325, 
+      "lon": 6.15985457211, 
+      "municipality": "Amel", 
+      "pcode": "4770", 
+      "source": "7734925", 
+      "street": "Heiderfeld"
+    }, 
+    {
+      "hnrlbls": [
         "66"
       ], 
       "housenumber": "66", 
@@ -619,18 +644,6 @@
       "housenumber": "8", 
       "lat": 50.354106407213, 
       "lon": 6.167478056422, 
-      "municipality": "Amel", 
-      "pcode": "4770", 
-      "source": "7734925", 
-      "street": "Heiderfeld"
-    }, 
-    {
-      "hnrlbls": [
-        "80"
-      ], 
-      "housenumber": "80", 
-      "lat": 50.351678635861, 
-      "lon": 6.156780696039, 
       "municipality": "Amel", 
       "pcode": "4770", 
       "source": "7734925", 

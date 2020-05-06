@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A001", 
+        "A002", 
+        "A003"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -145,6 +150,15 @@
       "street": "Avenue de Burlet"
     }, 
     {
+      "busnrs": [
+        "A001", 
+        "A002", 
+        "A003", 
+        "B001", 
+        "B002", 
+        "C001", 
+        "RDC3"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -241,6 +255,10 @@
       "street": "Avenue de Burlet"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "3"
       ], 

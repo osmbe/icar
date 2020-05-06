@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -38,6 +44,18 @@
     }, 
     {
       "hnrlbls": [
+        "12"
+      ], 
+      "housenumber": "12", 
+      "lat": 50.64336979763, 
+      "lon": 5.556997437093, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730519", 
+      "street": "Rue de Waroux"
+    }, 
+    {
+      "hnrlbls": [
         "13"
       ], 
       "housenumber": "13", 
@@ -49,12 +67,17 @@
       "street": "Rue de Waroux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.643329008022, 
-      "lon": 5.556597068506, 
+      "lat": 50.643345805725, 
+      "lon": 5.556664854287, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730519", 
@@ -85,6 +108,13 @@
       "street": "Rue de Waroux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -109,6 +139,12 @@
       "street": "Rue de Waroux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -157,12 +193,47 @@
       "street": "Rue de Waroux"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0013"
+      ], 
+      "hnrlbls": [
+        "23"
+      ], 
+      "housenumber": "23", 
+      "lat": 50.643514727754, 
+      "lon": 5.556317981866, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730519", 
+      "street": "Rue de Waroux"
+    }, 
+    {
+      "busnrs": [
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "24"
       ], 
       "housenumber": "24", 
       "lat": 50.643601241291, 
       "lon": 5.556672996343, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730519", 
+      "street": "Rue de Waroux"
+    }, 
+    {
+      "hnrlbls": [
+        "25"
+      ], 
+      "housenumber": "25", 
+      "lat": 50.643651966381, 
+      "lon": 5.55615557303, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730519", 
@@ -197,8 +268,8 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 50.643676524047, 
-      "lon": 5.556616450786, 
+      "lat": 50.64366895454, 
+      "lon": 5.556543919555, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730519", 
@@ -253,6 +324,13 @@
       "street": "Rue de Waroux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "38"
       ], 
@@ -289,6 +367,11 @@
       "street": "Rue de Waroux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -301,6 +384,10 @@
       "street": "Rue de Waroux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "8"
       ], 
@@ -313,6 +400,11 @@
       "street": "Rue de Waroux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "9"
       ], 

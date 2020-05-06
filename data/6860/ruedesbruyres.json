@@ -121,6 +121,11 @@
       "street": "Rue des Bruy\u00e8res"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B", 
+        "C"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -325,6 +330,9 @@
       "street": "Rue des Bruy\u00e8res"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "42"
       ], 
@@ -401,8 +409,8 @@
         "8A"
       ], 
       "housenumber": "8A", 
-      "lat": 49.802201324625, 
-      "lon": 5.463019611932, 
+      "lat": 49.802158136895, 
+      "lon": 5.463095265686, 
       "municipality": "L\u00e9glise", 
       "pcode": "6860", 
       "source": "7745521", 

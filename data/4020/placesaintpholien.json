@@ -1,12 +1,37 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0041"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
       "lat": 50.643319493275, 
       "lon": 5.579936278503, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730058", 
+      "street": "Place Saint-Pholien"
+    }, 
+    {
+      "busnrs": [
+        "0021"
+      ], 
+      "hnrlbls": [
+        "10"
+      ], 
+      "housenumber": "10", 
+      "lat": 50.642760081674, 
+      "lon": 5.579965695708, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730058", 
@@ -61,6 +86,13 @@
       "street": "Place Saint-Pholien"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -73,6 +105,13 @@
       "street": "Place Saint-Pholien"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -97,6 +136,14 @@
       "street": "Place Saint-Pholien"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -109,6 +156,13 @@
       "street": "Place Saint-Pholien"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -121,6 +175,12 @@
       "street": "Place Saint-Pholien"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -133,6 +193,12 @@
       "street": "Place Saint-Pholien"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -145,12 +211,31 @@
       "street": "Place Saint-Pholien"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
       "lat": 50.643177119411, 
       "lon": 5.580381356927, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730058", 
+      "street": "Place Saint-Pholien"
+    }, 
+    {
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 50.642906763715, 
+      "lon": 5.580455874556, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730058", 
@@ -169,12 +254,33 @@
       "street": "Place Saint-Pholien"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041", 
+        "B011", 
+        "B021"
+      ], 
       "hnrlbls": [
         "9"
       ], 
       "housenumber": "9", 
       "lat": 50.642842626013, 
       "lon": 5.580327208665, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730058", 
+      "street": "Place Saint-Pholien"
+    }, 
+    {
+      "hnrlbls": [
+        "9B"
+      ], 
+      "housenumber": "9B", 
+      "lat": 50.642812296773, 
+      "lon": 5.580288435966, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730058", 

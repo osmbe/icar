@@ -25,6 +25,9 @@
       "street": "Chemin du Moulin de la Roche"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -73,6 +76,10 @@
       "street": "Chemin du Moulin de la Roche"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -113,8 +120,8 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 49.870553870663, 
-      "lon": 5.379516667208, 
+      "lat": 49.870671690387, 
+      "lon": 5.379509947854, 
       "municipality": "Neufch\u00e2teau", 
       "pcode": "6840", 
       "source": "7745838", 
@@ -217,6 +224,14 @@
       "street": "Chemin du Moulin de la Roche"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006"
+      ], 
       "hnrlbls": [
         "9/1"
       ], 

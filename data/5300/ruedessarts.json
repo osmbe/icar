@@ -49,6 +49,9 @@
       "street": "Rue des Sarts"
     }, 
     {
+      "busnrs": [
+        "0002"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -157,6 +160,9 @@
       "street": "Rue des Sarts"
     }, 
     {
+      "busnrs": [
+        "RC00"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -181,6 +187,14 @@
       "street": "Rue des Sarts"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "A-01", 
+        "A002", 
+        "BSS1", 
+        "BSS2", 
+        "RC00"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -509,8 +523,8 @@
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 50.495539338221, 
-      "lon": 5.1185757268, 
+      "lat": 50.495547244421, 
+      "lon": 5.118531832692, 
       "municipality": "Andenne", 
       "pcode": "5300", 
       "source": "7751645", 
@@ -709,6 +723,10 @@
       "street": "Rue des Sarts"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "RC00"
+      ], 
       "hnrlbls": [
         "93"
       ], 

@@ -205,6 +205,10 @@
       "street": "Rue de l'Yser"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "RDC"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -233,8 +237,8 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 50.295870727926, 
-      "lon": 4.32886764219, 
+      "lat": 50.295827898445, 
+      "lon": 4.328831137686, 
       "municipality": "Thuin", 
       "pcode": "6536", 
       "source": "7721037", 
@@ -253,6 +257,12 @@
       "street": "Rue de l'Yser"
     }, 
     {
+      "busnrs": [
+        "1/1", 
+        "1/2", 
+        "2/1", 
+        "2/2"
+      ], 
       "hnrlbls": [
         "38"
       ], 
@@ -355,6 +365,18 @@
       "housenumber": "54", 
       "lat": 50.297159169323, 
       "lon": 4.3299967844, 
+      "municipality": "Thuin", 
+      "pcode": "6536", 
+      "source": "7721037", 
+      "street": "Rue de l'Yser"
+    }, 
+    {
+      "hnrlbls": [
+        "54A"
+      ], 
+      "housenumber": "54A", 
+      "lat": 50.29726888693, 
+      "lon": 4.330110960778, 
       "municipality": "Thuin", 
       "pcode": "6536", 
       "source": "7721037", 

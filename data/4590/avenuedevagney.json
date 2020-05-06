@@ -181,6 +181,10 @@
       "street": "Avenue de Vagney"
     }, 
     {
+      "busnrs": [
+        "23/A", 
+        "23/B"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -295,6 +299,18 @@
       "housenumber": "33", 
       "lat": 50.444467766859, 
       "lon": 5.469225549028, 
+      "municipality": "Ouffet", 
+      "pcode": "4590", 
+      "source": "7726042", 
+      "street": "Avenue de Vagney"
+    }, 
+    {
+      "hnrlbls": [
+        "34"
+      ], 
+      "housenumber": "34", 
+      "lat": 50.444280906276, 
+      "lon": 5.468108722442, 
       "municipality": "Ouffet", 
       "pcode": "4590", 
       "source": "7726042", 

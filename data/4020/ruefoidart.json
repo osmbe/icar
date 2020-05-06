@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +18,13 @@
       "street": "Rue Foidart"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -25,6 +37,13 @@
       "street": "Rue Foidart"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021"
+      ], 
       "hnrlbls": [
         "100"
       ], 
@@ -73,6 +92,10 @@
       "street": "Rue Foidart"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "104"
       ], 
@@ -121,6 +144,14 @@
       "street": "Rue Foidart"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014"
+      ], 
       "hnrlbls": [
         "108"
       ], 
@@ -145,6 +176,9 @@
       "street": "Rue Foidart"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -169,6 +203,11 @@
       "street": "Rue Foidart"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "111"
       ], 
@@ -253,6 +292,10 @@
       "street": "Rue Foidart"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "118"
       ], 
@@ -277,6 +320,12 @@
       "street": "Rue Foidart"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -307,6 +356,21 @@
       "housenumber": "121", 
       "lat": 50.645003478044, 
       "lon": 5.596187368937, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730949", 
+      "street": "Rue Foidart"
+    }, 
+    {
+      "busnrs": [
+        "0011"
+      ], 
+      "hnrlbls": [
+        "122"
+      ], 
+      "housenumber": "122", 
+      "lat": 50.645425596276, 
+      "lon": 5.596144629861, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730949", 
@@ -385,6 +449,11 @@
       "street": "Rue Foidart"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "133"
       ], 
@@ -397,6 +466,25 @@
       "street": "Rue Foidart"
     }, 
     {
+      "hnrlbls": [
+        "135"
+      ], 
+      "housenumber": "135", 
+      "lat": 50.645319810869, 
+      "lon": 5.595962913231, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730949", 
+      "street": "Rue Foidart"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -445,6 +533,14 @@
       "street": "Rue Foidart"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -638,6 +734,23 @@
     }, 
     {
       "hnrlbls": [
+        "33"
+      ], 
+      "housenumber": "33", 
+      "lat": 50.642386429397, 
+      "lon": 5.59786684477, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730949", 
+      "street": "Rue Foidart"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
+      "hnrlbls": [
         "34"
       ], 
       "housenumber": "34", 
@@ -781,6 +894,12 @@
       "street": "Rue Foidart"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "51"
       ], 
@@ -841,6 +960,11 @@
       "street": "Rue Foidart"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "56"
       ], 
@@ -865,6 +989,10 @@
       "street": "Rue Foidart"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "58"
       ], 
@@ -877,6 +1005,13 @@
       "street": "Rue Foidart"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021"
+      ], 
       "hnrlbls": [
         "59"
       ], 
@@ -913,6 +1048,11 @@
       "street": "Rue Foidart"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "62"
       ], 
@@ -955,6 +1095,22 @@
       "housenumber": "65", 
       "lat": 50.643397258093, 
       "lon": 5.59745507308, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730949", 
+      "street": "Rue Foidart"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0021"
+      ], 
+      "hnrlbls": [
+        "66"
+      ], 
+      "housenumber": "66", 
+      "lat": 50.644073261261, 
+      "lon": 5.59730388408, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730949", 
@@ -1033,6 +1189,12 @@
       "street": "Rue Foidart"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "72"
       ], 
@@ -1045,6 +1207,12 @@
       "street": "Rue Foidart"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "73"
       ], 
@@ -1057,6 +1225,12 @@
       "street": "Rue Foidart"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "74"
       ], 
@@ -1075,6 +1249,18 @@
       "housenumber": "76", 
       "lat": 50.644300613712, 
       "lon": 5.597108176048, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730949", 
+      "street": "Rue Foidart"
+    }, 
+    {
+      "hnrlbls": [
+        "76B"
+      ], 
+      "housenumber": "76B", 
+      "lat": 50.644269101687, 
+      "lon": 5.597097726053, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730949", 
@@ -1105,6 +1291,13 @@
       "street": "Rue Foidart"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "79"
       ], 
@@ -1129,6 +1322,11 @@
       "street": "Rue Foidart"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "82"
       ], 
@@ -1141,6 +1339,10 @@
       "street": "Rue Foidart"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "84"
       ], 
@@ -1154,11 +1356,35 @@
     }, 
     {
       "hnrlbls": [
+        "85"
+      ], 
+      "housenumber": "85", 
+      "lat": 50.64402125712, 
+      "lon": 5.59660668519, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730949", 
+      "street": "Rue Foidart"
+    }, 
+    {
+      "hnrlbls": [
         "86"
       ], 
       "housenumber": "86", 
       "lat": 50.644636899742, 
       "lon": 5.596815384962, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730949", 
+      "street": "Rue Foidart"
+    }, 
+    {
+      "hnrlbls": [
+        "87"
+      ], 
+      "housenumber": "87", 
+      "lat": 50.644110027427, 
+      "lon": 5.596877520338, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730949", 
@@ -1213,6 +1439,12 @@
       "street": "Rue Foidart"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "91"
       ], 
@@ -1261,6 +1493,11 @@
       "street": "Rue Foidart"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "95"
       ], 
@@ -1309,6 +1546,10 @@
       "street": "Rue Foidart"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0021"
+      ], 
       "hnrlbls": [
         "99"
       ], 

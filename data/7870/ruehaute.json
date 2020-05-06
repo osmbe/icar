@@ -13,6 +13,10 @@
       "street": "Rue Haute"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "000B"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -25,6 +29,9 @@
       "street": "Rue Haute"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -77,8 +84,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.584798717437, 
-      "lon": 3.920728292773, 
+      "lat": 50.584805181973, 
+      "lon": 3.921155220111, 
       "municipality": "Lens", 
       "pcode": "7870", 
       "source": "7712987", 

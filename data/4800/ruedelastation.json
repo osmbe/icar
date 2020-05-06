@@ -37,6 +37,9 @@
       "street": "Rue de la Station"
     }, 
     {
+      "busnrs": [
+        "rez."
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -49,6 +52,9 @@
       "street": "Rue de la Station"
     }, 
     {
+      "busnrs": [
+        "rez."
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -61,6 +67,23 @@
       "street": "Rue de la Station"
     }, 
     {
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.593246093151, 
+      "lon": 5.848189131998, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738814", 
+      "street": "Rue de la Station"
+    }, 
+    {
+      "busnrs": [
+        "1\u00e9t.", 
+        "2\u00e9t.", 
+        "rez."
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -85,6 +108,15 @@
       "street": "Rue de la Station"
     }, 
     {
+      "busnrs": [
+        "2\u00e9t.", 
+        "bte1", 
+        "bte3", 
+        "bte4", 
+        "bte6", 
+        "bte7", 
+        "bte8"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -97,6 +129,12 @@
       "street": "Rue de la Station"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "arr.", 
+        "rez."
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -109,6 +147,10 @@
       "street": "Rue de la Station"
     }, 
     {
+      "busnrs": [
+        "2\u00e9t", 
+        "3\u00e9t."
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -145,6 +187,10 @@
       "street": "Rue de la Station"
     }, 
     {
+      "busnrs": [
+        "2\u00e9t.", 
+        "3\u00e9t."
+      ], 
       "hnrlbls": [
         "33"
       ], 
@@ -157,6 +203,9 @@
       "street": "Rue de la Station"
     }, 
     {
+      "busnrs": [
+        "2\u00e9t"
+      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -182,6 +231,18 @@
     }, 
     {
       "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.591725671078, 
+      "lon": 5.849158177352, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738814", 
+      "street": "Rue de la Station"
+    }, 
+    {
+      "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
@@ -194,11 +255,311 @@
     }, 
     {
       "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 50.592592688545, 
+      "lon": 5.850107801345, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738814", 
+      "street": "Rue de la Station"
+    }, 
+    {
+      "hnrlbls": [
+        "8/0"
+      ], 
+      "housenumber": "8/0", 
+      "lat": 50.590720678693, 
+      "lon": 5.849609604514, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738814", 
+      "street": "Rue de la Station"
+    }, 
+    {
+      "hnrlbls": [
+        "8/1"
+      ], 
+      "housenumber": "8/1", 
+      "lat": 50.590405091874, 
+      "lon": 5.849731264666, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738814", 
+      "street": "Rue de la Station"
+    }, 
+    {
+      "hnrlbls": [
+        "8/10"
+      ], 
+      "housenumber": "8/10", 
+      "lat": 50.589242103978, 
+      "lon": 5.850262111004, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738814", 
+      "street": "Rue de la Station"
+    }, 
+    {
+      "hnrlbls": [
+        "8/12"
+      ], 
+      "housenumber": "8/12", 
+      "lat": 50.589106155146, 
+      "lon": 5.85051347045, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738814", 
+      "street": "Rue de la Station"
+    }, 
+    {
+      "hnrlbls": [
+        "8/13"
+      ], 
+      "housenumber": "8/13", 
+      "lat": 50.588991381544, 
+      "lon": 5.850783432588, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738814", 
+      "street": "Rue de la Station"
+    }, 
+    {
+      "hnrlbls": [
+        "8/15"
+      ], 
+      "housenumber": "8/15", 
+      "lat": 50.588863194839, 
+      "lon": 5.851097817059, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738814", 
+      "street": "Rue de la Station"
+    }, 
+    {
+      "hnrlbls": [
+        "8/16"
+      ], 
+      "housenumber": "8/16", 
+      "lat": 50.588804838668, 
+      "lon": 5.851309004439, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738814", 
+      "street": "Rue de la Station"
+    }, 
+    {
+      "hnrlbls": [
+        "8/16A"
+      ], 
+      "housenumber": "8/16A", 
+      "lat": 50.588680508939, 
+      "lon": 5.851320050727, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738814", 
+      "street": "Rue de la Station"
+    }, 
+    {
+      "hnrlbls": [
+        "8/17"
+      ], 
+      "housenumber": "8/17", 
+      "lat": 50.58868418461, 
+      "lon": 5.851592230714, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738814", 
+      "street": "Rue de la Station"
+    }, 
+    {
+      "hnrlbls": [
+        "8/18"
+      ], 
+      "housenumber": "8/18", 
+      "lat": 50.588486505539, 
+      "lon": 5.851870795817, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738814", 
+      "street": "Rue de la Station"
+    }, 
+    {
+      "hnrlbls": [
+        "8/19"
+      ], 
+      "housenumber": "8/19", 
+      "lat": 50.588104951904, 
+      "lon": 5.851567323429, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738814", 
+      "street": "Rue de la Station"
+    }, 
+    {
+      "hnrlbls": [
+        "8/20"
+      ], 
+      "housenumber": "8/20", 
+      "lat": 50.58795772453, 
+      "lon": 5.851470769219, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738814", 
+      "street": "Rue de la Station"
+    }, 
+    {
+      "hnrlbls": [
+        "8/21"
+      ], 
+      "housenumber": "8/21", 
+      "lat": 50.587844799383, 
+      "lon": 5.851370809061, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738814", 
+      "street": "Rue de la Station"
+    }, 
+    {
+      "hnrlbls": [
+        "8/23"
+      ], 
+      "housenumber": "8/23", 
+      "lat": 50.587930324558, 
+      "lon": 5.850220226186, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738814", 
+      "street": "Rue de la Station"
+    }, 
+    {
+      "hnrlbls": [
+        "8/27"
+      ], 
+      "housenumber": "8/27", 
+      "lat": 50.588867840595, 
+      "lon": 5.849377123227, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738814", 
+      "street": "Rue de la Station"
+    }, 
+    {
+      "hnrlbls": [
+        "8/31"
+      ], 
+      "housenumber": "8/31", 
+      "lat": 50.590098122704, 
+      "lon": 5.848754934878, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738814", 
+      "street": "Rue de la Station"
+    }, 
+    {
+      "hnrlbls": [
+        "8/32"
+      ], 
+      "housenumber": "8/32", 
+      "lat": 50.590237404166, 
+      "lon": 5.848709219423, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738814", 
+      "street": "Rue de la Station"
+    }, 
+    {
+      "hnrlbls": [
+        "8/33"
+      ], 
+      "housenumber": "8/33", 
+      "lat": 50.590365427903, 
+      "lon": 5.848650818363, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738814", 
+      "street": "Rue de la Station"
+    }, 
+    {
+      "hnrlbls": [
+        "8/4"
+      ], 
+      "housenumber": "8/4", 
+      "lat": 50.590186210533, 
+      "lon": 5.849881367649, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738814", 
+      "street": "Rue de la Station"
+    }, 
+    {
+      "hnrlbls": [
+        "8/5"
+      ], 
+      "housenumber": "8/5", 
+      "lat": 50.590105763678, 
+      "lon": 5.849921450776, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738814", 
+      "street": "Rue de la Station"
+    }, 
+    {
+      "hnrlbls": [
+        "8/6"
+      ], 
+      "housenumber": "8/6", 
+      "lat": 50.590031081341, 
+      "lon": 5.849957228402, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738814", 
+      "street": "Rue de la Station"
+    }, 
+    {
+      "hnrlbls": [
+        "8/7"
+      ], 
+      "housenumber": "8/7", 
+      "lat": 50.589838966938, 
+      "lon": 5.850022959566, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738814", 
+      "street": "Rue de la Station"
+    }, 
+    {
+      "hnrlbls": [
+        "8/9"
+      ], 
+      "housenumber": "8/9", 
+      "lat": 50.589521800388, 
+      "lon": 5.850156523296, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738814", 
+      "street": "Rue de la Station"
+    }, 
+    {
+      "hnrlbls": [
         "9"
       ], 
       "housenumber": "9", 
       "lat": 50.592583990239, 
       "lon": 5.85039475277, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738814", 
+      "street": "Rue de la Station"
+    }, 
+    {
+      "hnrlbls": [
+        "9+"
+      ], 
+      "housenumber": "9+", 
+      "lat": 50.59198023543, 
+      "lon": 5.850094527807, 
       "municipality": "Verviers", 
       "pcode": "4800", 
       "source": "7738814", 

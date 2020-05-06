@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1-1", 
+        "1-2", 
+        "1-3", 
+        "2-2"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +19,15 @@
       "street": "Rue de la Peine Perdue"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "1-2", 
+        "2-1", 
+        "2-2", 
+        "3-1", 
+        "3-2"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -25,6 +40,13 @@
       "street": "Rue de la Peine Perdue"
     }, 
     {
+      "busnrs": [
+        "---5", 
+        "0006", 
+        "1-2", 
+        "Et.1", 
+        "Et3"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -61,6 +83,15 @@
       "street": "Rue de la Peine Perdue"
     }, 
     {
+      "busnrs": [
+        "A1-1", 
+        "A2-1", 
+        "A2-2", 
+        "B1-1", 
+        "B1-2", 
+        "B2-1", 
+        "B2-2"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -85,6 +116,12 @@
       "street": "Rue de la Peine Perdue"
     }, 
     {
+      "busnrs": [
+        "1-1", 
+        "3-1", 
+        "4-1", 
+        "rzch"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -97,6 +134,11 @@
       "street": "Rue de la Peine Perdue"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "2-1"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -121,6 +163,12 @@
       "street": "Rue de la Peine Perdue"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "2-1", 
+        "3-1"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -133,6 +181,33 @@
       "street": "Rue de la Peine Perdue"
     }, 
     {
+      "busnrs": [
+        "1-1", 
+        "2-1", 
+        "3-1"
+      ], 
+      "hnrlbls": [
+        "23"
+      ], 
+      "housenumber": "23", 
+      "lat": 50.453880135723, 
+      "lon": 3.954613274659, 
+      "municipality": "Mons", 
+      "pcode": "7000", 
+      "source": "7713596", 
+      "street": "Rue de la Peine Perdue"
+    }, 
+    {
+      "busnrs": [
+        "1-1", 
+        "2", 
+        "2-1", 
+        "2-2", 
+        "2-3", 
+        "3-2", 
+        "5", 
+        "7"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -145,6 +220,18 @@
       "street": "Rue de la Peine Perdue"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "1-1", 
+        "1-2", 
+        "2-1", 
+        "2-2", 
+        "3-1", 
+        "3-2", 
+        "3-3", 
+        "Et-2"
+      ], 
       "hnrlbls": [
         "8"
       ], 

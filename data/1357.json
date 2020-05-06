@@ -4,10 +4,19 @@
       "b": 50.732720312719, 
       "l": 4.996006022403, 
       "name": "Chauss\u00e9e de Hannut", 
-      "numOfAddr": 41, 
+      "numOfAddr": 47, 
       "r": 5.009716547738, 
       "sanName": "chaussedehannut", 
       "t": 50.739683076586
+    }, 
+    {
+      "b": 50.734188823642, 
+      "l": 5.002516795004, 
+      "name": "Chemin des Cortils", 
+      "numOfAddr": 13, 
+      "r": 5.004064841282, 
+      "sanName": "chemindescortils", 
+      "t": 50.735367218585
     }, 
     {
       "b": 50.750445197617, 
@@ -19,10 +28,19 @@
       "t": 50.751456097971
     }, 
     {
+      "b": 50.731944407408, 
+      "l": 5.002085307902, 
+      "name": "Ch\u00e2teau", 
+      "numOfAddr": 1, 
+      "r": 5.002085307902, 
+      "sanName": "chteau", 
+      "t": 50.731944407408
+    }, 
+    {
       "b": 50.756858164419, 
       "l": 4.98946251335, 
       "name": "Le Brouc", 
-      "numOfAddr": 4, 
+      "numOfAddr": 5, 
       "r": 4.990887347418, 
       "sanName": "lebrouc", 
       "t": 50.757733139046
@@ -37,11 +55,11 @@
       "t": 50.76257323722
     }, 
     {
-      "b": 50.745324515697, 
-      "l": 4.973090962041, 
+      "b": 50.745078702377, 
+      "l": 4.9711383546, 
       "name": "Rue Armand Dewolf", 
-      "numOfAddr": 21, 
-      "r": 4.977188176426, 
+      "numOfAddr": 22, 
+      "r": 4.979213071617, 
       "sanName": "ruearmanddewolf", 
       "t": 50.747939865413
     }, 
@@ -67,16 +85,16 @@
       "b": 50.732017997981, 
       "l": 5.003218567992, 
       "name": "Rue Commandant de Foestraets", 
-      "numOfAddr": 7, 
+      "numOfAddr": 9, 
       "r": 5.004074313144, 
       "sanName": "ruecommandantdefoestraets", 
       "t": 50.732976017245
     }, 
     {
-      "b": 50.757838509355, 
+      "b": 50.757813584667, 
       "l": 4.993174998032, 
       "name": "Rue d'Ardevoor", 
-      "numOfAddr": 147, 
+      "numOfAddr": 149, 
       "r": 5.003974742127, 
       "sanName": "ruedardevoor", 
       "t": 50.765997825519
@@ -103,7 +121,7 @@
       "b": 50.747229190125, 
       "l": 4.976259648323, 
       "name": "Rue de l'Abbaye", 
-      "numOfAddr": 57, 
+      "numOfAddr": 58, 
       "r": 4.984076560601, 
       "sanName": "ruedelabbaye", 
       "t": 50.752802290245
@@ -121,8 +139,8 @@
       "b": 50.760769809079, 
       "l": 4.999357472777, 
       "name": "Rue de la Pistraete", 
-      "numOfAddr": 19, 
-      "r": 5.001181017064, 
+      "numOfAddr": 22, 
+      "r": 5.001584628619, 
       "sanName": "ruedelapistraete", 
       "t": 50.763160239514
     }, 
@@ -139,7 +157,7 @@
       "b": 50.753364386023, 
       "l": 4.981054248486, 
       "name": "Rue de L\u00e9au", 
-      "numOfAddr": 32, 
+      "numOfAddr": 33, 
       "r": 4.986570764799, 
       "sanName": "ruedelau", 
       "t": 50.758012115701
@@ -157,10 +175,10 @@
       "b": 50.736062249502, 
       "l": 5.000054039233, 
       "name": "Rue de l'Ecole", 
-      "numOfAddr": 1, 
-      "r": 5.000054039233, 
+      "numOfAddr": 3, 
+      "r": 5.000532148161, 
       "sanName": "ruedelecole", 
-      "t": 50.736062249502
+      "t": 50.736458920684
     }, 
     {
       "b": 50.732726843659, 
@@ -173,9 +191,9 @@
     }, 
     {
       "b": 50.73386347378, 
-      "l": 4.997585103055, 
+      "l": 4.997672119755, 
       "name": "Rue de Libertange", 
-      "numOfAddr": 20, 
+      "numOfAddr": 21, 
       "r": 5.000291725984, 
       "sanName": "ruedelibertange", 
       "t": 50.73492850933
@@ -184,7 +202,7 @@
       "b": 50.742320192339, 
       "l": 4.984691124669, 
       "name": "Rue d'Elsenbosch", 
-      "numOfAddr": 20, 
+      "numOfAddr": 21, 
       "r": 4.986437614284, 
       "sanName": "ruedelsenbosch", 
       "t": 50.743893338532
@@ -229,7 +247,7 @@
       "b": 50.757544910401, 
       "l": 4.99534471524, 
       "name": "Rue des Houilles", 
-      "numOfAddr": 32, 
+      "numOfAddr": 33, 
       "r": 5.000314366735, 
       "sanName": "ruedeshouilles", 
       "t": 50.759681674295
@@ -256,7 +274,7 @@
       "b": 50.739706787807, 
       "l": 4.982116195805, 
       "name": "Rue du Brasseur", 
-      "numOfAddr": 35, 
+      "numOfAddr": 36, 
       "r": 4.984440939335, 
       "sanName": "ruedubrasseur", 
       "t": 50.7418490761
@@ -265,7 +283,7 @@
       "b": 50.732575974958, 
       "l": 4.996021649687, 
       "name": "Rue du Centre", 
-      "numOfAddr": 62, 
+      "numOfAddr": 63, 
       "r": 5.005569169176, 
       "sanName": "rueducentre", 
       "t": 50.736624848998
@@ -292,7 +310,7 @@
       "b": 50.758668295176, 
       "l": 4.985588355556, 
       "name": "Rue du Pont Neuf", 
-      "numOfAddr": 55, 
+      "numOfAddr": 56, 
       "r": 4.993672997952, 
       "sanName": "ruedupontneuf", 
       "t": 50.760051010709
@@ -307,7 +325,7 @@
       "t": 50.739101437602
     }, 
     {
-      "b": 50.741311100231, 
+      "b": 50.740756478701, 
       "l": 4.984792651565, 
       "name": "Rue Eug\u00e8ne Branckotte", 
       "numOfAddr": 25, 
@@ -319,7 +337,7 @@
       "b": 50.739235460291, 
       "l": 4.983105372141, 
       "name": "Rue Georges Dupont", 
-      "numOfAddr": 32, 
+      "numOfAddr": 33, 
       "r": 4.986511415412, 
       "sanName": "ruegeorgesdupont", 
       "t": 50.741182687475
@@ -346,7 +364,7 @@
       "b": 50.739421062524, 
       "l": 4.955692718633, 
       "name": "Rue Hubert Vollon", 
-      "numOfAddr": 25, 
+      "numOfAddr": 27, 
       "r": 4.971758011295, 
       "sanName": "ruehubertvollon", 
       "t": 50.744786682552
@@ -398,7 +416,7 @@
     }, 
     {
       "b": 50.760019077125, 
-      "l": 4.981578689183, 
+      "l": 4.981690130818, 
       "name": "Rue Sainte-Anne", 
       "numOfAddr": 66, 
       "r": 4.985599134492, 
@@ -409,7 +427,7 @@
       "b": 50.762627220141, 
       "l": 4.985030983992, 
       "name": "Rue Saint-Job", 
-      "numOfAddr": 47, 
+      "numOfAddr": 48, 
       "r": 4.993314133505, 
       "sanName": "ruesaintjob", 
       "t": 50.766040387714

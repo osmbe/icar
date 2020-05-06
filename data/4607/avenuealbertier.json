@@ -13,6 +13,11 @@
       "street": "Avenue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -97,6 +102,9 @@
       "street": "Avenue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -223,6 +231,18 @@
       "housenumber": "29", 
       "lat": 50.710369551948, 
       "lon": 5.721976882021, 
+      "municipality": "Dalhem", 
+      "pcode": "4607", 
+      "source": "7728396", 
+      "street": "Avenue Albert Ier"
+    }, 
+    {
+      "hnrlbls": [
+        "2A"
+      ], 
+      "housenumber": "2A", 
+      "lat": 50.711461229398, 
+      "lon": 5.722295140041, 
       "municipality": "Dalhem", 
       "pcode": "4607", 
       "source": "7728396", 

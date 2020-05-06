@@ -169,10 +169,14 @@
       "street": "Rue Joseph Wauters"
     }, 
     {
-      "hnrlbls": [
-        "23BTE1"
+      "busnrs": [
+        "BTE1", 
+        "BTE2"
       ], 
-      "housenumber": "23BTE1", 
+      "hnrlbls": [
+        "23"
+      ], 
+      "housenumber": "23", 
       "lat": 50.547918134868, 
       "lon": 4.178152650551, 
       "municipality": "Ecaussinnes", 

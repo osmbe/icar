@@ -49,6 +49,24 @@
       "street": "Rue de l'Esplanade"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0031", 
+        "0032", 
+        "0033", 
+        "0041", 
+        "0042", 
+        "0043", 
+        "0044", 
+        "11", 
+        "34"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -85,12 +103,27 @@
       "street": "Rue de l'Esplanade"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "15"
       ], 
       "housenumber": "15", 
       "lat": 50.538129035757, 
       "lon": 5.739996616941, 
+      "municipality": "Sprimont", 
+      "pcode": "4141", 
+      "source": "7733029", 
+      "street": "Rue de l'Esplanade"
+    }, 
+    {
+      "hnrlbls": [
+        "15/1"
+      ], 
+      "housenumber": "15/1", 
+      "lat": 50.538209917661, 
+      "lon": 5.740240017349, 
       "municipality": "Sprimont", 
       "pcode": "4141", 
       "source": "7733029", 
@@ -109,12 +142,50 @@
       "street": "Rue de l'Esplanade"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "11", 
+        "13"
+      ], 
+      "hnrlbls": [
+        "18"
+      ], 
+      "housenumber": "18", 
+      "lat": 50.537976125506, 
+      "lon": 5.740748742832, 
+      "municipality": "Sprimont", 
+      "pcode": "4141", 
+      "source": "7733029", 
+      "street": "Rue de l'Esplanade"
+    }, 
+    {
+      "busnrs": [
+        "Ap.1", 
+        "Ap.2"
+      ], 
       "hnrlbls": [
         "19"
       ], 
       "housenumber": "19", 
       "lat": 50.53830714233, 
       "lon": 5.740915662413, 
+      "municipality": "Sprimont", 
+      "pcode": "4141", 
+      "source": "7733029", 
+      "street": "Rue de l'Esplanade"
+    }, 
+    {
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.536914123786, 
+      "lon": 5.737135999061, 
       "municipality": "Sprimont", 
       "pcode": "4141", 
       "source": "7733029", 
@@ -158,6 +229,33 @@
     }, 
     {
       "hnrlbls": [
+        "23A"
+      ], 
+      "housenumber": "23A", 
+      "lat": 50.538424933101, 
+      "lon": 5.741262287361, 
+      "municipality": "Sprimont", 
+      "pcode": "4141", 
+      "source": "7733029", 
+      "street": "Rue de l'Esplanade"
+    }, 
+    {
+      "hnrlbls": [
+        "23B"
+      ], 
+      "housenumber": "23B", 
+      "lat": 50.53848699082, 
+      "lon": 5.741547803034, 
+      "municipality": "Sprimont", 
+      "pcode": "4141", 
+      "source": "7733029", 
+      "street": "Rue de l'Esplanade"
+    }, 
+    {
+      "busnrs": [
+        "0001"
+      ], 
+      "hnrlbls": [
         "24"
       ], 
       "housenumber": "24", 
@@ -169,12 +267,32 @@
       "street": "Rue de l'Esplanade"
     }, 
     {
+      "busnrs": [
+        "Ap.1"
+      ], 
       "hnrlbls": [
         "25"
       ], 
       "housenumber": "25", 
       "lat": 50.538639904687, 
       "lon": 5.741931804804, 
+      "municipality": "Sprimont", 
+      "pcode": "4141", 
+      "source": "7733029", 
+      "street": "Rue de l'Esplanade"
+    }, 
+    {
+      "busnrs": [
+        "0002", 
+        "0003", 
+        "1"
+      ], 
+      "hnrlbls": [
+        "26"
+      ], 
+      "housenumber": "26", 
+      "lat": 50.538167124586, 
+      "lon": 5.741797664984, 
       "municipality": "Sprimont", 
       "pcode": "4141", 
       "source": "7733029", 
@@ -205,6 +323,10 @@
       "street": "Rue de l'Esplanade"
     }, 
     {
+      "busnrs": [
+        "Ap.1", 
+        "Ap.2"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -217,6 +339,19 @@
       "street": "Rue de l'Esplanade"
     }, 
     {
+      "busnrs": [
+        "Ch.10", 
+        "Ch.16", 
+        "Ch.2", 
+        "Ch.3", 
+        "Ch.4", 
+        "Ch.5", 
+        "Ch.6", 
+        "Ch.7", 
+        "Ch.8", 
+        "Ch.9", 
+        "Ch15"
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -277,12 +412,39 @@
       "street": "Rue de l'Esplanade"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "33"
       ], 
       "housenumber": "33", 
       "lat": 50.538677951166, 
       "lon": 5.742925471837, 
+      "municipality": "Sprimont", 
+      "pcode": "4141", 
+      "source": "7733029", 
+      "street": "Rue de l'Esplanade"
+    }, 
+    {
+      "busnrs": [
+        "0013", 
+        "1", 
+        "11", 
+        "12", 
+        "14", 
+        "2", 
+        "21", 
+        "22", 
+        "3", 
+        "4"
+      ], 
+      "hnrlbls": [
+        "35"
+      ], 
+      "housenumber": "35", 
+      "lat": 50.538756076652, 
+      "lon": 5.743164743705, 
       "municipality": "Sprimont", 
       "pcode": "4141", 
       "source": "7733029", 
@@ -301,6 +463,11 @@
       "street": "Rue de l'Esplanade"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B", 
+        "C"
+      ], 
       "hnrlbls": [
         "39"
       ], 
@@ -325,18 +492,27 @@
       "street": "Rue de l'Esplanade"
     }, 
     {
+      "busnrs": [
+        "C004", 
+        "C1", 
+        "C2", 
+        "C3"
+      ], 
       "hnrlbls": [
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 50.538879397031, 
-      "lon": 5.747482124989, 
+      "lat": 50.538756678595, 
+      "lon": 5.743815420691, 
       "municipality": "Sprimont", 
       "pcode": "4141", 
       "source": "7733029", 
       "street": "Rue de l'Esplanade"
     }, 
     {
+      "busnrs": [
+        "Ap.1"
+      ], 
       "hnrlbls": [
         "44"
       ], 
@@ -385,6 +561,22 @@
       "street": "Rue de l'Esplanade"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "10", 
+        "11", 
+        "12", 
+        "13", 
+        "14", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
       "hnrlbls": [
         "48"
       ], 
@@ -421,6 +613,17 @@
       "street": "Rue de l'Esplanade"
     }, 
     {
+      "busnrs": [
+        "Ap.1", 
+        "Ap.2", 
+        "Ap.3", 
+        "Ap.4", 
+        "Ap.5", 
+        "Ap.6", 
+        "Ap.7", 
+        "Ap.8", 
+        "Ap.9"
+      ], 
       "hnrlbls": [
         "50"
       ], 
@@ -457,6 +660,14 @@
       "street": "Rue de l'Esplanade"
     }, 
     {
+      "busnrs": [
+        "Ap.1", 
+        "Ap.2", 
+        "Ap.3", 
+        "Ap.4", 
+        "Ap.5", 
+        "Ap.6"
+      ], 
       "hnrlbls": [
         "53"
       ], 
@@ -469,6 +680,10 @@
       "street": "Rue de l'Esplanade"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "54"
       ], 
@@ -529,6 +744,9 @@
       "street": "Rue de l'Esplanade"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "60"
       ], 
@@ -541,6 +759,10 @@
       "street": "Rue de l'Esplanade"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
       "hnrlbls": [
         "62"
       ], 
@@ -566,6 +788,23 @@
     }, 
     {
       "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 50.537552128357, 
+      "lon": 5.737811360393, 
+      "municipality": "Sprimont", 
+      "pcode": "4141", 
+      "source": "7733029", 
+      "street": "Rue de l'Esplanade"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "3"
+      ], 
+      "hnrlbls": [
         "70"
       ], 
       "housenumber": "70", 
@@ -577,6 +816,13 @@
       "street": "Rue de l'Esplanade"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "2"
+      ], 
       "hnrlbls": [
         "74"
       ], 
@@ -589,6 +835,10 @@
       "street": "Rue de l'Esplanade"
     }, 
     {
+      "busnrs": [
+        "Ap.1", 
+        "Ap.2"
+      ], 
       "hnrlbls": [
         "76"
       ], 
@@ -614,6 +864,18 @@
     }, 
     {
       "hnrlbls": [
+        "7A"
+      ], 
+      "housenumber": "7A", 
+      "lat": 50.537634589154, 
+      "lon": 5.738062257695, 
+      "municipality": "Sprimont", 
+      "pcode": "4141", 
+      "source": "7733029", 
+      "street": "Rue de l'Esplanade"
+    }, 
+    {
+      "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
@@ -626,11 +888,23 @@
     }, 
     {
       "hnrlbls": [
+        "8B"
+      ], 
+      "housenumber": "8B", 
+      "lat": 50.537398991325, 
+      "lon": 5.738569895349, 
+      "municipality": "Sprimont", 
+      "pcode": "4141", 
+      "source": "7733029", 
+      "street": "Rue de l'Esplanade"
+    }, 
+    {
+      "hnrlbls": [
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.537634589154, 
-      "lon": 5.738062257695, 
+      "lat": 50.537704884704, 
+      "lon": 5.738295102413, 
       "municipality": "Sprimont", 
       "pcode": "4141", 
       "source": "7733029", 

@@ -289,6 +289,9 @@
       "street": "Place de Pottes"
     }, 
     {
+      "busnrs": [
+        "bis0"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -329,8 +332,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 50.730095309838, 
-      "lon": 3.403093113715, 
+      "lat": 50.730045273771, 
+      "lon": 3.403094846595, 
       "municipality": "Celles", 
       "pcode": "7760", 
       "source": "7722178", 
@@ -377,8 +380,8 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 50.730142930067, 
-      "lon": 3.402833421465, 
+      "lat": 50.730084242576, 
+      "lon": 3.402792354018, 
       "municipality": "Celles", 
       "pcode": "7760", 
       "source": "7722178", 
@@ -517,6 +520,12 @@
       "street": "Place de Pottes"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "47"
       ], 

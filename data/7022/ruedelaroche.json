@@ -50,6 +50,18 @@
     }, 
     {
       "hnrlbls": [
+        "102A"
+      ], 
+      "housenumber": "102A", 
+      "lat": 50.400271115071, 
+      "lon": 3.980710036961, 
+      "municipality": "Mons", 
+      "pcode": "7022", 
+      "source": "7713614", 
+      "street": "Rue de la Roche"
+    }, 
+    {
+      "hnrlbls": [
         "102B"
       ], 
       "housenumber": "102B", 
@@ -77,8 +89,8 @@
         "108"
       ], 
       "housenumber": "108", 
-      "lat": 50.400968860428, 
-      "lon": 3.98090797204, 
+      "lat": 50.400946055008, 
+      "lon": 3.980917090094, 
       "municipality": "Mons", 
       "pcode": "7022", 
       "source": "7713614", 
@@ -115,18 +127,6 @@
       "housenumber": "12", 
       "lat": 50.394396873661, 
       "lon": 3.987829750981, 
-      "municipality": "Mons", 
-      "pcode": "7022", 
-      "source": "7713614", 
-      "street": "Rue de la Roche"
-    }, 
-    {
-      "hnrlbls": [
-        "14"
-      ], 
-      "housenumber": "14", 
-      "lat": 50.394613763897, 
-      "lon": 3.987429361716, 
       "municipality": "Mons", 
       "pcode": "7022", 
       "source": "7713614", 
@@ -281,8 +281,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 50.394225818386, 
-      "lon": 3.987271086624, 
+      "lat": 50.394216526014, 
+      "lon": 3.987338885697, 
       "municipality": "Mons", 
       "pcode": "7022", 
       "source": "7713614", 
@@ -302,6 +302,72 @@
     }, 
     {
       "hnrlbls": [
+        "30A"
+      ], 
+      "housenumber": "30A", 
+      "lat": 50.395601703773, 
+      "lon": 3.985744570016, 
+      "municipality": "Mons", 
+      "pcode": "7022", 
+      "source": "7713614", 
+      "street": "Rue de la Roche"
+    }, 
+    {
+      "hnrlbls": [
+        "30B"
+      ], 
+      "housenumber": "30B", 
+      "lat": 50.395628880161, 
+      "lon": 3.985690208125, 
+      "municipality": "Mons", 
+      "pcode": "7022", 
+      "source": "7713614", 
+      "street": "Rue de la Roche"
+    }, 
+    {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "1-1", 
+        "1-2"
+      ], 
+      "hnrlbls": [
+        "30C"
+      ], 
+      "housenumber": "30C", 
+      "lat": 50.395673994419, 
+      "lon": 3.985593277219, 
+      "municipality": "Mons", 
+      "pcode": "7022", 
+      "source": "7713614", 
+      "street": "Rue de la Roche"
+    }, 
+    {
+      "hnrlbls": [
+        "30D"
+      ], 
+      "housenumber": "30D", 
+      "lat": 50.395701496473, 
+      "lon": 3.98549313931, 
+      "municipality": "Mons", 
+      "pcode": "7022", 
+      "source": "7713614", 
+      "street": "Rue de la Roche"
+    }, 
+    {
+      "hnrlbls": [
+        "31"
+      ], 
+      "housenumber": "31", 
+      "lat": 50.394236635035, 
+      "lon": 3.98719766088, 
+      "municipality": "Mons", 
+      "pcode": "7022", 
+      "source": "7713614", 
+      "street": "Rue de la Roche"
+    }, 
+    {
+      "hnrlbls": [
         "32"
       ], 
       "housenumber": "32", 
@@ -313,12 +379,16 @@
       "street": "Rue de la Roche"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1"
+      ], 
       "hnrlbls": [
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 50.394387068111, 
-      "lon": 3.987078097856, 
+      "lat": 50.394404260433, 
+      "lon": 3.987098054798, 
       "municipality": "Mons", 
       "pcode": "7022", 
       "source": "7713614", 
@@ -446,6 +516,18 @@
     }, 
     {
       "hnrlbls": [
+        "43"
+      ], 
+      "housenumber": "43", 
+      "lat": 50.394557016588, 
+      "lon": 3.985773328883, 
+      "municipality": "Mons", 
+      "pcode": "7022", 
+      "source": "7713614", 
+      "street": "Rue de la Roche"
+    }, 
+    {
+      "hnrlbls": [
         "44"
       ], 
       "housenumber": "44", 
@@ -485,8 +567,8 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 50.396388248087, 
-      "lon": 3.984060662316, 
+      "lat": 50.396359808761, 
+      "lon": 3.984044966848, 
       "municipality": "Mons", 
       "pcode": "7022", 
       "source": "7713614", 
@@ -505,6 +587,9 @@
       "street": "Rue de la Roche"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "50"
       ], 
@@ -521,8 +606,32 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 50.396653326393, 
-      "lon": 3.983626966357, 
+      "lat": 50.396677285176, 
+      "lon": 3.983678871442, 
+      "municipality": "Mons", 
+      "pcode": "7022", 
+      "source": "7713614", 
+      "street": "Rue de la Roche"
+    }, 
+    {
+      "hnrlbls": [
+        "52A"
+      ], 
+      "housenumber": "52A", 
+      "lat": 50.396587761009, 
+      "lon": 3.983579546107, 
+      "municipality": "Mons", 
+      "pcode": "7022", 
+      "source": "7713614", 
+      "street": "Rue de la Roche"
+    }, 
+    {
+      "hnrlbls": [
+        "52B"
+      ], 
+      "housenumber": "52B", 
+      "lat": 50.396623723985, 
+      "lon": 3.983521202022, 
       "municipality": "Mons", 
       "pcode": "7022", 
       "source": "7713614", 
@@ -617,8 +726,8 @@
         "67"
       ], 
       "housenumber": "67", 
-      "lat": 50.396337257872, 
-      "lon": 3.983037903937, 
+      "lat": 50.39640750077, 
+      "lon": 3.983029851627, 
       "municipality": "Mons", 
       "pcode": "7022", 
       "source": "7713614", 
@@ -770,6 +879,18 @@
     }, 
     {
       "hnrlbls": [
+        "79"
+      ], 
+      "housenumber": "79", 
+      "lat": 50.397064929069, 
+      "lon": 3.981606479047, 
+      "municipality": "Mons", 
+      "pcode": "7022", 
+      "source": "7713614", 
+      "street": "Rue de la Roche"
+    }, 
+    {
+      "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
@@ -842,6 +963,18 @@
     }, 
     {
       "hnrlbls": [
+        "84A"
+      ], 
+      "housenumber": "84A", 
+      "lat": 50.398308054857, 
+      "lon": 3.980606445515, 
+      "municipality": "Mons", 
+      "pcode": "7022", 
+      "source": "7713614", 
+      "street": "Rue de la Roche"
+    }, 
+    {
+      "hnrlbls": [
         "85"
       ], 
       "housenumber": "85", 
@@ -895,6 +1028,18 @@
       "housenumber": "89", 
       "lat": 50.397963604866, 
       "lon": 3.980579083315, 
+      "municipality": "Mons", 
+      "pcode": "7022", 
+      "source": "7713614", 
+      "street": "Rue de la Roche"
+    }, 
+    {
+      "hnrlbls": [
+        "89A"
+      ], 
+      "housenumber": "89A", 
+      "lat": 50.397924315343, 
+      "lon": 3.980520263898, 
       "municipality": "Mons", 
       "pcode": "7022", 
       "source": "7713614", 
@@ -979,6 +1124,18 @@
       "housenumber": "96", 
       "lat": 50.399621583887, 
       "lon": 3.98066264241, 
+      "municipality": "Mons", 
+      "pcode": "7022", 
+      "source": "7713614", 
+      "street": "Rue de la Roche"
+    }, 
+    {
+      "hnrlbls": [
+        "97"
+      ], 
+      "housenumber": "97", 
+      "lat": 50.398641922246, 
+      "lon": 3.979719491166, 
       "municipality": "Mons", 
       "pcode": "7022", 
       "source": "7713614", 

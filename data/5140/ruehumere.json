@@ -1,6 +1,14 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "/A", 
+        "/B", 
+        "/C", 
+        "/D", 
+        "/E", 
+        "/F"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -133,6 +141,9 @@
       "street": "Rue Humer\u00e9e"
     }, 
     {
+      "busnrs": [
+        "/A"
+      ], 
       "hnrlbls": [
         "27"
       ], 

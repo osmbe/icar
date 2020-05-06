@@ -121,6 +121,9 @@
       "street": "Chauss\u00e9e de Saint-Ghislain"
     }, 
     {
+      "busnrs": [
+        "0011"
+      ], 
       "hnrlbls": [
         "118"
       ], 
@@ -329,8 +332,8 @@
         "151"
       ], 
       "housenumber": "151", 
-      "lat": 50.553035666135, 
-      "lon": 3.804444771997, 
+      "lat": 50.553035834043, 
+      "lon": 3.804479492979, 
       "municipality": "Chi\u00e8vres", 
       "pcode": "7950", 
       "source": "7708307", 
@@ -413,8 +416,8 @@
         "160"
       ], 
       "housenumber": "160", 
-      "lat": 50.554376215358, 
-      "lon": 3.805476035851, 
+      "lat": 50.554352276771, 
+      "lon": 3.805444582711, 
       "municipality": "Chi\u00e8vres", 
       "pcode": "7950", 
       "source": "7708307", 
@@ -637,12 +640,19 @@
       "street": "Chauss\u00e9e de Saint-Ghislain"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "180"
       ], 
       "housenumber": "180", 
-      "lat": 50.553265309883, 
-      "lon": 3.805014775877, 
+      "lat": 50.553250243505, 
+      "lon": 3.804998153874, 
       "municipality": "Chi\u00e8vres", 
       "pcode": "7950", 
       "source": "7708307", 
@@ -701,8 +711,8 @@
         "186A"
       ], 
       "housenumber": "186A", 
-      "lat": 50.552933915716, 
-      "lon": 3.804785649613, 
+      "lat": 50.552908440697, 
+      "lon": 3.804771913375, 
       "municipality": "Chi\u00e8vres", 
       "pcode": "7950", 
       "source": "7708307", 
@@ -713,8 +723,8 @@
         "187"
       ], 
       "housenumber": "187", 
-      "lat": 50.548691637037, 
-      "lon": 3.802368833878, 
+      "lat": 50.548727479143, 
+      "lon": 3.802402006172, 
       "municipality": "Chi\u00e8vres", 
       "pcode": "7950", 
       "source": "7708307", 
@@ -737,8 +747,8 @@
         "189"
       ], 
       "housenumber": "189", 
-      "lat": 50.548337983383, 
-      "lon": 3.802230267542, 
+      "lat": 50.54828937353, 
+      "lon": 3.80221292901, 
       "municipality": "Chi\u00e8vres", 
       "pcode": "7950", 
       "source": "7708307", 
@@ -773,8 +783,8 @@
         "192"
       ], 
       "housenumber": "192", 
-      "lat": 50.552592491302, 
-      "lon": 3.804548324509, 
+      "lat": 50.55258400853, 
+      "lon": 3.804636579831, 
       "municipality": "Chi\u00e8vres", 
       "pcode": "7950", 
       "source": "7708307", 
@@ -1001,8 +1011,8 @@
         "217"
       ], 
       "housenumber": "217", 
-      "lat": 50.543400807948, 
-      "lon": 3.800764399196, 
+      "lat": 50.543402160868, 
+      "lon": 3.800797980079, 
       "municipality": "Chi\u00e8vres", 
       "pcode": "7950", 
       "source": "7708307", 
@@ -1214,6 +1224,18 @@
     }, 
     {
       "hnrlbls": [
+        "240A"
+      ], 
+      "housenumber": "240A", 
+      "lat": 50.549602007707, 
+      "lon": 3.803298349555, 
+      "municipality": "Chi\u00e8vres", 
+      "pcode": "7950", 
+      "source": "7708307", 
+      "street": "Chauss\u00e9e de Saint-Ghislain"
+    }, 
+    {
+      "hnrlbls": [
         "242"
       ], 
       "housenumber": "242", 
@@ -1237,6 +1259,10 @@
       "street": "Chauss\u00e9e de Saint-Ghislain"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0012"
+      ], 
       "hnrlbls": [
         "248"
       ], 
@@ -1310,30 +1336,6 @@
     }, 
     {
       "hnrlbls": [
-        "266"
-      ], 
-      "housenumber": "266", 
-      "lat": 50.545652746845, 
-      "lon": 3.801633935886, 
-      "municipality": "Chi\u00e8vres", 
-      "pcode": "7950", 
-      "source": "7708307", 
-      "street": "Chauss\u00e9e de Saint-Ghislain"
-    }, 
-    {
-      "hnrlbls": [
-        "268"
-      ], 
-      "housenumber": "268", 
-      "lat": 50.545856678057, 
-      "lon": 3.801484544362, 
-      "municipality": "Chi\u00e8vres", 
-      "pcode": "7950", 
-      "source": "7708307", 
-      "street": "Chauss\u00e9e de Saint-Ghislain"
-    }, 
-    {
-      "hnrlbls": [
         "270"
       ], 
       "housenumber": "270", 
@@ -1361,8 +1363,8 @@
         "278"
       ], 
       "housenumber": "278", 
-      "lat": 50.544245208922, 
-      "lon": 3.801528419829, 
+      "lat": 50.544228159427, 
+      "lon": 3.801544303282, 
       "municipality": "Chi\u00e8vres", 
       "pcode": "7950", 
       "source": "7708307", 
@@ -1373,14 +1375,17 @@
         "280"
       ], 
       "housenumber": "280", 
-      "lat": 50.544045804696, 
-      "lon": 3.80159744394, 
+      "lat": 50.544024266434, 
+      "lon": 3.801570824342, 
       "municipality": "Chi\u00e8vres", 
       "pcode": "7950", 
       "source": "7708307", 
       "street": "Chauss\u00e9e de Saint-Ghislain"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "282"
       ], 

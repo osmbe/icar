@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A 1", 
+        "B", 
+        "B 1"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -365,8 +370,8 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 50.686346173108, 
-      "lon": 5.672562031769, 
+      "lat": 50.686284590745, 
+      "lon": 5.672542806844, 
       "municipality": "Vis\u00e9", 
       "pcode": "4602", 
       "source": "7733409", 
@@ -661,6 +666,9 @@
       "street": "Rue Entre les Maisons"
     }, 
     {
+      "busnrs": [
+        "A001"
+      ], 
       "hnrlbls": [
         "84"
       ], 
@@ -697,6 +705,10 @@
       "street": "Rue Entre les Maisons"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "9"
       ], 

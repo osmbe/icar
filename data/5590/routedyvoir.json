@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "100"
       ], 
@@ -397,6 +400,10 @@
       "street": "Route d'Yvoir"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "000A"
+      ], 
       "hnrlbls": [
         "82"
       ], 
@@ -433,6 +440,9 @@
       "street": "Route d'Yvoir"
     }, 
     {
+      "busnrs": [
+        "*000"
+      ], 
       "hnrlbls": [
         "84"
       ], 
@@ -505,6 +515,9 @@
       "street": "Route d'Yvoir"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "90"
       ], 

@@ -2,11 +2,71 @@
   "addresses": [
     {
       "hnrlbls": [
-        "107"
+        "102"
       ], 
-      "housenumber": "107", 
-      "lat": 50.086295859101, 
-      "lon": 5.172890565873, 
+      "housenumber": "102", 
+      "lat": 50.086001529023, 
+      "lon": 5.173664395399, 
+      "municipality": "Tellin", 
+      "pcode": "6927", 
+      "source": "7746492", 
+      "street": "Rue du Thioray"
+    }, 
+    {
+      "hnrlbls": [
+        "102A"
+      ], 
+      "housenumber": "102A", 
+      "lat": 50.086031148672, 
+      "lon": 5.173555799357, 
+      "municipality": "Tellin", 
+      "pcode": "6927", 
+      "source": "7746492", 
+      "street": "Rue du Thioray"
+    }, 
+    {
+      "hnrlbls": [
+        "103"
+      ], 
+      "housenumber": "103", 
+      "lat": 50.086347510828, 
+      "lon": 5.173544266667, 
+      "municipality": "Tellin", 
+      "pcode": "6927", 
+      "source": "7746492", 
+      "street": "Rue du Thioray"
+    }, 
+    {
+      "hnrlbls": [
+        "103A"
+      ], 
+      "housenumber": "103A", 
+      "lat": 50.086168518291, 
+      "lon": 5.174016150317, 
+      "municipality": "Tellin", 
+      "pcode": "6927", 
+      "source": "7746492", 
+      "street": "Rue du Thioray"
+    }, 
+    {
+      "hnrlbls": [
+        "104"
+      ], 
+      "housenumber": "104", 
+      "lat": 50.086074308644, 
+      "lon": 5.173399570241, 
+      "municipality": "Tellin", 
+      "pcode": "6927", 
+      "source": "7746492", 
+      "street": "Rue du Thioray"
+    }, 
+    {
+      "hnrlbls": [
+        "105"
+      ], 
+      "housenumber": "105", 
+      "lat": 50.086121305366, 
+      "lon": 5.173216603207, 
       "municipality": "Tellin", 
       "pcode": "6927", 
       "source": "7746492", 
@@ -17,8 +77,8 @@
         "108"
       ], 
       "housenumber": "108", 
-      "lat": 50.086436134426, 
-      "lon": 5.172580466401, 
+      "lat": 50.086297467607, 
+      "lon": 5.172831907172, 
       "municipality": "Tellin", 
       "pcode": "6927", 
       "source": "7746492", 
@@ -29,8 +89,8 @@
         "108A"
       ], 
       "housenumber": "108A", 
-      "lat": 50.086527049607, 
-      "lon": 5.172601575316, 
+      "lat": 50.086280056461, 
+      "lon": 5.17294068479, 
       "municipality": "Tellin", 
       "pcode": "6927", 
       "source": "7746492", 
@@ -41,8 +101,20 @@
         "109"
       ], 
       "housenumber": "109", 
-      "lat": 50.086625442816, 
-      "lon": 5.172624347418, 
+      "lat": 50.086436134426, 
+      "lon": 5.172580466401, 
+      "municipality": "Tellin", 
+      "pcode": "6927", 
+      "source": "7746492", 
+      "street": "Rue du Thioray"
+    }, 
+    {
+      "hnrlbls": [
+        "109B"
+      ], 
+      "housenumber": "109B", 
+      "lat": 50.086527049607, 
+      "lon": 5.172601575316, 
       "municipality": "Tellin", 
       "pcode": "6927", 
       "source": "7746492", 
@@ -65,8 +137,8 @@
         "111"
       ], 
       "housenumber": "111", 
-      "lat": 50.086707732483, 
-      "lon": 5.172640727674, 
+      "lat": 50.086632918871, 
+      "lon": 5.172623198875, 
       "municipality": "Tellin", 
       "pcode": "6927", 
       "source": "7746492", 
@@ -89,8 +161,8 @@
         "113"
       ], 
       "housenumber": "113", 
-      "lat": 50.086758309377, 
-      "lon": 5.1726508025, 
+      "lat": 50.086730264605, 
+      "lon": 5.172647002897, 
       "municipality": "Tellin", 
       "pcode": "6927", 
       "source": "7746492", 
@@ -125,8 +197,8 @@
         "115"
       ], 
       "housenumber": "115", 
-      "lat": 50.086807430852, 
-      "lon": 5.17270713568, 
+      "lat": 50.086872265153, 
+      "lon": 5.172757032969, 
       "municipality": "Tellin", 
       "pcode": "6927", 
       "source": "7746492", 
@@ -137,8 +209,8 @@
         "115A"
       ], 
       "housenumber": "115A", 
-      "lat": 50.086874582148, 
-      "lon": 5.172755360144, 
+      "lat": 50.086820421605, 
+      "lon": 5.172744094299, 
       "municipality": "Tellin", 
       "pcode": "6927", 
       "source": "7746492", 
@@ -217,6 +289,10 @@
       "street": "Rue du Thioray"
     }, 
     {
+      "busnrs": [
+        "Bte2", 
+        "BteC"
+      ], 
       "hnrlbls": [
         "122"
       ], 
@@ -241,6 +317,11 @@
       "street": "Rue du Thioray"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B", 
+        "C"
+      ], 
       "hnrlbls": [
         "124"
       ], 
@@ -277,6 +358,10 @@
       "street": "Rue du Thioray"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
       "hnrlbls": [
         "127"
       ], 
@@ -374,11 +459,23 @@
     }, 
     {
       "hnrlbls": [
+        "135"
+      ], 
+      "housenumber": "135", 
+      "lat": 50.088227824855, 
+      "lon": 5.172729131849, 
+      "municipality": "Tellin", 
+      "pcode": "6927", 
+      "source": "7746492", 
+      "street": "Rue du Thioray"
+    }, 
+    {
+      "hnrlbls": [
         "136"
       ], 
       "housenumber": "136", 
-      "lat": 50.088227824855, 
-      "lon": 5.172729131849, 
+      "lat": 50.088425327606, 
+      "lon": 5.173003933765, 
       "municipality": "Tellin", 
       "pcode": "6927", 
       "source": "7746492", 
@@ -403,6 +500,18 @@
       "housenumber": "137A", 
       "lat": 50.088289130002, 
       "lon": 5.171993277405, 
+      "municipality": "Tellin", 
+      "pcode": "6927", 
+      "source": "7746492", 
+      "street": "Rue du Thioray"
+    }, 
+    {
+      "hnrlbls": [
+        "137B"
+      ], 
+      "housenumber": "137B", 
+      "lat": 50.088734861009, 
+      "lon": 5.172084348191, 
       "municipality": "Tellin", 
       "pcode": "6927", 
       "source": "7746492", 

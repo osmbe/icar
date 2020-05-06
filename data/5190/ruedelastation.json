@@ -61,6 +61,9 @@
       "street": "Rue de la Station"
     }, 
     {
+      "busnrs": [
+        "0002"
+      ], 
       "hnrlbls": [
         "102"
       ], 
@@ -85,6 +88,9 @@
       "street": "Rue de la Station"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "104"
       ], 
@@ -209,8 +215,8 @@
         "113"
       ], 
       "housenumber": "113", 
-      "lat": 50.457129505801, 
-      "lon": 4.696157146565, 
+      "lat": 50.457009845055, 
+      "lon": 4.69614627453, 
       "municipality": "Jemeppe-sur-Sambre", 
       "pcode": "5190", 
       "source": "7755796", 
@@ -361,6 +367,13 @@
       "street": "Rue de la Station"
     }, 
     {
+      "busnrs": [
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007"
+      ], 
       "hnrlbls": [
         "125"
       ], 
@@ -637,6 +650,9 @@
       "street": "Rue de la Station"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "150"
       ], 
@@ -1033,6 +1049,10 @@
       "street": "Rue de la Station"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "185"
       ], 
@@ -1073,8 +1093,8 @@
         "191"
       ], 
       "housenumber": "191", 
-      "lat": 50.453374040589, 
-      "lon": 4.696148317944, 
+      "lat": 50.453342677026, 
+      "lon": 4.695649413493, 
       "municipality": "Jemeppe-sur-Sambre", 
       "pcode": "5190", 
       "source": "7755796", 
@@ -1429,6 +1449,12 @@
       "street": "Rue de la Station"
     }, 
     {
+      "busnrs": [
+        "A/01", 
+        "A/04", 
+        "A/05", 
+        "A/06"
+      ], 
       "hnrlbls": [
         "47"
       ], 

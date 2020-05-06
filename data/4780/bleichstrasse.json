@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1/1", 
+        "2/1", 
+        "3/1"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -25,12 +30,16 @@
       "street": "Bleichstrasse"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "1/1"
+      ], 
       "hnrlbls": [
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.282111823576, 
-      "lon": 6.126064545703, 
+      "lat": 50.282104630183, 
+      "lon": 6.126036801206, 
       "municipality": "Sankt Vith", 
       "pcode": "4780", 
       "source": "7737613", 
@@ -41,8 +50,8 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 50.28213752682, 
-      "lon": 6.126156918089, 
+      "lat": 50.282124238335, 
+      "lon": 6.126091813718, 
       "municipality": "Sankt Vith", 
       "pcode": "4780", 
       "source": "7737613", 
@@ -65,8 +74,8 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 50.282149207551, 
-      "lon": 6.12627077882, 
+      "lat": 50.282138621598, 
+      "lon": 6.126153044254, 
       "municipality": "Sankt Vith", 
       "pcode": "4780", 
       "source": "7737613", 
@@ -85,18 +94,30 @@
       "street": "Bleichstrasse"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "0/2", 
+        "1/1", 
+        "2/1"
+      ], 
       "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 50.282186133779, 
-      "lon": 6.126373825659, 
+      "lat": 50.282160124938, 
+      "lon": 6.12626889046, 
       "municipality": "Sankt Vith", 
       "pcode": "4780", 
       "source": "7737613", 
       "street": "Bleichstrasse"
     }, 
     {
+      "busnrs": [
+        "1/1", 
+        "1/2", 
+        "2/1", 
+        "2/2"
+      ], 
       "hnrlbls": [
         "1A"
       ], 
@@ -109,12 +130,19 @@
       "street": "Bleichstrasse"
     }, 
     {
+      "busnrs": [
+        "1/1", 
+        "1/2", 
+        "2/1", 
+        "2/2", 
+        "3/1"
+      ], 
       "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.281864867549, 
-      "lon": 6.125279623757, 
+      "lat": 50.281879522927, 
+      "lon": 6.125333080112, 
       "municipality": "Sankt Vith", 
       "pcode": "4780", 
       "source": "7737613", 
@@ -125,20 +153,25 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 50.282220258532, 
-      "lon": 6.126477765573, 
+      "lat": 50.282189789494, 
+      "lon": 6.126384547224, 
       "municipality": "Sankt Vith", 
       "pcode": "4780", 
       "source": "7737613", 
       "street": "Bleichstrasse"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "1/1", 
+        "2/1"
+      ], 
       "hnrlbls": [
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 50.282250284525, 
-      "lon": 6.126645552823, 
+      "lat": 50.282225630137, 
+      "lon": 6.126482737371, 
       "municipality": "Sankt Vith", 
       "pcode": "4780", 
       "source": "7737613", 
@@ -185,14 +218,18 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.28204105725, 
-      "lon": 6.125808519174, 
+      "lat": 50.282024408141, 
+      "lon": 6.125776711775, 
       "municipality": "Sankt Vith", 
       "pcode": "4780", 
       "source": "7737613", 
       "street": "Bleichstrasse"
     }, 
     {
+      "busnrs": [
+        "1/1", 
+        "2/1"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -209,8 +246,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.28204105725, 
-      "lon": 6.125808519174, 
+      "lat": 50.282049972361, 
+      "lon": 6.125848210433, 
       "municipality": "Sankt Vith", 
       "pcode": "4780", 
       "source": "7737613", 

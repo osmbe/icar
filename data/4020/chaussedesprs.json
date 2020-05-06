@@ -25,6 +25,13 @@
       "street": "Chauss\u00e9e des Pr\u00e9s"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -37,6 +44,13 @@
       "street": "Chauss\u00e9e des Pr\u00e9s"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -97,6 +111,13 @@
       "street": "Chauss\u00e9e des Pr\u00e9s"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -121,12 +142,33 @@
       "street": "Chauss\u00e9e des Pr\u00e9s"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "19"
       ], 
       "housenumber": "19", 
       "lat": 50.64247322088, 
       "lon": 5.580518027555, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7729710", 
+      "street": "Chauss\u00e9e des Pr\u00e9s"
+    }, 
+    {
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.642714673426, 
+      "lon": 5.579991961414, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7729710", 
@@ -145,6 +187,10 @@
       "street": "Chauss\u00e9e des Pr\u00e9s"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -157,6 +203,18 @@
       "street": "Chauss\u00e9e des Pr\u00e9s"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0041", 
+        "0042"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -205,6 +263,15 @@
       "street": "Chauss\u00e9e des Pr\u00e9s"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0022", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -253,6 +320,14 @@
       "street": "Chauss\u00e9e des Pr\u00e9s"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -266,6 +341,34 @@
     }, 
     {
       "hnrlbls": [
+        "30"
+      ], 
+      "housenumber": "30", 
+      "lat": 50.641977552753, 
+      "lon": 5.580626573832, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7729710", 
+      "street": "Chauss\u00e9e des Pr\u00e9s"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0031", 
+        "0032", 
+        "0033", 
+        "0041"
+      ], 
+      "hnrlbls": [
         "31"
       ], 
       "housenumber": "31", 
@@ -277,6 +380,36 @@
       "street": "Chauss\u00e9e des Pr\u00e9s"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0041", 
+        "0042", 
+        "0051", 
+        "0052"
+      ], 
+      "hnrlbls": [
+        "32"
+      ], 
+      "housenumber": "32", 
+      "lat": 50.641947274836, 
+      "lon": 5.580650399156, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7729710", 
+      "street": "Chauss\u00e9e des Pr\u00e9s"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "33"
       ], 
@@ -290,11 +423,42 @@
     }, 
     {
       "hnrlbls": [
+        "34"
+      ], 
+      "housenumber": "34", 
+      "lat": 50.641905944335, 
+      "lon": 5.58069090812, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7729710", 
+      "street": "Chauss\u00e9e des Pr\u00e9s"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
+      "hnrlbls": [
         "35"
       ], 
       "housenumber": "35", 
       "lat": 50.642116955079, 
       "lon": 5.580834020298, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7729710", 
+      "street": "Chauss\u00e9e des Pr\u00e9s"
+    }, 
+    {
+      "hnrlbls": [
+        "36"
+      ], 
+      "housenumber": "36", 
+      "lat": 50.641863386553, 
+      "lon": 5.580737041337, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7729710", 
@@ -313,6 +477,18 @@
       "street": "Chauss\u00e9e des Pr\u00e9s"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0041", 
+        "0042", 
+        "0051", 
+        "0052"
+      ], 
       "hnrlbls": [
         "38"
       ], 
@@ -325,6 +501,17 @@
       "street": "Chauss\u00e9e des Pr\u00e9s"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0033", 
+        "0034"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -350,6 +537,24 @@
     }, 
     {
       "hnrlbls": [
+        "42"
+      ], 
+      "housenumber": "42", 
+      "lat": 50.641674787953, 
+      "lon": 5.580941321087, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7729710", 
+      "street": "Chauss\u00e9e des Pr\u00e9s"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
+      "hnrlbls": [
         "43"
       ], 
       "housenumber": "43", 
@@ -361,6 +566,9 @@
       "street": "Chauss\u00e9e des Pr\u00e9s"
     }, 
     {
+      "busnrs": [
+        "0021"
+      ], 
       "hnrlbls": [
         "44"
       ], 
@@ -373,12 +581,30 @@
       "street": "Chauss\u00e9e des Pr\u00e9s"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "45"
       ], 
       "housenumber": "45", 
       "lat": 50.641953460512, 
       "lon": 5.581011387583, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7729710", 
+      "street": "Chauss\u00e9e des Pr\u00e9s"
+    }, 
+    {
+      "hnrlbls": [
+        "46"
+      ], 
+      "housenumber": "46", 
+      "lat": 50.641601862258, 
+      "lon": 5.58105454345, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7729710", 
@@ -397,6 +623,11 @@
       "street": "Chauss\u00e9e des Pr\u00e9s"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "48"
       ], 
@@ -409,6 +640,12 @@
       "street": "Chauss\u00e9e des Pr\u00e9s"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "49"
       ], 
@@ -421,6 +658,16 @@
       "street": "Chauss\u00e9e des Pr\u00e9s"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -433,6 +680,13 @@
       "street": "Chauss\u00e9e des Pr\u00e9s"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "50"
       ], 
@@ -451,6 +705,24 @@
       "housenumber": "51", 
       "lat": 50.641988870781, 
       "lon": 5.581175525513, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7729710", 
+      "street": "Chauss\u00e9e des Pr\u00e9s"
+    }, 
+    {
+      "busnrs": [
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
+      "hnrlbls": [
+        "52"
+      ], 
+      "housenumber": "52", 
+      "lat": 50.641492957313, 
+      "lon": 5.581195119992, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7729710", 
@@ -493,6 +765,13 @@
       "street": "Chauss\u00e9e des Pr\u00e9s"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "59"
       ], 
@@ -505,6 +784,19 @@
       "street": "Chauss\u00e9e des Pr\u00e9s"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0015", 
+        "0021", 
+        "0023", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -529,6 +821,12 @@
       "street": "Chauss\u00e9e des Pr\u00e9s"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -541,6 +839,20 @@
       "street": "Chauss\u00e9e des Pr\u00e9s"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024", 
+        "0025"
+      ], 
       "hnrlbls": [
         "8"
       ], 
@@ -553,6 +865,11 @@
       "street": "Chauss\u00e9e des Pr\u00e9s"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012"
+      ], 
       "hnrlbls": [
         "9"
       ], 

@@ -13,6 +13,11 @@
       "street": "Rue de la Gare"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -25,6 +30,10 @@
       "street": "Rue de la Gare"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -73,6 +82,11 @@
       "street": "Rue de la Gare"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -85,6 +99,11 @@
       "street": "Rue de la Gare"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -97,6 +116,11 @@
       "street": "Rue de la Gare"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "002", 
+        "101"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -122,143 +146,11 @@
     }, 
     {
       "hnrlbls": [
-        "27"
-      ], 
-      "housenumber": "27", 
-      "lat": 50.714154944891, 
-      "lon": 4.530766171142, 
-      "municipality": "Rixensart", 
-      "pcode": "1330", 
-      "source": "7703568", 
-      "street": "Rue de la Gare"
-    }, 
-    {
-      "hnrlbls": [
-        "29"
-      ], 
-      "housenumber": "29", 
-      "lat": 50.714314199475, 
-      "lon": 4.530527212949, 
-      "municipality": "Rixensart", 
-      "pcode": "1330", 
-      "source": "7703568", 
-      "street": "Rue de la Gare"
-    }, 
-    {
-      "hnrlbls": [
-        "31"
-      ], 
-      "housenumber": "31", 
-      "lat": 50.714419472105, 
-      "lon": 4.530487221097, 
-      "municipality": "Rixensart", 
-      "pcode": "1330", 
-      "source": "7703568", 
-      "street": "Rue de la Gare"
-    }, 
-    {
-      "hnrlbls": [
-        "33"
-      ], 
-      "housenumber": "33", 
-      "lat": 50.714507788876, 
-      "lon": 4.530512686905, 
-      "municipality": "Rixensart", 
-      "pcode": "1330", 
-      "source": "7703568", 
-      "street": "Rue de la Gare"
-    }, 
-    {
-      "hnrlbls": [
         "35"
       ], 
       "housenumber": "35", 
       "lat": 50.714623673009, 
       "lon": 4.530644869502, 
-      "municipality": "Rixensart", 
-      "pcode": "1330", 
-      "source": "7703568", 
-      "street": "Rue de la Gare"
-    }, 
-    {
-      "hnrlbls": [
-        "37"
-      ], 
-      "housenumber": "37", 
-      "lat": 50.714857303079, 
-      "lon": 4.530856597475, 
-      "municipality": "Rixensart", 
-      "pcode": "1330", 
-      "source": "7703568", 
-      "street": "Rue de la Gare"
-    }, 
-    {
-      "hnrlbls": [
-        "39"
-      ], 
-      "housenumber": "39", 
-      "lat": 50.714688761972, 
-      "lon": 4.530953164518, 
-      "municipality": "Rixensart", 
-      "pcode": "1330", 
-      "source": "7703568", 
-      "street": "Rue de la Gare"
-    }, 
-    {
-      "hnrlbls": [
-        "41"
-      ], 
-      "housenumber": "41", 
-      "lat": 50.714952349313, 
-      "lon": 4.53089127709, 
-      "municipality": "Rixensart", 
-      "pcode": "1330", 
-      "source": "7703568", 
-      "street": "Rue de la Gare"
-    }, 
-    {
-      "hnrlbls": [
-        "43"
-      ], 
-      "housenumber": "43", 
-      "lat": 50.715011028341, 
-      "lon": 4.530934780137, 
-      "municipality": "Rixensart", 
-      "pcode": "1330", 
-      "source": "7703568", 
-      "street": "Rue de la Gare"
-    }, 
-    {
-      "hnrlbls": [
-        "45"
-      ], 
-      "housenumber": "45", 
-      "lat": 50.715154739709, 
-      "lon": 4.5308122143, 
-      "municipality": "Rixensart", 
-      "pcode": "1330", 
-      "source": "7703568", 
-      "street": "Rue de la Gare"
-    }, 
-    {
-      "hnrlbls": [
-        "47"
-      ], 
-      "housenumber": "47", 
-      "lat": 50.715269355862, 
-      "lon": 4.530841127791, 
-      "municipality": "Rixensart", 
-      "pcode": "1330", 
-      "source": "7703568", 
-      "street": "Rue de la Gare"
-    }, 
-    {
-      "hnrlbls": [
-        "49"
-      ], 
-      "housenumber": "49", 
-      "lat": 50.715371000048, 
-      "lon": 4.530876226939, 
       "municipality": "Rixensart", 
       "pcode": "1330", 
       "source": "7703568", 
@@ -289,6 +181,9 @@
       "street": "Rue de la Gare"
     }, 
     {
+      "busnrs": [
+        "201"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -301,6 +196,11 @@
       "street": "Rue de la Gare"
     }, 
     {
+      "busnrs": [
+        "A101", 
+        "A201", 
+        "A301"
+      ], 
       "hnrlbls": [
         "9"
       ], 

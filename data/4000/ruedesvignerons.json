@@ -61,6 +61,11 @@
       "street": "Rue des Vignerons"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -110,11 +115,35 @@
     }, 
     {
       "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 50.654765529785, 
+      "lon": 5.604649884898, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730734", 
+      "street": "Rue des Vignerons"
+    }, 
+    {
+      "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
       "lat": 50.654338395216, 
       "lon": 5.604602260647, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730734", 
+      "street": "Rue des Vignerons"
+    }, 
+    {
+      "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 50.65510978323, 
+      "lon": 5.604914904605, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730734", 

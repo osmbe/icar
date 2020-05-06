@@ -65,8 +65,8 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 50.689106995519, 
-      "lon": 4.280823899677, 
+      "lat": 50.689058719459, 
+      "lon": 4.280859481903, 
       "municipality": "Braine-le-Ch\u00e2teau", 
       "pcode": "1440", 
       "source": "7700862", 
@@ -89,14 +89,17 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 50.689122196906, 
-      "lon": 4.280883479392, 
+      "lat": 50.689074360815, 
+      "lon": 4.280918367312, 
       "municipality": "Braine-le-Ch\u00e2teau", 
       "pcode": "1440", 
       "source": "7700862", 
       "street": "Rue aux Escarbilles"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -209,8 +212,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.689134074143, 
-      "lon": 4.280464787321, 
+      "lat": 50.689082573217, 
+      "lon": 4.280455571022, 
       "municipality": "Braine-le-Ch\u00e2teau", 
       "pcode": "1440", 
       "source": "7700862", 
@@ -241,6 +244,10 @@
       "street": "Rue aux Escarbilles"
     }, 
     {
+      "busnrs": [
+        "bte1", 
+        "bte2"
+      ], 
       "hnrlbls": [
         "40"
       ], 

@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -89,8 +93,8 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 50.196473493419, 
-      "lon": 4.541359475298, 
+      "lat": 50.196573877026, 
+      "lon": 4.541452359026, 
       "municipality": "Philippeville", 
       "pcode": "5600", 
       "source": "7757505", 
@@ -181,6 +185,9 @@
       "street": "Rue de la Balance"
     }, 
     {
+      "busnrs": [
+        "0011"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -197,14 +204,20 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.196759634107, 
-      "lon": 4.541878911538, 
+      "lat": 50.196702315624, 
+      "lon": 4.541770532105, 
       "municipality": "Philippeville", 
       "pcode": "5600", 
       "source": "7757505", 
       "street": "Rue de la Balance"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -233,8 +246,8 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 50.19661068888, 
-      "lon": 4.540890689366, 
+      "lat": 50.196743561589, 
+      "lon": 4.540757647444, 
       "municipality": "Philippeville", 
       "pcode": "5600", 
       "source": "7757505", 
@@ -317,8 +330,8 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 50.197089810705, 
-      "lon": 4.541019847505, 
+      "lat": 50.197043713276, 
+      "lon": 4.540937463243, 
       "municipality": "Philippeville", 
       "pcode": "5600", 
       "source": "7757505", 
@@ -337,12 +350,17 @@
       "street": "Rue de la Balance"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "0021"
+      ], 
       "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.196315261917, 
-      "lon": 4.542253719954, 
+      "lat": 50.196389202027, 
+      "lon": 4.542301633123, 
       "municipality": "Philippeville", 
       "pcode": "5600", 
       "source": "7757505", 

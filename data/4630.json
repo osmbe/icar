@@ -25,7 +25,7 @@
       "b": 50.626706976428, 
       "l": 5.722877356244, 
       "name": "Avenue de la R\u00e9sistance", 
-      "numOfAddr": 209, 
+      "numOfAddr": 210, 
       "otherPCs": [
         "4633"
       ], 
@@ -217,10 +217,10 @@
       "t": 50.610653594015
     }, 
     {
-      "b": 50.621463396314, 
+      "b": 50.621363102286, 
       "l": 5.722542122764, 
       "name": "Rue Arnold Trillet", 
-      "numOfAddr": 114, 
+      "numOfAddr": 123, 
       "r": 5.73453493736, 
       "sanName": "ruearnoldtrillet", 
       "t": 50.62654950026
@@ -256,7 +256,7 @@
       "b": 50.618184563965, 
       "l": 5.723581336207, 
       "name": "Rue Bois d'Evegn\u00e9e", 
-      "numOfAddr": 22, 
+      "numOfAddr": 31, 
       "r": 5.727747934449, 
       "sanName": "rueboisdevegne", 
       "t": 50.625207386904
@@ -271,10 +271,10 @@
       "t": 50.612332173677
     }, 
     {
-      "b": 50.634948835249, 
-      "l": 5.708707583792, 
+      "b": 50.634936954651, 
+      "l": 5.707665763384, 
       "name": "Rue Campagne", 
-      "numOfAddr": 27, 
+      "numOfAddr": 31, 
       "otherPCs": [
         "4631", 
         "4633"
@@ -296,7 +296,7 @@
       "b": 50.612435176398, 
       "l": 5.734196256334, 
       "name": "Rue C\u00e9lestin Demblon", 
-      "numOfAddr": 65, 
+      "numOfAddr": 75, 
       "r": 5.746240509092, 
       "sanName": "rueclestindemblon", 
       "t": 50.621326799127
@@ -404,7 +404,7 @@
       "b": 50.62353593634, 
       "l": 5.730865324829, 
       "name": "Rue de l'Ath\u00e9n\u00e9e", 
-      "numOfAddr": 80, 
+      "numOfAddr": 83, 
       "r": 5.736152884704, 
       "sanName": "ruedelathne", 
       "t": 50.6285754673
@@ -447,6 +447,15 @@
       "r": 5.735622553464, 
       "sanName": "ruedesanges", 
       "t": 50.604860827459
+    }, 
+    {
+      "b": 50.626612440311, 
+      "l": 5.729218940357, 
+      "name": "Rue des Boteresses", 
+      "numOfAddr": 19, 
+      "r": 5.731470159124, 
+      "sanName": "ruedesboteresses", 
+      "t": 50.628089309573
     }, 
     {
       "b": 50.623374132088, 
@@ -548,6 +557,15 @@
       "t": 50.604312463253
     }, 
     {
+      "b": 50.624724083147, 
+      "l": 5.730809782285, 
+      "name": "Rue des Houyeux", 
+      "numOfAddr": 22, 
+      "r": 5.732595283518, 
+      "sanName": "ruedeshouyeux", 
+      "t": 50.626399842055
+    }, 
+    {
       "b": 50.628317534261, 
       "l": 5.7447636505, 
       "name": "Rue des Jardins", 
@@ -570,9 +588,9 @@
     }, 
     {
       "b": 50.627227346673, 
-      "l": 5.73458585572, 
+      "l": 5.733948348473, 
       "name": "Rue des Prairies", 
-      "numOfAddr": 20, 
+      "numOfAddr": 30, 
       "r": 5.740138031542, 
       "sanName": "ruedesprairies", 
       "t": 50.630592493109
@@ -588,9 +606,9 @@
     }, 
     {
       "b": 50.612138609597, 
-      "l": 5.703386309343, 
+      "l": 5.703312997169, 
       "name": "Rue des Trois Ch\u00eanes", 
-      "numOfAddr": 48, 
+      "numOfAddr": 52, 
       "r": 5.706430758819, 
       "sanName": "ruedestroischnes", 
       "t": 50.616225120006
@@ -630,6 +648,15 @@
       "r": 5.734808049609, 
       "sanName": "ruedoultremont", 
       "t": 50.632108885489
+    }, 
+    {
+      "b": 50.624647328482, 
+      "l": 5.724845748874, 
+      "name": "Rue du Ch\u00e2teau de Micheroux", 
+      "numOfAddr": 73, 
+      "r": 5.731032812056, 
+      "sanName": "rueduchteaudemicheroux", 
+      "t": 50.627477038215
     }, 
     {
       "b": 50.62553714227, 
@@ -734,7 +761,7 @@
       "b": 50.62142464384, 
       "l": 5.734956663784, 
       "name": "Rue Henri Gardier", 
-      "numOfAddr": 31, 
+      "numOfAddr": 32, 
       "r": 5.740321644629, 
       "sanName": "ruehenrigardier", 
       "t": 50.622841478858
@@ -806,10 +833,19 @@
       "t": 50.633741397721
     }, 
     {
+      "b": 50.625222211343, 
+      "l": 5.728776261778, 
+      "name": "Rue Marcel Michels", 
+      "numOfAddr": 9, 
+      "r": 5.729860802136, 
+      "sanName": "ruemarcelmichels", 
+      "t": 50.626145701235
+    }, 
+    {
       "b": 50.625621328536, 
       "l": 5.734012674967, 
       "name": "Rue Martin Beckers", 
-      "numOfAddr": 20, 
+      "numOfAddr": 21, 
       "r": 5.736539916383, 
       "sanName": "ruemartinbeckers", 
       "t": 50.627822860655
@@ -818,7 +854,7 @@
       "b": 50.631494581256, 
       "l": 5.712240998076, 
       "name": "Rue Militaire", 
-      "numOfAddr": 39, 
+      "numOfAddr": 44, 
       "otherPCs": [
         "4631"
       ], 
@@ -957,7 +993,7 @@
       "l": 5.706635933382, 
       "name": "Voie de Li\u00e8ge", 
       "numOfAddr": 40, 
-      "r": 5.723168479943, 
+      "r": 5.723119271505, 
       "sanName": "voiedelige", 
       "t": 50.61577652601
     }, 

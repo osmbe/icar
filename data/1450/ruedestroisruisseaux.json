@@ -2,6 +2,18 @@
   "addresses": [
     {
       "hnrlbls": [
+        "10"
+      ], 
+      "housenumber": "10", 
+      "lat": 50.613741884046, 
+      "lon": 4.644472738958, 
+      "municipality": "Chastre", 
+      "pcode": "1450", 
+      "source": "7705301", 
+      "street": "Rue des Trois Ruisseaux"
+    }, 
+    {
+      "hnrlbls": [
         "13"
       ], 
       "housenumber": "13", 
@@ -73,6 +85,11 @@
       "street": "Rue des Trois Ruisseaux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -85,6 +102,9 @@
       "street": "Rue des Trois Ruisseaux"
     }, 
     {
+      "busnrs": [
+        "0201"
+      ], 
       "hnrlbls": [
         "37"
       ], 

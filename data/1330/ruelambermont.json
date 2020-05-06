@@ -37,12 +37,15 @@
       "street": "Rue Lambermont"
     }, 
     {
+      "busnrs": [
+        "002"
+      ], 
       "hnrlbls": [
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.708563126683, 
-      "lon": 4.508614201532, 
+      "lat": 50.708383471364, 
+      "lon": 4.508526270475, 
       "municipality": "Rixensart", 
       "pcode": "1330", 
       "source": "7703643", 
@@ -73,6 +76,11 @@
       "street": "Rue Lambermont"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "16"
       ], 

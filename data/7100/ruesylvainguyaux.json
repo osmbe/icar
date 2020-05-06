@@ -13,6 +13,9 @@
       "street": "Rue Sylvain Guyaux"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -25,6 +28,10 @@
       "street": "Rue Sylvain Guyaux"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "A002"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -50,23 +57,29 @@
     }, 
     {
       "hnrlbls": [
-        "13"
+        "121"
       ], 
-      "housenumber": "13", 
-      "lat": 50.474898507504, 
-      "lon": 4.186098641819, 
+      "housenumber": "121", 
+      "lat": 50.476451450339, 
+      "lon": 4.180391292785, 
       "municipality": "La Louvi\u00e8re", 
       "pcode": "7100", 
       "source": "7717792", 
       "street": "Rue Sylvain Guyaux"
     }, 
     {
-      "hnrlbls": [
-        "131"
+      "busnrs": [
+        "000A", 
+        "0101", 
+        "0201", 
+        "0301"
       ], 
-      "housenumber": "131", 
-      "lat": 50.47701177752, 
-      "lon": 4.179291486372, 
+      "hnrlbls": [
+        "13"
+      ], 
+      "housenumber": "13", 
+      "lat": 50.474898507504, 
+      "lon": 4.186098641819, 
       "municipality": "La Louvi\u00e8re", 
       "pcode": "7100", 
       "source": "7717792", 
@@ -97,6 +110,9 @@
       "street": "Rue Sylvain Guyaux"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -109,6 +125,24 @@
       "street": "Rue Sylvain Guyaux"
     }, 
     {
+      "hnrlbls": [
+        "16A"
+      ], 
+      "housenumber": "16A", 
+      "lat": 50.475162568685, 
+      "lon": 4.186178338089, 
+      "municipality": "La Louvi\u00e8re", 
+      "pcode": "7100", 
+      "source": "7717792", 
+      "street": "Rue Sylvain Guyaux"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -133,6 +167,9 @@
       "street": "Rue Sylvain Guyaux"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -193,6 +230,11 @@
       "street": "Rue Sylvain Guyaux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "ETA1"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -217,6 +259,18 @@
       "street": "Rue Sylvain Guyaux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "A000"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -241,6 +295,10 @@
       "street": "Rue Sylvain Guyaux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -253,6 +311,10 @@
       "street": "Rue Sylvain Guyaux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -277,6 +339,9 @@
       "street": "Rue Sylvain Guyaux"
     }, 
     {
+      "busnrs": [
+        "0302"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -289,6 +354,10 @@
       "street": "Rue Sylvain Guyaux"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -301,6 +370,14 @@
       "street": "Rue Sylvain Guyaux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0302"
+      ], 
       "hnrlbls": [
         "32"
       ], 
@@ -325,6 +402,10 @@
       "street": "Rue Sylvain Guyaux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "2ETG"
+      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -361,6 +442,17 @@
       "street": "Rue Sylvain Guyaux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "A001", 
+        "B001", 
+        "B002", 
+        "B004"
+      ], 
       "hnrlbls": [
         "37"
       ], 
@@ -445,6 +537,12 @@
       "street": "Rue Sylvain Guyaux"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0103", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "44"
       ], 
@@ -481,6 +579,10 @@
       "street": "Rue Sylvain Guyaux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "47"
       ], 
@@ -497,14 +599,19 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 50.475690125842, 
-      "lon": 4.184665509236, 
+      "lat": 50.475647261892, 
+      "lon": 4.184628941625, 
       "municipality": "La Louvi\u00e8re", 
       "pcode": "7100", 
       "source": "7717792", 
       "street": "Rue Sylvain Guyaux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "49"
       ], 
@@ -541,6 +648,11 @@
       "street": "Rue Sylvain Guyaux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "51"
       ], 
@@ -553,6 +665,11 @@
       "street": "Rue Sylvain Guyaux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "53"
       ], 
@@ -589,6 +706,10 @@
       "street": "Rue Sylvain Guyaux"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102"
+      ], 
       "hnrlbls": [
         "56"
       ], 
@@ -601,6 +722,12 @@
       "street": "Rue Sylvain Guyaux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "57"
       ], 
@@ -613,6 +740,10 @@
       "street": "Rue Sylvain Guyaux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "58"
       ], 
@@ -625,6 +756,11 @@
       "street": "Rue Sylvain Guyaux"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "59"
       ], 
@@ -673,6 +809,13 @@
       "street": "Rue Sylvain Guyaux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "B000", 
+        "C000"
+      ], 
       "hnrlbls": [
         "62"
       ], 
@@ -697,6 +840,17 @@
       "street": "Rue Sylvain Guyaux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008", 
+        "0009"
+      ], 
       "hnrlbls": [
         "64"
       ], 
@@ -721,6 +875,13 @@
       "street": "Rue Sylvain Guyaux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "66"
       ], 
@@ -733,6 +894,12 @@
       "street": "Rue Sylvain Guyaux"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201"
+      ], 
       "hnrlbls": [
         "67"
       ], 
@@ -793,6 +960,11 @@
       "street": "Rue Sylvain Guyaux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "73"
       ], 
@@ -805,6 +977,9 @@
       "street": "Rue Sylvain Guyaux"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "75"
       ], 
@@ -829,6 +1004,10 @@
       "street": "Rue Sylvain Guyaux"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "79"
       ], 
@@ -853,6 +1032,11 @@
       "street": "Rue Sylvain Guyaux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "81"
       ], 
@@ -865,6 +1049,15 @@
       "street": "Rue Sylvain Guyaux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
+      ], 
       "hnrlbls": [
         "83"
       ], 
@@ -877,6 +1070,19 @@
       "street": "Rue Sylvain Guyaux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
+      ], 
       "hnrlbls": [
         "85"
       ], 
@@ -901,12 +1107,29 @@
       "street": "Rue Sylvain Guyaux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "89"
       ], 
       "housenumber": "89", 
       "lat": 50.476183373145, 
       "lon": 4.182187038843, 
+      "municipality": "La Louvi\u00e8re", 
+      "pcode": "7100", 
+      "source": "7717792", 
+      "street": "Rue Sylvain Guyaux"
+    }, 
+    {
+      "hnrlbls": [
+        "8A"
+      ], 
+      "housenumber": "8A", 
+      "lat": 50.475044705997, 
+      "lon": 4.186483302655, 
       "municipality": "La Louvi\u00e8re", 
       "pcode": "7100", 
       "source": "7717792", 
@@ -937,6 +1160,15 @@
       "street": "Rue Sylvain Guyaux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007"
+      ], 
       "hnrlbls": [
         "95"
       ], 
@@ -949,6 +1181,25 @@
       "street": "Rue Sylvain Guyaux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008", 
+        "0009", 
+        "0010", 
+        "0011", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
+      ], 
       "hnrlbls": [
         "97"
       ], 

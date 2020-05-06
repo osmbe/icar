@@ -2,18 +2,6 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1"
-      ], 
-      "housenumber": "1", 
-      "lat": 50.474412141293, 
-      "lon": 4.185231953682, 
-      "municipality": "La Louvi\u00e8re", 
-      "pcode": "7100", 
-      "source": "7717367", 
-      "street": "Rue des Amours"
-    }, 
-    {
-      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -37,6 +25,9 @@
       "street": "Rue des Amours"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -61,6 +52,11 @@
       "street": "Rue des Amours"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -97,6 +93,14 @@
       "street": "Rue des Amours"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -109,12 +113,27 @@
       "street": "Rue des Amours"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
       "lat": 50.474149668346, 
       "lon": 4.185522849769, 
+      "municipality": "La Louvi\u00e8re", 
+      "pcode": "7100", 
+      "source": "7717367", 
+      "street": "Rue des Amours"
+    }, 
+    {
+      "hnrlbls": [
+        "1A"
+      ], 
+      "housenumber": "1A", 
+      "lat": 50.474412141293, 
+      "lon": 4.185231953682, 
       "municipality": "La Louvi\u00e8re", 
       "pcode": "7100", 
       "source": "7717367", 
@@ -133,6 +152,10 @@
       "street": "Rue des Amours"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "20"
       ], 

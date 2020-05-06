@@ -2,6 +2,39 @@
   "addresses": [
     {
       "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.637995032365, 
+      "lon": 5.588338769483, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730282", 
+      "street": "Rue d'Amercoeur"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0004", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
+      "hnrlbls": [
+        "10"
+      ], 
+      "housenumber": "10", 
+      "lat": 50.637490876681, 
+      "lon": 5.588426687414, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730282", 
+      "street": "Rue d'Amercoeur"
+    }, 
+    {
+      "hnrlbls": [
         "11"
       ], 
       "housenumber": "11", 
@@ -13,6 +46,12 @@
       "street": "Rue d'Amercoeur"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -25,6 +64,12 @@
       "street": "Rue d'Amercoeur"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -37,6 +82,22 @@
       "street": "Rue d'Amercoeur"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0031", 
+        "B001", 
+        "B002", 
+        "C001", 
+        "C002", 
+        "C011", 
+        "C012", 
+        "C013"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -50,6 +111,101 @@
     }, 
     {
       "hnrlbls": [
+        "14B"
+      ], 
+      "housenumber": "14B", 
+      "lat": 50.637246538328, 
+      "lon": 5.588637677162, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730282", 
+      "street": "Rue d'Amercoeur"
+    }, 
+    {
+      "hnrlbls": [
+        "14C"
+      ], 
+      "housenumber": "14C", 
+      "lat": 50.637112276359, 
+      "lon": 5.588510921124, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730282", 
+      "street": "Rue d'Amercoeur"
+    }, 
+    {
+      "hnrlbls": [
+        "14D"
+      ], 
+      "housenumber": "14D", 
+      "lat": 50.63722775465, 
+      "lon": 5.588327281107, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730282", 
+      "street": "Rue d'Amercoeur"
+    }, 
+    {
+      "hnrlbls": [
+        "14E"
+      ], 
+      "housenumber": "14E", 
+      "lat": 50.637314964008, 
+      "lon": 5.588190131562, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730282", 
+      "street": "Rue d'Amercoeur"
+    }, 
+    {
+      "hnrlbls": [
+        "14F"
+      ], 
+      "housenumber": "14F", 
+      "lat": 50.63747979422, 
+      "lon": 5.588196653159, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730282", 
+      "street": "Rue d'Amercoeur"
+    }, 
+    {
+      "hnrlbls": [
+        "15"
+      ], 
+      "housenumber": "15", 
+      "lat": 50.637686615857, 
+      "lon": 5.588658809152, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730282", 
+      "street": "Rue d'Amercoeur"
+    }, 
+    {
+      "busnrs": [
+        "0011"
+      ], 
+      "hnrlbls": [
+        "16"
+      ], 
+      "housenumber": "16", 
+      "lat": 50.63737312211, 
+      "lon": 5.588836623494, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730282", 
+      "street": "Rue d'Amercoeur"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
+      "hnrlbls": [
         "17"
       ], 
       "housenumber": "17", 
@@ -61,6 +217,14 @@
       "street": "Rue d'Amercoeur"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -98,17 +262,37 @@
     }, 
     {
       "hnrlbls": [
-        "24"
+        "22"
       ], 
-      "housenumber": "24", 
-      "lat": 50.636867812108, 
-      "lon": 5.589737915113, 
+      "housenumber": "22", 
+      "lat": 50.637098311297, 
+      "lon": 5.589545336097, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730282", 
       "street": "Rue d'Amercoeur"
     }, 
     {
+      "hnrlbls": [
+        "24"
+      ], 
+      "housenumber": "24", 
+      "lat": 50.637065080096, 
+      "lon": 5.589466249709, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730282", 
+      "street": "Rue d'Amercoeur"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -121,6 +305,14 @@
       "street": "Rue d'Amercoeur"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -145,6 +337,12 @@
       "street": "Rue d'Amercoeur"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -205,6 +403,11 @@
       "street": "Rue d'Amercoeur"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "33"
       ], 
@@ -217,6 +420,11 @@
       "street": "Rue d'Amercoeur"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -229,12 +437,31 @@
       "street": "Rue d'Amercoeur"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "35"
       ], 
       "housenumber": "35", 
       "lat": 50.637470754339, 
       "lon": 5.589412032793, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730282", 
+      "street": "Rue d'Amercoeur"
+    }, 
+    {
+      "hnrlbls": [
+        "36"
+      ], 
+      "housenumber": "36", 
+      "lat": 50.636381570641, 
+      "lon": 5.589662094955, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730282", 
@@ -253,6 +480,13 @@
       "street": "Rue d'Amercoeur"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "38"
       ], 
@@ -277,6 +511,11 @@
       "street": "Rue d'Amercoeur"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "40"
       ], 
@@ -325,6 +564,12 @@
       "street": "Rue d'Amercoeur"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "44"
       ], 
@@ -361,12 +606,34 @@
       "street": "Rue d'Amercoeur"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "47"
       ], 
       "housenumber": "47", 
       "lat": 50.637282577178, 
       "lon": 5.589858062923, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730282", 
+      "street": "Rue d'Amercoeur"
+    }, 
+    {
+      "hnrlbls": [
+        "48"
+      ], 
+      "housenumber": "48", 
+      "lat": 50.636232968121, 
+      "lon": 5.590149685744, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730282", 
@@ -389,8 +656,20 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.637819164885, 
-      "lon": 5.588287143244, 
+      "lat": 50.637778944822, 
+      "lon": 5.588233183715, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730282", 
+      "street": "Rue d'Amercoeur"
+    }, 
+    {
+      "hnrlbls": [
+        "50"
+      ], 
+      "housenumber": "50", 
+      "lat": 50.636045407528, 
+      "lon": 5.590227396608, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730282", 
@@ -410,6 +689,18 @@
     }, 
     {
       "hnrlbls": [
+        "52"
+      ], 
+      "housenumber": "52", 
+      "lat": 50.635967527506, 
+      "lon": 5.590271894398, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730282", 
+      "street": "Rue d'Amercoeur"
+    }, 
+    {
+      "hnrlbls": [
         "53"
       ], 
       "housenumber": "53", 
@@ -421,6 +712,18 @@
       "street": "Rue d'Amercoeur"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0041", 
+        "0042"
+      ], 
       "hnrlbls": [
         "54"
       ], 
@@ -445,6 +748,14 @@
       "street": "Rue d'Amercoeur"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0022", 
+        "0023"
+      ], 
       "hnrlbls": [
         "57"
       ], 
@@ -457,6 +768,18 @@
       "street": "Rue d'Amercoeur"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008", 
+        "0010", 
+        "0013", 
+        "0015"
+      ], 
       "hnrlbls": [
         "58"
       ], 
@@ -469,6 +792,15 @@
       "street": "Rue d'Amercoeur"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021"
+      ], 
       "hnrlbls": [
         "59"
       ], 
@@ -493,6 +825,25 @@
       "street": "Rue d'Amercoeur"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008", 
+        "0009", 
+        "0010", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0015", 
+        "0016", 
+        "0017"
+      ], 
       "hnrlbls": [
         "60"
       ], 
@@ -505,6 +856,30 @@
       "street": "Rue d'Amercoeur"
     }, 
     {
+      "busnrs": [
+        "A001", 
+        "A002", 
+        "A003", 
+        "A011", 
+        "A012", 
+        "A013", 
+        "A014", 
+        "A021", 
+        "A022", 
+        "A024", 
+        "A025", 
+        "A031", 
+        "B002", 
+        "B011", 
+        "C001", 
+        "C011", 
+        "C012", 
+        "C013", 
+        "C014", 
+        "C021", 
+        "C022", 
+        "C023"
+      ], 
       "hnrlbls": [
         "61"
       ], 
@@ -518,6 +893,60 @@
     }, 
     {
       "hnrlbls": [
+        "61A"
+      ], 
+      "housenumber": "61A", 
+      "lat": 50.636465810918, 
+      "lon": 5.590324237602, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730282", 
+      "street": "Rue d'Amercoeur"
+    }, 
+    {
+      "hnrlbls": [
+        "61B"
+      ], 
+      "housenumber": "61B", 
+      "lat": 50.636467182217, 
+      "lon": 5.59050241228, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730282", 
+      "street": "Rue d'Amercoeur"
+    }, 
+    {
+      "hnrlbls": [
+        "61C"
+      ], 
+      "housenumber": "61C", 
+      "lat": 50.636548980812, 
+      "lon": 5.590676166037, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730282", 
+      "street": "Rue d'Amercoeur"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008", 
+        "0009", 
+        "0010", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0015", 
+        "0016"
+      ], 
+      "hnrlbls": [
         "62"
       ], 
       "housenumber": "62", 
@@ -529,6 +958,14 @@
       "street": "Rue d'Amercoeur"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0022", 
+        "0031"
+      ], 
       "hnrlbls": [
         "63"
       ], 
@@ -541,6 +978,41 @@
       "street": "Rue d'Amercoeur"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0015", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024", 
+        "0031", 
+        "0032", 
+        "0033", 
+        "0034", 
+        "0041", 
+        "0042", 
+        "0043", 
+        "0044", 
+        "0051", 
+        "0052", 
+        "0053", 
+        "0054", 
+        "0061", 
+        "0062", 
+        "0063", 
+        "0064", 
+        "0071", 
+        "0072", 
+        "0073", 
+        "0074"
+      ], 
       "hnrlbls": [
         "64"
       ], 
@@ -589,18 +1061,31 @@
       "street": "Rue d'Amercoeur"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.637773275682, 
-      "lon": 5.588290410895, 
+      "lat": 50.637810226352, 
+      "lon": 5.588331999678, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730282", 
       "street": "Rue d'Amercoeur"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022", 
+        "0023"
+      ], 
       "hnrlbls": [
         "71"
       ], 
@@ -613,6 +1098,14 @@
       "street": "Rue d'Amercoeur"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "73"
       ], 
@@ -625,6 +1118,17 @@
       "street": "Rue d'Amercoeur"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0034"
+      ], 
       "hnrlbls": [
         "75"
       ], 
@@ -637,6 +1141,13 @@
       "street": "Rue d'Amercoeur"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "77"
       ], 
@@ -649,6 +1160,16 @@
       "street": "Rue d'Amercoeur"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "79"
       ], 
@@ -661,6 +1182,11 @@
       "street": "Rue d'Amercoeur"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "8"
       ], 
@@ -673,6 +1199,13 @@
       "street": "Rue d'Amercoeur"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "81"
       ], 
@@ -697,6 +1230,11 @@
       "street": "Rue d'Amercoeur"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "85"
       ], 
@@ -721,12 +1259,35 @@
       "street": "Rue d'Amercoeur"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
+      "hnrlbls": [
+        "89"
+      ], 
+      "housenumber": "89", 
+      "lat": 50.635759895082, 
+      "lon": 5.591066791157, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730282", 
+      "street": "Rue d'Amercoeur"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.6377582419, 
-      "lon": 5.588345515625, 
+      "lat": 50.637801653489, 
+      "lon": 5.588362515047, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730282", 
@@ -757,6 +1318,10 @@
       "street": "Rue d'Amercoeur"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "97"
       ], 

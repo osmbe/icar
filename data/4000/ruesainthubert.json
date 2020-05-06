@@ -1,12 +1,30 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
       "lat": 50.645339320451, 
       "lon": 5.569361736954, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731308", 
+      "street": "Rue Saint-Hubert"
+    }, 
+    {
+      "hnrlbls": [
+        "11"
+      ], 
+      "housenumber": "11", 
+      "lat": 50.645313472106, 
+      "lon": 5.569176332076, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731308", 
@@ -37,6 +55,20 @@
       "street": "Rue Saint-Hubert"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024", 
+        "0031"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -49,12 +81,84 @@
       "street": "Rue Saint-Hubert"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "19"
       ], 
       "housenumber": "19", 
       "lat": 50.645248980299, 
       "lon": 5.568923540128, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731308", 
+      "street": "Rue Saint-Hubert"
+    }, 
+    {
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.64554144119, 
+      "lon": 5.569303176564, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731308", 
+      "street": "Rue Saint-Hubert"
+    }, 
+    {
+      "hnrlbls": [
+        "21"
+      ], 
+      "housenumber": "21", 
+      "lat": 50.645136828349, 
+      "lon": 5.568867250079, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731308", 
+      "street": "Rue Saint-Hubert"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0012", 
+        "0031"
+      ], 
+      "hnrlbls": [
+        "23"
+      ], 
+      "housenumber": "23", 
+      "lat": 50.645069870849, 
+      "lon": 5.56890839276, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731308", 
+      "street": "Rue Saint-Hubert"
+    }, 
+    {
+      "busnrs": [
+        "0011", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0033", 
+        "0041", 
+        "0042"
+      ], 
+      "hnrlbls": [
+        "25"
+      ], 
+      "housenumber": "25", 
+      "lat": 50.64521161697, 
+      "lon": 5.568746553591, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731308", 
@@ -86,6 +190,54 @@
     }, 
     {
       "hnrlbls": [
+        "37"
+      ], 
+      "housenumber": "37", 
+      "lat": 50.644915589233, 
+      "lon": 5.569030177264, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731308", 
+      "street": "Rue Saint-Hubert"
+    }, 
+    {
+      "hnrlbls": [
+        "39"
+      ], 
+      "housenumber": "39", 
+      "lat": 50.644900641659, 
+      "lon": 5.568726342114, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731308", 
+      "street": "Rue Saint-Hubert"
+    }, 
+    {
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.645548583889, 
+      "lon": 5.569133245889, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731308", 
+      "street": "Rue Saint-Hubert"
+    }, 
+    {
+      "hnrlbls": [
+        "41"
+      ], 
+      "housenumber": "41", 
+      "lat": 50.644959765068, 
+      "lon": 5.568712574071, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731308", 
+      "street": "Rue Saint-Hubert"
+    }, 
+    {
+      "hnrlbls": [
         "45"
       ], 
       "housenumber": "45", 
@@ -109,6 +261,17 @@
       "street": "Rue Saint-Hubert"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "49"
       ], 
@@ -146,6 +309,18 @@
     }, 
     {
       "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.64549905596, 
+      "lon": 5.569027062028, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731308", 
+      "street": "Rue Saint-Hubert"
+    }, 
+    {
+      "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
@@ -157,6 +332,74 @@
       "street": "Rue Saint-Hubert"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0031", 
+        "0032", 
+        "0041", 
+        "0042", 
+        "0051", 
+        "0052", 
+        "0053", 
+        "0061", 
+        "0063"
+      ], 
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 50.645464897483, 
+      "lon": 5.568965105395, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731308", 
+      "street": "Rue Saint-Hubert"
+    }, 
+    {
+      "hnrlbls": [
+        "8A"
+      ], 
+      "housenumber": "8A", 
+      "lat": 50.645486883905, 
+      "lon": 5.568960432654, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731308", 
+      "street": "Rue Saint-Hubert"
+    }, 
+    {
+      "hnrlbls": [
+        "8B"
+      ], 
+      "housenumber": "8B", 
+      "lat": 50.645474078849, 
+      "lon": 5.568953602208, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731308", 
+      "street": "Rue Saint-Hubert"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "9"
       ], 

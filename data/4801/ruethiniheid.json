@@ -1,6 +1,22 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "2\u00e9t."
+      ], 
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.58577007241, 
+      "lon": 5.892052149907, 
+      "municipality": "Verviers", 
+      "pcode": "4801", 
+      "source": "7739108", 
+      "street": "Rue Thiniheid"
+    }, 
+    {
       "hnrlbls": [
         "10"
       ], 
@@ -37,12 +53,16 @@
       "street": "Rue Thiniheid"
     }, 
     {
+      "busnrs": [
+        "2\u00e9t.", 
+        "bte3"
+      ], 
       "hnrlbls": [
         "104"
       ], 
       "housenumber": "104", 
-      "lat": 50.584359698988, 
-      "lon": 5.894029784618, 
+      "lat": 50.584323246683, 
+      "lon": 5.894171241061, 
       "municipality": "Verviers", 
       "pcode": "4801", 
       "source": "7739108", 
@@ -61,6 +81,12 @@
       "street": "Rue Thiniheid"
     }, 
     {
+      "busnrs": [
+        "2\u00e9t.", 
+        "bte2", 
+        "bte3", 
+        "bte5"
+      ], 
       "hnrlbls": [
         "106"
       ], 
@@ -85,6 +111,10 @@
       "street": "Rue Thiniheid"
     }, 
     {
+      "busnrs": [
+        "4", 
+        "app3"
+      ], 
       "hnrlbls": [
         "108"
       ], 
@@ -121,6 +151,12 @@
       "street": "Rue Thiniheid"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "4", 
+        "bte3", 
+        "bte6"
+      ], 
       "hnrlbls": [
         "110"
       ], 
@@ -290,11 +326,47 @@
     }, 
     {
       "hnrlbls": [
+        "138"
+      ], 
+      "housenumber": "138", 
+      "lat": 50.583328242117, 
+      "lon": 5.896654571689, 
+      "municipality": "Verviers", 
+      "pcode": "4801", 
+      "source": "7739108", 
+      "street": "Rue Thiniheid"
+    }, 
+    {
+      "hnrlbls": [
+        "139"
+      ], 
+      "housenumber": "139", 
+      "lat": 50.583025596603, 
+      "lon": 5.898320889341, 
+      "municipality": "Verviers", 
+      "pcode": "4801", 
+      "source": "7739108", 
+      "street": "Rue Thiniheid"
+    }, 
+    {
+      "hnrlbls": [
         "14"
       ], 
       "housenumber": "14", 
       "lat": 50.587366885425, 
       "lon": 5.88919307926, 
+      "municipality": "Verviers", 
+      "pcode": "4801", 
+      "source": "7739108", 
+      "street": "Rue Thiniheid"
+    }, 
+    {
+      "hnrlbls": [
+        "140"
+      ], 
+      "housenumber": "140", 
+      "lat": 50.583202780693, 
+      "lon": 5.896877619393, 
       "municipality": "Verviers", 
       "pcode": "4801", 
       "source": "7739108", 
@@ -385,6 +457,10 @@
       "street": "Rue Thiniheid"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "2\u00e9t."
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -397,6 +473,10 @@
       "street": "Rue Thiniheid"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "2\u00e9t."
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -566,6 +646,18 @@
     }, 
     {
       "hnrlbls": [
+        "49"
+      ], 
+      "housenumber": "49", 
+      "lat": 50.584600955103, 
+      "lon": 5.895171951803, 
+      "municipality": "Verviers", 
+      "pcode": "4801", 
+      "source": "7739108", 
+      "street": "Rue Thiniheid"
+    }, 
+    {
+      "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
@@ -590,6 +682,18 @@
     }, 
     {
       "hnrlbls": [
+        "51"
+      ], 
+      "housenumber": "51", 
+      "lat": 50.584566682112, 
+      "lon": 5.895249202129, 
+      "municipality": "Verviers", 
+      "pcode": "4801", 
+      "source": "7739108", 
+      "street": "Rue Thiniheid"
+    }, 
+    {
+      "hnrlbls": [
         "52"
       ], 
       "housenumber": "52", 
@@ -602,11 +706,35 @@
     }, 
     {
       "hnrlbls": [
+        "53"
+      ], 
+      "housenumber": "53", 
+      "lat": 50.584528040819, 
+      "lon": 5.895326311198, 
+      "municipality": "Verviers", 
+      "pcode": "4801", 
+      "source": "7739108", 
+      "street": "Rue Thiniheid"
+    }, 
+    {
+      "hnrlbls": [
         "54"
       ], 
       "housenumber": "54", 
       "lat": 50.584981148292, 
       "lon": 5.891153021436, 
+      "municipality": "Verviers", 
+      "pcode": "4801", 
+      "source": "7739108", 
+      "street": "Rue Thiniheid"
+    }, 
+    {
+      "hnrlbls": [
+        "55"
+      ], 
+      "housenumber": "55", 
+      "lat": 50.584491260155, 
+      "lon": 5.895395232107, 
       "municipality": "Verviers", 
       "pcode": "4801", 
       "source": "7739108", 

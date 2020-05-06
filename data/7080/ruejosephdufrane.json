@@ -1,6 +1,18 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0003", 
+        "B011", 
+        "B012", 
+        "B013", 
+        "B014", 
+        "B015", 
+        "B021", 
+        "B031", 
+        "B032", 
+        "B033"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -253,6 +265,10 @@
       "street": "Rue Joseph Dufrane"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "0011"
+      ], 
       "hnrlbls": [
         "32"
       ], 
@@ -265,6 +281,13 @@
       "street": "Rue Joseph Dufrane"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -281,8 +304,8 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 50.407414111414, 
-      "lon": 3.89073284737, 
+      "lat": 50.407390500862, 
+      "lon": 3.890677796997, 
       "municipality": "Frameries", 
       "pcode": "7080", 
       "source": "7712544", 
@@ -469,12 +492,16 @@
       "street": "Rue Joseph Dufrane"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0012"
+      ], 
       "hnrlbls": [
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 50.407674152089, 
-      "lon": 3.890695300016, 
+      "lat": 50.407656314959, 
+      "lon": 3.890651558411, 
       "municipality": "Frameries", 
       "pcode": "7080", 
       "source": "7712544", 
@@ -637,6 +664,10 @@
       "street": "Rue Joseph Dufrane"
     }, 
     {
+      "busnrs": [
+        "A011", 
+        "A021"
+      ], 
       "hnrlbls": [
         "70"
       ], 
@@ -721,6 +752,9 @@
       "street": "Rue Joseph Dufrane"
     }, 
     {
+      "busnrs": [
+        "0081"
+      ], 
       "hnrlbls": [
         "79"
       ], 
@@ -733,6 +767,9 @@
       "street": "Rue Joseph Dufrane"
     }, 
     {
+      "busnrs": [
+        "0021"
+      ], 
       "hnrlbls": [
         "8"
       ], 

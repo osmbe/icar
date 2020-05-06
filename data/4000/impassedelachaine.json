@@ -1,6 +1,19 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A002", 
+        "A011", 
+        "A012", 
+        "A013", 
+        "A014", 
+        "A021", 
+        "A022", 
+        "A023", 
+        "A031", 
+        "A032", 
+        "A033"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -50,11 +63,47 @@
     }, 
     {
       "hnrlbls": [
+        "1A"
+      ], 
+      "housenumber": "1A", 
+      "lat": 50.64865921775, 
+      "lon": 5.58240257936, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729852", 
+      "street": "Impasse de la Chaine"
+    }, 
+    {
+      "hnrlbls": [
+        "1B"
+      ], 
+      "housenumber": "1B", 
+      "lat": 50.648682518571, 
+      "lon": 5.5823753197, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729852", 
+      "street": "Impasse de la Chaine"
+    }, 
+    {
+      "hnrlbls": [
         "21"
       ], 
       "housenumber": "21", 
       "lat": 50.648749719976, 
       "lon": 5.582133047826, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729852", 
+      "street": "Impasse de la Chaine"
+    }, 
+    {
+      "hnrlbls": [
+        "23"
+      ], 
+      "housenumber": "23", 
+      "lat": 50.648917466181, 
+      "lon": 5.582123701265, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7729852", 

@@ -157,6 +157,9 @@
       "street": "Rue Docteur Albert Hustin"
     }, 
     {
+      "busnrs": [
+        "0002"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -205,6 +208,9 @@
       "street": "Rue Docteur Albert Hustin"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -230,9 +236,9 @@
     }, 
     {
       "hnrlbls": [
-        "25a"
+        "25A"
       ], 
-      "housenumber": "25a", 
+      "housenumber": "25A", 
       "lat": 49.579735238583, 
       "lon": 5.579293751514, 
       "municipality": "Virton", 
@@ -241,6 +247,11 @@
       "street": "Rue Docteur Albert Hustin"
     }, 
     {
+      "busnrs": [
+        "/0", 
+        "1/1", 
+        "1/2"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -421,6 +432,17 @@
       "street": "Rue Docteur Albert Hustin"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "0/2", 
+        "1/1", 
+        "1/2", 
+        "2/1", 
+        "2/2", 
+        "A1/1", 
+        "A2/1", 
+        "A2/2"
+      ], 
       "hnrlbls": [
         "38"
       ], 
@@ -469,6 +491,10 @@
       "street": "Rue Docteur Albert Hustin"
     }, 
     {
+      "busnrs": [
+        "A/1", 
+        "A/2"
+      ], 
       "hnrlbls": [
         "40"
       ], 
@@ -529,6 +555,13 @@
       "street": "Rue Docteur Albert Hustin"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "0/2", 
+        "1/1", 
+        "1/2", 
+        "1/3"
+      ], 
       "hnrlbls": [
         "46"
       ], 
@@ -793,6 +826,11 @@
       "street": "Rue Docteur Albert Hustin"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "1/1", 
+        "1/2"
+      ], 
       "hnrlbls": [
         "65"
       ], 
@@ -901,6 +939,10 @@
       "street": "Rue Docteur Albert Hustin"
     }, 
     {
+      "busnrs": [
+        "A/1", 
+        "A/2/1"
+      ], 
       "hnrlbls": [
         "73"
       ], 

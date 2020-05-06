@@ -25,6 +25,9 @@
       "street": "Rue de Maestricht"
     }, 
     {
+      "busnrs": [
+        "108"
+      ], 
       "hnrlbls": [
         "106"
       ], 
@@ -133,6 +136,9 @@
       "street": "Rue de Maestricht"
     }, 
     {
+      "busnrs": [
+        "000B"
+      ], 
       "hnrlbls": [
         "155"
       ], 
@@ -145,6 +151,10 @@
       "street": "Rue de Maestricht"
     }, 
     {
+      "busnrs": [
+        "rez1", 
+        "rez2"
+      ], 
       "hnrlbls": [
         "157"
       ], 
@@ -205,6 +215,9 @@
       "street": "Rue de Maestricht"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -277,6 +290,12 @@
       "street": "Rue de Maestricht"
     }, 
     {
+      "busnrs": [
+        "11", 
+        "12", 
+        "21", 
+        "rez1"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -289,6 +308,14 @@
       "street": "Rue de Maestricht"
     }, 
     {
+      "busnrs": [
+        "11", 
+        "12", 
+        "13", 
+        "14", 
+        "rez1", 
+        "rez2"
+      ], 
       "hnrlbls": [
         "25B"
       ], 
@@ -301,6 +328,10 @@
       "street": "Rue de Maestricht"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -313,6 +344,15 @@
       "street": "Rue de Maestricht"
     }, 
     {
+      "busnrs": [
+        "15", 
+        "16", 
+        "17", 
+        "18", 
+        "19", 
+        "20", 
+        "21"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -409,6 +449,10 @@
       "street": "Rue de Maestricht"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "rez"
+      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -458,6 +502,21 @@
     }, 
     {
       "hnrlbls": [
+        "3B"
+      ], 
+      "housenumber": "3B", 
+      "lat": 50.648779268047, 
+      "lon": 5.819545372525, 
+      "municipality": "Herve", 
+      "pcode": "4651", 
+      "source": "7736085", 
+      "street": "Rue de Maestricht"
+    }, 
+    {
+      "busnrs": [
+        "2"
+      ], 
+      "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
@@ -497,20 +556,8 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 50.649957797, 
-      "lon": 5.815602344618, 
-      "municipality": "Herve", 
-      "pcode": "4651", 
-      "source": "7736085", 
-      "street": "Rue de Maestricht"
-    }, 
-    {
-      "hnrlbls": [
-        "43"
-      ], 
-      "housenumber": "43", 
-      "lat": 50.649637765158, 
-      "lon": 5.813982492084, 
+      "lat": 50.64992163638, 
+      "lon": 5.815892153705, 
       "municipality": "Herve", 
       "pcode": "4651", 
       "source": "7736085", 
@@ -521,8 +568,8 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 50.649777649626, 
-      "lon": 5.815270050916, 
+      "lat": 50.650222173577, 
+      "lon": 5.814876333047, 
       "municipality": "Herve", 
       "pcode": "4651", 
       "source": "7736085", 
@@ -542,6 +589,54 @@
     }, 
     {
       "hnrlbls": [
+        "48"
+      ], 
+      "housenumber": "48", 
+      "lat": 50.650368629912, 
+      "lon": 5.813046368828, 
+      "municipality": "Herve", 
+      "pcode": "4651", 
+      "source": "7736085", 
+      "street": "Rue de Maestricht"
+    }, 
+    {
+      "hnrlbls": [
+        "48B"
+      ], 
+      "housenumber": "48B", 
+      "lat": 50.650481550753, 
+      "lon": 5.812380006767, 
+      "municipality": "Herve", 
+      "pcode": "4651", 
+      "source": "7736085", 
+      "street": "Rue de Maestricht"
+    }, 
+    {
+      "hnrlbls": [
+        "48D"
+      ], 
+      "housenumber": "48D", 
+      "lat": 50.651096138615, 
+      "lon": 5.812892764691, 
+      "municipality": "Herve", 
+      "pcode": "4651", 
+      "source": "7736085", 
+      "street": "Rue de Maestricht"
+    }, 
+    {
+      "hnrlbls": [
+        "48E"
+      ], 
+      "housenumber": "48E", 
+      "lat": 50.650764123355, 
+      "lon": 5.81184606014, 
+      "municipality": "Herve", 
+      "pcode": "4651", 
+      "source": "7736085", 
+      "street": "Rue de Maestricht"
+    }, 
+    {
+      "hnrlbls": [
         "49"
       ], 
       "housenumber": "49", 
@@ -553,6 +648,9 @@
       "street": "Rue de Maestricht"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -614,6 +712,18 @@
     }, 
     {
       "hnrlbls": [
+        "55"
+      ], 
+      "housenumber": "55", 
+      "lat": 50.650071755788, 
+      "lon": 5.811187374334, 
+      "municipality": "Herve", 
+      "pcode": "4651", 
+      "source": "7736085", 
+      "street": "Rue de Maestricht"
+    }, 
+    {
+      "hnrlbls": [
         "56"
       ], 
       "housenumber": "56", 
@@ -662,11 +772,35 @@
     }, 
     {
       "hnrlbls": [
+        "61"
+      ], 
+      "housenumber": "61", 
+      "lat": 50.650730246533, 
+      "lon": 5.809433367248, 
+      "municipality": "Herve", 
+      "pcode": "4651", 
+      "source": "7736085", 
+      "street": "Rue de Maestricht"
+    }, 
+    {
+      "hnrlbls": [
         "62"
       ], 
       "housenumber": "62", 
       "lat": 50.650594990139, 
       "lon": 5.810662125679, 
+      "municipality": "Herve", 
+      "pcode": "4651", 
+      "source": "7736085", 
+      "street": "Rue de Maestricht"
+    }, 
+    {
+      "hnrlbls": [
+        "63"
+      ], 
+      "housenumber": "63", 
+      "lat": 50.650731081019, 
+      "lon": 5.808962539506, 
       "municipality": "Herve", 
       "pcode": "4651", 
       "source": "7736085", 
@@ -685,6 +819,10 @@
       "street": "Rue de Maestricht"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "66"
       ], 
@@ -733,6 +871,10 @@
       "street": "Rue de Maestricht"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "rez"
+      ], 
       "hnrlbls": [
         "8"
       ], 
@@ -746,11 +888,47 @@
     }, 
     {
       "hnrlbls": [
+        "88"
+      ], 
+      "housenumber": "88", 
+      "lat": 50.653448934526, 
+      "lon": 5.801804203768, 
+      "municipality": "Herve", 
+      "pcode": "4651", 
+      "source": "7736085", 
+      "street": "Rue de Maestricht"
+    }, 
+    {
+      "hnrlbls": [
         "9"
       ], 
       "housenumber": "9", 
       "lat": 50.648875991556, 
       "lon": 5.819336073047, 
+      "municipality": "Herve", 
+      "pcode": "4651", 
+      "source": "7736085", 
+      "street": "Rue de Maestricht"
+    }, 
+    {
+      "hnrlbls": [
+        "90"
+      ], 
+      "housenumber": "90", 
+      "lat": 50.654057515714, 
+      "lon": 5.800708777538, 
+      "municipality": "Herve", 
+      "pcode": "4651", 
+      "source": "7736085", 
+      "street": "Rue de Maestricht"
+    }, 
+    {
+      "hnrlbls": [
+        "92"
+      ], 
+      "housenumber": "92", 
+      "lat": 50.654037440366, 
+      "lon": 5.799940253236, 
       "municipality": "Herve", 
       "pcode": "4651", 
       "source": "7736085", 

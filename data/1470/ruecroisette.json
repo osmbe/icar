@@ -97,6 +97,10 @@
       "street": "Rue Croisette"
     }, 
     {
+      "busnrs": [
+        "000B", 
+        "Bbt1"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -265,6 +269,9 @@
       "street": "Rue Croisette"
     }, 
     {
+      "busnrs": [
+        "Bte1"
+      ], 
       "hnrlbls": [
         "37"
       ], 
@@ -331,6 +338,18 @@
       "housenumber": "42", 
       "lat": 50.592521513852, 
       "lon": 4.487313689584, 
+      "municipality": "Genappe", 
+      "pcode": "1470", 
+      "source": "7701546", 
+      "street": "Rue Croisette"
+    }, 
+    {
+      "hnrlbls": [
+        "43A"
+      ], 
+      "housenumber": "43A", 
+      "lat": 50.592584880054, 
+      "lon": 4.489877992144, 
       "municipality": "Genappe", 
       "pcode": "1470", 
       "source": "7701546", 

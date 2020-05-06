@@ -25,12 +25,30 @@
       "street": "Rue de Miraufontaine"
     }, 
     {
-      "hnrlbls": [
-        "20A"
+      "busnrs": [
+        "A", 
+        "B", 
+        "C", 
+        "D"
       ], 
-      "housenumber": "20A", 
+      "hnrlbls": [
+        "20"
+      ], 
+      "housenumber": "20", 
       "lat": 49.909801962305, 
       "lon": 4.98785361286, 
+      "municipality": "Bi\u00e8vre", 
+      "pcode": "5555", 
+      "source": "7748642", 
+      "street": "Rue de Miraufontaine"
+    }, 
+    {
+      "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 49.910196287784, 
+      "lon": 4.988883765456, 
       "municipality": "Bi\u00e8vre", 
       "pcode": "5555", 
       "source": "7748642", 

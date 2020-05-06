@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0003", 
+        "0004", 
+        "2"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -193,6 +199,12 @@
       "street": "Rue de la Coop\u00e9ration"
     }, 
     {
+      "busnrs": [
+        "0004", 
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -265,6 +277,11 @@
       "street": "Rue de la Coop\u00e9ration"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -277,6 +294,12 @@
       "street": "Rue de la Coop\u00e9ration"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0004", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -289,6 +312,12 @@
       "street": "Rue de la Coop\u00e9ration"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "0003", 
+        "1", 
+        "4"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -301,6 +330,12 @@
       "street": "Rue de la Coop\u00e9ration"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "1", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -409,6 +444,12 @@
       "street": "Rue de la Coop\u00e9ration"
     }, 
     {
+      "busnrs": [
+        "0004", 
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -518,6 +559,18 @@
     }, 
     {
       "hnrlbls": [
+        "69"
+      ], 
+      "housenumber": "69", 
+      "lat": 50.590972040696, 
+      "lon": 5.506826259874, 
+      "municipality": "Seraing", 
+      "pcode": "4100", 
+      "source": "7732228", 
+      "street": "Rue de la Coop\u00e9ration"
+    }, 
+    {
+      "hnrlbls": [
         "70"
       ], 
       "housenumber": "70", 
@@ -589,6 +642,12 @@
       "street": "Rue de la Coop\u00e9ration"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "8"
       ], 
@@ -631,6 +690,18 @@
       "housenumber": "87", 
       "lat": 50.590624510598, 
       "lon": 5.506291296202, 
+      "municipality": "Seraing", 
+      "pcode": "4100", 
+      "source": "7732228", 
+      "street": "Rue de la Coop\u00e9ration"
+    }, 
+    {
+      "hnrlbls": [
+        "88"
+      ], 
+      "housenumber": "88", 
+      "lat": 50.59072271926, 
+      "lon": 5.505986620492, 
       "municipality": "Seraing", 
       "pcode": "4100", 
       "source": "7732228", 

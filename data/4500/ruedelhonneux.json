@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0003"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +16,10 @@
       "street": "Rue de Lhonneux"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "0RCH"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -37,6 +44,9 @@
       "street": "Rue de Lhonneux"
     }, 
     {
+      "busnrs": [
+        "0RCH"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -49,6 +59,20 @@
       "street": "Rue de Lhonneux"
     }, 
     {
+      "busnrs": [
+        "0RCH", 
+        "A/11", 
+        "A/12", 
+        "ARC2", 
+        "Arc1", 
+        "D/12", 
+        "D/21", 
+        "D/31", 
+        "D/41", 
+        "E/02", 
+        "E/11", 
+        "ERCH"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -73,6 +97,9 @@
       "street": "Rue de Lhonneux"
     }, 
     {
+      "busnrs": [
+        "0002"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -85,6 +112,12 @@
       "street": "Rue de Lhonneux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0RCH", 
+        "RCH"
+      ], 
       "hnrlbls": [
         "3"
       ], 

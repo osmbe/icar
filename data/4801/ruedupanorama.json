@@ -49,6 +49,9 @@
       "street": "Rue du Panorama"
     }, 
     {
+      "busnrs": [
+        "rez."
+      ], 
       "hnrlbls": [
         "103"
       ], 
@@ -362,6 +365,18 @@
     }, 
     {
       "hnrlbls": [
+        "128"
+      ], 
+      "housenumber": "128", 
+      "lat": 50.589764874154, 
+      "lon": 5.881338581588, 
+      "municipality": "Verviers", 
+      "pcode": "4801", 
+      "source": "7738957", 
+      "street": "Rue du Panorama"
+    }, 
+    {
+      "hnrlbls": [
         "129"
       ], 
       "housenumber": "129", 
@@ -421,6 +436,11 @@
       "street": "Rue du Panorama"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "102", 
+        "203"
+      ], 
       "hnrlbls": [
         "135"
       ], 
@@ -541,6 +561,9 @@
       "street": "Rue du Panorama"
     }, 
     {
+      "busnrs": [
+        "rez."
+      ], 
       "hnrlbls": [
         "144"
       ], 
@@ -583,6 +606,18 @@
       "housenumber": "147", 
       "lat": 50.58951487589, 
       "lon": 5.88043024774, 
+      "municipality": "Verviers", 
+      "pcode": "4801", 
+      "source": "7738957", 
+      "street": "Rue du Panorama"
+    }, 
+    {
+      "hnrlbls": [
+        "147A"
+      ], 
+      "housenumber": "147A", 
+      "lat": 50.589502209724, 
+      "lon": 5.880355092936, 
       "municipality": "Verviers", 
       "pcode": "4801", 
       "source": "7738957", 
@@ -745,6 +780,9 @@
       "street": "Rue du Panorama"
     }, 
     {
+      "busnrs": [
+        "2\u00e9t."
+      ], 
       "hnrlbls": [
         "160"
       ], 
@@ -763,6 +801,18 @@
       "housenumber": "161", 
       "lat": 50.589505516922, 
       "lon": 5.879690787111, 
+      "municipality": "Verviers", 
+      "pcode": "4801", 
+      "source": "7738957", 
+      "street": "Rue du Panorama"
+    }, 
+    {
+      "hnrlbls": [
+        "162"
+      ], 
+      "housenumber": "162", 
+      "lat": 50.589788398269, 
+      "lon": 5.879988239367, 
       "municipality": "Verviers", 
       "pcode": "4801", 
       "source": "7738957", 
@@ -925,6 +975,9 @@
       "street": "Rue du Panorama"
     }, 
     {
+      "busnrs": [
+        "rez."
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -1033,6 +1086,10 @@
       "street": "Rue du Panorama"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "Rez."
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -1075,6 +1132,18 @@
       "housenumber": "29", 
       "lat": 50.588359744953, 
       "lon": 5.887734017617, 
+      "municipality": "Verviers", 
+      "pcode": "4801", 
+      "source": "7738957", 
+      "street": "Rue du Panorama"
+    }, 
+    {
+      "hnrlbls": [
+        "2B"
+      ], 
+      "housenumber": "2B", 
+      "lat": 50.588389286821, 
+      "lon": 5.888431511319, 
       "municipality": "Verviers", 
       "pcode": "4801", 
       "source": "7738957", 
@@ -1273,12 +1342,29 @@
       "street": "Rue du Panorama"
     }, 
     {
+      "busnrs": [
+        "A1\u00e9t", 
+        "A2\u00e9t", 
+        "Arez"
+      ], 
       "hnrlbls": [
         "45"
       ], 
       "housenumber": "45", 
       "lat": 50.588509591394, 
       "lon": 5.887136656149, 
+      "municipality": "Verviers", 
+      "pcode": "4801", 
+      "source": "7738957", 
+      "street": "Rue du Panorama"
+    }, 
+    {
+      "hnrlbls": [
+        "45A"
+      ], 
+      "housenumber": "45A", 
+      "lat": 50.588544153001, 
+      "lon": 5.887051317947, 
       "municipality": "Verviers", 
       "pcode": "4801", 
       "source": "7738957", 
@@ -1369,6 +1455,10 @@
       "street": "Rue du Panorama"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "rez."
+      ], 
       "hnrlbls": [
         "56"
       ], 
@@ -1469,8 +1559,8 @@
         "69"
       ], 
       "housenumber": "69", 
-      "lat": 50.589361115928, 
-      "lon": 5.883747094958, 
+      "lat": 50.589398104648, 
+      "lon": 5.883761247912, 
       "municipality": "Verviers", 
       "pcode": "4801", 
       "source": "7738957", 
@@ -1601,8 +1691,8 @@
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 50.589377333285, 
-      "lon": 5.883529454829, 
+      "lat": 50.589416006022, 
+      "lon": 5.883515736521, 
       "municipality": "Verviers", 
       "pcode": "4801", 
       "source": "7738957", 
@@ -1651,6 +1741,18 @@
       "housenumber": "8", 
       "lat": 50.588824464507, 
       "lon": 5.886847217333, 
+      "municipality": "Verviers", 
+      "pcode": "4801", 
+      "source": "7738957", 
+      "street": "Rue du Panorama"
+    }, 
+    {
+      "hnrlbls": [
+        "80"
+      ], 
+      "housenumber": "80", 
+      "lat": 50.589631642246, 
+      "lon": 5.883282125354, 
       "municipality": "Verviers", 
       "pcode": "4801", 
       "source": "7738957", 
@@ -1741,6 +1843,9 @@
       "street": "Rue du Panorama"
     }, 
     {
+      "busnrs": [
+        "rez."
+      ], 
       "hnrlbls": [
         "88"
       ], 
@@ -1802,6 +1907,18 @@
     }, 
     {
       "hnrlbls": [
+        "92"
+      ], 
+      "housenumber": "92", 
+      "lat": 50.589749806386, 
+      "lon": 5.882839381726, 
+      "municipality": "Verviers", 
+      "pcode": "4801", 
+      "source": "7738957", 
+      "street": "Rue du Panorama"
+    }, 
+    {
+      "hnrlbls": [
         "93"
       ], 
       "housenumber": "93", 
@@ -1825,6 +1942,10 @@
       "street": "Rue du Panorama"
     }, 
     {
+      "busnrs": [
+        "1+2\u00e9", 
+        "Rez."
+      ], 
       "hnrlbls": [
         "95"
       ], 

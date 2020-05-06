@@ -133,6 +133,10 @@
       "street": "Rue des Bruy\u00e8res"
     }, 
     {
+      "busnrs": [
+        "Cbt1", 
+        "Cbt2"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -169,6 +173,10 @@
       "street": "Rue des Bruy\u00e8res"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2"
+      ], 
       "hnrlbls": [
         "25C"
       ], 
@@ -269,8 +277,8 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 50.310441804621, 
-      "lon": 4.818154269025, 
+      "lat": 50.310439666671, 
+      "lon": 4.818186225029, 
       "municipality": "Anh\u00e9e", 
       "pcode": "5537", 
       "source": "7748314", 
@@ -361,6 +369,21 @@
       "street": "Rue des Bruy\u00e8res"
     }, 
     {
+      "hnrlbls": [
+        "40"
+      ], 
+      "housenumber": "40", 
+      "lat": 50.311054611298, 
+      "lon": 4.817350419926, 
+      "municipality": "Anh\u00e9e", 
+      "pcode": "5537", 
+      "source": "7748314", 
+      "street": "Rue des Bruy\u00e8res"
+    }, 
+    {
+      "busnrs": [
+        "Bte2"
+      ], 
       "hnrlbls": [
         "41"
       ], 

@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -109,6 +112,9 @@
       "street": "Rue du Point d'Arr\u00eat"
     }, 
     {
+      "busnrs": [
+        "000B"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -121,6 +127,10 @@
       "street": "Rue du Point d'Arr\u00eat"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "000B"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -385,6 +395,9 @@
       "street": "Rue du Point d'Arr\u00eat"
     }, 
     {
+      "busnrs": [
+        "000B"
+      ], 
       "hnrlbls": [
         "8"
       ], 

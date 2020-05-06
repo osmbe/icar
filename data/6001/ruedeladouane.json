@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -13,6 +16,11 @@
       "street": "Rue de la Douane"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "011", 
+        "021"
+      ], 
       "hnrlbls": [
         "12"
       ], 

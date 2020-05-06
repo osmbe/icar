@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -55,6 +58,18 @@
       "housenumber": "16", 
       "lat": 49.795301166735, 
       "lon": 5.069424296356, 
+      "municipality": "Bouillon", 
+      "pcode": "6830", 
+      "source": "7745096", 
+      "street": "Grand-Rue"
+    }, 
+    {
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 49.794940429063, 
+      "lon": 5.069525371323, 
       "municipality": "Bouillon", 
       "pcode": "6830", 
       "source": "7745096", 

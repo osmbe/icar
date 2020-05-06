@@ -109,6 +109,17 @@
       "street": "Rue d'Elvaux"
     }, 
     {
+      "busnrs": [
+        "12", 
+        "13", 
+        "14", 
+        "15", 
+        "31", 
+        "32", 
+        "33", 
+        "rez1", 
+        "rez2"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -265,6 +276,10 @@
       "street": "Rue d'Elvaux"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "rez"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -397,12 +412,27 @@
       "street": "Rue d'Elvaux"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "42"
       ], 
       "housenumber": "42", 
       "lat": 50.638233700576, 
       "lon": 5.79546997886, 
+      "municipality": "Herve", 
+      "pcode": "4650", 
+      "source": "7736092", 
+      "street": "Rue d'Elvaux"
+    }, 
+    {
+      "hnrlbls": [
+        "42A"
+      ], 
+      "housenumber": "42A", 
+      "lat": 50.638191162157, 
+      "lon": 5.795522110853, 
       "municipality": "Herve", 
       "pcode": "4650", 
       "source": "7736092", 
@@ -553,6 +583,12 @@
       "street": "Rue d'Elvaux"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -565,6 +601,10 @@
       "street": "Rue d'Elvaux"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "rez1"
+      ], 
       "hnrlbls": [
         "60"
       ], 
@@ -601,12 +641,27 @@
       "street": "Rue d'Elvaux"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "66"
       ], 
       "housenumber": "66", 
       "lat": 50.637323013406, 
       "lon": 5.796012318245, 
+      "municipality": "Herve", 
+      "pcode": "4650", 
+      "source": "7736092", 
+      "street": "Rue d'Elvaux"
+    }, 
+    {
+      "hnrlbls": [
+        "66A"
+      ], 
+      "housenumber": "66A", 
+      "lat": 50.637417232695, 
+      "lon": 5.795810477331, 
       "municipality": "Herve", 
       "pcode": "4650", 
       "source": "7736092", 
@@ -637,6 +692,11 @@
       "street": "Rue d'Elvaux"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "rez"
+      ], 
       "hnrlbls": [
         "70"
       ], 
@@ -649,6 +709,10 @@
       "street": "Rue d'Elvaux"
     }, 
     {
+      "busnrs": [
+        "A/1", 
+        "A/rez"
+      ], 
       "hnrlbls": [
         "72"
       ], 
@@ -709,6 +773,10 @@
       "street": "Rue d'Elvaux"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "9"
       ], 

@@ -2,11 +2,11 @@
   "addresses": [
     {
       "hnrlbls": [
-        "111"
+        "100"
       ], 
-      "housenumber": "111", 
-      "lat": 49.882134602126, 
-      "lon": 5.73798219827, 
+      "housenumber": "100", 
+      "lat": 49.883456773986, 
+      "lon": 5.742990636932, 
       "municipality": "Fauvillers", 
       "pcode": "6637", 
       "source": "7742603", 
@@ -14,11 +14,38 @@
     }, 
     {
       "hnrlbls": [
+        "104"
+      ], 
+      "housenumber": "104", 
+      "lat": 49.883554769099, 
+      "lon": 5.74210789544, 
+      "municipality": "Fauvillers", 
+      "pcode": "6637", 
+      "source": "7742603", 
+      "street": "Route de Strainchamps"
+    }, 
+    {
+      "hnrlbls": [
+        "111"
+      ], 
+      "housenumber": "111", 
+      "lat": 49.881855474289, 
+      "lon": 5.737603593405, 
+      "municipality": "Fauvillers", 
+      "pcode": "6637", 
+      "source": "7742603", 
+      "street": "Route de Strainchamps"
+    }, 
+    {
+      "busnrs": [
+        "Bte A"
+      ], 
+      "hnrlbls": [
         "113"
       ], 
       "housenumber": "113", 
-      "lat": 49.882021970562, 
-      "lon": 5.738308350509, 
+      "lat": 49.882134602126, 
+      "lon": 5.73798219827, 
       "municipality": "Fauvillers", 
       "pcode": "6637", 
       "source": "7742603", 
@@ -29,8 +56,8 @@
         "115"
       ], 
       "housenumber": "115", 
-      "lat": 49.881876032726, 
-      "lon": 5.737625352329, 
+      "lat": 49.882021970562, 
+      "lon": 5.738308350509, 
       "municipality": "Fauvillers", 
       "pcode": "6637", 
       "source": "7742603", 
@@ -121,6 +148,9 @@
       "street": "Route de Strainchamps"
     }, 
     {
+      "busnrs": [
+        "Bte A"
+      ], 
       "hnrlbls": [
         "87"
       ], 
@@ -149,8 +179,8 @@
         "91"
       ], 
       "housenumber": "91", 
-      "lat": 49.882904185688, 
-      "lon": 5.742969302493, 
+      "lat": 49.881960747222, 
+      "lon": 5.74197514441, 
       "municipality": "Fauvillers", 
       "pcode": "6637", 
       "source": "7742603", 
@@ -173,8 +203,8 @@
         "99"
       ], 
       "housenumber": "99", 
-      "lat": 49.881960747222, 
-      "lon": 5.74197514441, 
+      "lat": 49.882904185688, 
+      "lon": 5.742969302493, 
       "municipality": "Fauvillers", 
       "pcode": "6637", 
       "source": "7742603", 

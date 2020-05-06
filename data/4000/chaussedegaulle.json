@@ -73,6 +73,11 @@
       "street": "Chauss\u00e9e de-Gaulle"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -85,6 +90,12 @@
       "street": "Chauss\u00e9e de-Gaulle"
     }, 
     {
+      "busnrs": [
+        "B001", 
+        "B011", 
+        "B021", 
+        "B031"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -97,12 +108,60 @@
       "street": "Chauss\u00e9e de-Gaulle"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
+      "hnrlbls": [
+        "24B"
+      ], 
+      "housenumber": "24B", 
+      "lat": 50.645311917644, 
+      "lon": 5.529793862896, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729708", 
+      "street": "Chauss\u00e9e de-Gaulle"
+    }, 
+    {
       "hnrlbls": [
         "26"
       ], 
       "housenumber": "26", 
       "lat": 50.645317600183, 
       "lon": 5.529588682748, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729708", 
+      "street": "Chauss\u00e9e de-Gaulle"
+    }, 
+    {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
+      "hnrlbls": [
+        "28"
+      ], 
+      "housenumber": "28", 
+      "lat": 50.645375299343, 
+      "lon": 5.52942380998, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729708", 
+      "street": "Chauss\u00e9e de-Gaulle"
+    }, 
+    {
+      "hnrlbls": [
+        "30"
+      ], 
+      "housenumber": "30", 
+      "lat": 50.645952461773, 
+      "lon": 5.529086612846, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7729708", 

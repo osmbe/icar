@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0002"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -61,6 +64,14 @@
       "street": "Rue de l'Ancienne Gare"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2", 
+        "Bte3", 
+        "Bte4", 
+        "Bte5", 
+        "Bte6"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -73,6 +84,10 @@
       "street": "Rue de l'Ancienne Gare"
     }, 
     {
+      "busnrs": [
+        "0005", 
+        "Bte4"
+      ], 
       "hnrlbls": [
         "8"
       ], 

@@ -637,6 +637,9 @@
       "street": "Rue de Priesmont"
     }, 
     {
+      "busnrs": [
+        "1Etg"
+      ], 
       "hnrlbls": [
         "166"
       ], 
@@ -914,6 +917,18 @@
     }, 
     {
       "hnrlbls": [
+        "198"
+      ], 
+      "housenumber": "198", 
+      "lat": 50.553548616762, 
+      "lon": 4.545369929681, 
+      "municipality": "Villers-la-Ville", 
+      "pcode": "1495", 
+      "source": "7704041", 
+      "street": "Rue de Priesmont"
+    }, 
+    {
+      "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
@@ -941,8 +956,8 @@
         "202"
       ], 
       "housenumber": "202", 
-      "lat": 50.553734755472, 
-      "lon": 4.545307060993, 
+      "lat": 50.553716559463, 
+      "lon": 4.545306432593, 
       "municipality": "Villers-la-Ville", 
       "pcode": "1495", 
       "source": "7704041", 
@@ -953,8 +968,8 @@
         "204"
       ], 
       "housenumber": "204", 
-      "lat": 50.553946138907, 
-      "lon": 4.545320186457, 
+      "lat": 50.553943566905, 
+      "lon": 4.545798895187, 
       "municipality": "Villers-la-Ville", 
       "pcode": "1495", 
       "source": "7704041", 
@@ -1009,6 +1024,11 @@
       "street": "Rue de Priesmont"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -1033,6 +1053,14 @@
       "street": "Rue de Priesmont"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -1165,6 +1193,13 @@
       "street": "Rue de Priesmont"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "47"
       ], 
@@ -1229,8 +1264,20 @@
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 50.548079808481, 
-      "lon": 4.538308959583, 
+      "lat": 50.548158616256, 
+      "lon": 4.538167327136, 
+      "municipality": "Villers-la-Ville", 
+      "pcode": "1495", 
+      "source": "7704041", 
+      "street": "Rue de Priesmont"
+    }, 
+    {
+      "hnrlbls": [
+        "54"
+      ], 
+      "housenumber": "54", 
+      "lat": 50.546924903394, 
+      "lon": 4.537140318503, 
       "municipality": "Villers-la-Ville", 
       "pcode": "1495", 
       "source": "7704041", 
@@ -1441,12 +1488,33 @@
       "street": "Rue de Priesmont"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
       "lat": 50.546357951102, 
       "lon": 4.535572472813, 
+      "municipality": "Villers-la-Ville", 
+      "pcode": "1495", 
+      "source": "7704041", 
+      "street": "Rue de Priesmont"
+    }, 
+    {
+      "busnrs": [
+        "1Etg", 
+        "2Etg"
+      ], 
+      "hnrlbls": [
+        "80"
+      ], 
+      "housenumber": "80", 
+      "lat": 50.547583080818, 
+      "lon": 4.538189397961, 
       "municipality": "Villers-la-Ville", 
       "pcode": "1495", 
       "source": "7704041", 
@@ -1585,12 +1653,19 @@
       "street": "Rue de Priesmont"
     }, 
     {
+      "busnrs": [
+        "1EtD", 
+        "1EtG", 
+        "2EtD", 
+        "2EtG", 
+        "Rez."
+      ], 
       "hnrlbls": [
         "94"
       ], 
       "housenumber": "94", 
-      "lat": 50.54803262528, 
-      "lon": 4.539396692252, 
+      "lat": 50.548076498292, 
+      "lon": 4.539324427237, 
       "municipality": "Villers-la-Ville", 
       "pcode": "1495", 
       "source": "7704041", 

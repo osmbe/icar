@@ -37,6 +37,9 @@
       "street": "Baclain"
     }, 
     {
+      "busnrs": [
+        "App"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -265,6 +268,11 @@
       "street": "Baclain"
     }, 
     {
+      "busnrs": [
+        "/0001", 
+        "/0002", 
+        "/0003"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -277,6 +285,11 @@
       "street": "Baclain"
     }, 
     {
+      "busnrs": [
+        "Bte 0.1", 
+        "Bte 0.2", 
+        "Bte 0.3"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -325,6 +338,9 @@
       "street": "Baclain"
     }, 
     {
+      "busnrs": [
+        "App."
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -559,6 +575,18 @@
       "housenumber": "43A", 
       "lat": 50.195489400651, 
       "lon": 5.862096902662, 
+      "municipality": "Gouvy", 
+      "pcode": "6674", 
+      "source": "7742972", 
+      "street": "Baclain"
+    }, 
+    {
+      "hnrlbls": [
+        "43B"
+      ], 
+      "housenumber": "43B", 
+      "lat": 50.19607152337, 
+      "lon": 5.860501107344, 
       "municipality": "Gouvy", 
       "pcode": "6674", 
       "source": "7742972", 

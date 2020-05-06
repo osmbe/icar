@@ -85,18 +85,11 @@
       "street": "Rue des Martyrs"
     }, 
     {
-      "hnrlbls": [
-        "24"
+      "busnrs": [
+        "1", 
+        "2", 
+        "5rez"
       ], 
-      "housenumber": "24", 
-      "lat": 50.639911959243, 
-      "lon": 5.783535567926, 
-      "municipality": "Herve", 
-      "pcode": "4650", 
-      "source": "7736109", 
-      "street": "Rue des Martyrs"
-    }, 
-    {
       "hnrlbls": [
         "3"
       ], 
@@ -133,6 +126,10 @@
       "street": "Rue des Martyrs"
     }, 
     {
+      "busnrs": [
+        "rez1", 
+        "rez2"
+      ], 
       "hnrlbls": [
         "41"
       ], 
@@ -157,6 +154,10 @@
       "street": "Rue des Martyrs"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "rez"
+      ], 
       "hnrlbls": [
         "43"
       ], 
@@ -169,6 +170,10 @@
       "street": "Rue des Martyrs"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "rez"
+      ], 
       "hnrlbls": [
         "45"
       ], 
@@ -181,6 +186,11 @@
       "street": "Rue des Martyrs"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "Brez", 
+        "rez"
+      ], 
       "hnrlbls": [
         "47"
       ], 
@@ -277,6 +287,10 @@
       "street": "Rue des Martyrs"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "rez"
+      ], 
       "hnrlbls": [
         "57"
       ], 
@@ -398,6 +412,34 @@
     }, 
     {
       "hnrlbls": [
+        "69"
+      ], 
+      "housenumber": "69", 
+      "lat": 50.63967749609, 
+      "lon": 5.783931837886, 
+      "municipality": "Herve", 
+      "pcode": "4650", 
+      "source": "7736109", 
+      "street": "Rue des Martyrs"
+    }, 
+    {
+      "hnrlbls": [
+        "69A"
+      ], 
+      "housenumber": "69A", 
+      "lat": 50.639601565419, 
+      "lon": 5.783993908772, 
+      "municipality": "Herve", 
+      "pcode": "4650", 
+      "source": "7736109", 
+      "street": "Rue des Martyrs"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "rez"
+      ], 
+      "hnrlbls": [
         "71"
       ], 
       "housenumber": "71", 
@@ -439,6 +481,23 @@
       "housenumber": "79", 
       "lat": 50.639386379155, 
       "lon": 5.783150777982, 
+      "municipality": "Herve", 
+      "pcode": "4650", 
+      "source": "7736109", 
+      "street": "Rue des Martyrs"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "rez"
+      ], 
+      "hnrlbls": [
+        "81"
+      ], 
+      "housenumber": "81", 
+      "lat": 50.639316671495, 
+      "lon": 5.783052429523, 
       "municipality": "Herve", 
       "pcode": "4650", 
       "source": "7736109", 

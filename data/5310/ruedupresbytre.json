@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -37,6 +41,9 @@
       "street": "Rue du Presbyt\u00e8re"
     }, 
     {
+      "busnrs": [
+        "Bte1"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -55,6 +62,18 @@
       "housenumber": "20", 
       "lat": 50.624082597264, 
       "lon": 4.956861055164, 
+      "municipality": "Eghez\u00e9e", 
+      "pcode": "5310", 
+      "source": "7752180", 
+      "street": "Rue du Presbyt\u00e8re"
+    }, 
+    {
+      "hnrlbls": [
+        "22"
+      ], 
+      "housenumber": "22", 
+      "lat": 50.624114728966, 
+      "lon": 4.95718257274, 
       "municipality": "Eghez\u00e9e", 
       "pcode": "5310", 
       "source": "7752180", 

@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -77,8 +80,8 @@
         "12B"
       ], 
       "housenumber": "12B", 
-      "lat": 50.638452436457, 
-      "lon": 4.59515506619, 
+      "lat": 50.638462751686, 
+      "lon": 4.595050533318, 
       "municipality": "Court-Saint-Etienne", 
       "pcode": "1490", 
       "source": "7701371", 
@@ -422,6 +425,18 @@
     }, 
     {
       "hnrlbls": [
+        "2B"
+      ], 
+      "housenumber": "2B", 
+      "lat": 50.639870029127, 
+      "lon": 4.596082372744, 
+      "municipality": "Court-Saint-Etienne", 
+      "pcode": "1490", 
+      "source": "7701371", 
+      "street": "Rue Vital Casse"
+    }, 
+    {
+      "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
@@ -497,8 +512,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.639716750455, 
-      "lon": 4.595980543407, 
+      "lat": 50.63974045751, 
+      "lon": 4.59602086817, 
       "municipality": "Court-Saint-Etienne", 
       "pcode": "1490", 
       "source": "7701371", 

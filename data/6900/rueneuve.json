@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -25,12 +28,44 @@
       "street": "Rue Neuve"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "13"
       ], 
       "housenumber": "13", 
       "lat": 50.224741234735, 
       "lon": 5.344630005541, 
+      "municipality": "Marche-en-Famenne", 
+      "pcode": "6900", 
+      "source": "7744227", 
+      "street": "Rue Neuve"
+    }, 
+    {
+      "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 50.225066762977, 
+      "lon": 5.344598195062, 
+      "municipality": "Marche-en-Famenne", 
+      "pcode": "6900", 
+      "source": "7744227", 
+      "street": "Rue Neuve"
+    }, 
+    {
+      "busnrs": [
+        "11", 
+        "21"
+      ], 
+      "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 50.225021528127, 
+      "lon": 5.344610610184, 
       "municipality": "Marche-en-Famenne", 
       "pcode": "6900", 
       "source": "7744227", 
@@ -49,6 +84,9 @@
       "street": "Rue Neuve"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "9"
       ], 

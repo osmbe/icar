@@ -25,6 +25,12 @@
       "street": "Rue de la Copette"
     }, 
     {
+      "busnrs": [
+        "bt1", 
+        "bt2", 
+        "bt3", 
+        "bt4"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -301,6 +307,9 @@
       "street": "Rue de la Copette"
     }, 
     {
+      "busnrs": [
+        "bt1"
+      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -325,6 +334,9 @@
       "street": "Rue de la Copette"
     }, 
     {
+      "busnrs": [
+        "bt2"
+      ], 
       "hnrlbls": [
         "36"
       ], 
@@ -353,8 +365,8 @@
         "37A"
       ], 
       "housenumber": "37A", 
-      "lat": 50.1644304466, 
-      "lon": 5.706568451575, 
+      "lat": 50.164477987819, 
+      "lon": 5.706610353515, 
       "municipality": "Houffalize", 
       "pcode": "6666", 
       "source": "7742719", 

@@ -37,6 +37,12 @@
       "street": "Grand-Rue"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B", 
+        "C", 
+        "D"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -73,6 +79,11 @@
       "street": "Grand-Rue"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B", 
+        "C"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -97,6 +108,11 @@
       "street": "Grand-Rue"
     }, 
     {
+      "busnrs": [
+        "B", 
+        "C", 
+        "D"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -137,14 +153,29 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 49.831802037727, 
-      "lon": 5.739227458149, 
+      "lat": 49.831843334331, 
+      "lon": 5.739300467108, 
       "municipality": "Martelange", 
       "pcode": "6630", 
       "source": "7742148", 
       "street": "Grand-Rue"
     }, 
     {
+      "hnrlbls": [
+        "1A"
+      ], 
+      "housenumber": "1A", 
+      "lat": 49.832691473916, 
+      "lon": 5.740915382584, 
+      "municipality": "Martelange", 
+      "pcode": "6630", 
+      "source": "7742148", 
+      "street": "Grand-Rue"
+    }, 
+    {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -157,12 +188,27 @@
       "street": "Grand-Rue"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "20"
       ], 
       "housenumber": "20", 
       "lat": 49.832012045521, 
       "lon": 5.739134487976, 
+      "municipality": "Martelange", 
+      "pcode": "6630", 
+      "source": "7742148", 
+      "street": "Grand-Rue"
+    }, 
+    {
+      "hnrlbls": [
+        "21"
+      ], 
+      "housenumber": "21", 
+      "lat": 49.831802037727, 
+      "lon": 5.739227458149, 
       "municipality": "Martelange", 
       "pcode": "6630", 
       "source": "7742148", 
@@ -182,11 +228,23 @@
     }, 
     {
       "hnrlbls": [
+        "22A"
+      ], 
+      "housenumber": "22A", 
+      "lat": 49.831953149312, 
+      "lon": 5.739051467713, 
+      "municipality": "Martelange", 
+      "pcode": "6630", 
+      "source": "7742148", 
+      "street": "Grand-Rue"
+    }, 
+    {
+      "hnrlbls": [
         "22B"
       ], 
       "housenumber": "22B", 
-      "lat": 49.831953149312, 
-      "lon": 5.739051467713, 
+      "lat": 49.831907510968, 
+      "lon": 5.738949335966, 
       "municipality": "Martelange", 
       "pcode": "6630", 
       "source": "7742148", 
@@ -197,14 +255,19 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 49.831628410809, 
-      "lon": 5.738980293323, 
+      "lat": 49.831557993997, 
+      "lon": 5.738870145607, 
       "municipality": "Martelange", 
       "pcode": "6630", 
       "source": "7742148", 
       "street": "Grand-Rue"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -241,6 +304,14 @@
       "street": "Grand-Rue"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -269,8 +340,8 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 49.831456471568, 
-      "lon": 5.738694921415, 
+      "lat": 49.831380424404, 
+      "lon": 5.738565426959, 
       "municipality": "Martelange", 
       "pcode": "6630", 
       "source": "7742148", 
@@ -301,6 +372,10 @@
       "street": "Grand-Rue"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -319,6 +394,18 @@
       "housenumber": "32", 
       "lat": 49.831104067089, 
       "lon": 5.737838585679, 
+      "municipality": "Martelange", 
+      "pcode": "6630", 
+      "source": "7742148", 
+      "street": "Grand-Rue"
+    }, 
+    {
+      "hnrlbls": [
+        "33"
+      ], 
+      "housenumber": "33", 
+      "lat": 49.831143939463, 
+      "lon": 5.738217367012, 
       "municipality": "Martelange", 
       "pcode": "6630", 
       "source": "7742148", 
@@ -349,6 +436,9 @@
       "street": "Grand-Rue"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -379,6 +469,18 @@
       "housenumber": "7", 
       "lat": 49.832309282827, 
       "lon": 5.739908803131, 
+      "municipality": "Martelange", 
+      "pcode": "6630", 
+      "source": "7742148", 
+      "street": "Grand-Rue"
+    }, 
+    {
+      "hnrlbls": [
+        "7A"
+      ], 
+      "housenumber": "7A", 
+      "lat": 49.832241395087, 
+      "lon": 5.739839468033, 
       "municipality": "Martelange", 
       "pcode": "6630", 
       "source": "7742148", 

@@ -2,6 +2,18 @@
   "addresses": [
     {
       "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.596718386032, 
+      "lon": 4.32284329248, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703041", 
+      "street": "Rue de Mons"
+    }, 
+    {
+      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -13,6 +25,13 @@
       "street": "Rue de Mons"
     }, 
     {
+      "busnrs": [
+        "0003", 
+        "Bt01", 
+        "Bt02", 
+        "Bt04", 
+        "Bt05"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -25,6 +44,9 @@
       "street": "Rue de Mons"
     }, 
     {
+      "busnrs": [
+        "Bt02"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -37,6 +59,12 @@
       "street": "Rue de Mons"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "RDCH"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -49,6 +77,10 @@
       "street": "Rue de Mons"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "0101"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -97,12 +129,38 @@
       "street": "Rue de Mons"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "Bt02", 
+        "Bt03", 
+        "Bt04", 
+        "RDCH"
+      ], 
       "hnrlbls": [
         "19"
       ], 
       "housenumber": "19", 
       "lat": 50.59635168966, 
       "lon": 4.322081505831, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703041", 
+      "street": "Rue de Mons"
+    }, 
+    {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt04", 
+        "Bt05"
+      ], 
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.59688477998, 
+      "lon": 4.322659883445, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703041", 
@@ -121,6 +179,11 @@
       "street": "Rue de Mons"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "Bt02", 
+        "RDCH"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -133,6 +196,12 @@
       "street": "Rue de Mons"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "Bt02", 
+        "Bt03", 
+        "RDCH"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -157,6 +226,12 @@
       "street": "Rue de Mons"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt04"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -169,6 +244,11 @@
       "street": "Rue de Mons"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -194,6 +274,18 @@
     }, 
     {
       "hnrlbls": [
+        "28"
+      ], 
+      "housenumber": "28", 
+      "lat": 50.596207863103, 
+      "lon": 4.321402098274, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703041", 
+      "street": "Rue de Mons"
+    }, 
+    {
+      "hnrlbls": [
         "29"
       ], 
       "housenumber": "29", 
@@ -205,12 +297,39 @@
       "street": "Rue de Mons"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt04"
+      ], 
       "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
       "lat": 50.596688919647, 
       "lon": 4.322781513085, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703041", 
+      "street": "Rue de Mons"
+    }, 
+    {
+      "busnrs": [
+        "03.1", 
+        "04.1", 
+        "A1.1", 
+        "A1.2", 
+        "A2.1", 
+        "A2.2", 
+        "A3.2"
+      ], 
+      "hnrlbls": [
+        "30"
+      ], 
+      "housenumber": "30", 
+      "lat": 50.59610973064, 
+      "lon": 4.321252408223, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703041", 
@@ -269,14 +388,20 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 50.595936120916, 
-      "lon": 4.321573587549, 
+      "lat": 50.595975324933, 
+      "lon": 4.321465924043, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703041", 
       "street": "Rue de Mons"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt03", 
+        "Bte2", 
+        "Bte4"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -289,12 +414,18 @@
       "street": "Rue de Mons"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt04"
+      ], 
       "hnrlbls": [
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 50.59591949309, 
-      "lon": 4.321357987056, 
+      "lat": 50.59588915745, 
+      "lon": 4.32133652881, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703041", 
@@ -313,6 +444,11 @@
       "street": "Rue de Mons"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "47"
       ], 
@@ -349,6 +485,16 @@
       "street": "Rue de Mons"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt04", 
+        "Bt05", 
+        "Bt06", 
+        "Bt07", 
+        "Bt08"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -361,6 +507,11 @@
       "street": "Rue de Mons"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03"
+      ], 
       "hnrlbls": [
         "50"
       ], 
@@ -385,6 +536,9 @@
       "street": "Rue de Mons"
     }, 
     {
+      "busnrs": [
+        "RDCH"
+      ], 
       "hnrlbls": [
         "52"
       ], 
@@ -461,14 +615,19 @@
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 50.595663417286, 
-      "lon": 4.320659402953, 
+      "lat": 50.595646490872, 
+      "lon": 4.320712671308, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703041", 
       "street": "Rue de Mons"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0201"
+      ], 
       "hnrlbls": [
         "59"
       ], 
@@ -481,6 +640,12 @@
       "street": "Rue de Mons"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt04", 
+        "Bte3"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -497,8 +662,8 @@
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 50.595580190684, 
-      "lon": 4.320645447288, 
+      "lat": 50.59560374469, 
+      "lon": 4.320658876667, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703041", 
@@ -509,8 +674,8 @@
         "61"
       ], 
       "housenumber": "61", 
-      "lat": 50.595443835244, 
-      "lon": 4.320881212277, 
+      "lat": 50.595464057268, 
+      "lon": 4.320889600019, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703041", 
@@ -521,8 +686,32 @@
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 50.59550879744, 
-      "lon": 4.320593317102, 
+      "lat": 50.595554003068, 
+      "lon": 4.320622139498, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703041", 
+      "street": "Rue de Mons"
+    }, 
+    {
+      "hnrlbls": [
+        "63"
+      ], 
+      "housenumber": "63", 
+      "lat": 50.595425193906, 
+      "lon": 4.320862297876, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703041", 
+      "street": "Rue de Mons"
+    }, 
+    {
+      "hnrlbls": [
+        "63A"
+      ], 
+      "housenumber": "63A", 
+      "lat": 50.595280190852, 
+      "lon": 4.321092263765, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703041", 
@@ -533,8 +722,8 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 50.595455469678, 
-      "lon": 4.320552199638, 
+      "lat": 50.595507103626, 
+      "lon": 4.320595310269, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703041", 
@@ -557,8 +746,8 @@
         "66"
       ], 
       "housenumber": "66", 
-      "lat": 50.595405173632, 
-      "lon": 4.320516192044, 
+      "lat": 50.595455139136, 
+      "lon": 4.320550708491, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703041", 
@@ -581,8 +770,8 @@
         "68"
       ], 
       "housenumber": "68", 
-      "lat": 50.595358263539, 
-      "lon": 4.320472130539, 
+      "lat": 50.595405258385, 
+      "lon": 4.320514590316, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703041", 
@@ -601,12 +790,31 @@
       "street": "Rue de Mons"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt04", 
+        "Bt05"
+      ], 
       "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
       "lat": 50.59658667343, 
       "lon": 4.322544480021, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703041", 
+      "street": "Rue de Mons"
+    }, 
+    {
+      "hnrlbls": [
+        "70"
+      ], 
+      "housenumber": "70", 
+      "lat": 50.595359328338, 
+      "lon": 4.320477459797, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703041", 
@@ -697,6 +905,12 @@
       "street": "Rue de Mons"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "Bt01", 
+        "Bt03", 
+        "Bt04"
+      ], 
       "hnrlbls": [
         "8"
       ], 
@@ -722,6 +936,25 @@
     }, 
     {
       "hnrlbls": [
+        "81"
+      ], 
+      "housenumber": "81", 
+      "lat": 50.594877640907, 
+      "lon": 4.320278843291, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703041", 
+      "street": "Rue de Mons"
+    }, 
+    {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt04", 
+        "Bt06"
+      ], 
+      "hnrlbls": [
         "82"
       ], 
       "housenumber": "82", 
@@ -733,6 +966,15 @@
       "street": "Rue de Mons"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt04", 
+        "Bt05", 
+        "Bt06", 
+        "Bt07", 
+        "Bt08"
+      ], 
       "hnrlbls": [
         "84"
       ], 
@@ -745,6 +987,13 @@
       "street": "Rue de Mons"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt04", 
+        "Bt05"
+      ], 
       "hnrlbls": [
         "9"
       ], 

@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "000C"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -25,6 +28,9 @@
       "street": "Chauss\u00e9e de Gilly (JT)"
     }, 
     {
+      "busnrs": [
+        "011"
+      ], 
       "hnrlbls": [
         "100"
       ], 
@@ -77,8 +83,8 @@
         "104"
       ], 
       "housenumber": "104", 
-      "lat": 50.441609784031, 
-      "lon": 4.448633869352, 
+      "lat": 50.441381812535, 
+      "lon": 4.448119537753, 
       "municipality": "Charleroi", 
       "pcode": "6040", 
       "source": "7761063", 
@@ -157,6 +163,9 @@
       "street": "Chauss\u00e9e de Gilly (JT)"
     }, 
     {
+      "busnrs": [
+        "001"
+      ], 
       "hnrlbls": [
         "110"
       ], 
@@ -289,6 +298,9 @@
       "street": "Chauss\u00e9e de Gilly (JT)"
     }, 
     {
+      "busnrs": [
+        "011"
+      ], 
       "hnrlbls": [
         "121"
       ], 
@@ -301,6 +313,16 @@
       "street": "Chauss\u00e9e de Gilly (JT)"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "002", 
+        "011", 
+        "012", 
+        "021", 
+        "022", 
+        "023", 
+        "024"
+      ], 
       "hnrlbls": [
         "122"
       ], 
@@ -469,6 +491,9 @@
       "street": "Chauss\u00e9e de Gilly (JT)"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "137"
       ], 
@@ -517,6 +542,9 @@
       "street": "Chauss\u00e9e de Gilly (JT)"
     }, 
     {
+      "busnrs": [
+        "0142"
+      ], 
       "hnrlbls": [
         "140"
       ], 
@@ -649,6 +677,9 @@
       "street": "Chauss\u00e9e de Gilly (JT)"
     }, 
     {
+      "busnrs": [
+        "00O1"
+      ], 
       "hnrlbls": [
         "151"
       ], 
@@ -769,6 +800,9 @@
       "street": "Chauss\u00e9e de Gilly (JT)"
     }, 
     {
+      "busnrs": [
+        "011"
+      ], 
       "hnrlbls": [
         "160"
       ], 
@@ -817,6 +851,9 @@
       "street": "Chauss\u00e9e de Gilly (JT)"
     }, 
     {
+      "busnrs": [
+        "000B"
+      ], 
       "hnrlbls": [
         "164"
       ], 
@@ -953,8 +990,8 @@
         "173"
       ], 
       "housenumber": "173", 
-      "lat": 50.441877120328, 
-      "lon": 4.449958468563, 
+      "lat": 50.441918208572, 
+      "lon": 4.449954836976, 
       "municipality": "Charleroi", 
       "pcode": "6040", 
       "source": "7761063", 
@@ -1021,6 +1058,12 @@
       "street": "Chauss\u00e9e de Gilly (JT)"
     }, 
     {
+      "busnrs": [
+        "00B3", 
+        "B001", 
+        "B011", 
+        "B021"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -1261,6 +1304,11 @@
       "street": "Chauss\u00e9e de Gilly (JT)"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "011", 
+        "021"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -1385,8 +1433,8 @@
         "215"
       ], 
       "housenumber": "215", 
-      "lat": 50.441994819541, 
-      "lon": 4.452500157547, 
+      "lat": 50.445370482344, 
+      "lon": 4.473665924055, 
       "municipality": "Charleroi", 
       "pcode": "6040", 
       "source": "7761063", 
@@ -1405,12 +1453,17 @@
       "street": "Chauss\u00e9e de Gilly (JT)"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "011", 
+        "021"
+      ], 
       "hnrlbls": [
         "219"
       ], 
       "housenumber": "219", 
-      "lat": 50.441981800775, 
-      "lon": 4.452612618734, 
+      "lat": 50.44190668998, 
+      "lon": 4.452632954401, 
       "municipality": "Charleroi", 
       "pcode": "6040", 
       "source": "7761063", 
@@ -1537,6 +1590,9 @@
       "street": "Chauss\u00e9e de Gilly (JT)"
     }, 
     {
+      "busnrs": [
+        "A011"
+      ], 
       "hnrlbls": [
         "239"
       ], 
@@ -1577,8 +1633,8 @@
         "241"
       ], 
       "housenumber": "241", 
-      "lat": 50.441914785587, 
-      "lon": 4.454219080691, 
+      "lat": 50.441858112998, 
+      "lon": 4.454215993166, 
       "municipality": "Charleroi", 
       "pcode": "6040", 
       "source": "7761063", 
@@ -1757,8 +1813,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 50.441890241952, 
-      "lon": 4.440955339472, 
+      "lat": 50.441931736055, 
+      "lon": 4.440963526334, 
       "municipality": "Charleroi", 
       "pcode": "6040", 
       "source": "7761063", 
@@ -1781,8 +1837,8 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 50.441886121907, 
-      "lon": 4.441059623801, 
+      "lat": 50.441927525985, 
+      "lon": 4.44106799363, 
       "municipality": "Charleroi", 
       "pcode": "6040", 
       "source": "7761063", 
@@ -1837,6 +1893,10 @@
       "street": "Chauss\u00e9e de Gilly (JT)"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "011"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -2029,6 +2089,11 @@
       "street": "Chauss\u00e9e de Gilly (JT)"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "000C", 
+        "000D"
+      ], 
       "hnrlbls": [
         "56"
       ], 
@@ -2081,8 +2146,8 @@
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 50.441906056312, 
-      "lon": 4.443297751649, 
+      "lat": 50.441916746058, 
+      "lon": 4.443199996047, 
       "municipality": "Charleroi", 
       "pcode": "6040", 
       "source": "7761063", 
@@ -2141,14 +2206,18 @@
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 50.441954344064, 
-      "lon": 4.443698351167, 
+      "lat": 50.441901678972, 
+      "lon": 4.443698196776, 
       "municipality": "Charleroi", 
       "pcode": "6040", 
       "source": "7761063", 
       "street": "Chauss\u00e9e de Gilly (JT)"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "011"
+      ], 
       "hnrlbls": [
         "64"
       ], 
@@ -2293,6 +2362,11 @@
       "street": "Chauss\u00e9e de Gilly (JT)"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "002", 
+        "011"
+      ], 
       "hnrlbls": [
         "76"
       ], 
@@ -2317,6 +2391,9 @@
       "street": "Chauss\u00e9e de Gilly (JT)"
     }, 
     {
+      "busnrs": [
+        "000B"
+      ], 
       "hnrlbls": [
         "78"
       ], 
@@ -2549,8 +2626,8 @@
         "95"
       ], 
       "housenumber": "95", 
-      "lat": 50.441928962118, 
-      "lon": 4.445693547242, 
+      "lat": 50.441862660641, 
+      "lon": 4.445717470031, 
       "municipality": "Charleroi", 
       "pcode": "6040", 
       "source": "7761063", 

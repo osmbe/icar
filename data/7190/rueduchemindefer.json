@@ -73,10 +73,13 @@
       "street": "Rue du Chemin de Fer"
     }, 
     {
-      "hnrlbls": [
-        "150016"
+      "busnrs": [
+        "0016"
       ], 
-      "housenumber": "150016", 
+      "hnrlbls": [
+        "15"
+      ], 
+      "housenumber": "15", 
       "lat": 50.547553096041, 
       "lon": 4.176077437319, 
       "municipality": "Ecaussinnes", 
@@ -115,6 +118,18 @@
       "housenumber": "18", 
       "lat": 50.546666004186, 
       "lon": 4.177262101077, 
+      "municipality": "Ecaussinnes", 
+      "pcode": "7190", 
+      "source": "7718946", 
+      "street": "Rue du Chemin de Fer"
+    }, 
+    {
+      "hnrlbls": [
+        "19"
+      ], 
+      "housenumber": "19", 
+      "lat": 50.546551454215, 
+      "lon": 4.177442305621, 
       "municipality": "Ecaussinnes", 
       "pcode": "7190", 
       "source": "7718946", 

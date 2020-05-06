@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0", 
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -133,6 +138,13 @@
       "street": "Rue Ferdinand Ribonnet"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "1/1", 
+        "2/1", 
+        "2/2", 
+        "3/1"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -181,12 +193,33 @@
       "street": "Rue Ferdinand Ribonnet"
     }, 
     {
+      "busnrs": [
+        "2", 
+        "2/1", 
+        "2/2", 
+        "2/3", 
+        "2/4", 
+        "2/5", 
+        "3"
+      ], 
       "hnrlbls": [
         "23"
       ], 
       "housenumber": "23", 
       "lat": 49.565407626272, 
       "lon": 5.522096875611, 
+      "municipality": "Virton", 
+      "pcode": "6760", 
+      "source": "7747922", 
+      "street": "Rue Ferdinand Ribonnet"
+    }, 
+    {
+      "hnrlbls": [
+        "24"
+      ], 
+      "housenumber": "24", 
+      "lat": 49.564826590025, 
+      "lon": 5.522462411339, 
       "municipality": "Virton", 
       "pcode": "6760", 
       "source": "7747922", 
@@ -289,6 +322,10 @@
       "street": "Rue Ferdinand Ribonnet"
     }, 
     {
+      "busnrs": [
+        "0", 
+        "1"
+      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -301,6 +338,12 @@
       "street": "Rue Ferdinand Ribonnet"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "0/2", 
+        "1/1", 
+        "1/2"
+      ], 
       "hnrlbls": [
         "36"
       ], 

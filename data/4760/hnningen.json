@@ -121,6 +121,10 @@
       "street": "H\u00fcnningen"
     }, 
     {
+      "busnrs": [
+        "/1", 
+        "/E"
+      ], 
       "hnrlbls": [
         "117"
       ], 
@@ -242,9 +246,9 @@
     }, 
     {
       "hnrlbls": [
-        "128/A"
+        "128A"
       ], 
-      "housenumber": "128/A", 
+      "housenumber": "128A", 
       "lat": 50.392753316709, 
       "lon": 6.29844355645, 
       "municipality": "B\u00fcllingen", 
@@ -259,6 +263,30 @@
       "housenumber": "128C", 
       "lat": 50.392491776441, 
       "lon": 6.297496749067, 
+      "municipality": "B\u00fcllingen", 
+      "pcode": "4760", 
+      "source": "7735339", 
+      "street": "H\u00fcnningen"
+    }, 
+    {
+      "hnrlbls": [
+        "128D"
+      ], 
+      "housenumber": "128D", 
+      "lat": 50.392393897129, 
+      "lon": 6.296852884403, 
+      "municipality": "B\u00fcllingen", 
+      "pcode": "4760", 
+      "source": "7735339", 
+      "street": "H\u00fcnningen"
+    }, 
+    {
+      "hnrlbls": [
+        "128G"
+      ], 
+      "housenumber": "128G", 
+      "lat": 50.39227202379, 
+      "lon": 6.295365006573, 
       "municipality": "B\u00fcllingen", 
       "pcode": "4760", 
       "source": "7735339", 
@@ -307,6 +335,30 @@
       "housenumber": "132", 
       "lat": 50.3945971687, 
       "lon": 6.29693358197, 
+      "municipality": "B\u00fcllingen", 
+      "pcode": "4760", 
+      "source": "7735339", 
+      "street": "H\u00fcnningen"
+    }, 
+    {
+      "hnrlbls": [
+        "133A"
+      ], 
+      "housenumber": "133A", 
+      "lat": 50.394050472146, 
+      "lon": 6.296836272016, 
+      "municipality": "B\u00fcllingen", 
+      "pcode": "4760", 
+      "source": "7735339", 
+      "street": "H\u00fcnningen"
+    }, 
+    {
+      "hnrlbls": [
+        "134"
+      ], 
+      "housenumber": "134", 
+      "lat": 50.394327313175, 
+      "lon": 6.296428758147, 
       "municipality": "B\u00fcllingen", 
       "pcode": "4760", 
       "source": "7735339", 
@@ -434,6 +486,18 @@
     }, 
     {
       "hnrlbls": [
+        "151"
+      ], 
+      "housenumber": "151", 
+      "lat": 50.392593019636, 
+      "lon": 6.293784079966, 
+      "municipality": "B\u00fcllingen", 
+      "pcode": "4760", 
+      "source": "7735339", 
+      "street": "H\u00fcnningen"
+    }, 
+    {
+      "hnrlbls": [
         "152A"
       ], 
       "housenumber": "152A", 
@@ -482,9 +546,9 @@
     }, 
     {
       "hnrlbls": [
-        "155/A"
+        "155A"
       ], 
-      "housenumber": "155/A", 
+      "housenumber": "155A", 
       "lat": 50.392371083001, 
       "lon": 6.292722343439, 
       "municipality": "B\u00fcllingen", 
@@ -529,6 +593,9 @@
       "street": "H\u00fcnningen"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "159"
       ], 
@@ -607,6 +674,30 @@
       "housenumber": "169", 
       "lat": 50.390976181001, 
       "lon": 6.291893145359, 
+      "municipality": "B\u00fcllingen", 
+      "pcode": "4760", 
+      "source": "7735339", 
+      "street": "H\u00fcnningen"
+    }, 
+    {
+      "hnrlbls": [
+        "176"
+      ], 
+      "housenumber": "176", 
+      "lat": 50.382939184212, 
+      "lon": 6.30290821214, 
+      "municipality": "B\u00fcllingen", 
+      "pcode": "4760", 
+      "source": "7735339", 
+      "street": "H\u00fcnningen"
+    }, 
+    {
+      "hnrlbls": [
+        "178"
+      ], 
+      "housenumber": "178", 
+      "lat": 50.382778106689, 
+      "lon": 6.302978680712, 
       "municipality": "B\u00fcllingen", 
       "pcode": "4760", 
       "source": "7735339", 
@@ -709,6 +800,12 @@
       "street": "H\u00fcnningen"
     }, 
     {
+      "busnrs": [
+        "1/1", 
+        "1/2", 
+        "E/1", 
+        "E/2"
+      ], 
       "hnrlbls": [
         "193"
       ], 
@@ -793,6 +890,10 @@
       "street": "H\u00fcnningen"
     }, 
     {
+      "busnrs": [
+        "E/1", 
+        "E/2"
+      ], 
       "hnrlbls": [
         "200"
       ], 
@@ -925,6 +1026,17 @@
       "street": "H\u00fcnningen"
     }, 
     {
+      "busnrs": [
+        "1/1", 
+        "1/2", 
+        "1/3", 
+        "2/1", 
+        "2/2", 
+        "2/3", 
+        "E/1", 
+        "E/2", 
+        "E/3"
+      ], 
       "hnrlbls": [
         "221"
       ], 
@@ -985,12 +1097,27 @@
       "street": "H\u00fcnningen"
     }, 
     {
+      "busnrs": [
+        "/1"
+      ], 
       "hnrlbls": [
         "22C"
       ], 
       "housenumber": "22C", 
       "lat": 50.398071373786, 
       "lon": 6.293357163795, 
+      "municipality": "B\u00fcllingen", 
+      "pcode": "4760", 
+      "source": "7735339", 
+      "street": "H\u00fcnningen"
+    }, 
+    {
+      "hnrlbls": [
+        "231"
+      ], 
+      "housenumber": "231", 
+      "lat": 50.396250264239, 
+      "lon": 6.285940817913, 
       "municipality": "B\u00fcllingen", 
       "pcode": "4760", 
       "source": "7735339", 
@@ -1238,6 +1365,18 @@
     }, 
     {
       "hnrlbls": [
+        "265"
+      ], 
+      "housenumber": "265", 
+      "lat": 50.39625773441, 
+      "lon": 6.290146222873, 
+      "municipality": "B\u00fcllingen", 
+      "pcode": "4760", 
+      "source": "7735339", 
+      "street": "H\u00fcnningen"
+    }, 
+    {
+      "hnrlbls": [
         "267"
       ], 
       "housenumber": "267", 
@@ -1321,6 +1460,11 @@
       "street": "H\u00fcnningen"
     }, 
     {
+      "busnrs": [
+        "1/1", 
+        "1/2", 
+        "2"
+      ], 
       "hnrlbls": [
         "276"
       ], 
@@ -1334,11 +1478,35 @@
     }, 
     {
       "hnrlbls": [
+        "276/2"
+      ], 
+      "housenumber": "276/2", 
+      "lat": 50.395180138003, 
+      "lon": 6.293418252276, 
+      "municipality": "B\u00fcllingen", 
+      "pcode": "4760", 
+      "source": "7735339", 
+      "street": "H\u00fcnningen"
+    }, 
+    {
+      "hnrlbls": [
         "278"
       ], 
       "housenumber": "278", 
       "lat": 50.395317587547, 
       "lon": 6.293874938187, 
+      "municipality": "B\u00fcllingen", 
+      "pcode": "4760", 
+      "source": "7735339", 
+      "street": "H\u00fcnningen"
+    }, 
+    {
+      "hnrlbls": [
+        "27B"
+      ], 
+      "housenumber": "27B", 
+      "lat": 50.398745651916, 
+      "lon": 6.296429571476, 
       "municipality": "B\u00fcllingen", 
       "pcode": "4760", 
       "source": "7735339", 
@@ -1399,6 +1567,18 @@
       "housenumber": "286", 
       "lat": 50.39610783939, 
       "lon": 6.296946238045, 
+      "municipality": "B\u00fcllingen", 
+      "pcode": "4760", 
+      "source": "7735339", 
+      "street": "H\u00fcnningen"
+    }, 
+    {
+      "hnrlbls": [
+        "29A"
+      ], 
+      "housenumber": "29A", 
+      "lat": 50.39881274593, 
+      "lon": 6.296999801896, 
       "municipality": "B\u00fcllingen", 
       "pcode": "4760", 
       "source": "7735339", 
@@ -1681,6 +1861,9 @@
       "street": "H\u00fcnningen"
     }, 
     {
+      "busnrs": [
+        "E/1"
+      ], 
       "hnrlbls": [
         "56"
       ], 
@@ -1789,6 +1972,11 @@
       "street": "H\u00fcnningen"
     }, 
     {
+      "busnrs": [
+        "1/1", 
+        "1/2", 
+        "1/3"
+      ], 
       "hnrlbls": [
         "67"
       ], 

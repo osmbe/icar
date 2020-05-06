@@ -17,8 +17,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.614953815634, 
-      "lon": 5.620029556262, 
+      "lat": 50.614983950773, 
+      "lon": 5.620066772319, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4032", 
       "source": "7730433", 
@@ -65,8 +65,8 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 50.614964555135, 
-      "lon": 5.619760151747, 
+      "lat": 50.615000746954, 
+      "lon": 5.619752433879, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4032", 
       "source": "7730433", 
@@ -137,8 +137,8 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 50.615002203611, 
-      "lon": 5.620023984826, 
+      "lat": 50.614981468549, 
+      "lon": 5.619998111287, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4032", 
       "source": "7730433", 
@@ -217,6 +217,11 @@
       "street": "Rue de l'Alignement"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011"
+      ], 
       "hnrlbls": [
         "33"
       ], 
@@ -235,6 +240,22 @@
       "housenumber": "34", 
       "lat": 50.615198407628, 
       "lon": 5.619995862182, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4032", 
+      "source": "7730433", 
+      "street": "Rue de l'Alignement"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0021"
+      ], 
+      "hnrlbls": [
+        "35"
+      ], 
+      "housenumber": "35", 
+      "lat": 50.615540402336, 
+      "lon": 5.619696455758, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4032", 
       "source": "7730433", 
@@ -349,6 +370,9 @@
       "street": "Rue de l'Alignement"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "6"
       ], 

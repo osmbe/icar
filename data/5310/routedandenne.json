@@ -25,6 +25,9 @@
       "street": "Route d'Andenne"
     }, 
     {
+      "busnrs": [
+        "Bte1"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -37,6 +40,10 @@
       "street": "Route d'Andenne"
     }, 
     {
+      "busnrs": [
+        "Bte2", 
+        "Bte3"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -161,8 +168,8 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 50.584924850993, 
-      "lon": 4.949351182377, 
+      "lat": 50.590856622025, 
+      "lon": 4.919924721066, 
       "municipality": "Eghez\u00e9e", 
       "pcode": "5310", 
       "source": "7752040", 
@@ -193,6 +200,12 @@
       "street": "Route d'Andenne"
     }, 
     {
+      "busnrs": [
+        "A00", 
+        "BB01", 
+        "BB02", 
+        "BB03"
+      ], 
       "hnrlbls": [
         "39"
       ], 
@@ -217,12 +230,72 @@
       "street": "Route d'Andenne"
     }, 
     {
+      "busnrs": [
+        "AA01", 
+        "AA02", 
+        "AA03", 
+        "AA04", 
+        "AA05", 
+        "AA06", 
+        "AA07", 
+        "AA08", 
+        "AA09", 
+        "BA01", 
+        "BA03", 
+        "BA04", 
+        "BA05", 
+        "BA06", 
+        "BA07", 
+        "BA08", 
+        "BA09", 
+        "BA10", 
+        "BA11", 
+        "CA01", 
+        "CA02", 
+        "CA03", 
+        "CA04", 
+        "CA05", 
+        "CA06", 
+        "CA07", 
+        "CA08", 
+        "CA09", 
+        "CA10", 
+        "CA11", 
+        "DA01", 
+        "DA02", 
+        "DA03", 
+        "DA04", 
+        "DA05", 
+        "DA06", 
+        "DA07", 
+        "DA08", 
+        "DA09", 
+        "EA01", 
+        "EA03", 
+        "EA04", 
+        "EA05", 
+        "EA06", 
+        "EA07", 
+        "EA08", 
+        "EA09", 
+        "EA10", 
+        "EA11", 
+        "FA01", 
+        "FA02", 
+        "FA03", 
+        "FA04", 
+        "FA05", 
+        "FA06", 
+        "FA07", 
+        "FA08", 
+        "FA09"
+      ], 
       "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.590648588785, 
-      "lon": 4.913916994422, 
+      "lat": 50.59083269375, 
+      "lon": 4.91402001136, 
       "municipality": "Eghez\u00e9e", 
       "pcode": "5310", 
       "source": "7752040", 
@@ -313,6 +386,10 @@
       "street": "Route d'Andenne"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2"
+      ], 
       "hnrlbls": [
         "47"
       ], 
@@ -362,6 +439,18 @@
     }, 
     {
       "hnrlbls": [
+        "55"
+      ], 
+      "housenumber": "55", 
+      "lat": 50.585880635345, 
+      "lon": 4.945348121801, 
+      "municipality": "Eghez\u00e9e", 
+      "pcode": "5310", 
+      "source": "7752040", 
+      "street": "Route d'Andenne"
+    }, 
+    {
+      "hnrlbls": [
         "59"
       ], 
       "housenumber": "59", 
@@ -397,6 +486,10 @@
       "street": "Route d'Andenne"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2"
+      ], 
       "hnrlbls": [
         "69"
       ], 

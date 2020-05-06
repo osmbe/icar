@@ -65,8 +65,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.344878844363, 
-      "lon": 4.808821301547, 
+      "lat": 50.344898748407, 
+      "lon": 4.808841707795, 
       "municipality": "Anh\u00e9e", 
       "pcode": "5537", 
       "source": "7748362", 
@@ -565,6 +565,9 @@
       "street": "Rue Parapet"
     }, 
     {
+      "busnrs": [
+        "Bte2"
+      ], 
       "hnrlbls": [
         "61"
       ], 
@@ -589,6 +592,11 @@
       "street": "Rue Parapet"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2", 
+        "Bte3"
+      ], 
       "hnrlbls": [
         "65"
       ], 

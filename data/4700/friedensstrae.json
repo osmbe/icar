@@ -2,6 +2,18 @@
   "addresses": [
     {
       "hnrlbls": [
+        "10"
+      ], 
+      "housenumber": "10", 
+      "lat": 50.632981079113, 
+      "lon": 6.023623410203, 
+      "municipality": "Eupen", 
+      "pcode": "4700", 
+      "source": "7735777", 
+      "street": "Friedensstra\u00dfe"
+    }, 
+    {
+      "hnrlbls": [
         "12"
       ], 
       "housenumber": "12", 
@@ -13,6 +25,11 @@
       "street": "Friedensstra\u00dfe"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -25,6 +42,11 @@
       "street": "Friedensstra\u00dfe"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -97,6 +119,16 @@
       "street": "Friedensstra\u00dfe"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -109,12 +141,16 @@
       "street": "Friedensstra\u00dfe"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.632396514027, 
-      "lon": 6.024231049487, 
+      "lat": 50.632451267088, 
+      "lon": 6.024227286331, 
       "municipality": "Eupen", 
       "pcode": "4700", 
       "source": "7735777", 
@@ -145,6 +181,10 @@
       "street": "Friedensstra\u00dfe"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -157,6 +197,10 @@
       "street": "Friedensstra\u00dfe"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "9"
       ], 

@@ -121,12 +121,19 @@
       "street": "Rue Ren\u00e9 Francq"
     }, 
     {
+      "busnrs": [
+        "A001", 
+        "A002", 
+        "A003", 
+        "A004", 
+        "A005"
+      ], 
       "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.643999582033, 
-      "lon": 4.365226341976, 
+      "lat": 50.645633040488, 
+      "lon": 4.362498899898, 
       "municipality": "Braine-l'Alleud", 
       "pcode": "1428", 
       "source": "7700725", 
@@ -181,6 +188,13 @@
       "street": "Rue Ren\u00e9 Francq"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -365,8 +379,8 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.644544007479, 
-      "lon": 4.363823172775, 
+      "lat": 50.643888285396, 
+      "lon": 4.36246483429, 
       "municipality": "Braine-l'Alleud", 
       "pcode": "1428", 
       "source": "7700725", 

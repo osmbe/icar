@@ -133,6 +133,11 @@
       "street": "Rue de Charneux"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "rez"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -169,6 +174,9 @@
       "street": "Rue de Charneux"
     }, 
     {
+      "busnrs": [
+        "24"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -278,6 +286,18 @@
     }, 
     {
       "hnrlbls": [
+        "32"
+      ], 
+      "housenumber": "32", 
+      "lat": 50.646274785152, 
+      "lon": 5.797146144949, 
+      "municipality": "Herve", 
+      "pcode": "4650", 
+      "source": "7736065", 
+      "street": "Rue de Charneux"
+    }, 
+    {
+      "hnrlbls": [
         "33"
       ], 
       "housenumber": "33", 
@@ -325,6 +345,11 @@
       "street": "Rue de Charneux"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "B", 
+        "rez"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -367,18 +392,6 @@
       "housenumber": "7", 
       "lat": 50.644948232735, 
       "lon": 5.795909069163, 
-      "municipality": "Herve", 
-      "pcode": "4650", 
-      "source": "7736065", 
-      "street": "Rue de Charneux"
-    }, 
-    {
-      "hnrlbls": [
-        "8"
-      ], 
-      "housenumber": "8", 
-      "lat": 50.644929414299, 
-      "lon": 5.796235417686, 
       "municipality": "Herve", 
       "pcode": "4650", 
       "source": "7736065", 

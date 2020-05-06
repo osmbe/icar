@@ -1,6 +1,15 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "B2"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +22,11 @@
       "street": "Avenue Ferdinand Nicolay"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -85,6 +99,10 @@
       "street": "Avenue Ferdinand Nicolay"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -97,6 +115,15 @@
       "street": "Avenue Ferdinand Nicolay"
     }, 
     {
+      "busnrs": [
+        "A/12", 
+        "A11", 
+        "A14", 
+        "A2", 
+        "A5", 
+        "A8", 
+        "A9"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -161,8 +188,8 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.395425123093, 
-      "lon": 5.93258161769, 
+      "lat": 50.395173362328, 
+      "lon": 5.932086361845, 
       "municipality": "Stavelot", 
       "pcode": "4970", 
       "source": "7738038", 
@@ -181,6 +208,10 @@
       "street": "Avenue Ferdinand Nicolay"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -197,14 +228,17 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 50.396100729405, 
-      "lon": 5.933466807284, 
+      "lat": 50.395892622423, 
+      "lon": 5.933535360418, 
       "municipality": "Stavelot", 
       "pcode": "4970", 
       "source": "7738038", 
       "street": "Avenue Ferdinand Nicolay"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "5"
       ], 

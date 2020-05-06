@@ -2,6 +2,18 @@
   "addresses": [
     {
       "hnrlbls": [
+        "10"
+      ], 
+      "housenumber": "10", 
+      "lat": 50.446103300754, 
+      "lon": 3.883550591259, 
+      "municipality": "Mons", 
+      "pcode": "7012", 
+      "source": "7713095", 
+      "street": "Avenue du Coq"
+    }, 
+    {
+      "hnrlbls": [
         "11"
       ], 
       "housenumber": "11", 
@@ -457,6 +469,11 @@
       "street": "Avenue du Coq"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "1-1"
+      ], 
       "hnrlbls": [
         "49"
       ], 

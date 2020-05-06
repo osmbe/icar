@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "Bt.2", 
+        "Bt.3", 
+        "Bt.4", 
+        "E1B1"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +19,9 @@
       "street": "Rue des Patiniers"
     }, 
     {
+      "busnrs": [
+        "Et.1"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -122,6 +131,30 @@
     }, 
     {
       "hnrlbls": [
+        "19B"
+      ], 
+      "housenumber": "19B", 
+      "lat": 50.610090811605, 
+      "lon": 4.138073221518, 
+      "municipality": "Braine-le-Comte", 
+      "pcode": "7090", 
+      "source": "7716611", 
+      "street": "Rue des Patiniers"
+    }, 
+    {
+      "hnrlbls": [
+        "19C"
+      ], 
+      "housenumber": "19C", 
+      "lat": 50.610075695776, 
+      "lon": 4.138007130913, 
+      "municipality": "Braine-le-Comte", 
+      "pcode": "7090", 
+      "source": "7716611", 
+      "street": "Rue des Patiniers"
+    }, 
+    {
+      "hnrlbls": [
         "21"
       ], 
       "housenumber": "21", 
@@ -149,8 +182,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.610297312677, 
-      "lon": 4.138184131233, 
+      "lat": 50.610306896728, 
+      "lon": 4.138219596228, 
       "municipality": "Braine-le-Comte", 
       "pcode": "7090", 
       "source": "7716611", 
@@ -257,8 +290,8 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 50.610491529065, 
-      "lon": 4.138286549731, 
+      "lat": 50.610459453079, 
+      "lon": 4.138304648801, 
       "municipality": "Braine-le-Comte", 
       "pcode": "7090", 
       "source": "7716611", 
@@ -331,6 +364,18 @@
       "housenumber": "4", 
       "lat": 50.610130025047, 
       "lon": 4.137245766112, 
+      "municipality": "Braine-le-Comte", 
+      "pcode": "7090", 
+      "source": "7716611", 
+      "street": "Rue des Patiniers"
+    }, 
+    {
+      "hnrlbls": [
+        "40"
+      ], 
+      "housenumber": "40", 
+      "lat": 50.610497945224, 
+      "lon": 4.138485664179, 
       "municipality": "Braine-le-Comte", 
       "pcode": "7090", 
       "source": "7716611", 

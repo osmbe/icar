@@ -1,6 +1,13 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -19,6 +26,18 @@
       "housenumber": "10", 
       "lat": 50.176298301538, 
       "lon": 5.293939219137, 
+      "municipality": "Marche-en-Famenne", 
+      "pcode": "6900", 
+      "source": "7744171", 
+      "street": "Rue du Cruquet"
+    }, 
+    {
+      "hnrlbls": [
+        "11"
+      ], 
+      "housenumber": "11", 
+      "lat": 50.176019271733, 
+      "lon": 5.292520111418, 
       "municipality": "Marche-en-Famenne", 
       "pcode": "6900", 
       "source": "7744171", 

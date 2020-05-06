@@ -1,6 +1,23 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024", 
+        "0031", 
+        "0032", 
+        "0033", 
+        "0034"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -26,11 +43,35 @@
     }, 
     {
       "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.645381821309, 
+      "lon": 5.579666884086, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729924", 
+      "street": "La Batte"
+    }, 
+    {
+      "hnrlbls": [
         "21"
       ], 
       "housenumber": "21", 
       "lat": 50.646148454394, 
       "lon": 5.581213296521, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729924", 
+      "street": "La Batte"
+    }, 
+    {
+      "hnrlbls": [
+        "22"
+      ], 
+      "housenumber": "22", 
+      "lat": 50.646128478289, 
+      "lon": 5.581252024148, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7729924", 
@@ -73,6 +114,13 @@
       "street": "La Batte"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -97,6 +145,13 @@
       "street": "La Batte"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0022", 
+        "0031"
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -121,6 +176,9 @@
       "street": "La Batte"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -169,6 +227,13 @@
       "street": "La Batte"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "33"
       ], 
@@ -205,6 +270,11 @@
       "street": "La Batte"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -217,6 +287,21 @@
       "street": "La Batte"
     }, 
     {
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 50.645542664677, 
+      "lon": 5.57994148165, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729924", 
+      "street": "La Batte"
+    }, 
+    {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "8"
       ], 

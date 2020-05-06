@@ -169,6 +169,10 @@
       "street": "Rue de Huleu"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "000C"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -217,6 +221,9 @@
       "street": "Rue de Huleu"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -425,8 +432,8 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 50.63656352466, 
-      "lon": 4.255738936711, 
+      "lat": 50.636560616421, 
+      "lon": 4.255865179543, 
       "municipality": "Ittre", 
       "pcode": "1460", 
       "source": "7702140", 

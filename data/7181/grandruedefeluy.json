@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0003", 
+        "000B"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -25,6 +29,10 @@
       "street": "Grand-Rue de Feluy"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -253,6 +261,11 @@
       "street": "Grand-Rue de Feluy"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "3"
       ], 

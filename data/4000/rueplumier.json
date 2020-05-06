@@ -2,11 +2,35 @@
   "addresses": [
     {
       "hnrlbls": [
+        "10"
+      ], 
+      "housenumber": "10", 
+      "lat": 50.642389742239, 
+      "lon": 5.555046787762, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731248", 
+      "street": "Rue Plumier"
+    }, 
+    {
+      "hnrlbls": [
         "12"
       ], 
       "housenumber": "12", 
       "lat": 50.642389359743, 
       "lon": 5.554897788188, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731248", 
+      "street": "Rue Plumier"
+    }, 
+    {
+      "hnrlbls": [
+        "13"
+      ], 
+      "housenumber": "13", 
+      "lat": 50.642208398381, 
+      "lon": 5.555231826852, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731248", 
@@ -37,12 +61,37 @@
       "street": "Rue Plumier"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014"
+      ], 
       "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
       "lat": 50.642455848887, 
       "lon": 5.555324075282, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731248", 
+      "street": "Rue Plumier"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011"
+      ], 
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 50.642450337966, 
+      "lon": 5.555188718616, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731248", 

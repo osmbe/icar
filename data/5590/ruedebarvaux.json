@@ -61,6 +61,10 @@
       "street": "Rue de Barvaux"
     }, 
     {
+      "busnrs": [
+        "A001", 
+        "A002"
+      ], 
       "hnrlbls": [
         "139"
       ], 
@@ -85,6 +89,10 @@
       "street": "Rue de Barvaux"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0012"
+      ], 
       "hnrlbls": [
         "141"
       ], 
@@ -145,6 +153,9 @@
       "street": "Rue de Barvaux"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "146"
       ], 
@@ -181,6 +192,13 @@
       "street": "Rue de Barvaux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005"
+      ], 
       "hnrlbls": [
         "149"
       ], 
@@ -709,6 +727,9 @@
       "street": "Rue de Barvaux"
     }, 
     {
+      "busnrs": [
+        "*000"
+      ], 
       "hnrlbls": [
         "199"
       ], 
@@ -901,6 +922,9 @@
       "street": "Rue de Barvaux"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "214"
       ], 
@@ -917,8 +941,8 @@
         "214A"
       ], 
       "housenumber": "214A", 
-      "lat": 50.253216423045, 
-      "lon": 5.210216699059, 
+      "lat": 50.2532337922, 
+      "lon": 5.210324480277, 
       "municipality": "Ciney", 
       "pcode": "5590", 
       "source": "7748839", 

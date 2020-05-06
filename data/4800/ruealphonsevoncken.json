@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "2\u00e9t.", 
+        "rez.", 
+        "rezD", 
+        "rezG"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -61,6 +67,11 @@
       "street": "Rue Alphonse Voncken"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2\u00e9t.", 
+        "bte4"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -103,6 +114,18 @@
       "housenumber": "9", 
       "lat": 50.589337610083, 
       "lon": 5.860651620746, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738737", 
+      "street": "Rue Alphonse Voncken"
+    }, 
+    {
+      "hnrlbls": [
+        "93"
+      ], 
+      "housenumber": "93", 
+      "lat": 50.589679033634, 
+      "lon": 5.860294165237, 
       "municipality": "Verviers", 
       "pcode": "4800", 
       "source": "7738737", 

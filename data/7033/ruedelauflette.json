@@ -313,6 +313,13 @@
       "street": "Rue de l'Auflette"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "1-1", 
+        "2-1", 
+        "2-2"
+      ], 
       "hnrlbls": [
         "130"
       ], 
@@ -433,6 +440,9 @@
       "street": "Rue de l'Auflette"
     }, 
     {
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "150"
       ], 
@@ -713,8 +723,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 50.441050466724, 
-      "lon": 3.916263278943, 
+      "lat": 50.441090277798, 
+      "lon": 3.916286747968, 
       "municipality": "Mons", 
       "pcode": "7033", 
       "source": "7713638", 

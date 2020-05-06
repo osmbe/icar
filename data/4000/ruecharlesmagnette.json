@@ -1,6 +1,28 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "D011", 
+        "D012", 
+        "D013", 
+        "D021", 
+        "D022", 
+        "D023", 
+        "D024", 
+        "D033", 
+        "D034", 
+        "D041", 
+        "D042", 
+        "D043", 
+        "D044", 
+        "D053", 
+        "D054", 
+        "D061", 
+        "D063", 
+        "D064", 
+        "D072", 
+        "D073"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +35,35 @@
       "street": "Rue Charles-Magnette"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0031", 
+        "0032", 
+        "0033", 
+        "0041", 
+        "0042", 
+        "0043", 
+        "0051", 
+        "0052", 
+        "0053", 
+        "0061", 
+        "0062", 
+        "0063", 
+        "0071", 
+        "0072", 
+        "0073", 
+        "C043", 
+        "C061"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -25,12 +76,129 @@
       "street": "Rue Charles-Magnette"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024", 
+        "0031", 
+        "0032", 
+        "0033", 
+        "0034", 
+        "0041", 
+        "0042", 
+        "0043", 
+        "0044", 
+        "0051", 
+        "0052", 
+        "0053", 
+        "0054", 
+        "0061", 
+        "0062", 
+        "0063", 
+        "0064", 
+        "0071", 
+        "0072", 
+        "0073", 
+        "0074"
+      ], 
       "hnrlbls": [
         "11"
       ], 
       "housenumber": "11", 
       "lat": 50.640693056594, 
       "lon": 5.573412539804, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730255", 
+      "street": "Rue Charles-Magnette"
+    }, 
+    {
+      "hnrlbls": [
+        "11B"
+      ], 
+      "housenumber": "11B", 
+      "lat": 50.64076090123, 
+      "lon": 5.573590447117, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730255", 
+      "street": "Rue Charles-Magnette"
+    }, 
+    {
+      "hnrlbls": [
+        "13"
+      ], 
+      "housenumber": "13", 
+      "lat": 50.640653625628, 
+      "lon": 5.573124690555, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730255", 
+      "street": "Rue Charles-Magnette"
+    }, 
+    {
+      "hnrlbls": [
+        "13A"
+      ], 
+      "housenumber": "13A", 
+      "lat": 50.640738167656, 
+      "lon": 5.573493295515, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730255", 
+      "street": "Rue Charles-Magnette"
+    }, 
+    {
+      "hnrlbls": [
+        "13B"
+      ], 
+      "housenumber": "13B", 
+      "lat": 50.640717495584, 
+      "lon": 5.573396762208, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730255", 
+      "street": "Rue Charles-Magnette"
+    }, 
+    {
+      "hnrlbls": [
+        "13C"
+      ], 
+      "housenumber": "13C", 
+      "lat": 50.64069706711, 
+      "lon": 5.57327662267, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730255", 
+      "street": "Rue Charles-Magnette"
+    }, 
+    {
+      "hnrlbls": [
+        "13D"
+      ], 
+      "housenumber": "13D", 
+      "lat": 50.640675614791, 
+      "lon": 5.573203399371, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730255", 
+      "street": "Rue Charles-Magnette"
+    }, 
+    {
+      "hnrlbls": [
+        "13E"
+      ], 
+      "housenumber": "13E", 
+      "lat": 50.640652311166, 
+      "lon": 5.573083045252, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730255", 
@@ -62,6 +230,30 @@
     }, 
     {
       "hnrlbls": [
+        "16"
+      ], 
+      "housenumber": "16", 
+      "lat": 50.640822665793, 
+      "lon": 5.572650065348, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730255", 
+      "street": "Rue Charles-Magnette"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041", 
+        "0051", 
+        "0061", 
+        "0071"
+      ], 
+      "hnrlbls": [
         "17"
       ], 
       "housenumber": "17", 
@@ -86,11 +278,177 @@
     }, 
     {
       "hnrlbls": [
+        "19"
+      ], 
+      "housenumber": "19", 
+      "lat": 50.640613643132, 
+      "lon": 5.57271769069, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730255", 
+      "street": "Rue Charles-Magnette"
+    }, 
+    {
+      "hnrlbls": [
+        "1A"
+      ], 
+      "housenumber": "1A", 
+      "lat": 50.640844896965, 
+      "lon": 5.574624477278, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730255", 
+      "street": "Rue Charles-Magnette"
+    }, 
+    {
+      "hnrlbls": [
+        "1B"
+      ], 
+      "housenumber": "1B", 
+      "lat": 50.640866383645, 
+      "lon": 5.574598585904, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730255", 
+      "street": "Rue Charles-Magnette"
+    }, 
+    {
+      "hnrlbls": [
+        "1C"
+      ], 
+      "housenumber": "1C", 
+      "lat": 50.64089147089, 
+      "lon": 5.57456359597, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730255", 
+      "street": "Rue Charles-Magnette"
+    }, 
+    {
+      "hnrlbls": [
+        "1D"
+      ], 
+      "housenumber": "1D", 
+      "lat": 50.640905289109, 
+      "lon": 5.57450541235, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730255", 
+      "street": "Rue Charles-Magnette"
+    }, 
+    {
+      "hnrlbls": [
+        "1E"
+      ], 
+      "housenumber": "1E", 
+      "lat": 50.640900958599, 
+      "lon": 5.574428525246, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730255", 
+      "street": "Rue Charles-Magnette"
+    }, 
+    {
+      "hnrlbls": [
+        "1F"
+      ], 
+      "housenumber": "1F", 
+      "lat": 50.6408943057, 
+      "lon": 5.574367556237, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730255", 
+      "street": "Rue Charles-Magnette"
+    }, 
+    {
+      "hnrlbls": [
+        "1G"
+      ], 
+      "housenumber": "1G", 
+      "lat": 50.640881886657, 
+      "lon": 5.57429032112, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730255", 
+      "street": "Rue Charles-Magnette"
+    }, 
+    {
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.641121720885, 
+      "lon": 5.574269894921, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730255", 
+      "street": "Rue Charles-Magnette"
+    }, 
+    {
+      "hnrlbls": [
+        "20"
+      ], 
+      "housenumber": "20", 
+      "lat": 50.640803064606, 
+      "lon": 5.57250195123, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730255", 
+      "street": "Rue Charles-Magnette"
+    }, 
+    {
+      "busnrs": [
+        "A011", 
+        "A022", 
+        "A051", 
+        "A052", 
+        "A061", 
+        "A062", 
+        "A071", 
+        "A072"
+      ], 
+      "hnrlbls": [
         "21"
       ], 
       "housenumber": "21", 
       "lat": 50.640574528065, 
       "lon": 5.572675335476, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730255", 
+      "street": "Rue Charles-Magnette"
+    }, 
+    {
+      "hnrlbls": [
+        "21A"
+      ], 
+      "housenumber": "21A", 
+      "lat": 50.640598682666, 
+      "lon": 5.572668811468, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730255", 
+      "street": "Rue Charles-Magnette"
+    }, 
+    {
+      "hnrlbls": [
+        "21B"
+      ], 
+      "housenumber": "21B", 
+      "lat": 50.640572677112, 
+      "lon": 5.572627285651, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730255", 
+      "street": "Rue Charles-Magnette"
+    }, 
+    {
+      "hnrlbls": [
+        "22"
+      ], 
+      "housenumber": "22", 
+      "lat": 50.640787442846, 
+      "lon": 5.572430008007, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730255", 
@@ -110,6 +468,18 @@
     }, 
     {
       "hnrlbls": [
+        "24"
+      ], 
+      "housenumber": "24", 
+      "lat": 50.64078122624, 
+      "lon": 5.572352790426, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730255", 
+      "street": "Rue Charles-Magnette"
+    }, 
+    {
+      "hnrlbls": [
         "25"
       ], 
       "housenumber": "25", 
@@ -121,6 +491,95 @@
       "street": "Rue Charles-Magnette"
     }, 
     {
+      "hnrlbls": [
+        "26"
+      ], 
+      "housenumber": "26", 
+      "lat": 50.640762207604, 
+      "lon": 5.572278922542, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730255", 
+      "street": "Rue Charles-Magnette"
+    }, 
+    {
+      "hnrlbls": [
+        "27"
+      ], 
+      "housenumber": "27", 
+      "lat": 50.640485150787, 
+      "lon": 5.572483236595, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730255", 
+      "street": "Rue Charles-Magnette"
+    }, 
+    {
+      "hnrlbls": [
+        "28"
+      ], 
+      "housenumber": "28", 
+      "lat": 50.64075133714, 
+      "lon": 5.572199606833, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730255", 
+      "street": "Rue Charles-Magnette"
+    }, 
+    {
+      "hnrlbls": [
+        "2A"
+      ], 
+      "housenumber": "2A", 
+      "lat": 50.641131146762, 
+      "lon": 5.574357488808, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730255", 
+      "street": "Rue Charles-Magnette"
+    }, 
+    {
+      "hnrlbls": [
+        "2B"
+      ], 
+      "housenumber": "2B", 
+      "lat": 50.641114786447, 
+      "lon": 5.574270113658, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730255", 
+      "street": "Rue Charles-Magnette"
+    }, 
+    {
+      "hnrlbls": [
+        "2C"
+      ], 
+      "housenumber": "2C", 
+      "lat": 50.641152793888, 
+      "lon": 5.574141992133, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730255", 
+      "street": "Rue Charles-Magnette"
+    }, 
+    {
+      "hnrlbls": [
+        "2D"
+      ], 
+      "housenumber": "2D", 
+      "lat": 50.641100361251, 
+      "lon": 5.574186888422, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730255", 
+      "street": "Rue Charles-Magnette"
+    }, 
+    {
+      "busnrs": [
+        "B011", 
+        "B041", 
+        "B051"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -146,6 +605,66 @@
     }, 
     {
       "hnrlbls": [
+        "3C"
+      ], 
+      "housenumber": "3C", 
+      "lat": 50.640844921792, 
+      "lon": 5.574082518887, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730255", 
+      "street": "Rue Charles-Magnette"
+    }, 
+    {
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.641100492464, 
+      "lon": 5.57402621201, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730255", 
+      "street": "Rue Charles-Magnette"
+    }, 
+    {
+      "hnrlbls": [
+        "4A"
+      ], 
+      "housenumber": "4A", 
+      "lat": 50.641084415844, 
+      "lon": 5.574094151032, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730255", 
+      "street": "Rue Charles-Magnette"
+    }, 
+    {
+      "hnrlbls": [
+        "4B"
+      ], 
+      "housenumber": "4B", 
+      "lat": 50.641075090957, 
+      "lon": 5.574030709894, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730255", 
+      "street": "Rue Charles-Magnette"
+    }, 
+    {
+      "hnrlbls": [
+        "4C"
+      ], 
+      "housenumber": "4C", 
+      "lat": 50.641063498402, 
+      "lon": 5.57396919037, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730255", 
+      "street": "Rue Charles-Magnette"
+    }, 
+    {
+      "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
@@ -157,6 +676,15 @@
       "street": "Rue Charles-Magnette"
     }, 
     {
+      "busnrs": [
+        "B021", 
+        "B022", 
+        "B032", 
+        "B041", 
+        "B042", 
+        "B052", 
+        "B071"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -169,12 +697,107 @@
       "street": "Rue Charles-Magnette"
     }, 
     {
+      "busnrs": [
+        "0020", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024", 
+        "0025", 
+        "0026", 
+        "0028", 
+        "0029", 
+        "0030", 
+        "0032", 
+        "0033", 
+        "0034", 
+        "0036", 
+        "0040", 
+        "0042", 
+        "0044", 
+        "0045", 
+        "0046", 
+        "0047", 
+        "0048", 
+        "0050", 
+        "0052", 
+        "0053", 
+        "0054", 
+        "0055", 
+        "0056", 
+        "0057", 
+        "0058", 
+        "0060", 
+        "0061", 
+        "0063", 
+        "0065", 
+        "0066", 
+        "0067", 
+        "0068", 
+        "0073", 
+        "0074", 
+        "0075", 
+        "0076", 
+        "0077", 
+        "0078", 
+        "0080", 
+        "0082", 
+        "0083"
+      ], 
+      "hnrlbls": [
+        "60"
+      ], 
+      "housenumber": "60", 
+      "lat": 50.640880793316, 
+      "lon": 5.572349391669, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730255", 
+      "street": "Rue Charles-Magnette"
+    }, 
+    {
+      "hnrlbls": [
+        "6B"
+      ], 
+      "housenumber": "6B", 
+      "lat": 50.641026172184, 
+      "lon": 5.573778911161, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730255", 
+      "street": "Rue Charles-Magnette"
+    }, 
+    {
       "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
       "lat": 50.640724395936, 
       "lon": 5.574161674021, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730255", 
+      "street": "Rue Charles-Magnette"
+    }, 
+    {
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 50.641030227087, 
+      "lon": 5.573615224549, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730255", 
+      "street": "Rue Charles-Magnette"
+    }, 
+    {
+      "hnrlbls": [
+        "8B"
+      ], 
+      "housenumber": "8B", 
+      "lat": 50.641054182672, 
+      "lon": 5.573608823131, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730255", 

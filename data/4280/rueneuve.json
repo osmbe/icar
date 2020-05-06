@@ -49,6 +49,9 @@
       "street": "Rue Neuve"
     }, 
     {
+      "busnrs": [
+        "A/1"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -73,12 +76,15 @@
       "street": "Rue Neuve"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.675513722767, 
-      "lon": 5.111885140556, 
+      "lat": 50.67583066167, 
+      "lon": 5.112114840037, 
       "municipality": "Hannut", 
       "pcode": "4280", 
       "source": "7740648", 
@@ -97,6 +103,10 @@
       "street": "Rue Neuve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "000A"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -337,6 +347,10 @@
       "street": "Rue Neuve"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "000B"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -409,6 +423,9 @@
       "street": "Rue Neuve"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "8"
       ], 

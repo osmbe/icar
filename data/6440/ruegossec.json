@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -49,6 +52,9 @@
       "street": "Rue Gossec"
     }, 
     {
+      "busnrs": [
+        "Bte1"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -121,6 +127,9 @@
       "street": "Rue Gossec"
     }, 
     {
+      "busnrs": [
+        "Bte1"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -157,6 +166,9 @@
       "street": "Rue Gossec"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -289,12 +301,51 @@
       "street": "Rue Gossec"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
+      "hnrlbls": [
+        "33"
+      ], 
+      "housenumber": "33", 
+      "lat": 50.199498233822, 
+      "lon": 4.308583055039, 
+      "municipality": "Froidchapelle", 
+      "pcode": "6440", 
+      "source": "7720468", 
+      "street": "Rue Gossec"
+    }, 
+    {
       "hnrlbls": [
         "34"
       ], 
       "housenumber": "34", 
       "lat": 50.199128547468, 
       "lon": 4.310278557547, 
+      "municipality": "Froidchapelle", 
+      "pcode": "6440", 
+      "source": "7720468", 
+      "street": "Rue Gossec"
+    }, 
+    {
+      "hnrlbls": [
+        "35"
+      ], 
+      "housenumber": "35", 
+      "lat": 50.19945821634, 
+      "lon": 4.308774685916, 
+      "municipality": "Froidchapelle", 
+      "pcode": "6440", 
+      "source": "7720468", 
+      "street": "Rue Gossec"
+    }, 
+    {
+      "hnrlbls": [
+        "38"
+      ], 
+      "housenumber": "38", 
+      "lat": 50.199174437287, 
+      "lon": 4.311248062569, 
       "municipality": "Froidchapelle", 
       "pcode": "6440", 
       "source": "7720468", 

@@ -53,8 +53,8 @@
         "104"
       ], 
       "housenumber": "104", 
-      "lat": 50.419409359234, 
-      "lon": 4.197214954654, 
+      "lat": 50.419337935611, 
+      "lon": 4.197193710705, 
       "municipality": "Binche", 
       "pcode": "7134", 
       "source": "7719732", 
@@ -149,8 +149,8 @@
         "111"
       ], 
       "housenumber": "111", 
-      "lat": 50.419310233373, 
-      "lon": 4.197607989378, 
+      "lat": 50.419346997072, 
+      "lon": 4.197652365291, 
       "municipality": "Binche", 
       "pcode": "7134", 
       "source": "7719732", 
@@ -421,6 +421,12 @@
       "street": "Rue des Garennes"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004"
+      ], 
       "hnrlbls": [
         "138"
       ], 
@@ -589,6 +595,14 @@
       "street": "Rue des Garennes"
     }, 
     {
+      "busnrs": [
+        "A001", 
+        "A002", 
+        "B001", 
+        "B002", 
+        "RDC1", 
+        "RDC2"
+      ], 
       "hnrlbls": [
         "160"
       ], 
@@ -613,6 +627,13 @@
       "street": "Rue des Garennes"
     }, 
     {
+      "busnrs": [
+        "A001", 
+        "A003", 
+        "B001", 
+        "B002", 
+        "B003"
+      ], 
       "hnrlbls": [
         "162"
       ], 
@@ -625,6 +646,14 @@
       "street": "Rue des Garennes"
     }, 
     {
+      "busnrs": [
+        "A001", 
+        "A002", 
+        "B001", 
+        "B002", 
+        "RDC1", 
+        "RDC2"
+      ], 
       "hnrlbls": [
         "164"
       ], 
@@ -1309,6 +1338,11 @@
       "street": "Rue des Garennes"
     }, 
     {
+      "busnrs": [
+        "A001", 
+        "A002", 
+        "RDC"
+      ], 
       "hnrlbls": [
         "45"
       ], 
@@ -1465,6 +1499,11 @@
       "street": "Rue des Garennes"
     }, 
     {
+      "busnrs": [
+        "A001", 
+        "A004", 
+        "RDC0"
+      ], 
       "hnrlbls": [
         "57"
       ], 

@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0/1", 
+        "0/2", 
+        "1/3", 
+        "2/4"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -145,6 +151,10 @@
       "street": "Rue de Trazegnies"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "112"
       ], 
@@ -169,6 +179,10 @@
       "street": "Rue de Trazegnies"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "2/2"
+      ], 
       "hnrlbls": [
         "114"
       ], 
@@ -505,6 +519,33 @@
       "street": "Rue de Trazegnies"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "0/2", 
+        "0/3", 
+        "1/4", 
+        "1/5", 
+        "1/6", 
+        "1/7", 
+        "2/10", 
+        "2/11", 
+        "2/8", 
+        "2/9", 
+        "3/12", 
+        "3/13"
+      ], 
+      "hnrlbls": [
+        "150"
+      ], 
+      "housenumber": "150", 
+      "lat": 50.466772030413, 
+      "lon": 4.293106056982, 
+      "municipality": "Chapelle-lez-Herlaimont", 
+      "pcode": "7160", 
+      "source": "7708917", 
+      "street": "Rue de Trazegnies"
+    }, 
+    {
       "hnrlbls": [
         "151"
       ], 
@@ -518,11 +559,35 @@
     }, 
     {
       "hnrlbls": [
+        "152"
+      ], 
+      "housenumber": "152", 
+      "lat": 50.466746566556, 
+      "lon": 4.293457348746, 
+      "municipality": "Chapelle-lez-Herlaimont", 
+      "pcode": "7160", 
+      "source": "7708917", 
+      "street": "Rue de Trazegnies"
+    }, 
+    {
+      "hnrlbls": [
         "153"
       ], 
       "housenumber": "153", 
       "lat": 50.467018906891, 
       "lon": 4.293917107141, 
+      "municipality": "Chapelle-lez-Herlaimont", 
+      "pcode": "7160", 
+      "source": "7708917", 
+      "street": "Rue de Trazegnies"
+    }, 
+    {
+      "hnrlbls": [
+        "154"
+      ], 
+      "housenumber": "154", 
+      "lat": 50.466748267912, 
+      "lon": 4.293563176056, 
       "municipality": "Chapelle-lez-Herlaimont", 
       "pcode": "7160", 
       "source": "7708917", 
@@ -547,6 +612,18 @@
       "housenumber": "157", 
       "lat": 50.467014718712, 
       "lon": 4.294060307681, 
+      "municipality": "Chapelle-lez-Herlaimont", 
+      "pcode": "7160", 
+      "source": "7708917", 
+      "street": "Rue de Trazegnies"
+    }, 
+    {
+      "hnrlbls": [
+        "158"
+      ], 
+      "housenumber": "158", 
+      "lat": 50.466734876368, 
+      "lon": 4.293776007811, 
       "municipality": "Chapelle-lez-Herlaimont", 
       "pcode": "7160", 
       "source": "7708917", 
@@ -590,11 +667,35 @@
     }, 
     {
       "hnrlbls": [
+        "162"
+      ], 
+      "housenumber": "162", 
+      "lat": 50.466694582855, 
+      "lon": 4.294001541528, 
+      "municipality": "Chapelle-lez-Herlaimont", 
+      "pcode": "7160", 
+      "source": "7708917", 
+      "street": "Rue de Trazegnies"
+    }, 
+    {
+      "hnrlbls": [
         "163"
       ], 
       "housenumber": "163", 
       "lat": 50.467005336286, 
       "lon": 4.294277972643, 
+      "municipality": "Chapelle-lez-Herlaimont", 
+      "pcode": "7160", 
+      "source": "7708917", 
+      "street": "Rue de Trazegnies"
+    }, 
+    {
+      "hnrlbls": [
+        "164"
+      ], 
+      "housenumber": "164", 
+      "lat": 50.466693452726, 
+      "lon": 4.294094713127, 
       "municipality": "Chapelle-lez-Herlaimont", 
       "pcode": "7160", 
       "source": "7708917", 
@@ -638,11 +739,35 @@
     }, 
     {
       "hnrlbls": [
+        "170"
+      ], 
+      "housenumber": "170", 
+      "lat": 50.466663933218, 
+      "lon": 4.294432033058, 
+      "municipality": "Chapelle-lez-Herlaimont", 
+      "pcode": "7160", 
+      "source": "7708917", 
+      "street": "Rue de Trazegnies"
+    }, 
+    {
+      "hnrlbls": [
         "171"
       ], 
       "housenumber": "171", 
       "lat": 50.466992227874, 
       "lon": 4.294674952626, 
+      "municipality": "Chapelle-lez-Herlaimont", 
+      "pcode": "7160", 
+      "source": "7708917", 
+      "street": "Rue de Trazegnies"
+    }, 
+    {
+      "hnrlbls": [
+        "172"
+      ], 
+      "housenumber": "172", 
+      "lat": 50.466658251119, 
+      "lon": 4.294522593161, 
       "municipality": "Chapelle-lez-Herlaimont", 
       "pcode": "7160", 
       "source": "7708917", 
@@ -662,11 +787,35 @@
     }, 
     {
       "hnrlbls": [
+        "174"
+      ], 
+      "housenumber": "174", 
+      "lat": 50.466662394315, 
+      "lon": 4.294631512514, 
+      "municipality": "Chapelle-lez-Herlaimont", 
+      "pcode": "7160", 
+      "source": "7708917", 
+      "street": "Rue de Trazegnies"
+    }, 
+    {
+      "hnrlbls": [
         "175"
       ], 
       "housenumber": "175", 
       "lat": 50.466987219797, 
       "lon": 4.29481680207, 
+      "municipality": "Chapelle-lez-Herlaimont", 
+      "pcode": "7160", 
+      "source": "7708917", 
+      "street": "Rue de Trazegnies"
+    }, 
+    {
+      "hnrlbls": [
+        "176"
+      ], 
+      "housenumber": "176", 
+      "lat": 50.466662450742, 
+      "lon": 4.294720955182, 
       "municipality": "Chapelle-lez-Herlaimont", 
       "pcode": "7160", 
       "source": "7708917", 
@@ -734,6 +883,18 @@
     }, 
     {
       "hnrlbls": [
+        "184"
+      ], 
+      "housenumber": "184", 
+      "lat": 50.466645563094, 
+      "lon": 4.295149458446, 
+      "municipality": "Chapelle-lez-Herlaimont", 
+      "pcode": "7160", 
+      "source": "7708917", 
+      "street": "Rue de Trazegnies"
+    }, 
+    {
+      "hnrlbls": [
         "185"
       ], 
       "housenumber": "185", 
@@ -751,6 +912,18 @@
       "housenumber": "187", 
       "lat": 50.46696927351, 
       "lon": 4.29535864513, 
+      "municipality": "Chapelle-lez-Herlaimont", 
+      "pcode": "7160", 
+      "source": "7708917", 
+      "street": "Rue de Trazegnies"
+    }, 
+    {
+      "hnrlbls": [
+        "188"
+      ], 
+      "housenumber": "188", 
+      "lat": 50.46667142473, 
+      "lon": 4.295375365182, 
       "municipality": "Chapelle-lez-Herlaimont", 
       "pcode": "7160", 
       "source": "7708917", 
@@ -1009,6 +1182,13 @@
       "street": "Rue de Trazegnies"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "0/2", 
+        "1/3", 
+        "1/4", 
+        "2/5"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -1237,6 +1417,11 @@
       "street": "Rue de Trazegnies"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "1/2", 
+        "2/3"
+      ], 
       "hnrlbls": [
         "60"
       ], 

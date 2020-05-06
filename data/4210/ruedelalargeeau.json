@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "000A", 
+        "000B"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +17,10 @@
       "street": "Rue de la Large Eau"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "000C"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -29,6 +37,21 @@
         "11"
       ], 
       "housenumber": "11", 
+      "lat": 50.582228957822, 
+      "lon": 5.054284353294, 
+      "municipality": "Burdinne", 
+      "pcode": "4210", 
+      "source": "7724757", 
+      "street": "Rue de la Large Eau"
+    }, 
+    {
+      "busnrs": [
+        "000B"
+      ], 
+      "hnrlbls": [
+        "12"
+      ], 
+      "housenumber": "12", 
       "lat": 50.582233531812, 
       "lon": 5.054098295947, 
       "municipality": "Burdinne", 
@@ -133,6 +156,10 @@
       "street": "Rue de la Large Eau"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "000C"
+      ], 
       "hnrlbls": [
         "5"
       ], 

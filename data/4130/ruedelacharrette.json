@@ -13,12 +13,36 @@
       "street": "Rue de la Charrette"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021"
+      ], 
+      "hnrlbls": [
+        "10"
+      ], 
+      "housenumber": "10", 
+      "lat": 50.575080731028, 
+      "lon": 5.593650236375, 
+      "municipality": "Esneux", 
+      "pcode": "4130", 
+      "source": "7728668", 
+      "street": "Rue de la Charrette"
+    }, 
+    {
+      "busnrs": [
+        "01", 
+        "11", 
+        "12"
+      ], 
       "hnrlbls": [
         "100"
       ], 
       "housenumber": "100", 
-      "lat": 50.573521717945, 
-      "lon": 5.576758166076, 
+      "lat": 50.573598456809, 
+      "lon": 5.576354804061, 
       "municipality": "Esneux", 
       "pcode": "4130", 
       "source": "7728668", 
@@ -31,6 +55,18 @@
       "housenumber": "101", 
       "lat": 50.572944113563, 
       "lon": 5.58108011912, 
+      "municipality": "Esneux", 
+      "pcode": "4130", 
+      "source": "7728668", 
+      "street": "Rue de la Charrette"
+    }, 
+    {
+      "hnrlbls": [
+        "102"
+      ], 
+      "housenumber": "102", 
+      "lat": 50.574946843721, 
+      "lon": 5.578659484763, 
       "municipality": "Esneux", 
       "pcode": "4130", 
       "source": "7728668", 
@@ -86,6 +122,18 @@
     }, 
     {
       "hnrlbls": [
+        "11"
+      ], 
+      "housenumber": "11", 
+      "lat": 50.574505132769, 
+      "lon": 5.591905583749, 
+      "municipality": "Esneux", 
+      "pcode": "4130", 
+      "source": "7728668", 
+      "street": "Rue de la Charrette"
+    }, 
+    {
+      "hnrlbls": [
         "113"
       ], 
       "housenumber": "113", 
@@ -97,6 +145,9 @@
       "street": "Rue de la Charrette"
     }, 
     {
+      "busnrs": [
+        "0011"
+      ], 
       "hnrlbls": [
         "119"
       ], 
@@ -127,6 +178,18 @@
       "housenumber": "123", 
       "lat": 50.572937161788, 
       "lon": 5.577635059972, 
+      "municipality": "Esneux", 
+      "pcode": "4130", 
+      "source": "7728668", 
+      "street": "Rue de la Charrette"
+    }, 
+    {
+      "hnrlbls": [
+        "13"
+      ], 
+      "housenumber": "13", 
+      "lat": 50.574478063166, 
+      "lon": 5.591764790781, 
       "municipality": "Esneux", 
       "pcode": "4130", 
       "source": "7728668", 
@@ -302,6 +365,18 @@
     }, 
     {
       "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 50.574650337892, 
+      "lon": 5.592690125454, 
+      "municipality": "Esneux", 
+      "pcode": "4130", 
+      "source": "7728668", 
+      "street": "Rue de la Charrette"
+    }, 
+    {
+      "hnrlbls": [
         "30"
       ], 
       "housenumber": "30", 
@@ -325,6 +400,12 @@
       "street": "Rue de la Charrette"
     }, 
     {
+      "busnrs": [
+        "-11", 
+        "01", 
+        "11", 
+        "12"
+      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -470,6 +551,18 @@
     }, 
     {
       "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 50.574625530025, 
+      "lon": 5.592560596841, 
+      "municipality": "Esneux", 
+      "pcode": "4130", 
+      "source": "7728668", 
+      "street": "Rue de la Charrette"
+    }, 
+    {
+      "hnrlbls": [
         "50"
       ], 
       "housenumber": "50", 
@@ -511,6 +604,18 @@
       "housenumber": "54", 
       "lat": 50.573150943324, 
       "lon": 5.586375236816, 
+      "municipality": "Esneux", 
+      "pcode": "4130", 
+      "source": "7728668", 
+      "street": "Rue de la Charrette"
+    }, 
+    {
+      "hnrlbls": [
+        "55"
+      ], 
+      "housenumber": "55", 
+      "lat": 50.572641161675, 
+      "lon": 5.586106929609, 
       "municipality": "Esneux", 
       "pcode": "4130", 
       "source": "7728668", 
@@ -625,12 +730,29 @@
       "street": "Rue de la Charrette"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "69"
       ], 
       "housenumber": "69", 
       "lat": 50.572978338511, 
       "lon": 5.584265246322, 
+      "municipality": "Esneux", 
+      "pcode": "4130", 
+      "source": "7728668", 
+      "street": "Rue de la Charrette"
+    }, 
+    {
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 50.574589071967, 
+      "lon": 5.592294411501, 
       "municipality": "Esneux", 
       "pcode": "4130", 
       "source": "7728668", 
@@ -713,8 +835,20 @@
         "80"
       ], 
       "housenumber": "80", 
-      "lat": 50.573359740166, 
-      "lon": 5.581696591961, 
+      "lat": 50.573335941801, 
+      "lon": 5.581697476301, 
+      "municipality": "Esneux", 
+      "pcode": "4130", 
+      "source": "7728668", 
+      "street": "Rue de la Charrette"
+    }, 
+    {
+      "hnrlbls": [
+        "80A"
+      ], 
+      "housenumber": "80A", 
+      "lat": 50.573204959548, 
+      "lon": 5.581218415292, 
       "municipality": "Esneux", 
       "pcode": "4130", 
       "source": "7728668", 
@@ -763,6 +897,18 @@
       "housenumber": "89", 
       "lat": 50.573106492172, 
       "lon": 5.582956938226, 
+      "municipality": "Esneux", 
+      "pcode": "4130", 
+      "source": "7728668", 
+      "street": "Rue de la Charrette"
+    }, 
+    {
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.574561983227, 
+      "lon": 5.592155485566, 
       "municipality": "Esneux", 
       "pcode": "4130", 
       "source": "7728668", 
@@ -841,24 +987,36 @@
       "street": "Rue de la Charrette"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "002", 
+        "011", 
+        "012"
+      ], 
       "hnrlbls": [
         "98a"
       ], 
       "housenumber": "98a", 
-      "lat": 50.573313151074, 
-      "lon": 5.57622386199, 
+      "lat": 50.573434351234, 
+      "lon": 5.575776807001, 
       "municipality": "Esneux", 
       "pcode": "4130", 
       "source": "7728668", 
       "street": "Rue de la Charrette"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "002", 
+        "011", 
+        "012"
+      ], 
       "hnrlbls": [
         "98b"
       ], 
       "housenumber": "98b", 
-      "lat": 50.573302671451, 
-      "lon": 5.576546356839, 
+      "lat": 50.573429896389, 
+      "lon": 5.576091986244, 
       "municipality": "Esneux", 
       "pcode": "4130", 
       "source": "7728668", 

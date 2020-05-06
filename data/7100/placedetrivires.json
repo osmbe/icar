@@ -49,6 +49,10 @@
       "street": "Place de Trivi\u00e8res"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -85,6 +89,12 @@
       "street": "Place de Trivi\u00e8res"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -145,12 +155,39 @@
       "street": "Place de Trivi\u00e8res"
     }, 
     {
+      "busnrs": [
+        "0002"
+      ], 
       "hnrlbls": [
         "22"
       ], 
       "housenumber": "22", 
       "lat": 50.447260874677, 
       "lon": 4.146577486897, 
+      "municipality": "La Louvi\u00e8re", 
+      "pcode": "7100", 
+      "source": "7717091", 
+      "street": "Place de Trivi\u00e8res"
+    }, 
+    {
+      "hnrlbls": [
+        "23"
+      ], 
+      "housenumber": "23", 
+      "lat": 50.446999765247, 
+      "lon": 4.146092982814, 
+      "municipality": "La Louvi\u00e8re", 
+      "pcode": "7100", 
+      "source": "7717091", 
+      "street": "Place de Trivi\u00e8res"
+    }, 
+    {
+      "hnrlbls": [
+        "25"
+      ], 
+      "housenumber": "25", 
+      "lat": 50.447126818796, 
+      "lon": 4.145634464593, 
       "municipality": "La Louvi\u00e8re", 
       "pcode": "7100", 
       "source": "7717091", 

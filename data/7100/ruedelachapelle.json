@@ -73,6 +73,10 @@
       "street": "Rue de la Chapelle"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -217,6 +221,11 @@
       "street": "Rue de la Chapelle"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "40"
       ], 
@@ -391,6 +400,18 @@
       "housenumber": "59", 
       "lat": 50.445524926964, 
       "lon": 4.142191321297, 
+      "municipality": "La Louvi\u00e8re", 
+      "pcode": "7100", 
+      "source": "7717231", 
+      "street": "Rue de la Chapelle"
+    }, 
+    {
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.44687939251, 
+      "lon": 4.144712007209, 
       "municipality": "La Louvi\u00e8re", 
       "pcode": "7100", 
       "source": "7717231", 
@@ -577,6 +598,9 @@
       "street": "Rue de la Chapelle"
     }, 
     {
+      "busnrs": [
+        "B000"
+      ], 
       "hnrlbls": [
         "85"
       ], 

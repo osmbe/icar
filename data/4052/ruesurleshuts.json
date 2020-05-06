@@ -73,6 +73,9 @@
       "street": "Rue sur les Huts"
     }, 
     {
+      "busnrs": [
+        "B001"
+      ], 
       "hnrlbls": [
         "15A"
       ], 
@@ -182,18 +185,6 @@
     }, 
     {
       "hnrlbls": [
-        "4"
-      ], 
-      "housenumber": "4", 
-      "lat": 50.555958507083, 
-      "lon": 5.630098221374, 
-      "municipality": "Chaudfontaine", 
-      "pcode": "4052", 
-      "source": "7728236", 
-      "street": "Rue sur les Huts"
-    }, 
-    {
-      "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
@@ -221,8 +212,8 @@
         "6A"
       ], 
       "housenumber": "6A", 
-      "lat": 50.555488374799, 
-      "lon": 5.629662952912, 
+      "lat": 50.555500878557, 
+      "lon": 5.629694654694, 
       "municipality": "Chaudfontaine", 
       "pcode": "4052", 
       "source": "7728236", 

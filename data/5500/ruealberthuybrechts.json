@@ -1,6 +1,23 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A1", 
+        "A1B1", 
+        "A2", 
+        "A3", 
+        "A4", 
+        "AB5", 
+        "B1", 
+        "B2", 
+        "B3", 
+        "B4", 
+        "Bte3", 
+        "Bte5", 
+        "Bte6", 
+        "Bte8", 
+        "Bte9"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -74,18 +91,6 @@
     }, 
     {
       "hnrlbls": [
-        "24"
-      ], 
-      "housenumber": "24", 
-      "lat": 50.255496827742, 
-      "lon": 4.915228132901, 
-      "municipality": "Dinant", 
-      "pcode": "5500", 
-      "source": "7749203", 
-      "street": "Rue Albert Huybrechts"
-    }, 
-    {
-      "hnrlbls": [
         "26"
       ], 
       "housenumber": "26", 
@@ -97,6 +102,12 @@
       "street": "Rue Albert Huybrechts"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2", 
+        "Bte3", 
+        "Bte4"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -121,6 +132,9 @@
       "street": "Rue Albert Huybrechts"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "8"
       ], 

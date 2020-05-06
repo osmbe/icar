@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -37,6 +40,9 @@
       "street": "Place Jean Roggeman"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -86,18 +92,6 @@
     }, 
     {
       "hnrlbls": [
-        "38"
-      ], 
-      "housenumber": "38", 
-      "lat": 50.603413779554, 
-      "lon": 5.855725663533, 
-      "municipality": "Dison", 
-      "pcode": "4820", 
-      "source": "7735610", 
-      "street": "Place Jean Roggeman"
-    }, 
-    {
-      "hnrlbls": [
         "39"
       ], 
       "housenumber": "39", 
@@ -109,6 +103,11 @@
       "street": "Place Jean Roggeman"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "4"
       ], 

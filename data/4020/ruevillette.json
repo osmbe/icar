@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +19,18 @@
       "street": "Rue Villette"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0041", 
+        "0042"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -25,6 +43,12 @@
       "street": "Rue Villette"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -37,6 +61,18 @@
       "street": "Rue Villette"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0041", 
+        "0042"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -73,6 +109,13 @@
       "street": "Rue Villette"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -85,6 +128,10 @@
       "street": "Rue Villette"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -133,6 +180,11 @@
       "street": "Rue Villette"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -145,6 +197,12 @@
       "street": "Rue Villette"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -157,6 +215,12 @@
       "street": "Rue Villette"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -169,6 +233,11 @@
       "street": "Rue Villette"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -206,6 +275,18 @@
     }, 
     {
       "hnrlbls": [
+        "28"
+      ], 
+      "housenumber": "28", 
+      "lat": 50.635736638275, 
+      "lon": 5.581300744964, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7731403", 
+      "street": "Rue Villette"
+    }, 
+    {
+      "hnrlbls": [
         "29"
       ], 
       "housenumber": "29", 
@@ -217,6 +298,14 @@
       "street": "Rue Villette"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -241,6 +330,13 @@
       "street": "Rue Villette"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "32"
       ], 
@@ -289,6 +385,13 @@
       "street": "Rue Villette"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "36"
       ], 
@@ -301,6 +404,22 @@
       "street": "Rue Villette"
     }, 
     {
+      "hnrlbls": [
+        "37"
+      ], 
+      "housenumber": "37", 
+      "lat": 50.635203096034, 
+      "lon": 5.582042522319, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7731403", 
+      "street": "Rue Villette"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "38"
       ], 
@@ -326,6 +445,35 @@
     }, 
     {
       "hnrlbls": [
+        "3A"
+      ], 
+      "housenumber": "3A", 
+      "lat": 50.636661160277, 
+      "lon": 5.582962084188, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7731403", 
+      "street": "Rue Villette"
+    }, 
+    {
+      "hnrlbls": [
+        "3B"
+      ], 
+      "housenumber": "3B", 
+      "lat": 50.636604182028, 
+      "lon": 5.582988979044, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7731403", 
+      "street": "Rue Villette"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
+      "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
@@ -337,6 +485,11 @@
       "street": "Rue Villette"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "40"
       ], 
@@ -349,6 +502,13 @@
       "street": "Rue Villette"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "41"
       ], 
@@ -361,6 +521,16 @@
       "street": "Rue Villette"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022", 
+        "0031"
+      ], 
       "hnrlbls": [
         "42"
       ], 
@@ -373,6 +543,12 @@
       "street": "Rue Villette"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "43"
       ], 
@@ -397,6 +573,13 @@
       "street": "Rue Villette"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "45"
       ], 
@@ -409,6 +592,13 @@
       "street": "Rue Villette"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "47"
       ], 
@@ -421,6 +611,12 @@
       "street": "Rue Villette"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "49"
       ], 
@@ -445,6 +641,12 @@
       "street": "Rue Villette"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "51"
       ], 
@@ -458,6 +660,26 @@
     }, 
     {
       "hnrlbls": [
+        "53"
+      ], 
+      "housenumber": "53", 
+      "lat": 50.634730935982, 
+      "lon": 5.581760357239, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7731403", 
+      "street": "Rue Villette"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0031"
+      ], 
+      "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
@@ -469,6 +691,12 @@
       "street": "Rue Villette"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -481,6 +709,12 @@
       "street": "Rue Villette"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "8"
       ], 
@@ -493,6 +727,13 @@
       "street": "Rue Villette"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "9"
       ], 

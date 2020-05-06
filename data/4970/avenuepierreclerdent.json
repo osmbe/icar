@@ -169,12 +169,32 @@
       "street": "Avenue Pierre Clerdent"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
       "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
       "lat": 50.38754017274, 
       "lon": 5.881343772255, 
+      "municipality": "Stavelot", 
+      "pcode": "4970", 
+      "source": "7738040", 
+      "street": "Avenue Pierre Clerdent"
+    }, 
+    {
+      "hnrlbls": [
+        "4B"
+      ], 
+      "housenumber": "4B", 
+      "lat": 50.387979765742, 
+      "lon": 5.88144738165, 
       "municipality": "Stavelot", 
       "pcode": "4970", 
       "source": "7738040", 

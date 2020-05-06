@@ -25,6 +25,10 @@
       "street": "Rue de Mery"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0021"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -230,6 +234,18 @@
     }, 
     {
       "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 50.53717278819, 
+      "lon": 5.577266828642, 
+      "municipality": "Esneux", 
+      "pcode": "4130", 
+      "source": "7728688", 
+      "street": "Rue de Mery"
+    }, 
+    {
+      "hnrlbls": [
         "30"
       ], 
       "housenumber": "30", 
@@ -278,11 +294,28 @@
     }, 
     {
       "hnrlbls": [
+        "3A"
+      ], 
+      "housenumber": "3A", 
+      "lat": 50.537318761115, 
+      "lon": 5.577528125619, 
+      "municipality": "Esneux", 
+      "pcode": "4130", 
+      "source": "7728688", 
+      "street": "Rue de Mery"
+    }, 
+    {
+      "busnrs": [
+        "001", 
+        "011", 
+        "021"
+      ], 
+      "hnrlbls": [
         "3B"
       ], 
       "housenumber": "3B", 
-      "lat": 50.537328645001, 
-      "lon": 5.577551624622, 
+      "lat": 50.537330021595, 
+      "lon": 5.577590854275, 
       "municipality": "Esneux", 
       "pcode": "4130", 
       "source": "7728688", 
@@ -301,6 +334,10 @@
       "street": "Rue de Mery"
     }, 
     {
+      "busnrs": [
+        "40/001", 
+        "40/011"
+      ], 
       "hnrlbls": [
         "40"
       ], 

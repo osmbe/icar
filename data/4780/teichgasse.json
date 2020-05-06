@@ -97,12 +97,33 @@
       "street": "Teichgasse"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "1/1", 
+        "2/1"
+      ], 
       "hnrlbls": [
         "21"
       ], 
       "housenumber": "21", 
       "lat": 50.282005755326, 
       "lon": 6.126626618382, 
+      "municipality": "Sankt Vith", 
+      "pcode": "4780", 
+      "source": "7737790", 
+      "street": "Teichgasse"
+    }, 
+    {
+      "busnrs": [
+        "1/1", 
+        "2/1"
+      ], 
+      "hnrlbls": [
+        "2A"
+      ], 
+      "housenumber": "2A", 
+      "lat": 50.281545825818, 
+      "lon": 6.125951912489, 
       "municipality": "Sankt Vith", 
       "pcode": "4780", 
       "source": "7737790", 
@@ -145,6 +166,12 @@
       "street": "Teichgasse"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "1/1", 
+        "2/1", 
+        "3/1"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -163,6 +190,30 @@
       "housenumber": "7", 
       "lat": 50.28177904134, 
       "lon": 6.126007392483, 
+      "municipality": "Sankt Vith", 
+      "pcode": "4780", 
+      "source": "7737790", 
+      "street": "Teichgasse"
+    }, 
+    {
+      "hnrlbls": [
+        "7B"
+      ], 
+      "housenumber": "7B", 
+      "lat": 50.281768513503, 
+      "lon": 6.126039794001, 
+      "municipality": "Sankt Vith", 
+      "pcode": "4780", 
+      "source": "7737790", 
+      "street": "Teichgasse"
+    }, 
+    {
+      "hnrlbls": [
+        "7C"
+      ], 
+      "housenumber": "7C", 
+      "lat": 50.281756324109, 
+      "lon": 6.126008340978, 
       "municipality": "Sankt Vith", 
       "pcode": "4780", 
       "source": "7737790", 

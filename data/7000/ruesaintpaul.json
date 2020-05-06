@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "2-1", 
+        "2-2"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -73,6 +79,9 @@
       "street": "Rue Saint-Paul"
     }, 
     {
+      "busnrs": [
+        "1-1"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -97,6 +106,11 @@
       "street": "Rue Saint-Paul"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "2-1"
+      ], 
       "hnrlbls": [
         "5"
       ], 

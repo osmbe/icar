@@ -121,6 +121,10 @@
       "street": "Rue du Redeau"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -361,6 +365,24 @@
       "street": "Rue du Redeau"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004"
+      ], 
+      "hnrlbls": [
+        "47A"
+      ], 
+      "housenumber": "47A", 
+      "lat": 50.332698084505, 
+      "lon": 4.896726608913, 
+      "municipality": "Yvoir", 
+      "pcode": "5530", 
+      "source": "7750976", 
+      "street": "Rue du Redeau"
+    }, 
+    {
       "hnrlbls": [
         "49"
       ], 
@@ -530,6 +552,18 @@
     }, 
     {
       "hnrlbls": [
+        "62A"
+      ], 
+      "housenumber": "62A", 
+      "lat": 50.33369465281, 
+      "lon": 4.898308743726, 
+      "municipality": "Yvoir", 
+      "pcode": "5530", 
+      "source": "7750976", 
+      "street": "Rue du Redeau"
+    }, 
+    {
+      "hnrlbls": [
         "63"
       ], 
       "housenumber": "63", 
@@ -566,18 +600,6 @@
     }, 
     {
       "hnrlbls": [
-        "69"
-      ], 
-      "housenumber": "69", 
-      "lat": 50.336910413908, 
-      "lon": 4.904041296331, 
-      "municipality": "Yvoir", 
-      "pcode": "5530", 
-      "source": "7750976", 
-      "street": "Rue du Redeau"
-    }, 
-    {
-      "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
@@ -589,12 +611,15 @@
       "street": "Rue du Redeau"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "70"
       ], 
       "housenumber": "70", 
-      "lat": 50.337097542525, 
-      "lon": 4.906293855761, 
+      "lat": 50.337128881948, 
+      "lon": 4.906520205942, 
       "municipality": "Yvoir", 
       "pcode": "5530", 
       "source": "7750976", 

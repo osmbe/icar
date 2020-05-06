@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A001", 
+        "A002", 
+        "A003", 
+        "A004"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -361,6 +367,10 @@
       "street": "Rue Saint-Valentin"
     }, 
     {
+      "busnrs": [
+        "011", 
+        "021"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -521,8 +531,8 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 50.402126979934, 
-      "lon": 4.481457760861, 
+      "lat": 50.402128897508, 
+      "lon": 4.481519530692, 
       "municipality": "Charleroi", 
       "pcode": "6061", 
       "source": "7761770", 
@@ -565,6 +575,9 @@
       "street": "Rue Saint-Valentin"
     }, 
     {
+      "busnrs": [
+        "011"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -605,8 +618,8 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 50.402401465706, 
-      "lon": 4.481447473024, 
+      "lat": 50.402403856525, 
+      "lon": 4.481521777515, 
       "municipality": "Charleroi", 
       "pcode": "6061", 
       "source": "7761770", 
@@ -661,6 +674,10 @@
       "street": "Rue Saint-Valentin"
     }, 
     {
+      "busnrs": [
+        "D011", 
+        "D012"
+      ], 
       "hnrlbls": [
         "51"
       ], 
@@ -685,6 +702,13 @@
       "street": "Rue Saint-Valentin"
     }, 
     {
+      "busnrs": [
+        "011", 
+        "012", 
+        "013", 
+        "014", 
+        "015"
+      ], 
       "hnrlbls": [
         "52"
       ], 
@@ -925,6 +949,9 @@
       "street": "Rue Saint-Valentin"
     }, 
     {
+      "busnrs": [
+        "021"
+      ], 
       "hnrlbls": [
         "76"
       ], 
@@ -985,12 +1012,15 @@
       "street": "Rue Saint-Valentin"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "88"
       ], 
       "housenumber": "88", 
-      "lat": 50.404611584255, 
-      "lon": 4.481529911287, 
+      "lat": 50.404599176027, 
+      "lon": 4.481430174292, 
       "municipality": "Charleroi", 
       "pcode": "6061", 
       "source": "7761770", 

@@ -109,6 +109,14 @@
       "street": "Avenue Raymond Brassinne"
     }, 
     {
+      "busnrs": [
+        "0003", 
+        "0005", 
+        "0006", 
+        "A001", 
+        "B004", 
+        "D007"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -181,6 +189,10 @@
       "street": "Avenue Raymond Brassinne"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -193,6 +205,11 @@
       "street": "Avenue Raymond Brassinne"
     }, 
     {
+      "busnrs": [
+        "B001", 
+        "C002", 
+        "D003"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -235,6 +252,18 @@
       "housenumber": "7", 
       "lat": 50.68315178499, 
       "lon": 4.380078865714, 
+      "municipality": "Braine-l'Alleud", 
+      "pcode": "1420", 
+      "source": "7700305", 
+      "street": "Avenue Raymond Brassinne"
+    }, 
+    {
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 50.683158304931, 
+      "lon": 4.379371203496, 
       "municipality": "Braine-l'Alleud", 
       "pcode": "1420", 
       "source": "7700305", 

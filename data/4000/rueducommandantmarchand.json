@@ -37,6 +37,12 @@
       "street": "Rue du Commandant-Marchand"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -49,6 +55,13 @@
       "street": "Rue du Commandant-Marchand"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -61,6 +74,13 @@
       "street": "Rue du Commandant-Marchand"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -74,6 +94,26 @@
     }, 
     {
       "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.6504524194, 
+      "lon": 5.599155905735, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730798", 
+      "street": "Rue du Commandant-Marchand"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0031"
+      ], 
+      "hnrlbls": [
         "21"
       ], 
       "housenumber": "21", 
@@ -85,6 +125,10 @@
       "street": "Rue du Commandant-Marchand"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -110,6 +154,28 @@
     }, 
     {
       "hnrlbls": [
+        "27"
+      ], 
+      "housenumber": "27", 
+      "lat": 50.650587529673, 
+      "lon": 5.600138924446, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730798", 
+      "street": "Rue du Commandant-Marchand"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032"
+      ], 
+      "hnrlbls": [
         "29"
       ], 
       "housenumber": "29", 
@@ -133,12 +199,54 @@
       "street": "Rue du Commandant-Marchand"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
       "lat": 50.650958044968, 
       "lon": 5.599276405647, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730798", 
+      "street": "Rue du Commandant-Marchand"
+    }, 
+    {
+      "hnrlbls": [
+        "5B"
+      ], 
+      "housenumber": "5B", 
+      "lat": 50.651084883555, 
+      "lon": 5.599264468556, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730798", 
+      "street": "Rue du Commandant-Marchand"
+    }, 
+    {
+      "hnrlbls": [
+        "5C"
+      ], 
+      "housenumber": "5C", 
+      "lat": 50.650969005969, 
+      "lon": 5.599296802047, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730798", 
+      "street": "Rue du Commandant-Marchand"
+    }, 
+    {
+      "hnrlbls": [
+        "5D"
+      ], 
+      "housenumber": "5D", 
+      "lat": 50.650923237762, 
+      "lon": 5.599254453867, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730798", 

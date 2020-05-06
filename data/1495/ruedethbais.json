@@ -133,12 +133,15 @@
       "street": "Rue de Th\u00e9bais"
     }, 
     {
+      "busnrs": [
+        "Cong"
+      ], 
       "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.574698412002, 
-      "lon": 4.564737245903, 
+      "lat": 50.574845597743, 
+      "lon": 4.565035806013, 
       "municipality": "Villers-la-Ville", 
       "pcode": "1495", 
       "source": "7704045", 
@@ -577,6 +580,11 @@
       "street": "Rue de Th\u00e9bais"
     }, 
     {
+      "busnrs": [
+        "/0001", 
+        "/0101", 
+        "/0201"
+      ], 
       "hnrlbls": [
         "56"
       ], 
@@ -626,6 +634,18 @@
     }, 
     {
       "hnrlbls": [
+        "64"
+      ], 
+      "housenumber": "64", 
+      "lat": 50.581413430752, 
+      "lon": 4.569056843644, 
+      "municipality": "Villers-la-Ville", 
+      "pcode": "1495", 
+      "source": "7704045", 
+      "street": "Rue de Th\u00e9bais"
+    }, 
+    {
+      "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
@@ -638,11 +658,35 @@
     }, 
     {
       "hnrlbls": [
+        "7B"
+      ], 
+      "housenumber": "7B", 
+      "lat": 50.577099611397, 
+      "lon": 4.564495197706, 
+      "municipality": "Villers-la-Ville", 
+      "pcode": "1495", 
+      "source": "7704045", 
+      "street": "Rue de Th\u00e9bais"
+    }, 
+    {
+      "hnrlbls": [
+        "7C"
+      ], 
+      "housenumber": "7C", 
+      "lat": 50.577155470121, 
+      "lon": 4.564534429117, 
+      "municipality": "Villers-la-Ville", 
+      "pcode": "1495", 
+      "source": "7704045", 
+      "street": "Rue de Th\u00e9bais"
+    }, 
+    {
+      "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.576605985662, 
-      "lon": 4.564743198423, 
+      "lat": 50.576577710715, 
+      "lon": 4.564760862755, 
       "municipality": "Villers-la-Ville", 
       "pcode": "1495", 
       "source": "7704045", 

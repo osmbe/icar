@@ -85,6 +85,10 @@
       "street": "Profond Chemin"
     }, 
     {
+      "busnrs": [
+        "A001", 
+        "A002"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -170,18 +174,6 @@
     }, 
     {
       "hnrlbls": [
-        "30"
-      ], 
-      "housenumber": "30", 
-      "lat": 50.713119621269, 
-      "lon": 3.823417424877, 
-      "municipality": "Lessines", 
-      "pcode": "7860", 
-      "source": "7717986", 
-      "street": "Profond Chemin"
-    }, 
-    {
-      "hnrlbls": [
         "31"
       ], 
       "housenumber": "31", 
@@ -254,35 +246,11 @@
     }, 
     {
       "hnrlbls": [
-        "40"
-      ], 
-      "housenumber": "40", 
-      "lat": 50.713242274069, 
-      "lon": 3.822979710567, 
-      "municipality": "Lessines", 
-      "pcode": "7860", 
-      "source": "7717986", 
-      "street": "Profond Chemin"
-    }, 
-    {
-      "hnrlbls": [
         "41"
       ], 
       "housenumber": "41", 
       "lat": 50.713490131376, 
       "lon": 3.821904779281, 
-      "municipality": "Lessines", 
-      "pcode": "7860", 
-      "source": "7717986", 
-      "street": "Profond Chemin"
-    }, 
-    {
-      "hnrlbls": [
-        "42"
-      ], 
-      "housenumber": "42", 
-      "lat": 50.713272297396, 
-      "lon": 3.822917245568, 
       "municipality": "Lessines", 
       "pcode": "7860", 
       "source": "7717986", 

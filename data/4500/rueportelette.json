@@ -1,6 +1,15 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "RCH1", 
+        "RCH2", 
+        "RCH3"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -13,6 +22,9 @@
       "street": "Rue Portelette"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -61,6 +73,10 @@
       "street": "Rue Portelette"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -73,6 +89,10 @@
       "street": "Rue Portelette"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0RCH"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -85,6 +105,10 @@
       "street": "Rue Portelette"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "0RCH"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -97,6 +121,25 @@
       "street": "Rue Portelette"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024", 
+        "0031", 
+        "0032", 
+        "0033", 
+        "14", 
+        "A/01", 
+        "A/11", 
+        "RCH1", 
+        "RCH3", 
+        "RCH4"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -121,6 +164,9 @@
       "street": "Rue Portelette"
     }, 
     {
+      "busnrs": [
+        "0002"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -265,6 +311,10 @@
       "street": "Rue Portelette"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0RCH"
+      ], 
       "hnrlbls": [
         "33"
       ], 

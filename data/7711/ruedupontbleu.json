@@ -13,6 +13,10 @@
       "street": "Rue du Pont Bleu"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -50,6 +54,18 @@
     }, 
     {
       "hnrlbls": [
+        "13"
+      ], 
+      "housenumber": "13", 
+      "lat": 50.719407373872, 
+      "lon": 3.310753733435, 
+      "municipality": "Mouscron", 
+      "pcode": "7711", 
+      "source": "7716019", 
+      "street": "Rue du Pont Bleu"
+    }, 
+    {
+      "hnrlbls": [
         "14"
       ], 
       "housenumber": "14", 
@@ -73,6 +89,12 @@
       "street": "Rue du Pont Bleu"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "A001", 
+        "A002"
+      ], 
       "hnrlbls": [
         "2"
       ], 

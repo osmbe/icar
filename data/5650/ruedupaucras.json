@@ -157,10 +157,14 @@
       "street": "Rue du Paucras"
     }, 
     {
-      "hnrlbls": [
-        "240001"
+      "busnrs": [
+        "0001", 
+        "0002"
       ], 
-      "housenumber": "240001", 
+      "hnrlbls": [
+        "24"
+      ], 
+      "housenumber": "24", 
       "lat": 50.269400191065, 
       "lon": 4.437586984712, 
       "municipality": "Walcourt", 

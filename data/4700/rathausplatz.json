@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -37,6 +41,16 @@
       "street": "Rathausplatz"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -61,12 +75,44 @@
       "street": "Rathausplatz"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
+      "hnrlbls": [
+        "15"
+      ], 
+      "housenumber": "15", 
+      "lat": 50.631854018523, 
+      "lon": 6.030178195637, 
+      "municipality": "Eupen", 
+      "pcode": "4700", 
+      "source": "7735881", 
+      "street": "Rathausplatz"
+    }, 
+    {
       "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
       "lat": 50.631659019029, 
       "lon": 6.028981730831, 
+      "municipality": "Eupen", 
+      "pcode": "4700", 
+      "source": "7735881", 
+      "street": "Rathausplatz"
+    }, 
+    {
+      "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 50.631463023085, 
+      "lon": 6.029265535405, 
       "municipality": "Eupen", 
       "pcode": "4700", 
       "source": "7735881", 
@@ -98,6 +144,18 @@
     }, 
     {
       "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 50.631571494318, 
+      "lon": 6.029567862445, 
+      "municipality": "Eupen", 
+      "pcode": "4700", 
+      "source": "7735881", 
+      "street": "Rathausplatz"
+    }, 
+    {
+      "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
@@ -113,8 +171,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.631580814774, 
-      "lon": 6.029619157177, 
+      "lat": 50.631625817809, 
+      "lon": 6.029666752163, 
       "municipality": "Eupen", 
       "pcode": "4700", 
       "source": "7735881", 

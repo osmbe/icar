@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "001", 
+        "021", 
+        "031"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -13,6 +18,10 @@
       "street": "Rue Vauban"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -37,6 +46,11 @@
       "street": "Rue Vauban"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0003", 
+        "021"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -49,6 +63,9 @@
       "street": "Rue Vauban"
     }, 
     {
+      "busnrs": [
+        "011"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -61,6 +78,10 @@
       "street": "Rue Vauban"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "021"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -73,6 +94,11 @@
       "street": "Rue Vauban"
     }, 
     {
+      "busnrs": [
+        "00RC", 
+        "011", 
+        "021"
+      ], 
       "hnrlbls": [
         "9"
       ], 

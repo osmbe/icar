@@ -685,6 +685,9 @@
       "street": "Rue de P\u00e2turages"
     }, 
     {
+      "busnrs": [
+        "0024"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -793,6 +796,12 @@
       "street": "Rue de P\u00e2turages"
     }, 
     {
+      "busnrs": [
+        "Apt1", 
+        "Apt2", 
+        "Apt3", 
+        "Apt4"
+      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -877,6 +886,9 @@
       "street": "Rue de P\u00e2turages"
     }, 
     {
+      "busnrs": [
+        "0040"
+      ], 
       "hnrlbls": [
         "38"
       ], 
@@ -1085,8 +1097,8 @@
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 50.41251347756, 
-      "lon": 3.848451537899, 
+      "lat": 50.41249221954, 
+      "lon": 3.848511890668, 
       "municipality": "Colfontaine", 
       "pcode": "7340", 
       "source": "7715027", 

@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1A"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -121,6 +124,16 @@
       "street": "Rue de Sart-lez-Moulin"
     }, 
     {
+      "busnrs": [
+        "0/8", 
+        "1/10", 
+        "1/11", 
+        "1/12", 
+        "1/13", 
+        "1/15", 
+        "1/16", 
+        "1/9"
+      ], 
       "hnrlbls": [
         "121"
       ], 
@@ -217,6 +230,10 @@
       "street": "Rue de Sart-lez-Moulin"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "1/1"
+      ], 
       "hnrlbls": [
         "129"
       ], 
@@ -229,6 +246,12 @@
       "street": "Rue de Sart-lez-Moulin"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "0/2", 
+        "1/1", 
+        "2/1"
+      ], 
       "hnrlbls": [
         "130"
       ], 
@@ -361,6 +384,10 @@
       "street": "Rue de Sart-lez-Moulin"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "1/1"
+      ], 
       "hnrlbls": [
         "151"
       ], 
@@ -709,6 +736,11 @@
       "street": "Rue de Sart-lez-Moulin"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "0/2", 
+        "1/1"
+      ], 
       "hnrlbls": [
         "51"
       ], 
@@ -781,6 +813,9 @@
       "street": "Rue de Sart-lez-Moulin"
     }, 
     {
+      "busnrs": [
+        "1/1"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -889,6 +924,9 @@
       "street": "Rue de Sart-lez-Moulin"
     }, 
     {
+      "busnrs": [
+        "02/1"
+      ], 
       "hnrlbls": [
         "69"
       ], 
@@ -985,12 +1023,15 @@
       "street": "Rue de Sart-lez-Moulin"
     }, 
     {
+      "busnrs": [
+        "1/1"
+      ], 
       "hnrlbls": [
         "79"
       ], 
       "housenumber": "79", 
-      "lat": 50.440160522224, 
-      "lon": 4.358860967104, 
+      "lat": 50.440265496619, 
+      "lon": 4.35890713541, 
       "municipality": "Courcelles", 
       "pcode": "6180", 
       "source": "7709598", 

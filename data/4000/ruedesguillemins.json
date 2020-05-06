@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -13,12 +19,42 @@
       "street": "Rue des Guillemins"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "100"
       ], 
       "housenumber": "100", 
       "lat": 50.626853827076, 
       "lon": 5.566220415871, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730636", 
+      "street": "Rue des Guillemins"
+    }, 
+    {
+      "hnrlbls": [
+        "101"
+      ], 
+      "housenumber": "101", 
+      "lat": 50.626838835863, 
+      "lon": 5.567556577561, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730636", 
+      "street": "Rue des Guillemins"
+    }, 
+    {
+      "hnrlbls": [
+        "103"
+      ], 
+      "housenumber": "103", 
+      "lat": 50.626812541647, 
+      "lon": 5.567665456512, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730636", 
@@ -37,6 +73,21 @@
       "street": "Rue des Guillemins"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024", 
+        "0031", 
+        "0032", 
+        "0033", 
+        "0034"
+      ], 
       "hnrlbls": [
         "105"
       ], 
@@ -49,6 +100,12 @@
       "street": "Rue des Guillemins"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "106"
       ], 
@@ -61,6 +118,14 @@
       "street": "Rue des Guillemins"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "107"
       ], 
@@ -85,6 +150,15 @@
       "street": "Rue des Guillemins"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031"
+      ], 
       "hnrlbls": [
         "109"
       ], 
@@ -109,6 +183,17 @@
       "street": "Rue des Guillemins"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0033"
+      ], 
       "hnrlbls": [
         "110"
       ], 
@@ -133,6 +218,14 @@
       "street": "Rue des Guillemins"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "112"
       ], 
@@ -145,6 +238,9 @@
       "street": "Rue des Guillemins"
     }, 
     {
+      "busnrs": [
+        "0022"
+      ], 
       "hnrlbls": [
         "113"
       ], 
@@ -169,6 +265,11 @@
       "street": "Rue des Guillemins"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "115"
       ], 
@@ -181,6 +282,10 @@
       "street": "Rue des Guillemins"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "116"
       ], 
@@ -193,6 +298,15 @@
       "street": "Rue des Guillemins"
     }, 
     {
+      "busnrs": [
+        "A011", 
+        "A012", 
+        "A021", 
+        "A023", 
+        "A031", 
+        "A032", 
+        "A033"
+      ], 
       "hnrlbls": [
         "117"
       ], 
@@ -211,6 +325,18 @@
       "housenumber": "119", 
       "lat": 50.626668660447, 
       "lon": 5.566622637176, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730636", 
+      "street": "Rue des Guillemins"
+    }, 
+    {
+      "hnrlbls": [
+        "12"
+      ], 
+      "housenumber": "12", 
+      "lat": 50.629853878173, 
+      "lon": 5.568069255532, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730636", 
@@ -241,12 +367,49 @@
       "street": "Rue des Guillemins"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024", 
+        "0031", 
+        "0032", 
+        "0033"
+      ], 
       "hnrlbls": [
         "125"
       ], 
       "housenumber": "125", 
       "lat": 50.626503341969, 
       "lon": 5.566512980568, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730636", 
+      "street": "Rue des Guillemins"
+    }, 
+    {
+      "hnrlbls": [
+        "125A"
+      ], 
+      "housenumber": "125A", 
+      "lat": 50.626511069702, 
+      "lon": 5.566553715781, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730636", 
+      "street": "Rue des Guillemins"
+    }, 
+    {
+      "hnrlbls": [
+        "125B"
+      ], 
+      "housenumber": "125B", 
+      "lat": 50.626456145018, 
+      "lon": 5.566561368319, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730636", 
@@ -277,6 +440,16 @@
       "street": "Rue des Guillemins"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -302,6 +475,30 @@
     }, 
     {
       "hnrlbls": [
+        "133"
+      ], 
+      "housenumber": "133", 
+      "lat": 50.626374866088, 
+      "lon": 5.566683834457, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730636", 
+      "street": "Rue des Guillemins"
+    }, 
+    {
+      "hnrlbls": [
+        "135"
+      ], 
+      "housenumber": "135", 
+      "lat": 50.626289905298, 
+      "lon": 5.566867128186, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730636", 
+      "street": "Rue des Guillemins"
+    }, 
+    {
+      "hnrlbls": [
         "139"
       ], 
       "housenumber": "139", 
@@ -313,6 +510,21 @@
       "street": "Rue des Guillemins"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0021", 
+        "0031", 
+        "0032", 
+        "0041", 
+        "0042", 
+        "0051", 
+        "0052", 
+        "0061", 
+        "0062", 
+        "0071", 
+        "0072", 
+        "0081"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -373,12 +585,38 @@
       "street": "Rue des Guillemins"
     }, 
     {
+      "busnrs": [
+        "B012", 
+        "B013", 
+        "B022", 
+        "B031", 
+        "B041", 
+        "B042", 
+        "B052", 
+        "B061", 
+        "B062", 
+        "B071", 
+        "B072", 
+        "B081"
+      ], 
       "hnrlbls": [
         "17"
       ], 
       "housenumber": "17", 
       "lat": 50.629208506675, 
       "lon": 5.568237540188, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730636", 
+      "street": "Rue des Guillemins"
+    }, 
+    {
+      "hnrlbls": [
+        "18"
+      ], 
+      "housenumber": "18", 
+      "lat": 50.629525924796, 
+      "lon": 5.567876900993, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730636", 
@@ -397,12 +635,30 @@
       "street": "Rue des Guillemins"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
       "lat": 50.630121412793, 
       "lon": 5.568363708655, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730636", 
+      "street": "Rue des Guillemins"
+    }, 
+    {
+      "hnrlbls": [
+        "20"
+      ], 
+      "housenumber": "20", 
+      "lat": 50.629525924796, 
+      "lon": 5.567876900993, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730636", 
@@ -433,6 +689,11 @@
       "street": "Rue des Guillemins"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -445,6 +706,10 @@
       "street": "Rue des Guillemins"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -469,6 +734,17 @@
       "street": "Rue des Guillemins"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041", 
+        "0051", 
+        "0061", 
+        "0071", 
+        "0081"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -494,6 +770,25 @@
     }, 
     {
       "hnrlbls": [
+        "28"
+      ], 
+      "housenumber": "28", 
+      "lat": 50.629525924796, 
+      "lon": 5.567876900993, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730636", 
+      "street": "Rue des Guillemins"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
+      "hnrlbls": [
         "29"
       ], 
       "housenumber": "29", 
@@ -511,6 +806,18 @@
       "housenumber": "3", 
       "lat": 50.62988328523, 
       "lon": 5.568607311807, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730636", 
+      "street": "Rue des Guillemins"
+    }, 
+    {
+      "hnrlbls": [
+        "30"
+      ], 
+      "housenumber": "30", 
+      "lat": 50.629525924796, 
+      "lon": 5.567876900993, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730636", 
@@ -541,6 +848,16 @@
       "street": "Rue des Guillemins"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0011", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "33"
       ], 
@@ -554,6 +871,25 @@
     }, 
     {
       "hnrlbls": [
+        "34"
+      ], 
+      "housenumber": "34", 
+      "lat": 50.629661756014, 
+      "lon": 5.567962453496, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730636", 
+      "street": "Rue des Guillemins"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
+      "hnrlbls": [
         "35"
       ], 
       "housenumber": "35", 
@@ -565,6 +901,13 @@
       "street": "Rue des Guillemins"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "36"
       ], 
@@ -577,6 +920,24 @@
       "street": "Rue des Guillemins"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0041", 
+        "0042", 
+        "0051", 
+        "0052", 
+        "0061", 
+        "0062", 
+        "0071", 
+        "0072"
+      ], 
       "hnrlbls": [
         "37"
       ], 
@@ -601,6 +962,14 @@
       "street": "Rue des Guillemins"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041", 
+        "0051"
+      ], 
       "hnrlbls": [
         "39"
       ], 
@@ -613,6 +982,12 @@
       "street": "Rue des Guillemins"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -625,6 +1000,13 @@
       "street": "Rue des Guillemins"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "40"
       ], 
@@ -661,12 +1043,59 @@
       "street": "Rue des Guillemins"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0041"
+      ], 
       "hnrlbls": [
         "43"
       ], 
       "housenumber": "43", 
       "lat": 50.628528101737, 
       "lon": 5.56778522577, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730636", 
+      "street": "Rue des Guillemins"
+    }, 
+    {
+      "hnrlbls": [
+        "44"
+      ], 
+      "housenumber": "44", 
+      "lat": 50.628945109067, 
+      "lon": 5.56756853165, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730636", 
+      "street": "Rue des Guillemins"
+    }, 
+    {
+      "hnrlbls": [
+        "44A"
+      ], 
+      "housenumber": "44A", 
+      "lat": 50.629012768906, 
+      "lon": 5.567586774882, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730636", 
+      "street": "Rue des Guillemins"
+    }, 
+    {
+      "hnrlbls": [
+        "44B"
+      ], 
+      "housenumber": "44B", 
+      "lat": 50.628954612718, 
+      "lon": 5.567585156332, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730636", 
@@ -709,6 +1138,9 @@
       "street": "Rue des Guillemins"
     }, 
     {
+      "busnrs": [
+        "0031"
+      ], 
       "hnrlbls": [
         "48"
       ], 
@@ -721,6 +1153,13 @@
       "street": "Rue des Guillemins"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "50"
       ], 
@@ -733,6 +1172,16 @@
       "street": "Rue des Guillemins"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "51"
       ], 
@@ -757,6 +1206,13 @@
       "street": "Rue des Guillemins"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "53"
       ], 
@@ -769,6 +1225,41 @@
       "street": "Rue des Guillemins"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024", 
+        "0031", 
+        "0032", 
+        "0033", 
+        "0034", 
+        "0041", 
+        "0042", 
+        "0043", 
+        "0044", 
+        "0051", 
+        "0052", 
+        "0053", 
+        "0054", 
+        "0061", 
+        "0062", 
+        "0063", 
+        "0064", 
+        "0071", 
+        "0072", 
+        "0073", 
+        "0081", 
+        "0082"
+      ], 
       "hnrlbls": [
         "54"
       ], 
@@ -806,6 +1297,23 @@
     }, 
     {
       "hnrlbls": [
+        "56B"
+      ], 
+      "housenumber": "56B", 
+      "lat": 50.628480193679, 
+      "lon": 5.567160771497, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730636", 
+      "street": "Rue des Guillemins"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
+      "hnrlbls": [
         "57"
       ], 
       "housenumber": "57", 
@@ -817,6 +1325,14 @@
       "street": "Rue des Guillemins"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "58"
       ], 
@@ -829,6 +1345,12 @@
       "street": "Rue des Guillemins"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -841,6 +1363,11 @@
       "street": "Rue des Guillemins"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "60"
       ], 
@@ -853,6 +1380,12 @@
       "street": "Rue des Guillemins"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "61"
       ], 
@@ -865,6 +1398,10 @@
       "street": "Rue des Guillemins"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "62"
       ], 
@@ -889,6 +1426,15 @@
       "street": "Rue des Guillemins"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "64"
       ], 
@@ -901,6 +1447,44 @@
       "street": "Rue des Guillemins"
     }, 
     {
+      "busnrs": [
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0042", 
+        "0051", 
+        "0052", 
+        "0061", 
+        "0062", 
+        "0071", 
+        "0072", 
+        "0081", 
+        "0082"
+      ], 
+      "hnrlbls": [
+        "65"
+      ], 
+      "housenumber": "65", 
+      "lat": 50.628018336082, 
+      "lon": 5.567561516337, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730636", 
+      "street": "Rue des Guillemins"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "66"
       ], 
@@ -913,6 +1497,12 @@
       "street": "Rue des Guillemins"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "67"
       ], 
@@ -925,6 +1515,12 @@
       "street": "Rue des Guillemins"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "68"
       ], 
@@ -973,6 +1569,13 @@
       "street": "Rue des Guillemins"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "71"
       ], 
@@ -985,6 +1588,24 @@
       "street": "Rue des Guillemins"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0041", 
+        "0042", 
+        "0051", 
+        "0052", 
+        "0061", 
+        "0062", 
+        "0071", 
+        "0072", 
+        "0081", 
+        "0082"
+      ], 
       "hnrlbls": [
         "72"
       ], 
@@ -997,6 +1618,12 @@
       "street": "Rue des Guillemins"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "73"
       ], 
@@ -1009,6 +1636,14 @@
       "street": "Rue des Guillemins"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "74"
       ], 
@@ -1021,6 +1656,13 @@
       "street": "Rue des Guillemins"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "75"
       ], 
@@ -1033,6 +1675,13 @@
       "street": "Rue des Guillemins"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "76"
       ], 
@@ -1045,6 +1694,13 @@
       "street": "Rue des Guillemins"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "77"
       ], 
@@ -1057,6 +1713,12 @@
       "street": "Rue des Guillemins"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "78"
       ], 
@@ -1093,6 +1755,12 @@
       "street": "Rue des Guillemins"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "80"
       ], 
@@ -1105,6 +1773,12 @@
       "street": "Rue des Guillemins"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "81"
       ], 
@@ -1130,6 +1804,27 @@
     }, 
     {
       "hnrlbls": [
+        "83"
+      ], 
+      "housenumber": "83", 
+      "lat": 50.627546609388, 
+      "lon": 5.567120104818, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730636", 
+      "street": "Rue des Guillemins"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032"
+      ], 
+      "hnrlbls": [
         "85"
       ], 
       "housenumber": "85", 
@@ -1153,6 +1848,16 @@
       "street": "Rue des Guillemins"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031"
+      ], 
       "hnrlbls": [
         "87"
       ], 
@@ -1165,6 +1870,12 @@
       "street": "Rue des Guillemins"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "88"
       ], 
@@ -1177,6 +1888,14 @@
       "street": "Rue des Guillemins"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "89"
       ], 
@@ -1189,6 +1908,12 @@
       "street": "Rue des Guillemins"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "9"
       ], 
@@ -1214,11 +1939,35 @@
     }, 
     {
       "hnrlbls": [
+        "91"
+      ], 
+      "housenumber": "91", 
+      "lat": 50.62697110403, 
+      "lon": 5.567030718267, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730636", 
+      "street": "Rue des Guillemins"
+    }, 
+    {
+      "hnrlbls": [
         "92"
       ], 
       "housenumber": "92", 
       "lat": 50.627019860131, 
       "lon": 5.566374347478, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730636", 
+      "street": "Rue des Guillemins"
+    }, 
+    {
+      "hnrlbls": [
+        "93"
+      ], 
+      "housenumber": "93", 
+      "lat": 50.626946499427, 
+      "lon": 5.567132714499, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730636", 
@@ -1238,6 +1987,18 @@
     }, 
     {
       "hnrlbls": [
+        "95"
+      ], 
+      "housenumber": "95", 
+      "lat": 50.626918286014, 
+      "lon": 5.567244654913, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730636", 
+      "street": "Rue des Guillemins"
+    }, 
+    {
+      "hnrlbls": [
         "96"
       ], 
       "housenumber": "96", 
@@ -1250,11 +2011,35 @@
     }, 
     {
       "hnrlbls": [
+        "97"
+      ], 
+      "housenumber": "97", 
+      "lat": 50.626890922144, 
+      "lon": 5.567352658943, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730636", 
+      "street": "Rue des Guillemins"
+    }, 
+    {
+      "hnrlbls": [
         "98"
       ], 
       "housenumber": "98", 
       "lat": 50.626892168462, 
       "lon": 5.566295442339, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730636", 
+      "street": "Rue des Guillemins"
+    }, 
+    {
+      "hnrlbls": [
+        "99"
+      ], 
+      "housenumber": "99", 
+      "lat": 50.626864223693, 
+      "lon": 5.56745714598, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730636", 

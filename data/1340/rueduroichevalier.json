@@ -1,6 +1,14 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -97,12 +105,15 @@
       "street": "rue du Roi Chevalier"
     }, 
     {
+      "busnrs": [
+        "0101"
+      ], 
       "hnrlbls": [
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 50.668279485162, 
-      "lon": 4.555581498738, 
+      "lat": 50.668234631856, 
+      "lon": 4.555681603455, 
       "municipality": "Ottignies-Louvain-la-Neuve", 
       "pcode": "1340", 
       "source": "7706571", 
@@ -133,6 +144,15 @@
       "street": "rue du Roi Chevalier"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -181,6 +201,9 @@
       "street": "rue du Roi Chevalier"
     }, 
     {
+      "busnrs": [
+        "0101"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -217,6 +240,11 @@
       "street": "rue du Roi Chevalier"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "3"
       ], 

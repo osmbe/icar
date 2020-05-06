@@ -1,6 +1,13 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A/01", 
+        "A/02", 
+        "A/03", 
+        "B/01", 
+        "B/02"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -421,6 +428,9 @@
       "street": "Rue Boulanger Duhayon"
     }, 
     {
+      "busnrs": [
+        "0002"
+      ], 
       "hnrlbls": [
         "42"
       ], 
@@ -541,6 +551,11 @@
       "street": "Rue Boulanger Duhayon"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "7"
       ], 

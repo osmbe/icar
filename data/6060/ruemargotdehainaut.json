@@ -2,6 +2,18 @@
   "addresses": [
     {
       "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.430688541958, 
+      "lon": 4.494976641645, 
+      "municipality": "Charleroi", 
+      "pcode": "6060", 
+      "source": "7761736", 
+      "street": "Rue Margot de Hainaut"
+    }, 
+    {
+      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -325,6 +337,13 @@
       "street": "Rue Margot de Hainaut"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "011", 
+        "022", 
+        "O1/2", 
+        "O2/1"
+      ], 
       "hnrlbls": [
         "131"
       ], 
@@ -1453,6 +1472,9 @@
       "street": "Rue Margot de Hainaut"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "43"
       ], 
@@ -1645,6 +1667,11 @@
       "street": "Rue Margot de Hainaut"
     }, 
     {
+      "busnrs": [
+        "011", 
+        "012", 
+        "022"
+      ], 
       "hnrlbls": [
         "60"
       ], 

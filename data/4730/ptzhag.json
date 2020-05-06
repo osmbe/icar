@@ -121,6 +121,9 @@
       "street": "P\u00fctzhag"
     }, 
     {
+      "busnrs": [
+        "1.Et"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -169,6 +172,11 @@
       "street": "P\u00fctzhag"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -211,6 +219,18 @@
       "housenumber": "27A", 
       "lat": 50.683409372993, 
       "lon": 6.135803525787, 
+      "municipality": "Raeren", 
+      "pcode": "4730", 
+      "source": "7737517", 
+      "street": "P\u00fctzhag"
+    }, 
+    {
+      "hnrlbls": [
+        "27D"
+      ], 
+      "housenumber": "27D", 
+      "lat": 50.68348246493, 
+      "lon": 6.135644295803, 
       "municipality": "Raeren", 
       "pcode": "4730", 
       "source": "7737517", 

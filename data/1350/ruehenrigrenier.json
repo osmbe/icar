@@ -61,6 +61,10 @@
       "street": "Rue Henri Grenier"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "109"
       ], 
@@ -211,6 +215,18 @@
       "housenumber": "134", 
       "lat": 50.689124061742, 
       "lon": 4.974977820455, 
+      "municipality": "Orp-Jauche", 
+      "pcode": "1350", 
+      "source": "7705899", 
+      "street": "Rue Henri Grenier"
+    }, 
+    {
+      "hnrlbls": [
+        "136"
+      ], 
+      "housenumber": "136", 
+      "lat": 50.689025546297, 
+      "lon": 4.974712733396, 
       "municipality": "Orp-Jauche", 
       "pcode": "1350", 
       "source": "7705899", 
@@ -373,6 +389,9 @@
       "street": "Rue Henri Grenier"
     }, 
     {
+      "busnrs": [
+        "Bte1"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -445,6 +464,9 @@
       "street": "Rue Henri Grenier"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "40"
       ], 
@@ -529,6 +551,12 @@
       "street": "Rue Henri Grenier"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "51"
       ], 
@@ -673,6 +701,9 @@
       "street": "Rue Henri Grenier"
     }, 
     {
+      "busnrs": [
+        "Bt01"
+      ], 
       "hnrlbls": [
         "80"
       ], 

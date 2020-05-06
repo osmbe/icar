@@ -13,6 +13,9 @@
       "street": "Rue des Marolles"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -29,8 +32,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 50.682718733475, 
-      "lon": 4.366885883831, 
+      "lat": 50.682799498797, 
+      "lon": 4.366906158762, 
       "municipality": "Braine-l'Alleud", 
       "pcode": "1420", 
       "source": "7700598", 
@@ -61,6 +64,11 @@
       "street": "Rue des Marolles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -85,6 +93,11 @@
       "street": "Rue des Marolles"
     }, 
     {
+      "busnrs": [
+        "0003", 
+        "A001", 
+        "B002"
+      ], 
       "hnrlbls": [
         "3"
       ], 

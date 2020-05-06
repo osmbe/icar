@@ -61,6 +61,10 @@
       "street": "Avenue Demaret"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -73,6 +77,9 @@
       "street": "Avenue Demaret"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -325,6 +332,10 @@
       "street": "Avenue Demaret"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "53"
       ], 
@@ -409,6 +420,9 @@
       "street": "Avenue Demaret"
     }, 
     {
+      "busnrs": [
+        "0066"
+      ], 
       "hnrlbls": [
         "64"
       ], 
@@ -499,6 +513,18 @@
       "housenumber": "76", 
       "lat": 50.482282449951, 
       "lon": 4.191146384621, 
+      "municipality": "La Louvi\u00e8re", 
+      "pcode": "7100", 
+      "source": "7716933", 
+      "street": "Avenue Demaret"
+    }, 
+    {
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 50.481764224968, 
+      "lon": 4.190244531104, 
       "municipality": "La Louvi\u00e8re", 
       "pcode": "7100", 
       "source": "7716933", 

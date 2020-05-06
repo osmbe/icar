@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0/1", 
+        "1/1", 
+        "1/2"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -121,6 +126,9 @@
       "street": "Rue Nestor Jonet"
     }, 
     {
+      "busnrs": [
+        "1/1"
+      ], 
       "hnrlbls": [
         "109"
       ], 
@@ -661,6 +669,10 @@
       "street": "Rue Nestor Jonet"
     }, 
     {
+      "busnrs": [
+        "1/1", 
+        "A2/1"
+      ], 
       "hnrlbls": [
         "2"
       ], 

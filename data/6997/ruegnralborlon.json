@@ -1,12 +1,36 @@
 {
   "addresses": [
     {
-      "hnrlbls": [
-        "10"
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
       ], 
-      "housenumber": "10", 
+      "hnrlbls": [
+        "10A"
+      ], 
+      "housenumber": "10A", 
       "lat": 50.290048933112, 
       "lon": 5.558902840913, 
+      "municipality": "Erez\u00e9e", 
+      "pcode": "6997", 
+      "source": "7743586", 
+      "street": "Rue G\u00e9n\u00e9ral Borlon"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
+      "hnrlbls": [
+        "10B"
+      ], 
+      "housenumber": "10B", 
+      "lat": 50.289964465838, 
+      "lon": 5.558993654445, 
       "municipality": "Erez\u00e9e", 
       "pcode": "6997", 
       "source": "7743586", 
@@ -41,8 +65,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 50.291329946434, 
-      "lon": 5.559034731927, 
+      "lat": 50.291297550564, 
+      "lon": 5.559038748929, 
       "municipality": "Erez\u00e9e", 
       "pcode": "6997", 
       "source": "7743586", 
@@ -65,14 +89,17 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.290922712063, 
-      "lon": 5.559017295947, 
+      "lat": 50.290870060392, 
+      "lon": 5.559015309564, 
       "municipality": "Erez\u00e9e", 
       "pcode": "6997", 
       "source": "7743586", 
       "street": "Rue G\u00e9n\u00e9ral Borlon"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -110,6 +137,18 @@
     }, 
     {
       "hnrlbls": [
+        "17A"
+      ], 
+      "housenumber": "17A", 
+      "lat": 50.290745323419, 
+      "lon": 5.559032425107, 
+      "municipality": "Erez\u00e9e", 
+      "pcode": "6997", 
+      "source": "7743586", 
+      "street": "Rue G\u00e9n\u00e9ral Borlon"
+    }, 
+    {
+      "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
@@ -127,6 +166,18 @@
       "housenumber": "19", 
       "lat": 50.290451760198, 
       "lon": 5.559242298706, 
+      "municipality": "Erez\u00e9e", 
+      "pcode": "6997", 
+      "source": "7743586", 
+      "street": "Rue G\u00e9n\u00e9ral Borlon"
+    }, 
+    {
+      "hnrlbls": [
+        "1B"
+      ], 
+      "housenumber": "1B", 
+      "lat": 50.292545712583, 
+      "lon": 5.558891528539, 
       "municipality": "Erez\u00e9e", 
       "pcode": "6997", 
       "source": "7743586", 
@@ -173,8 +224,8 @@
         "21A"
       ], 
       "housenumber": "21A", 
-      "lat": 50.290354523414, 
-      "lon": 5.55922851207, 
+      "lat": 50.290334882167, 
+      "lon": 5.559232178794, 
       "municipality": "Erez\u00e9e", 
       "pcode": "6997", 
       "source": "7743586", 
@@ -295,6 +346,18 @@
       "housenumber": "2A", 
       "lat": 50.291730501374, 
       "lon": 5.558615872601, 
+      "municipality": "Erez\u00e9e", 
+      "pcode": "6997", 
+      "source": "7743586", 
+      "street": "Rue G\u00e9n\u00e9ral Borlon"
+    }, 
+    {
+      "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 50.292357117535, 
+      "lon": 5.559027869336, 
       "municipality": "Erez\u00e9e", 
       "pcode": "6997", 
       "source": "7743586", 
@@ -493,6 +556,9 @@
       "street": "Rue G\u00e9n\u00e9ral Borlon"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "39"
       ], 
@@ -521,8 +587,8 @@
         "3A"
       ], 
       "housenumber": "3A", 
-      "lat": 50.292363698643, 
-      "lon": 5.558943066466, 
+      "lat": 50.292381887508, 
+      "lon": 5.558974947717, 
       "municipality": "Erez\u00e9e", 
       "pcode": "6997", 
       "source": "7743586", 
@@ -557,8 +623,8 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 50.290293846931, 
-      "lon": 5.567446204056, 
+      "lat": 50.290284531393, 
+      "lon": 5.567380798723, 
       "municipality": "Erez\u00e9e", 
       "pcode": "6997", 
       "source": "7743586", 
@@ -569,8 +635,8 @@
         "41A"
       ], 
       "housenumber": "41A", 
-      "lat": 50.290314376182, 
-      "lon": 5.567577434599, 
+      "lat": 50.290308403795, 
+      "lon": 5.567533837004, 
       "municipality": "Erez\u00e9e", 
       "pcode": "6997", 
       "source": "7743586", 

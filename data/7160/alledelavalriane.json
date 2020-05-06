@@ -1,6 +1,14 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0/1", 
+        "0/2", 
+        "1/3", 
+        "1/4", 
+        "2/5", 
+        "2/6"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +21,10 @@
       "street": "All\u00e9e de la Val\u00e9riane"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "1/2"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -37,6 +49,9 @@
       "street": "All\u00e9e de la Val\u00e9riane"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -61,6 +76,11 @@
       "street": "All\u00e9e de la Val\u00e9riane"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "1/2", 
+        "2/3"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -77,8 +97,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.457222667012, 
-      "lon": 4.284157114126, 
+      "lat": 50.457121409773, 
+      "lon": 4.283851546575, 
       "municipality": "Chapelle-lez-Herlaimont", 
       "pcode": "7160", 
       "source": "7708842", 

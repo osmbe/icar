@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "101"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +16,10 @@
       "street": "Place Raymond Becquevort"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -97,6 +104,12 @@
       "street": "Place Raymond Becquevort"
     }, 
     {
+      "busnrs": [
+        "A001", 
+        "A101", 
+        "A201", 
+        "A301"
+      ], 
       "hnrlbls": [
         "9"
       ], 

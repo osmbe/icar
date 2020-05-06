@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "rez."
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +16,11 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "2\u00e9t.", 
+        "rez."
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -25,6 +33,21 @@
       "street": "Rue de Namur"
     }, 
     {
+      "hnrlbls": [
+        "11"
+      ], 
+      "housenumber": "11", 
+      "lat": 50.587538932268, 
+      "lon": 5.85843642895, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738841", 
+      "street": "Rue de Namur"
+    }, 
+    {
+      "busnrs": [
+        "2\u00e9t."
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -49,6 +72,10 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "2\u00e9t."
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -85,6 +112,9 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "rez."
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -97,6 +127,12 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "2\u00e9t.", 
+        "Rez.", 
+        "rez."
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -109,6 +145,10 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "1+2\u00e9", 
+        "rez."
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -121,6 +161,9 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "Rez."
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -158,6 +201,23 @@
     }, 
     {
       "hnrlbls": [
+        "22"
+      ], 
+      "housenumber": "22", 
+      "lat": 50.587627500566, 
+      "lon": 5.857973313045, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738841", 
+      "street": "Rue de Namur"
+    }, 
+    {
+      "busnrs": [
+        "1\u00e9t.", 
+        "2\u00e9t.", 
+        "rear"
+      ], 
+      "hnrlbls": [
         "24"
       ], 
       "housenumber": "24", 
@@ -193,6 +253,28 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "2\u00e9t.", 
+        "3\u00e9t.", 
+        "b/1"
+      ], 
+      "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 50.587577156109, 
+      "lon": 5.858626506334, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738841", 
+      "street": "Rue de Namur"
+    }, 
+    {
+      "busnrs": [
+        "1\u00e9t.", 
+        "2\u00e9t.", 
+        "3\u00e9t."
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -205,6 +287,11 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "2\u00e9t.", 
+        "bte1", 
+        "bte2"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -217,6 +304,11 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "2\u00e9t.", 
+        "3\u00e9t."
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -241,6 +333,9 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "rez."
+      ], 
       "hnrlbls": [
         "8"
       ], 
@@ -253,6 +348,18 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "3\u00e9t.", 
+        "App9", 
+        "bte1", 
+        "bte2", 
+        "bte3", 
+        "bte5", 
+        "bte7", 
+        "bte8", 
+        "rear"
+      ], 
       "hnrlbls": [
         "9"
       ], 

@@ -1345,6 +1345,11 @@
       "street": "Rue du Congo"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "212"
       ], 
@@ -1681,6 +1686,10 @@
       "street": "Rue du Congo"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "44"
       ], 
@@ -1735,6 +1744,30 @@
       "housenumber": "64", 
       "lat": 50.736600420307, 
       "lon": 3.199634427781, 
+      "municipality": "Mouscron", 
+      "pcode": "7700", 
+      "source": "7715965", 
+      "street": "Rue du Congo"
+    }, 
+    {
+      "hnrlbls": [
+        "66"
+      ], 
+      "housenumber": "66", 
+      "lat": 50.736558312739, 
+      "lon": 3.199799762972, 
+      "municipality": "Mouscron", 
+      "pcode": "7700", 
+      "source": "7715965", 
+      "street": "Rue du Congo"
+    }, 
+    {
+      "hnrlbls": [
+        "67"
+      ], 
+      "housenumber": "67", 
+      "lat": 50.736535783597, 
+      "lon": 3.201080129803, 
       "municipality": "Mouscron", 
       "pcode": "7700", 
       "source": "7715965", 

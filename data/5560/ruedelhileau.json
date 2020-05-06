@@ -229,12 +229,27 @@
       "street": "Rue de l'Hileau"
     }, 
     {
+      "busnrs": [
+        "0002"
+      ], 
       "hnrlbls": [
         "28"
       ], 
       "housenumber": "28", 
       "lat": 50.182277786206, 
       "lon": 5.008758650122, 
+      "municipality": "Houyet", 
+      "pcode": "5560", 
+      "source": "7750080", 
+      "street": "Rue de l'Hileau"
+    }, 
+    {
+      "hnrlbls": [
+        "281"
+      ], 
+      "housenumber": "281", 
+      "lat": 50.182245697398, 
+      "lon": 5.008116763905, 
       "municipality": "Houyet", 
       "pcode": "5560", 
       "source": "7750080", 
@@ -289,6 +304,9 @@
       "street": "Rue de l'Hileau"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "4"
       ], 

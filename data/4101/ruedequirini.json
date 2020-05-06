@@ -73,12 +73,27 @@
       "street": "Rue de Quirini"
     }, 
     {
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "17"
       ], 
       "housenumber": "17", 
       "lat": 50.617511830065, 
       "lon": 5.506890496516, 
+      "municipality": "Seraing", 
+      "pcode": "4101", 
+      "source": "7732297", 
+      "street": "Rue de Quirini"
+    }, 
+    {
+      "hnrlbls": [
+        "18"
+      ], 
+      "housenumber": "18", 
+      "lat": 50.617997452802, 
+      "lon": 5.507081305384, 
       "municipality": "Seraing", 
       "pcode": "4101", 
       "source": "7732297", 
@@ -109,6 +124,15 @@
       "street": "Rue de Quirini"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "0007", 
+        "0008", 
+        "1", 
+        "4", 
+        "5", 
+        "6"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -157,6 +181,9 @@
       "street": "Rue de Quirini"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "25"
       ], 

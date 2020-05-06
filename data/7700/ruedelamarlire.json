@@ -49,12 +49,17 @@
       "street": "Rue de la Marli\u00e8re"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "103"
       ], 
       "housenumber": "103", 
-      "lat": 50.741717793383, 
-      "lon": 3.202578607648, 
+      "lat": 50.741691405045, 
+      "lon": 3.20252082573, 
       "municipality": "Mouscron", 
       "pcode": "7700", 
       "source": "7715764", 
@@ -110,9 +115,9 @@
     }, 
     {
       "hnrlbls": [
-        "110"
+        "112"
       ], 
-      "housenumber": "110", 
+      "housenumber": "112", 
       "lat": 50.741822203933, 
       "lon": 3.202195007431, 
       "municipality": "Mouscron", 
@@ -122,11 +127,23 @@
     }, 
     {
       "hnrlbls": [
-        "112"
+        "116"
       ], 
-      "housenumber": "112", 
-      "lat": 50.741773599016, 
-      "lon": 3.201966707529, 
+      "housenumber": "116", 
+      "lat": 50.741768259992, 
+      "lon": 3.202027761273, 
+      "municipality": "Mouscron", 
+      "pcode": "7700", 
+      "source": "7715764", 
+      "street": "Rue de la Marli\u00e8re"
+    }, 
+    {
+      "hnrlbls": [
+        "118"
+      ], 
+      "housenumber": "118", 
+      "lat": 50.741779662264, 
+      "lon": 3.201910123313, 
       "municipality": "Mouscron", 
       "pcode": "7700", 
       "source": "7715764", 
@@ -229,6 +246,10 @@
       "street": "Rue de la Marli\u00e8re"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "134"
       ], 
@@ -253,6 +274,11 @@
       "street": "Rue de la Marli\u00e8re"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -266,11 +292,23 @@
     }, 
     {
       "hnrlbls": [
+        "142"
+      ], 
+      "housenumber": "142", 
+      "lat": 50.741560932864, 
+      "lon": 3.201154706115, 
+      "municipality": "Mouscron", 
+      "pcode": "7700", 
+      "source": "7715764", 
+      "street": "Rue de la Marli\u00e8re"
+    }, 
+    {
+      "hnrlbls": [
         "144"
       ], 
       "housenumber": "144", 
-      "lat": 50.741551440751, 
-      "lon": 3.201134015865, 
+      "lat": 50.741542227845, 
+      "lon": 3.201104720719, 
       "municipality": "Mouscron", 
       "pcode": "7700", 
       "source": "7715764", 
@@ -385,6 +423,10 @@
       "street": "Rue de la Marli\u00e8re"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "164"
       ], 
@@ -517,6 +559,13 @@
       "street": "Rue de la Marli\u00e8re"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0006", 
+        "0011", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -613,6 +662,12 @@
       "street": "Rue de la Marli\u00e8re"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -757,6 +812,9 @@
       "street": "Rue de la Marli\u00e8re"
     }, 
     {
+      "busnrs": [
+        "0011"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -889,6 +947,11 @@
       "street": "Rue de la Marli\u00e8re"
     }, 
     {
+      "busnrs": [
+        "A000", 
+        "B000", 
+        "C000"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -1333,6 +1396,13 @@
       "street": "Rue de la Marli\u00e8re"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -1429,6 +1499,16 @@
       "street": "Rue de la Marli\u00e8re"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008"
+      ], 
       "hnrlbls": [
         "258"
       ], 
@@ -1441,6 +1521,11 @@
       "street": "Rue de la Marli\u00e8re"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "259"
       ], 
@@ -1525,6 +1610,9 @@
       "street": "Rue de la Marli\u00e8re"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "266"
       ], 
@@ -1609,6 +1697,12 @@
       "street": "Rue de la Marli\u00e8re"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004"
+      ], 
       "hnrlbls": [
         "273"
       ], 
@@ -1657,6 +1751,9 @@
       "street": "Rue de la Marli\u00e8re"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "278"
       ], 
@@ -1669,6 +1766,10 @@
       "street": "Rue de la Marli\u00e8re"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "279"
       ], 
@@ -1861,6 +1962,9 @@
       "street": "Rue de la Marli\u00e8re"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "302"
       ], 
@@ -1885,6 +1989,12 @@
       "street": "Rue de la Marli\u00e8re"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004"
+      ], 
       "hnrlbls": [
         "304"
       ], 
@@ -2137,6 +2247,10 @@
       "street": "Rue de la Marli\u00e8re"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "37"
       ], 
@@ -2197,6 +2311,10 @@
       "street": "Rue de la Marli\u00e8re"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "42"
       ], 
@@ -2269,6 +2387,13 @@
       "street": "Rue de la Marli\u00e8re"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005"
+      ], 
       "hnrlbls": [
         "49"
       ], 
@@ -2365,6 +2490,14 @@
       "street": "Rue de la Marli\u00e8re"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006"
+      ], 
       "hnrlbls": [
         "58"
       ], 
@@ -2593,6 +2726,10 @@
       "street": "Rue de la Marli\u00e8re"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0003"
+      ], 
       "hnrlbls": [
         "80"
       ], 
@@ -2617,6 +2754,10 @@
       "street": "Rue de la Marli\u00e8re"
     }, 
     {
+      "busnrs": [
+        "A000", 
+        "B000"
+      ], 
       "hnrlbls": [
         "86"
       ], 

@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "B011"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -13,6 +16,40 @@
       "street": "Rue de la Campanule"
     }, 
     {
+      "hnrlbls": [
+        "17"
+      ], 
+      "housenumber": "17", 
+      "lat": 50.165951225313, 
+      "lon": 5.222722429952, 
+      "municipality": "Rochefort", 
+      "pcode": "5580", 
+      "source": "7750375", 
+      "street": "Rue de la Campanule"
+    }, 
+    {
+      "hnrlbls": [
+        "20"
+      ], 
+      "housenumber": "20", 
+      "lat": 50.165951072138, 
+      "lon": 5.222429477399, 
+      "municipality": "Rochefort", 
+      "pcode": "5580", 
+      "source": "7750375", 
+      "street": "Rue de la Campanule"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0003", 
+        "0004", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0022"
+      ], 
       "hnrlbls": [
         "3"
       ], 

@@ -73,6 +73,10 @@
       "street": "Aachener Strasse"
     }, 
     {
+      "busnrs": [
+        "1/1", 
+        "2/1"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -289,6 +293,11 @@
       "street": "Aachener Strasse"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "1/1", 
+        "2/1"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -337,6 +346,9 @@
       "street": "Aachener Strasse"
     }, 
     {
+      "busnrs": [
+        "0/1"
+      ], 
       "hnrlbls": [
         "147"
       ], 
@@ -349,12 +361,28 @@
       "street": "Aachener Strasse"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "1/1"
+      ], 
       "hnrlbls": [
         "149"
       ], 
       "housenumber": "149", 
       "lat": 50.289322553933, 
       "lon": 6.132374504794, 
+      "municipality": "Sankt Vith", 
+      "pcode": "4780", 
+      "source": "7737564", 
+      "street": "Aachener Strasse"
+    }, 
+    {
+      "hnrlbls": [
+        "149B"
+      ], 
+      "housenumber": "149B", 
+      "lat": 50.289988732832, 
+      "lon": 6.132741808262, 
       "municipality": "Sankt Vith", 
       "pcode": "4780", 
       "source": "7737564", 
@@ -374,23 +402,52 @@
     }, 
     {
       "hnrlbls": [
-        "153"
+        "151"
       ], 
-      "housenumber": "153", 
-      "lat": 50.290290828529, 
-      "lon": 6.133057973928, 
+      "housenumber": "151", 
+      "lat": 50.290495338052, 
+      "lon": 6.132286694556, 
       "municipality": "Sankt Vith", 
       "pcode": "4780", 
       "source": "7737564", 
       "street": "Aachener Strasse"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "0/2", 
+        "0/3", 
+        "1/1", 
+        "1/2", 
+        "1/3", 
+        "2/1", 
+        "2/2"
+      ], 
+      "hnrlbls": [
+        "151A"
+      ], 
+      "housenumber": "151A", 
+      "lat": 50.290564293206, 
+      "lon": 6.132821102589, 
+      "municipality": "Sankt Vith", 
+      "pcode": "4780", 
+      "source": "7737564", 
+      "street": "Aachener Strasse"
+    }, 
+    {
+      "busnrs": [
+        "0/1", 
+        "0/2", 
+        "1/1", 
+        "1/2", 
+        "2/1"
+      ], 
       "hnrlbls": [
         "155"
       ], 
       "housenumber": "155", 
-      "lat": 50.290290828529, 
-      "lon": 6.133057973928, 
+      "lat": 50.290295516553, 
+      "lon": 6.133031407024, 
       "municipality": "Sankt Vith", 
       "pcode": "4780", 
       "source": "7737564", 
@@ -457,6 +514,11 @@
       "street": "Aachener Strasse"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "1/1", 
+        "1/2"
+      ], 
       "hnrlbls": [
         "16A"
       ], 
@@ -518,11 +580,47 @@
     }, 
     {
       "hnrlbls": [
+        "177"
+      ], 
+      "housenumber": "177", 
+      "lat": 50.293930811261, 
+      "lon": 6.135942190577, 
+      "municipality": "Sankt Vith", 
+      "pcode": "4780", 
+      "source": "7737564", 
+      "street": "Aachener Strasse"
+    }, 
+    {
+      "hnrlbls": [
+        "179"
+      ], 
+      "housenumber": "179", 
+      "lat": 50.294138072185, 
+      "lon": 6.136122651243, 
+      "municipality": "Sankt Vith", 
+      "pcode": "4780", 
+      "source": "7737564", 
+      "street": "Aachener Strasse"
+    }, 
+    {
+      "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
       "lat": 50.283227933229, 
       "lon": 6.126433948831, 
+      "municipality": "Sankt Vith", 
+      "pcode": "4780", 
+      "source": "7737564", 
+      "street": "Aachener Strasse"
+    }, 
+    {
+      "hnrlbls": [
+        "183"
+      ], 
+      "housenumber": "183", 
+      "lat": 50.294631044201, 
+      "lon": 6.13644329948, 
       "municipality": "Sankt Vith", 
       "pcode": "4780", 
       "source": "7737564", 
@@ -565,6 +663,26 @@
       "street": "Aachener Strasse"
     }, 
     {
+      "busnrs": [
+        "1/1", 
+        "1/2", 
+        "2/1", 
+        "2/2", 
+        "3/1", 
+        "3/2"
+      ], 
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.282553323055, 
+      "lon": 6.124958172216, 
+      "municipality": "Sankt Vith", 
+      "pcode": "4780", 
+      "source": "7737564", 
+      "street": "Aachener Strasse"
+    }, 
+    {
       "hnrlbls": [
         "21"
       ], 
@@ -581,8 +699,8 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 50.283802013083, 
-      "lon": 6.126253637834, 
+      "lat": 50.283841153552, 
+      "lon": 6.126308558928, 
       "municipality": "Sankt Vith", 
       "pcode": "4780", 
       "source": "7737564", 
@@ -701,8 +819,20 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 50.289231778358, 
-      "lon": 6.13284872863, 
+      "lat": 50.289218528096, 
+      "lon": 6.132820382181, 
+      "municipality": "Sankt Vith", 
+      "pcode": "4780", 
+      "source": "7737564", 
+      "street": "Aachener Strasse"
+    }, 
+    {
+      "hnrlbls": [
+        "34A"
+      ], 
+      "housenumber": "34A", 
+      "lat": 50.289238570924, 
+      "lon": 6.132870330782, 
       "municipality": "Sankt Vith", 
       "pcode": "4780", 
       "source": "7737564", 
@@ -745,12 +875,28 @@
       "street": "Aachener Strasse"
     }, 
     {
+      "busnrs": [
+        "1/1", 
+        "1/2"
+      ], 
       "hnrlbls": [
         "39"
       ], 
       "housenumber": "39", 
       "lat": 50.285100487299, 
       "lon": 6.127390448517, 
+      "municipality": "Sankt Vith", 
+      "pcode": "4780", 
+      "source": "7737564", 
+      "street": "Aachener Strasse"
+    }, 
+    {
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.282651765013, 
+      "lon": 6.125054594281, 
       "municipality": "Sankt Vith", 
       "pcode": "4780", 
       "source": "7737564", 
@@ -769,6 +915,15 @@
       "street": "Aachener Strasse"
     }, 
     {
+      "busnrs": [
+        "-1/1", 
+        "0/1", 
+        "0/2", 
+        "1/1", 
+        "1/2", 
+        "2/1", 
+        "2/2"
+      ], 
       "hnrlbls": [
         "41"
       ], 
@@ -829,12 +984,16 @@
       "street": "Aachener Strasse"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "1/1"
+      ], 
       "hnrlbls": [
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 50.290166508052, 
-      "lon": 6.133683008851, 
+      "lat": 50.290154889766, 
+      "lon": 6.133695947945, 
       "municipality": "Sankt Vith", 
       "pcode": "4780", 
       "source": "7737564", 
@@ -865,6 +1024,42 @@
       "street": "Aachener Strasse"
     }, 
     {
+      "busnrs": [
+        "1/1", 
+        "2/1", 
+        "2/2"
+      ], 
+      "hnrlbls": [
+        "4A"
+      ], 
+      "housenumber": "4A", 
+      "lat": 50.282717982114, 
+      "lon": 6.12509125303, 
+      "municipality": "Sankt Vith", 
+      "pcode": "4780", 
+      "source": "7737564", 
+      "street": "Aachener Strasse"
+    }, 
+    {
+      "busnrs": [
+        "1/1", 
+        "1/2", 
+        "2/1", 
+        "2/2", 
+        "3/1"
+      ], 
+      "hnrlbls": [
+        "4B"
+      ], 
+      "housenumber": "4B", 
+      "lat": 50.282787184798, 
+      "lon": 6.125185851792, 
+      "municipality": "Sankt Vith", 
+      "pcode": "4780", 
+      "source": "7737564", 
+      "street": "Aachener Strasse"
+    }, 
+    {
       "hnrlbls": [
         "5"
       ], 
@@ -881,8 +1076,8 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 50.290548703398, 
-      "lon": 6.133977019319, 
+      "lat": 50.290554818018, 
+      "lon": 6.133950505322, 
       "municipality": "Sankt Vith", 
       "pcode": "4780", 
       "source": "7737564", 
@@ -895,6 +1090,18 @@
       "housenumber": "51", 
       "lat": 50.287033579416, 
       "lon": 6.128684645751, 
+      "municipality": "Sankt Vith", 
+      "pcode": "4780", 
+      "source": "7737564", 
+      "street": "Aachener Strasse"
+    }, 
+    {
+      "hnrlbls": [
+        "52"
+      ], 
+      "housenumber": "52", 
+      "lat": 50.290798645006, 
+      "lon": 6.134123924701, 
       "municipality": "Sankt Vith", 
       "pcode": "4780", 
       "source": "7737564", 
@@ -949,6 +1156,9 @@
       "street": "Aachener Strasse"
     }, 
     {
+      "busnrs": [
+        "1/1"
+      ], 
       "hnrlbls": [
         "59"
       ], 
@@ -973,12 +1183,16 @@
       "street": "Aachener Strasse"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "1/1"
+      ], 
       "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.282811272551, 
-      "lon": 6.125216982698, 
+      "lat": 50.282855283998, 
+      "lon": 6.125256671311, 
       "municipality": "Sankt Vith", 
       "pcode": "4780", 
       "source": "7737564", 
@@ -1009,6 +1223,11 @@
       "street": "Aachener Strasse"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "1/1", 
+        "2/1"
+      ], 
       "hnrlbls": [
         "63"
       ], 
@@ -1021,6 +1240,10 @@
       "street": "Aachener Strasse"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "1/1"
+      ], 
       "hnrlbls": [
         "64"
       ], 
@@ -1051,6 +1274,18 @@
       "housenumber": "65A", 
       "lat": 50.288046883001, 
       "lon": 6.129156388535, 
+      "municipality": "Sankt Vith", 
+      "pcode": "4780", 
+      "source": "7737564", 
+      "street": "Aachener Strasse"
+    }, 
+    {
+      "hnrlbls": [
+        "65B"
+      ], 
+      "housenumber": "65B", 
+      "lat": 50.288068184815, 
+      "lon": 6.129625127182, 
       "municipality": "Sankt Vith", 
       "pcode": "4780", 
       "source": "7737564", 
@@ -1201,6 +1436,10 @@
       "street": "Aachener Strasse"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "1/1"
+      ], 
       "hnrlbls": [
         "8"
       ], 
@@ -1298,6 +1537,18 @@
     }, 
     {
       "hnrlbls": [
+        "92"
+      ], 
+      "housenumber": "92", 
+      "lat": 50.295673367918, 
+      "lon": 6.13802347977, 
+      "municipality": "Sankt Vith", 
+      "pcode": "4780", 
+      "source": "7737564", 
+      "street": "Aachener Strasse"
+    }, 
+    {
+      "hnrlbls": [
         "93"
       ], 
       "housenumber": "93", 
@@ -1322,11 +1573,35 @@
     }, 
     {
       "hnrlbls": [
+        "96"
+      ], 
+      "housenumber": "96", 
+      "lat": 50.297474332564, 
+      "lon": 6.139175261105, 
+      "municipality": "Sankt Vith", 
+      "pcode": "4780", 
+      "source": "7737564", 
+      "street": "Aachener Strasse"
+    }, 
+    {
+      "hnrlbls": [
         "97"
       ], 
       "housenumber": "97", 
       "lat": 50.28874644979, 
       "lon": 6.130215773929, 
+      "municipality": "Sankt Vith", 
+      "pcode": "4780", 
+      "source": "7737564", 
+      "street": "Aachener Strasse"
+    }, 
+    {
+      "hnrlbls": [
+        "98"
+      ], 
+      "housenumber": "98", 
+      "lat": 50.297526332578, 
+      "lon": 6.139197999953, 
       "municipality": "Sankt Vith", 
       "pcode": "4780", 
       "source": "7737564", 

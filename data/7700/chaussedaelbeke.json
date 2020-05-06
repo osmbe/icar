@@ -1,6 +1,16 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0006", 
+        "0007", 
+        "0022", 
+        "0023"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -19,6 +29,18 @@
       "housenumber": "100", 
       "lat": 50.750716341145, 
       "lon": 3.22691189638, 
+      "municipality": "Mouscron", 
+      "pcode": "7700", 
+      "source": "7715555", 
+      "street": "Chauss\u00e9e d'Aelbeke"
+    }, 
+    {
+      "hnrlbls": [
+        "101"
+      ], 
+      "housenumber": "101", 
+      "lat": 50.753947585772, 
+      "lon": 3.223915813876, 
       "municipality": "Mouscron", 
       "pcode": "7700", 
       "source": "7715555", 
@@ -391,6 +413,36 @@
       "housenumber": "163", 
       "lat": 50.755701907845, 
       "lon": 3.221951242206, 
+      "municipality": "Mouscron", 
+      "pcode": "7700", 
+      "source": "7715555", 
+      "street": "Chauss\u00e9e d'Aelbeke"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0015", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024", 
+        "0025", 
+        "0026"
+      ], 
+      "hnrlbls": [
+        "164"
+      ], 
+      "housenumber": "164", 
+      "lat": 50.754898463188, 
+      "lon": 3.223181339637, 
       "municipality": "Mouscron", 
       "pcode": "7700", 
       "source": "7715555", 
@@ -1465,6 +1517,25 @@
       "street": "Chauss\u00e9e d'Aelbeke"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "0003", 
+        "0004", 
+        "0006", 
+        "0007", 
+        "0009", 
+        "0010", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0015", 
+        "0016", 
+        "0018", 
+        "0019", 
+        "0020", 
+        "0021"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -2509,6 +2580,13 @@
       "street": "Chauss\u00e9e d'Aelbeke"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005"
+      ], 
       "hnrlbls": [
         "68"
       ], 
@@ -2618,11 +2696,35 @@
     }, 
     {
       "hnrlbls": [
+        "91"
+      ], 
+      "housenumber": "91", 
+      "lat": 50.753506729338, 
+      "lon": 3.224446082949, 
+      "municipality": "Mouscron", 
+      "pcode": "7700", 
+      "source": "7715555", 
+      "street": "Chauss\u00e9e d'Aelbeke"
+    }, 
+    {
+      "hnrlbls": [
         "92"
       ], 
       "housenumber": "92", 
       "lat": 50.750539331055, 
       "lon": 3.22692212294, 
+      "municipality": "Mouscron", 
+      "pcode": "7700", 
+      "source": "7715555", 
+      "street": "Chauss\u00e9e d'Aelbeke"
+    }, 
+    {
+      "hnrlbls": [
+        "93"
+      ], 
+      "housenumber": "93", 
+      "lat": 50.753695390832, 
+      "lon": 3.224180506554, 
       "municipality": "Mouscron", 
       "pcode": "7700", 
       "source": "7715555", 

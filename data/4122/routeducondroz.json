@@ -13,12 +13,36 @@
       "street": "Route du Condroz"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0003", 
+        "0005", 
+        "0007", 
+        "0008", 
+        "0009", 
+        "0102", 
+        "0104", 
+        "0206", 
+        "0210"
+      ], 
+      "hnrlbls": [
+        "111"
+      ], 
+      "housenumber": "111", 
+      "lat": 50.542170390642, 
+      "lon": 5.480147737068, 
+      "municipality": "Neupr\u00e9", 
+      "pcode": "4122", 
+      "source": "7734576", 
+      "street": "Route du Condroz"
+    }, 
+    {
       "hnrlbls": [
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.548804851787, 
-      "lon": 5.501733834065, 
+      "lat": 50.548709830307, 
+      "lon": 5.501627823001, 
       "municipality": "Neupr\u00e9", 
       "pcode": "4122", 
       "source": "7734576", 
@@ -91,6 +115,18 @@
       "housenumber": "22", 
       "lat": 50.547691044042, 
       "lon": 5.499367147951, 
+      "municipality": "Neupr\u00e9", 
+      "pcode": "4122", 
+      "source": "7734576", 
+      "street": "Route du Condroz"
+    }, 
+    {
+      "hnrlbls": [
+        "24"
+      ], 
+      "housenumber": "24", 
+      "lat": 50.54731383998, 
+      "lon": 5.49904573147, 
       "municipality": "Neupr\u00e9", 
       "pcode": "4122", 
       "source": "7734576", 
@@ -253,6 +289,9 @@
       "street": "Route du Condroz"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "54"
       ], 

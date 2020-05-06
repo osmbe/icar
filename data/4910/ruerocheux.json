@@ -37,6 +37,9 @@
       "street": "Rue Rocheux"
     }, 
     {
+      "busnrs": [
+        "/1"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -110,9 +113,9 @@
     }, 
     {
       "hnrlbls": [
-        "18/B"
+        "18B"
       ], 
-      "housenumber": "18/B", 
+      "housenumber": "18B", 
       "lat": 50.543326339041, 
       "lon": 5.834881675699, 
       "municipality": "Theux", 

@@ -1,6 +1,13 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1-1", 
+        "1-2", 
+        "2-1", 
+        "2-2", 
+        "2-3"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -13,6 +20,9 @@
       "street": "Rue de Nimy"
     }, 
     {
+      "busnrs": [
+        "1-1"
+      ], 
       "hnrlbls": [
         "100"
       ], 
@@ -37,6 +47,11 @@
       "street": "Rue de Nimy"
     }, 
     {
+      "busnrs": [
+        "1-1", 
+        "2-1", 
+        "3-1"
+      ], 
       "hnrlbls": [
         "103"
       ], 
@@ -85,6 +100,10 @@
       "street": "Rue de Nimy"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1"
+      ], 
       "hnrlbls": [
         "109"
       ], 
@@ -97,6 +116,12 @@
       "street": "Rue de Nimy"
     }, 
     {
+      "busnrs": [
+        "1-1", 
+        "1-2", 
+        "2-1", 
+        "2-2"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -145,6 +170,10 @@
       "street": "Rue de Nimy"
     }, 
     {
+      "busnrs": [
+        "1-1", 
+        "2-1"
+      ], 
       "hnrlbls": [
         "114"
       ], 
@@ -157,6 +186,11 @@
       "street": "Rue de Nimy"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "3-2"
+      ], 
       "hnrlbls": [
         "115"
       ], 
@@ -193,6 +227,11 @@
       "street": "Rue de Nimy"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "3-1", 
+        "Et-2"
+      ], 
       "hnrlbls": [
         "118"
       ], 
@@ -217,6 +256,9 @@
       "street": "Rue de Nimy"
     }, 
     {
+      "busnrs": [
+        "1-1"
+      ], 
       "hnrlbls": [
         "120"
       ], 
@@ -241,6 +283,11 @@
       "street": "Rue de Nimy"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "2-3"
+      ], 
       "hnrlbls": [
         "124"
       ], 
@@ -265,6 +312,13 @@
       "street": "Rue de Nimy"
     }, 
     {
+      "busnrs": [
+        "2-1", 
+        "B1-1", 
+        "B1-2", 
+        "B1-3", 
+        "B2-1"
+      ], 
       "hnrlbls": [
         "127"
       ], 
@@ -302,11 +356,35 @@
     }, 
     {
       "hnrlbls": [
+        "129A"
+      ], 
+      "housenumber": "129A", 
+      "lat": 50.458985473295, 
+      "lon": 3.955452964228, 
+      "municipality": "Mons", 
+      "pcode": "7000", 
+      "source": "7713669", 
+      "street": "Rue de Nimy"
+    }, 
+    {
+      "hnrlbls": [
         "129B"
       ], 
       "housenumber": "129B", 
       "lat": 50.459052119271, 
       "lon": 3.955383794984, 
+      "municipality": "Mons", 
+      "pcode": "7000", 
+      "source": "7713669", 
+      "street": "Rue de Nimy"
+    }, 
+    {
+      "hnrlbls": [
+        "129C"
+      ], 
+      "housenumber": "129C", 
+      "lat": 50.458993829516, 
+      "lon": 3.955394574921, 
       "municipality": "Mons", 
       "pcode": "7000", 
       "source": "7713669", 
@@ -349,6 +427,10 @@
       "street": "Rue de Nimy"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1"
+      ], 
       "hnrlbls": [
         "133"
       ], 
@@ -373,6 +455,10 @@
       "street": "Rue de Nimy"
     }, 
     {
+      "busnrs": [
+        "1-1", 
+        "2-1"
+      ], 
       "hnrlbls": [
         "136"
       ], 
@@ -385,6 +471,9 @@
       "street": "Rue de Nimy"
     }, 
     {
+      "busnrs": [
+        "A1-1"
+      ], 
       "hnrlbls": [
         "137"
       ], 
@@ -457,6 +546,17 @@
       "street": "Rue de Nimy"
     }, 
     {
+      "busnrs": [
+        "1-1", 
+        "1-2", 
+        "1-3", 
+        "2-1", 
+        "2-2", 
+        "3-1", 
+        "3-2", 
+        "3-3", 
+        "4-1"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -505,6 +605,9 @@
       "street": "Rue de Nimy"
     }, 
     {
+      "busnrs": [
+        "2-1"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -529,6 +632,9 @@
       "street": "Rue de Nimy"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -577,6 +683,9 @@
       "street": "Rue de Nimy"
     }, 
     {
+      "busnrs": [
+        "1-1"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -625,6 +734,24 @@
       "street": "Rue de Nimy"
     }, 
     {
+      "busnrs": [
+        "A2-1", 
+        "A2-4", 
+        "A3-1", 
+        "A3-2", 
+        "A3-3", 
+        "A3-4", 
+        "B0-1", 
+        "B1-1", 
+        "B3-1", 
+        "C1-1", 
+        "C1-2", 
+        "C2-1", 
+        "C2-2", 
+        "D0-1", 
+        "D0-2", 
+        "D1-1"
+      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -637,6 +764,14 @@
       "street": "Rue de Nimy"
     }, 
     {
+      "busnrs": [
+        "0-2", 
+        "0-3", 
+        "0-4", 
+        "1-1", 
+        "1-2", 
+        "2-1"
+      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -649,6 +784,9 @@
       "street": "Rue de Nimy"
     }, 
     {
+      "busnrs": [
+        "Et-1"
+      ], 
       "hnrlbls": [
         "36"
       ], 
@@ -697,6 +835,10 @@
       "street": "Rue de Nimy"
     }, 
     {
+      "busnrs": [
+        "1-1", 
+        "1-2"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -757,6 +899,18 @@
       "street": "Rue de Nimy"
     }, 
     {
+      "busnrs": [
+        "1-3", 
+        "1-4", 
+        "2-1", 
+        "2-4", 
+        "3-2", 
+        "A1-1", 
+        "A2-2", 
+        "A3-1", 
+        "B2-1", 
+        "C2-3"
+      ], 
       "hnrlbls": [
         "47"
       ], 
@@ -781,6 +935,9 @@
       "street": "Rue de Nimy"
     }, 
     {
+      "busnrs": [
+        "Et-1"
+      ], 
       "hnrlbls": [
         "49"
       ], 
@@ -961,6 +1118,10 @@
       "street": "Rue de Nimy"
     }, 
     {
+      "busnrs": [
+        "1-1", 
+        "2-1"
+      ], 
       "hnrlbls": [
         "62"
       ], 
@@ -973,6 +1134,12 @@
       "street": "Rue de Nimy"
     }, 
     {
+      "busnrs": [
+        "D2-1", 
+        "D2-2", 
+        "D3-1", 
+        "D3-2"
+      ], 
       "hnrlbls": [
         "63"
       ], 
@@ -985,6 +1152,18 @@
       "street": "Rue de Nimy"
     }, 
     {
+      "busnrs": [
+        "0-3", 
+        "1-2", 
+        "2-1", 
+        "A1-1", 
+        "A1-3", 
+        "A2-2", 
+        "A2-3", 
+        "A3-1", 
+        "B0-1", 
+        "B0-2"
+      ], 
       "hnrlbls": [
         "64"
       ], 
@@ -997,6 +1176,35 @@
       "street": "Rue de Nimy"
     }, 
     {
+      "busnrs": [
+        "A2-1", 
+        "A2-2", 
+        "A3-1", 
+        "A3-2", 
+        "A3-3", 
+        "A3-4", 
+        "B1-1", 
+        "B1-2", 
+        "B2-1", 
+        "B2-2", 
+        "B3-1", 
+        "B3-2", 
+        "B4-1", 
+        "B4-2", 
+        "C1-1", 
+        "C1-2", 
+        "C2-1", 
+        "C2-2", 
+        "C3-1", 
+        "C3-2", 
+        "D1-1", 
+        "D1-2", 
+        "D2-1", 
+        "D2-2", 
+        "D3-1", 
+        "D3-2", 
+        "D3-4"
+      ], 
       "hnrlbls": [
         "65"
       ], 
@@ -1009,6 +1217,9 @@
       "street": "Rue de Nimy"
     }, 
     {
+      "busnrs": [
+        "2-1"
+      ], 
       "hnrlbls": [
         "67"
       ], 
@@ -1045,6 +1256,9 @@
       "street": "Rue de Nimy"
     }, 
     {
+      "busnrs": [
+        "2-2"
+      ], 
       "hnrlbls": [
         "71"
       ], 
@@ -1105,6 +1319,11 @@
       "street": "Rue de Nimy"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "1-2"
+      ], 
       "hnrlbls": [
         "79"
       ], 
@@ -1141,6 +1360,10 @@
       "street": "Rue de Nimy"
     }, 
     {
+      "busnrs": [
+        "0-2", 
+        "01"
+      ], 
       "hnrlbls": [
         "82"
       ], 
@@ -1201,6 +1424,11 @@
       "street": "Rue de Nimy"
     }, 
     {
+      "busnrs": [
+        "1-1", 
+        "1-2", 
+        "2"
+      ], 
       "hnrlbls": [
         "87"
       ], 
@@ -1213,6 +1441,9 @@
       "street": "Rue de Nimy"
     }, 
     {
+      "busnrs": [
+        "Rzch"
+      ], 
       "hnrlbls": [
         "88"
       ], 
@@ -1237,24 +1468,15 @@
       "street": "Rue de Nimy"
     }, 
     {
+      "busnrs": [
+        "1-1"
+      ], 
       "hnrlbls": [
         "9"
       ], 
       "housenumber": "9", 
       "lat": 50.455360901553, 
       "lon": 3.953168855429, 
-      "municipality": "Mons", 
-      "pcode": "7000", 
-      "source": "7713669", 
-      "street": "Rue de Nimy"
-    }, 
-    {
-      "hnrlbls": [
-        "90"
-      ], 
-      "housenumber": "90", 
-      "lat": 50.458052682259, 
-      "lon": 3.955693128917, 
       "municipality": "Mons", 
       "pcode": "7000", 
       "source": "7713669", 
@@ -1285,6 +1507,11 @@
       "street": "Rue de Nimy"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "2-1"
+      ], 
       "hnrlbls": [
         "93"
       ], 
@@ -1297,6 +1524,13 @@
       "street": "Rue de Nimy"
     }, 
     {
+      "busnrs": [
+        "1-1", 
+        "1-4", 
+        "2-1", 
+        "2-3", 
+        "8"
+      ], 
       "hnrlbls": [
         "94"
       ], 
@@ -1309,6 +1543,10 @@
       "street": "Rue de Nimy"
     }, 
     {
+      "busnrs": [
+        "1-1", 
+        "1-2"
+      ], 
       "hnrlbls": [
         "95"
       ], 

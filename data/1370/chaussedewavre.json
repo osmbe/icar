@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1Etg"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -19,18 +22,6 @@
       "housenumber": "10", 
       "lat": 50.722578825045, 
       "lon": 4.863756684965, 
-      "municipality": "Jodoigne", 
-      "pcode": "1370", 
-      "source": "7702248", 
-      "street": "Chauss\u00e9e de Wavre"
-    }, 
-    {
-      "hnrlbls": [
-        "100"
-      ], 
-      "housenumber": "100", 
-      "lat": 50.725770426892, 
-      "lon": 4.853401724131, 
       "municipality": "Jodoigne", 
       "pcode": "1370", 
       "source": "7702248", 
@@ -113,8 +104,8 @@
         "109"
       ], 
       "housenumber": "109", 
-      "lat": 50.725321620532, 
-      "lon": 4.855655617746, 
+      "lat": 50.725369229851, 
+      "lon": 4.855646741411, 
       "municipality": "Jodoigne", 
       "pcode": "1370", 
       "source": "7702248", 
@@ -157,6 +148,23 @@
       "street": "Chauss\u00e9e de Wavre"
     }, 
     {
+      "busnrs": [
+        "E/01", 
+        "E/04", 
+        "E/05", 
+        "E/06", 
+        "E/07", 
+        "E/11", 
+        "E/12", 
+        "E/13", 
+        "E/16", 
+        "E/17", 
+        "E/18", 
+        "E/19", 
+        "E/2", 
+        "E/8", 
+        "E/9"
+      ], 
       "hnrlbls": [
         "113"
       ], 
@@ -229,6 +237,23 @@
       "street": "Chauss\u00e9e de Wavre"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt08", 
+        "Bt09", 
+        "Bt10", 
+        "Bt11", 
+        "Bt12", 
+        "Bt14", 
+        "Bt15", 
+        "Bt16", 
+        "Bt17", 
+        "Bt18", 
+        "Bte4", 
+        "Bte6"
+      ], 
       "hnrlbls": [
         "115"
       ], 
@@ -253,6 +278,27 @@
       "street": "Chauss\u00e9e de Wavre"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt07", 
+        "Bt08", 
+        "Bt09", 
+        "Bt10", 
+        "Bt11", 
+        "Bt12", 
+        "Bt13", 
+        "Bt14", 
+        "Bt15", 
+        "Bt16", 
+        "Bt17", 
+        "Bt18", 
+        "Bt20", 
+        "Bt21", 
+        "Bte3", 
+        "Bte5", 
+        "bte6"
+      ], 
       "hnrlbls": [
         "117"
       ], 
@@ -277,6 +323,26 @@
       "street": "Chauss\u00e9e de Wavre"
     }, 
     {
+      "busnrs": [
+        "Bt22", 
+        "Bt23", 
+        "Bt24", 
+        "Bt25", 
+        "Bt26", 
+        "Bt27", 
+        "Bt28", 
+        "Bt31", 
+        "Bt32", 
+        "Bt33", 
+        "Bt34", 
+        "Bt35", 
+        "Bt36", 
+        "Bt37", 
+        "Bt38", 
+        "Bt39", 
+        "Bt40", 
+        "Bt41"
+      ], 
       "hnrlbls": [
         "119"
       ], 
@@ -425,14 +491,17 @@
         "140"
       ], 
       "housenumber": "140", 
-      "lat": 50.731539609835, 
-      "lon": 4.83354720357, 
+      "lat": 50.731523496374, 
+      "lon": 4.833657418784, 
       "municipality": "Jodoigne", 
       "pcode": "1370", 
       "source": "7702248", 
       "street": "Chauss\u00e9e de Wavre"
     }, 
     {
+      "busnrs": [
+        "A/1"
+      ], 
       "hnrlbls": [
         "141"
       ], 
@@ -517,6 +586,11 @@
       "street": "Chauss\u00e9e de Wavre"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "1/2", 
+        "2/3"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -535,6 +609,18 @@
       "housenumber": "18", 
       "lat": 50.722736535673, 
       "lon": 4.863172331521, 
+      "municipality": "Jodoigne", 
+      "pcode": "1370", 
+      "source": "7702248", 
+      "street": "Chauss\u00e9e de Wavre"
+    }, 
+    {
+      "hnrlbls": [
+        "1A"
+      ], 
+      "housenumber": "1A", 
+      "lat": 50.723056822912, 
+      "lon": 4.864813605991, 
       "municipality": "Jodoigne", 
       "pcode": "1370", 
       "source": "7702248", 
@@ -653,8 +739,8 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 50.7229928933, 
-      "lon": 4.862391461012, 
+      "lat": 50.723001762483, 
+      "lon": 4.862322828239, 
       "municipality": "Jodoigne", 
       "pcode": "1370", 
       "source": "7702248", 
@@ -685,6 +771,13 @@
       "street": "Chauss\u00e9e de Wavre"
     }, 
     {
+      "busnrs": [
+        "000B", 
+        "0E/1", 
+        "C/1", 
+        "E/02", 
+        "EBt3"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -925,6 +1018,11 @@
       "street": "Chauss\u00e9e de Wavre"
     }, 
     {
+      "busnrs": [
+        "0I/1", 
+        "I/2", 
+        "I/3"
+      ], 
       "hnrlbls": [
         "336"
       ], 
@@ -977,14 +1075,17 @@
         "345"
       ], 
       "housenumber": "345", 
-      "lat": 50.732886240741, 
-      "lon": 4.825748253456, 
+      "lat": 50.732900865599, 
+      "lon": 4.82564689537, 
       "municipality": "Jodoigne", 
       "pcode": "1370", 
       "source": "7702248", 
       "street": "Chauss\u00e9e de Wavre"
     }, 
     {
+      "busnrs": [
+        "000B"
+      ], 
       "hnrlbls": [
         "36"
       ], 
@@ -1033,6 +1134,12 @@
       "street": "Chauss\u00e9e de Wavre"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2", 
+        "Bte3", 
+        "Bte4"
+      ], 
       "hnrlbls": [
         "39"
       ], 
@@ -1177,6 +1284,11 @@
       "street": "Chauss\u00e9e de Wavre"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "1/4", 
+        "2/7"
+      ], 
       "hnrlbls": [
         "48"
       ], 
@@ -1201,6 +1313,14 @@
       "street": "Chauss\u00e9e de Wavre"
     }, 
     {
+      "busnrs": [
+        "Bte0", 
+        "Bte1", 
+        "Bte2", 
+        "Bte3", 
+        "Bte4", 
+        "Bte5"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -1333,6 +1453,22 @@
       "street": "Chauss\u00e9e de Wavre"
     }, 
     {
+      "busnrs": [
+        "1/2", 
+        "1/3"
+      ], 
+      "hnrlbls": [
+        "62"
+      ], 
+      "housenumber": "62", 
+      "lat": 50.723687089563, 
+      "lon": 4.860098797201, 
+      "municipality": "Jodoigne", 
+      "pcode": "1370", 
+      "source": "7702248", 
+      "street": "Chauss\u00e9e de Wavre"
+    }, 
+    {
       "hnrlbls": [
         "68"
       ], 
@@ -1357,6 +1493,14 @@
       "street": "Chauss\u00e9e de Wavre"
     }, 
     {
+      "busnrs": [
+        "B/0I", 
+        "B/II", 
+        "Bte1", 
+        "Bte2", 
+        "Bte3", 
+        "Bte4"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -1597,12 +1741,17 @@
       "street": "Chauss\u00e9e de Wavre"
     }, 
     {
+      "busnrs": [
+        "C/1", 
+        "C/2", 
+        "C/3"
+      ], 
       "hnrlbls": [
         "90"
       ], 
       "housenumber": "90", 
-      "lat": 50.724296846297, 
-      "lon": 4.856137184881, 
+      "lat": 50.724568630994, 
+      "lon": 4.857127459908, 
       "municipality": "Jodoigne", 
       "pcode": "1370", 
       "source": "7702248", 

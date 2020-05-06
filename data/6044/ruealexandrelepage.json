@@ -1,6 +1,16 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "001", 
+        "002", 
+        "011", 
+        "012", 
+        "021", 
+        "022", 
+        "023", 
+        "031"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -157,6 +167,9 @@
       "street": "Rue Alexandre Lepage"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "9"
       ], 

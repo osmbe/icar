@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -25,6 +29,9 @@
       "street": "Rue de l'Eglise"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -161,8 +168,8 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 49.832594625712, 
-      "lon": 5.740422308499, 
+      "lat": 49.832564643179, 
+      "lon": 5.74034310491, 
       "municipality": "Martelange", 
       "pcode": "6630", 
       "source": "7742178", 
@@ -193,6 +200,9 @@
       "street": "Rue de l'Eglise"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -235,6 +245,18 @@
       "housenumber": "25", 
       "lat": 49.830796850676, 
       "lon": 5.741486478087, 
+      "municipality": "Martelange", 
+      "pcode": "6630", 
+      "source": "7742178", 
+      "street": "Rue de l'Eglise"
+    }, 
+    {
+      "hnrlbls": [
+        "26"
+      ], 
+      "housenumber": "26", 
+      "lat": 49.830387114989, 
+      "lon": 5.741550113634, 
       "municipality": "Martelange", 
       "pcode": "6630", 
       "source": "7742178", 
@@ -482,6 +504,30 @@
     }, 
     {
       "hnrlbls": [
+        "45"
+      ], 
+      "housenumber": "45", 
+      "lat": 49.829015500385, 
+      "lon": 5.74268140333, 
+      "municipality": "Martelange", 
+      "pcode": "6630", 
+      "source": "7742178", 
+      "street": "Rue de l'Eglise"
+    }, 
+    {
+      "hnrlbls": [
+        "45A"
+      ], 
+      "housenumber": "45A", 
+      "lat": 49.829061394217, 
+      "lon": 5.742872130104, 
+      "municipality": "Martelange", 
+      "pcode": "6630", 
+      "source": "7742178", 
+      "street": "Rue de l'Eglise"
+    }, 
+    {
+      "hnrlbls": [
         "46"
       ], 
       "housenumber": "46", 
@@ -521,8 +567,8 @@
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 49.828332494642, 
-      "lon": 5.743363404135, 
+      "lat": 49.828327735402, 
+      "lon": 5.743393243225, 
       "municipality": "Martelange", 
       "pcode": "6630", 
       "source": "7742178", 

@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "ET02"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -25,6 +28,10 @@
       "street": "Rue de la Dodane"
     }, 
     {
+      "busnrs": [
+        "ET01", 
+        "ET03"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -49,6 +56,11 @@
       "street": "Rue de la Dodane"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0003", 
+        "0004"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -253,6 +265,11 @@
       "street": "Rue de la Dodane"
     }, 
     {
+      "busnrs": [
+        "0003", 
+        "ET01", 
+        "ET02"
+      ], 
       "hnrlbls": [
         "53"
       ], 
@@ -277,6 +294,9 @@
       "street": "Rue de la Dodane"
     }, 
     {
+      "busnrs": [
+        "REZ0"
+      ], 
       "hnrlbls": [
         "57"
       ], 
@@ -313,6 +333,13 @@
       "street": "Rue de la Dodane"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0004", 
+        "0006", 
+        "0007", 
+        "0008"
+      ], 
       "hnrlbls": [
         "63"
       ], 
@@ -337,6 +364,10 @@
       "street": "Rue de la Dodane"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "67"
       ], 
@@ -361,6 +392,11 @@
       "street": "Rue de la Dodane"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0REZ"
+      ], 
       "hnrlbls": [
         "7"
       ], 

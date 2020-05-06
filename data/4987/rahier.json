@@ -5,8 +5,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.384429011874, 
-      "lon": 5.779106907593, 
+      "lat": 50.385968073978, 
+      "lon": 5.789957365818, 
       "municipality": "Stoumont", 
       "pcode": "4987", 
       "source": "7738277", 
@@ -25,12 +25,27 @@
       "street": "Rahier"
     }, 
     {
+      "busnrs": [
+        "100/2"
+      ], 
+      "hnrlbls": [
+        "100/1"
+      ], 
+      "housenumber": "100/1", 
+      "lat": 50.385234832359, 
+      "lon": 5.778151778709, 
+      "municipality": "Stoumont", 
+      "pcode": "4987", 
+      "source": "7738277", 
+      "street": "Rahier"
+    }, 
+    {
       "hnrlbls": [
         "102"
       ], 
       "housenumber": "102", 
-      "lat": 50.384924785101, 
-      "lon": 5.777563254718, 
+      "lat": 50.384770702821, 
+      "lon": 5.777869757389, 
       "municipality": "Stoumont", 
       "pcode": "4987", 
       "source": "7738277", 
@@ -53,8 +68,8 @@
         "104"
       ], 
       "housenumber": "104", 
-      "lat": 50.384924785101, 
-      "lon": 5.777563254718, 
+      "lat": 50.384905048861, 
+      "lon": 5.777699603117, 
       "municipality": "Stoumont", 
       "pcode": "4987", 
       "source": "7738277", 
@@ -77,8 +92,20 @@
         "106"
       ], 
       "housenumber": "106", 
-      "lat": 50.384924785101, 
-      "lon": 5.777563254718, 
+      "lat": 50.384917920935, 
+      "lon": 5.777423139145, 
+      "municipality": "Stoumont", 
+      "pcode": "4987", 
+      "source": "7738277", 
+      "street": "Rahier"
+    }, 
+    {
+      "hnrlbls": [
+        "106/1"
+      ], 
+      "housenumber": "106/1", 
+      "lat": 50.385011984474, 
+      "lon": 5.777537883752, 
       "municipality": "Stoumont", 
       "pcode": "4987", 
       "source": "7738277", 
@@ -110,6 +137,30 @@
     }, 
     {
       "hnrlbls": [
+        "11"
+      ], 
+      "housenumber": "11", 
+      "lat": 50.386902443541, 
+      "lon": 5.786977085983, 
+      "municipality": "Stoumont", 
+      "pcode": "4987", 
+      "source": "7738277", 
+      "street": "Rahier"
+    }, 
+    {
+      "hnrlbls": [
+        "114"
+      ], 
+      "housenumber": "114", 
+      "lat": 50.384491806648, 
+      "lon": 5.776115746434, 
+      "municipality": "Stoumont", 
+      "pcode": "4987", 
+      "source": "7738277", 
+      "street": "Rahier"
+    }, 
+    {
+      "hnrlbls": [
         "115"
       ], 
       "housenumber": "115", 
@@ -125,8 +176,8 @@
         "117"
       ], 
       "housenumber": "117", 
-      "lat": 50.384091777466, 
-      "lon": 5.774544219819, 
+      "lat": 50.384176832926, 
+      "lon": 5.774960601044, 
       "municipality": "Stoumont", 
       "pcode": "4987", 
       "source": "7738277", 
@@ -137,8 +188,8 @@
         "118"
       ], 
       "housenumber": "118", 
-      "lat": 50.384176832926, 
-      "lon": 5.774960601044, 
+      "lat": 50.384546650546, 
+      "lon": 5.77534611824, 
       "municipality": "Stoumont", 
       "pcode": "4987", 
       "source": "7738277", 
@@ -170,11 +221,71 @@
     }, 
     {
       "hnrlbls": [
+        "121"
+      ], 
+      "housenumber": "121", 
+      "lat": 50.384091777466, 
+      "lon": 5.774544219819, 
+      "municipality": "Stoumont", 
+      "pcode": "4987", 
+      "source": "7738277", 
+      "street": "Rahier"
+    }, 
+    {
+      "hnrlbls": [
         "122"
       ], 
       "housenumber": "122", 
-      "lat": 50.384445203202, 
-      "lon": 5.773955751227, 
+      "lat": 50.384739718502, 
+      "lon": 5.774193318053, 
+      "municipality": "Stoumont", 
+      "pcode": "4987", 
+      "source": "7738277", 
+      "street": "Rahier"
+    }, 
+    {
+      "hnrlbls": [
+        "123/1"
+      ], 
+      "housenumber": "123/1", 
+      "lat": 50.384175183015, 
+      "lon": 5.774106126178, 
+      "municipality": "Stoumont", 
+      "pcode": "4987", 
+      "source": "7738277", 
+      "street": "Rahier"
+    }, 
+    {
+      "hnrlbls": [
+        "123/2"
+      ], 
+      "housenumber": "123/2", 
+      "lat": 50.384190389728, 
+      "lon": 5.774225648176, 
+      "municipality": "Stoumont", 
+      "pcode": "4987", 
+      "source": "7738277", 
+      "street": "Rahier"
+    }, 
+    {
+      "hnrlbls": [
+        "124"
+      ], 
+      "housenumber": "124", 
+      "lat": 50.38445043579, 
+      "lon": 5.773953733374, 
+      "municipality": "Stoumont", 
+      "pcode": "4987", 
+      "source": "7738277", 
+      "street": "Rahier"
+    }, 
+    {
+      "hnrlbls": [
+        "126"
+      ], 
+      "housenumber": "126", 
+      "lat": 50.385479770798, 
+      "lon": 5.774793674316, 
       "municipality": "Stoumont", 
       "pcode": "4987", 
       "source": "7738277", 
@@ -187,6 +298,18 @@
       "housenumber": "13", 
       "lat": 50.387253608306, 
       "lon": 5.78620684353, 
+      "municipality": "Stoumont", 
+      "pcode": "4987", 
+      "source": "7738277", 
+      "street": "Rahier"
+    }, 
+    {
+      "hnrlbls": [
+        "130"
+      ], 
+      "housenumber": "130", 
+      "lat": 50.385962733162, 
+      "lon": 5.774710002875, 
       "municipality": "Stoumont", 
       "pcode": "4987", 
       "source": "7738277", 
@@ -233,8 +356,20 @@
         "135"
       ], 
       "housenumber": "135", 
-      "lat": 50.387103641265, 
-      "lon": 5.773908669961, 
+      "lat": 50.387111770721, 
+      "lon": 5.773944634264, 
+      "municipality": "Stoumont", 
+      "pcode": "4987", 
+      "source": "7738277", 
+      "street": "Rahier"
+    }, 
+    {
+      "hnrlbls": [
+        "137"
+      ], 
+      "housenumber": "137", 
+      "lat": 50.387391547794, 
+      "lon": 5.773990261952, 
       "municipality": "Stoumont", 
       "pcode": "4987", 
       "source": "7738277", 
@@ -269,8 +404,20 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 50.388593680065, 
-      "lon": 5.786031435934, 
+      "lat": 50.388566185812, 
+      "lon": 5.78606187372, 
+      "municipality": "Stoumont", 
+      "pcode": "4987", 
+      "source": "7738277", 
+      "street": "Rahier"
+    }, 
+    {
+      "hnrlbls": [
+        "17/1"
+      ], 
+      "housenumber": "17/1", 
+      "lat": 50.388642240264, 
+      "lon": 5.78596981548, 
       "municipality": "Stoumont", 
       "pcode": "4987", 
       "source": "7738277", 
@@ -305,8 +452,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.388313153617, 
-      "lon": 5.787099799117, 
+      "lat": 50.388246604248, 
+      "lon": 5.787055385999, 
       "municipality": "Stoumont", 
       "pcode": "4987", 
       "source": "7738277", 
@@ -341,8 +488,20 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.384905390989, 
-      "lon": 5.780381208253, 
+      "lat": 50.387313633684, 
+      "lon": 5.785636523194, 
+      "municipality": "Stoumont", 
+      "pcode": "4987", 
+      "source": "7738277", 
+      "street": "Rahier"
+    }, 
+    {
+      "hnrlbls": [
+        "27/1"
+      ], 
+      "housenumber": "27/1", 
+      "lat": 50.387353094582, 
+      "lon": 5.785776734846, 
       "municipality": "Stoumont", 
       "pcode": "4987", 
       "source": "7738277", 
@@ -410,6 +569,18 @@
     }, 
     {
       "hnrlbls": [
+        "40"
+      ], 
+      "housenumber": "40", 
+      "lat": 50.386609385767, 
+      "lon": 5.783678430537, 
+      "municipality": "Stoumont", 
+      "pcode": "4987", 
+      "source": "7738277", 
+      "street": "Rahier"
+    }, 
+    {
+      "hnrlbls": [
         "44"
       ], 
       "housenumber": "44", 
@@ -437,8 +608,20 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 50.386314590762, 
-      "lon": 5.782818068368, 
+      "lat": 50.38634016041, 
+      "lon": 5.78288692784, 
+      "municipality": "Stoumont", 
+      "pcode": "4987", 
+      "source": "7738277", 
+      "street": "Rahier"
+    }, 
+    {
+      "hnrlbls": [
+        "50"
+      ], 
+      "housenumber": "50", 
+      "lat": 50.386296085639, 
+      "lon": 5.782797220823, 
       "municipality": "Stoumont", 
       "pcode": "4987", 
       "source": "7738277", 
@@ -451,6 +634,18 @@
       "housenumber": "52", 
       "lat": 50.386112382078, 
       "lon": 5.782529915448, 
+      "municipality": "Stoumont", 
+      "pcode": "4987", 
+      "source": "7738277", 
+      "street": "Rahier"
+    }, 
+    {
+      "hnrlbls": [
+        "54"
+      ], 
+      "housenumber": "54", 
+      "lat": 50.386071236098, 
+      "lon": 5.782408359702, 
       "municipality": "Stoumont", 
       "pcode": "4987", 
       "source": "7738277", 
@@ -578,6 +773,18 @@
     }, 
     {
       "hnrlbls": [
+        "74"
+      ], 
+      "housenumber": "74", 
+      "lat": 50.38487219035, 
+      "lon": 5.78041147712, 
+      "municipality": "Stoumont", 
+      "pcode": "4987", 
+      "source": "7738277", 
+      "street": "Rahier"
+    }, 
+    {
+      "hnrlbls": [
         "75"
       ], 
       "housenumber": "75", 
@@ -602,6 +809,18 @@
     }, 
     {
       "hnrlbls": [
+        "77/1"
+      ], 
+      "housenumber": "77/1", 
+      "lat": 50.384660833875, 
+      "lon": 5.779476156209, 
+      "municipality": "Stoumont", 
+      "pcode": "4987", 
+      "source": "7738277", 
+      "street": "Rahier"
+    }, 
+    {
+      "hnrlbls": [
         "78"
       ], 
       "housenumber": "78", 
@@ -614,11 +833,23 @@
     }, 
     {
       "hnrlbls": [
-        "8"
+        "78/1"
       ], 
-      "housenumber": "8", 
-      "lat": 50.387335361082, 
-      "lon": 5.785709223053, 
+      "housenumber": "78/1", 
+      "lat": 50.3848899793, 
+      "lon": 5.77959801792, 
+      "municipality": "Stoumont", 
+      "pcode": "4987", 
+      "source": "7738277", 
+      "street": "Rahier"
+    }, 
+    {
+      "hnrlbls": [
+        "81"
+      ], 
+      "housenumber": "81", 
+      "lat": 50.384429011874, 
+      "lon": 5.779106907593, 
       "municipality": "Stoumont", 
       "pcode": "4987", 
       "source": "7738277", 
@@ -643,6 +874,18 @@
       "housenumber": "85", 
       "lat": 50.38374224967, 
       "lon": 5.778829274091, 
+      "municipality": "Stoumont", 
+      "pcode": "4987", 
+      "source": "7738277", 
+      "street": "Rahier"
+    }, 
+    {
+      "hnrlbls": [
+        "89"
+      ], 
+      "housenumber": "89", 
+      "lat": 50.382770416801, 
+      "lon": 5.778712810549, 
       "municipality": "Stoumont", 
       "pcode": "4987", 
       "source": "7738277", 
@@ -703,6 +946,18 @@
       "housenumber": "98", 
       "lat": 50.386566156568, 
       "lon": 5.779199452176, 
+      "municipality": "Stoumont", 
+      "pcode": "4987", 
+      "source": "7738277", 
+      "street": "Rahier"
+    }, 
+    {
+      "hnrlbls": [
+        "98/1"
+      ], 
+      "housenumber": "98/1", 
+      "lat": 50.386397428333, 
+      "lon": 5.778570337816, 
       "municipality": "Stoumont", 
       "pcode": "4987", 
       "source": "7738277", 

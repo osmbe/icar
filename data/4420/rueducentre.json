@@ -409,6 +409,9 @@
       "street": "Rue du Centre"
     }, 
     {
+      "busnrs": [
+        "0002"
+      ], 
       "hnrlbls": [
         "162"
       ], 
@@ -679,6 +682,18 @@
       "housenumber": "192", 
       "lat": 50.634018077014, 
       "lon": 5.537632041024, 
+      "municipality": "Saint-Nicolas", 
+      "pcode": "4420", 
+      "source": "7731960", 
+      "street": "Rue du Centre"
+    }, 
+    {
+      "hnrlbls": [
+        "193"
+      ], 
+      "housenumber": "193", 
+      "lat": 50.634377559435, 
+      "lon": 5.537620057238, 
       "municipality": "Saint-Nicolas", 
       "pcode": "4420", 
       "source": "7731960", 
@@ -1369,6 +1384,23 @@
       "street": "Rue du Centre"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "011", 
+        "021"
+      ], 
+      "hnrlbls": [
+        "272"
+      ], 
+      "housenumber": "272", 
+      "lat": 50.635829452315, 
+      "lon": 5.537174418423, 
+      "municipality": "Saint-Nicolas", 
+      "pcode": "4420", 
+      "source": "7731960", 
+      "street": "Rue du Centre"
+    }, 
+    {
       "hnrlbls": [
         "273"
       ], 
@@ -1423,6 +1455,22 @@
       "housenumber": "279", 
       "lat": 50.635399429023, 
       "lon": 5.537557015524, 
+      "municipality": "Saint-Nicolas", 
+      "pcode": "4420", 
+      "source": "7731960", 
+      "street": "Rue du Centre"
+    }, 
+    {
+      "busnrs": [
+        "011", 
+        "021"
+      ], 
+      "hnrlbls": [
+        "28"
+      ], 
+      "housenumber": "28", 
+      "lat": 50.630097781254, 
+      "lon": 5.53273594602, 
       "municipality": "Saint-Nicolas", 
       "pcode": "4420", 
       "source": "7731960", 
@@ -1489,6 +1537,14 @@
       "street": "Rue du Centre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006"
+      ], 
       "hnrlbls": [
         "305"
       ], 
@@ -2317,6 +2373,9 @@
       "street": "Rue du Centre"
     }, 
     {
+      "busnrs": [
+        "011"
+      ], 
       "hnrlbls": [
         "85"
       ], 

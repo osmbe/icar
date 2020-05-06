@@ -713,8 +713,8 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 50.505330474742, 
-      "lon": 4.368947942171, 
+      "lat": 50.505327174726, 
+      "lon": 4.369025249879, 
       "municipality": "Pont-\u00e0-Celles", 
       "pcode": "6230", 
       "source": "7711118", 
@@ -761,8 +761,8 @@
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 50.505229730898, 
-      "lon": 4.368895133167, 
+      "lat": 50.505223482213, 
+      "lon": 4.368961867955, 
       "municipality": "Pont-\u00e0-Celles", 
       "pcode": "6230", 
       "source": "7711118", 
@@ -901,6 +901,9 @@
       "street": "Rue de Trazegnies"
     }, 
     {
+      "busnrs": [
+        "000E"
+      ], 
       "hnrlbls": [
         "69"
       ], 
@@ -1189,6 +1192,10 @@
       "street": "Rue de Trazegnies"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "1001"
+      ], 
       "hnrlbls": [
         "83"
       ], 

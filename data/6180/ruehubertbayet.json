@@ -197,8 +197,8 @@
         "116"
       ], 
       "housenumber": "116", 
-      "lat": 50.464391347396, 
-      "lon": 4.384608948893, 
+      "lat": 50.464433824033, 
+      "lon": 4.384562328931, 
       "municipality": "Courcelles", 
       "pcode": "6180", 
       "source": "7709717", 
@@ -209,8 +209,8 @@
         "118"
       ], 
       "housenumber": "118", 
-      "lat": 50.464400177365, 
-      "lon": 4.38466134741, 
+      "lat": 50.464450483873, 
+      "lon": 4.38461944863, 
       "municipality": "Courcelles", 
       "pcode": "6180", 
       "source": "7709717", 
@@ -865,6 +865,9 @@
       "street": "Rue Hubert Bayet"
     }, 
     {
+      "busnrs": [
+        "3B"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -1237,6 +1240,12 @@
       "street": "Rue Hubert Bayet"
     }, 
     {
+      "busnrs": [
+        "1/1", 
+        "1/2", 
+        "2/1", 
+        "2/2"
+      ], 
       "hnrlbls": [
         "61"
       ], 
@@ -1465,6 +1474,9 @@
       "street": "Rue Hubert Bayet"
     }, 
     {
+      "busnrs": [
+        "0/1"
+      ], 
       "hnrlbls": [
         "89"
       ], 

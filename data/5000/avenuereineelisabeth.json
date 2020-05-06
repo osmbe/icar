@@ -49,6 +49,12 @@
       "street": "Avenue Reine Elisabeth"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0003", 
+        "0004", 
+        "0005"
+      ], 
       "hnrlbls": [
         "127"
       ], 
@@ -73,6 +79,10 @@
       "street": "Avenue Reine Elisabeth"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -349,6 +359,9 @@
       "street": "Avenue Reine Elisabeth"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -881,8 +894,8 @@
         "237"
       ], 
       "housenumber": "237", 
-      "lat": 50.474133035813, 
-      "lon": 4.932491030196, 
+      "lat": 50.47634024985, 
+      "lon": 4.933309829464, 
       "municipality": "Namur", 
       "pcode": "5000", 
       "source": "7753127", 

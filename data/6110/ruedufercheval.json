@@ -281,8 +281,8 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 50.363003501761, 
-      "lon": 4.362157309927, 
+      "lat": 50.362985306022, 
+      "lon": 4.362191337264, 
       "municipality": "Montigny-le-Tilleul", 
       "pcode": "6110", 
       "source": "7710960", 
@@ -397,6 +397,10 @@
       "street": "Rue du Fer \u00e0 Cheval"
     }, 
     {
+      "busnrs": [
+        "1/01", 
+        "RC/1"
+      ], 
       "hnrlbls": [
         "44"
       ], 
@@ -445,6 +449,11 @@
       "street": "Rue du Fer \u00e0 Cheval"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "RC/1"
+      ], 
       "hnrlbls": [
         "54"
       ], 
@@ -506,11 +515,35 @@
     }, 
     {
       "hnrlbls": [
+        "61"
+      ], 
+      "housenumber": "61", 
+      "lat": 50.361779195158, 
+      "lon": 4.3630084287, 
+      "municipality": "Montigny-le-Tilleul", 
+      "pcode": "6110", 
+      "source": "7710960", 
+      "street": "Rue du Fer \u00e0 Cheval"
+    }, 
+    {
+      "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
       "lat": 50.364209427373, 
       "lon": 4.362490349599, 
+      "municipality": "Montigny-le-Tilleul", 
+      "pcode": "6110", 
+      "source": "7710960", 
+      "street": "Rue du Fer \u00e0 Cheval"
+    }, 
+    {
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.364509972537, 
+      "lon": 4.36228355289, 
       "municipality": "Montigny-le-Tilleul", 
       "pcode": "6110", 
       "source": "7710960", 

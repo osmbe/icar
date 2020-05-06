@@ -169,6 +169,11 @@
       "street": "Rue Saint-Jean"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "000B", 
+        "000C"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -269,14 +274,19 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 50.586201328938, 
-      "lon": 3.806767448748, 
+      "lat": 50.586219010986, 
+      "lon": 3.806734546118, 
       "municipality": "Chi\u00e8vres", 
       "pcode": "7950", 
       "source": "7708435", 
       "street": "Rue Saint-Jean"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "01.2", 
+        "02.2"
+      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -293,8 +303,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 50.586142441238, 
-      "lon": 3.806589793801, 
+      "lat": 50.586195137842, 
+      "lon": 3.806665762825, 
       "municipality": "Chi\u00e8vres", 
       "pcode": "7950", 
       "source": "7708435", 

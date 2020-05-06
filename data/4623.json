@@ -4,10 +4,10 @@
       "b": 50.596020943476, 
       "l": 5.685200804242, 
       "name": "Avenue des Sorbiers", 
-      "numOfAddr": 36, 
+      "numOfAddr": 41, 
       "r": 5.68826252085, 
       "sanName": "avenuedessorbiers", 
-      "t": 50.599549612624
+      "t": 50.599655467025
     }, 
     {
       "b": 50.610432823825, 
@@ -17,6 +17,15 @@
       "r": 5.675893929481, 
       "sanName": "avenuefranoisspirlet", 
       "t": 50.610779823036
+    }, 
+    {
+      "b": 50.604454881851, 
+      "l": 5.686790330284, 
+      "name": "Clos des Coye\u00fbs", 
+      "numOfAddr": 8, 
+      "r": 5.687978781574, 
+      "sanName": "closdescoyes", 
+      "t": 50.604965342806
     }, 
     {
       "b": 50.608632545575, 
@@ -31,10 +40,10 @@
       "b": 50.601690582936, 
       "l": 5.679882654381, 
       "name": "Impasse des Fonds", 
-      "numOfAddr": 4, 
-      "r": 5.680114834207, 
+      "numOfAddr": 5, 
+      "r": 5.680244210256, 
       "sanName": "impassedesfonds", 
-      "t": 50.601838191863
+      "t": 50.601992973763
     }, 
     {
       "b": 50.602752384507, 
@@ -47,12 +56,12 @@
     }, 
     {
       "b": 50.603700799025, 
-      "l": 5.680496280364, 
+      "l": 5.679873308445, 
       "name": "Place de l'Etang", 
-      "numOfAddr": 2, 
+      "numOfAddr": 3, 
       "r": 5.680594961454, 
       "sanName": "placedeletang", 
-      "t": 50.60370815827
+      "t": 50.603970632434
     }, 
     {
       "b": 50.604382664796, 
@@ -67,8 +76,8 @@
       "b": 50.606038038354, 
       "l": 5.673624182409, 
       "name": "Rue Bransons", 
-      "numOfAddr": 13, 
-      "r": 5.675473047857, 
+      "numOfAddr": 12, 
+      "r": 5.675280332989, 
       "sanName": "ruebransons", 
       "t": 50.606743188375
     }, 
@@ -94,7 +103,7 @@
       "b": 50.604031878685, 
       "l": 5.677622499192, 
       "name": "Rue de Fl\u00e9ron", 
-      "numOfAddr": 64, 
+      "numOfAddr": 66, 
       "r": 5.681033564127, 
       "sanName": "ruedeflron", 
       "t": 50.609170675253
@@ -103,7 +112,7 @@
       "b": 50.602500930319, 
       "l": 5.681040846964, 
       "name": "Rue de la Carri\u00e8re", 
-      "numOfAddr": 30, 
+      "numOfAddr": 31, 
       "r": 5.686897856415, 
       "sanName": "ruedelacarrire", 
       "t": 50.603969746051
@@ -118,6 +127,24 @@
       "t": 50.603314423374
     }, 
     {
+      "b": 50.605428869594, 
+      "l": 5.675175061894, 
+      "name": "Rue de la Taillanderie", 
+      "numOfAddr": 14, 
+      "r": 5.675809761547, 
+      "sanName": "ruedelataillanderie", 
+      "t": 50.606376256751
+    }, 
+    {
+      "b": 50.609312310231, 
+      "l": 5.682056017589, 
+      "name": "Rue des C\u00e8dres", 
+      "numOfAddr": 1, 
+      "r": 5.682056017589, 
+      "sanName": "ruedescdres", 
+      "t": 50.609312310231
+    }, 
+    {
       "b": 50.605242767988, 
       "l": 5.678800740509, 
       "name": "Rue des Hirondelles", 
@@ -128,9 +155,9 @@
     }, 
     {
       "b": 50.603165324553, 
-      "l": 5.674417653008, 
+      "l": 5.674058384768, 
       "name": "Rue des Peupliers", 
-      "numOfAddr": 27, 
+      "numOfAddr": 31, 
       "r": 5.679080932456, 
       "sanName": "ruedespeupliers", 
       "t": 50.604888544359
@@ -148,7 +175,7 @@
       "b": 50.602648335884, 
       "l": 5.680936977422, 
       "name": "Rue du Village", 
-      "numOfAddr": 18, 
+      "numOfAddr": 16, 
       "r": 5.682242465477, 
       "sanName": "rueduvillage", 
       "t": 50.603665453573
@@ -157,7 +184,7 @@
       "b": 50.599109466996, 
       "l": 5.682715119093, 
       "name": "Rue Fonds de For\u00eat", 
-      "numOfAddr": 20, 
+      "numOfAddr": 23, 
       "r": 5.688875889345, 
       "sanName": "ruefondsdefort", 
       "t": 50.602818774061
@@ -166,26 +193,26 @@
       "b": 50.603635906948, 
       "l": 5.683131178552, 
       "name": "Rue Franck", 
-      "numOfAddr": 23, 
-      "r": 5.685395061044, 
+      "numOfAddr": 25, 
+      "r": 5.6855638701, 
       "sanName": "ruefranck", 
-      "t": 50.605822418804
+      "t": 50.606087115069
     }, 
     {
       "b": 50.602936780023, 
-      "l": 5.685647576334, 
+      "l": 5.68555639137, 
       "name": "Rue Neuve", 
-      "numOfAddr": 11, 
-      "r": 5.68647119752, 
+      "numOfAddr": 15, 
+      "r": 5.686530291261, 
       "sanName": "rueneuve", 
-      "t": 50.604069696795
+      "t": 50.604385209789
     }, 
     {
       "b": 50.60227123338, 
       "l": 5.679346616558, 
       "name": "Rue Niton", 
-      "numOfAddr": 18, 
-      "r": 5.681008510432, 
+      "numOfAddr": 19, 
+      "r": 5.681022978456, 
       "sanName": "rueniton", 
       "t": 50.603538104793
     }, 
@@ -211,7 +238,7 @@
       "b": 50.60009355523, 
       "l": 5.683634172378, 
       "name": "Voie des Chevaux", 
-      "numOfAddr": 14, 
+      "numOfAddr": 15, 
       "r": 5.685368948461, 
       "sanName": "voiedeschevaux", 
       "t": 50.60147661547

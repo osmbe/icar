@@ -97,6 +97,10 @@
       "street": "Rue Cockerill"
     }, 
     {
+      "busnrs": [
+        "11", 
+        "21"
+      ], 
       "hnrlbls": [
         "124"
       ], 
@@ -121,6 +125,9 @@
       "street": "Rue Cockerill"
     }, 
     {
+      "busnrs": [
+        "5"
+      ], 
       "hnrlbls": [
         "128"
       ], 
@@ -145,6 +152,10 @@
       "street": "Rue Cockerill"
     }, 
     {
+      "busnrs": [
+        "11", 
+        "21"
+      ], 
       "hnrlbls": [
         "132"
       ], 
@@ -181,6 +192,9 @@
       "street": "Rue Cockerill"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "138"
       ], 
@@ -205,6 +219,11 @@
       "street": "Rue Cockerill"
     }, 
     {
+      "busnrs": [
+        "11", 
+        "21", 
+        "22"
+      ], 
       "hnrlbls": [
         "142"
       ], 
@@ -241,6 +260,9 @@
       "street": "Rue Cockerill"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "150"
       ], 
@@ -277,6 +299,10 @@
       "street": "Rue Cockerill"
     }, 
     {
+      "busnrs": [
+        "11", 
+        "2"
+      ], 
       "hnrlbls": [
         "156"
       ], 
@@ -325,6 +351,9 @@
       "street": "Rue Cockerill"
     }, 
     {
+      "busnrs": [
+        "11"
+      ], 
       "hnrlbls": [
         "166"
       ], 
@@ -385,6 +414,10 @@
       "street": "Rue Cockerill"
     }, 
     {
+      "busnrs": [
+        "11", 
+        "12"
+      ], 
       "hnrlbls": [
         "176"
       ], 
@@ -397,6 +430,9 @@
       "street": "Rue Cockerill"
     }, 
     {
+      "busnrs": [
+        "12"
+      ], 
       "hnrlbls": [
         "178"
       ], 
@@ -473,8 +509,8 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 50.613887119109, 
-      "lon": 5.511491344429, 
+      "lat": 50.61385230033, 
+      "lon": 5.511475919851, 
       "municipality": "Seraing", 
       "pcode": "4100", 
       "source": "7732195", 
@@ -485,8 +521,8 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 50.613841706518, 
-      "lon": 5.511515152572, 
+      "lat": 50.613811827058, 
+      "lon": 5.511505456145, 
       "municipality": "Seraing", 
       "pcode": "4100", 
       "source": "7732195", 
@@ -497,8 +533,8 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 50.613784087753, 
-      "lon": 5.511549315749, 
+      "lat": 50.61375649232, 
+      "lon": 5.511525092825, 
       "municipality": "Seraing", 
       "pcode": "4100", 
       "source": "7732195", 
@@ -509,8 +545,8 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 50.613688871518, 
-      "lon": 5.511592046386, 
+      "lat": 50.613698498867, 
+      "lon": 5.511556386749, 
       "municipality": "Seraing", 
       "pcode": "4100", 
       "source": "7732195", 
@@ -521,8 +557,8 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 50.613625865149, 
-      "lon": 5.511639708247, 
+      "lat": 50.613642221918, 
+      "lon": 5.511572805504, 
       "municipality": "Seraing", 
       "pcode": "4100", 
       "source": "7732195", 
@@ -533,14 +569,18 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 50.613582781654, 
-      "lon": 5.511662829212, 
+      "lat": 50.61358036725, 
+      "lon": 5.511617905021, 
       "municipality": "Seraing", 
       "pcode": "4100", 
       "source": "7732195", 
       "street": "Rue Cockerill"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -557,8 +597,8 @@
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 50.613470167942, 
-      "lon": 5.51174213016, 
+      "lat": 50.613502419104, 
+      "lon": 5.511655422191, 
       "municipality": "Seraing", 
       "pcode": "4100", 
       "source": "7732195", 
@@ -569,8 +609,8 @@
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 50.613433667354, 
-      "lon": 5.511756479601, 
+      "lat": 50.613440759484, 
+      "lon": 5.511688230892, 
       "municipality": "Seraing", 
       "pcode": "4100", 
       "source": "7732195", 
@@ -581,8 +621,8 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 50.613368250262, 
-      "lon": 5.51178195649, 
+      "lat": 50.613384552158, 
+      "lon": 5.511720661379, 
       "municipality": "Seraing", 
       "pcode": "4100", 
       "source": "7732195", 
@@ -637,6 +677,11 @@
       "street": "Rue Cockerill"
     }, 
     {
+      "busnrs": [
+        "11", 
+        "21", 
+        "3"
+      ], 
       "hnrlbls": [
         "8"
       ], 
@@ -709,6 +754,9 @@
       "street": "Rue Cockerill"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "94"
       ], 
@@ -721,6 +769,11 @@
       "street": "Rue Cockerill"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "31"
+      ], 
       "hnrlbls": [
         "96"
       ], 

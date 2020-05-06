@@ -1,6 +1,13 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "APT2", 
+        "BTE1", 
+        "BTE3", 
+        "BTE4", 
+        "BTE5"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -89,8 +96,8 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 50.596828378253, 
-      "lon": 3.62513942494, 
+      "lat": 50.596880210393, 
+      "lon": 3.625112902657, 
       "municipality": "Leuze-en-Hainaut", 
       "pcode": "7900", 
       "source": "7724351", 
@@ -113,8 +120,8 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 50.596884280321, 
-      "lon": 3.625207052323, 
+      "lat": 50.596840410141, 
+      "lon": 3.625227361495, 
       "municipality": "Leuze-en-Hainaut", 
       "pcode": "7900", 
       "source": "7724351", 
@@ -205,6 +212,10 @@
       "street": "Rue Pont Saint-Martin"
     }, 
     {
+      "busnrs": [
+        "BTE1", 
+        "BTE2"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -217,6 +228,13 @@
       "street": "Rue Pont Saint-Martin"
     }, 
     {
+      "busnrs": [
+        "BTE1", 
+        "BTE2", 
+        "BTE3", 
+        "BTE4", 
+        "BTE5"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -277,6 +295,19 @@
       "street": "Rue Pont Saint-Martin"
     }, 
     {
+      "busnrs": [
+        "BTE1", 
+        "BTE10", 
+        "BTE11", 
+        "BTE2", 
+        "BTE3", 
+        "BTE4", 
+        "BTE5", 
+        "BTE6", 
+        "BTE7", 
+        "BTE8", 
+        "BTE9"
+      ], 
       "hnrlbls": [
         "9"
       ], 

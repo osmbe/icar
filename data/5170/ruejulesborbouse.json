@@ -301,6 +301,14 @@
       "street": "Rue Jules Borbouse"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006"
+      ], 
       "hnrlbls": [
         "40"
       ], 
@@ -313,6 +321,10 @@
       "street": "Rue Jules Borbouse"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "41"
       ], 
@@ -373,6 +385,11 @@
       "street": "Rue Jules Borbouse"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "47"
       ], 
@@ -421,6 +438,10 @@
       "street": "Rue Jules Borbouse"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "50"
       ], 
@@ -557,8 +578,8 @@
         "68"
       ], 
       "housenumber": "68", 
-      "lat": 50.388209842322, 
-      "lon": 4.821803634758, 
+      "lat": 50.388350224367, 
+      "lon": 4.822193700399, 
       "municipality": "Profondeville", 
       "pcode": "5170", 
       "source": "7755031", 

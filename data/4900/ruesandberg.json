@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +17,14 @@
       "street": "Rue Sandberg"
     }, 
     {
+      "busnrs": [
+        "0.1", 
+        "0.2", 
+        "0.3", 
+        "1", 
+        "2.1", 
+        "2.2"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -25,6 +37,9 @@
       "street": "Rue Sandberg"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -49,6 +64,11 @@
       "street": "Rue Sandberg"
     }, 
     {
+      "busnrs": [
+        "0", 
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -61,6 +81,9 @@
       "street": "Rue Sandberg"
     }, 
     {
+      "busnrs": [
+        "0"
+      ], 
       "hnrlbls": [
         "17"
       ], 

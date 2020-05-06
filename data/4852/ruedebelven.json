@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A", 
+        "B 10", 
+        "B 20"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -229,6 +234,9 @@
       "street": "Rue de Belven"
     }, 
     {
+      "busnrs": [
+        "10"
+      ], 
       "hnrlbls": [
         "3"
       ], 

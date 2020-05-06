@@ -1,12 +1,41 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "A000"
+      ], 
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.65076462637, 
+      "lon": 5.706530704834, 
+      "municipality": "Soumagne", 
+      "pcode": "4631", 
+      "source": "7732896", 
+      "street": "Voie de Saive"
+    }, 
+    {
       "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
       "lat": 50.65127076148, 
       "lon": 5.704553675799, 
+      "municipality": "Soumagne", 
+      "pcode": "4631", 
+      "source": "7732896", 
+      "street": "Voie de Saive"
+    }, 
+    {
+      "hnrlbls": [
+        "11"
+      ], 
+      "housenumber": "11", 
+      "lat": 50.651091484536, 
+      "lon": 5.703938140499, 
       "municipality": "Soumagne", 
       "pcode": "4631", 
       "source": "7732896", 
@@ -29,8 +58,8 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 50.651531601617, 
-      "lon": 5.703801629391, 
+      "lat": 50.651448668447, 
+      "lon": 5.704052850323, 
       "municipality": "Soumagne", 
       "pcode": "4631", 
       "source": "7732896", 
@@ -38,23 +67,11 @@
     }, 
     {
       "hnrlbls": [
-        "14B"
+        "15"
       ], 
-      "housenumber": "14B", 
-      "lat": 50.651593110284, 
-      "lon": 5.703515589659, 
-      "municipality": "Soumagne", 
-      "pcode": "4631", 
-      "source": "7732896", 
-      "street": "Voie de Saive"
-    }, 
-    {
-      "hnrlbls": [
-        "14D"
-      ], 
-      "housenumber": "14D", 
-      "lat": 50.651538407357, 
-      "lon": 5.703052332371, 
+      "housenumber": "15", 
+      "lat": 50.651179348999, 
+      "lon": 5.703453039775, 
       "municipality": "Soumagne", 
       "pcode": "4631", 
       "source": "7732896", 
@@ -65,8 +82,8 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 50.651387264439, 
-      "lon": 5.702045752633, 
+      "lat": 50.651531601617, 
+      "lon": 5.703801629391, 
       "municipality": "Soumagne", 
       "pcode": "4631", 
       "source": "7732896", 
@@ -89,8 +106,8 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 50.651231699005, 
-      "lon": 5.701362812016, 
+      "lat": 50.651593110284, 
+      "lon": 5.703515589659, 
       "municipality": "Soumagne", 
       "pcode": "4631", 
       "source": "7732896", 
@@ -101,8 +118,20 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 50.649927110169, 
-      "lon": 5.699435176779, 
+      "lat": 50.651178167187, 
+      "lon": 5.702817117511, 
+      "municipality": "Soumagne", 
+      "pcode": "4631", 
+      "source": "7732896", 
+      "street": "Voie de Saive"
+    }, 
+    {
+      "hnrlbls": [
+        "1A"
+      ], 
+      "housenumber": "1A", 
+      "lat": 50.650675387836, 
+      "lon": 5.706097104473, 
       "municipality": "Soumagne", 
       "pcode": "4631", 
       "source": "7732896", 
@@ -113,8 +142,8 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 50.651231451628, 
-      "lon": 5.701827778403, 
+      "lat": 50.651556296854, 
+      "lon": 5.703286210652, 
       "municipality": "Soumagne", 
       "pcode": "4631", 
       "source": "7732896", 
@@ -125,8 +154,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.649786566454, 
-      "lon": 5.698685683233, 
+      "lat": 50.65115515704, 
+      "lon": 5.702548149679, 
       "municipality": "Soumagne", 
       "pcode": "4631", 
       "source": "7732896", 
@@ -137,8 +166,20 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 50.651169158991, 
-      "lon": 5.701797096171, 
+      "lat": 50.651538407357, 
+      "lon": 5.703052332371, 
+      "municipality": "Soumagne", 
+      "pcode": "4631", 
+      "source": "7732896", 
+      "street": "Voie de Saive"
+    }, 
+    {
+      "hnrlbls": [
+        "23"
+      ], 
+      "housenumber": "23", 
+      "lat": 50.651182308683, 
+      "lon": 5.702117734335, 
       "municipality": "Soumagne", 
       "pcode": "4631", 
       "source": "7732896", 
@@ -149,8 +190,20 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 50.651097661294, 
-      "lon": 5.701707178546, 
+      "lat": 50.651506847552, 
+      "lon": 5.702806908956, 
+      "municipality": "Soumagne", 
+      "pcode": "4631", 
+      "source": "7732896", 
+      "street": "Voie de Saive"
+    }, 
+    {
+      "hnrlbls": [
+        "25"
+      ], 
+      "housenumber": "25", 
+      "lat": 50.651121071073, 
+      "lon": 5.702093797977, 
       "municipality": "Soumagne", 
       "pcode": "4631", 
       "source": "7732896", 
@@ -170,35 +223,11 @@
     }, 
     {
       "hnrlbls": [
-        "27"
-      ], 
-      "housenumber": "27", 
-      "lat": 50.649830154444, 
-      "lon": 5.696233491458, 
-      "municipality": "Soumagne", 
-      "pcode": "4631", 
-      "source": "7732896", 
-      "street": "Voie de Saive"
-    }, 
-    {
-      "hnrlbls": [
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 50.651107131413, 
-      "lon": 5.701304603207, 
-      "municipality": "Soumagne", 
-      "pcode": "4631", 
-      "source": "7732896", 
-      "street": "Voie de Saive"
-    }, 
-    {
-      "hnrlbls": [
-        "3"
-      ], 
-      "housenumber": "3", 
-      "lat": 50.651091484536, 
-      "lon": 5.703938140499, 
+      "lat": 50.651387264439, 
+      "lon": 5.702045752633, 
       "municipality": "Soumagne", 
       "pcode": "4631", 
       "source": "7732896", 
@@ -209,20 +238,8 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 50.651035615999, 
-      "lon": 5.701191788834, 
-      "municipality": "Soumagne", 
-      "pcode": "4631", 
-      "source": "7732896", 
-      "street": "Voie de Saive"
-    }, 
-    {
-      "hnrlbls": [
-        "31"
-      ], 
-      "housenumber": "31", 
-      "lat": 50.649858578674, 
-      "lon": 5.695231270874, 
+      "lat": 50.651432124636, 
+      "lon": 5.701854122928, 
       "municipality": "Soumagne", 
       "pcode": "4631", 
       "source": "7732896", 
@@ -245,8 +262,8 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 50.649891264095, 
-      "lon": 5.694761884617, 
+      "lat": 50.650626651465, 
+      "lon": 5.701445289681, 
       "municipality": "Soumagne", 
       "pcode": "4631", 
       "source": "7732896", 
@@ -257,20 +274,8 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 50.650842511854, 
-      "lon": 5.700632888731, 
-      "municipality": "Soumagne", 
-      "pcode": "4631", 
-      "source": "7732896", 
-      "street": "Voie de Saive"
-    }, 
-    {
-      "hnrlbls": [
-        "35"
-      ], 
-      "housenumber": "35", 
-      "lat": 50.6499055509, 
-      "lon": 5.694623421988, 
+      "lat": 50.651231451628, 
+      "lon": 5.701827778403, 
       "municipality": "Soumagne", 
       "pcode": "4631", 
       "source": "7732896", 
@@ -281,20 +286,8 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 50.65064208648, 
-      "lon": 5.700151203457, 
-      "municipality": "Soumagne", 
-      "pcode": "4631", 
-      "source": "7732896", 
-      "street": "Voie de Saive"
-    }, 
-    {
-      "hnrlbls": [
-        "37"
-      ], 
-      "housenumber": "37", 
-      "lat": 50.650083976319, 
-      "lon": 5.693822925034, 
+      "lat": 50.651169158991, 
+      "lon": 5.701797096171, 
       "municipality": "Soumagne", 
       "pcode": "4631", 
       "source": "7732896", 
@@ -305,8 +298,8 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 50.650532672872, 
-      "lon": 5.699886095695, 
+      "lat": 50.65111167421, 
+      "lon": 5.701730026139, 
       "municipality": "Soumagne", 
       "pcode": "4631", 
       "source": "7732896", 
@@ -317,8 +310,8 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 50.650451929701, 
-      "lon": 5.699606226993, 
+      "lat": 50.651064991639, 
+      "lon": 5.701671618432, 
       "municipality": "Soumagne", 
       "pcode": "4631", 
       "source": "7732896", 
@@ -329,8 +322,8 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 50.650102292605, 
-      "lon": 5.698181933213, 
+      "lat": 50.651231699005, 
+      "lon": 5.701362812016, 
       "municipality": "Soumagne", 
       "pcode": "4631", 
       "source": "7732896", 
@@ -341,8 +334,8 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 50.650082046326, 
-      "lon": 5.697801185087, 
+      "lat": 50.651046376049, 
+      "lon": 5.70120840358, 
       "municipality": "Soumagne", 
       "pcode": "4631", 
       "source": "7732896", 
@@ -353,8 +346,20 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 50.6501117391, 
-      "lon": 5.697211714994, 
+      "lat": 50.650994585995, 
+      "lon": 5.700868075037, 
+      "municipality": "Soumagne", 
+      "pcode": "4631", 
+      "source": "7732896", 
+      "street": "Voie de Saive"
+    }, 
+    {
+      "hnrlbls": [
+        "47"
+      ], 
+      "housenumber": "47", 
+      "lat": 50.649927110169, 
+      "lon": 5.699435176779, 
       "municipality": "Soumagne", 
       "pcode": "4631", 
       "source": "7732896", 
@@ -365,32 +370,36 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 50.650197971233, 
-      "lon": 5.696883421021, 
+      "lat": 50.650842511854, 
+      "lon": 5.700632888731, 
       "municipality": "Soumagne", 
       "pcode": "4631", 
       "source": "7732896", 
       "street": "Voie de Saive"
     }, 
     {
+      "hnrlbls": [
+        "49"
+      ], 
+      "housenumber": "49", 
+      "lat": 50.649786566454, 
+      "lon": 5.698685683233, 
+      "municipality": "Soumagne", 
+      "pcode": "4631", 
+      "source": "7732896", 
+      "street": "Voie de Saive"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.651179348999, 
-      "lon": 5.703453039775, 
-      "municipality": "Soumagne", 
-      "pcode": "4631", 
-      "source": "7732896", 
-      "street": "Voie de Saive"
-    }, 
-    {
-      "hnrlbls": [
-        "50"
-      ], 
-      "housenumber": "50", 
-      "lat": 50.650056807266, 
-      "lon": 5.695866805415, 
+      "lat": 50.650851344536, 
+      "lon": 5.70469213153, 
       "municipality": "Soumagne", 
       "pcode": "4631", 
       "source": "7732896", 
@@ -401,8 +410,8 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 50.650327206746, 
-      "lon": 5.695636534545, 
+      "lat": 50.65064208648, 
+      "lon": 5.700151203457, 
       "municipality": "Soumagne", 
       "pcode": "4631", 
       "source": "7732896", 
@@ -413,8 +422,20 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 50.650198963534, 
-      "lon": 5.694903868396, 
+      "lat": 50.650532672872, 
+      "lon": 5.699886095695, 
+      "municipality": "Soumagne", 
+      "pcode": "4631", 
+      "source": "7732896", 
+      "street": "Voie de Saive"
+    }, 
+    {
+      "hnrlbls": [
+        "56"
+      ], 
+      "housenumber": "56", 
+      "lat": 50.650451929701, 
+      "lon": 5.699606226993, 
       "municipality": "Soumagne", 
       "pcode": "4631", 
       "source": "7732896", 
@@ -425,8 +446,8 @@
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 50.650174686104, 
-      "lon": 5.694470991889, 
+      "lat": 50.650257724136, 
+      "lon": 5.698952079399, 
       "municipality": "Soumagne", 
       "pcode": "4631", 
       "source": "7732896", 
@@ -434,11 +455,11 @@
     }, 
     {
       "hnrlbls": [
-        "5B"
+        "59"
       ], 
-      "housenumber": "5B", 
-      "lat": 50.651178167187, 
-      "lon": 5.702817117511, 
+      "housenumber": "59", 
+      "lat": 50.649785859965, 
+      "lon": 5.696719687207, 
       "municipality": "Soumagne", 
       "pcode": "4631", 
       "source": "7732896", 
@@ -461,8 +482,8 @@
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 50.650422942987, 
-      "lon": 5.693767432305, 
+      "lat": 50.650102292605, 
+      "lon": 5.698181933213, 
       "municipality": "Soumagne", 
       "pcode": "4631", 
       "source": "7732896", 
@@ -470,11 +491,155 @@
     }, 
     {
       "hnrlbls": [
-        "7"
+        "61"
       ], 
-      "housenumber": "7", 
-      "lat": 50.65115515704, 
-      "lon": 5.702548149679, 
+      "housenumber": "61", 
+      "lat": 50.649830154444, 
+      "lon": 5.696233491458, 
+      "municipality": "Soumagne", 
+      "pcode": "4631", 
+      "source": "7732896", 
+      "street": "Voie de Saive"
+    }, 
+    {
+      "hnrlbls": [
+        "62"
+      ], 
+      "housenumber": "62", 
+      "lat": 50.650082046326, 
+      "lon": 5.697801185087, 
+      "municipality": "Soumagne", 
+      "pcode": "4631", 
+      "source": "7732896", 
+      "street": "Voie de Saive"
+    }, 
+    {
+      "hnrlbls": [
+        "64"
+      ], 
+      "housenumber": "64", 
+      "lat": 50.6501117391, 
+      "lon": 5.697211714994, 
+      "municipality": "Soumagne", 
+      "pcode": "4631", 
+      "source": "7732896", 
+      "street": "Voie de Saive"
+    }, 
+    {
+      "hnrlbls": [
+        "65"
+      ], 
+      "housenumber": "65", 
+      "lat": 50.649858578674, 
+      "lon": 5.695231270874, 
+      "municipality": "Soumagne", 
+      "pcode": "4631", 
+      "source": "7732896", 
+      "street": "Voie de Saive"
+    }, 
+    {
+      "hnrlbls": [
+        "66"
+      ], 
+      "housenumber": "66", 
+      "lat": 50.650197971233, 
+      "lon": 5.696883421021, 
+      "municipality": "Soumagne", 
+      "pcode": "4631", 
+      "source": "7732896", 
+      "street": "Voie de Saive"
+    }, 
+    {
+      "hnrlbls": [
+        "67"
+      ], 
+      "housenumber": "67", 
+      "lat": 50.649891264095, 
+      "lon": 5.694761884617, 
+      "municipality": "Soumagne", 
+      "pcode": "4631", 
+      "source": "7732896", 
+      "street": "Voie de Saive"
+    }, 
+    {
+      "hnrlbls": [
+        "68"
+      ], 
+      "housenumber": "68", 
+      "lat": 50.650056807266, 
+      "lon": 5.695866805415, 
+      "municipality": "Soumagne", 
+      "pcode": "4631", 
+      "source": "7732896", 
+      "street": "Voie de Saive"
+    }, 
+    {
+      "hnrlbls": [
+        "69"
+      ], 
+      "housenumber": "69", 
+      "lat": 50.6499055509, 
+      "lon": 5.694623421988, 
+      "municipality": "Soumagne", 
+      "pcode": "4631", 
+      "source": "7732896", 
+      "street": "Voie de Saive"
+    }, 
+    {
+      "hnrlbls": [
+        "70"
+      ], 
+      "housenumber": "70", 
+      "lat": 50.650327206746, 
+      "lon": 5.695636534545, 
+      "municipality": "Soumagne", 
+      "pcode": "4631", 
+      "source": "7732896", 
+      "street": "Voie de Saive"
+    }, 
+    {
+      "hnrlbls": [
+        "72"
+      ], 
+      "housenumber": "72", 
+      "lat": 50.650198963534, 
+      "lon": 5.694903868396, 
+      "municipality": "Soumagne", 
+      "pcode": "4631", 
+      "source": "7732896", 
+      "street": "Voie de Saive"
+    }, 
+    {
+      "hnrlbls": [
+        "73"
+      ], 
+      "housenumber": "73", 
+      "lat": 50.650083976319, 
+      "lon": 5.693822925034, 
+      "municipality": "Soumagne", 
+      "pcode": "4631", 
+      "source": "7732896", 
+      "street": "Voie de Saive"
+    }, 
+    {
+      "hnrlbls": [
+        "74"
+      ], 
+      "housenumber": "74", 
+      "lat": 50.650153814728, 
+      "lon": 5.694570306381, 
+      "municipality": "Soumagne", 
+      "pcode": "4631", 
+      "source": "7732896", 
+      "street": "Voie de Saive"
+    }, 
+    {
+      "hnrlbls": [
+        "76"
+      ], 
+      "housenumber": "76", 
+      "lat": 50.650174686104, 
+      "lon": 5.694470991889, 
       "municipality": "Soumagne", 
       "pcode": "4631", 
       "source": "7732896", 
@@ -506,11 +671,11 @@
     }, 
     {
       "hnrlbls": [
-        "9"
+        "80"
       ], 
-      "housenumber": "9", 
-      "lat": 50.651152904699, 
-      "lon": 5.702109418917, 
+      "housenumber": "80", 
+      "lat": 50.650422942987, 
+      "lon": 5.693767432305, 
       "municipality": "Soumagne", 
       "pcode": "4631", 
       "source": "7732896", 

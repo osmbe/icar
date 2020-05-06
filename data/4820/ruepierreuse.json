@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +17,9 @@
       "street": "Rue Pierreuse"
     }, 
     {
+      "busnrs": [
+        "REZ"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -25,6 +32,10 @@
       "street": "Rue Pierreuse"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -37,6 +48,10 @@
       "street": "Rue Pierreuse"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -61,6 +76,11 @@
       "street": "Rue Pierreuse"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -205,6 +225,12 @@
       "street": "Rue Pierreuse"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "44"
       ], 
@@ -230,9 +256,9 @@
     }, 
     {
       "hnrlbls": [
-        "47"
+        "47A"
       ], 
-      "housenumber": "47", 
+      "housenumber": "47A", 
       "lat": 50.61282688039, 
       "lon": 5.844731713367, 
       "municipality": "Dison", 
@@ -253,6 +279,10 @@
       "street": "Rue Pierreuse"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "49"
       ], 
@@ -265,6 +295,11 @@
       "street": "Rue Pierreuse"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "55"
       ], 

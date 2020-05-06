@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -427,6 +430,18 @@
       "housenumber": "46", 
       "lat": 50.09013138815, 
       "lon": 5.264745010341, 
+      "municipality": "Tellin", 
+      "pcode": "6927", 
+      "source": "7746462", 
+      "street": "Rue de Grupont"
+    }, 
+    {
+      "hnrlbls": [
+        "46A"
+      ], 
+      "housenumber": "46A", 
+      "lat": 50.090272900064, 
+      "lon": 5.265027554076, 
       "municipality": "Tellin", 
       "pcode": "6927", 
       "source": "7746462", 

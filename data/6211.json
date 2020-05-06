@@ -20,9 +20,9 @@
     }, 
     {
       "b": 50.493785997485, 
-      "l": 4.4588107955, 
+      "l": 4.458644915968, 
       "name": "Chauss\u00e9e de Bruxelles", 
-      "numOfAddr": 81, 
+      "numOfAddr": 84, 
       "otherPCs": [
         "6210"
       ], 
@@ -67,22 +67,13 @@
       "t": 50.508862825669
     }, 
     {
-      "b": 50.504381822718, 
-      "l": 4.476446836268, 
+      "b": 50.504477355559, 
+      "l": 4.476337523329, 
       "name": "Place de Mellet", 
       "numOfAddr": 1, 
-      "r": 4.476446836268, 
+      "r": 4.476337523329, 
       "sanName": "placedemellet", 
-      "t": 50.504381822718
-    }, 
-    {
-      "b": 50.50761164571, 
-      "l": 4.480542790753, 
-      "name": "Place du Roi Baudouin", 
-      "numOfAddr": 8, 
-      "r": 4.481445648043, 
-      "sanName": "placeduroibaudouin", 
-      "t": 50.507688445478
+      "t": 50.504477355559
     }, 
     {
       "b": 50.503670886125, 
@@ -97,7 +88,7 @@
       "b": 50.503331729027, 
       "l": 4.471894744666, 
       "name": "Rue Alphonse Helsen", 
-      "numOfAddr": 64, 
+      "numOfAddr": 66, 
       "r": 4.478610681148, 
       "sanName": "ruealphonsehelsen", 
       "t": 50.505018752905
@@ -124,7 +115,7 @@
       "b": 50.49380369331, 
       "l": 4.480709856098, 
       "name": "Rue de Fleurus", 
-      "numOfAddr": 91, 
+      "numOfAddr": 88, 
       "r": 4.506013886548, 
       "sanName": "ruedefleurus", 
       "t": 50.506210521472
@@ -141,7 +132,7 @@
     {
       "b": 50.497470509109, 
       "l": 4.460753263317, 
-      "name": "Rue d'en Dessous", 
+      "name": "Rue d'En-dessous", 
       "numOfAddr": 77, 
       "r": 4.470994250613, 
       "sanName": "ruedendessous", 
@@ -151,7 +142,7 @@
       "b": 50.504468139973, 
       "l": 4.487674386979, 
       "name": "Rue de Saint-Amand", 
-      "numOfAddr": 10, 
+      "numOfAddr": 11, 
       "r": 4.502127969504, 
       "sanName": "ruedesaintamand", 
       "t": 50.509091067553
@@ -241,7 +232,7 @@
       "b": 50.502717813983, 
       "l": 4.477732584035, 
       "name": "Rue Gaston Wautot", 
-      "numOfAddr": 17, 
+      "numOfAddr": 18, 
       "r": 4.481002971545, 
       "sanName": "ruegastonwautot", 
       "t": 50.504145191964
@@ -268,7 +259,7 @@
       "b": 50.506413699359, 
       "l": 4.476827769183, 
       "name": "Rue L\u00e9on Burny", 
-      "numOfAddr": 26, 
+      "numOfAddr": 30, 
       "r": 4.479963230996, 
       "sanName": "ruelonburny", 
       "t": 50.512703559979
@@ -317,6 +308,15 @@
       "r": 4.488859344364, 
       "sanName": "ruepetitchassart", 
       "t": 50.504866181157
+    }, 
+    {
+      "b": 50.50761164571, 
+      "l": 4.480542790753, 
+      "name": "Square Halluent", 
+      "numOfAddr": 8, 
+      "r": 4.481445648043, 
+      "sanName": "squarehalluent", 
+      "t": 50.507688445478
     }
   ]
 }

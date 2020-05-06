@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "bte2"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +16,10 @@
       "street": "Avenue Reine Astrid"
     }, 
     {
+      "busnrs": [
+        "bte1", 
+        "bte2"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -37,6 +44,14 @@
       "street": "Avenue Reine Astrid"
     }, 
     {
+      "busnrs": [
+        "D/1", 
+        "D/2", 
+        "D/3", 
+        "D/4", 
+        "D/6", 
+        "D/7"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -145,6 +160,11 @@
       "street": "Avenue Reine Astrid"
     }, 
     {
+      "busnrs": [
+        "bte2", 
+        "bte3", 
+        "bte4"
+      ], 
       "hnrlbls": [
         "8"
       ], 

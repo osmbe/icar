@@ -25,6 +25,12 @@
       "street": "Marais du Bernil"
     }, 
     {
+      "busnrs": [
+        "APT2", 
+        "BTE1", 
+        "BTE3", 
+        "BTE4"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -62,11 +68,11 @@
     }, 
     {
       "hnrlbls": [
-        "14C"
+        "14"
       ], 
-      "housenumber": "14C", 
-      "lat": 50.598956305489, 
-      "lon": 3.61683854783, 
+      "housenumber": "14", 
+      "lat": 50.598784784883, 
+      "lon": 3.617003214169, 
       "municipality": "Leuze-en-Hainaut", 
       "pcode": "7900", 
       "source": "7724200", 
@@ -74,11 +80,41 @@
     }, 
     {
       "hnrlbls": [
+        "14B"
+      ], 
+      "housenumber": "14B", 
+      "lat": 50.598856922333, 
+      "lon": 3.616930373251, 
+      "municipality": "Leuze-en-Hainaut", 
+      "pcode": "7900", 
+      "source": "7724200", 
+      "street": "Marais du Bernil"
+    }, 
+    {
+      "hnrlbls": [
+        "14C"
+      ], 
+      "housenumber": "14C", 
+      "lat": 50.598924441043, 
+      "lon": 3.616877176563, 
+      "municipality": "Leuze-en-Hainaut", 
+      "pcode": "7900", 
+      "source": "7724200", 
+      "street": "Marais du Bernil"
+    }, 
+    {
+      "busnrs": [
+        "B1", 
+        "B2", 
+        "B3", 
+        "B4"
+      ], 
+      "hnrlbls": [
         "14D"
       ], 
       "housenumber": "14D", 
-      "lat": 50.599087539405, 
-      "lon": 3.616756100776, 
+      "lat": 50.59903565953, 
+      "lon": 3.616789441401, 
       "municipality": "Leuze-en-Hainaut", 
       "pcode": "7900", 
       "source": "7724200", 
@@ -133,6 +169,9 @@
       "street": "Marais du Bernil"
     }, 
     {
+      "busnrs": [
+        "BTE1"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -145,6 +184,14 @@
       "street": "Marais du Bernil"
     }, 
     {
+      "busnrs": [
+        "A1", 
+        "A2", 
+        "A3", 
+        "A4", 
+        "A5", 
+        "A6"
+      ], 
       "hnrlbls": [
         "1B"
       ], 
@@ -173,8 +220,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.599320630817, 
-      "lon": 3.616287743234, 
+      "lat": 50.599337455181, 
+      "lon": 3.616315573085, 
       "municipality": "Leuze-en-Hainaut", 
       "pcode": "7900", 
       "source": "7724200", 
@@ -185,8 +232,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.599320630817, 
-      "lon": 3.616287743234, 
+      "lat": 50.599298179684, 
+      "lon": 3.616265276051, 
       "municipality": "Leuze-en-Hainaut", 
       "pcode": "7900", 
       "source": "7724200", 

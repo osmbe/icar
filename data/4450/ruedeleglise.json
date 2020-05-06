@@ -193,6 +193,9 @@
       "street": "Rue de l'Eglise"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -217,6 +220,16 @@
       "street": "Rue de l'Eglise"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "7", 
+        "8", 
+        "9"
+      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -229,6 +242,12 @@
       "street": "Rue de l'Eglise"
     }, 
     {
+      "busnrs": [
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
         "33"
       ], 
@@ -425,8 +444,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.711394702536, 
-      "lon": 5.52739858325, 
+      "lat": 50.710975984184, 
+      "lon": 5.527314468897, 
       "municipality": "Juprelle", 
       "pcode": "4450", 
       "source": "7729496", 

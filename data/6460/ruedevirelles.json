@@ -109,12 +109,19 @@
       "street": "Rue de Virelles"
     }, 
     {
+      "busnrs": [
+        "1/B", 
+        "1\u00e9t.", 
+        "4/A", 
+        "6", 
+        "7"
+      ], 
       "hnrlbls": [
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.117525293724, 
-      "lon": 4.327045413906, 
+      "lat": 50.049429784162, 
+      "lon": 4.318906812048, 
       "municipality": "Chimay", 
       "pcode": "6460", 
       "source": "7720080", 
@@ -149,8 +156,8 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 50.049526346927, 
-      "lon": 4.321115019939, 
+      "lat": 50.049370454292, 
+      "lon": 4.320057399607, 
       "municipality": "Chimay", 
       "pcode": "6460", 
       "source": "7720080", 
@@ -169,6 +176,9 @@
       "street": "Rue de Virelles"
     }, 
     {
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -565,6 +575,12 @@
       "street": "Rue de Virelles"
     }, 
     {
+      "busnrs": [
+        "1/2", 
+        "1/A", 
+        "3", 
+        "AB1"
+      ], 
       "hnrlbls": [
         "61"
       ], 

@@ -193,6 +193,9 @@
       "street": "Rue de Fosses"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -289,6 +292,14 @@
       "street": "Rue de Fosses"
     }, 
     {
+      "busnrs": [
+        "7A1", 
+        "7A2", 
+        "7A3", 
+        "7A4", 
+        "7A5", 
+        "7A6"
+      ], 
       "hnrlbls": [
         "7A"
       ], 
@@ -302,21 +313,9 @@
     }, 
     {
       "hnrlbls": [
-        "7L"
+        "7H"
       ], 
-      "housenumber": "7L", 
-      "lat": 50.417194113822, 
-      "lon": 4.76615022064, 
-      "municipality": "Floreffe", 
-      "pcode": "5150", 
-      "source": "7752294", 
-      "street": "Rue de Fosses"
-    }, 
-    {
-      "hnrlbls": [
-        "7h"
-      ], 
-      "housenumber": "7h", 
+      "housenumber": "7H", 
       "lat": 50.417807059811, 
       "lon": 4.767155795485, 
       "municipality": "Floreffe", 
@@ -326,11 +325,35 @@
     }, 
     {
       "hnrlbls": [
-        "7j"
+        "7J"
       ], 
-      "housenumber": "7j", 
+      "housenumber": "7J", 
       "lat": 50.417493215936, 
       "lon": 4.766607071189, 
+      "municipality": "Floreffe", 
+      "pcode": "5150", 
+      "source": "7752294", 
+      "street": "Rue de Fosses"
+    }, 
+    {
+      "hnrlbls": [
+        "7K"
+      ], 
+      "housenumber": "7K", 
+      "lat": 50.417377245644, 
+      "lon": 4.766376992364, 
+      "municipality": "Floreffe", 
+      "pcode": "5150", 
+      "source": "7752294", 
+      "street": "Rue de Fosses"
+    }, 
+    {
+      "hnrlbls": [
+        "7L"
+      ], 
+      "housenumber": "7L", 
+      "lat": 50.417194113822, 
+      "lon": 4.76615022064, 
       "municipality": "Floreffe", 
       "pcode": "5150", 
       "source": "7752294", 

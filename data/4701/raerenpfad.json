@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,12 +17,28 @@
       "street": "Raerenpfad"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "11"
       ], 
       "housenumber": "11", 
       "lat": 50.650931917329, 
       "lon": 6.054474375025, 
+      "municipality": "Eupen", 
+      "pcode": "4701", 
+      "source": "7735879", 
+      "street": "Raerenpfad"
+    }, 
+    {
+      "hnrlbls": [
+        "13"
+      ], 
+      "housenumber": "13", 
+      "lat": 50.651025070141, 
+      "lon": 6.054741772755, 
       "municipality": "Eupen", 
       "pcode": "4701", 
       "source": "7735879", 
@@ -197,8 +217,20 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 50.653374122712, 
-      "lon": 6.059727462106, 
+      "lat": 50.653598451532, 
+      "lon": 6.059762448959, 
+      "municipality": "Eupen", 
+      "pcode": "4701", 
+      "source": "7735879", 
+      "street": "Raerenpfad"
+    }, 
+    {
+      "hnrlbls": [
+        "33A"
+      ], 
+      "housenumber": "33A", 
+      "lat": 50.653509023148, 
+      "lon": 6.059821804876, 
       "municipality": "Eupen", 
       "pcode": "4701", 
       "source": "7735879", 
@@ -209,8 +241,8 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 50.653540306078, 
-      "lon": 6.05984435717, 
+      "lat": 50.653541633153, 
+      "lon": 6.059900543014, 
       "municipality": "Eupen", 
       "pcode": "4701", 
       "source": "7735879", 
@@ -229,6 +261,10 @@
       "street": "Raerenpfad"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -242,11 +278,51 @@
     }, 
     {
       "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 50.650702504697, 
+      "lon": 6.053944679439, 
+      "municipality": "Eupen", 
+      "pcode": "4701", 
+      "source": "7735879", 
+      "street": "Raerenpfad"
+    }, 
+    {
+      "hnrlbls": [
+        "7A"
+      ], 
+      "housenumber": "7A", 
+      "lat": 50.650738821282, 
+      "lon": 6.05404050262, 
+      "municipality": "Eupen", 
+      "pcode": "4701", 
+      "source": "7735879", 
+      "street": "Raerenpfad"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
+      "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
       "lat": 50.651026769126, 
       "lon": 6.053873937483, 
+      "municipality": "Eupen", 
+      "pcode": "4701", 
+      "source": "7735879", 
+      "street": "Raerenpfad"
+    }, 
+    {
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.650821621921, 
+      "lon": 6.054277722738, 
       "municipality": "Eupen", 
       "pcode": "4701", 
       "source": "7735879", 

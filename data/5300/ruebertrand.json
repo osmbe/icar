@@ -157,6 +157,16 @@
       "street": "Rue Bertrand"
     }, 
     {
+      "busnrs": [
+        "01-1", 
+        "01-2", 
+        "02-1", 
+        "02-3", 
+        "03-1", 
+        "03-2", 
+        "03-3", 
+        "RC-2"
+      ], 
       "hnrlbls": [
         "40"
       ], 
@@ -169,6 +179,15 @@
       "street": "Rue Bertrand"
     }, 
     {
+      "busnrs": [
+        "01-1", 
+        "01-2", 
+        "02-1", 
+        "02-2", 
+        "03-1", 
+        "03-2", 
+        "RC-2"
+      ], 
       "hnrlbls": [
         "42"
       ], 
@@ -193,6 +212,10 @@
       "street": "Rue Bertrand"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "50"
       ], 
@@ -205,6 +228,10 @@
       "street": "Rue Bertrand"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "RC00"
+      ], 
       "hnrlbls": [
         "51"
       ], 
@@ -301,6 +328,10 @@
       "street": "Rue Bertrand"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "RC00"
+      ], 
       "hnrlbls": [
         "59"
       ], 
@@ -361,6 +392,9 @@
       "street": "Rue Bertrand"
     }, 
     {
+      "busnrs": [
+        "0002"
+      ], 
       "hnrlbls": [
         "64"
       ], 
@@ -421,6 +455,10 @@
       "street": "Rue Bertrand"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "RC"
+      ], 
       "hnrlbls": [
         "69"
       ], 
@@ -505,6 +543,12 @@
       "street": "Rue Bertrand"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "03-1", 
+        "RC00"
+      ], 
       "hnrlbls": [
         "76"
       ], 
@@ -533,8 +577,8 @@
         "80"
       ], 
       "housenumber": "80", 
-      "lat": 50.488052990034, 
-      "lon": 5.093995847057, 
+      "lat": 50.487847071888, 
+      "lon": 5.094100287156, 
       "municipality": "Andenne", 
       "pcode": "5300", 
       "source": "7751494", 
@@ -565,6 +609,10 @@
       "street": "Rue Bertrand"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "RC-1"
+      ], 
       "hnrlbls": [
         "91"
       ], 
@@ -601,6 +649,10 @@
       "street": "Rue Bertrand"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "RC00"
+      ], 
       "hnrlbls": [
         "95"
       ], 

@@ -337,6 +337,11 @@
       "street": "Avenue de Namur"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "37"
       ], 
@@ -697,6 +702,9 @@
       "street": "Avenue de Namur"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "84"
       ], 
@@ -737,8 +745,8 @@
         "86B"
       ], 
       "housenumber": "86B", 
-      "lat": 50.304610372334, 
-      "lon": 5.099126899468, 
+      "lat": 50.304830180181, 
+      "lon": 5.099090087248, 
       "municipality": "Ciney", 
       "pcode": "5590", 
       "source": "7748692", 

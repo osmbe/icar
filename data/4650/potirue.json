@@ -1,6 +1,19 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "11", 
+        "12", 
+        "13", 
+        "21", 
+        "23", 
+        "31", 
+        "33", 
+        "41", 
+        "42", 
+        "51", 
+        "52"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -25,6 +38,11 @@
       "street": "Poti\u00e9rue"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "rez"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -49,6 +67,10 @@
       "street": "Poti\u00e9rue"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "rez"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -109,6 +131,11 @@
       "street": "Poti\u00e9rue"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "21", 
+        "22"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -145,6 +172,11 @@
       "street": "Poti\u00e9rue"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "rez"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -157,6 +189,10 @@
       "street": "Poti\u00e9rue"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "rez"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -193,6 +229,10 @@
       "street": "Poti\u00e9rue"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "rez"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -205,6 +245,11 @@
       "street": "Poti\u00e9rue"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -265,6 +310,12 @@
       "street": "Poti\u00e9rue"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "rez1", 
+        "rez2"
+      ], 
       "hnrlbls": [
         "32"
       ], 
@@ -277,6 +328,10 @@
       "street": "Poti\u00e9rue"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "rez"
+      ], 
       "hnrlbls": [
         "33"
       ], 
@@ -398,18 +453,6 @@
     }, 
     {
       "hnrlbls": [
-        "44"
-      ], 
-      "housenumber": "44", 
-      "lat": 50.640411215351, 
-      "lon": 5.794961480189, 
-      "municipality": "Herve", 
-      "pcode": "4650", 
-      "source": "7736038", 
-      "street": "Poti\u00e9rue"
-    }, 
-    {
-      "hnrlbls": [
         "46"
       ], 
       "housenumber": "46", 
@@ -445,6 +488,10 @@
       "street": "Poti\u00e9rue"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "49"
       ], 
@@ -517,6 +564,10 @@
       "street": "Poti\u00e9rue"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "9"
       ], 

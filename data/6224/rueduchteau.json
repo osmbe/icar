@@ -2,6 +2,18 @@
   "addresses": [
     {
       "hnrlbls": [
+        "10"
+      ], 
+      "housenumber": "10", 
+      "lat": 50.472167322259, 
+      "lon": 4.581158730984, 
+      "municipality": "Fleurus", 
+      "pcode": "6224", 
+      "source": "7710050", 
+      "street": "Rue du Ch\u00e2teau"
+    }, 
+    {
+      "hnrlbls": [
         "11"
       ], 
       "housenumber": "11", 
@@ -13,12 +25,15 @@
       "street": "Rue du Ch\u00e2teau"
     }, 
     {
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.472167322259, 
-      "lon": 4.581158730984, 
+      "lat": 50.472016091739, 
+      "lon": 4.581033703956, 
       "municipality": "Fleurus", 
       "pcode": "6224", 
       "source": "7710050", 
@@ -37,6 +52,11 @@
       "street": "Rue du Ch\u00e2teau"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -79,6 +99,24 @@
       "housenumber": "19", 
       "lat": 50.47181239567, 
       "lon": 4.581364172385, 
+      "municipality": "Fleurus", 
+      "pcode": "6224", 
+      "source": "7710050", 
+      "street": "Rue du Ch\u00e2teau"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.472311743088, 
+      "lon": 4.581428107917, 
       "municipality": "Fleurus", 
       "pcode": "6224", 
       "source": "7710050", 

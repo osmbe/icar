@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "bte2"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -41,8 +44,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.668030449891, 
-      "lon": 4.820163455581, 
+      "lat": 50.646511226863, 
+      "lon": 4.792333846601, 
       "municipality": "Perwez", 
       "pcode": "1360", 
       "source": "7703214", 
@@ -53,8 +56,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 50.652242750167, 
-      "lon": 4.801474366182, 
+      "lat": 50.651844326632, 
+      "lon": 4.800754106393, 
       "municipality": "Perwez", 
       "pcode": "1360", 
       "source": "7703214", 
@@ -193,6 +196,11 @@
       "street": "Chauss\u00e9e de Charleroi"
     }, 
     {
+      "busnrs": [
+        "bte1", 
+        "bte2", 
+        "bte3"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -242,6 +250,18 @@
     }, 
     {
       "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 50.665789652526, 
+      "lon": 4.818187128482, 
+      "municipality": "Perwez", 
+      "pcode": "1360", 
+      "source": "7703214", 
+      "street": "Chauss\u00e9e de Charleroi"
+    }, 
+    {
+      "hnrlbls": [
         "31"
       ], 
       "housenumber": "31", 
@@ -277,6 +297,9 @@
       "street": "Chauss\u00e9e de Charleroi"
     }, 
     {
+      "busnrs": [
+        "bte1"
+      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -361,6 +384,11 @@
       "street": "Chauss\u00e9e de Charleroi"
     }, 
     {
+      "busnrs": [
+        "bte1", 
+        "bte2", 
+        "bte3"
+      ], 
       "hnrlbls": [
         "41"
       ], 
@@ -385,6 +413,13 @@
       "street": "Chauss\u00e9e de Charleroi"
     }, 
     {
+      "busnrs": [
+        "bte1", 
+        "bte3", 
+        "bte4", 
+        "bte5", 
+        "bte6"
+      ], 
       "hnrlbls": [
         "43"
       ], 
@@ -409,6 +444,10 @@
       "street": "Chauss\u00e9e de Charleroi"
     }, 
     {
+      "busnrs": [
+        "bte5", 
+        "bte6"
+      ], 
       "hnrlbls": [
         "45"
       ], 
@@ -529,6 +568,10 @@
       "street": "Chauss\u00e9e de Charleroi"
     }, 
     {
+      "busnrs": [
+        "Abt2", 
+        "bte2"
+      ], 
       "hnrlbls": [
         "6"
       ], 

@@ -1,6 +1,13 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +20,20 @@
       "street": "Boulevard Saucy"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0031", 
+        "0032", 
+        "0041", 
+        "0042", 
+        "0051", 
+        "0052", 
+        "0061", 
+        "0062"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -25,6 +46,13 @@
       "street": "Boulevard Saucy"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -37,6 +65,13 @@
       "street": "Boulevard Saucy"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -49,6 +84,13 @@
       "street": "Boulevard Saucy"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -73,6 +115,16 @@
       "street": "Boulevard Saucy"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -97,12 +149,31 @@
       "street": "Boulevard Saucy"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "17"
       ], 
       "housenumber": "17", 
       "lat": 50.641367413319, 
       "lon": 5.580261078807, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7729702", 
+      "street": "Boulevard Saucy"
+    }, 
+    {
+      "hnrlbls": [
+        "18"
+      ], 
+      "housenumber": "18", 
+      "lat": 50.641142855164, 
+      "lon": 5.581271667366, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7729702", 
@@ -121,6 +192,13 @@
       "street": "Boulevard Saucy"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -133,6 +211,28 @@
       "street": "Boulevard Saucy"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0012"
+      ], 
+      "hnrlbls": [
+        "20"
+      ], 
+      "housenumber": "20", 
+      "lat": 50.641191481876, 
+      "lon": 5.581420249647, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7729702", 
+      "street": "Boulevard Saucy"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -157,6 +257,14 @@
       "street": "Boulevard Saucy"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -169,6 +277,17 @@
       "street": "Boulevard Saucy"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -205,6 +324,12 @@
       "street": "Boulevard Saucy"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -230,6 +355,30 @@
     }, 
     {
       "hnrlbls": [
+        "35"
+      ], 
+      "housenumber": "35", 
+      "lat": 50.641481128099, 
+      "lon": 5.581203469409, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7729702", 
+      "street": "Boulevard Saucy"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0041"
+      ], 
+      "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
@@ -241,18 +390,44 @@
       "street": "Boulevard Saucy"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.641266624475, 
-      "lon": 5.579396282424, 
+      "lat": 50.640934785557, 
+      "lon": 5.579451946818, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7729702", 
       "street": "Boulevard Saucy"
     }, 
     {
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.640915181462, 
+      "lon": 5.579480867751, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7729702", 
+      "street": "Boulevard Saucy"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -277,6 +452,13 @@
       "street": "Boulevard Saucy"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "9"
       ], 

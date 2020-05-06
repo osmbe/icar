@@ -1,6 +1,17 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041", 
+        "0051", 
+        "0061", 
+        "0071", 
+        "0081", 
+        "0091"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +24,13 @@
       "street": "Rue de Pitteurs"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -25,6 +43,12 @@
       "street": "Rue de Pitteurs"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -37,6 +61,14 @@
       "street": "Rue de Pitteurs"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -49,6 +81,12 @@
       "street": "Rue de Pitteurs"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -109,6 +147,12 @@
       "street": "Rue de Pitteurs"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -170,6 +214,38 @@
     }, 
     {
       "hnrlbls": [
+        "24"
+      ], 
+      "housenumber": "24", 
+      "lat": 50.638652426982, 
+      "lon": 5.580757640848, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730489", 
+      "street": "Rue de Pitteurs"
+    }, 
+    {
+      "hnrlbls": [
+        "25"
+      ], 
+      "housenumber": "25", 
+      "lat": 50.639539862625, 
+      "lon": 5.579897063461, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730489", 
+      "street": "Rue de Pitteurs"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
+      "hnrlbls": [
         "29"
       ], 
       "housenumber": "29", 
@@ -205,12 +281,30 @@
       "street": "Rue de Pitteurs"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "35"
       ], 
       "housenumber": "35", 
       "lat": 50.639241882701, 
       "lon": 5.580302749782, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730489", 
+      "street": "Rue de Pitteurs"
+    }, 
+    {
+      "hnrlbls": [
+        "37"
+      ], 
+      "housenumber": "37", 
+      "lat": 50.639197905927, 
+      "lon": 5.580447448414, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730489", 
@@ -230,6 +324,36 @@
     }, 
     {
       "hnrlbls": [
+        "41"
+      ], 
+      "housenumber": "41", 
+      "lat": 50.638984832396, 
+      "lon": 5.580652715155, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730489", 
+      "street": "Rue de Pitteurs"
+    }, 
+    {
+      "hnrlbls": [
+        "43"
+      ], 
+      "housenumber": "43", 
+      "lat": 50.63893934468, 
+      "lon": 5.580713446313, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730489", 
+      "street": "Rue de Pitteurs"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
+      "hnrlbls": [
         "45"
       ], 
       "housenumber": "45", 
@@ -241,6 +365,12 @@
       "street": "Rue de Pitteurs"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "47"
       ], 
@@ -253,6 +383,20 @@
       "street": "Rue de Pitteurs"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0031", 
+        "0032", 
+        "0033"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -266,6 +410,24 @@
     }, 
     {
       "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.639888559271, 
+      "lon": 5.579022579243, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730489", 
+      "street": "Rue de Pitteurs"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
+      "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
@@ -277,6 +439,12 @@
       "street": "Rue de Pitteurs"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "8"
       ], 
@@ -289,6 +457,13 @@
       "street": "Rue de Pitteurs"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "9"
       ], 

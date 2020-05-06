@@ -2,18 +2,6 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1"
-      ], 
-      "housenumber": "1", 
-      "lat": 50.475198574367, 
-      "lon": 4.121919656012, 
-      "municipality": "La Louvi\u00e8re", 
-      "pcode": "7110", 
-      "source": "7717724", 
-      "street": "Rue Marchand"
-    }, 
-    {
-      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -37,6 +25,10 @@
       "street": "Rue Marchand"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -169,6 +161,10 @@
       "street": "Rue Marchand"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "5"
       ], 

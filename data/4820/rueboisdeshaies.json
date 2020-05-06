@@ -13,6 +13,10 @@
       "street": "Rue Bois des Haies"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -25,6 +29,10 @@
       "street": "Rue Bois des Haies"
     }, 
     {
+      "busnrs": [
+        "2ETA", 
+        "REZ"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -65,8 +73,8 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.612965607167, 
-      "lon": 5.843233817622, 
+      "lat": 50.612986614323, 
+      "lon": 5.843218768881, 
       "municipality": "Dison", 
       "pcode": "4820", 
       "source": "7735626", 
@@ -98,9 +106,9 @@
     }, 
     {
       "hnrlbls": [
-        "22"
+        "22B"
       ], 
-      "housenumber": "22", 
+      "housenumber": "22B", 
       "lat": 50.612056317674, 
       "lon": 5.843635857153, 
       "municipality": "Dison", 
@@ -157,6 +165,10 @@
       "street": "Rue Bois des Haies"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -253,12 +265,16 @@
       "street": "Rue Bois des Haies"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.612354230588, 
-      "lon": 5.843589187209, 
+      "lat": 50.612421664924, 
+      "lon": 5.843578136919, 
       "municipality": "Dison", 
       "pcode": "4820", 
       "source": "7735626", 

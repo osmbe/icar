@@ -49,12 +49,15 @@
       "street": "Rue Hav\u00e9e Jacques"
     }, 
     {
+      "busnrs": [
+        "00A1"
+      ], 
       "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.711236489335, 
-      "lon": 5.032501933905, 
+      "lat": 50.711267859498, 
+      "lon": 5.032506871546, 
       "municipality": "Lincent", 
       "pcode": "4287", 
       "source": "7740732", 
@@ -62,11 +65,27 @@
     }, 
     {
       "hnrlbls": [
+        "2A"
+      ], 
+      "housenumber": "2A", 
+      "lat": 50.711216892749, 
+      "lon": 5.032507591792, 
+      "municipality": "Lincent", 
+      "pcode": "4287", 
+      "source": "7740732", 
+      "street": "Rue Hav\u00e9e Jacques"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
+      "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.711089543445, 
-      "lon": 5.032502642315, 
+      "lat": 50.711135235466, 
+      "lon": 5.032498790782, 
       "municipality": "Lincent", 
       "pcode": "4287", 
       "source": "7740732", 
@@ -79,6 +98,18 @@
       "housenumber": "5", 
       "lat": 50.710834293851, 
       "lon": 5.032847369997, 
+      "municipality": "Lincent", 
+      "pcode": "4287", 
+      "source": "7740732", 
+      "street": "Rue Hav\u00e9e Jacques"
+    }, 
+    {
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.71104127237, 
+      "lon": 5.032520851575, 
       "municipality": "Lincent", 
       "pcode": "4287", 
       "source": "7740732", 

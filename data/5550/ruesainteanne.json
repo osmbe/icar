@@ -2,9 +2,24 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1"
+        "10"
       ], 
-      "housenumber": "1", 
+      "housenumber": "10", 
+      "lat": 49.911407915769, 
+      "lon": 4.915803702999, 
+      "municipality": "Vresse-sur-Semois", 
+      "pcode": "5550", 
+      "source": "7751411", 
+      "street": "Rue Sainte-Anne"
+    }, 
+    {
+      "busnrs": [
+        "0000"
+      ], 
+      "hnrlbls": [
+        "14"
+      ], 
+      "housenumber": "14", 
       "lat": 49.911356649614, 
       "lon": 4.915439330687, 
       "municipality": "Vresse-sur-Semois", 
@@ -14,9 +29,9 @@
     }, 
     {
       "hnrlbls": [
-        "1A"
+        "18"
       ], 
-      "housenumber": "1A", 
+      "housenumber": "18", 
       "lat": 49.911750009563, 
       "lon": 4.914950131501, 
       "municipality": "Vresse-sur-Semois", 
@@ -26,21 +41,9 @@
     }, 
     {
       "hnrlbls": [
-        "2"
+        "19"
       ], 
-      "housenumber": "2", 
-      "lat": 49.911122323563, 
-      "lon": 4.915113608497, 
-      "municipality": "Vresse-sur-Semois", 
-      "pcode": "5550", 
-      "source": "7751411", 
-      "street": "Rue Sainte-Anne"
-    }, 
-    {
-      "hnrlbls": [
-        "2C"
-      ], 
-      "housenumber": "2C", 
+      "housenumber": "19", 
       "lat": 49.911856891763, 
       "lon": 4.913862443581, 
       "municipality": "Vresse-sur-Semois", 
@@ -49,12 +52,15 @@
       "street": "Rue Sainte-Anne"
     }, 
     {
-      "hnrlbls": [
-        "3"
+      "busnrs": [
+        "000A"
       ], 
-      "housenumber": "3", 
-      "lat": 49.911224099794, 
-      "lon": 4.916253978941, 
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 49.91071080519, 
+      "lon": 4.916982287571, 
       "municipality": "Vresse-sur-Semois", 
       "pcode": "5550", 
       "source": "7751411", 
@@ -62,11 +68,35 @@
     }, 
     {
       "hnrlbls": [
-        "3A"
+        "20"
       ], 
-      "housenumber": "3A", 
-      "lat": 49.911154611192, 
-      "lon": 4.916481683203, 
+      "housenumber": "20", 
+      "lat": 49.912180533098, 
+      "lon": 4.914735769257, 
+      "municipality": "Vresse-sur-Semois", 
+      "pcode": "5550", 
+      "source": "7751411", 
+      "street": "Rue Sainte-Anne"
+    }, 
+    {
+      "hnrlbls": [
+        "21"
+      ], 
+      "housenumber": "21", 
+      "lat": 49.912040916876, 
+      "lon": 4.913858774233, 
+      "municipality": "Vresse-sur-Semois", 
+      "pcode": "5550", 
+      "source": "7751411", 
+      "street": "Rue Sainte-Anne"
+    }, 
+    {
+      "hnrlbls": [
+        "25"
+      ], 
+      "housenumber": "25", 
+      "lat": 49.914760289434, 
+      "lon": 4.911177486321, 
       "municipality": "Vresse-sur-Semois", 
       "pcode": "5550", 
       "source": "7751411", 
@@ -77,8 +107,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 49.910941159973, 
-      "lon": 4.915762659729, 
+      "lat": 49.910919655971, 
+      "lon": 4.91653174866, 
       "municipality": "Vresse-sur-Semois", 
       "pcode": "5550", 
       "source": "7751411", 
@@ -89,8 +119,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 49.910671309927, 
-      "lon": 4.915807373455, 
+      "lat": 49.910941159973, 
+      "lon": 4.915762659729, 
       "municipality": "Vresse-sur-Semois", 
       "pcode": "5550", 
       "source": "7751411", 
@@ -101,8 +131,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 49.910096226023, 
-      "lon": 4.91619582317, 
+      "lat": 49.911154611192, 
+      "lon": 4.916481683203, 
       "municipality": "Vresse-sur-Semois", 
       "pcode": "5550", 
       "source": "7751411", 
@@ -113,8 +143,8 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 49.910919655971, 
-      "lon": 4.91653174866, 
+      "lat": 49.911122323563, 
+      "lon": 4.915113608497, 
       "municipality": "Vresse-sur-Semois", 
       "pcode": "5550", 
       "source": "7751411", 
@@ -125,8 +155,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 49.91071080519, 
-      "lon": 4.916982287571, 
+      "lat": 49.911224099794, 
+      "lon": 4.916253978941, 
       "municipality": "Vresse-sur-Semois", 
       "pcode": "5550", 
       "source": "7751411", 

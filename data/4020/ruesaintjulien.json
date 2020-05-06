@@ -13,6 +13,9 @@
       "street": "Rue Saint-Julien"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -37,6 +40,11 @@
       "street": "Rue Saint-Julien"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -49,6 +57,10 @@
       "street": "Rue Saint-Julien"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0021"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -73,6 +85,9 @@
       "street": "Rue Saint-Julien"
     }, 
     {
+      "busnrs": [
+        "0012"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -109,6 +124,11 @@
       "street": "Rue Saint-Julien"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -133,6 +153,9 @@
       "street": "Rue Saint-Julien"
     }, 
     {
+      "busnrs": [
+        "0021"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -145,6 +168,13 @@
       "street": "Rue Saint-Julien"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -187,6 +217,30 @@
       "housenumber": "6", 
       "lat": 50.639659609304, 
       "lon": 5.585024577291, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7731312", 
+      "street": "Rue Saint-Julien"
+    }, 
+    {
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 50.639709038378, 
+      "lon": 5.58504311506, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7731312", 
+      "street": "Rue Saint-Julien"
+    }, 
+    {
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.639950079805, 
+      "lon": 5.584840678151, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7731312", 

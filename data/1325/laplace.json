@@ -49,6 +49,18 @@
       "street": "La Place"
     }, 
     {
+      "busnrs": [
+        "A1", 
+        "A10", 
+        "A2", 
+        "A3", 
+        "A4", 
+        "A5", 
+        "A6", 
+        "A7", 
+        "A8", 
+        "A9"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -125,8 +137,8 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.680641655169, 
-      "lon": 4.649379835263, 
+      "lat": 50.680664946235, 
+      "lon": 4.649486669575, 
       "municipality": "Chaumont-Gistoux", 
       "pcode": "1325", 
       "source": "7701079", 
@@ -230,6 +242,42 @@
     }, 
     {
       "hnrlbls": [
+        "2A"
+      ], 
+      "housenumber": "2A", 
+      "lat": 50.680649956752, 
+      "lon": 4.649393918197, 
+      "municipality": "Chaumont-Gistoux", 
+      "pcode": "1325", 
+      "source": "7701079", 
+      "street": "La Place"
+    }, 
+    {
+      "hnrlbls": [
+        "2B"
+      ], 
+      "housenumber": "2B", 
+      "lat": 50.680680706617, 
+      "lon": 4.649279731438, 
+      "municipality": "Chaumont-Gistoux", 
+      "pcode": "1325", 
+      "source": "7701079", 
+      "street": "La Place"
+    }, 
+    {
+      "hnrlbls": [
+        "2C"
+      ], 
+      "housenumber": "2C", 
+      "lat": 50.680585474526, 
+      "lon": 4.649316600345, 
+      "municipality": "Chaumont-Gistoux", 
+      "pcode": "1325", 
+      "source": "7701079", 
+      "street": "La Place"
+    }, 
+    {
+      "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
@@ -253,6 +301,12 @@
       "street": "La Place"
     }, 
     {
+      "busnrs": [
+        "-", 
+        "0", 
+        "1.1", 
+        "1.2"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -289,6 +343,14 @@
       "street": "La Place"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "7"
+      ], 
       "hnrlbls": [
         "8"
       ], 
@@ -301,6 +363,9 @@
       "street": "La Place"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "9"
       ], 

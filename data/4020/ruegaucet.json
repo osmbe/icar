@@ -1,6 +1,17 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0041", 
+        "0042"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -25,6 +36,13 @@
       "street": "Rue Gaucet"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -181,12 +199,36 @@
       "street": "Rue Gaucet"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "25"
       ], 
       "housenumber": "25", 
       "lat": 50.624738631902, 
       "lon": 5.581418806933, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730983", 
+      "street": "Rue Gaucet"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
+      "hnrlbls": [
+        "26"
+      ], 
+      "housenumber": "26", 
+      "lat": 50.624239561319, 
+      "lon": 5.581752234392, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730983", 
@@ -205,6 +247,11 @@
       "street": "Rue Gaucet"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -217,6 +264,14 @@
       "street": "Rue Gaucet"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -247,6 +302,18 @@
       "housenumber": "33", 
       "lat": 50.624836701427, 
       "lon": 5.581690108508, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730983", 
+      "street": "Rue Gaucet"
+    }, 
+    {
+      "hnrlbls": [
+        "34"
+      ], 
+      "housenumber": "34", 
+      "lat": 50.624501947603, 
+      "lon": 5.581481942544, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730983", 
@@ -289,6 +356,12 @@
       "street": "Rue Gaucet"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "38"
       ], 
@@ -361,6 +434,17 @@
       "street": "Rue Gaucet"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0023"
+      ], 
       "hnrlbls": [
         "43"
       ], 
@@ -433,6 +517,11 @@
       "street": "Rue Gaucet"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "49"
       ], 
@@ -457,6 +546,11 @@
       "street": "Rue Gaucet"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "50"
       ], 
@@ -505,6 +599,12 @@
       "street": "Rue Gaucet"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "54"
       ], 
@@ -517,6 +617,11 @@
       "street": "Rue Gaucet"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "55"
       ], 
@@ -547,6 +652,18 @@
       "housenumber": "7", 
       "lat": 50.624503414206, 
       "lon": 5.580786312332, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730983", 
+      "street": "Rue Gaucet"
+    }, 
+    {
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 50.62422217885, 
+      "lon": 5.581504295449, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730983", 

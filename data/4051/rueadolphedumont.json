@@ -181,6 +181,10 @@
       "street": "Rue Adolphe Dumont"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0003"
+      ], 
       "hnrlbls": [
         "60"
       ], 
@@ -223,6 +227,18 @@
       "housenumber": "7", 
       "lat": 50.60327818549, 
       "lon": 5.640728879056, 
+      "municipality": "Chaudfontaine", 
+      "pcode": "4051", 
+      "source": "7728059", 
+      "street": "Rue Adolphe Dumont"
+    }, 
+    {
+      "hnrlbls": [
+        "71"
+      ], 
+      "housenumber": "71", 
+      "lat": 50.602518867746, 
+      "lon": 5.644478753406, 
       "municipality": "Chaudfontaine", 
       "pcode": "4051", 
       "source": "7728059", 

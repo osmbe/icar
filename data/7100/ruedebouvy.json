@@ -37,6 +37,13 @@
       "street": "Rue de Bouvy"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201"
+      ], 
       "hnrlbls": [
         "101"
       ], 
@@ -73,6 +80,10 @@
       "street": "Rue de Bouvy"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "106"
       ], 
@@ -145,6 +156,14 @@
       "street": "Rue de Bouvy"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0201"
+      ], 
       "hnrlbls": [
         "112"
       ], 
@@ -169,6 +188,12 @@
       "street": "Rue de Bouvy"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004"
+      ], 
       "hnrlbls": [
         "115"
       ], 
@@ -265,6 +290,9 @@
       "street": "Rue de Bouvy"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "122"
       ], 
@@ -385,6 +413,9 @@
       "street": "Rue de Bouvy"
     }, 
     {
+      "busnrs": [
+        "0003"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -469,6 +500,9 @@
       "street": "Rue de Bouvy"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "146"
       ], 
@@ -481,6 +515,10 @@
       "street": "Rue de Bouvy"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "0004"
+      ], 
       "hnrlbls": [
         "147"
       ], 
@@ -553,6 +591,11 @@
       "street": "Rue de Bouvy"
     }, 
     {
+      "busnrs": [
+        "0bis", 
+        "B000", 
+        "BIS"
+      ], 
       "hnrlbls": [
         "153"
       ], 
@@ -565,6 +608,10 @@
       "street": "Rue de Bouvy"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "154"
       ], 
@@ -685,6 +732,10 @@
       "street": "Rue de Bouvy"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "165"
       ], 
@@ -721,6 +772,10 @@
       "street": "Rue de Bouvy"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "1\u00e9tg"
+      ], 
       "hnrlbls": [
         "168"
       ], 
@@ -853,6 +908,9 @@
       "street": "Rue de Bouvy"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -913,6 +971,9 @@
       "street": "Rue de Bouvy"
     }, 
     {
+      "busnrs": [
+        "0186"
+      ], 
       "hnrlbls": [
         "184"
       ], 
@@ -1021,6 +1082,12 @@
       "street": "Rue de Bouvy"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004"
+      ], 
       "hnrlbls": [
         "194"
       ], 
@@ -1081,6 +1148,15 @@
       "street": "Rue de Bouvy"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -1117,6 +1193,19 @@
       "street": "Rue de Bouvy"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0004", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204"
+      ], 
       "hnrlbls": [
         "202"
       ], 
@@ -1141,6 +1230,11 @@
       "street": "Rue de Bouvy"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "204"
       ], 
@@ -1153,6 +1247,10 @@
       "street": "Rue de Bouvy"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "205"
       ], 
@@ -1207,18 +1305,6 @@
       "housenumber": "209", 
       "lat": 50.468002847151, 
       "lon": 4.180463457595, 
-      "municipality": "La Louvi\u00e8re", 
-      "pcode": "7100", 
-      "source": "7717210", 
-      "street": "Rue de Bouvy"
-    }, 
-    {
-      "hnrlbls": [
-        "21"
-      ], 
-      "housenumber": "21", 
-      "lat": 50.473164947102, 
-      "lon": 4.185352353412, 
       "municipality": "La Louvi\u00e8re", 
       "pcode": "7100", 
       "source": "7717210", 
@@ -1333,6 +1419,11 @@
       "street": "Rue de Bouvy"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -1513,6 +1604,10 @@
       "street": "Rue de Bouvy"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -1549,6 +1644,9 @@
       "street": "Rue de Bouvy"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "243"
       ], 
@@ -1849,6 +1947,9 @@
       "street": "Rue de Bouvy"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "42"
       ], 
@@ -1981,6 +2082,9 @@
       "street": "Rue de Bouvy"
     }, 
     {
+      "busnrs": [
+        "0000"
+      ], 
       "hnrlbls": [
         "53"
       ], 
@@ -2005,6 +2109,12 @@
       "street": "Rue de Bouvy"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004"
+      ], 
       "hnrlbls": [
         "56"
       ], 
@@ -2033,14 +2143,18 @@
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 50.471856722772, 
-      "lon": 4.183998391469, 
+      "lat": 50.47194931085, 
+      "lon": 4.183718360991, 
       "municipality": "La Louvi\u00e8re", 
       "pcode": "7100", 
       "source": "7717210", 
       "street": "Rue de Bouvy"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -2065,6 +2179,10 @@
       "street": "Rue de Bouvy"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "61"
       ], 
@@ -2177,8 +2295,8 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.474276007844, 
-      "lon": 4.186539373414, 
+      "lat": 50.4739954087, 
+      "lon": 4.186987112624, 
       "municipality": "La Louvi\u00e8re", 
       "pcode": "7100", 
       "source": "7717210", 
@@ -2221,6 +2339,11 @@
       "street": "Rue de Bouvy"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "73"
       ], 
@@ -2257,6 +2380,10 @@
       "street": "Rue de Bouvy"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "76"
       ], 
@@ -2281,6 +2408,9 @@
       "street": "Rue de Bouvy"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "78"
       ], 
@@ -2305,6 +2435,13 @@
       "street": "Rue de Bouvy"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "8"
       ], 
@@ -2353,6 +2490,9 @@
       "street": "Rue de Bouvy"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "83"
       ], 
@@ -2365,6 +2505,9 @@
       "street": "Rue de Bouvy"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "85"
       ], 
@@ -2389,6 +2532,10 @@
       "street": "Rue de Bouvy"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "87"
       ], 
@@ -2401,6 +2548,11 @@
       "street": "Rue de Bouvy"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "88"
       ], 
@@ -2461,6 +2613,9 @@
       "street": "Rue de Bouvy"
     }, 
     {
+      "busnrs": [
+        "B000"
+      ], 
       "hnrlbls": [
         "94"
       ], 
@@ -2473,6 +2628,9 @@
       "street": "Rue de Bouvy"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "95"
       ], 
@@ -2485,6 +2643,10 @@
       "street": "Rue de Bouvy"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "96"
       ], 

@@ -37,6 +37,9 @@
       "street": "Rue Champs des Oiseaux"
     }, 
     {
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -97,6 +100,9 @@
       "street": "Rue Champs des Oiseaux"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -113,8 +119,33 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.468819684653, 
-      "lon": 4.573808421366, 
+      "lat": 50.468746324232, 
+      "lon": 4.574082543133, 
+      "municipality": "Fleurus", 
+      "pcode": "6224", 
+      "source": "7709959", 
+      "street": "Rue Champs des Oiseaux"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "10", 
+        "11", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
+      "hnrlbls": [
+        "22"
+      ], 
+      "housenumber": "22", 
+      "lat": 50.469025192707, 
+      "lon": 4.574273658852, 
       "municipality": "Fleurus", 
       "pcode": "6224", 
       "source": "7709959", 
@@ -242,6 +273,18 @@
     }, 
     {
       "hnrlbls": [
+        "56"
+      ], 
+      "housenumber": "56", 
+      "lat": 50.468800195499, 
+      "lon": 4.570484294436, 
+      "municipality": "Fleurus", 
+      "pcode": "6224", 
+      "source": "7709959", 
+      "street": "Rue Champs des Oiseaux"
+    }, 
+    {
+      "hnrlbls": [
         "57"
       ], 
       "housenumber": "57", 
@@ -278,6 +321,30 @@
     }, 
     {
       "hnrlbls": [
+        "62"
+      ], 
+      "housenumber": "62", 
+      "lat": 50.46857714666, 
+      "lon": 4.569895227867, 
+      "municipality": "Fleurus", 
+      "pcode": "6224", 
+      "source": "7709959", 
+      "street": "Rue Champs des Oiseaux"
+    }, 
+    {
+      "hnrlbls": [
+        "63"
+      ], 
+      "housenumber": "63", 
+      "lat": 50.468183764999, 
+      "lon": 4.569951010612, 
+      "municipality": "Fleurus", 
+      "pcode": "6224", 
+      "source": "7709959", 
+      "street": "Rue Champs des Oiseaux"
+    }, 
+    {
+      "hnrlbls": [
         "65"
       ], 
       "housenumber": "65", 
@@ -293,8 +360,8 @@
         "68"
       ], 
       "housenumber": "68", 
-      "lat": 50.468395887056, 
-      "lon": 4.569474520276, 
+      "lat": 50.468418555898, 
+      "lon": 4.569460603825, 
       "municipality": "Fleurus", 
       "pcode": "6224", 
       "source": "7709959", 

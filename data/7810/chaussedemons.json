@@ -277,6 +277,9 @@
       "street": "Chauss\u00e9e de Mons"
     }, 
     {
+      "busnrs": [
+        "bte1"
+      ], 
       "hnrlbls": [
         "421"
       ], 
@@ -325,6 +328,12 @@
       "street": "Chauss\u00e9e de Mons"
     }, 
     {
+      "busnrs": [
+        "RDC0", 
+        "bte1", 
+        "bte2", 
+        "bte3"
+      ], 
       "hnrlbls": [
         "428"
       ], 
@@ -773,8 +782,8 @@
         "469"
       ], 
       "housenumber": "469", 
-      "lat": 50.611266918976, 
-      "lon": 3.799774680354, 
+      "lat": 50.611276787829, 
+      "lon": 3.799687414011, 
       "municipality": "Ath", 
       "pcode": "7810", 
       "source": "7707227", 
@@ -1513,6 +1522,10 @@
       "street": "Chauss\u00e9e de Mons"
     }, 
     {
+      "busnrs": [
+        "Abt1", 
+        "Abt2"
+      ], 
       "hnrlbls": [
         "566"
       ], 

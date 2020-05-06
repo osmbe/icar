@@ -55,6 +55,24 @@
       "t": 50.697645579529
     }, 
     {
+      "b": 50.696275237902, 
+      "l": 5.168907573377, 
+      "name": "Impasse des Jonquilles", 
+      "numOfAddr": 5, 
+      "r": 5.169375306166, 
+      "sanName": "impassedesjonquilles", 
+      "t": 50.696593590681
+    }, 
+    {
+      "b": 50.696921177128, 
+      "l": 5.170839942689, 
+      "name": "Impasse Paul Kempeneers", 
+      "numOfAddr": 4, 
+      "r": 5.171026020548, 
+      "sanName": "impassepaulkempeneers", 
+      "t": 50.697114277416
+    }, 
+    {
       "b": 50.698096947361, 
       "l": 5.224720318362, 
       "name": "Pr\u00e9 Cocher", 
@@ -67,10 +85,10 @@
       "b": 50.709125354341, 
       "l": 5.209307688364, 
       "name": "Rue Alphonse Thomas", 
-      "numOfAddr": 29, 
+      "numOfAddr": 30, 
       "r": 5.212071855786, 
       "sanName": "ruealphonsethomas", 
-      "t": 50.710540153116
+      "t": 50.711533465751
     }, 
     {
       "b": 50.698142545746, 
@@ -112,7 +130,7 @@
       "b": 50.702181608785, 
       "l": 5.187038202663, 
       "name": "Rue de Hollogne sur Geer", 
-      "numOfAddr": 31, 
+      "numOfAddr": 32, 
       "r": 5.189835882417, 
       "sanName": "ruedehollognesurgeer", 
       "t": 50.705885358319
@@ -145,7 +163,7 @@
       "t": 50.710675054562
     }, 
     {
-      "b": 50.705247270207, 
+      "b": 50.705495657935, 
       "l": 5.210417012083, 
       "name": "Rue de la Station", 
       "numOfAddr": 30, 
@@ -166,7 +184,7 @@
       "b": 50.686402265958, 
       "l": 5.227646620233, 
       "name": "Rue de Longchamps", 
-      "numOfAddr": 9, 
+      "numOfAddr": 11, 
       "r": 5.229345849733, 
       "sanName": "ruedelongchamps", 
       "t": 50.687184502802
@@ -182,12 +200,12 @@
     }, 
     {
       "b": 50.710437421482, 
-      "l": 5.191967574859, 
+      "l": 5.206095345625, 
       "name": "Rue de Schurven", 
       "numOfAddr": 21, 
       "r": 5.209220524836, 
       "sanName": "ruedeschurven", 
-      "t": 50.714214262427
+      "t": 50.710827099177
     }, 
     {
       "b": 50.704432738711, 
@@ -211,7 +229,7 @@
       "b": 50.698997056198, 
       "l": 5.213018848215, 
       "name": "Rue des Ecoles", 
-      "numOfAddr": 53, 
+      "numOfAddr": 54, 
       "r": 5.218069263737, 
       "sanName": "ruedesecoles", 
       "t": 50.702571714971
@@ -224,6 +242,15 @@
       "r": 5.209795798999, 
       "sanName": "ruedesprs", 
       "t": 50.709560451435
+    }, 
+    {
+      "b": 50.706961591795, 
+      "l": 5.214878617621, 
+      "name": "Rue des Saules", 
+      "numOfAddr": 1, 
+      "r": 5.214878617621, 
+      "sanName": "ruedessaules", 
+      "t": 50.706961591795
     }, 
     {
       "b": 50.704792755564, 
@@ -248,7 +275,7 @@
       "l": 5.215042900775, 
       "name": "Rue de Waremme", 
       "numOfAddr": 73, 
-      "r": 5.235108018906, 
+      "r": 5.235015709602, 
       "sanName": "ruedewaremme", 
       "t": 50.696967450678
     }, 
@@ -265,8 +292,8 @@
       "b": 50.707854892759, 
       "l": 5.189154038511, 
       "name": "Rue D\u00e9sir\u00e9 Lismonde", 
-      "numOfAddr": 51, 
-      "r": 5.193320826297, 
+      "numOfAddr": 56, 
+      "r": 5.193324479958, 
       "sanName": "ruedsirlismonde", 
       "t": 50.710398773789
     }, 
@@ -319,17 +346,26 @@
       "b": 50.698924357767, 
       "l": 5.21007439872, 
       "name": "Rue Emile Muselle", 
-      "numOfAddr": 52, 
+      "numOfAddr": 54, 
       "r": 5.212727708846, 
       "sanName": "rueemilemuselle", 
       "t": 50.704769242262
     }, 
     {
+      "b": 50.697415641061, 
+      "l": 5.16992285807, 
+      "name": "Rue Fond de Villereau", 
+      "numOfAddr": 1, 
+      "r": 5.16992285807, 
+      "sanName": "ruefonddevillereau", 
+      "t": 50.697415641061
+    }, 
+    {
       "b": 50.693272200864, 
-      "l": 5.168907573377, 
+      "l": 5.169449302489, 
       "name": "Rue Hameau de Crenwick", 
-      "numOfAddr": 47, 
-      "r": 5.174001474075, 
+      "numOfAddr": 51, 
+      "r": 5.184990079548, 
       "sanName": "ruehameaudecrenwick", 
       "t": 50.697747888929
     }, 
@@ -362,9 +398,9 @@
     }, 
     {
       "b": 50.709091410247, 
-      "l": 5.185561529883, 
+      "l": 5.185318401236, 
       "name": "Rue Joseph Wauters", 
-      "numOfAddr": 36, 
+      "numOfAddr": 42, 
       "r": 5.187935566892, 
       "sanName": "ruejosephwauters", 
       "t": 50.719098782882
@@ -400,7 +436,7 @@
       "b": 50.696090681839, 
       "l": 5.201504726696, 
       "name": "Rue Richard Orban", 
-      "numOfAddr": 89, 
+      "numOfAddr": 90, 
       "r": 5.213169385678, 
       "sanName": "ruerichardorban", 
       "t": 50.6982041857

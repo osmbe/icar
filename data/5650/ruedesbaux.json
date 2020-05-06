@@ -13,6 +13,10 @@
       "street": "Rue des Baux"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "000B"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -29,14 +33,18 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 50.253360495451, 
-      "lon": 4.434553551117, 
+      "lat": 50.253315601631, 
+      "lon": 4.434120913009, 
       "municipality": "Walcourt", 
       "pcode": "5650", 
       "source": "7757926", 
       "street": "Rue des Baux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -53,6 +61,18 @@
         "13"
       ], 
       "housenumber": "13", 
+      "lat": 50.253360495451, 
+      "lon": 4.434553551117, 
+      "municipality": "Walcourt", 
+      "pcode": "5650", 
+      "source": "7757926", 
+      "street": "Rue des Baux"
+    }, 
+    {
+      "hnrlbls": [
+        "15"
+      ], 
+      "housenumber": "15", 
       "lat": 50.25340438109, 
       "lon": 4.434089523702, 
       "municipality": "Walcourt", 
@@ -74,11 +94,11 @@
     }, 
     {
       "hnrlbls": [
-        "20"
+        "2"
       ], 
-      "housenumber": "20", 
-      "lat": 50.252895664817, 
-      "lon": 4.4332045221, 
+      "housenumber": "2", 
+      "lat": 50.253088354177, 
+      "lon": 4.433205882271, 
       "municipality": "Walcourt", 
       "pcode": "5650", 
       "source": "7757926", 
@@ -86,11 +106,11 @@
     }, 
     {
       "hnrlbls": [
-        "22"
+        "4"
       ], 
-      "housenumber": "22", 
-      "lat": 50.253088354177, 
-      "lon": 4.433205882271, 
+      "housenumber": "4", 
+      "lat": 50.253063141368, 
+      "lon": 4.433285414362, 
       "municipality": "Walcourt", 
       "pcode": "5650", 
       "source": "7757926", 
@@ -121,6 +141,15 @@
       "street": "Rue des Baux"
     }, 
     {
+      "busnrs": [
+        "BTE1", 
+        "BTE2", 
+        "BTE3", 
+        "BTE4", 
+        "BTE5", 
+        "BTE6", 
+        "BTE7"
+      ], 
       "hnrlbls": [
         "9"
       ], 

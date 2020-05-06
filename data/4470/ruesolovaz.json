@@ -73,12 +73,29 @@
       "street": "Rue Solovaz"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "011", 
+        "021"
+      ], 
       "hnrlbls": [
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.601276537757, 
-      "lon": 5.362236559564, 
+      "lat": 50.600897759606, 
+      "lon": 5.362622523166, 
+      "municipality": "Saint-Georges-sur-Meuse", 
+      "pcode": "4470", 
+      "source": "7740994", 
+      "street": "Rue Solovaz"
+    }, 
+    {
+      "hnrlbls": [
+        "15B"
+      ], 
+      "housenumber": "15B", 
+      "lat": 50.601450998074, 
+      "lon": 5.363352986807, 
       "municipality": "Saint-Georges-sur-Meuse", 
       "pcode": "4470", 
       "source": "7740994", 
@@ -97,6 +114,11 @@
       "street": "Rue Solovaz"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -109,6 +131,12 @@
       "street": "Rue Solovaz"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -134,6 +162,18 @@
     }, 
     {
       "hnrlbls": [
+        "1B"
+      ], 
+      "housenumber": "1B", 
+      "lat": 50.601368120518, 
+      "lon": 5.359782775769, 
+      "municipality": "Saint-Georges-sur-Meuse", 
+      "pcode": "4470", 
+      "source": "7740994", 
+      "street": "Rue Solovaz"
+    }, 
+    {
+      "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
@@ -146,11 +186,23 @@
     }, 
     {
       "hnrlbls": [
-        "21"
+        "20"
       ], 
-      "housenumber": "21", 
-      "lat": 50.599855505743, 
-      "lon": 5.366094760966, 
+      "housenumber": "20", 
+      "lat": 50.599712165883, 
+      "lon": 5.364244430724, 
+      "municipality": "Saint-Georges-sur-Meuse", 
+      "pcode": "4470", 
+      "source": "7740994", 
+      "street": "Rue Solovaz"
+    }, 
+    {
+      "hnrlbls": [
+        "28"
+      ], 
+      "housenumber": "28", 
+      "lat": 50.59945908314, 
+      "lon": 5.365372159013, 
       "municipality": "Saint-Georges-sur-Meuse", 
       "pcode": "4470", 
       "source": "7740994", 

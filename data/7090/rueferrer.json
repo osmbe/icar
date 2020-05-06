@@ -1,12 +1,43 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "Et.1", 
+        "Et.2", 
+        "R.C."
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
       "lat": 50.607632588964, 
       "lon": 4.135668022634, 
+      "municipality": "Braine-le-Comte", 
+      "pcode": "7090", 
+      "source": "7716667", 
+      "street": "Rue Ferrer"
+    }, 
+    {
+      "busnrs": [
+        "BT01", 
+        "BT02", 
+        "BT03", 
+        "BT04", 
+        "BT11", 
+        "BT12", 
+        "BT13", 
+        "BT14", 
+        "BT21", 
+        "BT22", 
+        "BT23", 
+        "BT24"
+      ], 
+      "hnrlbls": [
+        "10"
+      ], 
+      "housenumber": "10", 
+      "lat": 50.60761126063, 
+      "lon": 4.136245457041, 
       "municipality": "Braine-le-Comte", 
       "pcode": "7090", 
       "source": "7716667", 
@@ -37,12 +68,34 @@
       "street": "Rue Ferrer"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
       "lat": 50.607885663539, 
       "lon": 4.135760316951, 
+      "municipality": "Braine-le-Comte", 
+      "pcode": "7090", 
+      "source": "7716667", 
+      "street": "Rue Ferrer"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
+      "hnrlbls": [
+        "4A"
+      ], 
+      "housenumber": "4A", 
+      "lat": 50.607829099534, 
+      "lon": 4.135869490731, 
       "municipality": "Braine-le-Comte", 
       "pcode": "7090", 
       "source": "7716667", 

@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -157,6 +161,10 @@
       "street": "Rue Dehase"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -266,9 +274,9 @@
     }, 
     {
       "hnrlbls": [
-        "68"
+        "64"
       ], 
-      "housenumber": "68", 
+      "housenumber": "64", 
       "lat": 50.684368639671, 
       "lon": 4.204198056245, 
       "municipality": "Tubize", 

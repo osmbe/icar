@@ -61,6 +61,14 @@
       "street": "Clos Fredman"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -85,12 +93,43 @@
       "street": "Clos Fredman"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "5", 
+        "6"
+      ], 
       "hnrlbls": [
         "32"
       ], 
       "housenumber": "32", 
       "lat": 50.730492037253, 
       "lon": 5.511867324998, 
+      "municipality": "Juprelle", 
+      "pcode": "4452", 
+      "source": "7729460", 
+      "street": "Clos Fredman"
+    }, 
+    {
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.728485656958, 
+      "lon": 5.514062066779, 
+      "municipality": "Juprelle", 
+      "pcode": "4452", 
+      "source": "7729460", 
+      "street": "Clos Fredman"
+    }, 
+    {
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.728497773036, 
+      "lon": 5.513918065518, 
       "municipality": "Juprelle", 
       "pcode": "4452", 
       "source": "7729460", 

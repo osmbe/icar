@@ -169,12 +169,19 @@
       "street": "Place Saint-Lambert"
     }, 
     {
+      "busnrs": [
+        "1Etg", 
+        "2Etg", 
+        "A/1", 
+        "A/2", 
+        "Rez"
+      ], 
       "hnrlbls": [
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.72399571651, 
-      "lon": 4.865063846538, 
+      "lat": 50.72398693315, 
+      "lon": 4.8650317151, 
       "municipality": "Jodoigne", 
       "pcode": "1370", 
       "source": "7702301", 
@@ -313,6 +320,11 @@
       "street": "Place Saint-Lambert"
     }, 
     {
+      "busnrs": [
+        "1Etg", 
+        "2Etg", 
+        "Rez"
+      ], 
       "hnrlbls": [
         "32"
       ], 
@@ -325,12 +337,15 @@
       "street": "Place Saint-Lambert"
     }, 
     {
+      "busnrs": [
+        "2Etg"
+      ], 
       "hnrlbls": [
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 50.724355893749, 
-      "lon": 4.865961404661, 
+      "lat": 50.724399789428, 
+      "lon": 4.866019644132, 
       "municipality": "Jodoigne", 
       "pcode": "1370", 
       "source": "7702301", 

@@ -73,6 +73,9 @@
       "street": "Rue de la Sucrerie"
     }, 
     {
+      "busnrs": [
+        "B101"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -199,6 +202,23 @@
       "housenumber": "45", 
       "lat": 50.608270007275, 
       "lon": 4.651652800779, 
+      "municipality": "Walhain", 
+      "pcode": "1457", 
+      "source": "7707126", 
+      "street": "Rue de la Sucrerie"
+    }, 
+    {
+      "busnrs": [
+        "B102", 
+        "Bte1", 
+        "Bte2"
+      ], 
+      "hnrlbls": [
+        "47"
+      ], 
+      "housenumber": "47", 
+      "lat": 50.60838834241, 
+      "lon": 4.651509848063, 
       "municipality": "Walhain", 
       "pcode": "1457", 
       "source": "7707126", 

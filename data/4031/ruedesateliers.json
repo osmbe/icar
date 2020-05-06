@@ -1,6 +1,15 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -37,6 +46,12 @@
       "street": "Rue des Ateliers"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -61,6 +76,12 @@
       "street": "Rue des Ateliers"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -73,6 +94,11 @@
       "street": "Rue des Ateliers"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -122,6 +148,23 @@
     }, 
     {
       "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.611313078492, 
+      "lon": 5.576861766662, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4031", 
+      "source": "7730551", 
+      "street": "Rue des Ateliers"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
+      "hnrlbls": [
         "20"
       ], 
       "housenumber": "20", 
@@ -133,6 +176,15 @@
       "street": "Rue des Ateliers"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0011", 
+        "0012", 
+        "0021"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -157,6 +209,12 @@
       "street": "Rue des Ateliers"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -181,6 +239,12 @@
       "street": "Rue des Ateliers"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -217,6 +281,14 @@
       "street": "Rue des Ateliers"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0013", 
+        "0021", 
+        "0022", 
+        "0023"
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -235,6 +307,18 @@
       "housenumber": "29", 
       "lat": 50.61095463516, 
       "lon": 5.578085708892, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4031", 
+      "source": "7730551", 
+      "street": "Rue des Ateliers"
+    }, 
+    {
+      "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 50.611344401959, 
+      "lon": 5.577228151684, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4031", 
       "source": "7730551", 

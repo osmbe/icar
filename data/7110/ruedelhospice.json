@@ -121,6 +121,9 @@
       "street": "Rue de l'Hospice"
     }, 
     {
+      "busnrs": [
+        "B000"
+      ], 
       "hnrlbls": [
         "109"
       ], 
@@ -169,6 +172,10 @@
       "street": "Rue de l'Hospice"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "113"
       ], 
@@ -319,6 +326,18 @@
       "housenumber": "124", 
       "lat": 50.47294033599, 
       "lon": 4.155494039755, 
+      "municipality": "La Louvi\u00e8re", 
+      "pcode": "7110", 
+      "source": "7717326", 
+      "street": "Rue de l'Hospice"
+    }, 
+    {
+      "hnrlbls": [
+        "125"
+      ], 
+      "housenumber": "125", 
+      "lat": 50.474404166507, 
+      "lon": 4.151972884036, 
       "municipality": "La Louvi\u00e8re", 
       "pcode": "7110", 
       "source": "7717326", 
@@ -1297,6 +1316,9 @@
       "street": "Rue de l'Hospice"
     }, 
     {
+      "busnrs": [
+        "0089"
+      ], 
       "hnrlbls": [
         "87"
       ], 
@@ -1333,6 +1355,10 @@
       "street": "Rue de l'Hospice"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "9"
       ], 

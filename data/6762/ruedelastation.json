@@ -137,8 +137,8 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 49.559426780777, 
-      "lon": 5.524073962404, 
+      "lat": 49.559440150121, 
+      "lon": 5.52410017209, 
       "municipality": "Virton", 
       "pcode": "6762", 
       "source": "7747829", 
@@ -161,8 +161,8 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 49.559435942295, 
-      "lon": 5.523998586022, 
+      "lat": 49.559493294222, 
+      "lon": 5.524048821532, 
       "municipality": "Virton", 
       "pcode": "6762", 
       "source": "7747829", 
@@ -589,6 +589,11 @@
       "street": "Rue de la Station"
     }, 
     {
+      "busnrs": [
+        "A0/1", 
+        "B1/1", 
+        "B2/1"
+      ], 
       "hnrlbls": [
         "66"
       ], 
@@ -655,6 +660,24 @@
       "housenumber": "74", 
       "lat": 49.561278268667, 
       "lon": 5.520898410432, 
+      "municipality": "Virton", 
+      "pcode": "6762", 
+      "source": "7747829", 
+      "street": "Rue de la Station"
+    }, 
+    {
+      "busnrs": [
+        "1/1", 
+        "1/2", 
+        "2/1", 
+        "2/2"
+      ], 
+      "hnrlbls": [
+        "76"
+      ], 
+      "housenumber": "76", 
+      "lat": 49.561402244853, 
+      "lon": 5.52078697512, 
       "municipality": "Virton", 
       "pcode": "6762", 
       "source": "7747829", 

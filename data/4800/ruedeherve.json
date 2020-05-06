@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "3\u00e9t."
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +17,10 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2\u00e9t."
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -49,6 +57,10 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "2+3\u00e9", 
+        "r+1\u00e9"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -73,6 +85,9 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "2\u00e9t."
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -97,6 +112,11 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "2\u00e9t.", 
+        "rez."
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -109,6 +129,9 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t."
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -121,6 +144,9 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "Rez."
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -146,11 +172,47 @@
     }, 
     {
       "hnrlbls": [
+        "43"
+      ], 
+      "housenumber": "43", 
+      "lat": 50.597664669084, 
+      "lon": 5.873872815425, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738779", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "hnrlbls": [
+        "45"
+      ], 
+      "housenumber": "45", 
+      "lat": 50.597801613301, 
+      "lon": 5.874028734456, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738779", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
       "lat": 50.59775483863, 
       "lon": 5.873729136412, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738779", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "hnrlbls": [
+        "56"
+      ], 
+      "housenumber": "56", 
+      "lat": 50.598109618602, 
+      "lon": 5.873543460676, 
       "municipality": "Verviers", 
       "pcode": "4800", 
       "source": "7738779", 
@@ -181,6 +243,9 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "rez."
+      ], 
       "hnrlbls": [
         "8"
       ], 
@@ -193,6 +258,9 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "rez."
+      ], 
       "hnrlbls": [
         "9"
       ], 

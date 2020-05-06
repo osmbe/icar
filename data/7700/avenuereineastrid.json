@@ -49,6 +49,9 @@
       "street": "Avenue Reine Astrid"
     }, 
     {
+      "busnrs": [
+        "0002"
+      ], 
       "hnrlbls": [
         "109"
       ], 
@@ -97,6 +100,14 @@
       "street": "Avenue Reine Astrid"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006"
+      ], 
       "hnrlbls": [
         "198"
       ], 
@@ -433,6 +444,21 @@
       "street": "Avenue Reine Astrid"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008", 
+        "0009", 
+        "0010", 
+        "0011", 
+        "0012", 
+        "0014"
+      ], 
       "hnrlbls": [
         "43"
       ], 
@@ -457,6 +483,18 @@
       "street": "Avenue Reine Astrid"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008", 
+        "0009", 
+        "0010"
+      ], 
       "hnrlbls": [
         "45"
       ], 
@@ -505,6 +543,13 @@
       "street": "Avenue Reine Astrid"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005"
+      ], 
       "hnrlbls": [
         "71"
       ], 
@@ -595,6 +640,30 @@
       "housenumber": "91", 
       "lat": 50.75362357007, 
       "lon": 3.221472385887, 
+      "municipality": "Mouscron", 
+      "pcode": "7700", 
+      "source": "7715533", 
+      "street": "Avenue Reine Astrid"
+    }, 
+    {
+      "hnrlbls": [
+        "97"
+      ], 
+      "housenumber": "97", 
+      "lat": 50.753865487087, 
+      "lon": 3.221368830099, 
+      "municipality": "Mouscron", 
+      "pcode": "7700", 
+      "source": "7715533", 
+      "street": "Avenue Reine Astrid"
+    }, 
+    {
+      "hnrlbls": [
+        "99"
+      ], 
+      "housenumber": "99", 
+      "lat": 50.754111230238, 
+      "lon": 3.221383256301, 
       "municipality": "Mouscron", 
       "pcode": "7700", 
       "source": "7715533", 

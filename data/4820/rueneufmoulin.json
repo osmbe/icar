@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -25,6 +29,9 @@
       "street": "Rue Neufmoulin"
     }, 
     {
+      "busnrs": [
+        "REZ"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -49,6 +56,11 @@
       "street": "Rue Neufmoulin"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -73,6 +85,11 @@
       "street": "Rue Neufmoulin"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -85,6 +102,20 @@
       "street": "Rue Neufmoulin"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0031", 
+        "0032", 
+        "0033", 
+        "0041", 
+        "0042", 
+        "0043"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -97,6 +128,11 @@
       "street": "Rue Neufmoulin"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0022", 
+        "0031"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -109,6 +145,14 @@
       "street": "Rue Neufmoulin"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -145,6 +189,21 @@
       "street": "Rue Neufmoulin"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "0014", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024", 
+        "0031", 
+        "0032", 
+        "0033", 
+        "0034", 
+        "0042", 
+        "0043"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -157,6 +216,11 @@
       "street": "Rue Neufmoulin"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -254,18 +318,6 @@
     }, 
     {
       "hnrlbls": [
-        "36"
-      ], 
-      "housenumber": "36", 
-      "lat": 50.602400359355, 
-      "lon": 5.854510570998, 
-      "municipality": "Dison", 
-      "pcode": "4820", 
-      "source": "7735692", 
-      "street": "Rue Neufmoulin"
-    }, 
-    {
-      "hnrlbls": [
         "37"
       ], 
       "housenumber": "37", 
@@ -289,6 +341,12 @@
       "street": "Rue Neufmoulin"
     }, 
     {
+      "busnrs": [
+        "0012", 
+        "0022", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "39"
       ], 
@@ -301,6 +359,9 @@
       "street": "Rue Neufmoulin"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "40"
       ], 
@@ -325,6 +386,11 @@
       "street": "Rue Neufmoulin"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "42"
       ], 
@@ -337,6 +403,9 @@
       "street": "Rue Neufmoulin"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "43"
       ], 
@@ -349,6 +418,16 @@
       "street": "Rue Neufmoulin"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
+      ], 
       "hnrlbls": [
         "45"
       ], 
@@ -373,6 +452,12 @@
       "street": "Rue Neufmoulin"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "47"
       ], 
@@ -385,6 +470,11 @@
       "street": "Rue Neufmoulin"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "49"
       ], 
@@ -421,6 +511,9 @@
       "street": "Rue Neufmoulin"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "51"
       ], 
@@ -445,6 +538,12 @@
       "street": "Rue Neufmoulin"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0301", 
+        "0302"
+      ], 
       "hnrlbls": [
         "54"
       ], 
@@ -481,6 +580,16 @@
       "street": "Rue Neufmoulin"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
+      ], 
       "hnrlbls": [
         "59"
       ], 
@@ -493,6 +602,9 @@
       "street": "Rue Neufmoulin"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -505,6 +617,11 @@
       "street": "Rue Neufmoulin"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "62"
       ], 
@@ -517,6 +634,17 @@
       "street": "Rue Neufmoulin"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303"
+      ], 
       "hnrlbls": [
         "78"
       ], 
@@ -529,6 +657,13 @@
       "street": "Rue Neufmoulin"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "8"
       ], 
@@ -541,6 +676,9 @@
       "street": "Rue Neufmoulin"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "80"
       ], 
@@ -553,6 +691,14 @@
       "street": "Rue Neufmoulin"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "9"
       ], 

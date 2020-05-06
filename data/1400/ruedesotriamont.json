@@ -2,6 +2,18 @@
   "addresses": [
     {
       "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.602406335383, 
+      "lon": 4.325487681454, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703053", 
+      "street": "Rue de Sotriamont"
+    }, 
+    {
+      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -19,6 +31,18 @@
       "housenumber": "15", 
       "lat": 50.604856588769, 
       "lon": 4.324331432639, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703053", 
+      "street": "Rue de Sotriamont"
+    }, 
+    {
+      "hnrlbls": [
+        "152"
+      ], 
+      "housenumber": "152", 
+      "lat": 50.607953526004, 
+      "lon": 4.321449650369, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703053", 
@@ -73,6 +97,18 @@
       "street": "Rue de Sotriamont"
     }, 
     {
+      "busnrs": [
+        "Bt02", 
+        "Bt03", 
+        "Bt04", 
+        "Bt05", 
+        "Bt06", 
+        "Bt07", 
+        "Bt08", 
+        "Bt09", 
+        "Bt10", 
+        "Bt11"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -85,6 +121,29 @@
       "street": "Rue de Sotriamont"
     }, 
     {
+      "hnrlbls": [
+        "23"
+      ], 
+      "housenumber": "23", 
+      "lat": 50.605197169139, 
+      "lon": 4.323788042221, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703053", 
+      "street": "Rue de Sotriamont"
+    }, 
+    {
+      "busnrs": [
+        "0007", 
+        "Bt02", 
+        "Bt03", 
+        "Bt05", 
+        "Bt06", 
+        "Bt08", 
+        "Bt09", 
+        "Bt10", 
+        "Bt11"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -101,8 +160,20 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.605197169139, 
-      "lon": 4.323788042221, 
+      "lat": 50.605292742759, 
+      "lon": 4.323647560597, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703053", 
+      "street": "Rue de Sotriamont"
+    }, 
+    {
+      "hnrlbls": [
+        "26"
+      ], 
+      "housenumber": "26", 
+      "lat": 50.603430306027, 
+      "lon": 4.327590686429, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703053", 
@@ -113,8 +184,8 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.605292742759, 
-      "lon": 4.323647560597, 
+      "lat": 50.605446744168, 
+      "lon": 4.323558685156, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703053", 
@@ -125,8 +196,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 50.605446744168, 
-      "lon": 4.323558685156, 
+      "lat": 50.605553828299, 
+      "lon": 4.323403979817, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703053", 
@@ -134,11 +205,66 @@
     }, 
     {
       "hnrlbls": [
+        "2A"
+      ], 
+      "housenumber": "2A", 
+      "lat": 50.602346396832, 
+      "lon": 4.327433461125, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703053", 
+      "street": "Rue de Sotriamont"
+    }, 
+    {
+      "busnrs": [
+        "A003", 
+        "Bt01", 
+        "Bt02", 
+        "Bt04", 
+        "Bt05", 
+        "Bt06", 
+        "Bt07", 
+        "Bt08", 
+        "Bt09", 
+        "Bt10", 
+        "Bt11", 
+        "Bt12", 
+        "Bt13", 
+        "Bt14", 
+        "SSOL"
+      ], 
+      "hnrlbls": [
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 50.603612319596, 
-      "lon": 4.326943786592, 
+      "lat": 50.603529450798, 
+      "lon": 4.326680733004, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703053", 
+      "street": "Rue de Sotriamont"
+    }, 
+    {
+      "busnrs": [
+        "B004", 
+        "B008", 
+        "Bt02", 
+        "Bt03", 
+        "Bt05", 
+        "Bt06", 
+        "Bt07", 
+        "Bt09", 
+        "Bt11", 
+        "Bt12", 
+        "Bt13", 
+        "Bt14"
+      ], 
+      "hnrlbls": [
+        "32"
+      ], 
+      "housenumber": "32", 
+      "lat": 50.603584186248, 
+      "lon": 4.326862473358, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703053", 
@@ -157,12 +283,67 @@
       "street": "Rue de Sotriamont"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt03", 
+        "Bt04", 
+        "Bt05", 
+        "Bt06", 
+        "Bt07", 
+        "Bt08", 
+        "Bt09", 
+        "Bt11", 
+        "Bt12", 
+        "Bt14", 
+        "C002", 
+        "C010", 
+        "C013"
+      ], 
+      "hnrlbls": [
+        "34"
+      ], 
+      "housenumber": "34", 
+      "lat": 50.603645144308, 
+      "lon": 4.327049298437, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703053", 
+      "street": "Rue de Sotriamont"
+    }, 
+    {
       "hnrlbls": [
         "35"
       ], 
       "housenumber": "35", 
       "lat": 50.60590655926, 
       "lon": 4.323024407738, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703053", 
+      "street": "Rue de Sotriamont"
+    }, 
+    {
+      "busnrs": [
+        "A014", 
+        "Bt02", 
+        "Bt03", 
+        "Bt05", 
+        "Bt07", 
+        "Bt08", 
+        "Bt09", 
+        "Bt10", 
+        "Bt11", 
+        "Bt12", 
+        "Bt13", 
+        "D004", 
+        "D006"
+      ], 
+      "hnrlbls": [
+        "36"
+      ], 
+      "housenumber": "36", 
+      "lat": 50.60370514569, 
+      "lon": 4.327221176356, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703053", 
@@ -463,6 +644,18 @@
       "housenumber": "84", 
       "lat": 50.604931932959, 
       "lon": 4.325004668951, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703053", 
+      "street": "Rue de Sotriamont"
+    }, 
+    {
+      "hnrlbls": [
+        "86"
+      ], 
+      "housenumber": "86", 
+      "lat": 50.60506885358, 
+      "lon": 4.324840871931, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703053", 

@@ -1,6 +1,15 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008"
+      ], 
       "hnrlbls": [
         "104"
       ], 
@@ -73,6 +82,10 @@
       "street": "Chauss\u00e9e Bara"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "120"
       ], 
@@ -386,6 +399,18 @@
     }, 
     {
       "hnrlbls": [
+        "24"
+      ], 
+      "housenumber": "24", 
+      "lat": 50.699736673273, 
+      "lon": 4.363281175078, 
+      "municipality": "Braine-l'Alleud", 
+      "pcode": "1420", 
+      "source": "7700321", 
+      "street": "Chauss\u00e9e Bara"
+    }, 
+    {
+      "hnrlbls": [
         "240"
       ], 
       "housenumber": "240", 
@@ -601,6 +626,18 @@
       "street": "Chauss\u00e9e Bara"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0031"
+      ], 
       "hnrlbls": [
         "58"
       ], 
@@ -613,12 +650,66 @@
       "street": "Chauss\u00e9e Bara"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "60"
       ], 
       "housenumber": "60", 
       "lat": 50.700557556192, 
       "lon": 4.366079079382, 
+      "municipality": "Braine-l'Alleud", 
+      "pcode": "1420", 
+      "source": "7700321", 
+      "street": "Chauss\u00e9e Bara"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031"
+      ], 
+      "hnrlbls": [
+        "62"
+      ], 
+      "housenumber": "62", 
+      "lat": 50.700627067404, 
+      "lon": 4.366297776606, 
+      "municipality": "Braine-l'Alleud", 
+      "pcode": "1420", 
+      "source": "7700321", 
+      "street": "Chauss\u00e9e Bara"
+    }, 
+    {
+      "busnrs": [
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031"
+      ], 
+      "hnrlbls": [
+        "64"
+      ], 
+      "housenumber": "64", 
+      "lat": 50.700685107971, 
+      "lon": 4.36650975813, 
       "municipality": "Braine-l'Alleud", 
       "pcode": "1420", 
       "source": "7700321", 

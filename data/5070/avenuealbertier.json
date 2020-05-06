@@ -49,6 +49,18 @@
       "street": "Avenue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "0/A", 
+        "0/B", 
+        "0/C", 
+        "0/D", 
+        "0/E", 
+        "1/A", 
+        "1/B", 
+        "2/A", 
+        "2/B", 
+        "2/C"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -229,6 +241,10 @@
       "street": "Avenue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "2", 
+        "4"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -253,6 +269,11 @@
       "street": "Avenue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -337,6 +358,10 @@
       "street": "Avenue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "36"
       ], 
@@ -773,8 +798,8 @@
         "72"
       ], 
       "housenumber": "72", 
-      "lat": 50.394278345653, 
-      "lon": 4.689197905031, 
+      "lat": 50.394294272027, 
+      "lon": 4.689281214721, 
       "municipality": "Fosses-la-Ville", 
       "pcode": "5070", 
       "source": "7752412", 

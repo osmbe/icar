@@ -1,12 +1,20 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0003", 
+        "Bt01", 
+        "Bt02", 
+        "Bt04", 
+        "Bt05", 
+        "Bt06"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.590952792727, 
-      "lon": 4.319038302141, 
+      "lat": 50.590802657816, 
+      "lon": 4.319379642443, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702808", 
@@ -17,32 +25,82 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.591267166116, 
-      "lon": 4.318231942698, 
+      "lat": 50.591343423383, 
+      "lon": 4.319379240776, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702808", 
       "street": "All\u00e9e du Coulombier"
     }, 
     {
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.590952792727, 
+      "lon": 4.319038302141, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7702808", 
+      "street": "All\u00e9e du Coulombier"
+    }, 
+    {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03"
+      ], 
       "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.591171098222, 
-      "lon": 4.318718072325, 
+      "lat": 50.591135926102, 
+      "lon": 4.318787535562, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702808", 
       "street": "All\u00e9e du Coulombier"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt04", 
+        "Bt05", 
+        "Bt06", 
+        "RDC0"
+      ], 
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.591197709987, 
+      "lon": 4.318650785751, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7702808", 
+      "street": "All\u00e9e du Coulombier"
+    }, 
+    {
+      "busnrs": [
+        "0006", 
+        "Bt01", 
+        "Bt02", 
+        "Bt04", 
+        "Bt05", 
+        "Bt07", 
+        "Bt08", 
+        "Bt09", 
+        "Bt10", 
+        "Bt11"
+      ], 
       "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.591329159151, 
-      "lon": 4.319397191196, 
+      "lat": 50.591267166116, 
+      "lon": 4.318231942698, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702808", 

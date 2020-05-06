@@ -13,6 +13,10 @@
       "street": "Place du Chef lieu"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "1/O2"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -49,6 +53,12 @@
       "street": "Place du Chef lieu"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "011", 
+        "021", 
+        "031"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -137,8 +147,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.450854403717, 
-      "lon": 4.426100428389, 
+      "lat": 50.450895595032, 
+      "lon": 4.425215262039, 
       "municipality": "Charleroi", 
       "pcode": "6040", 
       "source": "7760997", 

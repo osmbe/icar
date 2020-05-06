@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A1/2", 
+        "A2/1", 
+        "A2/2"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -173,8 +178,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.740727419841, 
-      "lon": 2.931204151866, 
+      "lat": 50.733677346498, 
+      "lon": 2.9208717047, 
       "municipality": "Comines-Warneton", 
       "pcode": "7784", 
       "source": "7716278", 
@@ -397,6 +402,11 @@
       "street": "Route de Ploegsteert"
     }, 
     {
+      "busnrs": [
+        "A---", 
+        "B---", 
+        "C---"
+      ], 
       "hnrlbls": [
         "55"
       ], 

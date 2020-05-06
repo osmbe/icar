@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "Ap.1"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +16,10 @@
       "street": "Rue de la Libert\u00e9"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -187,6 +194,18 @@
       "housenumber": "23", 
       "lat": 50.501015176328, 
       "lon": 5.659720835579, 
+      "municipality": "Sprimont", 
+      "pcode": "4140", 
+      "source": "7733013", 
+      "street": "Rue de la Libert\u00e9"
+    }, 
+    {
+      "hnrlbls": [
+        "24"
+      ], 
+      "housenumber": "24", 
+      "lat": 50.501286740867, 
+      "lon": 5.660323408414, 
       "municipality": "Sprimont", 
       "pcode": "4140", 
       "source": "7733013", 

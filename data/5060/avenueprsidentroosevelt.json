@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -37,6 +40,9 @@
       "street": "Avenue Pr\u00e9sident Roosevelt"
     }, 
     {
+      "busnrs": [
+        "0B"
+      ], 
       "hnrlbls": [
         "106"
       ], 
@@ -49,6 +55,9 @@
       "street": "Avenue Pr\u00e9sident Roosevelt"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "107"
       ], 
@@ -121,6 +130,13 @@
       "street": "Avenue Pr\u00e9sident Roosevelt"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0005", 
+        "0006"
+      ], 
       "hnrlbls": [
         "112"
       ], 
@@ -541,6 +557,9 @@
       "street": "Avenue Pr\u00e9sident Roosevelt"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -577,6 +596,13 @@
       "street": "Avenue Pr\u00e9sident Roosevelt"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0006"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -589,12 +615,27 @@
       "street": "Avenue Pr\u00e9sident Roosevelt"
     }, 
     {
+      "busnrs": [
+        "Bis0"
+      ], 
       "hnrlbls": [
         "30"
       ], 
       "housenumber": "30", 
       "lat": 50.435434201594, 
       "lon": 4.607770473478, 
+      "municipality": "Sambreville", 
+      "pcode": "5060", 
+      "source": "7755242", 
+      "street": "Avenue Pr\u00e9sident Roosevelt"
+    }, 
+    {
+      "hnrlbls": [
+        "30B"
+      ], 
+      "housenumber": "30B", 
+      "lat": 50.435473501337, 
+      "lon": 4.607742899626, 
       "municipality": "Sambreville", 
       "pcode": "5060", 
       "source": "7755242", 
@@ -625,6 +666,12 @@
       "street": "Avenue Pr\u00e9sident Roosevelt"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "A001", 
+        "A003", 
+        "A004"
+      ], 
       "hnrlbls": [
         "33"
       ], 
@@ -949,6 +996,10 @@
       "street": "Avenue Pr\u00e9sident Roosevelt"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "65"
       ], 
@@ -1013,8 +1064,8 @@
         "69"
       ], 
       "housenumber": "69", 
-      "lat": 50.436671738714, 
-      "lon": 4.608229292477, 
+      "lat": 50.436665383113, 
+      "lon": 4.608089704583, 
       "municipality": "Sambreville", 
       "pcode": "5060", 
       "source": "7755242", 
@@ -1033,6 +1084,9 @@
       "street": "Avenue Pr\u00e9sident Roosevelt"
     }, 
     {
+      "busnrs": [
+        "0003"
+      ], 
       "hnrlbls": [
         "70"
       ], 
@@ -1279,6 +1333,18 @@
       "housenumber": "96", 
       "lat": 50.437703447664, 
       "lon": 4.607709264702, 
+      "municipality": "Sambreville", 
+      "pcode": "5060", 
+      "source": "7755242", 
+      "street": "Avenue Pr\u00e9sident Roosevelt"
+    }, 
+    {
+      "hnrlbls": [
+        "97"
+      ], 
+      "housenumber": "97", 
+      "lat": 50.438806007504, 
+      "lon": 4.608473321022, 
       "municipality": "Sambreville", 
       "pcode": "5060", 
       "source": "7755242", 

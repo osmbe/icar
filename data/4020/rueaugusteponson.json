@@ -1,6 +1,15 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -37,6 +46,16 @@
       "street": "Rue Auguste-Ponson"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -55,6 +74,18 @@
       "housenumber": "14", 
       "lat": 50.642428567016, 
       "lon": 5.631347219161, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730187", 
+      "street": "Rue Auguste-Ponson"
+    }, 
+    {
+      "hnrlbls": [
+        "15"
+      ], 
+      "housenumber": "15", 
+      "lat": 50.642043714055, 
+      "lon": 5.631564911756, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730187", 
@@ -103,6 +134,18 @@
       "housenumber": "19", 
       "lat": 50.642087977941, 
       "lon": 5.631409540036, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730187", 
+      "street": "Rue Auguste-Ponson"
+    }, 
+    {
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.642308679681, 
+      "lon": 5.631856328396, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730187", 
@@ -241,6 +284,13 @@
       "street": "Rue Auguste-Ponson"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -277,6 +327,10 @@
       "street": "Rue Auguste-Ponson"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -349,6 +403,10 @@
       "street": "Rue Auguste-Ponson"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "48"
       ], 
@@ -469,6 +527,9 @@
       "street": "Rue Auguste-Ponson"
     }, 
     {
+      "busnrs": [
+        "0021"
+      ], 
       "hnrlbls": [
         "56"
       ], 
@@ -487,6 +548,18 @@
       "housenumber": "57", 
       "lat": 50.642530533377, 
       "lon": 5.629130099195, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730187", 
+      "street": "Rue Auguste-Ponson"
+    }, 
+    {
+      "hnrlbls": [
+        "57B"
+      ], 
+      "housenumber": "57B", 
+      "lat": 50.642176785195, 
+      "lon": 5.629229625987, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730187", 
@@ -577,6 +650,16 @@
       "street": "Rue Auguste-Ponson"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "69"
       ], 
@@ -613,6 +696,10 @@
       "street": "Rue Auguste-Ponson"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "9"
       ], 

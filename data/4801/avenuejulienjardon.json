@@ -73,6 +73,10 @@
       "street": "Avenue Julien Jardon"
     }, 
     {
+      "busnrs": [
+        "bte2", 
+        "bte5"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -85,6 +89,11 @@
       "street": "Avenue Julien Jardon"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "5", 
+        "bte3"
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -97,6 +106,13 @@
       "street": "Avenue Julien Jardon"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "2D", 
+        "2\u00e9t.", 
+        "2\u00e9tG", 
+        "3\u00e9t."
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -109,6 +125,11 @@
       "street": "Avenue Julien Jardon"
     }, 
     {
+      "busnrs": [
+        "2\u00e9t.", 
+        "3\u00e9t.", 
+        "bte6"
+      ], 
       "hnrlbls": [
         "32"
       ], 
@@ -205,6 +226,9 @@
       "street": "Avenue Julien Jardon"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t."
+      ], 
       "hnrlbls": [
         "53"
       ], 
@@ -229,6 +253,10 @@
       "street": "Avenue Julien Jardon"
     }, 
     {
+      "busnrs": [
+        "bt2", 
+        "bte1"
+      ], 
       "hnrlbls": [
         "56"
       ], 
@@ -241,6 +269,10 @@
       "street": "Avenue Julien Jardon"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "2\u00e9t."
+      ], 
       "hnrlbls": [
         "57"
       ], 
@@ -253,6 +285,21 @@
       "street": "Avenue Julien Jardon"
     }, 
     {
+      "hnrlbls": [
+        "58"
+      ], 
+      "housenumber": "58", 
+      "lat": 50.590158680549, 
+      "lon": 5.889098097833, 
+      "municipality": "Verviers", 
+      "pcode": "4801", 
+      "source": "7738608", 
+      "street": "Avenue Julien Jardon"
+    }, 
+    {
+      "busnrs": [
+        "2\u00e9t."
+      ], 
       "hnrlbls": [
         "59"
       ], 
@@ -277,6 +324,9 @@
       "street": "Avenue Julien Jardon"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t."
+      ], 
       "hnrlbls": [
         "60"
       ], 
@@ -481,18 +531,33 @@
       "street": "Avenue Julien Jardon"
     }, 
     {
+      "busnrs": [
+        "0006", 
+        "1\u00e9t.", 
+        "2\u00e9t.", 
+        "3", 
+        "bte1", 
+        "rez."
+      ], 
       "hnrlbls": [
         "77"
       ], 
       "housenumber": "77", 
-      "lat": 50.589270965144, 
-      "lon": 5.888897438407, 
+      "lat": 50.589363984974, 
+      "lon": 5.888958259386, 
       "municipality": "Verviers", 
       "pcode": "4801", 
       "source": "7738608", 
       "street": "Avenue Julien Jardon"
     }, 
     {
+      "busnrs": [
+        "1\u00e9tG", 
+        "5", 
+        "6", 
+        "Bte4", 
+        "bt1"
+      ], 
       "hnrlbls": [
         "79"
       ], 
@@ -517,6 +582,9 @@
       "street": "Avenue Julien Jardon"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t."
+      ], 
       "hnrlbls": [
         "80"
       ], 
@@ -529,6 +597,12 @@
       "street": "Avenue Julien Jardon"
     }, 
     {
+      "busnrs": [
+        "1D", 
+        "1\u00e9t.", 
+        "2\u00e9t.", 
+        "2\u00e9tG"
+      ], 
       "hnrlbls": [
         "82"
       ], 
@@ -545,8 +619,8 @@
         "84"
       ], 
       "housenumber": "84", 
-      "lat": 50.589338175931, 
-      "lon": 5.888455695378, 
+      "lat": 50.589291398003, 
+      "lon": 5.888473767762, 
       "municipality": "Verviers", 
       "pcode": "4801", 
       "source": "7738608", 

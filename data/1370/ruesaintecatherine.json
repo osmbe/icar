@@ -5,8 +5,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.720017973634, 
-      "lon": 4.933623809221, 
+      "lat": 50.719839887281, 
+      "lon": 4.933633173026, 
       "municipality": "Jodoigne", 
       "pcode": "1370", 
       "source": "7702485", 
@@ -65,8 +65,8 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 50.718376702506, 
-      "lon": 4.930248153175, 
+      "lat": 50.718100276896, 
+      "lon": 4.929677403832, 
       "municipality": "Jodoigne", 
       "pcode": "1370", 
       "source": "7702485", 
@@ -257,8 +257,8 @@
         "66"
       ], 
       "housenumber": "66", 
-      "lat": 50.715174408053, 
-      "lon": 4.925299532959, 
+      "lat": 50.715258188445, 
+      "lon": 4.925422886748, 
       "municipality": "Jodoigne", 
       "pcode": "1370", 
       "source": "7702485", 
@@ -301,6 +301,9 @@
       "street": "Rue Sainte-Catherine"
     }, 
     {
+      "busnrs": [
+        "Bte1"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -446,11 +449,47 @@
     }, 
     {
       "hnrlbls": [
+        "85"
+      ], 
+      "housenumber": "85", 
+      "lat": 50.71288606021, 
+      "lon": 4.921101015681, 
+      "municipality": "Jodoigne", 
+      "pcode": "1370", 
+      "source": "7702485", 
+      "street": "Rue Sainte-Catherine"
+    }, 
+    {
+      "hnrlbls": [
+        "85A"
+      ], 
+      "housenumber": "85A", 
+      "lat": 50.712743336658, 
+      "lon": 4.92095136171, 
+      "municipality": "Jodoigne", 
+      "pcode": "1370", 
+      "source": "7702485", 
+      "street": "Rue Sainte-Catherine"
+    }, 
+    {
+      "hnrlbls": [
         "86"
       ], 
       "housenumber": "86", 
       "lat": 50.713497316956, 
       "lon": 4.922738561879, 
+      "municipality": "Jodoigne", 
+      "pcode": "1370", 
+      "source": "7702485", 
+      "street": "Rue Sainte-Catherine"
+    }, 
+    {
+      "hnrlbls": [
+        "87"
+      ], 
+      "housenumber": "87", 
+      "lat": 50.712447794431, 
+      "lon": 4.920674037984, 
       "municipality": "Jodoigne", 
       "pcode": "1370", 
       "source": "7702485", 
@@ -541,6 +580,10 @@
       "street": "Rue Sainte-Catherine"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "1/2"
+      ], 
       "hnrlbls": [
         "96"
       ], 

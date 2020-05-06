@@ -2,18 +2,6 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1"
-      ], 
-      "housenumber": "1", 
-      "lat": 50.708243793046, 
-      "lon": 4.510091762536, 
-      "municipality": "Rixensart", 
-      "pcode": "1330", 
-      "source": "7703535", 
-      "street": "Place Cardinal Mercier"
-    }, 
-    {
-      "hnrlbls": [
         "12"
       ], 
       "housenumber": "12", 
@@ -133,6 +121,12 @@
       "street": "Place Cardinal Mercier"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -145,6 +139,9 @@
       "street": "Place Cardinal Mercier"
     }, 
     {
+      "busnrs": [
+        "001"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -349,6 +346,9 @@
       "street": "Place Cardinal Mercier"
     }, 
     {
+      "busnrs": [
+        "101"
+      ], 
       "hnrlbls": [
         "36"
       ], 

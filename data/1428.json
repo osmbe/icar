@@ -19,15 +19,6 @@
       "t": 50.641112145884
     }, 
     {
-      "b": 50.628279113793, 
-      "l": 4.352962684402, 
-      "name": "Avenue Clair Soleil", 
-      "numOfAddr": 15, 
-      "r": 4.354760936537, 
-      "sanName": "avenueclairsoleil", 
-      "t": 50.629166968523
-    }, 
-    {
       "b": 50.645437364061, 
       "l": 4.357844458029, 
       "name": "Avenue Coquette", 
@@ -44,6 +35,15 @@
       "r": 4.369468470358, 
       "sanName": "avenuedelacroixponcin", 
       "t": 50.65312894249
+    }, 
+    {
+      "b": 50.636286501827, 
+      "l": 4.363599166785, 
+      "name": "Avenue de la Grande Closi\u00e8re", 
+      "numOfAddr": 38, 
+      "r": 4.368542759981, 
+      "sanName": "avenuedelagrandeclosire", 
+      "t": 50.637855900009
     }, 
     {
       "b": 50.637588509856, 
@@ -73,6 +73,15 @@
       "t": 50.644895564394
     }, 
     {
+      "b": 50.640351449102, 
+      "l": 4.365921857035, 
+      "name": "Avenue des Rouges-Gorges", 
+      "numOfAddr": 28, 
+      "r": 4.367715831962, 
+      "sanName": "avenuedesrougesgorges", 
+      "t": 50.64241968054
+    }, 
+    {
       "b": 50.643760562465, 
       "l": 4.356547763655, 
       "name": "Avenue des Warrois", 
@@ -98,6 +107,15 @@
       "r": 4.368534555426, 
       "sanName": "avenueducallois", 
       "t": 50.638792956148
+    }, 
+    {
+      "b": 50.628279113793, 
+      "l": 4.352962684402, 
+      "name": "Avenue du Clair Soleil", 
+      "numOfAddr": 15, 
+      "r": 4.354760936537, 
+      "sanName": "avenueduclairsoleil", 
+      "t": 50.629166968523
     }, 
     {
       "b": 50.649589668827, 
@@ -136,31 +154,13 @@
       "t": 50.653765653832
     }, 
     {
-      "b": 50.636286501827, 
-      "l": 4.363599166785, 
-      "name": "Avenue Grande Closi\u00e8re", 
-      "numOfAddr": 38, 
-      "r": 4.368542759981, 
-      "sanName": "avenuegrandeclosire", 
-      "t": 50.637855900009
-    }, 
-    {
       "b": 50.640460761616, 
       "l": 4.354805652696, 
-      "name": "Avenue Grand'Peine", 
+      "name": "Avenue Grand-Peine", 
       "numOfAddr": 56, 
       "r": 4.360606253193, 
       "sanName": "avenuegrandpeine", 
       "t": 50.645662484919
-    }, 
-    {
-      "b": 50.640351449102, 
-      "l": 4.365921857035, 
-      "name": "Avenue Rouges-Gorges", 
-      "numOfAddr": 28, 
-      "r": 4.367715831962, 
-      "sanName": "avenuerougesgorges", 
-      "t": 50.64241968054
     }, 
     {
       "b": 50.648191522681, 
@@ -249,20 +249,11 @@
     {
       "b": 50.646793107508, 
       "l": 4.369970671384, 
-      "name": "Rue Comte Jacques de Meeus", 
+      "name": "Rue Comte Jacques de Mee\u00fcs", 
       "numOfAddr": 34, 
       "r": 4.383965451614, 
-      "sanName": "ruecomtejacquesdemeeus", 
+      "sanName": "ruecomtejacquesdemees", 
       "t": 50.64882651234
-    }, 
-    {
-      "b": 50.641182261095, 
-      "l": 4.354212364563, 
-      "name": "Rue Croix de Pierre", 
-      "numOfAddr": 23, 
-      "r": 4.357557017069, 
-      "sanName": "ruecroixdepierre", 
-      "t": 50.643388529688
     }, 
     {
       "b": 50.648644066487, 
@@ -272,6 +263,15 @@
       "r": 4.377190080309, 
       "sanName": "ruedelabruyre", 
       "t": 50.651576705424
+    }, 
+    {
+      "b": 50.641182261095, 
+      "l": 4.354212364563, 
+      "name": "Rue de la Croix de Pierre", 
+      "numOfAddr": 23, 
+      "r": 4.357557017069, 
+      "sanName": "ruedelacroixdepierre", 
+      "t": 50.643388529688
     }, 
     {
       "b": 50.644301007221, 
@@ -285,7 +285,7 @@
     {
       "b": 50.648634255151, 
       "l": 4.387500299531, 
-      "name": "Rue de la Neuve Cour", 
+      "name": "Rue de la Neuve-Cour", 
       "numOfAddr": 4, 
       "otherPCs": [
         "1421"
@@ -293,6 +293,15 @@
       "r": 4.394124080569, 
       "sanName": "ruedelaneuvecour", 
       "t": 50.651983096765
+    }, 
+    {
+      "b": 50.636777845002, 
+      "l": 4.346558543668, 
+      "name": "Rue de l'Epine Pucelle", 
+      "numOfAddr": 4, 
+      "r": 4.355151433272, 
+      "sanName": "ruedelepinepucelle", 
+      "t": 50.637242002415
     }, 
     {
       "b": 50.647223146646, 
@@ -376,15 +385,6 @@
       "t": 50.636121981516
     }, 
     {
-      "b": 50.636777845002, 
-      "l": 4.346558543668, 
-      "name": "Rue Epine Pucelle", 
-      "numOfAddr": 4, 
-      "r": 4.355151433272, 
-      "sanName": "rueepinepucelle", 
-      "t": 50.637242002415
-    }, 
-    {
       "b": 50.636898016018, 
       "l": 4.35125460569, 
       "name": "Rue Fontaine Saint-Martin", 
@@ -430,11 +430,11 @@
       "t": 50.643521285166
     }, 
     {
-      "b": 50.643999582033, 
+      "b": 50.643888285396, 
       "l": 4.360614234369, 
       "name": "Rue Ren\u00e9 Francq", 
       "numOfAddr": 33, 
-      "r": 4.365226341976, 
+      "r": 4.364842821319, 
       "sanName": "ruerenfrancq", 
       "t": 50.646163473927
     }, 

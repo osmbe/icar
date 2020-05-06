@@ -25,6 +25,24 @@
       "street": "Rue des Capucins"
     }, 
     {
+      "busnrs": [
+        "bt10", 
+        "bt11", 
+        "bt12", 
+        "bt13", 
+        "bt14", 
+        "bt15", 
+        "bt16", 
+        "bt17", 
+        "bt18", 
+        "bte1", 
+        "bte2", 
+        "bte3", 
+        "bte4", 
+        "bte6", 
+        "bte7", 
+        "bte9"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -49,6 +67,12 @@
       "street": "Rue des Capucins"
     }, 
     {
+      "busnrs": [
+        "bte1", 
+        "bte2", 
+        "bte3", 
+        "bte4"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -74,9 +98,9 @@
     }, 
     {
       "hnrlbls": [
-        "14a"
+        "14A"
       ], 
-      "housenumber": "14a", 
+      "housenumber": "14A", 
       "lat": 50.694632352345, 
       "lon": 4.037313107899, 
       "municipality": "Enghien", 
@@ -103,6 +127,18 @@
       "housenumber": "16", 
       "lat": 50.694567973905, 
       "lon": 4.037280836103, 
+      "municipality": "Enghien", 
+      "pcode": "7850", 
+      "source": "7716846", 
+      "street": "Rue des Capucins"
+    }, 
+    {
+      "hnrlbls": [
+        "17"
+      ], 
+      "housenumber": "17", 
+      "lat": 50.693553411128, 
+      "lon": 4.035632539987, 
       "municipality": "Enghien", 
       "pcode": "7850", 
       "source": "7716846", 
@@ -278,9 +314,9 @@
     }, 
     {
       "hnrlbls": [
-        "3a"
+        "3A"
       ], 
-      "housenumber": "3a", 
+      "housenumber": "3A", 
       "lat": 50.69490474958, 
       "lon": 4.037396360781, 
       "municipality": "Enghien", 
@@ -289,6 +325,9 @@
       "street": "Rue des Capucins"
     }, 
     {
+      "busnrs": [
+        "bte2"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -458,9 +497,21 @@
     }, 
     {
       "hnrlbls": [
-        "7b"
+        "7A"
       ], 
-      "housenumber": "7b", 
+      "housenumber": "7A", 
+      "lat": 50.694429928081, 
+      "lon": 4.036746337092, 
+      "municipality": "Enghien", 
+      "pcode": "7850", 
+      "source": "7716846", 
+      "street": "Rue des Capucins"
+    }, 
+    {
+      "hnrlbls": [
+        "7B"
+      ], 
+      "housenumber": "7B", 
       "lat": 50.694379200892, 
       "lon": 4.036682094938, 
       "municipality": "Enghien", 
@@ -494,11 +545,35 @@
     }, 
     {
       "hnrlbls": [
-        "9a"
+        "9A"
       ], 
-      "housenumber": "9a", 
+      "housenumber": "9A", 
       "lat": 50.694283711728, 
       "lon": 4.036560123641, 
+      "municipality": "Enghien", 
+      "pcode": "7850", 
+      "source": "7716846", 
+      "street": "Rue des Capucins"
+    }, 
+    {
+      "hnrlbls": [
+        "9B"
+      ], 
+      "housenumber": "9B", 
+      "lat": 50.694234760041, 
+      "lon": 4.036493061334, 
+      "municipality": "Enghien", 
+      "pcode": "7850", 
+      "source": "7716846", 
+      "street": "Rue des Capucins"
+    }, 
+    {
+      "hnrlbls": [
+        "9C"
+      ], 
+      "housenumber": "9C", 
+      "lat": 50.694190608194, 
+      "lon": 4.036440944127, 
       "municipality": "Enghien", 
       "pcode": "7850", 
       "source": "7716846", 

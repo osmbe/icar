@@ -241,12 +241,15 @@
       "street": "Rue de l'Ange"
     }, 
     {
+      "busnrs": [
+        "0041"
+      ], 
       "hnrlbls": [
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.463335635659, 
-      "lon": 4.865716302929, 
+      "lat": 50.463263450536, 
+      "lon": 4.865680727427, 
       "municipality": "Namur", 
       "pcode": "5000", 
       "source": "7753830", 
@@ -385,6 +388,9 @@
       "street": "Rue de l'Ange"
     }, 
     {
+      "busnrs": [
+        "0021"
+      ], 
       "hnrlbls": [
         "48"
       ], 
@@ -469,6 +475,12 @@
       "street": "Rue de l'Ange"
     }, 
     {
+      "busnrs": [
+        "0032", 
+        "0041", 
+        "0042", 
+        "0051"
+      ], 
       "hnrlbls": [
         "57"
       ], 
@@ -493,6 +505,10 @@
       "street": "Rue de l'Ange"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "ET01"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -601,6 +617,11 @@
       "street": "Rue de l'Ange"
     }, 
     {
+      "busnrs": [
+        "0003", 
+        "0004", 
+        "ET01"
+      ], 
       "hnrlbls": [
         "68"
       ], 

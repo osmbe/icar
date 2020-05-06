@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -25,6 +30,10 @@
       "street": "Chauss\u00e9e Saint-Mort"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -73,6 +82,11 @@
       "street": "Chauss\u00e9e Saint-Mort"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "0012", 
+        "0RCH"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -97,6 +111,10 @@
       "street": "Chauss\u00e9e Saint-Mort"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0RCH"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -109,6 +127,14 @@
       "street": "Chauss\u00e9e Saint-Mort"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0032", 
+        "0RCH"
+      ], 
       "hnrlbls": [
         "25"
       ], 

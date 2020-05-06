@@ -2,18 +2,6 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1"
-      ], 
-      "housenumber": "1", 
-      "lat": 50.611966446094, 
-      "lon": 4.134306653307, 
-      "municipality": "Braine-le-Comte", 
-      "pcode": "7090", 
-      "source": "7716596", 
-      "street": "Rue des Bas Foss\u00e9s"
-    }, 
-    {
-      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -53,8 +41,20 @@
         "12B"
       ], 
       "housenumber": "12B", 
-      "lat": 50.611869661677, 
-      "lon": 4.135150074932, 
+      "lat": 50.611848681061, 
+      "lon": 4.135125505206, 
+      "municipality": "Braine-le-Comte", 
+      "pcode": "7090", 
+      "source": "7716596", 
+      "street": "Rue des Bas Foss\u00e9s"
+    }, 
+    {
+      "hnrlbls": [
+        "14"
+      ], 
+      "housenumber": "14", 
+      "lat": 50.611796194305, 
+      "lon": 4.135077747245, 
       "municipality": "Braine-le-Comte", 
       "pcode": "7090", 
       "source": "7716596", 
@@ -73,6 +73,10 @@
       "street": "Rue des Bas Foss\u00e9s"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -97,6 +101,12 @@
       "street": "Rue des Bas Foss\u00e9s"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -109,6 +119,12 @@
       "street": "Rue des Bas Foss\u00e9s"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -146,6 +162,18 @@
     }, 
     {
       "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 50.612625765696, 
+      "lon": 4.135263107017, 
+      "municipality": "Braine-le-Comte", 
+      "pcode": "7090", 
+      "source": "7716596", 
+      "street": "Rue des Bas Foss\u00e9s"
+    }, 
+    {
+      "hnrlbls": [
         "30"
       ], 
       "housenumber": "30", 
@@ -157,12 +185,27 @@
       "street": "Rue des Bas Foss\u00e9s"
     }, 
     {
+      "busnrs": [
+        "Et.1"
+      ], 
       "hnrlbls": [
         "33"
       ], 
       "housenumber": "33", 
       "lat": 50.610682136916, 
       "lon": 4.134065026067, 
+      "municipality": "Braine-le-Comte", 
+      "pcode": "7090", 
+      "source": "7716596", 
+      "street": "Rue des Bas Foss\u00e9s"
+    }, 
+    {
+      "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 50.612235988928, 
+      "lon": 4.134566625868, 
       "municipality": "Braine-le-Comte", 
       "pcode": "7090", 
       "source": "7716596", 

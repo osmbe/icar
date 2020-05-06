@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +16,13 @@
       "street": "Rue d'Assenois"
     }, 
     {
+      "busnrs": [
+        "C  1", 
+        "C  3", 
+        "F  1", 
+        "F  2", 
+        "F  4"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -97,6 +107,10 @@
       "street": "Rue d'Assenois"
     }, 
     {
+      "busnrs": [
+        "A  1", 
+        "A  2"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -133,6 +147,13 @@
       "street": "Rue d'Assenois"
     }, 
     {
+      "busnrs": [
+        "A  3", 
+        "A001", 
+        "R  1", 
+        "R  2", 
+        "R  3"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -205,12 +226,16 @@
       "street": "Rue d'Assenois"
     }, 
     {
+      "busnrs": [
+        "B  1", 
+        "B  2"
+      ], 
       "hnrlbls": [
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 49.997810315221, 
-      "lon": 5.71266472404, 
+      "lat": 49.997784390035, 
+      "lon": 5.712643695961, 
       "municipality": "Bastogne", 
       "pcode": "6600", 
       "source": "7742401", 
@@ -325,6 +350,9 @@
       "street": "Rue d'Assenois"
     }, 
     {
+      "busnrs": [
+        "R  1"
+      ], 
       "hnrlbls": [
         "32"
       ], 

@@ -13,6 +13,9 @@
       "street": "Rue d'Herchies"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "100"
       ], 
@@ -217,6 +220,13 @@
       "street": "Rue d'Herchies"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "RCH3"
+      ], 
       "hnrlbls": [
         "119"
       ], 
@@ -253,6 +263,14 @@
       "street": "Rue d'Herchies"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "0013", 
+        "RCH1", 
+        "RCH2", 
+        "RCH3"
+      ], 
       "hnrlbls": [
         "121"
       ], 
@@ -277,6 +295,16 @@
       "street": "Rue d'Herchies"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "0013", 
+        "0022", 
+        "0023", 
+        "RCH1", 
+        "RCH2", 
+        "RCH3"
+      ], 
       "hnrlbls": [
         "123"
       ], 
@@ -301,6 +329,14 @@
       "street": "Rue d'Herchies"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "RCH1", 
+        "RCH2"
+      ], 
       "hnrlbls": [
         "125"
       ], 
@@ -361,6 +397,14 @@
       "street": "Rue d'Herchies"
     }, 
     {
+      "busnrs": [
+        "0003", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "RCH1", 
+        "RCH2"
+      ], 
       "hnrlbls": [
         "131"
       ], 
@@ -881,8 +925,8 @@
         "209"
       ], 
       "housenumber": "209", 
-      "lat": 50.508175828359, 
-      "lon": 3.832790072933, 
+      "lat": 50.508109784319, 
+      "lon": 3.832764582866, 
       "municipality": "Saint-Ghislain", 
       "pcode": "7331", 
       "source": "7714775", 
@@ -1093,6 +1137,9 @@
       "street": "Rue d'Herchies"
     }, 
     {
+      "busnrs": [
+        "RCH2"
+      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -1573,6 +1620,9 @@
       "street": "Rue d'Herchies"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "79"
       ], 

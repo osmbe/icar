@@ -73,6 +73,10 @@
       "street": "Rue du Tombay"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "107"
       ], 
@@ -91,6 +95,18 @@
       "housenumber": "11", 
       "lat": 50.62326677762, 
       "lon": 5.607613346317, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730893", 
+      "street": "Rue du Tombay"
+    }, 
+    {
+      "hnrlbls": [
+        "110"
+      ], 
+      "housenumber": "110", 
+      "lat": 50.625877338492, 
+      "lon": 5.604569696391, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4030", 
       "source": "7730893", 
@@ -314,11 +330,47 @@
     }, 
     {
       "hnrlbls": [
+        "35"
+      ], 
+      "housenumber": "35", 
+      "lat": 50.623908540201, 
+      "lon": 5.606984731549, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730893", 
+      "street": "Rue du Tombay"
+    }, 
+    {
+      "hnrlbls": [
+        "37"
+      ], 
+      "housenumber": "37", 
+      "lat": 50.623945912824, 
+      "lon": 5.606953768314, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730893", 
+      "street": "Rue du Tombay"
+    }, 
+    {
+      "hnrlbls": [
         "38"
       ], 
       "housenumber": "38", 
       "lat": 50.623527691876, 
       "lon": 5.606917525918, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730893", 
+      "street": "Rue du Tombay"
+    }, 
+    {
+      "hnrlbls": [
+        "39"
+      ], 
+      "housenumber": "39", 
+      "lat": 50.623992743122, 
+      "lon": 5.606921215647, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4030", 
       "source": "7730893", 
@@ -721,6 +773,10 @@
       "street": "Rue du Tombay"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "82"
       ], 

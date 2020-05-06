@@ -181,6 +181,11 @@
       "street": "Rue Rosier Bois"
     }, 
     {
+      "busnrs": [
+        "B101", 
+        "B201", 
+        "B301"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -245,8 +250,8 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 50.731386550562, 
-      "lon": 4.541940989736, 
+      "lat": 50.7313908271, 
+      "lon": 4.541744233323, 
       "municipality": "Rixensart", 
       "pcode": "1331", 
       "source": "7703647", 
@@ -313,6 +318,10 @@
       "street": "Rue Rosier Bois"
     }, 
     {
+      "busnrs": [
+        "A001", 
+        "A101"
+      ], 
       "hnrlbls": [
         "41"
       ], 
@@ -857,8 +866,8 @@
         "87"
       ], 
       "housenumber": "87", 
-      "lat": 50.733894200869, 
-      "lon": 4.536923129105, 
+      "lat": 50.733958476358, 
+      "lon": 4.536917990744, 
       "municipality": "Rixensart", 
       "pcode": "1331", 
       "source": "7703647", 
@@ -901,6 +910,9 @@
       "street": "Rue Rosier Bois"
     }, 
     {
+      "busnrs": [
+        "SS01"
+      ], 
       "hnrlbls": [
         "93"
       ], 

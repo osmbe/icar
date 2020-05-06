@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -377,8 +380,8 @@
         "24A"
       ], 
       "housenumber": "24A", 
-      "lat": 50.306232371865, 
-      "lon": 4.652165330614, 
+      "lat": 50.306219792285, 
+      "lon": 4.652202398724, 
       "municipality": "Mettet", 
       "pcode": "5640", 
       "source": "7752902", 
@@ -401,8 +404,20 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.308364536572, 
-      "lon": 4.652360333389, 
+      "lat": 50.308360816629, 
+      "lon": 4.652422155733, 
+      "municipality": "Mettet", 
+      "pcode": "5640", 
+      "source": "7752902", 
+      "street": "Rue de Somtet"
+    }, 
+    {
+      "hnrlbls": [
+        "25A"
+      ], 
+      "housenumber": "25A", 
+      "lat": 50.308330271202, 
+      "lon": 4.652824428, 
       "municipality": "Mettet", 
       "pcode": "5640", 
       "source": "7752902", 
@@ -505,6 +520,10 @@
       "street": "Rue de Somtet"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -629,8 +648,8 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 50.304916990709, 
-      "lon": 4.652317347355, 
+      "lat": 50.312339649294, 
+      "lon": 4.655399496377, 
       "municipality": "Mettet", 
       "pcode": "5640", 
       "source": "7752902", 
@@ -653,8 +672,8 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 50.312533190132, 
-      "lon": 4.655453161182, 
+      "lat": 50.30453922775, 
+      "lon": 4.652635749117, 
       "municipality": "Mettet", 
       "pcode": "5640", 
       "source": "7752902", 

@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -266,6 +271,18 @@
     }, 
     {
       "hnrlbls": [
+        "1B"
+      ], 
+      "housenumber": "1B", 
+      "lat": 50.629458233724, 
+      "lon": 5.531720768223, 
+      "municipality": "Saint-Nicolas", 
+      "pcode": "4420", 
+      "source": "7731996", 
+      "street": "Rue Horloz"
+    }, 
+    {
+      "hnrlbls": [
         "21"
       ], 
       "housenumber": "21", 
@@ -365,8 +382,20 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 50.628961466274, 
-      "lon": 5.531005035249, 
+      "lat": 50.628962989233, 
+      "lon": 5.531043221917, 
+      "municipality": "Saint-Nicolas", 
+      "pcode": "4420", 
+      "source": "7731996", 
+      "street": "Rue Horloz"
+    }, 
+    {
+      "hnrlbls": [
+        "30A"
+      ], 
+      "housenumber": "30A", 
+      "lat": 50.628936671698, 
+      "lon": 5.531022617176, 
       "municipality": "Saint-Nicolas", 
       "pcode": "4420", 
       "source": "7731996", 
@@ -427,6 +456,42 @@
       "housenumber": "44", 
       "lat": 50.628537326448, 
       "lon": 5.530925920469, 
+      "municipality": "Saint-Nicolas", 
+      "pcode": "4420", 
+      "source": "7731996", 
+      "street": "Rue Horloz"
+    }, 
+    {
+      "hnrlbls": [
+        "44A"
+      ], 
+      "housenumber": "44A", 
+      "lat": 50.628608642106, 
+      "lon": 5.53085334503, 
+      "municipality": "Saint-Nicolas", 
+      "pcode": "4420", 
+      "source": "7731996", 
+      "street": "Rue Horloz"
+    }, 
+    {
+      "hnrlbls": [
+        "44B"
+      ], 
+      "housenumber": "44B", 
+      "lat": 50.62852062569, 
+      "lon": 5.53087698358, 
+      "municipality": "Saint-Nicolas", 
+      "pcode": "4420", 
+      "source": "7731996", 
+      "street": "Rue Horloz"
+    }, 
+    {
+      "hnrlbls": [
+        "44C"
+      ], 
+      "housenumber": "44C", 
+      "lat": 50.628431839672, 
+      "lon": 5.53090621345, 
       "municipality": "Saint-Nicolas", 
       "pcode": "4420", 
       "source": "7731996", 

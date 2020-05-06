@@ -161,8 +161,20 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.434609743613, 
-      "lon": 4.612586949348, 
+      "lat": 50.434596144158, 
+      "lon": 4.612549636901, 
+      "municipality": "Sambreville", 
+      "pcode": "5060", 
+      "source": "7755503", 
+      "street": "Rue Saint-Martin"
+    }, 
+    {
+      "hnrlbls": [
+        "27A"
+      ], 
+      "housenumber": "27A", 
+      "lat": 50.434617142094, 
+      "lon": 4.612639795109, 
       "municipality": "Sambreville", 
       "pcode": "5060", 
       "source": "7755503", 
@@ -265,6 +277,11 @@
       "street": "Rue Saint-Martin"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B", 
+        "C"
+      ], 
       "hnrlbls": [
         "44"
       ], 
@@ -295,6 +312,18 @@
       "housenumber": "5", 
       "lat": 50.432746764061, 
       "lon": 4.613422125797, 
+      "municipality": "Sambreville", 
+      "pcode": "5060", 
+      "source": "7755503", 
+      "street": "Rue Saint-Martin"
+    }, 
+    {
+      "hnrlbls": [
+        "50"
+      ], 
+      "housenumber": "50", 
+      "lat": 50.433386284762, 
+      "lon": 4.614637157233, 
       "municipality": "Sambreville", 
       "pcode": "5060", 
       "source": "7755503", 
@@ -398,6 +427,22 @@
     }, 
     {
       "hnrlbls": [
+        "66A"
+      ], 
+      "housenumber": "66A", 
+      "lat": 50.434348590068, 
+      "lon": 4.612988343793, 
+      "municipality": "Sambreville", 
+      "pcode": "5060", 
+      "source": "7755503", 
+      "street": "Rue Saint-Martin"
+    }, 
+    {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
+      "hnrlbls": [
         "68"
       ], 
       "housenumber": "68", 
@@ -457,6 +502,11 @@
       "street": "Rue Saint-Martin"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "A000"
+      ], 
       "hnrlbls": [
         "76"
       ], 

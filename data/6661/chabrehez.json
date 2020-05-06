@@ -121,6 +121,10 @@
       "street": "Chabrehez"
     }, 
     {
+      "busnrs": [
+        "Dbt1", 
+        "Dbt2"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -245,6 +249,18 @@
         "5"
       ], 
       "housenumber": "5", 
+      "lat": 50.225978664509, 
+      "lon": 5.720606148156, 
+      "municipality": "Houffalize", 
+      "pcode": "6661", 
+      "source": "7742677", 
+      "street": "Chabrehez"
+    }, 
+    {
+      "hnrlbls": [
+        "5A"
+      ], 
+      "housenumber": "5A", 
       "lat": 50.225585518704, 
       "lon": 5.72086356822, 
       "municipality": "Houffalize", 
@@ -253,6 +269,27 @@
       "street": "Chabrehez"
     }, 
     {
+      "hnrlbls": [
+        "5C"
+      ], 
+      "housenumber": "5C", 
+      "lat": 50.225350471778, 
+      "lon": 5.721403841693, 
+      "municipality": "Houffalize", 
+      "pcode": "6661", 
+      "source": "7742677", 
+      "street": "Chabrehez"
+    }, 
+    {
+      "busnrs": [
+        "bt1", 
+        "bt2", 
+        "bt3", 
+        "bt4", 
+        "bt5", 
+        "bt6", 
+        "bt7"
+      ], 
       "hnrlbls": [
         "6"
       ], 

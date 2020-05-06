@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -31,6 +36,18 @@
       "housenumber": "12", 
       "lat": 50.627683002775, 
       "lon": 5.59956140665, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7731043", 
+      "street": "Rue Henri-Pirenne"
+    }, 
+    {
+      "hnrlbls": [
+        "13"
+      ], 
+      "housenumber": "13", 
+      "lat": 50.627860880369, 
+      "lon": 5.599731444459, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4030", 
       "source": "7731043", 
@@ -217,6 +234,11 @@
       "street": "Rue Henri-Pirenne"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "3"
       ], 

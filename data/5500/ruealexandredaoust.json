@@ -25,6 +25,9 @@
       "street": "Rue Alexandre Daoust"
     }, 
     {
+      "busnrs": [
+        "B"
+      ], 
       "hnrlbls": [
         "116"
       ], 
@@ -37,18 +40,17 @@
       "street": "Rue Alexandre Daoust"
     }, 
     {
-      "hnrlbls": [
-        "118"
+      "busnrs": [
+        "B5D", 
+        "Bte1", 
+        "Bte2", 
+        "Bte3", 
+        "Bte4", 
+        "Bte5", 
+        "Bte6", 
+        "Bte7", 
+        "Bte8"
       ], 
-      "housenumber": "118", 
-      "lat": 50.251113777504, 
-      "lon": 4.918421892355, 
-      "municipality": "Dinant", 
-      "pcode": "5500", 
-      "source": "7749204", 
-      "street": "Rue Alexandre Daoust"
-    }, 
-    {
       "hnrlbls": [
         "14"
       ], 
@@ -73,6 +75,25 @@
       "street": "Rue Alexandre Daoust"
     }, 
     {
+      "busnrs": [
+        "B3", 
+        "Bt10", 
+        "Bt11", 
+        "Bt12", 
+        "Bt13", 
+        "Bt14", 
+        "Bt15", 
+        "Bte1", 
+        "Bte2", 
+        "Bte3", 
+        "Bte4", 
+        "Bte5", 
+        "Bte6", 
+        "Bte7", 
+        "Bte8", 
+        "Bte9", 
+        "C5"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -109,6 +130,12 @@
       "street": "Rue Alexandre Daoust"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2", 
+        "Bte3", 
+        "Bte4"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -121,6 +148,9 @@
       "street": "Rue Alexandre Daoust"
     }, 
     {
+      "busnrs": [
+        "RDCh"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -133,6 +163,12 @@
       "street": "Rue Alexandre Daoust"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2", 
+        "Bte3", 
+        "Bte4"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -182,6 +218,18 @@
     }, 
     {
       "hnrlbls": [
+        "39"
+      ], 
+      "housenumber": "39", 
+      "lat": 50.252357761326, 
+      "lon": 4.91719939548, 
+      "municipality": "Dinant", 
+      "pcode": "5500", 
+      "source": "7749204", 
+      "street": "Rue Alexandre Daoust"
+    }, 
+    {
+      "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
@@ -217,24 +265,15 @@
       "street": "Rue Alexandre Daoust"
     }, 
     {
+      "busnrs": [
+        "Bte1"
+      ], 
       "hnrlbls": [
         "42"
       ], 
       "housenumber": "42", 
       "lat": 50.253617434734, 
       "lon": 4.91751672036, 
-      "municipality": "Dinant", 
-      "pcode": "5500", 
-      "source": "7749204", 
-      "street": "Rue Alexandre Daoust"
-    }, 
-    {
-      "hnrlbls": [
-        "44"
-      ], 
-      "housenumber": "44", 
-      "lat": 50.253562752709, 
-      "lon": 4.917522455593, 
       "municipality": "Dinant", 
       "pcode": "5500", 
       "source": "7749204", 
@@ -265,6 +304,14 @@
       "street": "Rue Alexandre Daoust"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2", 
+        "Bte3", 
+        "Bte4", 
+        "Bte5", 
+        "Bte6"
+      ], 
       "hnrlbls": [
         "47"
       ], 
@@ -277,6 +324,15 @@
       "street": "Rue Alexandre Daoust"
     }, 
     {
+      "busnrs": [
+        "Bt11", 
+        "Bt12", 
+        "Bt21", 
+        "Bt22", 
+        "Bt31", 
+        "Bt32", 
+        "Bte1"
+      ], 
       "hnrlbls": [
         "48"
       ], 
@@ -301,18 +357,11 @@
       "street": "Rue Alexandre Daoust"
     }, 
     {
-      "hnrlbls": [
-        "5"
+      "busnrs": [
+        "Bte1", 
+        "Bte2", 
+        "Bte3"
       ], 
-      "housenumber": "5", 
-      "lat": 50.254563705834, 
-      "lon": 4.917093346873, 
-      "municipality": "Dinant", 
-      "pcode": "5500", 
-      "source": "7749204", 
-      "street": "Rue Alexandre Daoust"
-    }, 
-    {
       "hnrlbls": [
         "51"
       ], 
@@ -337,6 +386,10 @@
       "street": "Rue Alexandre Daoust"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2"
+      ], 
       "hnrlbls": [
         "54"
       ], 
@@ -349,6 +402,10 @@
       "street": "Rue Alexandre Daoust"
     }, 
     {
+      "busnrs": [
+        "Bte3", 
+        "Bte4"
+      ], 
       "hnrlbls": [
         "55"
       ], 
@@ -373,6 +430,12 @@
       "street": "Rue Alexandre Daoust"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2", 
+        "Bte3", 
+        "Bte4"
+      ], 
       "hnrlbls": [
         "58"
       ], 
@@ -385,6 +448,13 @@
       "street": "Rue Alexandre Daoust"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2", 
+        "Bte3", 
+        "Bte4", 
+        "Bte5"
+      ], 
       "hnrlbls": [
         "59"
       ], 
@@ -398,23 +468,11 @@
     }, 
     {
       "hnrlbls": [
-        "6"
-      ], 
-      "housenumber": "6", 
-      "lat": 50.254480299182, 
-      "lon": 4.91742879836, 
-      "municipality": "Dinant", 
-      "pcode": "5500", 
-      "source": "7749204", 
-      "street": "Rue Alexandre Daoust"
-    }, 
-    {
-      "hnrlbls": [
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 50.253069196374, 
-      "lon": 4.91767624301, 
+      "lat": 50.253037938197, 
+      "lon": 4.917603683753, 
       "municipality": "Dinant", 
       "pcode": "5500", 
       "source": "7749204", 
@@ -517,6 +575,14 @@
       "street": "Rue Alexandre Daoust"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2", 
+        "Bte3", 
+        "Bte4", 
+        "Bte5", 
+        "Bte6"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -541,6 +607,10 @@
       "street": "Rue Alexandre Daoust"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2"
+      ], 
       "hnrlbls": [
         "71"
       ], 
@@ -565,6 +635,11 @@
       "street": "Rue Alexandre Daoust"
     }, 
     {
+      "busnrs": [
+        "B", 
+        "Bte1", 
+        "Bte2"
+      ], 
       "hnrlbls": [
         "74"
       ], 
@@ -577,6 +652,10 @@
       "street": "Rue Alexandre Daoust"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2"
+      ], 
       "hnrlbls": [
         "75"
       ], 
@@ -589,6 +668,12 @@
       "street": "Rue Alexandre Daoust"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2", 
+        "Bte3", 
+        "Bte4"
+      ], 
       "hnrlbls": [
         "77"
       ], 
@@ -601,6 +686,9 @@
       "street": "Rue Alexandre Daoust"
     }, 
     {
+      "busnrs": [
+        "Bte1"
+      ], 
       "hnrlbls": [
         "78"
       ], 

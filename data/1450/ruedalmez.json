@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "000", 
+        "101"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -73,6 +77,10 @@
       "street": "Rue d'Almez"
     }, 
     {
+      "busnrs": [
+        "0", 
+        "1"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -173,8 +181,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 50.613782266248, 
-      "lon": 4.653834828582, 
+      "lat": 50.613705621829, 
+      "lon": 4.653612773438, 
       "municipality": "Chastre", 
       "pcode": "1450", 
       "source": "7705251", 
@@ -193,6 +201,10 @@
       "street": "Rue d'Almez"
     }, 
     {
+      "busnrs": [
+        "0", 
+        "A"
+      ], 
       "hnrlbls": [
         "4"
       ], 

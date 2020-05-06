@@ -265,12 +265,30 @@
       "street": "Rue de L\u00e0-Haut"
     }, 
     {
+      "busnrs": [
+        "Apt1", 
+        "Apt2", 
+        "Apt3", 
+        "Apt4"
+      ], 
       "hnrlbls": [
         "13"
       ], 
       "housenumber": "13", 
       "lat": 50.396535115666, 
       "lon": 3.752468626076, 
+      "municipality": "Dour", 
+      "pcode": "7370", 
+      "source": "7712159", 
+      "street": "Rue de L\u00e0-Haut"
+    }, 
+    {
+      "hnrlbls": [
+        "130"
+      ], 
+      "housenumber": "130", 
+      "lat": 50.395008451323, 
+      "lon": 3.756947242307, 
       "municipality": "Dour", 
       "pcode": "7370", 
       "source": "7712159", 
@@ -547,6 +565,18 @@
       "housenumber": "159", 
       "lat": 50.394955144278, 
       "lon": 3.756351913208, 
+      "municipality": "Dour", 
+      "pcode": "7370", 
+      "source": "7712159", 
+      "street": "Rue de L\u00e0-Haut"
+    }, 
+    {
+      "hnrlbls": [
+        "16"
+      ], 
+      "housenumber": "16", 
+      "lat": 50.397078115807, 
+      "lon": 3.752163636382, 
       "municipality": "Dour", 
       "pcode": "7370", 
       "source": "7712159", 
@@ -1369,6 +1399,10 @@
       "street": "Rue de L\u00e0-Haut"
     }, 
     {
+      "busnrs": [
+        "Et.1", 
+        "rez"
+      ], 
       "hnrlbls": [
         "84"
       ], 
@@ -1393,6 +1427,10 @@
       "street": "Rue de L\u00e0-Haut"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2"
+      ], 
       "hnrlbls": [
         "86"
       ], 

@@ -17,8 +17,8 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 50.739094039405, 
-      "lon": 5.029011144235, 
+      "lat": 50.739071936751, 
+      "lon": 5.028923681632, 
       "municipality": "Lincent", 
       "pcode": "4287", 
       "source": "7740733", 
@@ -49,6 +49,10 @@
       "street": "Rue Saint-Christophe"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -61,6 +65,9 @@
       "street": "Rue Saint-Christophe"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -133,6 +140,10 @@
       "street": "Rue Saint-Christophe"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0003"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -175,6 +186,18 @@
       "housenumber": "8", 
       "lat": 50.738896657082, 
       "lon": 5.029535621087, 
+      "municipality": "Lincent", 
+      "pcode": "4287", 
+      "source": "7740733", 
+      "street": "Rue Saint-Christophe"
+    }, 
+    {
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.739121059728, 
+      "lon": 5.02910160575, 
       "municipality": "Lincent", 
       "pcode": "4287", 
       "source": "7740733", 

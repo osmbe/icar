@@ -17,8 +17,8 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 50.611770404981, 
-      "lon": 4.136229026597, 
+      "lat": 50.611773901801, 
+      "lon": 4.136193122293, 
       "municipality": "Braine-le-Comte", 
       "pcode": "7090", 
       "source": "7716683", 
@@ -41,8 +41,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 50.611868094889, 
-      "lon": 4.136276217883, 
+      "lat": 50.611870159658, 
+      "lon": 4.136238076878, 
       "municipality": "Braine-le-Comte", 
       "pcode": "7090", 
       "source": "7716683", 
@@ -50,11 +50,27 @@
     }, 
     {
       "hnrlbls": [
+        "13A"
+      ], 
+      "housenumber": "13A", 
+      "lat": 50.612022226078, 
+      "lon": 4.136352317112, 
+      "municipality": "Braine-le-Comte", 
+      "pcode": "7090", 
+      "source": "7716683", 
+      "street": "Rue Mayeur Etienne"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
+      "hnrlbls": [
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.611980591458, 
-      "lon": 4.136477397814, 
+      "lat": 50.612352359942, 
+      "lon": 4.13647221135, 
       "municipality": "Braine-le-Comte", 
       "pcode": "7090", 
       "source": "7716683", 
@@ -65,8 +81,8 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 50.612371141471, 
-      "lon": 4.136479199313, 
+      "lat": 50.61238969944, 
+      "lon": 4.136481352027, 
       "municipality": "Braine-le-Comte", 
       "pcode": "7090", 
       "source": "7716683", 
@@ -85,6 +101,10 @@
       "street": "Rue Mayeur Etienne"
     }, 
     {
+      "busnrs": [
+        "Et.1", 
+        "Et.2"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -97,6 +117,11 @@
       "street": "Rue Mayeur Etienne"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -145,6 +170,10 @@
       "street": "Rue Mayeur Etienne"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -194,6 +223,18 @@
     }, 
     {
       "hnrlbls": [
+        "2A"
+      ], 
+      "housenumber": "2A", 
+      "lat": 50.611280859904, 
+      "lon": 4.135690738079, 
+      "municipality": "Braine-le-Comte", 
+      "pcode": "7090", 
+      "source": "7716683", 
+      "street": "Rue Mayeur Etienne"
+    }, 
+    {
+      "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
@@ -229,6 +270,10 @@
       "street": "Rue Mayeur Etienne"
     }, 
     {
+      "busnrs": [
+        "Bt.1", 
+        "Bt.2"
+      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -265,6 +310,11 @@
       "street": "Rue Mayeur Etienne"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -289,12 +339,60 @@
       "street": "Rue Mayeur Etienne"
     }, 
     {
+      "busnrs": [
+        "Et.2"
+      ], 
       "hnrlbls": [
         "42"
       ], 
       "housenumber": "42", 
       "lat": 50.612349042464, 
       "lon": 4.136116362678, 
+      "municipality": "Braine-le-Comte", 
+      "pcode": "7090", 
+      "source": "7716683", 
+      "street": "Rue Mayeur Etienne"
+    }, 
+    {
+      "busnrs": [
+        "Bt.3"
+      ], 
+      "hnrlbls": [
+        "44"
+      ], 
+      "housenumber": "44", 
+      "lat": 50.612402856922, 
+      "lon": 4.136138488679, 
+      "municipality": "Braine-le-Comte", 
+      "pcode": "7090", 
+      "source": "7716683", 
+      "street": "Rue Mayeur Etienne"
+    }, 
+    {
+      "busnrs": [
+        "Bt.1", 
+        "Bt.2", 
+        "Bt.4", 
+        "Bt.5"
+      ], 
+      "hnrlbls": [
+        "46"
+      ], 
+      "housenumber": "46", 
+      "lat": 50.612435001658, 
+      "lon": 4.136155154273, 
+      "municipality": "Braine-le-Comte", 
+      "pcode": "7090", 
+      "source": "7716683", 
+      "street": "Rue Mayeur Etienne"
+    }, 
+    {
+      "hnrlbls": [
+        "4A"
+      ], 
+      "housenumber": "4A", 
+      "lat": 50.611333927224, 
+      "lon": 4.135673056428, 
       "municipality": "Braine-le-Comte", 
       "pcode": "7090", 
       "source": "7716683", 
@@ -325,6 +423,11 @@
       "street": "Rue Mayeur Etienne"
     }, 
     {
+      "busnrs": [
+        "Et.1", 
+        "Et.2", 
+        "R.C."
+      ], 
       "hnrlbls": [
         "52"
       ], 
@@ -397,6 +500,10 @@
       "street": "Rue Mayeur Etienne"
     }, 
     {
+      "busnrs": [
+        "Et.2", 
+        "R.C."
+      ], 
       "hnrlbls": [
         "8"
       ], 

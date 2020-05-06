@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -85,6 +90,11 @@
       "street": "Rue de l'Usine"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -158,6 +168,18 @@
     }, 
     {
       "hnrlbls": [
+        "21"
+      ], 
+      "housenumber": "21", 
+      "lat": 50.631688643242, 
+      "lon": 5.58501966836, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730478", 
+      "street": "Rue de l'Usine"
+    }, 
+    {
+      "hnrlbls": [
         "22"
       ], 
       "housenumber": "22", 
@@ -169,6 +191,12 @@
       "street": "Rue de l'Usine"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -211,6 +239,18 @@
       "housenumber": "32", 
       "lat": 50.632113711223, 
       "lon": 5.585724056918, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730478", 
+      "street": "Rue de l'Usine"
+    }, 
+    {
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.631846823125, 
+      "lon": 5.586442101454, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730478", 

@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "001", 
+        "011"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -43,6 +47,18 @@
       "housenumber": "19", 
       "lat": 50.60381507044, 
       "lon": 5.682217183594, 
+      "municipality": "Fl\u00e9ron", 
+      "pcode": "4623", 
+      "source": "7728891", 
+      "street": "Rue de la Carri\u00e8re"
+    }, 
+    {
+      "hnrlbls": [
+        "20"
+      ], 
+      "housenumber": "20", 
+      "lat": 50.603541557609, 
+      "lon": 5.682299261081, 
       "municipality": "Fl\u00e9ron", 
       "pcode": "4623", 
       "source": "7728891", 
@@ -121,6 +137,9 @@
       "street": "Rue de la Carri\u00e8re"
     }, 
     {
+      "busnrs": [
+        "011"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -301,6 +320,11 @@
       "street": "Rue de la Carri\u00e8re"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B", 
+        "C"
+      ], 
       "hnrlbls": [
         "59"
       ], 

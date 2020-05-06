@@ -49,6 +49,11 @@
       "street": "Rue Jules-Verne"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -206,6 +211,18 @@
     }, 
     {
       "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 50.612234565105, 
+      "lon": 5.595677243196, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4031", 
+      "source": "7731116", 
+      "street": "Rue Jules-Verne"
+    }, 
+    {
+      "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
@@ -229,6 +246,10 @@
       "street": "Rue Jules-Verne"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0021"
+      ], 
       "hnrlbls": [
         "9"
       ], 

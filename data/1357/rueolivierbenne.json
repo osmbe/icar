@@ -85,6 +85,9 @@
       "street": "Rue Olivier Benne"
     }, 
     {
+      "busnrs": [
+        "Bte2"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -205,6 +208,11 @@
       "street": "Rue Olivier Benne"
     }, 
     {
+      "busnrs": [
+        "Bte2", 
+        "Bte3", 
+        "bte1"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -353,8 +361,8 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 50.745412314977, 
-      "lon": 4.972623517984, 
+      "lat": 50.745646687855, 
+      "lon": 4.971880226314, 
       "municipality": "H\u00e9l\u00e9cine", 
       "pcode": "1357", 
       "source": "7705423", 
@@ -397,6 +405,10 @@
       "street": "Rue Olivier Benne"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2"
+      ], 
       "hnrlbls": [
         "41"
       ], 

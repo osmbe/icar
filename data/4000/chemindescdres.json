@@ -25,6 +25,13 @@
       "street": "Chemin des C\u00e8dres"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -121,12 +128,28 @@
       "street": "Chemin des C\u00e8dres"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "37"
       ], 
       "housenumber": "37", 
       "lat": 50.616816381357, 
       "lon": 5.571875231538, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729723", 
+      "street": "Chemin des C\u00e8dres"
+    }, 
+    {
+      "hnrlbls": [
+        "39"
+      ], 
+      "housenumber": "39", 
+      "lat": 50.616676230872, 
+      "lon": 5.571919270736, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7729723", 
@@ -151,6 +174,21 @@
       "housenumber": "42", 
       "lat": 50.616794059478, 
       "lon": 5.571357075093, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729723", 
+      "street": "Chemin des C\u00e8dres"
+    }, 
+    {
+      "busnrs": [
+        "0011"
+      ], 
+      "hnrlbls": [
+        "43"
+      ], 
+      "housenumber": "43", 
+      "lat": 50.616241792471, 
+      "lon": 5.572004861281, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7729723", 
@@ -182,11 +220,126 @@
     }, 
     {
       "hnrlbls": [
+        "49"
+      ], 
+      "housenumber": "49", 
+      "lat": 50.615828683315, 
+      "lon": 5.571722436665, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729723", 
+      "street": "Chemin des C\u00e8dres"
+    }, 
+    {
+      "hnrlbls": [
+        "51"
+      ], 
+      "housenumber": "51", 
+      "lat": 50.614750805368, 
+      "lon": 5.569327738896, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729723", 
+      "street": "Chemin des C\u00e8dres"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0022", 
+        "0023"
+      ], 
+      "hnrlbls": [
         "52"
       ], 
       "housenumber": "52", 
       "lat": 50.615801833749, 
       "lon": 5.570957901195, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729723", 
+      "street": "Chemin des C\u00e8dres"
+    }, 
+    {
+      "hnrlbls": [
+        "52B"
+      ], 
+      "housenumber": "52B", 
+      "lat": 50.615403111081, 
+      "lon": 5.570494573692, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729723", 
+      "street": "Chemin des C\u00e8dres"
+    }, 
+    {
+      "hnrlbls": [
+        "53"
+      ], 
+      "housenumber": "53", 
+      "lat": 50.614794713662, 
+      "lon": 5.569224254261, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729723", 
+      "street": "Chemin des C\u00e8dres"
+    }, 
+    {
+      "hnrlbls": [
+        "55"
+      ], 
+      "housenumber": "55", 
+      "lat": 50.614912162932, 
+      "lon": 5.569005248758, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729723", 
+      "street": "Chemin des C\u00e8dres"
+    }, 
+    {
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 50.615162807553, 
+      "lon": 5.570206192455, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729723", 
+      "street": "Chemin des C\u00e8dres"
+    }, 
+    {
+      "hnrlbls": [
+        "70"
+      ], 
+      "housenumber": "70", 
+      "lat": 50.615164680759, 
+      "lon": 5.570205024808, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729723", 
+      "street": "Chemin des C\u00e8dres"
+    }, 
+    {
+      "hnrlbls": [
+        "74"
+      ], 
+      "housenumber": "74", 
+      "lat": 50.615079918338, 
+      "lon": 5.56966838365, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729723", 
+      "street": "Chemin des C\u00e8dres"
+    }, 
+    {
+      "hnrlbls": [
+        "76"
+      ], 
+      "housenumber": "76", 
+      "lat": 50.615098958602, 
+      "lon": 5.569452117946, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7729723", 

@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -25,6 +30,10 @@
       "street": "Chauss\u00e9e de Tongres"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "100"
       ], 
@@ -49,12 +58,44 @@
       "street": "Chauss\u00e9e de Tongres"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0015", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024", 
+        "0025", 
+        "0031", 
+        "0032", 
+        "0033", 
+        "0034", 
+        "0035", 
+        "0041", 
+        "0042", 
+        "0043"
+      ], 
       "hnrlbls": [
         "104"
       ], 
       "housenumber": "104", 
       "lat": 50.66685990529, 
       "lon": 5.558099364147, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
+        "106"
+      ], 
+      "housenumber": "106", 
+      "lat": 50.66689270626, 
+      "lon": 5.558016242819, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7729709", 
@@ -185,8 +226,8 @@
         "126"
       ], 
       "housenumber": "126", 
-      "lat": 50.667282309104, 
-      "lon": 5.557219609088, 
+      "lat": 50.667265408048, 
+      "lon": 5.557144316413, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7729709", 
@@ -245,8 +286,8 @@
         "131"
       ], 
       "housenumber": "131", 
-      "lat": 50.666880992604, 
-      "lon": 5.557180762735, 
+      "lat": 50.666921093667, 
+      "lon": 5.557246920475, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7729709", 
@@ -289,6 +330,11 @@
       "street": "Chauss\u00e9e de Tongres"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "139"
       ], 
@@ -331,6 +377,18 @@
       "housenumber": "141", 
       "lat": 50.667045516185, 
       "lon": 5.556972674211, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
+        "146"
+      ], 
+      "housenumber": "146", 
+      "lat": 50.667774708758, 
+      "lon": 5.556329420336, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7729709", 
@@ -505,6 +563,11 @@
       "street": "Chauss\u00e9e de Tongres"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "A000"
+      ], 
       "hnrlbls": [
         "175"
       ], 
@@ -577,6 +640,10 @@
       "street": "Chauss\u00e9e de Tongres"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "182"
       ], 
@@ -710,6 +777,18 @@
     }, 
     {
       "hnrlbls": [
+        "192"
+      ], 
+      "housenumber": "192", 
+      "lat": 50.668251454829, 
+      "lon": 5.554513760383, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
         "193"
       ], 
       "housenumber": "193", 
@@ -721,6 +800,13 @@
       "street": "Chauss\u00e9e de Tongres"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "194"
       ], 
@@ -757,6 +843,11 @@
       "street": "Chauss\u00e9e de Tongres"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "197"
       ], 
@@ -769,6 +860,36 @@
       "street": "Chauss\u00e9e de Tongres"
     }, 
     {
+      "hnrlbls": [
+        "198"
+      ], 
+      "housenumber": "198", 
+      "lat": 50.668388976902, 
+      "lon": 5.554305317349, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
+        "199"
+      ], 
+      "housenumber": "199", 
+      "lat": 50.668463333709, 
+      "lon": 5.552165778418, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -847,6 +968,18 @@
       "housenumber": "211", 
       "lat": 50.668823060239, 
       "lon": 5.551790146599, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
+        "213"
+      ], 
+      "housenumber": "213", 
+      "lat": 50.668867597127, 
+      "lon": 5.551643308119, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7729709", 
@@ -962,6 +1095,18 @@
     }, 
     {
       "hnrlbls": [
+        "235"
+      ], 
+      "housenumber": "235", 
+      "lat": 50.669095360422, 
+      "lon": 5.550886744134, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
         "237"
       ], 
       "housenumber": "237", 
@@ -1069,6 +1214,10 @@
       "street": "Chauss\u00e9e de Tongres"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "255"
       ], 
@@ -1117,6 +1266,11 @@
       "street": "Chauss\u00e9e de Tongres"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -1129,12 +1283,28 @@
       "street": "Chauss\u00e9e de Tongres"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "260"
       ], 
       "housenumber": "260", 
       "lat": 50.669188878964, 
       "lon": 5.55152570728, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
+        "261"
+      ], 
+      "housenumber": "261", 
+      "lat": 50.669924854457, 
+      "lon": 5.549960362801, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7729709", 
@@ -1178,11 +1348,74 @@
     }, 
     {
       "hnrlbls": [
+        "268"
+      ], 
+      "housenumber": "268", 
+      "lat": 50.669273845013, 
+      "lon": 5.551214069838, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "busnrs": [
+        "0011"
+      ], 
+      "hnrlbls": [
         "269"
       ], 
       "housenumber": "269", 
       "lat": 50.670247412843, 
       "lon": 5.543561002441, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
+        "270"
+      ], 
+      "housenumber": "270", 
+      "lat": 50.669314077462, 
+      "lon": 5.55125426795, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
+        "274"
+      ], 
+      "housenumber": "274", 
+      "lat": 50.669404513757, 
+      "lon": 5.551344393455, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
+        "275"
+      ], 
+      "housenumber": "275", 
+      "lat": 50.670555320195, 
+      "lon": 5.548220204606, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
+        "277"
+      ], 
+      "housenumber": "277", 
+      "lat": 50.670561550371, 
+      "lon": 5.548448993991, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7729709", 
@@ -1202,11 +1435,47 @@
     }, 
     {
       "hnrlbls": [
+        "279"
+      ], 
+      "housenumber": "279", 
+      "lat": 50.670883899201, 
+      "lon": 5.549060904146, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
+        "279B"
+      ], 
+      "housenumber": "279B", 
+      "lat": 50.670616778909, 
+      "lon": 5.54867801913, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
         "28"
       ], 
       "housenumber": "28", 
       "lat": 50.664763493287, 
       "lon": 5.560934343494, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
+        "281"
+      ], 
+      "housenumber": "281", 
+      "lat": 50.670899249773, 
+      "lon": 5.549105982604, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7729709", 
@@ -1286,6 +1555,30 @@
     }, 
     {
       "hnrlbls": [
+        "290"
+      ], 
+      "housenumber": "290", 
+      "lat": 50.671224755047, 
+      "lon": 5.554039742415, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
+        "292"
+      ], 
+      "housenumber": "292", 
+      "lat": 50.669735730579, 
+      "lon": 5.55056872356, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
         "293"
       ], 
       "housenumber": "293", 
@@ -1297,6 +1590,10 @@
       "street": "Chauss\u00e9e de Tongres"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "294"
       ], 
@@ -1321,6 +1618,10 @@
       "street": "Chauss\u00e9e de Tongres"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0012"
+      ], 
       "hnrlbls": [
         "296"
       ], 
@@ -1369,6 +1670,22 @@
       "street": "Chauss\u00e9e de Tongres"
     }, 
     {
+      "hnrlbls": [
+        "30"
+      ], 
+      "housenumber": "30", 
+      "lat": 50.664901069646, 
+      "lon": 5.561345083663, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "306"
       ], 
@@ -1562,6 +1879,23 @@
     }, 
     {
       "hnrlbls": [
+        "326"
+      ], 
+      "housenumber": "326", 
+      "lat": 50.671128832036, 
+      "lon": 5.550907869122, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
+      "hnrlbls": [
         "327"
       ], 
       "housenumber": "327", 
@@ -1591,6 +1925,18 @@
       "housenumber": "33", 
       "lat": 50.664836444298, 
       "lon": 5.560344527042, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
+        "330"
+      ], 
+      "housenumber": "330", 
+      "lat": 50.671176773171, 
+      "lon": 5.549547367281, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7729709", 
@@ -1634,6 +1980,18 @@
     }, 
     {
       "hnrlbls": [
+        "336"
+      ], 
+      "housenumber": "336", 
+      "lat": 50.671176773171, 
+      "lon": 5.549547367281, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
         "337"
       ], 
       "housenumber": "337", 
@@ -1670,11 +2028,47 @@
     }, 
     {
       "hnrlbls": [
+        "340"
+      ], 
+      "housenumber": "340", 
+      "lat": 50.671466996264, 
+      "lon": 5.549333849173, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
         "342"
       ], 
       "housenumber": "342", 
       "lat": 50.671585142262, 
       "lon": 5.549113372397, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
+        "343"
+      ], 
+      "housenumber": "343", 
+      "lat": 50.673888954984, 
+      "lon": 5.546412734422, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
+        "345"
+      ], 
+      "housenumber": "345", 
+      "lat": 50.673923777205, 
+      "lon": 5.546700661463, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7729709", 
@@ -1717,12 +2111,29 @@
       "street": "Chauss\u00e9e de Tongres"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "35"
       ], 
       "housenumber": "35", 
       "lat": 50.664894306882, 
       "lon": 5.560276204573, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
+        "350"
+      ], 
+      "housenumber": "350", 
+      "lat": 50.671895414561, 
+      "lon": 5.548884281691, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7729709", 
@@ -1741,6 +2152,13 @@
       "street": "Chauss\u00e9e de Tongres"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "355"
       ], 
@@ -1753,6 +2171,11 @@
       "street": "Chauss\u00e9e de Tongres"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "357"
       ], 
@@ -1873,6 +2296,12 @@
       "street": "Chauss\u00e9e de Tongres"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "368"
       ], 
@@ -1910,6 +2339,18 @@
     }, 
     {
       "hnrlbls": [
+        "370"
+      ], 
+      "housenumber": "370", 
+      "lat": 50.673472576774, 
+      "lon": 5.548432374952, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
         "371"
       ], 
       "housenumber": "371", 
@@ -1933,6 +2374,11 @@
       "street": "Chauss\u00e9e de Tongres"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "373"
       ], 
@@ -1982,6 +2428,18 @@
     }, 
     {
       "hnrlbls": [
+        "379"
+      ], 
+      "housenumber": "379", 
+      "lat": 50.675155175044, 
+      "lon": 5.546184972026, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
         "382"
       ], 
       "housenumber": "382", 
@@ -2006,6 +2464,18 @@
     }, 
     {
       "hnrlbls": [
+        "385"
+      ], 
+      "housenumber": "385", 
+      "lat": 50.67543027547, 
+      "lon": 5.546059939557, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
         "386"
       ], 
       "housenumber": "386", 
@@ -2023,6 +2493,18 @@
       "housenumber": "388", 
       "lat": 50.674068542762, 
       "lon": 5.547348362102, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
+        "389"
+      ], 
+      "housenumber": "389", 
+      "lat": 50.675504670077, 
+      "lon": 5.546000798259, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7729709", 
@@ -2066,6 +2548,18 @@
     }, 
     {
       "hnrlbls": [
+        "393"
+      ], 
+      "housenumber": "393", 
+      "lat": 50.675576052188, 
+      "lon": 5.5459256491, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
         "394"
       ], 
       "housenumber": "394", 
@@ -2077,12 +2571,30 @@
       "street": "Chauss\u00e9e de Tongres"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "395"
       ], 
       "housenumber": "395", 
       "lat": 50.675924827298, 
       "lon": 5.545728110626, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
+        "395A"
+      ], 
+      "housenumber": "395A", 
+      "lat": 50.675965796288, 
+      "lon": 5.545677571709, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7729709", 
@@ -2149,6 +2661,11 @@
       "street": "Chauss\u00e9e de Tongres"
     }, 
     {
+      "busnrs": [
+        "A001", 
+        "A011", 
+        "A021"
+      ], 
       "hnrlbls": [
         "404"
       ], 
@@ -2162,6 +2679,23 @@
     }, 
     {
       "hnrlbls": [
+        "404A"
+      ], 
+      "housenumber": "404A", 
+      "lat": 50.674556730927, 
+      "lon": 5.547085346722, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
+      "hnrlbls": [
         "406"
       ], 
       "housenumber": "406", 
@@ -2173,6 +2707,13 @@
       "street": "Chauss\u00e9e de Tongres"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "408"
       ], 
@@ -2186,11 +2727,51 @@
     }, 
     {
       "hnrlbls": [
+        "409"
+      ], 
+      "housenumber": "409", 
+      "lat": 50.676170622885, 
+      "lon": 5.545480201034, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
+      "hnrlbls": [
         "41"
       ], 
       "housenumber": "41", 
       "lat": 50.665089413742, 
       "lon": 5.560031221711, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
+        "410"
+      ], 
+      "housenumber": "410", 
+      "lat": 50.674787504513, 
+      "lon": 5.546945375327, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
+        "412"
+      ], 
+      "housenumber": "412", 
+      "lat": 50.674923525698, 
+      "lon": 5.54701796487, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7729709", 
@@ -2209,6 +2790,35 @@
       "street": "Chauss\u00e9e de Tongres"
     }, 
     {
+      "hnrlbls": [
+        "424"
+      ], 
+      "housenumber": "424", 
+      "lat": 50.675352959834, 
+      "lon": 5.546685994219, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
+        "428"
+      ], 
+      "housenumber": "428", 
+      "lat": 50.675369751101, 
+      "lon": 5.546714019487, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011"
+      ], 
       "hnrlbls": [
         "43"
       ], 
@@ -2258,6 +2868,18 @@
     }, 
     {
       "hnrlbls": [
+        "438"
+      ], 
+      "housenumber": "438", 
+      "lat": 50.676472736396, 
+      "lon": 5.54580880186, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
         "439"
       ], 
       "housenumber": "439", 
@@ -2294,6 +2916,18 @@
     }, 
     {
       "hnrlbls": [
+        "441"
+      ], 
+      "housenumber": "441", 
+      "lat": 50.676914310919, 
+      "lon": 5.5449996344, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
         "442"
       ], 
       "housenumber": "442", 
@@ -2317,6 +2951,70 @@
       "street": "Chauss\u00e9e de Tongres"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024", 
+        "0031", 
+        "0032"
+      ], 
+      "hnrlbls": [
+        "443C"
+      ], 
+      "housenumber": "443C", 
+      "lat": 50.676526313225, 
+      "lon": 5.543457582362, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
+      "hnrlbls": [
+        "443E"
+      ], 
+      "housenumber": "443E", 
+      "lat": 50.676919187836, 
+      "lon": 5.543374522728, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
+        "444"
+      ], 
+      "housenumber": "444", 
+      "lat": 50.676700930293, 
+      "lon": 5.545650741299, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "445"
       ], 
@@ -2354,6 +3052,81 @@
     }, 
     {
       "hnrlbls": [
+        "448"
+      ], 
+      "housenumber": "448", 
+      "lat": 50.67682872904, 
+      "lon": 5.545573092465, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "busnrs": [
+        "0001"
+      ], 
+      "hnrlbls": [
+        "449"
+      ], 
+      "housenumber": "449", 
+      "lat": 50.677127968041, 
+      "lon": 5.543553223814, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
+        "449B"
+      ], 
+      "housenumber": "449B", 
+      "lat": 50.677076608858, 
+      "lon": 5.543644626954, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
+        "449C"
+      ], 
+      "housenumber": "449C", 
+      "lat": 50.67702365228, 
+      "lon": 5.543590952182, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
+        "449D"
+      ], 
+      "housenumber": "449D", 
+      "lat": 50.677186810362, 
+      "lon": 5.543450828352, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
+        "449E"
+      ], 
+      "housenumber": "449E", 
+      "lat": 50.677120795551, 
+      "lon": 5.543390319313, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
         "450"
       ], 
       "housenumber": "450", 
@@ -2371,6 +3144,18 @@
       "housenumber": "451", 
       "lat": 50.677181000078, 
       "lon": 5.543914834738, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
+        "452"
+      ], 
+      "housenumber": "452", 
+      "lat": 50.676891393978, 
+      "lon": 5.545555497464, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7729709", 
@@ -2413,6 +3198,10 @@
       "street": "Chauss\u00e9e de Tongres"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "456"
       ], 
@@ -2437,6 +3226,10 @@
       "street": "Chauss\u00e9e de Tongres"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "458"
       ], 
@@ -2473,6 +3266,11 @@
       "street": "Chauss\u00e9e de Tongres"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "460"
       ], 
@@ -2521,6 +3319,11 @@
       "street": "Chauss\u00e9e de Tongres"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "464"
       ], 
@@ -2569,6 +3372,12 @@
       "street": "Chauss\u00e9e de Tongres"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "468"
       ], 
@@ -2641,6 +3450,11 @@
       "street": "Chauss\u00e9e de Tongres"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "475"
       ], 
@@ -2666,6 +3480,29 @@
     }, 
     {
       "hnrlbls": [
+        "477"
+      ], 
+      "housenumber": "477", 
+      "lat": 50.677943985337, 
+      "lon": 5.544411680238, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0041", 
+        "0042"
+      ], 
+      "hnrlbls": [
         "478"
       ], 
       "housenumber": "478", 
@@ -2678,6 +3515,97 @@
     }, 
     {
       "hnrlbls": [
+        "479"
+      ], 
+      "housenumber": "479", 
+      "lat": 50.677987504705, 
+      "lon": 5.54438460627, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
+        "480"
+      ], 
+      "housenumber": "480", 
+      "lat": 50.677829190478, 
+      "lon": 5.545177461205, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
+        "480A"
+      ], 
+      "housenumber": "480A", 
+      "lat": 50.67798917021, 
+      "lon": 5.54557610585, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
+        "480B"
+      ], 
+      "housenumber": "480B", 
+      "lat": 50.677958454672, 
+      "lon": 5.545617365643, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
+        "480C"
+      ], 
+      "housenumber": "480C", 
+      "lat": 50.677922238866, 
+      "lon": 5.545660186122, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
+        "480D"
+      ], 
+      "housenumber": "480D", 
+      "lat": 50.677891523299, 
+      "lon": 5.545701445802, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
+        "481"
+      ], 
+      "housenumber": "481", 
+      "lat": 50.678064869902, 
+      "lon": 5.544335735621, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
+      "hnrlbls": [
         "482"
       ], 
       "housenumber": "482", 
@@ -2689,6 +3617,13 @@
       "street": "Chauss\u00e9e de Tongres"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "484"
       ], 
@@ -2701,6 +3636,22 @@
       "street": "Chauss\u00e9e de Tongres"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "486"
       ], 
@@ -2750,6 +3701,30 @@
     }, 
     {
       "hnrlbls": [
+        "48A"
+      ], 
+      "housenumber": "48A", 
+      "lat": 50.665556549232, 
+      "lon": 5.560096906252, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
+        "48B"
+      ], 
+      "housenumber": "48B", 
+      "lat": 50.665633323716, 
+      "lon": 5.559983267376, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
         "490"
       ], 
       "housenumber": "490", 
@@ -2774,6 +3749,18 @@
     }, 
     {
       "hnrlbls": [
+        "492"
+      ], 
+      "housenumber": "492", 
+      "lat": 50.67812304072, 
+      "lon": 5.544719840425, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
         "493"
       ], 
       "housenumber": "493", 
@@ -2785,6 +3772,16 @@
       "street": "Chauss\u00e9e de Tongres"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031"
+      ], 
       "hnrlbls": [
         "494"
       ], 
@@ -2797,6 +3794,11 @@
       "street": "Chauss\u00e9e de Tongres"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "496"
       ], 
@@ -2834,11 +3836,71 @@
     }, 
     {
       "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 50.664050340186, 
+      "lon": 5.56125377368, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
+        "50"
+      ], 
+      "housenumber": "50", 
+      "lat": 50.66608504673, 
+      "lon": 5.560713335637, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
+        "500"
+      ], 
+      "housenumber": "500", 
+      "lat": 50.678343993436, 
+      "lon": 5.544597672135, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
+        "502"
+      ], 
+      "housenumber": "502", 
+      "lat": 50.678394397503, 
+      "lon": 5.544611919327, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
         "503"
       ], 
       "housenumber": "503", 
       "lat": 50.67971028303, 
       "lon": 5.543242588027, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
+        "504"
+      ], 
+      "housenumber": "504", 
+      "lat": 50.678427701482, 
+      "lon": 5.54466715847, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7729709", 
@@ -3049,6 +4111,10 @@
       "street": "Chauss\u00e9e de Tongres"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "53"
       ], 
@@ -3146,11 +4212,35 @@
     }, 
     {
       "hnrlbls": [
+        "542"
+      ], 
+      "housenumber": "542", 
+      "lat": 50.680474975802, 
+      "lon": 5.543334870119, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
         "545"
       ], 
       "housenumber": "545", 
       "lat": 50.681362606141, 
       "lon": 5.542162116974, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
+        "546"
+      ], 
+      "housenumber": "546", 
+      "lat": 50.680495162637, 
+      "lon": 5.54333288247, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7729709", 
@@ -3175,6 +4265,37 @@
       "housenumber": "551", 
       "lat": 50.681619911236, 
       "lon": 5.54190880042, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
+      "hnrlbls": [
+        "552"
+      ], 
+      "housenumber": "552", 
+      "lat": 50.680649580232, 
+      "lon": 5.543158850031, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
+        "553"
+      ], 
+      "housenumber": "553", 
+      "lat": 50.681680197129, 
+      "lon": 5.541452105606, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7729709", 
@@ -3326,6 +4447,18 @@
     }, 
     {
       "hnrlbls": [
+        "592"
+      ], 
+      "housenumber": "592", 
+      "lat": 50.681242707427, 
+      "lon": 5.542676914677, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
         "593"
       ], 
       "housenumber": "593", 
@@ -3373,6 +4506,10 @@
       "street": "Chauss\u00e9e de Tongres"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "598"
       ], 
@@ -3517,12 +4654,27 @@
       "street": "Chauss\u00e9e de Tongres"
     }, 
     {
+      "busnrs": [
+        "A011"
+      ], 
       "hnrlbls": [
         "614"
       ], 
       "housenumber": "614", 
       "lat": 50.681971567253, 
       "lon": 5.542381339067, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
+        "614A"
+      ], 
+      "housenumber": "614A", 
+      "lat": 50.681960586186, 
+      "lon": 5.542422798517, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7729709", 
@@ -3583,6 +4735,26 @@
       "housenumber": "621", 
       "lat": 50.683438949979, 
       "lon": 5.540643710377, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0021"
+      ], 
+      "hnrlbls": [
+        "624"
+      ], 
+      "housenumber": "624", 
+      "lat": 50.682532303471, 
+      "lon": 5.542299619133, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7729709", 
@@ -3686,6 +4858,18 @@
     }, 
     {
       "hnrlbls": [
+        "65"
+      ], 
+      "housenumber": "65", 
+      "lat": 50.665742431853, 
+      "lon": 5.559229457568, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
         "650"
       ], 
       "housenumber": "650", 
@@ -3715,6 +4899,30 @@
       "housenumber": "654", 
       "lat": 50.684533227443, 
       "lon": 5.542183920142, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
+        "656"
+      ], 
+      "housenumber": "656", 
+      "lat": 50.683780644746, 
+      "lon": 5.541116675112, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
+        "658"
+      ], 
+      "housenumber": "658", 
+      "lat": 50.683775589064, 
+      "lon": 5.541134862144, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7729709", 
@@ -3829,6 +5037,10 @@
       "street": "Chauss\u00e9e de Tongres"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -3853,6 +5065,12 @@
       "street": "Chauss\u00e9e de Tongres"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "73"
       ], 
@@ -3866,11 +5084,59 @@
     }, 
     {
       "hnrlbls": [
+        "74"
+      ], 
+      "housenumber": "74", 
+      "lat": 50.6659812243, 
+      "lon": 5.55948528929, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0041", 
+        "0042", 
+        "A011", 
+        "B011"
+      ], 
+      "hnrlbls": [
         "75"
       ], 
       "housenumber": "75", 
       "lat": 50.665913216294, 
       "lon": 5.558923544563, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
+        "75A"
+      ], 
+      "housenumber": "75A", 
+      "lat": 50.665776182501, 
+      "lon": 5.558829250214, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
+        "75B"
+      ], 
+      "housenumber": "75B", 
+      "lat": 50.665633657132, 
+      "lon": 5.558654478908, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7729709", 
@@ -3967,6 +5233,18 @@
       "housenumber": "85", 
       "lat": 50.665865128344, 
       "lon": 5.558120140146, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729709", 
+      "street": "Chauss\u00e9e de Tongres"
+    }, 
+    {
+      "hnrlbls": [
+        "90"
+      ], 
+      "housenumber": "90", 
+      "lat": 50.666437983961, 
+      "lon": 5.558716775473, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7729709", 

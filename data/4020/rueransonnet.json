@@ -1,12 +1,30 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "15"
       ], 
       "housenumber": "15", 
       "lat": 50.644105367645, 
       "lon": 5.587027660601, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7731269", 
+      "street": "Rue Ransonnet"
+    }, 
+    {
+      "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 50.644574746919, 
+      "lon": 5.586835182234, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7731269", 

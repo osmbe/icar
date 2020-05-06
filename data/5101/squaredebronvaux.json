@@ -1,6 +1,13 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -25,6 +32,10 @@
       "street": "Square de B\u00e9ronvaux"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0012"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -37,6 +48,12 @@
       "street": "Square de B\u00e9ronvaux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "4"
       ], 

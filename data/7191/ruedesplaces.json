@@ -37,6 +37,9 @@
       "street": "Rue des Places"
     }, 
     {
+      "busnrs": [
+        "17A"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -61,10 +64,15 @@
       "street": "Rue des Places"
     }, 
     {
-      "hnrlbls": [
-        "20BTE1"
+      "busnrs": [
+        "BTE1", 
+        "BTE2", 
+        "BTE3"
       ], 
-      "housenumber": "20BTE1", 
+      "hnrlbls": [
+        "20"
+      ], 
+      "housenumber": "20", 
       "lat": 50.569275849024, 
       "lon": 4.176505469192, 
       "municipality": "Ecaussinnes", 

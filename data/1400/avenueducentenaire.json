@@ -49,6 +49,13 @@
       "street": "Avenue du Centenaire"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "120"
       ], 
@@ -61,6 +68,15 @@
       "street": "Avenue du Centenaire"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301"
+      ], 
       "hnrlbls": [
         "122"
       ], 
@@ -73,6 +89,14 @@
       "street": "Avenue du Centenaire"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0202", 
+        "0301"
+      ], 
       "hnrlbls": [
         "124"
       ], 
@@ -85,6 +109,14 @@
       "street": "Avenue du Centenaire"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0202", 
+        "0301"
+      ], 
       "hnrlbls": [
         "126"
       ], 
@@ -97,6 +129,14 @@
       "street": "Avenue du Centenaire"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301"
+      ], 
       "hnrlbls": [
         "128"
       ], 
@@ -389,8 +429,8 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 50.593170470876, 
-      "lon": 4.333826307083, 
+      "lat": 50.593220779846, 
+      "lon": 4.334631070361, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702843", 
@@ -470,11 +510,35 @@
     }, 
     {
       "hnrlbls": [
+        "40"
+      ], 
+      "housenumber": "40", 
+      "lat": 50.593823445448, 
+      "lon": 4.336632642089, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7702843", 
+      "street": "Avenue du Centenaire"
+    }, 
+    {
+      "hnrlbls": [
         "41"
       ], 
       "housenumber": "41", 
       "lat": 50.594036435356, 
       "lon": 4.333603306374, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7702843", 
+      "street": "Avenue du Centenaire"
+    }, 
+    {
+      "hnrlbls": [
+        "42"
+      ], 
+      "housenumber": "42", 
+      "lat": 50.594342904231, 
+      "lon": 4.336508981344, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702843", 
@@ -541,36 +605,185 @@
       "street": "Avenue du Centenaire"
     }, 
     {
+      "busnrs": [
+        "Bt02", 
+        "Bt04", 
+        "Bt06", 
+        "Bt07", 
+        "Bt08", 
+        "Bt09", 
+        "Bt10", 
+        "Bt11", 
+        "Bt12", 
+        "Bt13", 
+        "Bt14", 
+        "Bt15", 
+        "Bt16", 
+        "Bt17", 
+        "Bt18", 
+        "Bt19", 
+        "Bt20", 
+        "Bt21", 
+        "Bt22", 
+        "Bt23", 
+        "Bt24"
+      ], 
+      "hnrlbls": [
+        "51"
+      ], 
+      "housenumber": "51", 
+      "lat": 50.594581338469, 
+      "lon": 4.335136454098, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7702843", 
+      "street": "Avenue du Centenaire"
+    }, 
+    {
+      "busnrs": [
+        "Bt02", 
+        "Bt05", 
+        "Bt06", 
+        "Bt07", 
+        "Bt08", 
+        "Bt09", 
+        "Bt10", 
+        "Bt11", 
+        "Bt12", 
+        "Bt13", 
+        "Bt14", 
+        "Bt15", 
+        "Bt16", 
+        "Bt17", 
+        "Bt18", 
+        "Bt19", 
+        "Bt20", 
+        "Bt21", 
+        "Bt22", 
+        "Bt23", 
+        "Bt24", 
+        "Bt25", 
+        "Bt26", 
+        "Bt27"
+      ], 
       "hnrlbls": [
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 50.594696887417, 
-      "lon": 4.335407456789, 
+      "lat": 50.594694532158, 
+      "lon": 4.335491537761, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702843", 
       "street": "Avenue du Centenaire"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt04", 
+        "Bt05", 
+        "Bt06", 
+        "Bt07", 
+        "Bt08", 
+        "Bt09", 
+        "Bt10", 
+        "Bt11", 
+        "Bt12", 
+        "Bt13", 
+        "Bt14", 
+        "Bt15", 
+        "Bt16", 
+        "Bt17", 
+        "Bt18", 
+        "Bt19", 
+        "Bt20", 
+        "Bt21", 
+        "Bt22", 
+        "Bt23", 
+        "Bt24", 
+        "Bt25", 
+        "Bt26", 
+        "Bt27", 
+        "Bt28", 
+        "Bt29", 
+        "Bt30", 
+        "Bt31", 
+        "Bt32", 
+        "Bt33"
+      ], 
       "hnrlbls": [
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 50.594696887417, 
-      "lon": 4.335407456789, 
+      "lat": 50.5947968903, 
+      "lon": 4.335769865625, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702843", 
       "street": "Avenue du Centenaire"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt04", 
+        "Bt05", 
+        "Bt07", 
+        "Bt08", 
+        "Bt09", 
+        "Bt10", 
+        "Bt11", 
+        "Bt12", 
+        "Bt13", 
+        "Bt14", 
+        "Bt15", 
+        "Bt16", 
+        "Bt17", 
+        "Bt18", 
+        "Bt19", 
+        "Bt20", 
+        "Bt21", 
+        "Bt22", 
+        "Bt23", 
+        "Bt24", 
+        "Bt26", 
+        "Bt27", 
+        "Bt29", 
+        "Bt30", 
+        "Bt31", 
+        "Bt32", 
+        "Bt33", 
+        "Bt34", 
+        "Bt35", 
+        "Bt36", 
+        "Bt37", 
+        "Bt38", 
+        "Bt39", 
+        "Bt40", 
+        "Bt41", 
+        "Bt42", 
+        "Bt43", 
+        "Bt44", 
+        "Bt45", 
+        "Bt46", 
+        "Bt47", 
+        "Bt48", 
+        "Bt49", 
+        "Bt50", 
+        "Bt51", 
+        "Bt52", 
+        "Bt53", 
+        "Bt81"
+      ], 
       "hnrlbls": [
         "57"
       ], 
       "housenumber": "57", 
-      "lat": 50.595408919901, 
-      "lon": 4.336393613659, 
+      "lat": 50.595138971664, 
+      "lon": 4.33648534899, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702843", 
@@ -589,12 +802,69 @@
       "street": "Avenue du Centenaire"
     }, 
     {
+      "busnrs": [
+        "0006", 
+        "0136", 
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt04", 
+        "Bt05", 
+        "Bt06", 
+        "Bt07", 
+        "Bt08", 
+        "Bt09", 
+        "Bt10", 
+        "Bt11", 
+        "Bt12", 
+        "Bt13", 
+        "Bt14", 
+        "Bt15", 
+        "Bt16", 
+        "Bt17", 
+        "Bt18", 
+        "Bt19", 
+        "Bt20", 
+        "Bt21", 
+        "Bt22", 
+        "Bt23", 
+        "Bt24", 
+        "Bt25", 
+        "Bt26", 
+        "Bt27", 
+        "Bt29", 
+        "Bt30", 
+        "Bt31", 
+        "Bt32", 
+        "Bt33", 
+        "Bt34", 
+        "Bt35", 
+        "Bt36", 
+        "Bt37", 
+        "Bt38", 
+        "Bt39", 
+        "Bt40", 
+        "Bt41", 
+        "Bt42", 
+        "Bt43", 
+        "Bt44", 
+        "Bt45", 
+        "Bt46", 
+        "Bt47", 
+        "Bt48", 
+        "Bt49", 
+        "Bt50", 
+        "Bt51", 
+        "Bt52", 
+        "Bt53", 
+        "Bt54"
+      ], 
       "hnrlbls": [
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 50.595408919901, 
-      "lon": 4.336393613659, 
+      "lat": 50.595286653717, 
+      "lon": 4.336375009807, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702843", 
@@ -613,6 +883,10 @@
       "street": "Avenue du Centenaire"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "60"
       ], 
@@ -667,6 +941,18 @@
       "housenumber": "8", 
       "lat": 50.593841373461, 
       "lon": 4.332894992171, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7702843", 
+      "street": "Avenue du Centenaire"
+    }, 
+    {
+      "hnrlbls": [
+        "80"
+      ], 
+      "housenumber": "80", 
+      "lat": 50.596060162726, 
+      "lon": 4.342748826159, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702843", 

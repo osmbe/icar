@@ -1,6 +1,15 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0005", 
+        "A/13", 
+        "A/22", 
+        "A/23", 
+        "AB12", 
+        "Ab15", 
+        "App1"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -89,8 +98,20 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 50.196250937922, 
-      "lon": 6.008462958195, 
+      "lat": 50.196218063617, 
+      "lon": 6.008432173855, 
+      "municipality": "Gouvy", 
+      "pcode": "6672", 
+      "source": "7742980", 
+      "street": "Deiffelt"
+    }, 
+    {
+      "hnrlbls": [
+        "13A"
+      ], 
+      "housenumber": "13A", 
+      "lat": 50.196282713536, 
+      "lon": 6.008524348002, 
       "municipality": "Gouvy", 
       "pcode": "6672", 
       "source": "7742980", 
@@ -121,6 +142,10 @@
       "street": "Deiffelt"
     }, 
     {
+      "busnrs": [
+        "1.1", 
+        "1.2"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -169,6 +194,9 @@
       "street": "Deiffelt"
     }, 
     {
+      "busnrs": [
+        "XOOO"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -437,8 +465,20 @@
         "28B"
       ], 
       "housenumber": "28B", 
-      "lat": 50.194029192572, 
-      "lon": 6.010449957238, 
+      "lat": 50.19405390874, 
+      "lon": 6.010519005759, 
+      "municipality": "Gouvy", 
+      "pcode": "6672", 
+      "source": "7742980", 
+      "street": "Deiffelt"
+    }, 
+    {
+      "hnrlbls": [
+        "28C"
+      ], 
+      "housenumber": "28C", 
+      "lat": 50.194469906097, 
+      "lon": 6.011456141056, 
       "municipality": "Gouvy", 
       "pcode": "6672", 
       "source": "7742980", 
@@ -469,6 +509,11 @@
       "street": "Deiffelt"
     }, 
     {
+      "busnrs": [
+        "Ap1", 
+        "Ap2", 
+        "Bte3"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -745,6 +790,9 @@
       "street": "Deiffelt"
     }, 
     {
+      "busnrs": [
+        "App"
+      ], 
       "hnrlbls": [
         "40"
       ], 

@@ -1,6 +1,14 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -19,6 +27,18 @@
       "housenumber": "13", 
       "lat": 50.647119799473, 
       "lon": 5.584427282844, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730841", 
+      "street": "Rue du Mont-de-Pi\u00e9t\u00e9"
+    }, 
+    {
+      "hnrlbls": [
+        "15"
+      ], 
+      "housenumber": "15", 
+      "lat": 50.647117474314, 
+      "lon": 5.584470099052, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730841", 
@@ -49,6 +69,11 @@
       "street": "Rue du Mont-de-Pi\u00e9t\u00e9"
     }, 
     {
+      "busnrs": [
+        "A011", 
+        "A021", 
+        "A031"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -61,6 +86,11 @@
       "street": "Rue du Mont-de-Pi\u00e9t\u00e9"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "5"
       ], 

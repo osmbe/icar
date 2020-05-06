@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -17,8 +20,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 49.843090604379, 
-      "lon": 5.723955173114, 
+      "lat": 49.843082431792, 
+      "lon": 5.723986434048, 
       "municipality": "Martelange", 
       "pcode": "6630", 
       "source": "7742159", 
@@ -62,11 +65,23 @@
     }, 
     {
       "hnrlbls": [
+        "4A"
+      ], 
+      "housenumber": "4A", 
+      "lat": 49.842809856559, 
+      "lon": 5.723296464923, 
+      "municipality": "Martelange", 
+      "pcode": "6630", 
+      "source": "7742159", 
+      "street": "Place de l'Eglise"
+    }, 
+    {
+      "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 49.842839241164, 
-      "lon": 5.723283203229, 
+      "lat": 49.842891025314, 
+      "lon": 5.723233746893, 
       "municipality": "Martelange", 
       "pcode": "6630", 
       "source": "7742159", 

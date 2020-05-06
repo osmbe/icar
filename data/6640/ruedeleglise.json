@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "C", 
+        "D"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -43,6 +47,18 @@
       "housenumber": "6", 
       "lat": 49.971189371342, 
       "lon": 5.635519113416, 
+      "municipality": "Vaux-sur-S\u00fbre", 
+      "pcode": "6640", 
+      "source": "7742947", 
+      "street": "Rue de l'Eglise"
+    }, 
+    {
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 49.970415795856, 
+      "lon": 5.635361629325, 
       "municipality": "Vaux-sur-S\u00fbre", 
       "pcode": "6640", 
       "source": "7742947", 

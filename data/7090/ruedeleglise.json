@@ -1,12 +1,27 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "Et1A"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
       "lat": 50.61259896711, 
       "lon": 4.136687376072, 
+      "municipality": "Braine-le-Comte", 
+      "pcode": "7090", 
+      "source": "7716575", 
+      "street": "Rue de l'Eglise"
+    }, 
+    {
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.613389493707, 
+      "lon": 4.136602896906, 
       "municipality": "Braine-le-Comte", 
       "pcode": "7090", 
       "source": "7716575", 
@@ -109,12 +124,19 @@
       "street": "Rue de l'Eglise"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.613050763457, 
-      "lon": 4.13771926385, 
+      "lat": 50.613027884639, 
+      "lon": 4.13769694534, 
       "municipality": "Braine-le-Comte", 
       "pcode": "7090", 
       "source": "7716575", 
@@ -137,8 +159,20 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.61313962645, 
-      "lon": 4.137817565468, 
+      "lat": 50.613080244661, 
+      "lon": 4.137739348867, 
+      "municipality": "Braine-le-Comte", 
+      "pcode": "7090", 
+      "source": "7716575", 
+      "street": "Rue de l'Eglise"
+    }, 
+    {
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 50.613142946675, 
+      "lon": 4.137809006769, 
       "municipality": "Braine-le-Comte", 
       "pcode": "7090", 
       "source": "7716575", 

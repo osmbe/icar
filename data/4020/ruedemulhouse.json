@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -133,6 +137,11 @@
       "street": "Rue de Mulhouse"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -205,6 +214,14 @@
       "street": "Rue de Mulhouse"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -241,6 +258,10 @@
       "street": "Rue de Mulhouse"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -302,6 +323,18 @@
     }, 
     {
       "hnrlbls": [
+        "33B"
+      ], 
+      "housenumber": "33B", 
+      "lat": 50.632460877731, 
+      "lon": 5.584986981134, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730484", 
+      "street": "Rue de Mulhouse"
+    }, 
+    {
+      "hnrlbls": [
         "34"
       ], 
       "housenumber": "34", 
@@ -319,6 +352,18 @@
       "housenumber": "35", 
       "lat": 50.632555415322, 
       "lon": 5.584811477031, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730484", 
+      "street": "Rue de Mulhouse"
+    }, 
+    {
+      "hnrlbls": [
+        "36"
+      ], 
+      "housenumber": "36", 
+      "lat": 50.632743311572, 
+      "lon": 5.586157443908, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730484", 
@@ -361,6 +406,10 @@
       "street": "Rue de Mulhouse"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0021"
+      ], 
       "hnrlbls": [
         "46"
       ], 
@@ -373,6 +422,10 @@
       "street": "Rue de Mulhouse"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "48"
       ], 
@@ -469,6 +522,20 @@
       "street": "Rue de Mulhouse"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024", 
+        "0031"
+      ], 
       "hnrlbls": [
         "62"
       ], 
@@ -487,6 +554,18 @@
       "housenumber": "7", 
       "lat": 50.632297319647, 
       "lon": 5.587482995034, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730484", 
+      "street": "Rue de Mulhouse"
+    }, 
+    {
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 50.632503607986, 
+      "lon": 5.587463738228, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730484", 

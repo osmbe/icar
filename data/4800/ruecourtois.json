@@ -37,6 +37,9 @@
       "street": "Rue Courtois"
     }, 
     {
+      "busnrs": [
+        "0003"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -50,11 +53,38 @@
     }, 
     {
       "hnrlbls": [
+        "160"
+      ], 
+      "housenumber": "160", 
+      "lat": 50.586320712536, 
+      "lon": 5.849313204473, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738764", 
+      "street": "Rue Courtois"
+    }, 
+    {
+      "busnrs": [
+        "rez."
+      ], 
+      "hnrlbls": [
         "17"
       ], 
       "housenumber": "17", 
       "lat": 50.586084679426, 
       "lon": 5.848923984521, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738764", 
+      "street": "Rue Courtois"
+    }, 
+    {
+      "hnrlbls": [
+        "19"
+      ], 
+      "housenumber": "19", 
+      "lat": 50.585954920092, 
+      "lon": 5.848367508374, 
       "municipality": "Verviers", 
       "pcode": "4800", 
       "source": "7738764", 
@@ -98,11 +128,41 @@
     }, 
     {
       "hnrlbls": [
+        "4B"
+      ], 
+      "housenumber": "4B", 
+      "lat": 50.586218765449, 
+      "lon": 5.848670437139, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738764", 
+      "street": "Rue Courtois"
+    }, 
+    {
+      "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
       "lat": 50.586141805698, 
       "lon": 5.849290650492, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738764", 
+      "street": "Rue Courtois"
+    }, 
+    {
+      "busnrs": [
+        "1\u00e9t.", 
+        "BteD", 
+        "bteA", 
+        "rez."
+      ], 
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.586179001303, 
+      "lon": 5.848407412401, 
       "municipality": "Verviers", 
       "pcode": "4800", 
       "source": "7738764", 
@@ -121,6 +181,10 @@
       "street": "Rue Courtois"
     }, 
     {
+      "busnrs": [
+        "3\u00e9t.", 
+        "bte2"
+      ], 
       "hnrlbls": [
         "9"
       ], 

@@ -2,6 +2,18 @@
   "addresses": [
     {
       "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 49.949821814512, 
+      "lon": 5.06823982439, 
+      "municipality": "Bi\u00e8vre", 
+      "pcode": "5555", 
+      "source": "7748681", 
+      "street": "Rue Saint-Denis"
+    }, 
+    {
+      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -109,6 +121,9 @@
       "street": "Rue Saint-Denis"
     }, 
     {
+      "busnrs": [
+        "000B"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -241,6 +256,15 @@
       "street": "Rue Saint-Denis"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B", 
+        "C", 
+        "D", 
+        "E", 
+        "F", 
+        "G"
+      ], 
       "hnrlbls": [
         "8"
       ], 

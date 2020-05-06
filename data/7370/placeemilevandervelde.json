@@ -121,6 +121,11 @@
       "street": "Place Emile Vandervelde"
     }, 
     {
+      "busnrs": [
+        "Apt1", 
+        "Apt2", 
+        "Apt3"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -229,6 +234,11 @@
       "street": "Place Emile Vandervelde"
     }, 
     {
+      "busnrs": [
+        "Apt1", 
+        "Apt2", 
+        "Apt3"
+      ], 
       "hnrlbls": [
         "43"
       ], 
@@ -241,6 +251,10 @@
       "street": "Place Emile Vandervelde"
     }, 
     {
+      "busnrs": [
+        "Apt1", 
+        "Apt2"
+      ], 
       "hnrlbls": [
         "45"
       ], 
@@ -277,6 +291,15 @@
       "street": "Place Emile Vandervelde"
     }, 
     {
+      "busnrs": [
+        "Apt1", 
+        "Apt2", 
+        "Apt3", 
+        "Apt4", 
+        "Apt5", 
+        "Apt6", 
+        "Apt7"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -403,6 +426,18 @@
       "housenumber": "71", 
       "lat": 50.398474957514, 
       "lon": 3.786258812544, 
+      "municipality": "Dour", 
+      "pcode": "7370", 
+      "source": "7712106", 
+      "street": "Place Emile Vandervelde"
+    }, 
+    {
+      "hnrlbls": [
+        "73"
+      ], 
+      "housenumber": "73", 
+      "lat": 50.398393090024, 
+      "lon": 3.786232846699, 
       "municipality": "Dour", 
       "pcode": "7370", 
       "source": "7712106", 

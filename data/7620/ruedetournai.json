@@ -661,6 +661,9 @@
       "street": "Rue de Tournai"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "154"
       ], 
@@ -1217,8 +1220,8 @@
         "201A"
       ], 
       "housenumber": "201A", 
-      "lat": 50.532198423808, 
-      "lon": 3.425235223409, 
+      "lat": 50.532017138966, 
+      "lon": 3.425343897051, 
       "municipality": "Brunehaut", 
       "pcode": "7620", 
       "source": "7724045", 
@@ -1477,6 +1480,9 @@
       "street": "Rue de Tournai"
     }, 
     {
+      "busnrs": [
+        "0011"
+      ], 
       "hnrlbls": [
         "40"
       ], 
@@ -2033,8 +2039,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.545591166408, 
-      "lon": 3.427991186001, 
+      "lat": 50.547319295295, 
+      "lon": 3.428235883282, 
       "municipality": "Brunehaut", 
       "pcode": "7620", 
       "source": "7724045", 
@@ -2209,6 +2215,11 @@
       "street": "Rue de Tournai"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "94"
       ], 
@@ -2233,6 +2244,11 @@
       "street": "Rue de Tournai"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "96"
       ], 

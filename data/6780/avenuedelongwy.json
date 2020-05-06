@@ -241,6 +241,9 @@
       "street": "Avenue de Longwy"
     }, 
     {
+      "busnrs": [
+        "1/1"
+      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -409,6 +412,10 @@
       "street": "Avenue de Longwy"
     }, 
     {
+      "busnrs": [
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "49"
       ], 
@@ -533,8 +540,8 @@
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 49.585074688133, 
-      "lon": 5.812103125952, 
+      "lat": 49.585046396201, 
+      "lon": 5.812063856088, 
       "municipality": "Messancy", 
       "pcode": "6780", 
       "source": "7742194", 

@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -25,6 +31,10 @@
       "street": "Rue Pr\u00e9-Cala"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -50,6 +60,18 @@
     }, 
     {
       "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.619581375843, 
+      "lon": 5.583610927932, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4031", 
+      "source": "7731258", 
+      "street": "Rue Pr\u00e9-Cala"
+    }, 
+    {
+      "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
@@ -61,6 +83,16 @@
       "street": "Rue Pr\u00e9-Cala"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "5"
       ], 

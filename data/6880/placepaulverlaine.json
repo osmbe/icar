@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0102", 
+        "0103"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -17,8 +22,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 49.906520606363, 
-      "lon": 5.200273561644, 
+      "lat": 49.906051128245, 
+      "lon": 5.1994026324, 
       "municipality": "Bertrix", 
       "pcode": "6880", 
       "source": "7744889", 
@@ -158,9 +163,9 @@
     }, 
     {
       "hnrlbls": [
-        "5"
+        "5A"
       ], 
-      "housenumber": "5", 
+      "housenumber": "5A", 
       "lat": 49.907234041272, 
       "lon": 5.200221428636, 
       "municipality": "Bertrix", 

@@ -529,6 +529,10 @@
       "street": "Rue Bois de Mont"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "209"
       ], 
@@ -571,6 +575,26 @@
       "housenumber": "213", 
       "lat": 50.618471561947, 
       "lon": 5.487655095621, 
+      "municipality": "Seraing", 
+      "pcode": "4101", 
+      "source": "7732176", 
+      "street": "Rue Bois de Mont"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "12", 
+        "2", 
+        "21", 
+        "22", 
+        "4"
+      ], 
+      "hnrlbls": [
+        "214"
+      ], 
+      "housenumber": "214", 
+      "lat": 50.619290959579, 
+      "lon": 5.489564051093, 
       "municipality": "Seraing", 
       "pcode": "4101", 
       "source": "7732176", 
@@ -1418,6 +1442,18 @@
     }, 
     {
       "hnrlbls": [
+        "340"
+      ], 
+      "housenumber": "340", 
+      "lat": 50.61817976874, 
+      "lon": 5.485185707848, 
+      "municipality": "Seraing", 
+      "pcode": "4101", 
+      "source": "7732176", 
+      "street": "Rue Bois de Mont"
+    }, 
+    {
+      "hnrlbls": [
         "343"
       ], 
       "housenumber": "343", 
@@ -1459,6 +1495,27 @@
       "housenumber": "353", 
       "lat": 50.617629772738, 
       "lon": 5.482103029357, 
+      "municipality": "Seraing", 
+      "pcode": "4101", 
+      "source": "7732176", 
+      "street": "Rue Bois de Mont"
+    }, 
+    {
+      "busnrs": [
+        "01", 
+        "11", 
+        "12", 
+        "13", 
+        "21", 
+        "22", 
+        "2A"
+      ], 
+      "hnrlbls": [
+        "355"
+      ], 
+      "housenumber": "355", 
+      "lat": 50.617580268645, 
+      "lon": 5.481946810603, 
       "municipality": "Seraing", 
       "pcode": "4101", 
       "source": "7732176", 

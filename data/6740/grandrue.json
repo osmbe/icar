@@ -37,6 +37,9 @@
       "street": "Grand-Rue"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "150"
       ], 
@@ -181,6 +184,9 @@
       "street": "Grand-Rue"
     }, 
     {
+      "busnrs": [
+        "0002"
+      ], 
       "hnrlbls": [
         "162"
       ], 
@@ -193,6 +199,9 @@
       "street": "Grand-Rue"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "163"
       ], 
@@ -361,6 +370,9 @@
       "street": "Grand-Rue"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "220"
       ], 
@@ -685,6 +697,11 @@
       "street": "Grand-Rue"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0004"
+      ], 
       "hnrlbls": [
         "51"
       ], 
@@ -833,8 +850,8 @@
         "69"
       ], 
       "housenumber": "69", 
-      "lat": 49.671367133348, 
-      "lon": 5.563423100236, 
+      "lat": 49.671454935251, 
+      "lon": 5.563454304236, 
       "municipality": "Etalle", 
       "pcode": "6740", 
       "source": "7747033", 

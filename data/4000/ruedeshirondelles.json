@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "A011"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -127,6 +133,18 @@
       "housenumber": "19", 
       "lat": 50.618500195597, 
       "lon": 5.567891614393, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730642", 
+      "street": "Rue des Hirondelles"
+    }, 
+    {
+      "hnrlbls": [
+        "1A"
+      ], 
+      "housenumber": "1A", 
+      "lat": 50.618766693244, 
+      "lon": 5.568243220784, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730642", 

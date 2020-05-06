@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1/1", 
+        "P/1"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -31,6 +35,18 @@
       "housenumber": "5", 
       "lat": 50.329875826314, 
       "lon": 6.112370890859, 
+      "municipality": "Amel", 
+      "pcode": "4770", 
+      "source": "7734894", 
+      "street": "Bouvisgasse"
+    }, 
+    {
+      "hnrlbls": [
+        "5A"
+      ], 
+      "housenumber": "5A", 
+      "lat": 50.329874587806, 
+      "lon": 6.112265486405, 
       "municipality": "Amel", 
       "pcode": "4770", 
       "source": "7734894", 

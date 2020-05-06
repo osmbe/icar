@@ -13,6 +13,12 @@
       "street": "Rue des Alouettes"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -97,6 +103,11 @@
       "street": "Rue des Alouettes"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -158,6 +169,24 @@
     }, 
     {
       "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 50.618620718907, 
+      "lon": 5.566505029749, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730543", 
+      "street": "Rue des Alouettes"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
+      "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
@@ -193,6 +222,11 @@
       "street": "Rue des Alouettes"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "8"
       ], 

@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "\u00e9t.1"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +16,9 @@
       "street": "Rue Abb\u00e9 Demarteau"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -43,18 +49,6 @@
       "housenumber": "15", 
       "lat": 50.514729442493, 
       "lon": 5.62934751414, 
-      "municipality": "Sprimont", 
-      "pcode": "4140", 
-      "source": "7732959", 
-      "street": "Rue Abb\u00e9 Demarteau"
-    }, 
-    {
-      "hnrlbls": [
-        "18"
-      ], 
-      "housenumber": "18", 
-      "lat": 50.514976480741, 
-      "lon": 5.628767401839, 
       "municipality": "Sprimont", 
       "pcode": "4140", 
       "source": "7732959", 

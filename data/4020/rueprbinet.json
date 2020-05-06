@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,12 +19,57 @@
       "street": "Rue Pr\u00e9-Binet"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "16"
       ], 
       "housenumber": "16", 
       "lat": 50.629521913672, 
       "lon": 5.585123610221, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7731257", 
+      "street": "Rue Pr\u00e9-Binet"
+    }, 
+    {
+      "hnrlbls": [
+        "1B"
+      ], 
+      "housenumber": "1B", 
+      "lat": 50.629724915424, 
+      "lon": 5.58648119051, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7731257", 
+      "street": "Rue Pr\u00e9-Binet"
+    }, 
+    {
+      "busnrs": [
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.6298928575, 
+      "lon": 5.586413571115, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7731257", 
+      "street": "Rue Pr\u00e9-Binet"
+    }, 
+    {
+      "hnrlbls": [
+        "20"
+      ], 
+      "housenumber": "20", 
+      "lat": 50.630033618839, 
+      "lon": 5.584452682211, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7731257", 

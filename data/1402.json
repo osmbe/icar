@@ -1,41 +1,53 @@
 {
   "streets": [
     {
-      "b": 50.599581913788, 
+      "b": 50.593780069848, 
+      "l": 4.372060832545, 
+      "name": "All\u00e9e Marcel Ladri\u00e8re", 
+      "numOfAddr": 18, 
+      "r": 4.373276607059, 
+      "sanName": "allemarcelladrire", 
+      "t": 50.594270449316
+    }, 
+    {
+      "b": 50.599387819194, 
       "l": 4.368136095058, 
       "name": "All\u00e9e Marie Binet-Leton", 
-      "numOfAddr": 4, 
+      "numOfAddr": 5, 
       "r": 4.368409669009, 
       "sanName": "allemariebinetleton", 
       "t": 50.600027020369
     }, 
     {
       "b": 50.58187800106, 
-      "l": 4.369511145506, 
+      "l": 4.36944612372, 
       "name": "Avenue de Vaillampont", 
-      "numOfAddr": 7, 
-      "r": 4.37221332305, 
+      "numOfAddr": 8, 
+      "r": 4.371502415206, 
       "sanName": "avenuedevaillampont", 
-      "t": 50.593216834614
+      "t": 50.593241811185
     }, 
     {
       "b": 50.575650104757, 
-      "l": 4.357676392746, 
+      "l": 4.357337827488, 
       "name": "Avenue Thomas Edison", 
-      "numOfAddr": 9, 
-      "r": 4.362567464532, 
-      "sanName": "avenuethomasedison", 
-      "t": 50.580054777036
-    }, 
-    {
-      "b": 50.593325453353, 
-      "l": 4.364201223038, 
-      "name": "Chauss\u00e9e de Namur", 
-      "numOfAddr": 4, 
+      "numOfAddr": 27, 
       "otherPCs": [
         "1400"
       ], 
-      "r": 4.372621038922, 
+      "r": 4.36518500317, 
+      "sanName": "avenuethomasedison", 
+      "t": 50.581210511895
+    }, 
+    {
+      "b": 50.591215008182, 
+      "l": 4.364201223038, 
+      "name": "Chauss\u00e9e de Namur", 
+      "numOfAddr": 10, 
+      "otherPCs": [
+        "1400"
+      ], 
+      "r": 4.381331008798, 
       "sanName": "chaussedenamur", 
       "t": 50.596184349276
     }, 
@@ -49,34 +61,55 @@
       "t": 50.601302545922
     }, 
     {
-      "b": 50.596970492611, 
-      "l": 4.367433166388, 
+      "b": 50.593990862593, 
+      "l": 4.371737576009, 
+      "name": "Chemin du Clerc", 
+      "numOfAddr": 9, 
+      "r": 4.371993469226, 
+      "sanName": "cheminduclerc", 
+      "t": 50.594648832753
+    }, 
+    {
+      "b": 50.597118920019, 
+      "l": 4.367759577442, 
       "name": "Place de Thines", 
       "numOfAddr": 3, 
-      "r": 4.367796324461, 
+      "r": 4.368149188276, 
       "sanName": "placedethines", 
       "t": 50.598019237146
     }, 
     {
+      "b": 50.582772600786, 
+      "l": 4.350194607893, 
+      "name": "Rue de la Science", 
+      "numOfAddr": 1, 
+      "otherPCs": [
+        "1400"
+      ], 
+      "r": 4.350194607893, 
+      "sanName": "ruedelascience", 
+      "t": 50.582772600786
+    }, 
+    {
       "b": 50.593697006316, 
-      "l": 4.372222508403, 
+      "l": 4.372076258707, 
       "name": "Rue des Ecoles", 
-      "numOfAddr": 15, 
+      "numOfAddr": 17, 
       "r": 4.374352620846, 
       "sanName": "ruedesecoles", 
       "t": 50.595076117567
     }, 
     {
-      "b": 50.582178159111, 
-      "l": 4.362743459511, 
+      "b": 50.582082452377, 
+      "l": 4.362719898602, 
       "name": "Rue du Bosquet", 
-      "numOfAddr": 1, 
+      "numOfAddr": 2, 
       "otherPCs": [
         "1400"
       ], 
-      "r": 4.362743459511, 
+      "r": 4.362767732755, 
       "sanName": "ruedubosquet", 
-      "t": 50.582178159111
+      "t": 50.58226854824
     }, 
     {
       "b": 50.600217663104, 
@@ -89,15 +122,15 @@
     }, 
     {
       "b": 50.597924426899, 
-      "l": 4.363625009942, 
+      "l": 4.363680699558, 
       "name": "Rue du Culot", 
       "numOfAddr": 20, 
       "r": 4.368764754659, 
       "sanName": "rueduculot", 
-      "t": 50.602127171544
+      "t": 50.602113140197
     }, 
     {
-      "b": 50.596829694623, 
+      "b": 50.596842058799, 
       "l": 4.368544824806, 
       "name": "Rue du Palais", 
       "numOfAddr": 35, 
@@ -107,12 +140,39 @@
     }, 
     {
       "b": 50.594966369578, 
-      "l": 4.368142107743, 
+      "l": 4.368414251193, 
       "name": "Rue du Village", 
       "numOfAddr": 39, 
       "r": 4.371134917502, 
       "sanName": "rueduvillage", 
-      "t": 50.597273484579
+      "t": 50.597257785347
+    }, 
+    {
+      "b": 50.580278695371, 
+      "l": 4.366576548429, 
+      "name": "Rue Graham Bell", 
+      "numOfAddr": 2, 
+      "r": 4.369161611193, 
+      "sanName": "ruegrahambell", 
+      "t": 50.580579493652
+    }, 
+    {
+      "b": 50.578047907857, 
+      "l": 4.360164700947, 
+      "name": "Rue Johannes Gutenberg", 
+      "numOfAddr": 4, 
+      "r": 4.361211643014, 
+      "sanName": "ruejohannesgutenberg", 
+      "t": 50.578391010131
+    }, 
+    {
+      "b": 50.577733364183, 
+      "l": 4.358679510916, 
+      "name": "Rue Louis Braille", 
+      "numOfAddr": 4, 
+      "r": 4.359555088867, 
+      "sanName": "ruelouisbraille", 
+      "t": 50.578291095766
     }, 
     {
       "b": 50.577913153595, 
@@ -122,6 +182,15 @@
       "r": 4.36559085845, 
       "sanName": "vieillecour", 
       "t": 50.577913153595
+    }, 
+    {
+      "b": 50.5969705142, 
+      "l": 4.359265589152, 
+      "name": "Vieux Chemin de Thines", 
+      "numOfAddr": 3, 
+      "r": 4.367435489836, 
+      "sanName": "vieuxchemindethines", 
+      "t": 50.598321345975
     }
   ]
 }

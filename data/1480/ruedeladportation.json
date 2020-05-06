@@ -1,6 +1,13 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "101", 
+        "201", 
+        "202", 
+        "R01", 
+        "R02"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -25,6 +32,11 @@
       "street": "Rue de la D\u00e9portation"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "R01", 
+        "R02"
+      ], 
       "hnrlbls": [
         "100"
       ], 
@@ -61,6 +73,10 @@
       "street": "Rue de la D\u00e9portation"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "R01"
+      ], 
       "hnrlbls": [
         "103"
       ], 
@@ -73,6 +89,12 @@
       "street": "Rue de la D\u00e9portation"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "R01"
+      ], 
       "hnrlbls": [
         "104"
       ], 
@@ -97,6 +119,10 @@
       "street": "Rue de la D\u00e9portation"
     }, 
     {
+      "busnrs": [
+        "R01", 
+        "R02"
+      ], 
       "hnrlbls": [
         "106"
       ], 
@@ -121,6 +147,12 @@
       "street": "Rue de la D\u00e9portation"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "201", 
+        "301", 
+        "R01"
+      ], 
       "hnrlbls": [
         "108"
       ], 
@@ -145,6 +177,11 @@
       "street": "Rue de la D\u00e9portation"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -169,6 +206,11 @@
       "street": "Rue de la D\u00e9portation"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "R01", 
+        "R02"
+      ], 
       "hnrlbls": [
         "111"
       ], 
@@ -193,6 +235,12 @@
       "street": "Rue de la D\u00e9portation"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "R01", 
+        "R02", 
+        "R03"
+      ], 
       "hnrlbls": [
         "114"
       ], 
@@ -349,6 +397,12 @@
       "street": "Rue de la D\u00e9portation"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "201", 
+        "301", 
+        "R01"
+      ], 
       "hnrlbls": [
         "128"
       ], 
@@ -361,6 +415,10 @@
       "street": "Rue de la D\u00e9portation"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "129"
       ], 
@@ -385,6 +443,9 @@
       "street": "Rue de la D\u00e9portation"
     }, 
     {
+      "busnrs": [
+        "R01"
+      ], 
       "hnrlbls": [
         "131"
       ], 
@@ -397,6 +458,11 @@
       "street": "Rue de la D\u00e9portation"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "201", 
+        "R01"
+      ], 
       "hnrlbls": [
         "133"
       ], 
@@ -481,6 +547,11 @@
       "street": "Rue de la D\u00e9portation"
     }, 
     {
+      "busnrs": [
+        "R01", 
+        "R02", 
+        "R03"
+      ], 
       "hnrlbls": [
         "148"
       ], 
@@ -529,6 +600,10 @@
       "street": "Rue de la D\u00e9portation"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "R01"
+      ], 
       "hnrlbls": [
         "152"
       ], 
@@ -541,6 +616,12 @@
       "street": "Rue de la D\u00e9portation"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "R01"
+      ], 
       "hnrlbls": [
         "153"
       ], 
@@ -566,6 +647,18 @@
     }, 
     {
       "hnrlbls": [
+        "155"
+      ], 
+      "housenumber": "155", 
+      "lat": 50.690743421317, 
+      "lon": 4.211445212413, 
+      "municipality": "Tubize", 
+      "pcode": "1480", 
+      "source": "7703816", 
+      "street": "Rue de la D\u00e9portation"
+    }, 
+    {
+      "hnrlbls": [
         "156"
       ], 
       "housenumber": "156", 
@@ -577,24 +670,17 @@
       "street": "Rue de la D\u00e9portation"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "201", 
+        "R01"
+      ], 
       "hnrlbls": [
         "158"
       ], 
       "housenumber": "158", 
       "lat": 50.690557600322, 
       "lon": 4.212488646032, 
-      "municipality": "Tubize", 
-      "pcode": "1480", 
-      "source": "7703816", 
-      "street": "Rue de la D\u00e9portation"
-    }, 
-    {
-      "hnrlbls": [
-        "159"
-      ], 
-      "housenumber": "159", 
-      "lat": 50.690743421317, 
-      "lon": 4.211445212413, 
       "municipality": "Tubize", 
       "pcode": "1480", 
       "source": "7703816", 
@@ -613,6 +699,10 @@
       "street": "Rue de la D\u00e9portation"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "R01"
+      ], 
       "hnrlbls": [
         "161"
       ], 
@@ -677,8 +767,8 @@
         "167"
       ], 
       "housenumber": "167", 
-      "lat": 50.690567817632, 
-      "lon": 4.211831702139, 
+      "lat": 50.690434316961, 
+      "lon": 4.211918544273, 
       "municipality": "Tubize", 
       "pcode": "1480", 
       "source": "7703816", 
@@ -697,6 +787,22 @@
       "street": "Rue de la D\u00e9portation"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "102", 
+        "103", 
+        "104", 
+        "201", 
+        "202", 
+        "203", 
+        "204", 
+        "301", 
+        "302", 
+        "303", 
+        "R01", 
+        "R02", 
+        "R03"
+      ], 
       "hnrlbls": [
         "169"
       ], 
@@ -781,6 +887,10 @@
       "street": "Rue de la D\u00e9portation"
     }, 
     {
+      "busnrs": [
+        "R01", 
+        "R02"
+      ], 
       "hnrlbls": [
         "179"
       ], 
@@ -1129,6 +1239,20 @@
       "street": "Rue de la D\u00e9portation"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "102", 
+        "103", 
+        "104", 
+        "201", 
+        "202", 
+        "203", 
+        "204", 
+        "R01", 
+        "R02", 
+        "R03", 
+        "R04"
+      ], 
       "hnrlbls": [
         "214"
       ], 
@@ -1141,6 +1265,11 @@
       "street": "Rue de la D\u00e9portation"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "215"
       ], 
@@ -1357,6 +1486,11 @@
       "street": "Rue de la D\u00e9portation"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "201", 
+        "R01"
+      ], 
       "hnrlbls": [
         "56"
       ], 
@@ -1429,6 +1563,10 @@
       "street": "Rue de la D\u00e9portation"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "R01"
+      ], 
       "hnrlbls": [
         "64"
       ], 
@@ -1453,6 +1591,10 @@
       "street": "Rue de la D\u00e9portation"
     }, 
     {
+      "busnrs": [
+        "R01", 
+        "R02"
+      ], 
       "hnrlbls": [
         "68"
       ], 
@@ -1597,6 +1739,10 @@
       "street": "Rue de la D\u00e9portation"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "R01"
+      ], 
       "hnrlbls": [
         "81"
       ], 
@@ -1621,6 +1767,10 @@
       "street": "Rue de la D\u00e9portation"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "R01"
+      ], 
       "hnrlbls": [
         "83"
       ], 
@@ -1645,6 +1795,9 @@
       "street": "Rue de la D\u00e9portation"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "85"
       ], 
@@ -1705,6 +1858,11 @@
       "street": "Rue de la D\u00e9portation"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "102", 
+        "R01"
+      ], 
       "hnrlbls": [
         "90"
       ], 
@@ -1717,6 +1875,10 @@
       "street": "Rue de la D\u00e9portation"
     }, 
     {
+      "busnrs": [
+        "R01", 
+        "R02"
+      ], 
       "hnrlbls": [
         "91"
       ], 

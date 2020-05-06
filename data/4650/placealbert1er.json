@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -19,6 +23,18 @@
       "housenumber": "10", 
       "lat": 50.641982194164, 
       "lon": 5.793769261874, 
+      "municipality": "Herve", 
+      "pcode": "4650", 
+      "source": "7736029", 
+      "street": "Place Albert 1er"
+    }, 
+    {
+      "hnrlbls": [
+        "10B"
+      ], 
+      "housenumber": "10B", 
+      "lat": 50.642025060521, 
+      "lon": 5.79378636961, 
       "municipality": "Herve", 
       "pcode": "4650", 
       "source": "7736029", 
@@ -85,6 +101,14 @@
       "street": "Place Albert 1er"
     }, 
     {
+      "busnrs": [
+        "11", 
+        "12", 
+        "21", 
+        "22", 
+        "3", 
+        "rez"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -145,12 +169,39 @@
       "street": "Place Albert 1er"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "rez"
+      ], 
       "hnrlbls": [
         "27"
       ], 
       "housenumber": "27", 
       "lat": 50.642836382525, 
       "lon": 5.79338905271, 
+      "municipality": "Herve", 
+      "pcode": "4650", 
+      "source": "7736029", 
+      "street": "Place Albert 1er"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "11", 
+        "12", 
+        "13", 
+        "21", 
+        "22", 
+        "23", 
+        "rez1", 
+        "rez2"
+      ], 
+      "hnrlbls": [
+        "29"
+      ], 
+      "housenumber": "29", 
+      "lat": 50.642871239107, 
+      "lon": 5.793546473679, 
       "municipality": "Herve", 
       "pcode": "4650", 
       "source": "7736029", 
@@ -253,6 +304,12 @@
       "street": "Place Albert 1er"
     }, 
     {
+      "busnrs": [
+        "11", 
+        "12", 
+        "21", 
+        "22"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -301,6 +358,10 @@
       "street": "Place Albert 1er"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "rez"
+      ], 
       "hnrlbls": [
         "6"
       ], 

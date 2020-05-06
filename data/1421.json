@@ -96,10 +96,10 @@
     {
       "b": 50.665352257666, 
       "l": 4.349445612218, 
-      "name": "Clos B\u00e9liau", 
+      "name": "Clos Beliau", 
       "numOfAddr": 12, 
       "r": 4.350825267926, 
-      "sanName": "closbliau", 
+      "sanName": "closbeliau", 
       "t": 50.666888410707
     }, 
     {
@@ -112,8 +112,8 @@
       "t": 50.663017863184
     }, 
     {
-      "b": 50.644190011049, 
-      "l": 4.315497516882, 
+      "b": 50.644147768795, 
+      "l": 4.315539940344, 
       "name": "Clos des Br\u00fblots", 
       "numOfAddr": 9, 
       "r": 4.316377922412, 
@@ -123,10 +123,10 @@
     {
       "b": 50.649862391365, 
       "l": 4.307484842462, 
-      "name": "Ferme du Mont", 
+      "name": "Ferme le Mont", 
       "numOfAddr": 1, 
       "r": 4.307484842462, 
-      "sanName": "fermedumont", 
+      "sanName": "fermelemont", 
       "t": 50.649862391365
     }, 
     {
@@ -169,31 +169,13 @@
       "t": 50.667968861644
     }, 
     {
-      "b": 50.668617711647, 
-      "l": 4.34912793126, 
-      "name": "Rue Basse Mouturie", 
-      "numOfAddr": 5, 
-      "r": 4.351450308023, 
-      "sanName": "ruebassemouturie", 
-      "t": 50.669534794222
-    }, 
-    {
       "b": 50.654202998772, 
       "l": 4.338673930177, 
-      "name": "Rue Bertinchamps", 
+      "name": "Rue Bertinchamp", 
       "numOfAddr": 14, 
       "r": 4.339918758047, 
-      "sanName": "ruebertinchamps", 
+      "sanName": "ruebertinchamp", 
       "t": 50.658389778468
-    }, 
-    {
-      "b": 50.660286249391, 
-      "l": 4.354111303025, 
-      "name": "Rue Bois d'Hawia", 
-      "numOfAddr": 46, 
-      "r": 4.359097445492, 
-      "sanName": "rueboisdhawia", 
-      "t": 50.663430283286
     }, 
     {
       "b": 50.652732031599, 
@@ -203,15 +185,6 @@
       "r": 4.33261500521, 
       "sanName": "ruecastor", 
       "t": 50.655657383992
-    }, 
-    {
-      "b": 50.673877019648, 
-      "l": 4.339164573287, 
-      "name": "Rue Champs du Bois", 
-      "numOfAddr": 61, 
-      "r": 4.345644010724, 
-      "sanName": "ruechampsdubois", 
-      "t": 50.677251582052
     }, 
     {
       "b": 50.665918496891, 
@@ -250,13 +223,31 @@
       "t": 50.662741055769
     }, 
     {
+      "b": 50.650275062021, 
+      "l": 4.346926427835, 
+      "name": "Rue de Griponwez", 
+      "numOfAddr": 3, 
+      "r": 4.349058633239, 
+      "sanName": "ruedegriponwez", 
+      "t": 50.652487896225
+    }, 
+    {
       "b": 50.639472611618, 
       "l": 4.316464734525, 
       "name": "Rue de Hal", 
-      "numOfAddr": 55, 
+      "numOfAddr": 56, 
       "r": 4.321642090855, 
       "sanName": "ruedehal", 
       "t": 50.647323697716
+    }, 
+    {
+      "b": 50.668617711647, 
+      "l": 4.34912793126, 
+      "name": "Rue de la Basse Mouturie", 
+      "numOfAddr": 5, 
+      "r": 4.351450308023, 
+      "sanName": "ruedelabassemouturie", 
+      "t": 50.669534794222
     }, 
     {
       "b": 50.669396678746, 
@@ -306,7 +297,7 @@
     {
       "b": 50.650140003455, 
       "l": 4.386707441482, 
-      "name": "Rue de la Neuve Cour", 
+      "name": "Rue de la Neuve-Cour", 
       "numOfAddr": 6, 
       "otherPCs": [
         "1428"
@@ -361,6 +352,15 @@
       "t": 50.675622186348
     }, 
     {
+      "b": 50.673877019648, 
+      "l": 4.339164573287, 
+      "name": "Rue des Champs du Bois", 
+      "numOfAddr": 61, 
+      "r": 4.345644010724, 
+      "sanName": "ruedeschampsdubois", 
+      "t": 50.677251582052
+    }, 
+    {
       "b": 50.674810203965, 
       "l": 4.340095907196, 
       "name": "Rue des Ch\u00eanes", 
@@ -388,11 +388,11 @@
       "t": 50.666000428
     }, 
     {
-      "b": 50.6666186658, 
+      "b": 50.666681569294, 
       "l": 4.346774728714, 
       "name": "Rue des D\u00e9port\u00e9s", 
       "numOfAddr": 2, 
-      "r": 4.347125895659, 
+      "r": 4.347081607517, 
       "sanName": "ruedesdports", 
       "t": 50.667181847584
     }, 
@@ -487,6 +487,15 @@
       "t": 50.64395828012
     }, 
     {
+      "b": 50.660286249391, 
+      "l": 4.354111303025, 
+      "name": "Rue du Bois d'Hawia", 
+      "numOfAddr": 46, 
+      "r": 4.359097445492, 
+      "sanName": "rueduboisdhawia", 
+      "t": 50.663430283286
+    }, 
+    {
       "b": 50.640860235295, 
       "l": 4.326044874643, 
       "name": "Rue du Bois Plant\u00e9", 
@@ -579,20 +588,11 @@
     {
       "b": 50.639397579338, 
       "l": 4.318904917492, 
-      "name": "Rue Grand'M\u00e8re", 
+      "name": "Rue Grand-M\u00e8re", 
       "numOfAddr": 5, 
       "r": 4.320176142904, 
       "sanName": "ruegrandmre", 
       "t": 50.640179731731
-    }, 
-    {
-      "b": 50.650275062021, 
-      "l": 4.346926427835, 
-      "name": "Rue Griponwez", 
-      "numOfAddr": 3, 
-      "r": 4.349058633239, 
-      "sanName": "ruegriponwez", 
-      "t": 50.652487896225
     }, 
     {
       "b": 50.661156130275, 
@@ -604,7 +604,7 @@
       "t": 50.661328833805
     }, 
     {
-      "b": 50.666615849915, 
+      "b": 50.666663051675, 
       "l": 4.347718041474, 
       "name": "Rue \u00e0 la Marne", 
       "numOfAddr": 29, 

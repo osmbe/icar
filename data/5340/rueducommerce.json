@@ -1,6 +1,13 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "000A", 
+        "000C", 
+        "00B1", 
+        "00B2", 
+        "00C2"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -49,6 +56,9 @@
       "street": "Rue du Commerce"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -85,6 +95,10 @@
       "street": "Rue du Commerce"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "000B"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -157,6 +171,9 @@
       "street": "Rue du Commerce"
     }, 
     {
+      "busnrs": [
+        "0002"
+      ], 
       "hnrlbls": [
         "7"
       ], 

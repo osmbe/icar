@@ -13,6 +13,11 @@
       "street": "Avenue des Trois Couronnes"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -98,17 +103,44 @@
     }, 
     {
       "hnrlbls": [
-        "5"
+        "3"
       ], 
-      "housenumber": "5", 
-      "lat": 50.530584927121, 
-      "lon": 5.571158750777, 
+      "housenumber": "3", 
+      "lat": 50.530567722966, 
+      "lon": 5.571722123909, 
       "municipality": "Esneux", 
       "pcode": "4130", 
       "source": "7728552", 
       "street": "Avenue des Trois Couronnes"
     }, 
     {
+      "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 50.530574163214, 
+      "lon": 5.571003212912, 
+      "municipality": "Esneux", 
+      "pcode": "4130", 
+      "source": "7728552", 
+      "street": "Avenue des Trois Couronnes"
+    }, 
+    {
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.530567603471, 
+      "lon": 5.571365312375, 
+      "municipality": "Esneux", 
+      "pcode": "4130", 
+      "source": "7728552", 
+      "street": "Avenue des Trois Couronnes"
+    }, 
+    {
+      "busnrs": [
+        "0012"
+      ], 
       "hnrlbls": [
         "8"
       ], 
@@ -121,6 +153,9 @@
       "street": "Avenue des Trois Couronnes"
     }, 
     {
+      "busnrs": [
+        "0011"
+      ], 
       "hnrlbls": [
         "9"
       ], 

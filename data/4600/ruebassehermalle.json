@@ -121,12 +121,22 @@
       "street": "Rue Basse Hermalle"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8"
+      ], 
       "hnrlbls": [
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.735162456622, 
-      "lon": 5.688877297411, 
+      "lat": 50.735170771506, 
+      "lon": 5.689278632727, 
       "municipality": "Vis\u00e9", 
       "pcode": "4600", 
       "source": "7733293", 
@@ -149,8 +159,8 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.735099484192, 
-      "lon": 5.688866776311, 
+      "lat": 50.735120905067, 
+      "lon": 5.68886587783, 
       "municipality": "Vis\u00e9", 
       "pcode": "4600", 
       "source": "7733293", 
@@ -163,6 +173,24 @@
       "housenumber": "28", 
       "lat": 50.734434232971, 
       "lon": 5.687554626979, 
+      "municipality": "Vis\u00e9", 
+      "pcode": "4600", 
+      "source": "7733293", 
+      "street": "Rue Basse Hermalle"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
+      "hnrlbls": [
+        "29"
+      ], 
+      "housenumber": "29", 
+      "lat": 50.734999905931, 
+      "lon": 5.689116411765, 
       "municipality": "Vis\u00e9", 
       "pcode": "4600", 
       "source": "7733293", 
@@ -205,6 +233,9 @@
       "street": "Rue Basse Hermalle"
     }, 
     {
+      "busnrs": [
+        "A  1"
+      ], 
       "hnrlbls": [
         "33"
       ], 
@@ -217,6 +248,9 @@
       "street": "Rue Basse Hermalle"
     }, 
     {
+      "busnrs": [
+        "A 2"
+      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -397,6 +431,9 @@
       "street": "Rue Basse Hermalle"
     }, 
     {
+      "busnrs": [
+        "A  2"
+      ], 
       "hnrlbls": [
         "51"
       ], 
@@ -457,6 +494,9 @@
       "street": "Rue Basse Hermalle"
     }, 
     {
+      "busnrs": [
+        "A 1"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -481,6 +521,13 @@
       "street": "Rue Basse Hermalle"
     }, 
     {
+      "busnrs": [
+        "A  1", 
+        "A  2", 
+        "A  3", 
+        "B  1", 
+        "B  2"
+      ], 
       "hnrlbls": [
         "63"
       ], 
@@ -493,6 +540,13 @@
       "street": "Rue Basse Hermalle"
     }, 
     {
+      "busnrs": [
+        "A  1", 
+        "A  2", 
+        "A  3", 
+        "B  1", 
+        "B  2"
+      ], 
       "hnrlbls": [
         "65"
       ], 

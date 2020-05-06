@@ -1,6 +1,14 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +21,17 @@
       "street": "Rue En-Bois"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0031", 
+        "A001", 
+        "A002", 
+        "A011", 
+        "A013"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -38,6 +57,18 @@
     }, 
     {
       "hnrlbls": [
+        "102"
+      ], 
+      "housenumber": "102", 
+      "lat": 50.647043935682, 
+      "lon": 5.548861985033, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730916", 
+      "street": "Rue En-Bois"
+    }, 
+    {
+      "hnrlbls": [
         "102A"
       ], 
       "housenumber": "102A", 
@@ -50,6 +81,27 @@
     }, 
     {
       "hnrlbls": [
+        "102B"
+      ], 
+      "housenumber": "102B", 
+      "lat": 50.646444679236, 
+      "lon": 5.548292814235, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730916", 
+      "street": "Rue En-Bois"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0023"
+      ], 
+      "hnrlbls": [
         "104"
       ], 
       "housenumber": "104", 
@@ -61,6 +113,23 @@
       "street": "Rue En-Bois"
     }, 
     {
+      "hnrlbls": [
+        "10A"
+      ], 
+      "housenumber": "10A", 
+      "lat": 50.647025917283, 
+      "lon": 5.552629563822, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730916", 
+      "street": "Rue En-Bois"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011"
+      ], 
       "hnrlbls": [
         "116"
       ], 
@@ -98,6 +167,18 @@
     }, 
     {
       "hnrlbls": [
+        "11C"
+      ], 
+      "housenumber": "11C", 
+      "lat": 50.645912983532, 
+      "lon": 5.552302221148, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730916", 
+      "street": "Rue En-Bois"
+    }, 
+    {
+      "hnrlbls": [
         "12"
       ], 
       "housenumber": "12", 
@@ -109,6 +190,10 @@
       "street": "Rue En-Bois"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "120"
       ], 
@@ -121,6 +206,11 @@
       "street": "Rue En-Bois"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011"
+      ], 
       "hnrlbls": [
         "122"
       ], 
@@ -133,6 +223,11 @@
       "street": "Rue En-Bois"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011"
+      ], 
       "hnrlbls": [
         "124"
       ], 
@@ -181,12 +276,29 @@
       "street": "Rue En-Bois"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "133"
       ], 
       "housenumber": "133", 
       "lat": 50.645630244879, 
       "lon": 5.547649811951, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730916", 
+      "street": "Rue En-Bois"
+    }, 
+    {
+      "hnrlbls": [
+        "135"
+      ], 
+      "housenumber": "135", 
+      "lat": 50.645393393508, 
+      "lon": 5.547843728307, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730916", 
@@ -241,6 +353,11 @@
       "street": "Rue En-Bois"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011"
+      ], 
       "hnrlbls": [
         "144"
       ], 
@@ -265,6 +382,12 @@
       "street": "Rue En-Bois"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "147"
       ], 
@@ -314,6 +437,18 @@
     }, 
     {
       "hnrlbls": [
+        "153"
+      ], 
+      "housenumber": "153", 
+      "lat": 50.645083069557, 
+      "lon": 5.547055560038, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730916", 
+      "street": "Rue En-Bois"
+    }, 
+    {
+      "hnrlbls": [
         "155"
       ], 
       "housenumber": "155", 
@@ -349,6 +484,10 @@
       "street": "Rue En-Bois"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -386,11 +525,59 @@
     }, 
     {
       "hnrlbls": [
+        "165"
+      ], 
+      "housenumber": "165", 
+      "lat": 50.644809490524, 
+      "lon": 5.546750789538, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730916", 
+      "street": "Rue En-Bois"
+    }, 
+    {
+      "hnrlbls": [
+        "167"
+      ], 
+      "housenumber": "167", 
+      "lat": 50.644722433074, 
+      "lon": 5.546717507113, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730916", 
+      "street": "Rue En-Bois"
+    }, 
+    {
+      "hnrlbls": [
+        "169"
+      ], 
+      "housenumber": "169", 
+      "lat": 50.644690040521, 
+      "lon": 5.546684316953, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730916", 
+      "street": "Rue En-Bois"
+    }, 
+    {
+      "hnrlbls": [
         "17"
       ], 
       "housenumber": "17", 
       "lat": 50.646505157672, 
       "lon": 5.552488153363, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730916", 
+      "street": "Rue En-Bois"
+    }, 
+    {
+      "hnrlbls": [
+        "171"
+      ], 
+      "housenumber": "171", 
+      "lat": 50.644665796405, 
+      "lon": 5.546645532723, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730916", 
@@ -421,6 +608,12 @@
       "street": "Rue En-Bois"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -469,12 +662,32 @@
       "street": "Rue En-Bois"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "24"
       ], 
       "housenumber": "24", 
       "lat": 50.646666080602, 
       "lon": 5.552252317725, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730916", 
+      "street": "Rue En-Bois"
+    }, 
+    {
+      "hnrlbls": [
+        "25"
+      ], 
+      "housenumber": "25", 
+      "lat": 50.646465845804, 
+      "lon": 5.552197646095, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730916", 
@@ -517,6 +730,11 @@
       "street": "Rue En-Bois"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -553,6 +771,11 @@
       "street": "Rue En-Bois"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "32"
       ], 
@@ -590,6 +813,25 @@
     }, 
     {
       "hnrlbls": [
+        "35"
+      ], 
+      "housenumber": "35", 
+      "lat": 50.646201435965, 
+      "lon": 5.552008738433, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730916", 
+      "street": "Rue En-Bois"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
+      "hnrlbls": [
         "36"
       ], 
       "housenumber": "36", 
@@ -602,11 +844,52 @@
     }, 
     {
       "hnrlbls": [
+        "37A"
+      ], 
+      "housenumber": "37A", 
+      "lat": 50.646279753497, 
+      "lon": 5.552025974742, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730916", 
+      "street": "Rue En-Bois"
+    }, 
+    {
+      "hnrlbls": [
+        "37B"
+      ], 
+      "housenumber": "37B", 
+      "lat": 50.64629487604, 
+      "lon": 5.552148389597, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730916", 
+      "street": "Rue En-Bois"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
+      "hnrlbls": [
         "38"
       ], 
       "housenumber": "38", 
       "lat": 50.646595036286, 
       "lon": 5.55173232651, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730916", 
+      "street": "Rue En-Bois"
+    }, 
+    {
+      "hnrlbls": [
+        "39"
+      ], 
+      "housenumber": "39", 
+      "lat": 50.646324484632, 
+      "lon": 5.552003764183, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730916", 
@@ -673,6 +956,10 @@
       "street": "Rue En-Bois"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "44"
       ], 
@@ -758,11 +1045,40 @@
     }, 
     {
       "hnrlbls": [
+        "50"
+      ], 
+      "housenumber": "50", 
+      "lat": 50.646806205355, 
+      "lon": 5.551393924251, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730916", 
+      "street": "Rue En-Bois"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
+      "hnrlbls": [
         "51"
       ], 
       "housenumber": "51", 
       "lat": 50.646312601818, 
       "lon": 5.551727606275, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730916", 
+      "street": "Rue En-Bois"
+    }, 
+    {
+      "hnrlbls": [
+        "52"
+      ], 
+      "housenumber": "52", 
+      "lat": 50.647084899041, 
+      "lon": 5.551388041939, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730916", 
@@ -781,6 +1097,12 @@
       "street": "Rue En-Bois"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "54"
       ], 
@@ -799,6 +1121,18 @@
       "housenumber": "55", 
       "lat": 50.646307894562, 
       "lon": 5.551559551421, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730916", 
+      "street": "Rue En-Bois"
+    }, 
+    {
+      "hnrlbls": [
+        "56"
+      ], 
+      "housenumber": "56", 
+      "lat": 50.6467170611, 
+      "lon": 5.551202907598, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730916", 
@@ -841,12 +1175,40 @@
       "street": "Rue En-Bois"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "0003"
+      ], 
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.646941467106, 
+      "lon": 5.552809157185, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730916", 
+      "street": "Rue En-Bois"
+    }, 
+    {
       "hnrlbls": [
         "60"
       ], 
       "housenumber": "60", 
       "lat": 50.647164896904, 
       "lon": 5.551174678104, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730916", 
+      "street": "Rue En-Bois"
+    }, 
+    {
+      "hnrlbls": [
+        "61"
+      ], 
+      "housenumber": "61", 
+      "lat": 50.646368359174, 
+      "lon": 5.551374181485, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730916", 
@@ -877,12 +1239,42 @@
       "street": "Rue En-Bois"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "64"
       ], 
       "housenumber": "64", 
       "lat": 50.646580374507, 
       "lon": 5.551008055962, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730916", 
+      "street": "Rue En-Bois"
+    }, 
+    {
+      "hnrlbls": [
+        "64B"
+      ], 
+      "housenumber": "64B", 
+      "lat": 50.646893599004, 
+      "lon": 5.551012327359, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730916", 
+      "street": "Rue En-Bois"
+    }, 
+    {
+      "hnrlbls": [
+        "64C"
+      ], 
+      "housenumber": "64C", 
+      "lat": 50.646794794581, 
+      "lon": 5.550940560513, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730916", 
@@ -901,6 +1293,13 @@
       "street": "Rue En-Bois"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "66"
       ], 
@@ -1069,6 +1468,13 @@
       "street": "Rue En-Bois"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "79"
       ], 
@@ -1081,6 +1487,12 @@
       "street": "Rue En-Bois"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021"
+      ], 
       "hnrlbls": [
         "8"
       ], 
@@ -1117,6 +1529,12 @@
       "street": "Rue En-Bois"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "82"
       ], 
@@ -1141,6 +1559,11 @@
       "street": "Rue En-Bois"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011"
+      ], 
       "hnrlbls": [
         "84"
       ], 
@@ -1177,6 +1600,12 @@
       "street": "Rue En-Bois"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "87"
       ], 
@@ -1297,6 +1726,11 @@
       "street": "Rue En-Bois"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "96"
       ], 

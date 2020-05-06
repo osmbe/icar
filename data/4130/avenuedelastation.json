@@ -13,6 +13,9 @@
       "street": "Avenue de la Station"
     }, 
     {
+      "busnrs": [
+        "0011"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -25,6 +28,10 @@
       "street": "Avenue de la Station"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -73,18 +80,30 @@
       "street": "Avenue de la Station"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.532094761775, 
-      "lon": 5.569123452357, 
+      "lat": 50.532043298942, 
+      "lon": 5.56908482252, 
       "municipality": "Esneux", 
       "pcode": "4130", 
       "source": "7728545", 
       "street": "Avenue de la Station"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -97,6 +116,9 @@
       "street": "Avenue de la Station"
     }, 
     {
+      "busnrs": [
+        "0011"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -109,6 +131,10 @@
       "street": "Avenue de la Station"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -133,6 +159,10 @@
       "street": "Avenue de la Station"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -145,6 +175,10 @@
       "street": "Avenue de la Station"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -229,6 +263,12 @@
       "street": "Avenue de la Station"
     }, 
     {
+      "busnrs": [
+        "33/11", 
+        "33/12", 
+        "33/21", 
+        "33/22"
+      ], 
       "hnrlbls": [
         "33"
       ], 
@@ -325,10 +365,17 @@
       "street": "Avenue de la Station"
     }, 
     {
-      "hnrlbls": [
-        "41"
+      "busnrs": [
+        "A011", 
+        "A012", 
+        "A013", 
+        "A014", 
+        "A021"
       ], 
-      "housenumber": "41", 
+      "hnrlbls": [
+        "40"
+      ], 
+      "housenumber": "40", 
       "lat": 50.531747892597, 
       "lon": 5.570654759964, 
       "municipality": "Esneux", 
@@ -349,18 +396,27 @@
       "street": "Avenue de la Station"
     }, 
     {
-      "hnrlbls": [
-        "43"
+      "busnrs": [
+        "0011", 
+        "0021"
       ], 
-      "housenumber": "43", 
-      "lat": 50.531729290431, 
-      "lon": 5.570873251125, 
+      "hnrlbls": [
+        "44"
+      ], 
+      "housenumber": "44", 
+      "lat": 50.531680171202, 
+      "lon": 5.57084960832, 
       "municipality": "Esneux", 
       "pcode": "4130", 
       "source": "7728545", 
       "street": "Avenue de la Station"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "0022"
+      ], 
       "hnrlbls": [
         "45"
       ], 
@@ -373,12 +429,27 @@
       "street": "Avenue de la Station"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 50.531635027687, 
-      "lon": 5.571209076346, 
+      "lat": 50.531604239268, 
+      "lon": 5.571195696339, 
+      "municipality": "Esneux", 
+      "pcode": "4130", 
+      "source": "7728545", 
+      "street": "Avenue de la Station"
+    }, 
+    {
+      "hnrlbls": [
+        "47"
+      ], 
+      "housenumber": "47", 
+      "lat": 50.531651876945, 
+      "lon": 5.571224012013, 
       "municipality": "Esneux", 
       "pcode": "4130", 
       "source": "7728545", 
@@ -389,20 +460,33 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 50.5316222554, 
-      "lon": 5.571300049857, 
+      "lat": 50.531592373148, 
+      "lon": 5.571285293457, 
       "municipality": "Esneux", 
       "pcode": "4130", 
       "source": "7728545", 
       "street": "Avenue de la Station"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "11", 
+        "12", 
+        "21", 
+        "22", 
+        "31", 
+        "32", 
+        "41", 
+        "42", 
+        "51", 
+        "52"
+      ], 
       "hnrlbls": [
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 50.531651968006, 
-      "lon": 5.571415309088, 
+      "lat": 50.531591882798, 
+      "lon": 5.571388121224, 
       "municipality": "Esneux", 
       "pcode": "4130", 
       "source": "7728545", 
@@ -421,6 +505,11 @@
       "street": "Avenue de la Station"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0022", 
+        "0031"
+      ], 
       "hnrlbls": [
         "51"
       ], 
@@ -433,6 +522,10 @@
       "street": "Avenue de la Station"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "52"
       ], 
@@ -445,6 +538,10 @@
       "street": "Avenue de la Station"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "53"
       ], 
@@ -457,6 +554,11 @@
       "street": "Avenue de la Station"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "11", 
+        "21"
+      ], 
       "hnrlbls": [
         "54"
       ], 
@@ -493,12 +595,17 @@
       "street": "Avenue de la Station"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.532304912913, 
-      "lon": 5.56853326561, 
+      "lat": 50.532303090287, 
+      "lon": 5.568456145218, 
       "municipality": "Esneux", 
       "pcode": "4130", 
       "source": "7728545", 
@@ -509,8 +616,8 @@
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 50.531486844125, 
-      "lon": 5.572074656995, 
+      "lat": 50.531460602523, 
+      "lon": 5.5720586865, 
       "municipality": "Esneux", 
       "pcode": "4130", 
       "source": "7728545", 
@@ -521,8 +628,8 @@
         "61"
       ], 
       "housenumber": "61", 
-      "lat": 50.531459802569, 
-      "lon": 5.572183831224, 
+      "lat": 50.531444498551, 
+      "lon": 5.572145370926, 
       "municipality": "Esneux", 
       "pcode": "4130", 
       "source": "7728545", 
@@ -533,14 +640,19 @@
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 50.53144289763, 
-      "lon": 5.572284841639, 
+      "lat": 50.531421788248, 
+      "lon": 5.572278705564, 
       "municipality": "Esneux", 
       "pcode": "4130", 
       "source": "7728545", 
       "street": "Avenue de la Station"
     }, 
     {
+      "busnrs": [
+        "11", 
+        "12", 
+        "21"
+      ], 
       "hnrlbls": [
         "63"
       ], 

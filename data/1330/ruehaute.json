@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -97,6 +101,9 @@
       "street": "Rue Haute"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -109,6 +116,10 @@
       "street": "Rue Haute"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "002"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -121,6 +132,11 @@
       "street": "Rue Haute"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -301,6 +317,9 @@
       "street": "Rue Haute"
     }, 
     {
+      "busnrs": [
+        "001"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -493,12 +512,16 @@
       "street": "Rue Haute"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 50.708258782673, 
-      "lon": 4.512209892355, 
+      "lat": 50.708238602334, 
+      "lon": 4.512101129551, 
       "municipality": "Rixensart", 
       "pcode": "1330", 
       "source": "7703637", 
@@ -601,6 +624,13 @@
       "street": "Rue Haute"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "102", 
+        "103", 
+        "201", 
+        "202"
+      ], 
       "hnrlbls": [
         "50"
       ], 
@@ -619,6 +649,18 @@
       "housenumber": "51", 
       "lat": 50.708755534465, 
       "lon": 4.512358030837, 
+      "municipality": "Rixensart", 
+      "pcode": "1330", 
+      "source": "7703637", 
+      "street": "Rue Haute"
+    }, 
+    {
+      "hnrlbls": [
+        "51A"
+      ], 
+      "housenumber": "51A", 
+      "lat": 50.709218798829, 
+      "lon": 4.511596467925, 
       "municipality": "Rixensart", 
       "pcode": "1330", 
       "source": "7703637", 
@@ -649,6 +691,10 @@
       "street": "Rue Haute"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "55"
       ], 
@@ -709,6 +755,11 @@
       "street": "Rue Haute"
     }, 
     {
+      "busnrs": [
+        "A001", 
+        "A101", 
+        "A201"
+      ], 
       "hnrlbls": [
         "8"
       ], 

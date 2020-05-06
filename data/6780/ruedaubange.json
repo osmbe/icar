@@ -85,6 +85,11 @@
       "street": "Rue d'Aubange"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "1/1", 
+        "2/1"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -133,6 +138,12 @@
       "street": "Rue d'Aubange"
     }, 
     {
+      "busnrs": [
+        "1/1", 
+        "1/2", 
+        "2/1", 
+        "2/2"
+      ], 
       "hnrlbls": [
         "12C"
       ], 
@@ -205,6 +216,12 @@
       "street": "Rue d'Aubange"
     }, 
     {
+      "busnrs": [
+        "1/1", 
+        "1/2", 
+        "2/1", 
+        "2/2"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -257,8 +274,8 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 49.588206883244, 
-      "lon": 5.817136791284, 
+      "lat": 49.588240393602, 
+      "lon": 5.817139627293, 
       "municipality": "Messancy", 
       "pcode": "6780", 
       "source": "7742217", 
@@ -269,14 +286,31 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 49.588014393647, 
-      "lon": 5.817093178403, 
+      "lat": 49.588015442134, 
+      "lon": 5.817085524978, 
       "municipality": "Messancy", 
       "pcode": "6780", 
       "source": "7742217", 
       "street": "Rue d'Aubange"
     }, 
     {
+      "hnrlbls": [
+        "29A"
+      ], 
+      "housenumber": "29A", 
+      "lat": 49.587937981659, 
+      "lon": 5.817114846436, 
+      "municipality": "Messancy", 
+      "pcode": "6780", 
+      "source": "7742217", 
+      "street": "Rue d'Aubange"
+    }, 
+    {
+      "busnrs": [
+        "1/1", 
+        "2/1", 
+        "O"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -289,6 +323,14 @@
       "street": "Rue d'Aubange"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "0/2", 
+        "1/1", 
+        "1/2", 
+        "2/1", 
+        "2/2"
+      ], 
       "hnrlbls": [
         "32"
       ], 
@@ -613,12 +655,15 @@
       "street": "Rue d'Aubange"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "67"
       ], 
       "housenumber": "67", 
-      "lat": 49.585605938359, 
-      "lon": 5.814685858659, 
+      "lat": 49.585587914035, 
+      "lon": 5.814747072556, 
       "municipality": "Messancy", 
       "pcode": "6780", 
       "source": "7742217", 
@@ -629,8 +674,8 @@
         "69"
       ], 
       "housenumber": "69", 
-      "lat": 49.58534492904, 
-      "lon": 5.814535354854, 
+      "lat": 49.585360496288, 
+      "lon": 5.814489711745, 
       "municipality": "Messancy", 
       "pcode": "6780", 
       "source": "7742217", 
@@ -665,14 +710,20 @@
         "71"
       ], 
       "housenumber": "71", 
-      "lat": 49.585231428985, 
-      "lon": 5.814367278678, 
+      "lat": 49.585211810918, 
+      "lon": 5.814383377842, 
       "municipality": "Messancy", 
       "pcode": "6780", 
       "source": "7742217", 
       "street": "Rue d'Aubange"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004"
+      ], 
       "hnrlbls": [
         "73"
       ], 
@@ -689,8 +740,8 @@
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 49.584876803964, 
-      "lon": 5.813990197529, 
+      "lat": 49.584898347936, 
+      "lon": 5.813979863985, 
       "municipality": "Messancy", 
       "pcode": "6780", 
       "source": "7742217", 
@@ -701,6 +752,18 @@
         "75A"
       ], 
       "housenumber": "75A", 
+      "lat": 49.584859816356, 
+      "lon": 5.81397688134, 
+      "municipality": "Messancy", 
+      "pcode": "6780", 
+      "source": "7742217", 
+      "street": "Rue d'Aubange"
+    }, 
+    {
+      "hnrlbls": [
+        "79A"
+      ], 
+      "housenumber": "79A", 
       "lat": 49.584696363853, 
       "lon": 5.813854118085, 
       "municipality": "Messancy", 
@@ -709,12 +772,27 @@
       "street": "Rue d'Aubange"
     }, 
     {
-      "hnrlbls": [
-        "79"
+      "busnrs": [
+        "2/1"
       ], 
-      "housenumber": "79", 
-      "lat": 49.584594367095, 
-      "lon": 5.81373579227, 
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 49.58855132663, 
+      "lon": 5.81676983911, 
+      "municipality": "Messancy", 
+      "pcode": "6780", 
+      "source": "7742217", 
+      "street": "Rue d'Aubange"
+    }, 
+    {
+      "hnrlbls": [
+        "80"
+      ], 
+      "housenumber": "80", 
+      "lat": 49.584434172828, 
+      "lon": 5.813052912382, 
       "municipality": "Messancy", 
       "pcode": "6780", 
       "source": "7742217", 
@@ -725,8 +803,8 @@
         "81"
       ], 
       "housenumber": "81", 
-      "lat": 49.584550901317, 
-      "lon": 5.813692407776, 
+      "lat": 49.584645879486, 
+      "lon": 5.813801375525, 
       "municipality": "Messancy", 
       "pcode": "6780", 
       "source": "7742217", 
@@ -737,8 +815,8 @@
         "83"
       ], 
       "housenumber": "83", 
-      "lat": 49.584500301119, 
-      "lon": 5.8136488097, 
+      "lat": 49.584594367095, 
+      "lon": 5.81373579227, 
       "municipality": "Messancy", 
       "pcode": "6780", 
       "source": "7742217", 
@@ -761,8 +839,8 @@
         "85"
       ], 
       "housenumber": "85", 
-      "lat": 49.584447529943, 
-      "lon": 5.813588679893, 
+      "lat": 49.584550901317, 
+      "lon": 5.813692407776, 
       "municipality": "Messancy", 
       "pcode": "6780", 
       "source": "7742217", 
@@ -773,8 +851,20 @@
         "87"
       ], 
       "housenumber": "87", 
-      "lat": 49.584391122541, 
-      "lon": 5.813533929338, 
+      "lat": 49.584500301119, 
+      "lon": 5.8136488097, 
+      "municipality": "Messancy", 
+      "pcode": "6780", 
+      "source": "7742217", 
+      "street": "Rue d'Aubange"
+    }, 
+    {
+      "hnrlbls": [
+        "89"
+      ], 
+      "housenumber": "89", 
+      "lat": 49.584447529943, 
+      "lon": 5.813588679893, 
       "municipality": "Messancy", 
       "pcode": "6780", 
       "source": "7742217", 
@@ -787,6 +877,42 @@
       "housenumber": "9", 
       "lat": 49.589154187741, 
       "lon": 5.817296788816, 
+      "municipality": "Messancy", 
+      "pcode": "6780", 
+      "source": "7742217", 
+      "street": "Rue d'Aubange"
+    }, 
+    {
+      "hnrlbls": [
+        "91"
+      ], 
+      "housenumber": "91", 
+      "lat": 49.584391122541, 
+      "lon": 5.813533929338, 
+      "municipality": "Messancy", 
+      "pcode": "6780", 
+      "source": "7742217", 
+      "street": "Rue d'Aubange"
+    }, 
+    {
+      "hnrlbls": [
+        "93"
+      ], 
+      "housenumber": "93", 
+      "lat": 49.584336613815, 
+      "lon": 5.813483192714, 
+      "municipality": "Messancy", 
+      "pcode": "6780", 
+      "source": "7742217", 
+      "street": "Rue d'Aubange"
+    }, 
+    {
+      "hnrlbls": [
+        "95"
+      ], 
+      "housenumber": "95", 
+      "lat": 49.584285147285, 
+      "lon": 5.813432799017, 
       "municipality": "Messancy", 
       "pcode": "6780", 
       "source": "7742217", 

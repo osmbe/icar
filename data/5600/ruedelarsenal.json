@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0002"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -17,8 +20,29 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.196678794431, 
-      "lon": 4.542871078783, 
+      "lat": 50.196764335235, 
+      "lon": 4.542944299393, 
+      "municipality": "Philippeville", 
+      "pcode": "5600", 
+      "source": "7757537", 
+      "street": "Rue de l'Arsenal"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0022", 
+        "0031", 
+        "0041", 
+        "0052"
+      ], 
+      "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 50.197091757029, 
+      "lon": 4.543108895614, 
       "municipality": "Philippeville", 
       "pcode": "5600", 
       "source": "7757537", 

@@ -37,6 +37,11 @@
       "street": "Feltzstrasse"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "1/1", 
+        "1/2"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -61,6 +66,9 @@
       "street": "Feltzstrasse"
     }, 
     {
+      "busnrs": [
+        "1/1"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -134,6 +142,30 @@
     }, 
     {
       "hnrlbls": [
+        "1A"
+      ], 
+      "housenumber": "1A", 
+      "lat": 50.282574606866, 
+      "lon": 6.126772846499, 
+      "municipality": "Sankt Vith", 
+      "pcode": "4780", 
+      "source": "7737647", 
+      "street": "Feltzstrasse"
+    }, 
+    {
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.282357206979, 
+      "lon": 6.127028954285, 
+      "municipality": "Sankt Vith", 
+      "pcode": "4780", 
+      "source": "7737647", 
+      "street": "Feltzstrasse"
+    }, 
+    {
+      "hnrlbls": [
         "21"
       ], 
       "housenumber": "21", 
@@ -173,8 +205,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.282288828507, 
-      "lon": 6.128491924917, 
+      "lat": 50.282309437593, 
+      "lon": 6.128482290614, 
       "municipality": "Sankt Vith", 
       "pcode": "4780", 
       "source": "7737647", 

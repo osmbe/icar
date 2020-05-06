@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "ABt1", 
+        "ABt2"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +18,9 @@
       "street": "Rue Ferdinand Delcroix"
     }, 
     {
+      "busnrs": [
+        "A001"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -133,6 +141,11 @@
       "street": "Rue Ferdinand Delcroix"
     }, 
     {
+      "busnrs": [
+        "A000", 
+        "A002", 
+        "ABt3"
+      ], 
       "hnrlbls": [
         "1A"
       ], 
@@ -170,11 +183,35 @@
     }, 
     {
       "hnrlbls": [
+        "21"
+      ], 
+      "housenumber": "21", 
+      "lat": 50.602263400385, 
+      "lon": 4.331993940734, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703132", 
+      "street": "Rue Ferdinand Delcroix"
+    }, 
+    {
+      "hnrlbls": [
         "22"
       ], 
       "housenumber": "22", 
       "lat": 50.602212436964, 
       "lon": 4.332797409736, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703132", 
+      "street": "Rue Ferdinand Delcroix"
+    }, 
+    {
+      "hnrlbls": [
+        "23"
+      ], 
+      "housenumber": "23", 
+      "lat": 50.602305132245, 
+      "lon": 4.331953544123, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703132", 
@@ -229,6 +266,9 @@
       "street": "Rue Ferdinand Delcroix"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -253,6 +293,11 @@
       "street": "Rue Ferdinand Delcroix"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -293,8 +338,8 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 50.602390224274, 
-      "lon": 4.330634160152, 
+      "lat": 50.602183636037, 
+      "lon": 4.330250111635, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703132", 
@@ -307,6 +352,23 @@
       "housenumber": "36", 
       "lat": 50.603040201655, 
       "lon": 4.331821962622, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703132", 
+      "street": "Rue Ferdinand Delcroix"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "ORDC"
+      ], 
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.601769145414, 
+      "lon": 4.332911297393, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703132", 
@@ -331,18 +393,6 @@
       "housenumber": "7", 
       "lat": 50.601693876494, 
       "lon": 4.332452536009, 
-      "municipality": "Nivelles", 
-      "pcode": "1400", 
-      "source": "7703132", 
-      "street": "Rue Ferdinand Delcroix"
-    }, 
-    {
-      "hnrlbls": [
-        "8"
-      ], 
-      "housenumber": "8", 
-      "lat": 50.601769145414, 
-      "lon": 4.332911297393, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703132", 

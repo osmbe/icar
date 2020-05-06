@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "101"
       ], 
@@ -13,6 +16,9 @@
       "street": "Rue Grogerie"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "103"
       ], 
@@ -385,6 +391,9 @@
       "street": "Rue Grogerie"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -457,6 +466,9 @@
       "street": "Rue Grogerie"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "38"
       ], 
@@ -509,8 +521,8 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 50.337494056196, 
-      "lon": 4.425111174017, 
+      "lat": 50.337495020565, 
+      "lon": 4.425234172328, 
       "municipality": "Ham-sur-Heure-Nalinnes", 
       "pcode": "6120", 
       "source": "7721560", 
@@ -949,6 +961,11 @@
       "street": "Rue Grogerie"
     }, 
     {
+      "busnrs": [
+        "A/0/1", 
+        "A/0/2", 
+        "A/1/1"
+      ], 
       "hnrlbls": [
         "99"
       ], 

@@ -53,8 +53,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 50.689032828382, 
-      "lon": 4.259255237444, 
+      "lat": 50.689099444748, 
+      "lon": 4.259401640901, 
       "municipality": "Braine-le-Ch\u00e2teau", 
       "pcode": "1440", 
       "source": "7700948", 
@@ -121,6 +121,9 @@
       "street": "Rue Mathias"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -217,6 +220,9 @@
       "street": "Rue Mathias"
     }, 
     {
+      "busnrs": [
+        "bte1"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -421,6 +427,12 @@
       "street": "Rue Mathias"
     }, 
     {
+      "busnrs": [
+        "000C", 
+        "Abt1", 
+        "Abt2", 
+        "Abt3"
+      ], 
       "hnrlbls": [
         "55"
       ], 
@@ -433,6 +445,9 @@
       "street": "Rue Mathias"
     }, 
     {
+      "busnrs": [
+        "000B"
+      ], 
       "hnrlbls": [
         "57"
       ], 
@@ -445,6 +460,9 @@
       "street": "Rue Mathias"
     }, 
     {
+      "busnrs": [
+        "000B"
+      ], 
       "hnrlbls": [
         "59"
       ], 
@@ -469,6 +487,10 @@
       "street": "Rue Mathias"
     }, 
     {
+      "busnrs": [
+        "bte1", 
+        "bte3"
+      ], 
       "hnrlbls": [
         "63"
       ], 

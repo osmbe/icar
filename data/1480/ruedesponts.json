@@ -301,6 +301,10 @@
       "street": "Rue des Ponts"
     }, 
     {
+      "busnrs": [
+        "R01", 
+        "R02"
+      ], 
       "hnrlbls": [
         "131"
       ], 
@@ -373,6 +377,10 @@
       "street": "Rue des Ponts"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -457,6 +465,15 @@
       "street": "Rue des Ponts"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "102", 
+        "103", 
+        "104", 
+        "R01", 
+        "R02", 
+        "R03"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -505,30 +522,54 @@
       "street": "Rue des Ponts"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "102", 
+        "R01", 
+        "R02"
+      ], 
       "hnrlbls": [
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 50.689176163468, 
-      "lon": 4.202352398856, 
+      "lat": 50.689270928394, 
+      "lon": 4.202387744469, 
       "municipality": "Tubize", 
       "pcode": "1480", 
       "source": "7703871", 
       "street": "Rue des Ponts"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "102", 
+        "103", 
+        "104", 
+        "201", 
+        "202", 
+        "R01", 
+        "R02", 
+        "R03"
+      ], 
       "hnrlbls": [
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 50.688917591491, 
-      "lon": 4.202304738065, 
+      "lat": 50.689103185868, 
+      "lon": 4.202350890501, 
       "municipality": "Tubize", 
       "pcode": "1480", 
       "source": "7703871", 
       "street": "Rue des Ponts"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "R01", 
+        "R02"
+      ], 
       "hnrlbls": [
         "36"
       ], 
@@ -589,6 +630,10 @@
       "street": "Rue des Ponts"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "59"
       ], 

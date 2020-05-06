@@ -1,6 +1,14 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +21,9 @@
       "street": "Villers de Chavan"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -55,18 +66,6 @@
       "housenumber": "16", 
       "lat": 50.303429750111, 
       "lon": 5.696002307533, 
-      "municipality": "Manhay", 
-      "pcode": "6960", 
-      "source": "7744831", 
-      "street": "Villers de Chavan"
-    }, 
-    {
-      "hnrlbls": [
-        "17"
-      ], 
-      "housenumber": "17", 
-      "lat": 50.302580642077, 
-      "lon": 5.696138332587, 
       "municipality": "Manhay", 
       "pcode": "6960", 
       "source": "7744831", 

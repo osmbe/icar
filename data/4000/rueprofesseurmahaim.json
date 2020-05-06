@@ -1,6 +1,13 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -49,6 +56,11 @@
       "street": "Rue Professeur-Mahaim"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -277,6 +289,11 @@
       "street": "Rue Professeur-Mahaim"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "38"
       ], 
@@ -337,6 +354,12 @@
       "street": "Rue Professeur-Mahaim"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "43"
       ], 
@@ -397,6 +420,11 @@
       "street": "Rue Professeur-Mahaim"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "48"
       ], 
@@ -421,6 +449,12 @@
       "street": "Rue Professeur-Mahaim"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011"
+      ], 
       "hnrlbls": [
         "51"
       ], 
@@ -433,6 +467,11 @@
       "street": "Rue Professeur-Mahaim"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011"
+      ], 
       "hnrlbls": [
         "52"
       ], 
@@ -493,6 +532,11 @@
       "street": "Rue Professeur-Mahaim"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -625,6 +669,11 @@
       "street": "Rue Professeur-Mahaim"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "74"
       ], 
@@ -653,8 +702,8 @@
         "76"
       ], 
       "housenumber": "76", 
-      "lat": 50.615628947243, 
-      "lon": 5.558028463821, 
+      "lat": 50.61566560295, 
+      "lon": 5.55800037482, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731263", 
@@ -677,8 +726,8 @@
         "78"
       ], 
       "housenumber": "78", 
-      "lat": 50.615633680957, 
-      "lon": 5.557933688734, 
+      "lat": 50.615595123622, 
+      "lon": 5.557976327896, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731263", 
@@ -727,6 +776,18 @@
       "housenumber": "81", 
       "lat": 50.615085876652, 
       "lon": 5.558045604445, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731263", 
+      "street": "Rue Professeur-Mahaim"
+    }, 
+    {
+      "hnrlbls": [
+        "82"
+      ], 
+      "housenumber": "82", 
+      "lat": 50.615292824925, 
+      "lon": 5.557595116213, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731263", 

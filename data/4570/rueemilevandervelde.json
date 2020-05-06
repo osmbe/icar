@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -145,6 +148,9 @@
       "street": "Rue Emile Vandervelde"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -157,6 +163,10 @@
       "street": "Rue Emile Vandervelde"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "2"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -241,6 +251,10 @@
       "street": "Rue Emile Vandervelde"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -337,6 +351,9 @@
       "street": "Rue Emile Vandervelde"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -385,6 +402,9 @@
       "street": "Rue Emile Vandervelde"
     }, 
     {
+      "busnrs": [
+        "003A"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -425,8 +445,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 50.475952096765, 
-      "lon": 5.212874271758, 
+      "lat": 50.476240158545, 
+      "lon": 5.214746314977, 
       "municipality": "Marchin", 
       "pcode": "4570", 
       "source": "7725772", 
@@ -517,6 +537,53 @@
       "street": "Rue Emile Vandervelde"
     }, 
     {
+      "busnrs": [
+        "A0/1", 
+        "A0/2", 
+        "A1/1", 
+        "A1/2", 
+        "A1/3", 
+        "A1/4", 
+        "A1/5", 
+        "A1/6", 
+        "A1/7", 
+        "A1/8", 
+        "A1/9", 
+        "A110", 
+        "A2/1", 
+        "A2/2", 
+        "A2/3", 
+        "A2/4", 
+        "A2/5", 
+        "A2/6", 
+        "A2/7", 
+        "A2/8", 
+        "A2/9", 
+        "A210", 
+        "A3/1", 
+        "A3/2", 
+        "A3/3", 
+        "A3/4", 
+        "A3/5", 
+        "A3/7", 
+        "A3/8", 
+        "A3/9", 
+        "A310", 
+        "A4/1", 
+        "A4/2", 
+        "A4/3", 
+        "A4/4", 
+        "A4/5", 
+        "A4/6", 
+        "A4/7", 
+        "A4/8", 
+        "A4/9", 
+        "A410", 
+        "A5/1", 
+        "A5/2", 
+        "A5/3", 
+        "A5/4"
+      ], 
       "hnrlbls": [
         "6"
       ], 

@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004"
+      ], 
       "hnrlbls": [
         "100"
       ], 
@@ -229,6 +235,9 @@
       "street": "Rue de Fleurus"
     }, 
     {
+      "busnrs": [
+        "0002"
+      ], 
       "hnrlbls": [
         "119"
       ], 
@@ -1033,6 +1042,10 @@
       "street": "Rue de Fleurus"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "211"
       ], 
@@ -1045,6 +1058,10 @@
       "street": "Rue de Fleurus"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "000B"
+      ], 
       "hnrlbls": [
         "215"
       ], 
@@ -1181,8 +1198,8 @@
         "233"
       ], 
       "housenumber": "233", 
-      "lat": 50.406405998248, 
-      "lon": 4.537701144474, 
+      "lat": 50.406376257273, 
+      "lon": 4.537757125711, 
       "municipality": "Ch\u00e2telet", 
       "pcode": "6200", 
       "source": "7709163", 
@@ -1441,6 +1458,9 @@
       "street": "Rue de Fleurus"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "284"
       ], 
@@ -1717,6 +1737,15 @@
       "street": "Rue de Fleurus"
     }, 
     {
+      "busnrs": [
+        "01/1", 
+        "01/2", 
+        "01/3", 
+        "02/1", 
+        "02/3", 
+        "02/6", 
+        "2/2"
+      ], 
       "hnrlbls": [
         "62"
       ], 

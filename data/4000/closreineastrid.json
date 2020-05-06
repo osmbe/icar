@@ -37,6 +37,12 @@
       "street": "Clos Reine-Astrid"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012"
+      ], 
       "hnrlbls": [
         "101A"
       ], 
@@ -361,6 +367,10 @@
       "street": "Clos Reine-Astrid"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -554,6 +564,18 @@
     }, 
     {
       "hnrlbls": [
+        "46"
+      ], 
+      "housenumber": "46", 
+      "lat": 50.675998067079, 
+      "lon": 5.547487846095, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729780", 
+      "street": "Clos Reine-Astrid"
+    }, 
+    {
+      "hnrlbls": [
         "47"
       ], 
       "housenumber": "47", 
@@ -661,6 +683,11 @@
       "street": "Clos Reine-Astrid"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011"
+      ], 
       "hnrlbls": [
         "57"
       ], 

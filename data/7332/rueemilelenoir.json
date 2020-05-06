@@ -181,6 +181,9 @@
       "street": "Rue Emile Lenoir"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "128"
       ], 
@@ -217,6 +220,10 @@
       "street": "Rue Emile Lenoir"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0003"
+      ], 
       "hnrlbls": [
         "134"
       ], 
@@ -361,6 +368,15 @@
       "street": "Rue Emile Lenoir"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "RCH1", 
+        "RCH2", 
+        "RCH3"
+      ], 
       "hnrlbls": [
         "149"
       ], 
@@ -713,8 +729,8 @@
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 50.507777062456, 
-      "lon": 3.770493095465, 
+      "lat": 50.507870201305, 
+      "lon": 3.770594188221, 
       "municipality": "Saint-Ghislain", 
       "pcode": "7332", 
       "source": "7714817", 
@@ -797,8 +813,8 @@
         "77"
       ], 
       "housenumber": "77", 
-      "lat": 50.507854456666, 
-      "lon": 3.769863593759, 
+      "lat": 50.507787830954, 
+      "lon": 3.7698291478, 
       "municipality": "Saint-Ghislain", 
       "pcode": "7332", 
       "source": "7714817", 
@@ -841,6 +857,9 @@
       "street": "Rue Emile Lenoir"
     }, 
     {
+      "busnrs": [
+        "RCH2"
+      ], 
       "hnrlbls": [
         "83"
       ], 

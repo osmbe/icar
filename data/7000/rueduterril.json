@@ -1,6 +1,22 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0-1", 
+        "1-1"
+      ], 
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.439498870993, 
+      "lon": 3.945540341248, 
+      "municipality": "Mons", 
+      "pcode": "7000", 
+      "source": "7713975", 
+      "street": "Rue du Terril"
+    }, 
+    {
       "hnrlbls": [
         "10"
       ], 
@@ -25,6 +41,11 @@
       "street": "Rue du Terril"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "2-1"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -38,11 +59,39 @@
     }, 
     {
       "hnrlbls": [
+        "17"
+      ], 
+      "housenumber": "17", 
+      "lat": 50.43917082456, 
+      "lon": 3.945469516338, 
+      "municipality": "Mons", 
+      "pcode": "7000", 
+      "source": "7713975", 
+      "street": "Rue du Terril"
+    }, 
+    {
+      "hnrlbls": [
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 50.439118371669, 
-      "lon": 3.945462365044, 
+      "lat": 50.439094081956, 
+      "lon": 3.9454551317, 
+      "municipality": "Mons", 
+      "pcode": "7000", 
+      "source": "7713975", 
+      "street": "Rue du Terril"
+    }, 
+    {
+      "busnrs": [
+        "1-1", 
+        "1-2"
+      ], 
+      "hnrlbls": [
+        "1B"
+      ], 
+      "housenumber": "1B", 
+      "lat": 50.439577474128, 
+      "lon": 3.945569439014, 
       "municipality": "Mons", 
       "pcode": "7000", 
       "source": "7713975", 
@@ -77,8 +126,20 @@
         "21B"
       ], 
       "housenumber": "21B", 
-      "lat": 50.438606637243, 
-      "lon": 3.945209440816, 
+      "lat": 50.438499658039, 
+      "lon": 3.945288038294, 
+      "municipality": "Mons", 
+      "pcode": "7000", 
+      "source": "7713975", 
+      "street": "Rue du Terril"
+    }, 
+    {
+      "hnrlbls": [
+        "21C"
+      ], 
+      "housenumber": "21C", 
+      "lat": 50.438594219817, 
+      "lon": 3.945196142862, 
       "municipality": "Mons", 
       "pcode": "7000", 
       "source": "7713975", 
@@ -137,8 +198,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.439496263752, 
-      "lon": 3.945555428947, 
+      "lat": 50.439452388686, 
+      "lon": 3.9455260218, 
       "municipality": "Mons", 
       "pcode": "7000", 
       "source": "7713975", 
@@ -259,6 +320,30 @@
       "housenumber": "8", 
       "lat": 50.439682401258, 
       "lon": 3.945352417352, 
+      "municipality": "Mons", 
+      "pcode": "7000", 
+      "source": "7713975", 
+      "street": "Rue du Terril"
+    }, 
+    {
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.439339550567, 
+      "lon": 3.945520603676, 
+      "municipality": "Mons", 
+      "pcode": "7000", 
+      "source": "7713975", 
+      "street": "Rue du Terril"
+    }, 
+    {
+      "hnrlbls": [
+        "9Bis"
+      ], 
+      "housenumber": "9Bis", 
+      "lat": 50.439305109835, 
+      "lon": 3.945511168896, 
       "municipality": "Mons", 
       "pcode": "7000", 
       "source": "7713975", 

@@ -1,12 +1,31 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006"
+      ], 
       "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
       "lat": 50.270769009161, 
       "lon": 5.450986370455, 
+      "municipality": "Hotton", 
+      "pcode": "6990", 
+      "source": "7743657", 
+      "street": "Rue de la Scierie"
+    }, 
+    {
+      "hnrlbls": [
+        "13/2"
+      ], 
+      "housenumber": "13/2", 
+      "lat": 50.269699384557, 
+      "lon": 5.451928517312, 
       "municipality": "Hotton", 
       "pcode": "6990", 
       "source": "7743657", 
@@ -74,11 +93,35 @@
     }, 
     {
       "hnrlbls": [
+        "26"
+      ], 
+      "housenumber": "26", 
+      "lat": 50.270080514028, 
+      "lon": 5.452021374974, 
+      "municipality": "Hotton", 
+      "pcode": "6990", 
+      "source": "7743657", 
+      "street": "Rue de la Scierie"
+    }, 
+    {
+      "hnrlbls": [
         "28"
       ], 
       "housenumber": "28", 
       "lat": 50.269996667316, 
       "lon": 5.452101854529, 
+      "municipality": "Hotton", 
+      "pcode": "6990", 
+      "source": "7743657", 
+      "street": "Rue de la Scierie"
+    }, 
+    {
+      "hnrlbls": [
+        "30"
+      ], 
+      "housenumber": "30", 
+      "lat": 50.269918123775, 
+      "lon": 5.452206153347, 
       "municipality": "Hotton", 
       "pcode": "6990", 
       "source": "7743657", 
@@ -121,6 +164,10 @@
       "street": "Rue de la Scierie"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -133,6 +180,13 @@
       "street": "Rue de la Scierie"
     }, 
     {
+      "busnrs": [
+        "9", 
+        "9/1", 
+        "9/2", 
+        "9/3", 
+        "9/4"
+      ], 
       "hnrlbls": [
         "9"
       ], 

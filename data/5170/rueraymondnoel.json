@@ -13,6 +13,10 @@
       "street": "Rue Raymond Noel"
     }, 
     {
+      "busnrs": [
+        "C2", 
+        "C3"
+      ], 
       "hnrlbls": [
         "100"
       ], 
@@ -233,8 +237,8 @@
         "133"
       ], 
       "housenumber": "133", 
-      "lat": 50.396043801825, 
-      "lon": 4.823754230597, 
+      "lat": 50.396106009099, 
+      "lon": 4.823740017618, 
       "municipality": "Profondeville", 
       "pcode": "5170", 
       "source": "7755054", 
@@ -373,6 +377,11 @@
       "street": "Rue Raymond Noel"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -433,6 +442,10 @@
       "street": "Rue Raymond Noel"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -469,6 +482,9 @@
       "street": "Rue Raymond Noel"
     }, 
     {
+      "busnrs": [
+        "B2"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -577,6 +593,9 @@
       "street": "Rue Raymond Noel"
     }, 
     {
+      "busnrs": [
+        "0002"
+      ], 
       "hnrlbls": [
         "40"
       ], 
@@ -637,6 +656,9 @@
       "street": "Rue Raymond Noel"
     }, 
     {
+      "busnrs": [
+        "0047"
+      ], 
       "hnrlbls": [
         "45"
       ], 
@@ -697,6 +719,19 @@
       "street": "Rue Raymond Noel"
     }, 
     {
+      "busnrs": [
+        "B1", 
+        "B2", 
+        "B3", 
+        "B4", 
+        "B5", 
+        "B6", 
+        "D1", 
+        "D2", 
+        "E1", 
+        "E2", 
+        "E3"
+      ], 
       "hnrlbls": [
         "52"
       ], 
@@ -721,6 +756,12 @@
       "street": "Rue Raymond Noel"
     }, 
     {
+      "busnrs": [
+        "0006", 
+        "0007", 
+        "0008", 
+        "0009"
+      ], 
       "hnrlbls": [
         "54"
       ], 
@@ -1109,8 +1150,8 @@
         "99"
       ], 
       "housenumber": "99", 
-      "lat": 50.394475072283, 
-      "lon": 4.819008443761, 
+      "lat": 50.394448251761, 
+      "lon": 4.818906996349, 
       "municipality": "Profondeville", 
       "pcode": "5170", 
       "source": "7755054", 

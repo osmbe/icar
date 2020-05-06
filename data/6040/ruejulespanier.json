@@ -1,6 +1,14 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "001", 
+        "002", 
+        "011", 
+        "1/O2", 
+        "A011", 
+        "A012"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -37,6 +45,14 @@
       "street": "Rue Jules Panier"
     }, 
     {
+      "busnrs": [
+        "000B", 
+        "A012", 
+        "A022", 
+        "A1/1", 
+        "A1/2", 
+        "A2/1"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -97,6 +113,9 @@
       "street": "Rue Jules Panier"
     }, 
     {
+      "busnrs": [
+        "00RC"
+      ], 
       "hnrlbls": [
         "33"
       ], 
@@ -157,6 +176,11 @@
       "street": "Rue Jules Panier"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "003", 
+        "011"
+      ], 
       "hnrlbls": [
         "6"
       ], 

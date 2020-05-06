@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -89,8 +92,20 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 49.528353785846, 
-      "lon": 5.477731709714, 
+      "lat": 49.528387556932, 
+      "lon": 5.477561621011, 
+      "municipality": "Rouvroy", 
+      "pcode": "6767", 
+      "source": "7748189", 
+      "street": "Rue des P\u00e2quis"
+    }, 
+    {
+      "hnrlbls": [
+        "18"
+      ], 
+      "housenumber": "18", 
+      "lat": 49.528740399045, 
+      "lon": 5.477021928132, 
       "municipality": "Rouvroy", 
       "pcode": "6767", 
       "source": "7748189", 
@@ -146,11 +161,11 @@
     }, 
     {
       "hnrlbls": [
-        "20"
+        "20A"
       ], 
-      "housenumber": "20", 
-      "lat": 49.528740399045, 
-      "lon": 5.477021928132, 
+      "housenumber": "20A", 
+      "lat": 49.528785990392, 
+      "lon": 5.47701469023, 
       "municipality": "Rouvroy", 
       "pcode": "6767", 
       "source": "7748189", 
@@ -163,6 +178,30 @@
       "housenumber": "21", 
       "lat": 49.528873090879, 
       "lon": 5.477265538555, 
+      "municipality": "Rouvroy", 
+      "pcode": "6767", 
+      "source": "7748189", 
+      "street": "Rue des P\u00e2quis"
+    }, 
+    {
+      "hnrlbls": [
+        "21A"
+      ], 
+      "housenumber": "21A", 
+      "lat": 49.528814334628, 
+      "lon": 5.47728031887, 
+      "municipality": "Rouvroy", 
+      "pcode": "6767", 
+      "source": "7748189", 
+      "street": "Rue des P\u00e2quis"
+    }, 
+    {
+      "hnrlbls": [
+        "2A"
+      ], 
+      "housenumber": "2A", 
+      "lat": 49.527158009095, 
+      "lon": 5.478021623885, 
       "municipality": "Rouvroy", 
       "pcode": "6767", 
       "source": "7748189", 
@@ -185,8 +224,20 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 49.52770602994, 
-      "lon": 5.477791384835, 
+      "lat": 49.527732079855, 
+      "lon": 5.477754703447, 
+      "municipality": "Rouvroy", 
+      "pcode": "6767", 
+      "source": "7748189", 
+      "street": "Rue des P\u00e2quis"
+    }, 
+    {
+      "hnrlbls": [
+        "4A"
+      ], 
+      "housenumber": "4A", 
+      "lat": 49.527695515287, 
+      "lon": 5.477371265413, 
       "municipality": "Rouvroy", 
       "pcode": "6767", 
       "source": "7748189", 
@@ -223,6 +274,23 @@
       "housenumber": "8", 
       "lat": 49.527888483491, 
       "lon": 5.476981577059, 
+      "municipality": "Rouvroy", 
+      "pcode": "6767", 
+      "source": "7748189", 
+      "street": "Rue des P\u00e2quis"
+    }, 
+    {
+      "busnrs": [
+        "/2", 
+        "/4", 
+        "/5"
+      ], 
+      "hnrlbls": [
+        "8A"
+      ], 
+      "housenumber": "8A", 
+      "lat": 49.527979428985, 
+      "lon": 5.477287508528, 
       "municipality": "Rouvroy", 
       "pcode": "6767", 
       "source": "7748189", 

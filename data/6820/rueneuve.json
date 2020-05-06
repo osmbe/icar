@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +16,12 @@
       "street": "Rue Neuve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0003", 
+        "0004", 
+        "0005"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -86,6 +95,30 @@
     }, 
     {
       "hnrlbls": [
+        "18"
+      ], 
+      "housenumber": "18", 
+      "lat": 49.727810231913, 
+      "lon": 5.243113476574, 
+      "municipality": "Florenville", 
+      "pcode": "6820", 
+      "source": "7747309", 
+      "street": "Rue Neuve"
+    }, 
+    {
+      "hnrlbls": [
+        "19"
+      ], 
+      "housenumber": "19", 
+      "lat": 49.72775790518, 
+      "lon": 5.243039040951, 
+      "municipality": "Florenville", 
+      "pcode": "6820", 
+      "source": "7747309", 
+      "street": "Rue Neuve"
+    }, 
+    {
+      "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
@@ -109,6 +142,10 @@
       "street": "Rue Neuve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -163,6 +200,18 @@
       "housenumber": "8", 
       "lat": 49.729115501165, 
       "lon": 5.243058797163, 
+      "municipality": "Florenville", 
+      "pcode": "6820", 
+      "source": "7747309", 
+      "street": "Rue Neuve"
+    }, 
+    {
+      "hnrlbls": [
+        "8A"
+      ], 
+      "housenumber": "8A", 
+      "lat": 49.729192128428, 
+      "lon": 5.243070038367, 
       "municipality": "Florenville", 
       "pcode": "6820", 
       "source": "7747309", 

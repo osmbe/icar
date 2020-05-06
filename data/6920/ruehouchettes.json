@@ -97,6 +97,10 @@
       "street": "Rue Houchettes"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -109,12 +113,19 @@
       "street": "Rue Houchettes"
     }, 
     {
-      "hnrlbls": [
-        "18B"
+      "busnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
-      "housenumber": "18B", 
-      "lat": 50.079058029951, 
-      "lon": 5.119602650041, 
+      "hnrlbls": [
+        "19"
+      ], 
+      "housenumber": "19", 
+      "lat": 50.079229218477, 
+      "lon": 5.121454634866, 
       "municipality": "Wellin", 
       "pcode": "6920", 
       "source": "7746615", 
@@ -254,6 +265,18 @@
     }, 
     {
       "hnrlbls": [
+        "2A"
+      ], 
+      "housenumber": "2A", 
+      "lat": 50.079137624977, 
+      "lon": 5.115966242307, 
+      "municipality": "Wellin", 
+      "pcode": "6920", 
+      "source": "7746615", 
+      "street": "Rue Houchettes"
+    }, 
+    {
+      "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
@@ -307,6 +330,18 @@
       "housenumber": "32B", 
       "lat": 50.078855849156, 
       "lon": 5.122162775589, 
+      "municipality": "Wellin", 
+      "pcode": "6920", 
+      "source": "7746615", 
+      "street": "Rue Houchettes"
+    }, 
+    {
+      "hnrlbls": [
+        "32C"
+      ], 
+      "housenumber": "32C", 
+      "lat": 50.078851014535, 
+      "lon": 5.121724231521, 
       "municipality": "Wellin", 
       "pcode": "6920", 
       "source": "7746615", 
@@ -475,6 +510,30 @@
       "housenumber": "52", 
       "lat": 50.078982246624, 
       "lon": 5.126048624565, 
+      "municipality": "Wellin", 
+      "pcode": "6920", 
+      "source": "7746615", 
+      "street": "Rue Houchettes"
+    }, 
+    {
+      "hnrlbls": [
+        "54"
+      ], 
+      "housenumber": "54", 
+      "lat": 50.078989705934, 
+      "lon": 5.126371373876, 
+      "municipality": "Wellin", 
+      "pcode": "6920", 
+      "source": "7746615", 
+      "street": "Rue Houchettes"
+    }, 
+    {
+      "hnrlbls": [
+        "56"
+      ], 
+      "housenumber": "56", 
+      "lat": 50.078989947683, 
+      "lon": 5.126479323301, 
       "municipality": "Wellin", 
       "pcode": "6920", 
       "source": "7746615", 

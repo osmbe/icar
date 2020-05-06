@@ -97,6 +97,10 @@
       "street": "Rue du Ch\u00e2teau"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -469,6 +473,22 @@
       "street": "Rue du Ch\u00e2teau"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "201"
+      ], 
+      "hnrlbls": [
+        "47B"
+      ], 
+      "housenumber": "47B", 
+      "lat": 50.687335307299, 
+      "lon": 4.223290826796, 
+      "municipality": "Tubize", 
+      "pcode": "1480", 
+      "source": "7703887", 
+      "street": "Rue du Ch\u00e2teau"
+    }, 
+    {
       "hnrlbls": [
         "48"
       ], 
@@ -529,6 +549,11 @@
       "street": "Rue du Ch\u00e2teau"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "201", 
+        "R01"
+      ], 
       "hnrlbls": [
         "53"
       ], 
@@ -797,8 +822,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.689030642918, 
-      "lon": 4.222360839214, 
+      "lat": 50.68908236275, 
+      "lon": 4.222412135802, 
       "municipality": "Tubize", 
       "pcode": "1480", 
       "source": "7703887", 
@@ -821,8 +846,8 @@
         "8A"
       ], 
       "housenumber": "8A", 
-      "lat": 50.689056735125, 
-      "lon": 4.222464690202, 
+      "lat": 50.68899195874, 
+      "lon": 4.222396352578, 
       "municipality": "Tubize", 
       "pcode": "1480", 
       "source": "7703887", 

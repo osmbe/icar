@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A011", 
+        "A021"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +17,19 @@
       "street": "Rue Victor-Raskin"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0041", 
+        "0042", 
+        "0051", 
+        "0052"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -37,6 +54,20 @@
       "street": "Rue Victor-Raskin"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0041", 
+        "0042", 
+        "0051", 
+        "0052"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -61,6 +92,11 @@
       "street": "Rue Victor-Raskin"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -91,6 +127,42 @@
       "housenumber": "19", 
       "lat": 50.655028399408, 
       "lon": 5.606908891885, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731397", 
+      "street": "Rue Victor-Raskin"
+    }, 
+    {
+      "hnrlbls": [
+        "1A"
+      ], 
+      "housenumber": "1A", 
+      "lat": 50.654399965235, 
+      "lon": 5.607128011397, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731397", 
+      "street": "Rue Victor-Raskin"
+    }, 
+    {
+      "hnrlbls": [
+        "1B"
+      ], 
+      "housenumber": "1B", 
+      "lat": 50.654465198974, 
+      "lon": 5.60708699791, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731397", 
+      "street": "Rue Victor-Raskin"
+    }, 
+    {
+      "hnrlbls": [
+        "1C"
+      ], 
+      "housenumber": "1C", 
+      "lat": 50.654533574854, 
+      "lon": 5.607057535752, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731397", 
@@ -133,12 +205,33 @@
       "street": "Rue Victor-Raskin"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "26"
       ], 
       "housenumber": "26", 
       "lat": 50.655041954127, 
       "lon": 5.607233024019, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731397", 
+      "street": "Rue Victor-Raskin"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
+      "hnrlbls": [
+        "28"
+      ], 
+      "housenumber": "28", 
+      "lat": 50.655090116453, 
+      "lon": 5.607211319207, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731397", 
@@ -217,6 +310,11 @@
       "street": "Rue Victor-Raskin"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "9"
       ], 

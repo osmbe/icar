@@ -241,6 +241,10 @@
       "street": "Rue du Monciat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "122"
       ], 
@@ -481,6 +485,9 @@
       "street": "Rue du Monciat"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "153"
       ], 
@@ -553,6 +560,10 @@
       "street": "Rue du Monciat"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "011"
+      ], 
       "hnrlbls": [
         "167"
       ], 
@@ -1291,18 +1302,6 @@
       "housenumber": "251", 
       "lat": 50.437652665811, 
       "lon": 4.541134148059, 
-      "municipality": "Farciennes", 
-      "pcode": "6240", 
-      "source": "7709838", 
-      "street": "Rue du Monciat"
-    }, 
-    {
-      "hnrlbls": [
-        "252"
-      ], 
-      "housenumber": "252", 
-      "lat": 50.438598518283, 
-      "lon": 4.541340649125, 
       "municipality": "Farciennes", 
       "pcode": "6240", 
       "source": "7709838", 

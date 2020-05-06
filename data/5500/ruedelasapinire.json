@@ -1,6 +1,13 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2", 
+        "Bte3", 
+        "Bte4", 
+        "Bte5"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +20,9 @@
       "street": "Rue de la Sapini\u00e8re"
     }, 
     {
+      "busnrs": [
+        "Abis"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -37,6 +47,9 @@
       "street": "Rue de la Sapini\u00e8re"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -55,18 +68,6 @@
       "housenumber": "5", 
       "lat": 50.197137560741, 
       "lon": 4.894814756423, 
-      "municipality": "Dinant", 
-      "pcode": "5500", 
-      "source": "7749252", 
-      "street": "Rue de la Sapini\u00e8re"
-    }, 
-    {
-      "hnrlbls": [
-        "7"
-      ], 
-      "housenumber": "7", 
-      "lat": 50.196446979293, 
-      "lon": 4.89320706936, 
       "municipality": "Dinant", 
       "pcode": "5500", 
       "source": "7749252", 

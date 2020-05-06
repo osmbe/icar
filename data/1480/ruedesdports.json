@@ -37,6 +37,12 @@
       "street": "Rue des D\u00e9port\u00e9s"
     }, 
     {
+      "busnrs": [
+        "R01", 
+        "R02", 
+        "R05", 
+        "R06"
+      ], 
       "hnrlbls": [
         "102"
       ], 
@@ -193,6 +199,9 @@
       "street": "Rue des D\u00e9port\u00e9s"
     }, 
     {
+      "busnrs": [
+        "201"
+      ], 
       "hnrlbls": [
         "115"
       ], 
@@ -217,24 +226,16 @@
       "street": "Rue des D\u00e9port\u00e9s"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "117"
       ], 
       "housenumber": "117", 
       "lat": 50.695124928325, 
       "lon": 4.221167704765, 
-      "municipality": "Tubize", 
-      "pcode": "1480", 
-      "source": "7703859", 
-      "street": "Rue des D\u00e9port\u00e9s"
-    }, 
-    {
-      "hnrlbls": [
-        "118"
-      ], 
-      "housenumber": "118", 
-      "lat": 50.697104297544, 
-      "lon": 4.21899188004, 
       "municipality": "Tubize", 
       "pcode": "1480", 
       "source": "7703859", 
@@ -794,18 +795,6 @@
     }, 
     {
       "hnrlbls": [
-        "4"
-      ], 
-      "housenumber": "4", 
-      "lat": 50.690767468015, 
-      "lon": 4.222820663818, 
-      "municipality": "Tubize", 
-      "pcode": "1480", 
-      "source": "7703859", 
-      "street": "Rue des D\u00e9port\u00e9s"
-    }, 
-    {
-      "hnrlbls": [
         "41"
       ], 
       "housenumber": "41", 
@@ -833,8 +822,8 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 50.692040675396, 
-      "lon": 4.22142146084, 
+      "lat": 50.691991163078, 
+      "lon": 4.221416015941, 
       "municipality": "Tubize", 
       "pcode": "1480", 
       "source": "7703859", 
@@ -853,6 +842,10 @@
       "street": "Rue des D\u00e9port\u00e9s"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "55"
       ], 
@@ -1081,6 +1074,10 @@
       "street": "Rue des D\u00e9port\u00e9s"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "R01"
+      ], 
       "hnrlbls": [
         "81"
       ], 

@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "Bt02", 
+        "Bt03", 
+        "Bt04", 
+        "RDCH"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -266,6 +272,18 @@
     }, 
     {
       "hnrlbls": [
+        "2B"
+      ], 
+      "housenumber": "2B", 
+      "lat": 50.600055060956, 
+      "lon": 4.331520066752, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703136", 
+      "street": "Rue G\u00e9n\u00e9ral Leman"
+    }, 
+    {
+      "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
@@ -281,8 +299,8 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 50.600693366664, 
-      "lon": 4.331727130581, 
+      "lat": 50.600716186926, 
+      "lon": 4.331680770342, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703136", 

@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A01", 
+        "A011", 
+        "A12"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -121,6 +126,9 @@
       "street": "Rue de Tournai"
     }, 
     {
+      "busnrs": [
+        "0TER"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -325,6 +333,10 @@
       "street": "Rue de Tournai"
     }, 
     {
+      "busnrs": [
+        "11", 
+        "12"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -361,6 +373,10 @@
       "street": "Rue de Tournai"
     }, 
     {
+      "busnrs": [
+        "11", 
+        "13"
+      ], 
       "hnrlbls": [
         "32"
       ], 
@@ -481,6 +497,16 @@
       "street": "Rue de Tournai"
     }, 
     {
+      "busnrs": [
+        "0Bis", 
+        "A011", 
+        "A1", 
+        "A2", 
+        "A22", 
+        "B01", 
+        "B03", 
+        "B2"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -1058,9 +1084,9 @@
     }, 
     {
       "hnrlbls": [
-        "92"
+        "92A"
       ], 
-      "housenumber": "92", 
+      "housenumber": "92A", 
       "lat": 50.641609101309, 
       "lon": 3.291219915032, 
       "municipality": "Tournai", 

@@ -73,12 +73,28 @@
       "street": "Rue de la Sablonni\u00e8re"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "16"
       ], 
       "housenumber": "16", 
       "lat": 50.594170370899, 
       "lon": 5.57187437165, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4031", 
+      "source": "7730409", 
+      "street": "Rue de la Sablonni\u00e8re"
+    }, 
+    {
+      "hnrlbls": [
+        "17"
+      ], 
+      "housenumber": "17", 
+      "lat": 50.593626447564, 
+      "lon": 5.570585947527, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4031", 
       "source": "7730409", 
@@ -277,6 +293,11 @@
       "street": "Rue de la Sablonni\u00e8re"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "33"
       ], 
@@ -349,6 +370,14 @@
       "street": "Rue de la Sablonni\u00e8re"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "39"
       ], 
@@ -517,6 +546,13 @@
       "street": "Rue de la Sablonni\u00e8re"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "55"
       ], 

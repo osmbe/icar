@@ -13,6 +13,9 @@
       "street": "Place des Combattants"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -73,10 +76,15 @@
       "street": "Place des Combattants"
     }, 
     {
-      "hnrlbls": [
-        "15BTE3"
+      "busnrs": [
+        "BTE1", 
+        "BTE2", 
+        "BTE3"
       ], 
-      "housenumber": "15BTE3", 
+      "hnrlbls": [
+        "15"
+      ], 
+      "housenumber": "15", 
       "lat": 50.253222444112, 
       "lon": 4.432067411257, 
       "municipality": "Walcourt", 
@@ -193,10 +201,18 @@
       "street": "Place des Combattants"
     }, 
     {
-      "hnrlbls": [
-        "24BTE1"
+      "busnrs": [
+        "BTE1", 
+        "BTE2", 
+        "BTE3", 
+        "BTE4", 
+        "BTE5", 
+        "BTE6"
       ], 
-      "housenumber": "24BTE1", 
+      "hnrlbls": [
+        "24"
+      ], 
+      "housenumber": "24", 
       "lat": 50.253392684163, 
       "lon": 4.431737648862, 
       "municipality": "Walcourt", 
@@ -217,6 +233,12 @@
       "street": "Place des Combattants"
     }, 
     {
+      "busnrs": [
+        "BTE1", 
+        "BTE2", 
+        "BTE3", 
+        "BTE4"
+      ], 
       "hnrlbls": [
         "4"
       ], 

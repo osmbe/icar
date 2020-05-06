@@ -5,8 +5,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.083066816641, 
-      "lon": 5.79323918551, 
+      "lat": 50.083749449353, 
+      "lon": 5.795757279222, 
       "municipality": "Bastogne", 
       "pcode": "6600", 
       "source": "7742357", 
@@ -194,11 +194,23 @@
     }, 
     {
       "hnrlbls": [
+        "1E"
+      ], 
+      "housenumber": "1E", 
+      "lat": 50.083662509415, 
+      "lon": 5.791638151774, 
+      "municipality": "Bastogne", 
+      "pcode": "6600", 
+      "source": "7742357", 
+      "street": "Hardigny"
+    }, 
+    {
+      "hnrlbls": [
         "1F"
       ], 
       "housenumber": "1F", 
-      "lat": 50.08366001058, 
-      "lon": 5.791644628844, 
+      "lat": 50.083072837132, 
+      "lon": 5.793242958078, 
       "municipality": "Bastogne", 
       "pcode": "6600", 
       "source": "7742357", 
@@ -265,6 +277,13 @@
       "street": "Hardigny"
     }, 
     {
+      "busnrs": [
+        "A  1", 
+        "B", 
+        "C", 
+        "R", 
+        "R  2"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -277,6 +296,9 @@
       "street": "Hardigny"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "23"
       ], 

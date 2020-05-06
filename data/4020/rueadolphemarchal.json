@@ -1,6 +1,13 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +20,36 @@
       "street": "Rue Adolphe-Mar\u00e9chal"
     }, 
     {
+      "hnrlbls": [
+        "11"
+      ], 
+      "housenumber": "11", 
+      "lat": 50.645182745466, 
+      "lon": 5.586532149219, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730159", 
+      "street": "Rue Adolphe-Mar\u00e9chal"
+    }, 
+    {
+      "hnrlbls": [
+        "1B"
+      ], 
+      "housenumber": "1B", 
+      "lat": 50.645461118588, 
+      "lon": 5.586359181599, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730159", 
+      "street": "Rue Adolphe-Mar\u00e9chal"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -49,6 +86,12 @@
       "street": "Rue Adolphe-Mar\u00e9chal"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "9"
       ], 

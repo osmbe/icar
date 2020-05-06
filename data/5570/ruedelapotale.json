@@ -1,6 +1,13 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -19,18 +26,6 @@
       "housenumber": "10", 
       "lat": 50.122871826616, 
       "lon": 4.988771731501, 
-      "municipality": "Beauraing", 
-      "pcode": "5570", 
-      "source": "7748475", 
-      "street": "Rue de la Potale"
-    }, 
-    {
-      "hnrlbls": [
-        "12"
-      ], 
-      "housenumber": "12", 
-      "lat": 50.122920535333, 
-      "lon": 4.988929718752, 
       "municipality": "Beauraing", 
       "pcode": "5570", 
       "source": "7748475", 

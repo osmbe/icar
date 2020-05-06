@@ -1,6 +1,32 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024", 
+        "0025", 
+        "0026", 
+        "0031", 
+        "0032", 
+        "0033", 
+        "0034", 
+        "0035", 
+        "0041", 
+        "0042", 
+        "0043", 
+        "B001", 
+        "B011", 
+        "B021", 
+        "B031", 
+        "B041"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +39,16 @@
       "street": "Rue de la Cath\u00e9drale"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -43,6 +79,18 @@
       "housenumber": "101", 
       "lat": 50.641512439323, 
       "lon": 5.572622220301, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730345", 
+      "street": "Rue de la Cath\u00e9drale"
+    }, 
+    {
+      "hnrlbls": [
+        "102"
+      ], 
+      "housenumber": "102", 
+      "lat": 50.641600590226, 
+      "lon": 5.57214349977, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730345", 
@@ -115,6 +163,18 @@
       "housenumber": "108", 
       "lat": 50.641474620601, 
       "lon": 5.571948541679, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730345", 
+      "street": "Rue de la Cath\u00e9drale"
+    }, 
+    {
+      "hnrlbls": [
+        "109"
+      ], 
+      "housenumber": "109", 
+      "lat": 50.641343006134, 
+      "lon": 5.572194619304, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730345", 
@@ -206,6 +266,36 @@
     }, 
     {
       "hnrlbls": [
+        "116"
+      ], 
+      "housenumber": "116", 
+      "lat": 50.641333642661, 
+      "lon": 5.571646477583, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730345", 
+      "street": "Rue de la Cath\u00e9drale"
+    }, 
+    {
+      "hnrlbls": [
+        "118"
+      ], 
+      "housenumber": "118", 
+      "lat": 50.641307611321, 
+      "lon": 5.571563805319, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730345", 
+      "street": "Rue de la Cath\u00e9drale"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
+      "hnrlbls": [
         "12"
       ], 
       "housenumber": "12", 
@@ -229,6 +319,10 @@
       "street": "Rue de la Cath\u00e9drale"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -253,6 +347,16 @@
       "street": "Rue de la Cath\u00e9drale"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -265,6 +369,13 @@
       "street": "Rue de la Cath\u00e9drale"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -289,6 +400,10 @@
       "street": "Rue de la Cath\u00e9drale"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -301,6 +416,13 @@
       "street": "Rue de la Cath\u00e9drale"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -343,6 +465,18 @@
       "housenumber": "22", 
       "lat": 50.643601371227, 
       "lon": 5.576579450463, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730345", 
+      "street": "Rue de la Cath\u00e9drale"
+    }, 
+    {
+      "hnrlbls": [
+        "23"
+      ], 
+      "housenumber": "23", 
+      "lat": 50.643161763374, 
+      "lon": 5.576300032139, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730345", 
@@ -398,11 +532,122 @@
     }, 
     {
       "hnrlbls": [
+        "27A"
+      ], 
+      "housenumber": "27A", 
+      "lat": 50.642906004898, 
+      "lon": 5.575879045736, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730345", 
+      "street": "Rue de la Cath\u00e9drale"
+    }, 
+    {
+      "hnrlbls": [
+        "27B"
+      ], 
+      "housenumber": "27B", 
+      "lat": 50.642883684587, 
+      "lon": 5.575802967601, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730345", 
+      "street": "Rue de la Cath\u00e9drale"
+    }, 
+    {
+      "hnrlbls": [
+        "28"
+      ], 
+      "housenumber": "28", 
+      "lat": 50.643436741136, 
+      "lon": 5.576358115289, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730345", 
+      "street": "Rue de la Cath\u00e9drale"
+    }, 
+    {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0015", 
+        "0016", 
+        "0022", 
+        "0026", 
+        "0031", 
+        "0032", 
+        "0033", 
+        "0034", 
+        "0036", 
+        "0041", 
+        "0043", 
+        "0044", 
+        "0045", 
+        "0046", 
+        "0055"
+      ], 
+      "hnrlbls": [
+        "29"
+      ], 
+      "housenumber": "29", 
+      "lat": 50.64285763344, 
+      "lon": 5.575748569545, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730345", 
+      "street": "Rue de la Cath\u00e9drale"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0031", 
+        "0032", 
+        "0033", 
+        "0034", 
+        "0041", 
+        "0042", 
+        "0043"
+      ], 
+      "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
       "lat": 50.64373690808, 
       "lon": 5.577181770198, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730345", 
+      "street": "Rue de la Cath\u00e9drale"
+    }, 
+    {
+      "hnrlbls": [
+        "30"
+      ], 
+      "housenumber": "30", 
+      "lat": 50.643409938816, 
+      "lon": 5.576324200153, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730345", 
+      "street": "Rue de la Cath\u00e9drale"
+    }, 
+    {
+      "hnrlbls": [
+        "31"
+      ], 
+      "housenumber": "31", 
+      "lat": 50.642820719009, 
+      "lon": 5.57569262108, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730345", 
@@ -445,6 +690,10 @@
       "street": "Rue de la Cath\u00e9drale"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -469,6 +718,24 @@
       "street": "Rue de la Cath\u00e9drale"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024", 
+        "0031", 
+        "0032", 
+        "0033", 
+        "0034", 
+        "0041", 
+        "0042"
+      ], 
       "hnrlbls": [
         "37"
       ], 
@@ -481,6 +748,38 @@
       "street": "Rue de la Cath\u00e9drale"
     }, 
     {
+      "hnrlbls": [
+        "38"
+      ], 
+      "housenumber": "38", 
+      "lat": 50.643325269179, 
+      "lon": 5.576208630052, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730345", 
+      "street": "Rue de la Cath\u00e9drale"
+    }, 
+    {
+      "hnrlbls": [
+        "39"
+      ], 
+      "housenumber": "39", 
+      "lat": 50.642678214688, 
+      "lon": 5.575353013185, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730345", 
+      "street": "Rue de la Cath\u00e9drale"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -518,6 +817,31 @@
     }, 
     {
       "hnrlbls": [
+        "43"
+      ], 
+      "housenumber": "43", 
+      "lat": 50.642573902524, 
+      "lon": 5.575284878344, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730345", 
+      "street": "Rue de la Cath\u00e9drale"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0041", 
+        "0042", 
+        "0051"
+      ], 
+      "hnrlbls": [
         "44"
       ], 
       "housenumber": "44", 
@@ -529,6 +853,16 @@
       "street": "Rue de la Cath\u00e9drale"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041", 
+        "0051"
+      ], 
       "hnrlbls": [
         "45"
       ], 
@@ -553,6 +887,13 @@
       "street": "Rue de la Cath\u00e9drale"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "47"
       ], 
@@ -577,6 +918,13 @@
       "street": "Rue de la Cath\u00e9drale"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "49"
       ], 
@@ -637,6 +985,13 @@
       "street": "Rue de la Cath\u00e9drale"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "53"
       ], 
@@ -649,6 +1004,13 @@
       "street": "Rue de la Cath\u00e9drale"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "54"
       ], 
@@ -661,6 +1023,31 @@
       "street": "Rue de la Cath\u00e9drale"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
+      "hnrlbls": [
+        "55"
+      ], 
+      "housenumber": "55", 
+      "lat": 50.642482424624, 
+      "lon": 5.574905855334, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730345", 
+      "street": "Rue de la Cath\u00e9drale"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "56"
       ], 
@@ -686,6 +1073,18 @@
     }, 
     {
       "hnrlbls": [
+        "58"
+      ], 
+      "housenumber": "58", 
+      "lat": 50.642874065475, 
+      "lon": 5.575272475185, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730345", 
+      "street": "Rue de la Cath\u00e9drale"
+    }, 
+    {
+      "hnrlbls": [
         "59"
       ], 
       "housenumber": "59", 
@@ -697,6 +1096,16 @@
       "street": "Rue de la Cath\u00e9drale"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0041", 
+        "0042"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -709,6 +1118,21 @@
       "street": "Rue de la Cath\u00e9drale"
     }, 
     {
+      "hnrlbls": [
+        "60"
+      ], 
+      "housenumber": "60", 
+      "lat": 50.642666382789, 
+      "lon": 5.5748015397, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730345", 
+      "street": "Rue de la Cath\u00e9drale"
+    }, 
+    {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "62"
       ], 
@@ -745,6 +1169,13 @@
       "street": "Rue de la Cath\u00e9drale"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "68"
       ], 
@@ -805,6 +1236,15 @@
       "street": "Rue de la Cath\u00e9drale"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022", 
+        "0031"
+      ], 
       "hnrlbls": [
         "72"
       ], 
@@ -841,6 +1281,15 @@
       "street": "Rue de la Cath\u00e9drale"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031"
+      ], 
       "hnrlbls": [
         "75"
       ], 
@@ -853,6 +1302,14 @@
       "street": "Rue de la Cath\u00e9drale"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041", 
+        "0051"
+      ], 
       "hnrlbls": [
         "76"
       ], 
@@ -889,6 +1346,13 @@
       "street": "Rue de la Cath\u00e9drale"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "8"
       ], 
@@ -913,6 +1377,13 @@
       "street": "Rue de la Cath\u00e9drale"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "82"
       ], 
@@ -925,6 +1396,24 @@
       "street": "Rue de la Cath\u00e9drale"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024", 
+        "0031", 
+        "0032", 
+        "0033", 
+        "0041", 
+        "0042", 
+        "0043"
+      ], 
       "hnrlbls": [
         "83"
       ], 
@@ -943,6 +1432,30 @@
       "housenumber": "84", 
       "lat": 50.641935220732, 
       "lon": 5.57307448836, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730345", 
+      "street": "Rue de la Cath\u00e9drale"
+    }, 
+    {
+      "hnrlbls": [
+        "85"
+      ], 
+      "housenumber": "85", 
+      "lat": 50.641774067858, 
+      "lon": 5.573263959938, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730345", 
+      "street": "Rue de la Cath\u00e9drale"
+    }, 
+    {
+      "hnrlbls": [
+        "86"
+      ], 
+      "housenumber": "86", 
+      "lat": 50.641919308795, 
+      "lon": 5.572981906119, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730345", 
@@ -974,6 +1487,25 @@
     }, 
     {
       "hnrlbls": [
+        "89"
+      ], 
+      "housenumber": "89", 
+      "lat": 50.641736202394, 
+      "lon": 5.573099681468, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730345", 
+      "street": "Rue de la Cath\u00e9drale"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
+      "hnrlbls": [
         "9"
       ], 
       "housenumber": "9", 
@@ -991,6 +1523,37 @@
       "housenumber": "90", 
       "lat": 50.641845279064, 
       "lon": 5.572781171751, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730345", 
+      "street": "Rue de la Cath\u00e9drale"
+    }, 
+    {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024", 
+        "0025", 
+        "0031", 
+        "0032", 
+        "0033", 
+        "0034", 
+        "0035", 
+        "0041", 
+        "0042", 
+        "0043", 
+        "0044"
+      ], 
+      "hnrlbls": [
+        "91"
+      ], 
+      "housenumber": "91", 
+      "lat": 50.641697008517, 
+      "lon": 5.573029255924, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730345", 
@@ -1049,8 +1612,20 @@
         "96"
       ], 
       "housenumber": "96", 
-      "lat": 50.641704682633, 
-      "lon": 5.572418793185, 
+      "lat": 50.641643163178, 
+      "lon": 5.57236407337, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730345", 
+      "street": "Rue de la Cath\u00e9drale"
+    }, 
+    {
+      "hnrlbls": [
+        "97"
+      ], 
+      "housenumber": "97", 
+      "lat": 50.641590105573, 
+      "lon": 5.572776399554, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730345", 
@@ -1069,6 +1644,17 @@
       "street": "Rue de la Cath\u00e9drale"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0041", 
+        "0042"
+      ], 
       "hnrlbls": [
         "99"
       ], 

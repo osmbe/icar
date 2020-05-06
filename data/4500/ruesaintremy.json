@@ -1,12 +1,20 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0002", 
+        "0003", 
+        "0011", 
+        "0021", 
+        "RCH2", 
+        "RCH3"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.516604350228, 
-      "lon": 5.239730733453, 
+      "lat": 50.516687659647, 
+      "lon": 5.238932722606, 
       "municipality": "Huy", 
       "pcode": "4500", 
       "source": "7725690", 
@@ -37,6 +45,10 @@
       "street": "Rue Saint-Remy"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0RCH"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -61,6 +73,9 @@
       "street": "Rue Saint-Remy"
     }, 
     {
+      "busnrs": [
+        "0RCH"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -73,6 +88,9 @@
       "street": "Rue Saint-Remy"
     }, 
     {
+      "busnrs": [
+        "000B"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -85,6 +103,11 @@
       "street": "Rue Saint-Remy"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0RCH"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -97,6 +120,12 @@
       "street": "Rue Saint-Remy"
     }, 
     {
+      "busnrs": [
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -109,6 +138,9 @@
       "street": "Rue Saint-Remy"
     }, 
     {
+      "busnrs": [
+        "000B"
+      ], 
       "hnrlbls": [
         "8"
       ], 

@@ -1,6 +1,17 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "002", 
+        "003", 
+        "011", 
+        "012", 
+        "021", 
+        "031", 
+        "ES 1", 
+        "ES12", 
+        "ES21"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -49,6 +60,10 @@
       "street": "Place de la Concorde"
     }, 
     {
+      "busnrs": [
+        "000D", 
+        "021"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -253,6 +268,11 @@
       "street": "Place de la Concorde"
     }, 
     {
+      "busnrs": [
+        "002", 
+        "011", 
+        "012"
+      ], 
       "hnrlbls": [
         "30"
       ], 

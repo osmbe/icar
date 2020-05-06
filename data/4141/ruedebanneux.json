@@ -13,6 +13,10 @@
       "street": "Rue de Banneux"
     }, 
     {
+      "busnrs": [
+        "Ap.1", 
+        "Ap.2"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -86,11 +90,50 @@
     }, 
     {
       "hnrlbls": [
+        "20A"
+      ], 
+      "housenumber": "20A", 
+      "lat": 50.543228184594, 
+      "lon": 5.741038178928, 
+      "municipality": "Sprimont", 
+      "pcode": "4141", 
+      "source": "7732973", 
+      "street": "Rue de Banneux"
+    }, 
+    {
+      "hnrlbls": [
+        "22B"
+      ], 
+      "housenumber": "22B", 
+      "lat": 50.543698476118, 
+      "lon": 5.740870015243, 
+      "municipality": "Sprimont", 
+      "pcode": "4141", 
+      "source": "7732973", 
+      "street": "Rue de Banneux"
+    }, 
+    {
+      "busnrs": [
+        "Ap.1"
+      ], 
+      "hnrlbls": [
         "25"
       ], 
       "housenumber": "25", 
       "lat": 50.544176053354, 
       "lon": 5.740425297306, 
+      "municipality": "Sprimont", 
+      "pcode": "4141", 
+      "source": "7732973", 
+      "street": "Rue de Banneux"
+    }, 
+    {
+      "hnrlbls": [
+        "25A"
+      ], 
+      "housenumber": "25A", 
+      "lat": 50.544417348266, 
+      "lon": 5.740675387554, 
       "municipality": "Sprimont", 
       "pcode": "4141", 
       "source": "7732973", 
@@ -181,6 +224,13 @@
       "street": "Rue de Banneux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005"
+      ], 
       "hnrlbls": [
         "6"
       ], 

@@ -25,6 +25,9 @@
       "street": "Rue de Lanaye"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "108"
       ], 
@@ -337,6 +340,14 @@
       "street": "Rue de Lanaye"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "A 1", 
+        "A 2", 
+        "B", 
+        "B 1", 
+        "B 2"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -397,6 +408,10 @@
       "street": "Rue de Lanaye"
     }, 
     {
+      "busnrs": [
+        "A 1", 
+        "B 2"
+      ], 
       "hnrlbls": [
         "32"
       ], 

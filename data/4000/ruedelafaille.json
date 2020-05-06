@@ -181,6 +181,11 @@
       "street": "Rue de la Faille"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -386,11 +391,35 @@
     }, 
     {
       "hnrlbls": [
+        "41"
+      ], 
+      "housenumber": "41", 
+      "lat": 50.626066754789, 
+      "lon": 5.551739891184, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730363", 
+      "street": "Rue de la Faille"
+    }, 
+    {
+      "hnrlbls": [
         "42"
       ], 
       "housenumber": "42", 
       "lat": 50.626733009102, 
       "lon": 5.552472683092, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730363", 
+      "street": "Rue de la Faille"
+    }, 
+    {
+      "hnrlbls": [
+        "43"
+      ], 
+      "housenumber": "43", 
+      "lat": 50.626077584809, 
+      "lon": 5.551733222433, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730363", 
@@ -457,6 +486,10 @@
       "street": "Rue de la Faille"
     }, 
     {
+      "busnrs": [
+        "A011", 
+        "A012"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -559,6 +592,18 @@
       "housenumber": "58", 
       "lat": 50.626385049533, 
       "lon": 5.551714227705, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730363", 
+      "street": "Rue de la Faille"
+    }, 
+    {
+      "hnrlbls": [
+        "5A"
+      ], 
+      "housenumber": "5A", 
+      "lat": 50.626642369129, 
+      "lon": 5.554024960293, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730363", 
@@ -793,6 +838,10 @@
       "street": "Rue de la Faille"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "90"
       ], 

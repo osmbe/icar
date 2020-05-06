@@ -37,6 +37,9 @@
       "street": "Rue Vandervelde"
     }, 
     {
+      "busnrs": [
+        "1001"
+      ], 
       "hnrlbls": [
         "104"
       ], 
@@ -109,6 +112,10 @@
       "street": "Rue Vandervelde"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "1001"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -145,6 +152,11 @@
       "street": "Rue Vandervelde"
     }, 
     {
+      "busnrs": [
+        "1001", 
+        "1002", 
+        "1003"
+      ], 
       "hnrlbls": [
         "114"
       ], 
@@ -1189,6 +1201,15 @@
       "street": "Rue Vandervelde"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "1001", 
+        "1002", 
+        "2001", 
+        "2002"
+      ], 
       "hnrlbls": [
         "77"
       ], 
@@ -1213,6 +1234,11 @@
       "street": "Rue Vandervelde"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "1001", 
+        "2001"
+      ], 
       "hnrlbls": [
         "79"
       ], 

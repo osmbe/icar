@@ -1,6 +1,14 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "011", 
+        "021", 
+        "022", 
+        "032", 
+        "041", 
+        "042"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -25,6 +33,11 @@
       "street": "Rue du Comptoir"
     }, 
     {
+      "busnrs": [
+        "011", 
+        "021", 
+        "031"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -37,6 +50,9 @@
       "street": "Rue du Comptoir"
     }, 
     {
+      "busnrs": [
+        "012"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -61,6 +77,10 @@
       "street": "Rue du Comptoir"
     }, 
     {
+      "busnrs": [
+        "012", 
+        "021"
+      ], 
       "hnrlbls": [
         "3"
       ], 

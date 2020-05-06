@@ -161,8 +161,8 @@
         "1A"
       ], 
       "housenumber": "1A", 
-      "lat": 49.557571264673, 
-      "lon": 5.698109063812, 
+      "lat": 49.557517051726, 
+      "lon": 5.698080575398, 
       "municipality": "Musson", 
       "pcode": "6750", 
       "source": "7747496", 
@@ -385,6 +385,9 @@
       "street": "Rue Jean Laurent"
     }, 
     {
+      "busnrs": [
+        "0012"
+      ], 
       "hnrlbls": [
         "32"
       ], 
@@ -421,6 +424,9 @@
       "street": "Rue Jean Laurent"
     }, 
     {
+      "busnrs": [
+        "A021"
+      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -457,6 +463,10 @@
       "street": "Rue Jean Laurent"
     }, 
     {
+      "busnrs": [
+        "0022", 
+        "0031"
+      ], 
       "hnrlbls": [
         "37"
       ], 
@@ -481,6 +491,10 @@
       "street": "Rue Jean Laurent"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "39"
       ], 
@@ -517,6 +531,12 @@
       "street": "Rue Jean Laurent"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "41"
       ], 
@@ -637,6 +657,11 @@
       "street": "Rue Jean Laurent"
     }, 
     {
+      "busnrs": [
+        "0021", 
+        "0022", 
+        "0031"
+      ], 
       "hnrlbls": [
         "52"
       ], 

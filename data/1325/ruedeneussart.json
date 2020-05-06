@@ -73,6 +73,10 @@
       "street": "Rue de Neussart"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -85,6 +89,13 @@
       "street": "Rue de Neussart"
     }, 
     {
+      "busnrs": [
+        "0.1", 
+        "1.1", 
+        "A 0.1", 
+        "A 1.1", 
+        "A 2.1"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -133,6 +144,14 @@
       "street": "Rue de Neussart"
     }, 
     {
+      "busnrs": [
+        "0--2", 
+        "0-1", 
+        "1--1", 
+        "1.2", 
+        "2--1", 
+        "2-2"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -182,6 +201,37 @@
     }, 
     {
       "hnrlbls": [
+        "29A"
+      ], 
+      "housenumber": "29A", 
+      "lat": 50.674481696442, 
+      "lon": 4.648233022909, 
+      "municipality": "Chaumont-Gistoux", 
+      "pcode": "1325", 
+      "source": "7701127", 
+      "street": "Rue de Neussart"
+    }, 
+    {
+      "busnrs": [
+        "A0-1", 
+        "A1-1", 
+        "A1-2", 
+        "A2-1", 
+        "A2-2", 
+        "B0-1", 
+        "B01d", 
+        "B1-1", 
+        "B1-2", 
+        "B2-1", 
+        "B2-2", 
+        "C0-1", 
+        "C01G", 
+        "C01d", 
+        "C1-1", 
+        "C11G", 
+        "C2-1"
+      ], 
+      "hnrlbls": [
         "32"
       ], 
       "housenumber": "32", 
@@ -205,6 +255,10 @@
       "street": "Rue de Neussart"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "35"
       ], 

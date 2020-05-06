@@ -337,6 +337,11 @@
       "street": "Rue du Wainage"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "132"
       ], 
@@ -481,6 +486,9 @@
       "street": "Rue du Wainage"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "159"
       ], 
@@ -613,6 +621,10 @@
       "street": "Rue du Wainage"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "172"
       ], 
@@ -637,6 +649,9 @@
       "street": "Rue du Wainage"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "174"
       ], 
@@ -817,6 +832,9 @@
       "street": "Rue du Wainage"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "192"
       ], 
@@ -889,6 +907,12 @@
       "street": "Rue du Wainage"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -913,6 +937,11 @@
       "street": "Rue du Wainage"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "203"
       ], 
@@ -925,6 +954,9 @@
       "street": "Rue du Wainage"
     }, 
     {
+      "busnrs": [
+        "3"
+      ], 
       "hnrlbls": [
         "205"
       ], 
@@ -937,6 +969,10 @@
       "street": "Rue du Wainage"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "206"
       ], 
@@ -974,6 +1010,18 @@
     }, 
     {
       "hnrlbls": [
+        "218"
+      ], 
+      "housenumber": "218", 
+      "lat": 50.458213777867, 
+      "lon": 4.562522285786, 
+      "municipality": "Fleurus", 
+      "pcode": "6220", 
+      "source": "7710076", 
+      "street": "Rue du Wainage"
+    }, 
+    {
+      "hnrlbls": [
         "22"
       ], 
       "housenumber": "22", 
@@ -986,11 +1034,38 @@
     }, 
     {
       "hnrlbls": [
+        "220"
+      ], 
+      "housenumber": "220", 
+      "lat": 50.458277597208, 
+      "lon": 4.562764746013, 
+      "municipality": "Fleurus", 
+      "pcode": "6220", 
+      "source": "7710076", 
+      "street": "Rue du Wainage"
+    }, 
+    {
+      "busnrs": [
+        "1"
+      ], 
+      "hnrlbls": [
         "221"
       ], 
       "housenumber": "221", 
       "lat": 50.457539505632, 
       "lon": 4.561437963255, 
+      "municipality": "Fleurus", 
+      "pcode": "6220", 
+      "source": "7710076", 
+      "street": "Rue du Wainage"
+    }, 
+    {
+      "hnrlbls": [
+        "222"
+      ], 
+      "housenumber": "222", 
+      "lat": 50.458288959811, 
+      "lon": 4.563081514313, 
       "municipality": "Fleurus", 
       "pcode": "6220", 
       "source": "7710076", 
@@ -1010,11 +1085,71 @@
     }, 
     {
       "hnrlbls": [
+        "224"
+      ], 
+      "housenumber": "224", 
+      "lat": 50.458302272337, 
+      "lon": 4.563369972646, 
+      "municipality": "Fleurus", 
+      "pcode": "6220", 
+      "source": "7710076", 
+      "street": "Rue du Wainage"
+    }, 
+    {
+      "hnrlbls": [
+        "226"
+      ], 
+      "housenumber": "226", 
+      "lat": 50.458339910022, 
+      "lon": 4.563620525613, 
+      "municipality": "Fleurus", 
+      "pcode": "6220", 
+      "source": "7710076", 
+      "street": "Rue du Wainage"
+    }, 
+    {
+      "hnrlbls": [
+        "229"
+      ], 
+      "housenumber": "229", 
+      "lat": 50.457885287468, 
+      "lon": 4.563913253213, 
+      "municipality": "Fleurus", 
+      "pcode": "6220", 
+      "source": "7710076", 
+      "street": "Rue du Wainage"
+    }, 
+    {
+      "hnrlbls": [
         "23"
       ], 
       "housenumber": "23", 
       "lat": 50.449557738512, 
       "lon": 4.544432295397, 
+      "municipality": "Fleurus", 
+      "pcode": "6220", 
+      "source": "7710076", 
+      "street": "Rue du Wainage"
+    }, 
+    {
+      "hnrlbls": [
+        "230"
+      ], 
+      "housenumber": "230", 
+      "lat": 50.458371821451, 
+      "lon": 4.56416392928, 
+      "municipality": "Fleurus", 
+      "pcode": "6220", 
+      "source": "7710076", 
+      "street": "Rue du Wainage"
+    }, 
+    {
+      "hnrlbls": [
+        "232"
+      ], 
+      "housenumber": "232", 
+      "lat": 50.458400395992, 
+      "lon": 4.564427858416, 
       "municipality": "Fleurus", 
       "pcode": "6220", 
       "source": "7710076", 
@@ -1039,6 +1174,18 @@
       "housenumber": "235", 
       "lat": 50.458064028645, 
       "lon": 4.56469739299, 
+      "municipality": "Fleurus", 
+      "pcode": "6220", 
+      "source": "7710076", 
+      "street": "Rue du Wainage"
+    }, 
+    {
+      "hnrlbls": [
+        "237"
+      ], 
+      "housenumber": "237", 
+      "lat": 50.458045748934, 
+      "lon": 4.564823756748, 
       "municipality": "Fleurus", 
       "pcode": "6220", 
       "source": "7710076", 
@@ -1081,6 +1228,9 @@
       "street": "Rue du Wainage"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "247"
       ], 
@@ -1093,6 +1243,14 @@
       "street": "Rue du Wainage"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -1123,6 +1281,18 @@
       "housenumber": "253", 
       "lat": 50.458389174954, 
       "lon": 4.565983764425, 
+      "municipality": "Fleurus", 
+      "pcode": "6220", 
+      "source": "7710076", 
+      "street": "Rue du Wainage"
+    }, 
+    {
+      "hnrlbls": [
+        "255"
+      ], 
+      "housenumber": "255", 
+      "lat": 50.458413234257, 
+      "lon": 4.566064383397, 
       "municipality": "Fleurus", 
       "pcode": "6220", 
       "source": "7710076", 
@@ -1297,6 +1467,9 @@
       "street": "Rue du Wainage"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -1345,6 +1518,9 @@
       "street": "Rue du Wainage"
     }, 
     {
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "61"
       ], 
@@ -1369,6 +1545,9 @@
       "street": "Rue du Wainage"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "65"
       ], 

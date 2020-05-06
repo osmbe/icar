@@ -1,6 +1,16 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1/0001", 
+        "1/0011", 
+        "1/0012", 
+        "1/0013", 
+        "1/0021", 
+        "1/0022", 
+        "1/0023", 
+        "1/0031"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +23,17 @@
       "street": "Rue des Brasseurs"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008", 
+        "0009"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -41,8 +62,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 50.741724503097, 
-      "lon": 3.218142332129, 
+      "lat": 50.741690234112, 
+      "lon": 3.218140918499, 
       "municipality": "Mouscron", 
       "pcode": "7700", 
       "source": "7715855", 
@@ -110,6 +131,30 @@
     }, 
     {
       "hnrlbls": [
+        "21A"
+      ], 
+      "housenumber": "21A", 
+      "lat": 50.741478894663, 
+      "lon": 3.218626085547, 
+      "municipality": "Mouscron", 
+      "pcode": "7700", 
+      "source": "7715855", 
+      "street": "Rue des Brasseurs"
+    }, 
+    {
+      "hnrlbls": [
+        "21B"
+      ], 
+      "housenumber": "21B", 
+      "lat": 50.741650521427, 
+      "lon": 3.218909730501, 
+      "municipality": "Mouscron", 
+      "pcode": "7700", 
+      "source": "7715855", 
+      "street": "Rue des Brasseurs"
+    }, 
+    {
+      "hnrlbls": [
         "22"
       ], 
       "housenumber": "22", 
@@ -145,6 +190,9 @@
       "street": "Rue des Brasseurs"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -301,6 +349,15 @@
       "street": "Rue des Brasseurs"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -325,6 +382,9 @@
       "street": "Rue des Brasseurs"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "8"
       ], 

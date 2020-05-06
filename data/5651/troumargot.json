@@ -1,6 +1,14 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "BTE1", 
+        "BTE2", 
+        "BTE3", 
+        "BTE4", 
+        "BTE5", 
+        "BTE6"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -19,6 +27,18 @@
       "housenumber": "10", 
       "lat": 50.289387127105, 
       "lon": 4.456030286751, 
+      "municipality": "Walcourt", 
+      "pcode": "5651", 
+      "source": "7758136", 
+      "street": "Trou Margot"
+    }, 
+    {
+      "hnrlbls": [
+        "11"
+      ], 
+      "housenumber": "11", 
+      "lat": 50.28904334278, 
+      "lon": 4.455572863886, 
       "municipality": "Walcourt", 
       "pcode": "5651", 
       "source": "7758136", 

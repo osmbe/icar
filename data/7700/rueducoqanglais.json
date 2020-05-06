@@ -2,23 +2,51 @@
   "addresses": [
     {
       "hnrlbls": [
-        "13"
+        "15"
       ], 
-      "housenumber": "13", 
-      "lat": 50.754466012372, 
-      "lon": 3.219838496174, 
+      "housenumber": "15", 
+      "lat": 50.754052015692, 
+      "lon": 3.21965369483, 
       "municipality": "Mouscron", 
       "pcode": "7700", 
       "source": "7715966", 
       "street": "Rue du Coq Anglais"
     }, 
     {
-      "hnrlbls": [
-        "15"
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
       ], 
-      "housenumber": "15", 
-      "lat": 50.754052015692, 
-      "lon": 3.21965369483, 
+      "hnrlbls": [
+        "19"
+      ], 
+      "housenumber": "19", 
+      "lat": 50.754482480488, 
+      "lon": 3.219304381807, 
+      "municipality": "Mouscron", 
+      "pcode": "7700", 
+      "source": "7715966", 
+      "street": "Rue du Coq Anglais"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
+      "hnrlbls": [
+        "21"
+      ], 
+      "housenumber": "21", 
+      "lat": 50.75443546239, 
+      "lon": 3.219022027397, 
       "municipality": "Mouscron", 
       "pcode": "7700", 
       "source": "7715966", 
@@ -49,6 +77,9 @@
       "street": "Rue du Coq Anglais"
     }, 
     {
+      "busnrs": [
+        "A000"
+      ], 
       "hnrlbls": [
         "36"
       ], 

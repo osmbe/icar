@@ -97,6 +97,12 @@
       "street": "Boulevard de la R\u00e9sistance"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt04"
+      ], 
       "hnrlbls": [
         "106"
       ], 
@@ -241,6 +247,11 @@
       "street": "Boulevard de la R\u00e9sistance"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03"
+      ], 
       "hnrlbls": [
         "118"
       ], 
@@ -482,11 +493,23 @@
     }, 
     {
       "hnrlbls": [
-        "140"
+        "13A"
       ], 
-      "housenumber": "140", 
-      "lat": 50.600468321023, 
-      "lon": 4.353346545562, 
+      "housenumber": "13A", 
+      "lat": 50.601304826522, 
+      "lon": 4.345793357178, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7702861", 
+      "street": "Boulevard de la R\u00e9sistance"
+    }, 
+    {
+      "hnrlbls": [
+        "13B"
+      ], 
+      "housenumber": "13B", 
+      "lat": 50.6013582678, 
+      "lon": 4.345629004477, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702861", 
@@ -499,18 +522,6 @@
       "housenumber": "141", 
       "lat": 50.603303274171, 
       "lon": 4.343634496097, 
-      "municipality": "Nivelles", 
-      "pcode": "1400", 
-      "source": "7702861", 
-      "street": "Boulevard de la R\u00e9sistance"
-    }, 
-    {
-      "hnrlbls": [
-        "142"
-      ], 
-      "housenumber": "142", 
-      "lat": 50.600423794908, 
-      "lon": 4.353287854539, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702861", 
@@ -533,8 +544,8 @@
         "144"
       ], 
       "housenumber": "144", 
-      "lat": 50.600668354463, 
-      "lon": 4.352963444565, 
+      "lat": 50.600679052922, 
+      "lon": 4.352924199341, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702861", 
@@ -667,6 +678,18 @@
       "housenumber": "154", 
       "lat": 50.601247647521, 
       "lon": 4.352497468386, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7702861", 
+      "street": "Boulevard de la R\u00e9sistance"
+    }, 
+    {
+      "hnrlbls": [
+        "154A"
+      ], 
+      "housenumber": "154A", 
+      "lat": 50.601394953864, 
+      "lon": 4.352646462152, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702861", 
@@ -1970,6 +1993,18 @@
     }, 
     {
       "hnrlbls": [
+        "33A"
+      ], 
+      "housenumber": "33A", 
+      "lat": 50.600398013265, 
+      "lon": 4.350529160759, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7702861", 
+      "street": "Boulevard de la R\u00e9sistance"
+    }, 
+    {
+      "hnrlbls": [
         "33B"
       ], 
       "housenumber": "33B", 
@@ -2269,6 +2304,19 @@
       "street": "Boulevard de la R\u00e9sistance"
     }, 
     {
+      "busnrs": [
+        "01.1", 
+        "01.3", 
+        "01.4", 
+        "0102", 
+        "02.1", 
+        "02.2", 
+        "02.4", 
+        "0202", 
+        "A001", 
+        "A009", 
+        "R002"
+      ], 
       "hnrlbls": [
         "60"
       ], 
@@ -2293,6 +2341,19 @@
       "street": "Boulevard de la R\u00e9sistance"
     }, 
     {
+      "busnrs": [
+        "01.2", 
+        "02.1", 
+        "2.2", 
+        "A001", 
+        "A002", 
+        "A003", 
+        "A005", 
+        "A006", 
+        "A009", 
+        "A010", 
+        "BtA6"
+      ], 
       "hnrlbls": [
         "62"
       ], 
@@ -2521,6 +2582,12 @@
       "street": "Boulevard de la R\u00e9sistance"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt04"
+      ], 
       "hnrlbls": [
         "88"
       ], 
@@ -2569,6 +2636,16 @@
       "street": "Boulevard de la R\u00e9sistance"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt04", 
+        "Bt05", 
+        "Bt06", 
+        "Bt07", 
+        "Bt08"
+      ], 
       "hnrlbls": [
         "92"
       ], 

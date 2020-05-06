@@ -37,6 +37,9 @@
       "street": "Place"
     }, 
     {
+      "busnrs": [
+        "bteA"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -169,6 +172,11 @@
       "street": "Place"
     }, 
     {
+      "busnrs": [
+        "bte1", 
+        "bte2", 
+        "bte3"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -197,8 +205,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 50.688720322905, 
-      "lon": 4.083510995608, 
+      "lat": 50.688777664491, 
+      "lon": 4.08349038416, 
       "municipality": "Enghien", 
       "pcode": "7850", 
       "source": "7716788", 
@@ -233,8 +241,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 50.688785988068, 
-      "lon": 4.082940277869, 
+      "lat": 50.688739566061, 
+      "lon": 4.082974282432, 
       "municipality": "Enghien", 
       "pcode": "7850", 
       "source": "7716788", 
@@ -281,8 +289,8 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 50.688807566018, 
-      "lon": 4.083051721069, 
+      "lat": 50.688771396984, 
+      "lon": 4.083080186807, 
       "municipality": "Enghien", 
       "pcode": "7850", 
       "source": "7716788", 

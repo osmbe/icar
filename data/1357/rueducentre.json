@@ -77,8 +77,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.734266102561, 
-      "lon": 5.002181581293, 
+      "lat": 50.734251359486, 
+      "lon": 5.002158894421, 
       "municipality": "H\u00e9l\u00e9cine", 
       "pcode": "1357", 
       "source": "7705411", 
@@ -173,8 +173,20 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 50.733850177242, 
-      "lon": 5.002221224182, 
+      "lat": 50.733954992205, 
+      "lon": 5.002192649869, 
+      "municipality": "H\u00e9l\u00e9cine", 
+      "pcode": "1357", 
+      "source": "7705411", 
+      "street": "Rue du Centre"
+    }, 
+    {
+      "hnrlbls": [
+        "22A"
+      ], 
+      "housenumber": "22A", 
+      "lat": 50.733846311676, 
+      "lon": 5.002234128241, 
       "municipality": "H\u00e9l\u00e9cine", 
       "pcode": "1357", 
       "source": "7705411", 
@@ -193,6 +205,9 @@
       "street": "Rue du Centre"
     }, 
     {
+      "busnrs": [
+        "Bte2"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -373,6 +388,11 @@
       "street": "Rue du Centre"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2", 
+        "Bte3"
+      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -397,6 +417,9 @@
       "street": "Rue du Centre"
     }, 
     {
+      "busnrs": [
+        "Bte1"
+      ], 
       "hnrlbls": [
         "35"
       ], 

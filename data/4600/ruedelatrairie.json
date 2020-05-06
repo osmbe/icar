@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A  2", 
+        "A 1"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -37,6 +41,9 @@
       "street": "Rue de la Trairie"
     }, 
     {
+      "busnrs": [
+        "00B1"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -109,6 +116,9 @@
       "street": "Rue de la Trairie"
     }, 
     {
+      "busnrs": [
+        "A 2"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -169,6 +179,9 @@
       "street": "Rue de la Trairie"
     }, 
     {
+      "busnrs": [
+        "A 1"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -206,6 +219,18 @@
     }, 
     {
       "hnrlbls": [
+        "25"
+      ], 
+      "housenumber": "25", 
+      "lat": 50.737379863827, 
+      "lon": 5.697548195396, 
+      "municipality": "Vis\u00e9", 
+      "pcode": "4600", 
+      "source": "7733329", 
+      "street": "Rue de la Trairie"
+    }, 
+    {
+      "hnrlbls": [
         "26"
       ], 
       "housenumber": "26", 
@@ -229,6 +254,9 @@
       "street": "Rue de la Trairie"
     }, 
     {
+      "busnrs": [
+        "A  1"
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -265,12 +293,18 @@
       "street": "Rue de la Trairie"
     }, 
     {
+      "busnrs": [
+        "A  2", 
+        "A 1", 
+        "B  1", 
+        "B  2"
+      ], 
       "hnrlbls": [
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 50.737126910522, 
-      "lon": 5.697908555124, 
+      "lat": 50.737113832656, 
+      "lon": 5.697845206645, 
       "municipality": "Vis\u00e9", 
       "pcode": "4600", 
       "source": "7733329", 
@@ -301,6 +335,11 @@
       "street": "Rue de la Trairie"
     }, 
     {
+      "busnrs": [
+        "A  1", 
+        "A  2", 
+        "A  3"
+      ], 
       "hnrlbls": [
         "40"
       ], 
@@ -313,6 +352,10 @@
       "street": "Rue de la Trairie"
     }, 
     {
+      "busnrs": [
+        "A  2", 
+        "A 1"
+      ], 
       "hnrlbls": [
         "42"
       ], 

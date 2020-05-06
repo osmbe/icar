@@ -1,6 +1,17 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "/1/A", 
+        "/1A", 
+        "/1B", 
+        "/2A", 
+        "/2B", 
+        "/3B", 
+        "/RC.A", 
+        "/RC.B", 
+        "/RC/A"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -73,6 +84,12 @@
       "street": "Rue du Waux-Hall"
     }, 
     {
+      "busnrs": [
+        "/1A", 
+        "/1B", 
+        "/RC.A", 
+        "/RC.B"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -85,6 +102,16 @@
       "street": "Rue du Waux-Hall"
     }, 
     {
+      "busnrs": [
+        "/-1A", 
+        "/-1B", 
+        "/1A", 
+        "/1B", 
+        "/2A", 
+        "/RC.A", 
+        "/RC.B", 
+        "/RCB"
+      ], 
       "hnrlbls": [
         "8"
       ], 
@@ -97,6 +124,10 @@
       "street": "Rue du Waux-Hall"
     }, 
     {
+      "busnrs": [
+        "/1", 
+        "/RC"
+      ], 
       "hnrlbls": [
         "9"
       ], 

@@ -1,6 +1,16 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0106", 
+        "0107", 
+        "0108"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -121,6 +131,9 @@
       "street": "Rue Commandant Chuillet"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -133,6 +146,10 @@
       "street": "Rue Commandant Chuillet"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "000A"
+      ], 
       "hnrlbls": [
         "3"
       ], 

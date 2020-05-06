@@ -133,6 +133,11 @@
       "street": "M\u00fchlenweg"
     }, 
     {
+      "busnrs": [
+        "0A", 
+        "1A", 
+        "2A"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -194,6 +199,18 @@
     }, 
     {
       "hnrlbls": [
+        "70"
+      ], 
+      "housenumber": "70", 
+      "lat": 50.184012142059, 
+      "lon": 6.067984897372, 
+      "municipality": "Burg-Reuland", 
+      "pcode": "4790", 
+      "source": "7763309", 
+      "street": "M\u00fchlenweg"
+    }, 
+    {
+      "hnrlbls": [
         "76"
       ], 
       "housenumber": "76", 
@@ -205,6 +222,12 @@
       "street": "M\u00fchlenweg"
     }, 
     {
+      "busnrs": [
+        "/", 
+        "/1A", 
+        "/2A", 
+        "/3A"
+      ], 
       "hnrlbls": [
         "8"
       ], 

@@ -2,6 +2,18 @@
   "addresses": [
     {
       "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.645509476445, 
+      "lon": 4.766713246664, 
+      "municipality": "Perwez", 
+      "pcode": "1360", 
+      "source": "7703340", 
+      "street": "Rue Tr\u00e9mouroux"
+    }, 
+    {
+      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -409,6 +421,10 @@
       "street": "Rue Tr\u00e9mouroux"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "00B"
+      ], 
       "hnrlbls": [
         "157"
       ], 
@@ -653,8 +669,8 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 50.642157721313, 
-      "lon": 4.766892326164, 
+      "lat": 50.642031762408, 
+      "lon": 4.766863514971, 
       "municipality": "Perwez", 
       "pcode": "1360", 
       "source": "7703340", 
@@ -781,6 +797,9 @@
       "street": "Rue Tr\u00e9mouroux"
     }, 
     {
+      "busnrs": [
+        "bte1"
+      ], 
       "hnrlbls": [
         "55"
       ], 
@@ -961,6 +980,10 @@
       "street": "Rue Tr\u00e9mouroux"
     }, 
     {
+      "busnrs": [
+        "bte1", 
+        "bte2"
+      ], 
       "hnrlbls": [
         "72"
       ], 
@@ -1009,6 +1032,9 @@
       "street": "Rue Tr\u00e9mouroux"
     }, 
     {
+      "busnrs": [
+        "bte1"
+      ], 
       "hnrlbls": [
         "79"
       ], 
@@ -1189,12 +1215,15 @@
       "street": "Rue Tr\u00e9mouroux"
     }, 
     {
+      "busnrs": [
+        "bte1"
+      ], 
       "hnrlbls": [
         "94"
       ], 
       "housenumber": "94", 
-      "lat": 50.637548772764, 
-      "lon": 4.7626218897, 
+      "lat": 50.637339990081, 
+      "lon": 4.762803336817, 
       "municipality": "Perwez", 
       "pcode": "1360", 
       "source": "7703340", 

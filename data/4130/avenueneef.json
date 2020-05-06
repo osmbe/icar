@@ -1,12 +1,125 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "11", 
+        "12", 
+        "21", 
+        "22", 
+        "31", 
+        "32"
+      ], 
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.569333099609, 
+      "lon": 5.587183024223, 
+      "municipality": "Esneux", 
+      "pcode": "4130", 
+      "source": "7728562", 
+      "street": "Avenue Neef"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 50.57011536814, 
-      "lon": 5.587905182039, 
+      "lat": 50.569508222998, 
+      "lon": 5.588368911268, 
+      "municipality": "Esneux", 
+      "pcode": "4130", 
+      "source": "7728562", 
+      "street": "Avenue Neef"
+    }, 
+    {
+      "busnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "004", 
+        "005", 
+        "006", 
+        "007", 
+        "008", 
+        "009", 
+        "010", 
+        "011", 
+        "101", 
+        "102", 
+        "103", 
+        "104", 
+        "105", 
+        "106", 
+        "107", 
+        "108", 
+        "109", 
+        "110", 
+        "111", 
+        "112", 
+        "113", 
+        "114", 
+        "115", 
+        "116", 
+        "117", 
+        "118", 
+        "119", 
+        "201", 
+        "202", 
+        "203", 
+        "204", 
+        "205", 
+        "206", 
+        "207", 
+        "208", 
+        "209", 
+        "210", 
+        "211", 
+        "212", 
+        "213", 
+        "214", 
+        "215", 
+        "216", 
+        "217", 
+        "218", 
+        "219"
+      ], 
+      "hnrlbls": [
+        "13"
+      ], 
+      "housenumber": "13", 
+      "lat": 50.569941276567, 
+      "lon": 5.588574134227, 
+      "municipality": "Esneux", 
+      "pcode": "4130", 
+      "source": "7728562", 
+      "street": "Avenue Neef"
+    }, 
+    {
+      "busnrs": [
+        "15/01", 
+        "15/02", 
+        "15/03", 
+        "15/11", 
+        "15/12", 
+        "15/13", 
+        "15/21", 
+        "15/22", 
+        "15/23"
+      ], 
+      "hnrlbls": [
+        "15"
+      ], 
+      "housenumber": "15", 
+      "lat": 50.569893234229, 
+      "lon": 5.589857480911, 
       "municipality": "Esneux", 
       "pcode": "4130", 
       "source": "7728562", 
@@ -14,17 +127,20 @@
     }, 
     {
       "hnrlbls": [
-        "15"
+        "19"
       ], 
-      "housenumber": "15", 
-      "lat": 50.569696542957, 
-      "lon": 5.588193962379, 
+      "housenumber": "19", 
+      "lat": 50.569992945502, 
+      "lon": 5.588873963748, 
       "municipality": "Esneux", 
       "pcode": "4130", 
       "source": "7728562", 
       "street": "Avenue Neef"
     }, 
     {
+      "busnrs": [
+        "0011"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -38,11 +154,35 @@
     }, 
     {
       "hnrlbls": [
+        "21"
+      ], 
+      "housenumber": "21", 
+      "lat": 50.570055442257, 
+      "lon": 5.589175906112, 
+      "municipality": "Esneux", 
+      "pcode": "4130", 
+      "source": "7728562", 
+      "street": "Avenue Neef"
+    }, 
+    {
+      "hnrlbls": [
         "22"
       ], 
       "housenumber": "22", 
       "lat": 50.569445877236, 
       "lon": 5.589274776852, 
+      "municipality": "Esneux", 
+      "pcode": "4130", 
+      "source": "7728562", 
+      "street": "Avenue Neef"
+    }, 
+    {
+      "hnrlbls": [
+        "23"
+      ], 
+      "housenumber": "23", 
+      "lat": 50.570115287693, 
+      "lon": 5.589458358413, 
       "municipality": "Esneux", 
       "pcode": "4130", 
       "source": "7728562", 
@@ -73,12 +213,19 @@
       "street": "Avenue Neef"
     }, 
     {
+      "busnrs": [
+        "11", 
+        "12", 
+        "21", 
+        "22", 
+        "31"
+      ], 
       "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.569332954536, 
-      "lon": 5.5871400638, 
+      "lat": 50.569331864137, 
+      "lon": 5.587273563244, 
       "municipality": "Esneux", 
       "pcode": "4130", 
       "source": "7728562", 
@@ -109,12 +256,27 @@
       "street": "Avenue Neef"
     }, 
     {
+      "busnrs": [
+        "0021"
+      ], 
       "hnrlbls": [
         "32"
       ], 
       "housenumber": "32", 
       "lat": 50.569515880705, 
       "lon": 5.590011272001, 
+      "municipality": "Esneux", 
+      "pcode": "4130", 
+      "source": "7728562", 
+      "street": "Avenue Neef"
+    }, 
+    {
+      "hnrlbls": [
+        "33"
+      ], 
+      "housenumber": "33", 
+      "lat": 50.570284576972, 
+      "lon": 5.590511273403, 
       "municipality": "Esneux", 
       "pcode": "4130", 
       "source": "7728562", 
@@ -185,8 +347,8 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 50.570310046411, 
-      "lon": 5.591362553745, 
+      "lat": 50.570353721008, 
+      "lon": 5.591378303141, 
       "municipality": "Esneux", 
       "pcode": "4130", 
       "source": "7728562", 
@@ -266,18 +428,6 @@
     }, 
     {
       "hnrlbls": [
-        "5"
-      ], 
-      "housenumber": "5", 
-      "lat": 50.569331864137, 
-      "lon": 5.587273563244, 
-      "municipality": "Esneux", 
-      "pcode": "4130", 
-      "source": "7728562", 
-      "street": "Avenue Neef"
-    }, 
-    {
-      "hnrlbls": [
         "50"
       ], 
       "housenumber": "50", 
@@ -293,8 +443,8 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 50.570325087372, 
-      "lon": 5.592839910556, 
+      "lat": 50.570278754485, 
+      "lon": 5.5928493838, 
       "municipality": "Esneux", 
       "pcode": "4130", 
       "source": "7728562", 
@@ -305,8 +455,8 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 50.570283328199, 
-      "lon": 5.592923256013, 
+      "lat": 50.570332611176, 
+      "lon": 5.592907703696, 
       "municipality": "Esneux", 
       "pcode": "4130", 
       "source": "7728562", 
@@ -317,8 +467,8 @@
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 50.570286031464, 
-      "lon": 5.593009983866, 
+      "lat": 50.570338284809, 
+      "lon": 5.592991557871, 
       "municipality": "Esneux", 
       "pcode": "4130", 
       "source": "7728562", 
@@ -329,8 +479,8 @@
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 50.570284515599, 
-      "lon": 5.593136274707, 
+      "lat": 50.570337739412, 
+      "lon": 5.593123041281, 
       "municipality": "Esneux", 
       "pcode": "4130", 
       "source": "7728562", 
@@ -341,8 +491,8 @@
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 50.57026934064, 
-      "lon": 5.593313150249, 
+      "lat": 50.570348571832, 
+      "lon": 5.593297781408, 
       "municipality": "Esneux", 
       "pcode": "4130", 
       "source": "7728562", 
@@ -350,11 +500,30 @@
     }, 
     {
       "hnrlbls": [
-        "65"
+        "63"
       ], 
-      "housenumber": "65", 
-      "lat": 50.570458218548, 
-      "lon": 5.593983948591, 
+      "housenumber": "63", 
+      "lat": 50.570135940212, 
+      "lon": 5.593799903086, 
+      "municipality": "Esneux", 
+      "pcode": "4130", 
+      "source": "7728562", 
+      "street": "Avenue Neef"
+    }, 
+    {
+      "busnrs": [
+        "01", 
+        "02", 
+        "11", 
+        "12", 
+        "21"
+      ], 
+      "hnrlbls": [
+        "64"
+      ], 
+      "housenumber": "64", 
+      "lat": 50.570380064745, 
+      "lon": 5.593716580475, 
       "municipality": "Esneux", 
       "pcode": "4130", 
       "source": "7728562", 
@@ -362,23 +531,31 @@
     }, 
     {
       "hnrlbls": [
-        "7"
+        "66"
       ], 
-      "housenumber": "7", 
-      "lat": 50.569422494294, 
-      "lon": 5.587320202312, 
+      "housenumber": "66", 
+      "lat": 50.570454900495, 
+      "lon": 5.593937543229, 
       "municipality": "Esneux", 
       "pcode": "4130", 
       "source": "7728562", 
       "street": "Avenue Neef"
     }, 
     {
-      "hnrlbls": [
-        "9"
+      "busnrs": [
+        "/01", 
+        "/11", 
+        "/12", 
+        "/13", 
+        "/21", 
+        "/22"
       ], 
-      "housenumber": "9", 
-      "lat": 50.56954947826, 
-      "lon": 5.588382356066, 
+      "hnrlbls": [
+        "67"
+      ], 
+      "housenumber": "67", 
+      "lat": 50.570467347719, 
+      "lon": 5.594030007667, 
       "municipality": "Esneux", 
       "pcode": "4130", 
       "source": "7728562", 

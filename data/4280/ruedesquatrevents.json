@@ -13,6 +13,9 @@
       "street": "Rue des Quatre Vents"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -85,6 +88,10 @@
       "street": "Rue des Quatre Vents"
     }, 
     {
+      "busnrs": [
+        "000B", 
+        "000C"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -149,8 +156,8 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.686538885867, 
-      "lon": 5.125392166785, 
+      "lat": 50.686256183403, 
+      "lon": 5.125189187431, 
       "municipality": "Hannut", 
       "pcode": "4280", 
       "source": "7740537", 
@@ -233,14 +240,17 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.686668401404, 
-      "lon": 5.125882514978, 
+      "lat": 50.682953513078, 
+      "lon": 5.13815702166, 
       "municipality": "Hannut", 
       "pcode": "4280", 
       "source": "7740537", 
       "street": "Rue des Quatre Vents"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -265,6 +275,13 @@
       "street": "Rue des Quatre Vents"
     }, 
     {
+      "busnrs": [
+        "000B", 
+        "000C", 
+        "000E", 
+        "000F", 
+        "000H"
+      ], 
       "hnrlbls": [
         "9"
       ], 

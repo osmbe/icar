@@ -61,6 +61,28 @@
       "street": "Rue Cheval Godet"
     }, 
     {
+      "busnrs": [
+        "0019", 
+        "A009", 
+        "A017", 
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt04", 
+        "Bt05", 
+        "Bt06", 
+        "Bt07", 
+        "Bt08", 
+        "Bt10", 
+        "Bt11", 
+        "Bt12", 
+        "Bt13", 
+        "Bt14", 
+        "Bt15", 
+        "Bt16", 
+        "Bt18", 
+        "Bt19"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -517,6 +539,12 @@
       "street": "Rue Cheval Godet"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt04"
+      ], 
       "hnrlbls": [
         "60"
       ], 
@@ -583,6 +611,34 @@
       "housenumber": "70", 
       "lat": 50.60609509544, 
       "lon": 4.321981172685, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7702982", 
+      "street": "Rue Cheval Godet"
+    }, 
+    {
+      "hnrlbls": [
+        "74"
+      ], 
+      "housenumber": "74", 
+      "lat": 50.606277029018, 
+      "lon": 4.322192195195, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7702982", 
+      "street": "Rue Cheval Godet"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
+      "hnrlbls": [
+        "78"
+      ], 
+      "housenumber": "78", 
+      "lat": 50.606473360625, 
+      "lon": 4.322187738187, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702982", 

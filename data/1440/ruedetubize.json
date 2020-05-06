@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "000A", 
+        "000B", 
+        "000C"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -49,6 +54,9 @@
       "street": "Rue de Tubize"
     }, 
     {
+      "busnrs": [
+        "bte2"
+      ], 
       "hnrlbls": [
         "102"
       ], 
@@ -97,6 +105,10 @@
       "street": "Rue de Tubize"
     }, 
     {
+      "busnrs": [
+        "000B", 
+        "000C"
+      ], 
       "hnrlbls": [
         "106"
       ], 
@@ -253,6 +265,10 @@
       "street": "Rue de Tubize"
     }, 
     {
+      "busnrs": [
+        "bte1", 
+        "bte2"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -301,6 +317,14 @@
       "street": "Rue de Tubize"
     }, 
     {
+      "busnrs": [
+        "bte1", 
+        "bte2", 
+        "bte3", 
+        "bte4", 
+        "bte5", 
+        "bte6"
+      ], 
       "hnrlbls": [
         "125"
       ], 
@@ -325,6 +349,12 @@
       "street": "Rue de Tubize"
     }, 
     {
+      "busnrs": [
+        "Abt1", 
+        "Abt2", 
+        "Abt3", 
+        "Abt4"
+      ], 
       "hnrlbls": [
         "128"
       ], 
@@ -601,6 +631,9 @@
       "street": "Rue de Tubize"
     }, 
     {
+      "busnrs": [
+        "bte2"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -685,6 +718,10 @@
       "street": "Rue de Tubize"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -697,6 +734,10 @@
       "street": "Rue de Tubize"
     }, 
     {
+      "busnrs": [
+        "Bbt1", 
+        "Bbt2"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -709,6 +750,13 @@
       "street": "Rue de Tubize"
     }, 
     {
+      "busnrs": [
+        "00R2", 
+        "0101", 
+        "0102", 
+        "0202", 
+        "R1"
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -721,6 +769,15 @@
       "street": "Rue de Tubize"
     }, 
     {
+      "busnrs": [
+        "bte1", 
+        "bte2", 
+        "bte3", 
+        "bte4", 
+        "bte5", 
+        "bte6", 
+        "bte7"
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -817,6 +874,9 @@
       "street": "Rue de Tubize"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "36"
       ], 
@@ -913,6 +973,13 @@
       "street": "Rue de Tubize"
     }, 
     {
+      "busnrs": [
+        "00R1", 
+        "00R2", 
+        "0101", 
+        "0102", 
+        "0103"
+      ], 
       "hnrlbls": [
         "44"
       ], 
@@ -997,6 +1064,10 @@
       "street": "Rue de Tubize"
     }, 
     {
+      "busnrs": [
+        "bte2", 
+        "bte3"
+      ], 
       "hnrlbls": [
         "50"
       ], 
@@ -1009,6 +1080,11 @@
       "street": "Rue de Tubize"
     }, 
     {
+      "busnrs": [
+        "bte1", 
+        "bte2", 
+        "bte3"
+      ], 
       "hnrlbls": [
         "51"
       ], 
@@ -1081,6 +1157,24 @@
       "street": "Rue de Tubize"
     }, 
     {
+      "busnrs": [
+        "Bbt1", 
+        "Bbt2", 
+        "Bbt3", 
+        "Bbt4", 
+        "Bbt5", 
+        "bt10", 
+        "bt11", 
+        "bt12", 
+        "bte2", 
+        "bte3", 
+        "bte4", 
+        "bte5", 
+        "bte6", 
+        "bte7", 
+        "bte8", 
+        "bte9"
+      ], 
       "hnrlbls": [
         "61"
       ], 
@@ -1105,6 +1199,16 @@
       "street": "Rue de Tubize"
     }, 
     {
+      "busnrs": [
+        "bte1", 
+        "bte2", 
+        "bte3", 
+        "bte4", 
+        "bte5", 
+        "bte6", 
+        "bte7", 
+        "bte8"
+      ], 
       "hnrlbls": [
         "63"
       ], 
@@ -1129,6 +1233,16 @@
       "street": "Rue de Tubize"
     }, 
     {
+      "busnrs": [
+        "bte1", 
+        "bte2", 
+        "bte3", 
+        "bte4", 
+        "bte5", 
+        "bte6", 
+        "bte7", 
+        "bte8"
+      ], 
       "hnrlbls": [
         "65"
       ], 
@@ -1141,6 +1255,9 @@
       "street": "Rue de Tubize"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "66"
       ], 
@@ -1153,6 +1270,9 @@
       "street": "Rue de Tubize"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "68"
       ], 
@@ -1165,6 +1285,10 @@
       "street": "Rue de Tubize"
     }, 
     {
+      "busnrs": [
+        "bte1", 
+        "bte2"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -1237,6 +1361,10 @@
       "street": "Rue de Tubize"
     }, 
     {
+      "busnrs": [
+        "Abt1", 
+        "Abt2"
+      ], 
       "hnrlbls": [
         "76"
       ], 

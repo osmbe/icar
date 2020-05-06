@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -25,6 +29,34 @@
       "street": "Haasstra\u00dfe"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
+      "hnrlbls": [
+        "12"
+      ], 
+      "housenumber": "12", 
+      "lat": 50.623731629238, 
+      "lon": 6.037525075772, 
+      "municipality": "Eupen", 
+      "pcode": "4700", 
+      "source": "7735786", 
+      "street": "Haasstra\u00dfe"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -41,14 +73,18 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 50.623723141554, 
-      "lon": 6.037552662977, 
+      "lat": 50.623704878488, 
+      "lon": 6.037581938747, 
       "municipality": "Eupen", 
       "pcode": "4700", 
       "source": "7735786", 
       "street": "Haasstra\u00dfe"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -61,6 +97,10 @@
       "street": "Haasstra\u00dfe"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -73,6 +113,11 @@
       "street": "Haasstra\u00dfe"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -85,6 +130,13 @@
       "street": "Haasstra\u00dfe"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -145,12 +197,42 @@
       "street": "Haasstra\u00dfe"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "21"
       ], 
       "housenumber": "21", 
       "lat": 50.623427847876, 
       "lon": 6.037665558792, 
+      "municipality": "Eupen", 
+      "pcode": "4700", 
+      "source": "7735786", 
+      "street": "Haasstra\u00dfe"
+    }, 
+    {
+      "hnrlbls": [
+        "21A"
+      ], 
+      "housenumber": "21A", 
+      "lat": 50.62345350692, 
+      "lon": 6.037674198203, 
+      "municipality": "Eupen", 
+      "pcode": "4700", 
+      "source": "7735786", 
+      "street": "Haasstra\u00dfe"
+    }, 
+    {
+      "hnrlbls": [
+        "22"
+      ], 
+      "housenumber": "22", 
+      "lat": 50.623604085515, 
+      "lon": 6.038000237018, 
       "municipality": "Eupen", 
       "pcode": "4700", 
       "source": "7735786", 
@@ -169,18 +251,29 @@
       "street": "Haasstra\u00dfe"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 50.623599048444, 
-      "lon": 6.038053561636, 
+      "lat": 50.623576069979, 
+      "lon": 6.038079864431, 
       "municipality": "Eupen", 
       "pcode": "4700", 
       "source": "7735786", 
       "street": "Haasstra\u00dfe"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -199,6 +292,27 @@
       "housenumber": "26", 
       "lat": 50.623541214586, 
       "lon": 6.038177042625, 
+      "municipality": "Eupen", 
+      "pcode": "4700", 
+      "source": "7735786", 
+      "street": "Haasstra\u00dfe"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7"
+      ], 
+      "hnrlbls": [
+        "27"
+      ], 
+      "housenumber": "27", 
+      "lat": 50.62314983063, 
+      "lon": 6.037672127432, 
       "municipality": "Eupen", 
       "pcode": "4700", 
       "source": "7735786", 
@@ -230,6 +344,27 @@
     }, 
     {
       "hnrlbls": [
+        "29A"
+      ], 
+      "housenumber": "29A", 
+      "lat": 50.62321259792, 
+      "lon": 6.037899685404, 
+      "municipality": "Eupen", 
+      "pcode": "4700", 
+      "source": "7735786", 
+      "street": "Haasstra\u00dfe"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7"
+      ], 
+      "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
@@ -241,6 +376,10 @@
       "street": "Haasstra\u00dfe"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -277,6 +416,16 @@
       "street": "Haasstra\u00dfe"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8"
+      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -301,6 +450,16 @@
       "street": "Haasstra\u00dfe"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8"
+      ], 
       "hnrlbls": [
         "37"
       ], 
@@ -338,6 +497,23 @@
     }, 
     {
       "hnrlbls": [
+        "39A"
+      ], 
+      "housenumber": "39A", 
+      "lat": 50.622787552471, 
+      "lon": 6.038078376577, 
+      "municipality": "Eupen", 
+      "pcode": "4700", 
+      "source": "7735786", 
+      "street": "Haasstra\u00dfe"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
+      "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
@@ -349,6 +525,11 @@
       "street": "Haasstra\u00dfe"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "40"
       ], 
@@ -361,6 +542,10 @@
       "street": "Haasstra\u00dfe"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "40A"
       ], 
@@ -397,6 +582,12 @@
       "street": "Haasstra\u00dfe"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "43"
       ], 
@@ -413,14 +604,18 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 50.622882736435, 
-      "lon": 6.038959218452, 
+      "lat": 50.622867464866, 
+      "lon": 6.038895845297, 
       "municipality": "Eupen", 
       "pcode": "4700", 
       "source": "7735786", 
       "street": "Haasstra\u00dfe"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "45"
       ], 
@@ -434,6 +629,25 @@
     }, 
     {
       "hnrlbls": [
+        "46"
+      ], 
+      "housenumber": "46", 
+      "lat": 50.622903456095, 
+      "lon": 6.039046163337, 
+      "municipality": "Eupen", 
+      "pcode": "4700", 
+      "source": "7735786", 
+      "street": "Haasstra\u00dfe"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
+      "hnrlbls": [
         "47"
       ], 
       "housenumber": "47", 
@@ -445,6 +659,23 @@
       "street": "Haasstra\u00dfe"
     }, 
     {
+      "hnrlbls": [
+        "48"
+      ], 
+      "housenumber": "48", 
+      "lat": 50.622952109067, 
+      "lon": 6.039137646154, 
+      "municipality": "Eupen", 
+      "pcode": "4700", 
+      "source": "7735786", 
+      "street": "Haasstra\u00dfe"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "49"
       ], 
@@ -473,14 +704,18 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 50.623053884511, 
-      "lon": 6.040186130117, 
+      "lat": 50.622975027462, 
+      "lon": 6.039588184431, 
       "municipality": "Eupen", 
       "pcode": "4700", 
       "source": "7735786", 
       "street": "Haasstra\u00dfe"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "51"
       ], 
@@ -493,12 +728,15 @@
       "street": "Haasstra\u00dfe"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 50.622759849461, 
-      "lon": 6.039450181812, 
+      "lat": 50.623053884511, 
+      "lon": 6.040186130117, 
       "municipality": "Eupen", 
       "pcode": "4700", 
       "source": "7735786", 
@@ -509,14 +747,18 @@
         "52A"
       ], 
       "housenumber": "52A", 
-      "lat": 50.622724149471, 
-      "lon": 6.039334066767, 
+      "lat": 50.622738271929, 
+      "lon": 6.039377951474, 
       "municipality": "Eupen", 
       "pcode": "4700", 
       "source": "7735786", 
       "street": "Haasstra\u00dfe"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "53"
       ], 
@@ -553,6 +795,11 @@
       "street": "Haasstra\u00dfe"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "56"
       ], 
@@ -589,6 +836,14 @@
       "street": "Haasstra\u00dfe"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
       "hnrlbls": [
         "59"
       ], 
@@ -601,6 +856,9 @@
       "street": "Haasstra\u00dfe"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -613,6 +871,10 @@
       "street": "Haasstra\u00dfe"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "60"
       ], 
@@ -625,6 +887,10 @@
       "street": "Haasstra\u00dfe"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "60A"
       ], 
@@ -650,6 +916,23 @@
     }, 
     {
       "hnrlbls": [
+        "61A"
+      ], 
+      "housenumber": "61A", 
+      "lat": 50.622250857429, 
+      "lon": 6.038812106133, 
+      "municipality": "Eupen", 
+      "pcode": "4700", 
+      "source": "7735786", 
+      "street": "Haasstra\u00dfe"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
+      "hnrlbls": [
         "62"
       ], 
       "housenumber": "62", 
@@ -673,6 +956,10 @@
       "street": "Haasstra\u00dfe"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "64"
       ], 
@@ -685,6 +972,10 @@
       "street": "Haasstra\u00dfe"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "66"
       ], 
@@ -721,6 +1012,10 @@
       "street": "Haasstra\u00dfe"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "8"
       ], 
@@ -737,8 +1032,8 @@
         "81"
       ], 
       "housenumber": "81", 
-      "lat": 50.62194684545, 
-      "lon": 6.039736234938, 
+      "lat": 50.621987123507, 
+      "lon": 6.039540376201, 
       "municipality": "Eupen", 
       "pcode": "4700", 
       "source": "7735786", 

@@ -13,6 +13,9 @@
       "street": "Rue Bourgmestre Bribosia"
     }, 
     {
+      "busnrs": [
+        "CPAS"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -26,6 +29,22 @@
     }, 
     {
       "hnrlbls": [
+        "21"
+      ], 
+      "housenumber": "21", 
+      "lat": 50.258167904887, 
+      "lon": 4.909330963309, 
+      "municipality": "Dinant", 
+      "pcode": "5500", 
+      "source": "7749212", 
+      "street": "Rue Bourgmestre Bribosia"
+    }, 
+    {
+      "busnrs": [
+        "Bte2", 
+        "Bte3"
+      ], 
+      "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
@@ -37,12 +56,30 @@
       "street": "Rue Bourgmestre Bribosia"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2", 
+        "Bte3", 
+        "Bte4"
+      ], 
       "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
       "lat": 50.259862508133, 
       "lon": 4.91012366954, 
+      "municipality": "Dinant", 
+      "pcode": "5500", 
+      "source": "7749212", 
+      "street": "Rue Bourgmestre Bribosia"
+    }, 
+    {
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.259148265004, 
+      "lon": 4.910233229051, 
       "municipality": "Dinant", 
       "pcode": "5500", 
       "source": "7749212", 

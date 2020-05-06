@@ -13,6 +13,10 @@
       "street": "Rue Thabor"
     }, 
     {
+      "busnrs": [
+        "Bte2", 
+        "bte3"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -73,6 +77,9 @@
       "street": "Rue Thabor"
     }, 
     {
+      "busnrs": [
+        "Bte1"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -277,6 +284,9 @@
       "street": "Rue Thabor"
     }, 
     {
+      "busnrs": [
+        "Bte1"
+      ], 
       "hnrlbls": [
         "42"
       ], 
@@ -385,6 +395,11 @@
       "street": "Rue Thabor"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2", 
+        "Bte4"
+      ], 
       "hnrlbls": [
         "58"
       ], 
@@ -409,6 +424,10 @@
       "street": "Rue Thabor"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -451,18 +470,6 @@
       "housenumber": "64", 
       "lat": 50.674749320923, 
       "lon": 3.93536598477, 
-      "municipality": "Silly", 
-      "pcode": "7830", 
-      "source": "7718439", 
-      "street": "Rue Thabor"
-    }, 
-    {
-      "hnrlbls": [
-        "66"
-      ], 
-      "housenumber": "66", 
-      "lat": 50.674820496041, 
-      "lon": 3.935598373965, 
       "municipality": "Silly", 
       "pcode": "7830", 
       "source": "7718439", 

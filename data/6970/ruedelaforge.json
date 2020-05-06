@@ -1,6 +1,13 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1", 
+        "Bte1", 
+        "Bte2", 
+        "Bte3", 
+        "Bte4"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -61,6 +68,9 @@
       "street": "Rue de la Forge"
     }, 
     {
+      "busnrs": [
+        "Bte1"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -86,6 +96,18 @@
     }, 
     {
       "hnrlbls": [
+        "14B"
+      ], 
+      "housenumber": "14B", 
+      "lat": 50.090163368447, 
+      "lon": 5.522969189954, 
+      "municipality": "Tenneville", 
+      "pcode": "6970", 
+      "source": "7744565", 
+      "street": "Rue de la Forge"
+    }, 
+    {
+      "hnrlbls": [
         "15"
       ], 
       "housenumber": "15", 
@@ -101,8 +123,8 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 50.090128073881, 
-      "lon": 5.523379041974, 
+      "lat": 50.090109955207, 
+      "lon": 5.523363811417, 
       "municipality": "Tenneville", 
       "pcode": "6970", 
       "source": "7744565", 
@@ -247,6 +269,18 @@
       "housenumber": "35", 
       "lat": 50.084883853775, 
       "lon": 5.528872523686, 
+      "municipality": "Tenneville", 
+      "pcode": "6970", 
+      "source": "7744565", 
+      "street": "Rue de la Forge"
+    }, 
+    {
+      "hnrlbls": [
+        "35A"
+      ], 
+      "housenumber": "35A", 
+      "lat": 50.084889891277, 
+      "lon": 5.528890801055, 
       "municipality": "Tenneville", 
       "pcode": "6970", 
       "source": "7744565", 
@@ -446,6 +480,18 @@
     }, 
     {
       "hnrlbls": [
+        "64"
+      ], 
+      "housenumber": "64", 
+      "lat": 50.08486368095, 
+      "lon": 5.528003300739, 
+      "municipality": "Tenneville", 
+      "pcode": "6970", 
+      "source": "7744565", 
+      "street": "Rue de la Forge"
+    }, 
+    {
+      "hnrlbls": [
         "68"
       ], 
       "housenumber": "68", 
@@ -457,12 +503,15 @@
       "street": "Rue de la Forge"
     }, 
     {
+      "busnrs": [
+        "Bte1"
+      ], 
       "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.090883193431, 
-      "lon": 5.522184228563, 
+      "lat": 50.09087259111, 
+      "lon": 5.52223333964, 
       "municipality": "Tenneville", 
       "pcode": "6970", 
       "source": "7744565", 
@@ -485,8 +534,8 @@
         "72"
       ], 
       "housenumber": "72", 
-      "lat": 50.083652548538, 
-      "lon": 5.527387578353, 
+      "lat": 50.083634415117, 
+      "lon": 5.527487522286, 
       "municipality": "Tenneville", 
       "pcode": "6970", 
       "source": "7744565", 
@@ -497,8 +546,8 @@
         "74"
       ], 
       "housenumber": "74", 
-      "lat": 50.083285601598, 
-      "lon": 5.527540997335, 
+      "lat": 50.083290987078, 
+      "lon": 5.527502306474, 
       "municipality": "Tenneville", 
       "pcode": "6970", 
       "source": "7744565", 
@@ -518,11 +567,23 @@
     }, 
     {
       "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.09051316767, 
+      "lon": 5.523590396664, 
+      "municipality": "Tenneville", 
+      "pcode": "6970", 
+      "source": "7744565", 
+      "street": "Rue de la Forge"
+    }, 
+    {
+      "hnrlbls": [
         "9A"
       ], 
       "housenumber": "9A", 
-      "lat": 50.09051316767, 
-      "lon": 5.523590396664, 
+      "lat": 50.090495420363, 
+      "lon": 5.523693072852, 
       "municipality": "Tenneville", 
       "pcode": "6970", 
       "source": "7744565", 

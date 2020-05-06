@@ -37,6 +37,11 @@
       "street": "Rue du Val Notre-Dame"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "307"
       ], 
@@ -205,6 +210,11 @@
       "street": "Rue du Val Notre-Dame"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0005", 
+        "0006"
+      ], 
       "hnrlbls": [
         "322"
       ], 
@@ -1045,6 +1055,9 @@
       "street": "Rue du Val Notre-Dame"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "384"
       ], 
@@ -1097,8 +1110,8 @@
         "394"
       ], 
       "housenumber": "394", 
-      "lat": 50.549772293037, 
-      "lon": 5.216691922316, 
+      "lat": 50.548624419343, 
+      "lon": 5.214128962633, 
       "municipality": "Wanze", 
       "pcode": "4520", 
       "source": "7726440", 

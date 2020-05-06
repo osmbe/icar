@@ -1,6 +1,21 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1-1"
+      ], 
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.448473056351, 
+      "lon": 3.885657099118, 
+      "municipality": "Mons", 
+      "pcode": "7012", 
+      "source": "7713474", 
+      "street": "Rue Borette"
+    }, 
+    {
       "hnrlbls": [
         "10"
       ], 
@@ -17,8 +32,8 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 50.448343609906, 
-      "lon": 3.884831308575, 
+      "lat": 50.448308227573, 
+      "lon": 3.884831669217, 
       "municipality": "Mons", 
       "pcode": "7012", 
       "source": "7713474", 
@@ -49,6 +64,11 @@
       "street": "Rue Borette"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "1-2"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -61,12 +81,35 @@
       "street": "Rue Borette"
     }, 
     {
+      "busnrs": [
+        "1-1", 
+        "1-2", 
+        "1-3", 
+        "1-4", 
+        "1-5", 
+        "1-6", 
+        "1-7", 
+        "1-8", 
+        "1-9"
+      ], 
       "hnrlbls": [
         "3B"
       ], 
       "housenumber": "3B", 
       "lat": 50.448492634549, 
       "lon": 3.885146907626, 
+      "municipality": "Mons", 
+      "pcode": "7012", 
+      "source": "7713474", 
+      "street": "Rue Borette"
+    }, 
+    {
+      "hnrlbls": [
+        "3C"
+      ], 
+      "housenumber": "3C", 
+      "lat": 50.448679385814, 
+      "lon": 3.885220984718, 
       "municipality": "Mons", 
       "pcode": "7012", 
       "source": "7713474", 
@@ -86,11 +129,41 @@
     }, 
     {
       "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 50.448334464361, 
+      "lon": 3.885004747428, 
+      "municipality": "Mons", 
+      "pcode": "7012", 
+      "source": "7713474", 
+      "street": "Rue Borette"
+    }, 
+    {
+      "hnrlbls": [
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.448343400974, 
-      "lon": 3.884902191049, 
+      "lat": 50.448308024444, 
+      "lon": 3.884903948346, 
+      "municipality": "Mons", 
+      "pcode": "7012", 
+      "source": "7713474", 
+      "street": "Rue Borette"
+    }, 
+    {
+      "busnrs": [
+        "1-1", 
+        "1-2", 
+        "1-3", 
+        "1-4"
+      ], 
+      "hnrlbls": [
+        "9A"
+      ], 
+      "housenumber": "9A", 
+      "lat": 50.448383071533, 
+      "lon": 3.884895283051, 
       "municipality": "Mons", 
       "pcode": "7012", 
       "source": "7713474", 

@@ -61,6 +61,16 @@
       "street": "Rue Georges-Simenon"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022", 
+        "0023"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -145,6 +155,12 @@
       "street": "Rue Georges-Simenon"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -157,6 +173,13 @@
       "street": "Rue Georges-Simenon"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -193,6 +216,13 @@
       "street": "Rue Georges-Simenon"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -241,6 +271,12 @@
       "street": "Rue Georges-Simenon"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -289,6 +325,18 @@
       "street": "Rue Georges-Simenon"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022", 
+        "0023"
+      ], 
       "hnrlbls": [
         "41"
       ], 
@@ -325,6 +373,12 @@
       "street": "Rue Georges-Simenon"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -343,6 +397,30 @@
       "housenumber": "7", 
       "lat": 50.641885688922, 
       "lon": 5.584632898052, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730992", 
+      "street": "Rue Georges-Simenon"
+    }, 
+    {
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 50.641719511228, 
+      "lon": 5.585543206758, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730992", 
+      "street": "Rue Georges-Simenon"
+    }, 
+    {
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.641897930181, 
+      "lon": 5.58474552464, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730992", 

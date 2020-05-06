@@ -1,6 +1,16 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -157,12 +167,29 @@
       "street": "Rue de la Vaussale"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "35"
       ], 
       "housenumber": "35", 
       "lat": 50.611748270494, 
       "lon": 5.600193510198, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4031", 
+      "source": "7730421", 
+      "street": "Rue de la Vaussale"
+    }, 
+    {
+      "hnrlbls": [
+        "39"
+      ], 
+      "housenumber": "39", 
+      "lat": 50.611700923068, 
+      "lon": 5.600105753342, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4031", 
       "source": "7730421", 
@@ -206,6 +233,30 @@
     }, 
     {
       "hnrlbls": [
+        "45"
+      ], 
+      "housenumber": "45", 
+      "lat": 50.611580972049, 
+      "lon": 5.599894424623, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4031", 
+      "source": "7730421", 
+      "street": "Rue de la Vaussale"
+    }, 
+    {
+      "hnrlbls": [
+        "47"
+      ], 
+      "housenumber": "47", 
+      "lat": 50.611556040434, 
+      "lon": 5.599837252109, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4031", 
+      "source": "7730421", 
+      "street": "Rue de la Vaussale"
+    }, 
+    {
+      "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
@@ -229,6 +280,12 @@
       "street": "Rue de la Vaussale"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -247,6 +304,18 @@
       "housenumber": "8", 
       "lat": 50.611721294497, 
       "lon": 5.599360694769, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4031", 
+      "source": "7730421", 
+      "street": "Rue de la Vaussale"
+    }, 
+    {
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.612014361457, 
+      "lon": 5.600824803091, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4031", 
       "source": "7730421", 

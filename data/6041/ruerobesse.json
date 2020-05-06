@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -25,6 +28,12 @@
       "street": "Rue Robesse"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "000B", 
+        "000C", 
+        "000H"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -53,8 +62,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.484572158574, 
-      "lon": 4.449871226721, 
+      "lat": 50.484356274397, 
+      "lon": 4.450294336911, 
       "municipality": "Charleroi", 
       "pcode": "6041", 
       "source": "7761273", 
@@ -73,6 +82,9 @@
       "street": "Rue Robesse"
     }, 
     {
+      "busnrs": [
+        "000B"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -133,12 +145,15 @@
       "street": "Rue Robesse"
     }, 
     {
+      "busnrs": [
+        "00RC"
+      ], 
       "hnrlbls": [
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 50.486788134448, 
-      "lon": 4.45089010341, 
+      "lat": 50.486904461705, 
+      "lon": 4.450924394114, 
       "municipality": "Charleroi", 
       "pcode": "6041", 
       "source": "7761273", 

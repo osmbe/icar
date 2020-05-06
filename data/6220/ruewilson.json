@@ -1,6 +1,25 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.481664979703, 
+      "lon": 4.54421406177, 
+      "municipality": "Fleurus", 
+      "pcode": "6220", 
+      "source": "7710143", 
+      "street": "Rue Wilson"
+    }, 
+    {
       "hnrlbls": [
         "10"
       ], 
@@ -194,18 +213,6 @@
     }, 
     {
       "hnrlbls": [
-        "30"
-      ], 
-      "housenumber": "30", 
-      "lat": 50.481402714214, 
-      "lon": 4.545474996806, 
-      "municipality": "Fleurus", 
-      "pcode": "6220", 
-      "source": "7710143", 
-      "street": "Rue Wilson"
-    }, 
-    {
-      "hnrlbls": [
         "31"
       ], 
       "housenumber": "31", 
@@ -217,6 +224,11 @@
       "street": "Rue Wilson"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -241,6 +253,9 @@
       "street": "Rue Wilson"
     }, 
     {
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "6"
       ], 

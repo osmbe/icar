@@ -13,6 +13,9 @@
       "street": "Rue du Quartier"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -29,8 +32,20 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 50.327170764527, 
-      "lon": 4.648967878427, 
+      "lat": 50.327361907052, 
+      "lon": 4.648422772343, 
+      "municipality": "Mettet", 
+      "pcode": "5640", 
+      "source": "7752958", 
+      "street": "Rue du Quartier"
+    }, 
+    {
+      "hnrlbls": [
+        "11A"
+      ], 
+      "housenumber": "11A", 
+      "lat": 50.327167216219, 
+      "lon": 4.648980028186, 
       "municipality": "Mettet", 
       "pcode": "5640", 
       "source": "7752958", 

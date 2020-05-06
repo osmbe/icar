@@ -25,6 +25,10 @@
       "street": "Rue Rouges Terres"
     }, 
     {
+      "busnrs": [
+        "/B/1", 
+        "/B/RC"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -38,9 +42,9 @@
     }, 
     {
       "hnrlbls": [
-        "12/A"
+        "12A"
       ], 
-      "housenumber": "12/A", 
+      "housenumber": "12A", 
       "lat": 50.545188369444, 
       "lon": 5.801733407127, 
       "municipality": "Theux", 

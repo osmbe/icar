@@ -2,6 +2,18 @@
   "addresses": [
     {
       "hnrlbls": [
+        "100"
+      ], 
+      "housenumber": "100", 
+      "lat": 50.523352212469, 
+      "lon": 5.906852479451, 
+      "municipality": "Jalhay", 
+      "pcode": "4845", 
+      "source": "7736304", 
+      "street": "Ti\u00e8ge"
+    }, 
+    {
+      "hnrlbls": [
         "101"
       ], 
       "housenumber": "101", 
@@ -61,6 +73,9 @@
       "street": "Ti\u00e8ge"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t"
+      ], 
       "hnrlbls": [
         "111"
       ], 
@@ -158,6 +173,18 @@
     }, 
     {
       "hnrlbls": [
+        "123A"
+      ], 
+      "housenumber": "123A", 
+      "lat": 50.524516286112, 
+      "lon": 5.906875217891, 
+      "municipality": "Jalhay", 
+      "pcode": "4845", 
+      "source": "7736304", 
+      "street": "Ti\u00e8ge"
+    }, 
+    {
+      "hnrlbls": [
         "123B"
       ], 
       "housenumber": "123B", 
@@ -170,11 +197,47 @@
     }, 
     {
       "hnrlbls": [
+        "123D1"
+      ], 
+      "housenumber": "123D1", 
+      "lat": 50.525226171456, 
+      "lon": 5.905996973769, 
+      "municipality": "Jalhay", 
+      "pcode": "4845", 
+      "source": "7736304", 
+      "street": "Ti\u00e8ge"
+    }, 
+    {
+      "hnrlbls": [
         "123E"
       ], 
       "housenumber": "123E", 
       "lat": 50.525395384588, 
       "lon": 5.905798277419, 
+      "municipality": "Jalhay", 
+      "pcode": "4845", 
+      "source": "7736304", 
+      "street": "Ti\u00e8ge"
+    }, 
+    {
+      "hnrlbls": [
+        "123F1"
+      ], 
+      "housenumber": "123F1", 
+      "lat": 50.525538919989, 
+      "lon": 5.905645111892, 
+      "municipality": "Jalhay", 
+      "pcode": "4845", 
+      "source": "7736304", 
+      "street": "Ti\u00e8ge"
+    }, 
+    {
+      "hnrlbls": [
+        "123F2"
+      ], 
+      "housenumber": "123F2", 
+      "lat": 50.525588877981, 
+      "lon": 5.905555295502, 
       "municipality": "Jalhay", 
       "pcode": "4845", 
       "source": "7736304", 
@@ -229,6 +292,12 @@
       "street": "Ti\u00e8ge"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2", 
+        "Bte3", 
+        "Bte4"
+      ], 
       "hnrlbls": [
         "131"
       ], 
@@ -265,6 +334,9 @@
       "street": "Ti\u00e8ge"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t"
+      ], 
       "hnrlbls": [
         "136"
       ], 
@@ -374,6 +446,18 @@
     }, 
     {
       "hnrlbls": [
+        "46B"
+      ], 
+      "housenumber": "46B", 
+      "lat": 50.518586286157, 
+      "lon": 5.911879694756, 
+      "municipality": "Jalhay", 
+      "pcode": "4845", 
+      "source": "7736304", 
+      "street": "Ti\u00e8ge"
+    }, 
+    {
+      "hnrlbls": [
         "48"
       ], 
       "housenumber": "48", 
@@ -413,8 +497,20 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 50.519708915068, 
-      "lon": 5.912311898689, 
+      "lat": 50.519693505818, 
+      "lon": 5.912289751501, 
+      "municipality": "Jalhay", 
+      "pcode": "4845", 
+      "source": "7736304", 
+      "street": "Ti\u00e8ge"
+    }, 
+    {
+      "hnrlbls": [
+        "54A"
+      ], 
+      "housenumber": "54A", 
+      "lat": 50.519736519939, 
+      "lon": 5.912371368864, 
       "municipality": "Jalhay", 
       "pcode": "4845", 
       "source": "7736304", 
@@ -461,8 +557,32 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 50.520177211218, 
-      "lon": 5.911324648236, 
+      "lat": 50.520205130927, 
+      "lon": 5.911372206189, 
+      "municipality": "Jalhay", 
+      "pcode": "4845", 
+      "source": "7736304", 
+      "street": "Ti\u00e8ge"
+    }, 
+    {
+      "hnrlbls": [
+        "64A"
+      ], 
+      "housenumber": "64A", 
+      "lat": 50.52015043491, 
+      "lon": 5.911286075467, 
+      "municipality": "Jalhay", 
+      "pcode": "4845", 
+      "source": "7736304", 
+      "street": "Ti\u00e8ge"
+    }, 
+    {
+      "hnrlbls": [
+        "66"
+      ], 
+      "housenumber": "66", 
+      "lat": 50.52001964542, 
+      "lon": 5.910683759833, 
       "municipality": "Jalhay", 
       "pcode": "4845", 
       "source": "7736304", 
@@ -581,8 +701,8 @@
         "81"
       ], 
       "housenumber": "81", 
-      "lat": 50.520311812451, 
-      "lon": 5.912908315229, 
+      "lat": 50.520300277778, 
+      "lon": 5.912845244353, 
       "municipality": "Jalhay", 
       "pcode": "4845", 
       "source": "7736304", 
@@ -713,8 +833,20 @@
         "92"
       ], 
       "housenumber": "92", 
-      "lat": 50.521657740996, 
-      "lon": 5.909741172623, 
+      "lat": 50.521562557165, 
+      "lon": 5.909826587142, 
+      "municipality": "Jalhay", 
+      "pcode": "4845", 
+      "source": "7736304", 
+      "street": "Ti\u00e8ge"
+    }, 
+    {
+      "hnrlbls": [
+        "92A"
+      ], 
+      "housenumber": "92A", 
+      "lat": 50.521637723975, 
+      "lon": 5.909725593435, 
       "municipality": "Jalhay", 
       "pcode": "4845", 
       "source": "7736304", 

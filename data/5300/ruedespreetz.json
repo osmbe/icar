@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "RC00"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -157,6 +162,10 @@
       "street": "Rue Despreetz"
     }, 
     {
+      "busnrs": [
+        "02-1", 
+        "RC00"
+      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -241,6 +250,13 @@
       "street": "Rue Despreetz"
     }, 
     {
+      "busnrs": [
+        "01-1", 
+        "01-2", 
+        "02-1", 
+        "02-2", 
+        "RC00"
+      ], 
       "hnrlbls": [
         "7"
       ], 

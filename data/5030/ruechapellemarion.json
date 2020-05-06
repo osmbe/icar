@@ -1,12 +1,24 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0B16", 
+        "B011", 
+        "B012", 
+        "B013", 
+        "B014", 
+        "B015", 
+        "B017", 
+        "B018", 
+        "D021", 
+        "D022"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.562589336867, 
-      "lon": 4.691115977553, 
+      "lat": 50.562829640661, 
+      "lon": 4.691454346607, 
       "municipality": "Gembloux", 
       "pcode": "5030", 
       "source": "7756229", 
@@ -113,8 +125,8 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 50.563914260472, 
-      "lon": 4.68941478588, 
+      "lat": 50.563864593304, 
+      "lon": 4.689468902329, 
       "municipality": "Gembloux", 
       "pcode": "5030", 
       "source": "7756229", 
@@ -125,8 +137,8 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 50.56403232839, 
-      "lon": 4.689287993572, 
+      "lat": 50.563914260472, 
+      "lon": 4.68941478588, 
       "municipality": "Gembloux", 
       "pcode": "5030", 
       "source": "7756229", 
@@ -137,6 +149,18 @@
         "26"
       ], 
       "housenumber": "26", 
+      "lat": 50.56403232839, 
+      "lon": 4.689287993572, 
+      "municipality": "Gembloux", 
+      "pcode": "5030", 
+      "source": "7756229", 
+      "street": "Rue Chapelle Marion"
+    }, 
+    {
+      "hnrlbls": [
+        "28"
+      ], 
+      "housenumber": "28", 
       "lat": 50.56408437246, 
       "lon": 4.68923290486, 
       "municipality": "Gembloux", 
@@ -145,6 +169,12 @@
       "street": "Rue Chapelle Marion"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "3", 
+        "Bte2", 
+        "Bte4"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -157,6 +187,12 @@
       "street": "Rue Chapelle Marion"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -169,6 +205,12 @@
       "street": "Rue Chapelle Marion"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "7"
+      ], 
       "hnrlbls": [
         "7"
       ], 

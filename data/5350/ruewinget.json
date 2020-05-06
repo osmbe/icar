@@ -37,6 +37,11 @@
       "street": "Rue Winget"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "000B", 
+        "000C"
+      ], 
       "hnrlbls": [
         "254"
       ], 
@@ -61,6 +66,11 @@
       "street": "Rue Winget"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "000C", 
+        "000D"
+      ], 
       "hnrlbls": [
         "256"
       ], 
@@ -74,9 +84,9 @@
     }, 
     {
       "hnrlbls": [
-        "256b"
+        "256B"
       ], 
-      "housenumber": "256b", 
+      "housenumber": "256B", 
       "lat": 50.439046452103, 
       "lon": 5.129126654721, 
       "municipality": "Ohey", 

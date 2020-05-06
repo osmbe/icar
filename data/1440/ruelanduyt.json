@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +16,9 @@
       "street": "Rue Landuyt"
     }, 
     {
+      "busnrs": [
+        "000D"
+      ], 
       "hnrlbls": [
         "100"
       ], 
@@ -25,6 +31,9 @@
       "street": "Rue Landuyt"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "102"
       ], 
@@ -169,6 +178,10 @@
       "street": "Rue Landuyt"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "bte1"
+      ], 
       "hnrlbls": [
         "123"
       ], 
@@ -221,14 +234,18 @@
         "127"
       ], 
       "housenumber": "127", 
-      "lat": 50.691644566317, 
-      "lon": 4.282894623259, 
+      "lat": 50.691847504746, 
+      "lon": 4.283254655909, 
       "municipality": "Braine-le-Ch\u00e2teau", 
       "pcode": "1440", 
       "source": "7700940", 
       "street": "Rue Landuyt"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "000B"
+      ], 
       "hnrlbls": [
         "128"
       ], 
@@ -445,6 +462,10 @@
       "street": "Rue Landuyt"
     }, 
     {
+      "busnrs": [
+        "bte1", 
+        "bte2"
+      ], 
       "hnrlbls": [
         "175"
       ], 
@@ -469,6 +490,13 @@
       "street": "Rue Landuyt"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "000B", 
+        "000D", 
+        "bte2", 
+        "bte3"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -517,6 +545,14 @@
       "street": "Rue Landuyt"
     }, 
     {
+      "busnrs": [
+        "00R1", 
+        "00R2", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -541,6 +577,17 @@
       "street": "Rue Landuyt"
     }, 
     {
+      "busnrs": [
+        "00R1", 
+        "00R2", 
+        "00R3", 
+        "00R4", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -577,6 +624,9 @@
       "street": "Rue Landuyt"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -661,6 +711,14 @@
       "street": "Rue Landuyt"
     }, 
     {
+      "busnrs": [
+        "000B", 
+        "000E", 
+        "Cbt2", 
+        "Dbt1", 
+        "Dbt2", 
+        "Dbt3"
+      ], 
       "hnrlbls": [
         "32"
       ], 
@@ -697,6 +755,9 @@
       "street": "Rue Landuyt"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -1141,6 +1202,9 @@
       "street": "Rue Landuyt"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "71"
       ], 

@@ -49,6 +49,9 @@
       "street": "Rue Fosse Aux Chats"
     }, 
     {
+      "busnrs": [
+        "B---"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -97,6 +100,9 @@
       "street": "Rue Fosse Aux Chats"
     }, 
     {
+      "busnrs": [
+        "A---"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -206,6 +212,18 @@
     }, 
     {
       "hnrlbls": [
+        "30"
+      ], 
+      "housenumber": "30", 
+      "lat": 50.794292228565, 
+      "lon": 2.999606094825, 
+      "municipality": "Comines-Warneton", 
+      "pcode": "7780", 
+      "source": "7716383", 
+      "street": "Rue Fosse Aux Chats"
+    }, 
+    {
+      "hnrlbls": [
         "31"
       ], 
       "housenumber": "31", 
@@ -241,6 +259,9 @@
       "street": "Rue Fosse Aux Chats"
     }, 
     {
+      "busnrs": [
+        "A---"
+      ], 
       "hnrlbls": [
         "42"
       ], 
@@ -269,8 +290,8 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 50.793496382647, 
-      "lon": 2.997810455169, 
+      "lat": 50.793416284242, 
+      "lon": 2.997770826334, 
       "municipality": "Comines-Warneton", 
       "pcode": "7780", 
       "source": "7716383", 
@@ -290,11 +311,35 @@
     }, 
     {
       "hnrlbls": [
+        "46"
+      ], 
+      "housenumber": "46", 
+      "lat": 50.792854136041, 
+      "lon": 2.997384882116, 
+      "municipality": "Comines-Warneton", 
+      "pcode": "7780", 
+      "source": "7716383", 
+      "street": "Rue Fosse Aux Chats"
+    }, 
+    {
+      "hnrlbls": [
         "47"
       ], 
       "housenumber": "47", 
       "lat": 50.792636688007, 
       "lon": 2.997238437235, 
+      "municipality": "Comines-Warneton", 
+      "pcode": "7780", 
+      "source": "7716383", 
+      "street": "Rue Fosse Aux Chats"
+    }, 
+    {
+      "hnrlbls": [
+        "48"
+      ], 
+      "housenumber": "48", 
+      "lat": 50.793609665749, 
+      "lon": 2.99746375386, 
       "municipality": "Comines-Warneton", 
       "pcode": "7780", 
       "source": "7716383", 
@@ -421,6 +466,10 @@
       "street": "Rue Fosse Aux Chats"
     }, 
     {
+      "busnrs": [
+        "A---", 
+        "B---"
+      ], 
       "hnrlbls": [
         "61"
       ], 
@@ -505,6 +554,11 @@
       "street": "Rue Fosse Aux Chats"
     }, 
     {
+      "busnrs": [
+        "A---", 
+        "B---", 
+        "C---"
+      ], 
       "hnrlbls": [
         "7"
       ], 

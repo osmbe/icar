@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "000A", 
+        "000B", 
+        "000E", 
+        "000K"
+      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -61,6 +67,9 @@
       "street": "Rue de l'Orgalisse"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "32"
       ], 
@@ -77,8 +86,8 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 50.439129684509, 
-      "lon": 5.176807540211, 
+      "lat": 50.439073880327, 
+      "lon": 5.176765902719, 
       "municipality": "Ohey", 
       "pcode": "5354", 
       "source": "7754789", 

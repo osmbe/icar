@@ -1,6 +1,16 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0011", 
+        "B001", 
+        "B002", 
+        "B003", 
+        "B011", 
+        "B012", 
+        "B013", 
+        "B014"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -17,8 +27,8 @@
         "10A"
       ], 
       "housenumber": "10A", 
-      "lat": 50.203001224426, 
-      "lon": 4.529519038342, 
+      "lat": 50.201523272724, 
+      "lon": 4.529517876629, 
       "municipality": "Philippeville", 
       "pcode": "5600", 
       "source": "7757388", 
@@ -37,12 +47,36 @@
       "street": "Ancienne-Gare"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
+      ], 
       "hnrlbls": [
         "14"
       ], 
       "housenumber": "14", 
       "lat": 50.201990102982, 
       "lon": 4.530183865093, 
+      "municipality": "Philippeville", 
+      "pcode": "5600", 
+      "source": "7757388", 
+      "street": "Ancienne-Gare"
+    }, 
+    {
+      "hnrlbls": [
+        "18"
+      ], 
+      "housenumber": "18", 
+      "lat": 50.204505783349, 
+      "lon": 4.52842853373, 
       "municipality": "Philippeville", 
       "pcode": "5600", 
       "source": "7757388", 
@@ -115,6 +149,18 @@
       "housenumber": "8", 
       "lat": 50.201092741037, 
       "lon": 4.531082163866, 
+      "municipality": "Philippeville", 
+      "pcode": "5600", 
+      "source": "7757388", 
+      "street": "Ancienne-Gare"
+    }, 
+    {
+      "hnrlbls": [
+        "8A"
+      ], 
+      "housenumber": "8A", 
+      "lat": 50.201062788419, 
+      "lon": 4.531106772572, 
       "municipality": "Philippeville", 
       "pcode": "5600", 
       "source": "7757388", 

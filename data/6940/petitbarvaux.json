@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0002", 
+        "0003", 
+        "0004", 
+        "002A"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -133,6 +139,10 @@
       "street": "Petit Barvaux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0003"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -265,6 +275,9 @@
       "street": "Petit Barvaux"
     }, 
     {
+      "busnrs": [
+        "0002"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -277,6 +290,9 @@
       "street": "Petit Barvaux"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -337,6 +353,9 @@
       "street": "Petit Barvaux"
     }, 
     {
+      "busnrs": [
+        "000C"
+      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -401,8 +420,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.353035601276, 
-      "lon": 5.495075422915, 
+      "lat": 50.352203899891, 
+      "lon": 5.494570913837, 
       "municipality": "Durbuy", 
       "pcode": "6940", 
       "source": "7743289", 
@@ -505,6 +524,9 @@
       "street": "Petit Barvaux"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -517,6 +539,10 @@
       "street": "Petit Barvaux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "00A2"
+      ], 
       "hnrlbls": [
         "51"
       ], 
@@ -529,6 +555,9 @@
       "street": "Petit Barvaux"
     }, 
     {
+      "busnrs": [
+        "001A"
+      ], 
       "hnrlbls": [
         "53"
       ], 
@@ -809,8 +838,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.351289863758, 
-      "lon": 5.493081697313, 
+      "lat": 50.351312765604, 
+      "lon": 5.493175297837, 
       "municipality": "Durbuy", 
       "pcode": "6940", 
       "source": "7743289", 

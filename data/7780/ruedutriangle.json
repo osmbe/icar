@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A001", 
+        "A002", 
+        "A003"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -433,6 +438,10 @@
       "street": "Rue du Triangle"
     }, 
     {
+      "busnrs": [
+        "A---", 
+        "C---"
+      ], 
       "hnrlbls": [
         "42"
       ], 
@@ -529,6 +538,9 @@
       "street": "Rue du Triangle"
     }, 
     {
+      "busnrs": [
+        "0002"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -781,6 +793,9 @@
       "street": "Rue du Triangle"
     }, 
     {
+      "busnrs": [
+        "B---"
+      ], 
       "hnrlbls": [
         "95"
       ], 

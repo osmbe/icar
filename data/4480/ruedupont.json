@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A/2"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -85,12 +88,17 @@
       "street": "Rue du Pont"
     }, 
     {
+      "busnrs": [
+        "A1/1", 
+        "A2/1", 
+        "Arez"
+      ], 
       "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.559161038546, 
-      "lon": 5.362161515957, 
+      "lat": 50.558970360454, 
+      "lon": 5.36237237742, 
       "municipality": "Engis", 
       "pcode": "4480", 
       "source": "7726721", 

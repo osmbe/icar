@@ -1,18 +1,11 @@
 {
   "addresses": [
     {
-      "hnrlbls": [
-        "54"
+      "busnrs": [
+        "A", 
+        "B", 
+        "Bis"
       ], 
-      "housenumber": "54", 
-      "lat": 50.273113437859, 
-      "lon": 4.958340985151, 
-      "municipality": "Dinant", 
-      "pcode": "5501", 
-      "source": "7749247", 
-      "street": "Rue de la Lisonette"
-    }, 
-    {
       "hnrlbls": [
         "59"
       ], 
@@ -25,6 +18,12 @@
       "street": "Rue de la Lisonette"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B", 
+        "F", 
+        "G"
+      ], 
       "hnrlbls": [
         "60"
       ], 
@@ -38,35 +37,11 @@
     }, 
     {
       "hnrlbls": [
-        "61"
-      ], 
-      "housenumber": "61", 
-      "lat": 50.272288130522, 
-      "lon": 4.964991240617, 
-      "municipality": "Dinant", 
-      "pcode": "5501", 
-      "source": "7749247", 
-      "street": "Rue de la Lisonette"
-    }, 
-    {
-      "hnrlbls": [
         "63"
       ], 
       "housenumber": "63", 
       "lat": 50.272008853994, 
       "lon": 4.966504870487, 
-      "municipality": "Dinant", 
-      "pcode": "5501", 
-      "source": "7749247", 
-      "street": "Rue de la Lisonette"
-    }, 
-    {
-      "hnrlbls": [
-        "64"
-      ], 
-      "housenumber": "64", 
-      "lat": 50.271896315759, 
-      "lon": 4.967536230746, 
       "municipality": "Dinant", 
       "pcode": "5501", 
       "source": "7749247", 

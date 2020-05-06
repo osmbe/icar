@@ -97,6 +97,12 @@
       "street": "Rue de Wellin"
     }, 
     {
+      "busnrs": [
+        "B001", 
+        "B002", 
+        "B011", 
+        "B012"
+      ], 
       "hnrlbls": [
         "109"
       ], 
@@ -278,11 +284,23 @@
     }, 
     {
       "hnrlbls": [
+        "28"
+      ], 
+      "housenumber": "28", 
+      "lat": 50.112350217485, 
+      "lon": 5.163475771442, 
+      "municipality": "Rochefort", 
+      "pcode": "5580", 
+      "source": "7750439", 
+      "street": "Rue de Wellin"
+    }, 
+    {
+      "hnrlbls": [
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 50.111789310059, 
-      "lon": 5.161510632384, 
+      "lat": 50.11212936619, 
+      "lon": 5.16244031704, 
       "municipality": "Rochefort", 
       "pcode": "5580", 
       "source": "7750439", 
@@ -305,8 +323,8 @@
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 50.110015760411, 
-      "lon": 5.151829680148, 
+      "lat": 50.110034983416, 
+      "lon": 5.151938278869, 
       "municipality": "Rochefort", 
       "pcode": "5580", 
       "source": "7750439", 
@@ -353,8 +371,20 @@
         "67"
       ], 
       "housenumber": "67", 
-      "lat": 50.109502984165, 
-      "lon": 5.151818383398, 
+      "lat": 50.109502154742, 
+      "lon": 5.151895530308, 
+      "municipality": "Rochefort", 
+      "pcode": "5580", 
+      "source": "7750439", 
+      "street": "Rue de Wellin"
+    }, 
+    {
+      "hnrlbls": [
+        "68"
+      ], 
+      "housenumber": "68", 
+      "lat": 50.1094485871, 
+      "lon": 5.150065041471, 
       "municipality": "Rochefort", 
       "pcode": "5580", 
       "source": "7750439", 
@@ -421,6 +451,13 @@
       "street": "Rue de Wellin"
     }, 
     {
+      "busnrs": [
+        "B001", 
+        "B002", 
+        "B011", 
+        "B012", 
+        "B021"
+      ], 
       "hnrlbls": [
         "86"
       ], 

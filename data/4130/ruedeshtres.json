@@ -1,12 +1,28 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A001", 
+        "A011"
+      ], 
       "hnrlbls": [
         "46"
       ], 
       "housenumber": "46", 
       "lat": 50.567522779888, 
       "lon": 5.5927346736, 
+      "municipality": "Esneux", 
+      "pcode": "4130", 
+      "source": "7728712", 
+      "street": "Rue des H\u00eatres"
+    }, 
+    {
+      "hnrlbls": [
+        "46D"
+      ], 
+      "housenumber": "46D", 
+      "lat": 50.567130507384, 
+      "lon": 5.592591301868, 
       "municipality": "Esneux", 
       "pcode": "4130", 
       "source": "7728712", 

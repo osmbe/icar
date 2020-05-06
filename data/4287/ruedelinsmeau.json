@@ -17,14 +17,17 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.739541095192, 
-      "lon": 5.025129447168, 
+      "lat": 50.739529334643, 
+      "lon": 5.025105855629, 
       "municipality": "Lincent", 
       "pcode": "4287", 
       "source": "7740711", 
       "street": "Rue de Linsmeau"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -55,6 +58,42 @@
       "housenumber": "13", 
       "lat": 50.739232483656, 
       "lon": 5.02512027823, 
+      "municipality": "Lincent", 
+      "pcode": "4287", 
+      "source": "7740711", 
+      "street": "Rue de Linsmeau"
+    }, 
+    {
+      "hnrlbls": [
+        "13/1"
+      ], 
+      "housenumber": "13/1", 
+      "lat": 50.73919756499, 
+      "lon": 5.025021198284, 
+      "municipality": "Lincent", 
+      "pcode": "4287", 
+      "source": "7740711", 
+      "street": "Rue de Linsmeau"
+    }, 
+    {
+      "hnrlbls": [
+        "13/2"
+      ], 
+      "housenumber": "13/2", 
+      "lat": 50.739183736123, 
+      "lon": 5.024974649446, 
+      "municipality": "Lincent", 
+      "pcode": "4287", 
+      "source": "7740711", 
+      "street": "Rue de Linsmeau"
+    }, 
+    {
+      "hnrlbls": [
+        "13/3"
+      ], 
+      "housenumber": "13/3", 
+      "lat": 50.739158194147, 
+      "lon": 5.024916066407, 
       "municipality": "Lincent", 
       "pcode": "4287", 
       "source": "7740711", 
@@ -193,6 +232,11 @@
       "street": "Rue de Linsmeau"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -242,6 +286,30 @@
     }, 
     {
       "hnrlbls": [
+        "33"
+      ], 
+      "housenumber": "33", 
+      "lat": 50.738483092015, 
+      "lon": 5.0226506142, 
+      "municipality": "Lincent", 
+      "pcode": "4287", 
+      "source": "7740711", 
+      "street": "Rue de Linsmeau"
+    }, 
+    {
+      "hnrlbls": [
+        "33A"
+      ], 
+      "housenumber": "33A", 
+      "lat": 50.738453222255, 
+      "lon": 5.022568670874, 
+      "municipality": "Lincent", 
+      "pcode": "4287", 
+      "source": "7740711", 
+      "street": "Rue de Linsmeau"
+    }, 
+    {
+      "hnrlbls": [
         "34"
       ], 
       "housenumber": "34", 
@@ -278,6 +346,18 @@
     }, 
     {
       "hnrlbls": [
+        "37"
+      ], 
+      "housenumber": "37", 
+      "lat": 50.738243861602, 
+      "lon": 5.022150625426, 
+      "municipality": "Lincent", 
+      "pcode": "4287", 
+      "source": "7740711", 
+      "street": "Rue de Linsmeau"
+    }, 
+    {
+      "hnrlbls": [
         "38"
       ], 
       "housenumber": "38", 
@@ -301,12 +381,39 @@
       "street": "Rue de Linsmeau"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
       "lat": 50.739039016451, 
       "lon": 5.025800643706, 
+      "municipality": "Lincent", 
+      "pcode": "4287", 
+      "source": "7740711", 
+      "street": "Rue de Linsmeau"
+    }, 
+    {
+      "hnrlbls": [
+        "4/2"
+      ], 
+      "housenumber": "4/2", 
+      "lat": 50.739055358254, 
+      "lon": 5.026087255497, 
+      "municipality": "Lincent", 
+      "pcode": "4287", 
+      "source": "7740711", 
+      "street": "Rue de Linsmeau"
+    }, 
+    {
+      "hnrlbls": [
+        "40"
+      ], 
+      "housenumber": "40", 
+      "lat": 50.738196672902, 
+      "lon": 5.020688983763, 
       "municipality": "Lincent", 
       "pcode": "4287", 
       "source": "7740711", 
@@ -338,11 +445,47 @@
     }, 
     {
       "hnrlbls": [
+        "50"
+      ], 
+      "housenumber": "50", 
+      "lat": 50.737930960167, 
+      "lon": 5.019817551351, 
+      "municipality": "Lincent", 
+      "pcode": "4287", 
+      "source": "7740711", 
+      "street": "Rue de Linsmeau"
+    }, 
+    {
+      "hnrlbls": [
         "51"
       ], 
       "housenumber": "51", 
       "lat": 50.737602245496, 
       "lon": 5.020317875297, 
+      "municipality": "Lincent", 
+      "pcode": "4287", 
+      "source": "7740711", 
+      "street": "Rue de Linsmeau"
+    }, 
+    {
+      "hnrlbls": [
+        "52"
+      ], 
+      "housenumber": "52", 
+      "lat": 50.737820325534, 
+      "lon": 5.019608923959, 
+      "municipality": "Lincent", 
+      "pcode": "4287", 
+      "source": "7740711", 
+      "street": "Rue de Linsmeau"
+    }, 
+    {
+      "hnrlbls": [
+        "54"
+      ], 
+      "housenumber": "54", 
+      "lat": 50.737753071674, 
+      "lon": 5.01940558086, 
       "municipality": "Lincent", 
       "pcode": "4287", 
       "source": "7740711", 
@@ -365,8 +508,44 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.739192863692, 
-      "lon": 5.025585770957, 
+      "lat": 50.739261125493, 
+      "lon": 5.025967570367, 
+      "municipality": "Lincent", 
+      "pcode": "4287", 
+      "source": "7740711", 
+      "street": "Rue de Linsmeau"
+    }, 
+    {
+      "hnrlbls": [
+        "6/1"
+      ], 
+      "housenumber": "6/1", 
+      "lat": 50.739195619763, 
+      "lon": 5.025592703321, 
+      "municipality": "Lincent", 
+      "pcode": "4287", 
+      "source": "7740711", 
+      "street": "Rue de Linsmeau"
+    }, 
+    {
+      "hnrlbls": [
+        "6/2"
+      ], 
+      "housenumber": "6/2", 
+      "lat": 50.739249317568, 
+      "lon": 5.02568791456, 
+      "municipality": "Lincent", 
+      "pcode": "4287", 
+      "source": "7740711", 
+      "street": "Rue de Linsmeau"
+    }, 
+    {
+      "hnrlbls": [
+        "6/3"
+      ], 
+      "housenumber": "6/3", 
+      "lat": 50.739253248893, 
+      "lon": 5.025834910584, 
       "municipality": "Lincent", 
       "pcode": "4287", 
       "source": "7740711", 

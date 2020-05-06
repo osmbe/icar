@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "000A"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -25,6 +30,10 @@
       "street": "Rue de l'Enfer"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "000C"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -49,6 +58,9 @@
       "street": "Rue de l'Enfer"
     }, 
     {
+      "busnrs": [
+        "000B"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -73,6 +85,10 @@
       "street": "Rue de l'Enfer"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "000C"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -97,6 +113,9 @@
       "street": "Rue de l'Enfer"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -121,6 +140,10 @@
       "street": "Rue de l'Enfer"
     }, 
     {
+      "busnrs": [
+        "000B", 
+        "Bte1"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -169,6 +192,9 @@
       "street": "Rue de l'Enfer"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -193,6 +219,12 @@
       "street": "Rue de l'Enfer"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "Bte2", 
+        "Bte3"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -221,8 +253,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.662404178432, 
-      "lon": 5.042330193646, 
+      "lat": 50.662745418098, 
+      "lon": 5.042097997593, 
       "municipality": "Hannut", 
       "pcode": "4280", 
       "source": "7740492", 
@@ -301,6 +333,9 @@
       "street": "Rue de l'Enfer"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -337,6 +372,9 @@
       "street": "Rue de l'Enfer"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "9"
       ], 

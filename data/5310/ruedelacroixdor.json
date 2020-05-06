@@ -1,12 +1,15 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "Bte1"
+      ], 
       "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.575086795999, 
-      "lon": 4.86837697287, 
+      "lat": 50.574969553722, 
+      "lon": 4.868516257713, 
       "municipality": "Eghez\u00e9e", 
       "pcode": "5310", 
       "source": "7752085", 
@@ -61,6 +64,10 @@
       "street": "Rue de la Croix d'Or"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2"
+      ], 
       "hnrlbls": [
         "20"
       ], 

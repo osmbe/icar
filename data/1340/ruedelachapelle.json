@@ -49,6 +49,9 @@
       "street": "rue de la Chapelle"
     }, 
     {
+      "busnrs": [
+        "A101"
+      ], 
       "hnrlbls": [
         "104"
       ], 
@@ -245,8 +248,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.666023310948, 
-      "lon": 4.577644587316, 
+      "lat": 50.666094687103, 
+      "lon": 4.577681435303, 
       "municipality": "Ottignies-Louvain-la-Neuve", 
       "pcode": "1340", 
       "source": "7706412", 
@@ -289,6 +292,10 @@
       "street": "rue de la Chapelle"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "28"
       ], 

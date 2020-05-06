@@ -205,6 +205,10 @@
       "street": "Rue de Givet"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "117"
       ], 
@@ -493,6 +497,12 @@
       "street": "Rue de Givet"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "160"
       ], 
@@ -529,6 +539,12 @@
       "street": "Rue de Givet"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "166"
       ], 
@@ -577,6 +593,10 @@
       "street": "Rue de Givet"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -607,6 +627,18 @@
       "housenumber": "181", 
       "lat": 50.119608060257, 
       "lon": 4.927223405415, 
+      "municipality": "Beauraing", 
+      "pcode": "5570", 
+      "source": "7748449", 
+      "street": "Rue de Givet"
+    }, 
+    {
+      "hnrlbls": [
+        "182"
+      ], 
+      "housenumber": "182", 
+      "lat": 50.119847751592, 
+      "lon": 4.927264355677, 
       "municipality": "Beauraing", 
       "pcode": "5570", 
       "source": "7748449", 
@@ -733,6 +765,9 @@
       "street": "Rue de Givet"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "24"
       ], 

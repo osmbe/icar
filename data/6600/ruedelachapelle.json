@@ -97,6 +97,9 @@
       "street": "Rue de la Chapelle"
     }, 
     {
+      "busnrs": [
+        "000D"
+      ], 
       "hnrlbls": [
         "128"
       ], 
@@ -157,6 +160,12 @@
       "street": "Rue de la Chapelle"
     }, 
     {
+      "busnrs": [
+        "A  1", 
+        "A  2", 
+        "A  3", 
+        "C  4"
+      ], 
       "hnrlbls": [
         "130"
       ], 
@@ -181,6 +190,13 @@
       "street": "Rue de la Chapelle"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
         "132"
       ], 
@@ -445,6 +461,13 @@
       "street": "Rue de la Chapelle"
     }, 
     {
+      "busnrs": [
+        "A  1", 
+        "A  2", 
+        "B  1", 
+        "R  2", 
+        "R001"
+      ], 
       "hnrlbls": [
         "161"
       ], 
@@ -481,6 +504,12 @@
       "street": "Rue de la Chapelle"
     }, 
     {
+      "busnrs": [
+        "A  1", 
+        "A  2", 
+        "R  1", 
+        "R  2"
+      ], 
       "hnrlbls": [
         "163"
       ], 
@@ -553,6 +582,25 @@
       "street": "Rue de la Chapelle"
     }, 
     {
+      "busnrs": [
+        "A1", 
+        "A2", 
+        "A3", 
+        "A4", 
+        "A5", 
+        "B1", 
+        "B2", 
+        "B3", 
+        "B4", 
+        "B5", 
+        "C1", 
+        "C2", 
+        "C3", 
+        "R1", 
+        "R2", 
+        "R3", 
+        "R4"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -1045,12 +1093,43 @@
       "street": "Rue de la Chapelle"
     }, 
     {
+      "busnrs": [
+        "A  1", 
+        "A  2", 
+        "B  1", 
+        "B  2", 
+        "C  1", 
+        "C  2"
+      ], 
       "hnrlbls": [
         "71"
       ], 
       "housenumber": "71", 
       "lat": 50.00015897951, 
       "lon": 5.723209108522, 
+      "municipality": "Bastogne", 
+      "pcode": "6600", 
+      "source": "7742406", 
+      "street": "Rue de la Chapelle"
+    }, 
+    {
+      "busnrs": [
+        "A1", 
+        "A2", 
+        "A3", 
+        "A4", 
+        "B1", 
+        "B2", 
+        "B3", 
+        "B4", 
+        "C1"
+      ], 
+      "hnrlbls": [
+        "72"
+      ], 
+      "housenumber": "72", 
+      "lat": 50.000754329935, 
+      "lon": 5.722452122631, 
       "municipality": "Bastogne", 
       "pcode": "6600", 
       "source": "7742406", 

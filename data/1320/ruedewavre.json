@@ -193,12 +193,17 @@
       "street": "Rue de Wavre"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B", 
+        "C"
+      ], 
       "hnrlbls": [
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 50.775049408946, 
-      "lon": 4.777966316023, 
+      "lat": 50.775082949733, 
+      "lon": 4.778242888103, 
       "municipality": "Beauvechain", 
       "pcode": "1320", 
       "source": "7700081", 
@@ -421,12 +426,15 @@
       "street": "Rue de Wavre"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "65"
       ], 
       "housenumber": "65", 
-      "lat": 50.776407285819, 
-      "lon": 4.792353739598, 
+      "lat": 50.776379141012, 
+      "lon": 4.792019734528, 
       "municipality": "Beauvechain", 
       "pcode": "1320", 
       "source": "7700081", 

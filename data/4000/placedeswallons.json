@@ -1,12 +1,113 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
+      "hnrlbls": [
+        "10"
+      ], 
+      "housenumber": "10", 
+      "lat": 50.63189182682, 
+      "lon": 5.559791631019, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730000", 
+      "street": "Place des Wallons"
+    }, 
+    {
+      "hnrlbls": [
+        "11"
+      ], 
+      "housenumber": "11", 
+      "lat": 50.631904990961, 
+      "lon": 5.559786237931, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730000", 
+      "street": "Place des Wallons"
+    }, 
+    {
+      "hnrlbls": [
+        "13"
+      ], 
+      "housenumber": "13", 
+      "lat": 50.631954257739, 
+      "lon": 5.559753228327, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730000", 
+      "street": "Place des Wallons"
+    }, 
+    {
       "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
       "lat": 50.63176718841, 
       "lon": 5.559810439563, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730000", 
+      "street": "Place des Wallons"
+    }, 
+    {
+      "busnrs": [
+        "0002", 
+        "0012", 
+        "0022", 
+        "0023"
+      ], 
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 50.63163990027, 
+      "lon": 5.560020080306, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730000", 
+      "street": "Place des Wallons"
+    }, 
+    {
+      "busnrs": [
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 50.631771166911, 
+      "lon": 5.559800319259, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730000", 
+      "street": "Place des Wallons"
+    }, 
+    {
+      "hnrlbls": [
+        "9A"
+      ], 
+      "housenumber": "9A", 
+      "lat": 50.631825668974, 
+      "lon": 5.55982343674, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730000", 
+      "street": "Place des Wallons"
+    }, 
+    {
+      "hnrlbls": [
+        "9B"
+      ], 
+      "housenumber": "9B", 
+      "lat": 50.631876933878, 
+      "lon": 5.559825451509, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730000", 

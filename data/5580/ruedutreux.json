@@ -49,6 +49,10 @@
       "street": "Rue du Treux"
     }, 
     {
+      "busnrs": [
+        "B001", 
+        "B011"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -289,6 +293,9 @@
       "street": "Rue du Treux"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "37"
       ], 
@@ -386,6 +393,18 @@
     }, 
     {
       "hnrlbls": [
+        "47"
+      ], 
+      "housenumber": "47", 
+      "lat": 50.143192365763, 
+      "lon": 5.1583082809, 
+      "municipality": "Rochefort", 
+      "pcode": "5580", 
+      "source": "7750573", 
+      "street": "Rue du Treux"
+    }, 
+    {
+      "hnrlbls": [
         "48"
       ], 
       "housenumber": "48", 
@@ -409,6 +428,10 @@
       "street": "Rue du Treux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "54"
       ], 
@@ -421,6 +444,9 @@
       "street": "Rue du Treux"
     }, 
     {
+      "busnrs": [
+        "B011"
+      ], 
       "hnrlbls": [
         "56"
       ], 

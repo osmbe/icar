@@ -13,6 +13,10 @@
       "street": "Rue du Ruisseau"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -79,6 +83,18 @@
       "housenumber": "7", 
       "lat": 49.871834992758, 
       "lon": 4.931719279314, 
+      "municipality": "Vresse-sur-Semois", 
+      "pcode": "5550", 
+      "source": "7751395", 
+      "street": "Rue du Ruisseau"
+    }, 
+    {
+      "hnrlbls": [
+        "7A"
+      ], 
+      "housenumber": "7A", 
+      "lat": 49.871955829304, 
+      "lon": 4.932014505451, 
       "municipality": "Vresse-sur-Semois", 
       "pcode": "5550", 
       "source": "7751395", 

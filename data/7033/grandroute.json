@@ -13,6 +13,10 @@
       "street": "Grand'Route"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1"
+      ], 
       "hnrlbls": [
         "108"
       ], 
@@ -25,6 +29,14 @@
       "street": "Grand'Route"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "1-1", 
+        "1-2", 
+        "2-1", 
+        "2-2"
+      ], 
       "hnrlbls": [
         "110"
       ], 
@@ -209,8 +221,8 @@
         "141"
       ], 
       "housenumber": "141", 
-      "lat": 50.452368157796, 
-      "lon": 3.918622687662, 
+      "lat": 50.452288133623, 
+      "lon": 3.918259877283, 
       "municipality": "Mons", 
       "pcode": "7033", 
       "source": "7713299", 
@@ -277,6 +289,13 @@
       "street": "Grand'Route"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "1-2", 
+        "2-1", 
+        "2-2"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -293,8 +312,8 @@
         "214"
       ], 
       "housenumber": "214", 
-      "lat": 50.451387116169, 
-      "lon": 3.918489120776, 
+      "lat": 50.451565481032, 
+      "lon": 3.918259806027, 
       "municipality": "Mons", 
       "pcode": "7033", 
       "source": "7713299", 
@@ -361,6 +380,10 @@
       "street": "Grand'Route"
     }, 
     {
+      "busnrs": [
+        "B1-1", 
+        "B2-2"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -373,6 +396,11 @@
       "street": "Grand'Route"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "1-2"
+      ], 
       "hnrlbls": [
         "246"
       ], 
@@ -553,6 +581,10 @@
       "street": "Grand'Route"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1"
+      ], 
       "hnrlbls": [
         "50"
       ], 
@@ -787,6 +819,18 @@
       "housenumber": "88", 
       "lat": 50.452802538666, 
       "lon": 3.923419213511, 
+      "municipality": "Mons", 
+      "pcode": "7033", 
+      "source": "7713299", 
+      "street": "Grand'Route"
+    }, 
+    {
+      "hnrlbls": [
+        "88A"
+      ], 
+      "housenumber": "88A", 
+      "lat": 50.452548115768, 
+      "lon": 3.923277545891, 
       "municipality": "Mons", 
       "pcode": "7033", 
       "source": "7713299", 

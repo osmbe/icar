@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -25,6 +28,9 @@
       "street": "Doyon"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -97,12 +103,15 @@
       "street": "Doyon"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 50.394359123, 
-      "lon": 5.142545627011, 
+      "lat": 50.39444204786, 
+      "lon": 5.14271516699, 
       "municipality": "Havelange", 
       "pcode": "5370", 
       "source": "7749824", 
@@ -217,6 +226,9 @@
       "street": "Doyon"
     }, 
     {
+      "busnrs": [
+        "000B"
+      ], 
       "hnrlbls": [
         "8"
       ], 
@@ -229,6 +241,10 @@
       "street": "Doyon"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "000B"
+      ], 
       "hnrlbls": [
         "9"
       ], 

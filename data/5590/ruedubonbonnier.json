@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A001", 
+        "A002", 
+        "B001", 
+        "B002"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +19,9 @@
       "street": "Rue du Bonbonnier"
     }, 
     {
+      "busnrs": [
+        "0003"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -37,6 +46,9 @@
       "street": "Rue du Bonbonnier"
     }, 
     {
+      "busnrs": [
+        "0005"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -49,6 +61,11 @@
       "street": "Rue du Bonbonnier"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0021", 
+        "A001"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -73,6 +90,9 @@
       "street": "Rue du Bonbonnier"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "15"
       ], 

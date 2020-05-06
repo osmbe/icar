@@ -73,6 +73,12 @@
       "street": "Rue des Charmilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -91,6 +97,18 @@
       "housenumber": "17A", 
       "lat": 50.619621425906, 
       "lon": 5.555303571765, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730581", 
+      "street": "Rue des Charmilles"
+    }, 
+    {
+      "hnrlbls": [
+        "19"
+      ], 
+      "housenumber": "19", 
+      "lat": 50.619732262767, 
+      "lon": 5.555815792703, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730581", 
@@ -229,6 +247,11 @@
       "street": "Rue des Charmilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -337,6 +360,11 @@
       "street": "Rue des Charmilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "46"
       ], 

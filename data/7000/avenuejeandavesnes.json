@@ -13,6 +13,18 @@
       "street": "Avenue Jean d'Avesnes"
     }, 
     {
+      "busnrs": [
+        "1-1", 
+        "1-2", 
+        "2-1", 
+        "2-2", 
+        "3-1", 
+        "3-2", 
+        "4-1", 
+        "4-2", 
+        "5-1", 
+        "5-2"
+      ], 
       "hnrlbls": [
         "10A"
       ], 
@@ -25,6 +37,21 @@
       "street": "Avenue Jean d'Avesnes"
     }, 
     {
+      "busnrs": [
+        "1-1", 
+        "1-2", 
+        "1-3", 
+        "2-1", 
+        "2-2", 
+        "2-3", 
+        "3-1", 
+        "3-2", 
+        "3-3", 
+        "4-1", 
+        "4-2", 
+        "4-3", 
+        "5-1"
+      ], 
       "hnrlbls": [
         "10B"
       ], 
@@ -109,6 +136,12 @@
       "street": "Avenue Jean d'Avesnes"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "1-1", 
+        "2-1"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -133,18 +166,10 @@
       "street": "Avenue Jean d'Avesnes"
     }, 
     {
-      "hnrlbls": [
-        "3"
+      "busnrs": [
+        "0-1", 
+        "1-1"
       ], 
-      "housenumber": "3", 
-      "lat": 50.447238248757, 
-      "lon": 3.948879414808, 
-      "municipality": "Mons", 
-      "pcode": "7000", 
-      "source": "7713116", 
-      "street": "Avenue Jean d'Avesnes"
-    }, 
-    {
       "hnrlbls": [
         "5"
       ], 

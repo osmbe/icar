@@ -1,18 +1,83 @@
 {
   "addresses": [
     {
-      "hnrlbls": [
-        "11"
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0041", 
+        "0052"
       ], 
-      "housenumber": "11", 
-      "lat": 50.638165465485, 
-      "lon": 5.573124045486, 
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.638563566072, 
+      "lon": 5.573693684938, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730899", 
       "street": "Rue du Vertbois"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
+      "hnrlbls": [
+        "11"
+      ], 
+      "housenumber": "11", 
+      "lat": 50.637861862562, 
+      "lon": 5.573353850053, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730899", 
+      "street": "Rue du Vertbois"
+    }, 
+    {
+      "hnrlbls": [
+        "13A"
+      ], 
+      "housenumber": "13A", 
+      "lat": 50.637826315658, 
+      "lon": 5.572487447394, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730899", 
+      "street": "Rue du Vertbois"
+    }, 
+    {
+      "hnrlbls": [
+        "13B"
+      ], 
+      "housenumber": "13B", 
+      "lat": 50.637826315658, 
+      "lon": 5.572487447394, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730899", 
+      "street": "Rue du Vertbois"
+    }, 
+    {
+      "hnrlbls": [
+        "13C"
+      ], 
+      "housenumber": "13C", 
+      "lat": 50.637826315658, 
+      "lon": 5.572487447394, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730899", 
+      "street": "Rue du Vertbois"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -25,6 +90,12 @@
       "street": "Rue du Vertbois"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -49,6 +120,13 @@
       "street": "Rue du Vertbois"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -74,11 +152,95 @@
     }, 
     {
       "hnrlbls": [
+        "25"
+      ], 
+      "housenumber": "25", 
+      "lat": 50.637549493178, 
+      "lon": 5.571380355764, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730899", 
+      "street": "Rue du Vertbois"
+    }, 
+    {
+      "busnrs": [
+        "0011", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024", 
+        "0031", 
+        "0032", 
+        "0041", 
+        "0042", 
+        "0051", 
+        "0052", 
+        "0053", 
+        "0054"
+      ], 
+      "hnrlbls": [
         "27"
       ], 
       "housenumber": "27", 
       "lat": 50.637453201555, 
       "lon": 5.571240421231, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730899", 
+      "street": "Rue du Vertbois"
+    }, 
+    {
+      "hnrlbls": [
+        "29"
+      ], 
+      "housenumber": "29", 
+      "lat": 50.637420986608, 
+      "lon": 5.571051052535, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730899", 
+      "street": "Rue du Vertbois"
+    }, 
+    {
+      "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 50.638489169696, 
+      "lon": 5.57349723832, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730899", 
+      "street": "Rue du Vertbois"
+    }, 
+    {
+      "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 50.638449122698, 
+      "lon": 5.573396256191, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730899", 
+      "street": "Rue du Vertbois"
+    }, 
+    {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0041", 
+        "0042"
+      ], 
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 50.638408577736, 
+      "lon": 5.573326083582, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730899", 
@@ -103,6 +265,18 @@
       "housenumber": "88", 
       "lat": 50.637420024788, 
       "lon": 5.570429595198, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730899", 
+      "street": "Rue du Vertbois"
+    }, 
+    {
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.638384983296, 
+      "lon": 5.573242629373, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730899", 

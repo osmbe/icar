@@ -1,12 +1,17 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "Bt02", 
+        "Bt03"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.594559458196, 
-      "lon": 4.327172075935, 
+      "lat": 50.594605834397, 
+      "lon": 4.327151856011, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702930", 
@@ -73,6 +78,14 @@
       "street": "Faubourg de Charleroi"
     }, 
     {
+      "busnrs": [
+        "01GA", 
+        "02DR", 
+        "Bt01", 
+        "Bt04", 
+        "Bt05", 
+        "Bt06"
+      ], 
       "hnrlbls": [
         "104"
       ], 
@@ -217,6 +230,12 @@
       "street": "Faubourg de Charleroi"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt04"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -269,8 +288,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.593464548875, 
-      "lon": 4.32758054986, 
+      "lat": 50.593452400565, 
+      "lon": 4.327531234804, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702930", 
@@ -283,6 +302,18 @@
       "housenumber": "26", 
       "lat": 50.593456179631, 
       "lon": 4.32716964094, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7702930", 
+      "street": "Faubourg de Charleroi"
+    }, 
+    {
+      "hnrlbls": [
+        "27"
+      ], 
+      "housenumber": "27", 
+      "lat": 50.593378145835, 
+      "lon": 4.327579119747, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702930", 
@@ -307,6 +338,18 @@
       "housenumber": "29", 
       "lat": 50.593323286838, 
       "lon": 4.327628746286, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7702930", 
+      "street": "Faubourg de Charleroi"
+    }, 
+    {
+      "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 50.594494487168, 
+      "lon": 4.327167242573, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702930", 
@@ -365,8 +408,8 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 50.593268658211, 
-      "lon": 4.327252904098, 
+      "lat": 50.593270808938, 
+      "lon": 4.327282049699, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702930", 
@@ -425,8 +468,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.594126436204, 
-      "lon": 4.326794944779, 
+      "lat": 50.594069730245, 
+      "lon": 4.326862817869, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702930", 
@@ -457,12 +500,51 @@
       "street": "Faubourg de Charleroi"
     }, 
     {
+      "busnrs": [
+        "000C"
+      ], 
       "hnrlbls": [
         "42"
       ], 
       "housenumber": "42", 
       "lat": 50.593031184062, 
       "lon": 4.32676261294, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7702930", 
+      "street": "Faubourg de Charleroi"
+    }, 
+    {
+      "hnrlbls": [
+        "42A"
+      ], 
+      "housenumber": "42A", 
+      "lat": 50.592889520839, 
+      "lon": 4.326334125109, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7702930", 
+      "street": "Faubourg de Charleroi"
+    }, 
+    {
+      "hnrlbls": [
+        "42B"
+      ], 
+      "housenumber": "42B", 
+      "lat": 50.592752151016, 
+      "lon": 4.326394676081, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7702930", 
+      "street": "Faubourg de Charleroi"
+    }, 
+    {
+      "hnrlbls": [
+        "42C"
+      ], 
+      "housenumber": "42C", 
+      "lat": 50.593152708502, 
+      "lon": 4.327056850424, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702930", 
@@ -529,12 +611,54 @@
       "street": "Faubourg de Charleroi"
     }, 
     {
+      "busnrs": [
+        "012A", 
+        "012B", 
+        "A002", 
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt04", 
+        "Bt05", 
+        "Bt06", 
+        "Bt07", 
+        "Bt08", 
+        "Bt09", 
+        "Bt10", 
+        "Bt11", 
+        "BtD1", 
+        "CBt1", 
+        "CBt2", 
+        "CBt3", 
+        "CBt4", 
+        "CBt5", 
+        "CBt6", 
+        "DBt2", 
+        "DBt3", 
+        "DBt4", 
+        "DBt5", 
+        "DBt6", 
+        "EBt1", 
+        "EBt2", 
+        "EBt4", 
+        "EBt5", 
+        "EBt7", 
+        "EBt9", 
+        "Ebt6", 
+        "Ebt8", 
+        "F/01", 
+        "F3", 
+        "FBt2", 
+        "FBt5", 
+        "FBt6", 
+        "Fbt4"
+      ], 
       "hnrlbls": [
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 50.592341950252, 
-      "lon": 4.326352901999, 
+      "lat": 50.592002719771, 
+      "lon": 4.326601227763, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702930", 
@@ -545,8 +669,8 @@
         "48A"
       ], 
       "housenumber": "48A", 
-      "lat": 50.592827685001, 
-      "lon": 4.326358094296, 
+      "lat": 50.59235409706, 
+      "lon": 4.326396610207, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702930", 
@@ -631,6 +755,18 @@
       "housenumber": "57", 
       "lat": 50.592656488868, 
       "lon": 4.328108892001, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7702930", 
+      "street": "Faubourg de Charleroi"
+    }, 
+    {
+      "hnrlbls": [
+        "58"
+      ], 
+      "housenumber": "58", 
+      "lat": 50.592560869182, 
+      "lon": 4.327837976728, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702930", 
@@ -733,12 +869,40 @@
       "street": "Faubourg de Charleroi"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "RDCH"
+      ], 
       "hnrlbls": [
         "66"
       ], 
       "housenumber": "66", 
       "lat": 50.592362249518, 
       "lon": 4.327967106465, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7702930", 
+      "street": "Faubourg de Charleroi"
+    }, 
+    {
+      "hnrlbls": [
+        "67"
+      ], 
+      "housenumber": "67", 
+      "lat": 50.591431968048, 
+      "lon": 4.328861180104, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7702930", 
+      "street": "Faubourg de Charleroi"
+    }, 
+    {
+      "hnrlbls": [
+        "68"
+      ], 
+      "housenumber": "68", 
+      "lat": 50.592252146803, 
+      "lon": 4.327152606845, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702930", 
@@ -1013,8 +1177,32 @@
         "96"
       ], 
       "housenumber": "96", 
-      "lat": 50.59033289456, 
-      "lon": 4.328835175982, 
+      "lat": 50.590298651977, 
+      "lon": 4.328863601546, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7702930", 
+      "street": "Faubourg de Charleroi"
+    }, 
+    {
+      "hnrlbls": [
+        "96A"
+      ], 
+      "housenumber": "96A", 
+      "lat": 50.590333489424, 
+      "lon": 4.329633647295, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7702930", 
+      "street": "Faubourg de Charleroi"
+    }, 
+    {
+      "hnrlbls": [
+        "96B"
+      ], 
+      "housenumber": "96B", 
+      "lat": 50.590245969683, 
+      "lon": 4.329675568465, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702930", 
@@ -1025,8 +1213,8 @@
         "98"
       ], 
       "housenumber": "98", 
-      "lat": 50.590332441115, 
-      "lon": 4.329633440549, 
+      "lat": 50.590065810494, 
+      "lon": 4.328958094514, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702930", 
@@ -1037,8 +1225,20 @@
         "98A"
       ], 
       "housenumber": "98A", 
-      "lat": 50.589686426691, 
-      "lon": 4.329045440256, 
+      "lat": 50.590035844111, 
+      "lon": 4.329755089128, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7702930", 
+      "street": "Faubourg de Charleroi"
+    }, 
+    {
+      "hnrlbls": [
+        "98B"
+      ], 
+      "housenumber": "98B", 
+      "lat": 50.589674894598, 
+      "lon": 4.329057269994, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702930", 

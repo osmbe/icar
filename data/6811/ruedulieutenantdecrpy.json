@@ -181,6 +181,9 @@
       "street": "Rue du Lieutenant de Cr\u00e9py"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -229,6 +232,12 @@
       "street": "Rue du Lieutenant de Cr\u00e9py"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B", 
+        "C", 
+        "D"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -277,6 +286,11 @@
       "street": "Rue du Lieutenant de Cr\u00e9py"
     }, 
     {
+      "busnrs": [
+        "00A", 
+        "A", 
+        "B"
+      ], 
       "hnrlbls": [
         "33"
       ], 
@@ -313,6 +327,9 @@
       "street": "Rue du Lieutenant de Cr\u00e9py"
     }, 
     {
+      "busnrs": [
+        "B"
+      ], 
       "hnrlbls": [
         "35A"
       ], 
@@ -535,6 +552,18 @@
       "housenumber": "66", 
       "lat": 49.704069540702, 
       "lon": 5.429824164106, 
+      "municipality": "Chiny", 
+      "pcode": "6811", 
+      "source": "7746988", 
+      "street": "Rue du Lieutenant de Cr\u00e9py"
+    }, 
+    {
+      "hnrlbls": [
+        "68"
+      ], 
+      "housenumber": "68", 
+      "lat": 49.70402787053, 
+      "lon": 5.429928952746, 
       "municipality": "Chiny", 
       "pcode": "6811", 
       "source": "7746988", 

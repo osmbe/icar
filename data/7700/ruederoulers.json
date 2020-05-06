@@ -121,6 +121,10 @@
       "street": "Rue de Roulers"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "142"
       ], 
@@ -521,8 +525,24 @@
         "193"
       ], 
       "housenumber": "193", 
-      "lat": 50.745788322664, 
-      "lon": 3.206154049662, 
+      "lat": 50.745855272893, 
+      "lon": 3.206176581968, 
+      "municipality": "Mouscron", 
+      "pcode": "7700", 
+      "source": "7715833", 
+      "street": "Rue de Roulers"
+    }, 
+    {
+      "busnrs": [
+        "A000", 
+        "B000"
+      ], 
+      "hnrlbls": [
+        "195"
+      ], 
+      "housenumber": "195", 
+      "lat": 50.745823307911, 
+      "lon": 3.206100902638, 
       "municipality": "Mouscron", 
       "pcode": "7700", 
       "source": "7715833", 

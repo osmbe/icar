@@ -1,6 +1,24 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0/1", 
+        "1/1", 
+        "1/2", 
+        "2/1"
+      ], 
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.266908766856, 
+      "lon": 6.093560616858, 
+      "municipality": "Sankt Vith", 
+      "pcode": "4780", 
+      "source": "7737727", 
+      "street": "Molkereiweg"
+    }, 
+    {
       "hnrlbls": [
         "11"
       ], 
@@ -109,6 +127,10 @@
       "street": "Molkereiweg"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "1/1"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -134,11 +156,23 @@
     }, 
     {
       "hnrlbls": [
+        "29"
+      ], 
+      "housenumber": "29", 
+      "lat": 50.264341582289, 
+      "lon": 6.092983935213, 
+      "municipality": "Sankt Vith", 
+      "pcode": "4780", 
+      "source": "7737727", 
+      "street": "Molkereiweg"
+    }, 
+    {
+      "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.266651716632, 
-      "lon": 6.093352109767, 
+      "lat": 50.266805352082, 
+      "lon": 6.09350675277, 
       "municipality": "Sankt Vith", 
       "pcode": "4780", 
       "source": "7737727", 
@@ -217,12 +251,19 @@
       "street": "Molkereiweg"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "0/2", 
+        "1/1", 
+        "1/2", 
+        "2/1"
+      ], 
       "hnrlbls": [
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 50.263441041596, 
-      "lon": 6.09238853279, 
+      "lat": 50.263193875742, 
+      "lon": 6.092496872324, 
       "municipality": "Sankt Vith", 
       "pcode": "4780", 
       "source": "7737727", 

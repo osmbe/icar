@@ -1,12 +1,61 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0017", 
+        "0022", 
+        "0023", 
+        "0025", 
+        "0026", 
+        "0027", 
+        "0031", 
+        "0032", 
+        "0033", 
+        "0034", 
+        "0035", 
+        "0036", 
+        "0037", 
+        "0038", 
+        "0039", 
+        "0041", 
+        "0042", 
+        "0043", 
+        "0045", 
+        "0046", 
+        "0049", 
+        "0051", 
+        "0053"
+      ], 
       "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
       "lat": 50.641061732406, 
       "lon": 5.572412558099, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731316", 
+      "street": "Rue Saint-Martin-en-Ile"
+    }, 
+    {
+      "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 50.641170076833, 
+      "lon": 5.572458998446, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731316", 
+      "street": "Rue Saint-Martin-en-Ile"
+    }, 
+    {
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.641210907337, 
+      "lon": 5.572266188947, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731316", 

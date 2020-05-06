@@ -25,6 +25,11 @@
       "street": "Rue de Landen"
     }, 
     {
+      "busnrs": [
+        "000B", 
+        "000C", 
+        "B/1"
+      ], 
       "hnrlbls": [
         "100"
       ], 
@@ -101,8 +106,8 @@
         "107"
       ], 
       "housenumber": "107", 
-      "lat": 50.686145775176, 
-      "lon": 5.080734790689, 
+      "lat": 50.686432927091, 
+      "lon": 5.08139659508, 
       "municipality": "Hannut", 
       "pcode": "4280", 
       "source": "7740488", 
@@ -193,6 +198,10 @@
       "street": "Rue de Landen"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -313,6 +322,13 @@
       "street": "Rue de Landen"
     }, 
     {
+      "busnrs": [
+        "000G", 
+        "B0.1", 
+        "B0.2", 
+        "B1.1", 
+        "B1.2"
+      ], 
       "hnrlbls": [
         "132"
       ], 
@@ -349,6 +365,9 @@
       "street": "Rue de Landen"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "135"
       ], 
@@ -397,6 +416,9 @@
       "street": "Rue de Landen"
     }, 
     {
+      "busnrs": [
+        "Bte1"
+      ], 
       "hnrlbls": [
         "146"
       ], 
@@ -409,6 +431,9 @@
       "street": "Rue de Landen"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "148"
       ], 
@@ -421,6 +446,9 @@
       "street": "Rue de Landen"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -433,6 +461,9 @@
       "street": "Rue de Landen"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "155"
       ], 
@@ -481,6 +512,9 @@
       "street": "Rue de Landen"
     }, 
     {
+      "busnrs": [
+        "Bte1"
+      ], 
       "hnrlbls": [
         "160"
       ], 
@@ -529,6 +563,9 @@
       "street": "Rue de Landen"
     }, 
     {
+      "busnrs": [
+        "Bte1"
+      ], 
       "hnrlbls": [
         "165"
       ], 
@@ -553,6 +590,14 @@
       "street": "Rue de Landen"
     }, 
     {
+      "busnrs": [
+        "000F", 
+        "000G", 
+        "000H", 
+        "000I", 
+        "Fbt1", 
+        "Fbt2"
+      ], 
       "hnrlbls": [
         "168"
       ], 
@@ -685,6 +730,15 @@
       "street": "Rue de Landen"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2", 
+        "Bte3", 
+        "Bte4", 
+        "Bte5", 
+        "Bte6", 
+        "Bte7"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -709,6 +763,10 @@
       "street": "Rue de Landen"
     }, 
     {
+      "busnrs": [
+        "App2", 
+        "App3"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -721,6 +779,9 @@
       "street": "Rue de Landen"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -733,6 +794,9 @@
       "street": "Rue de Landen"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -757,6 +821,9 @@
       "street": "Rue de Landen"
     }, 
     {
+      "busnrs": [
+        "Bte1"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -793,6 +860,11 @@
       "street": "Rue de Landen"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2", 
+        "Bte3"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -817,6 +889,10 @@
       "street": "Rue de Landen"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2"
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -901,6 +977,9 @@
       "street": "Rue de Landen"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -973,6 +1052,9 @@
       "street": "Rue de Landen"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -1069,6 +1151,9 @@
       "street": "Rue de Landen"
     }, 
     {
+      "busnrs": [
+        "0B/3"
+      ], 
       "hnrlbls": [
         "51"
       ], 
@@ -1097,14 +1182,17 @@
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 50.679571654004, 
-      "lon": 5.081834475205, 
+      "lat": 50.67999942816, 
+      "lon": 5.08178557925, 
       "municipality": "Hannut", 
       "pcode": "4280", 
       "source": "7740488", 
       "street": "Rue de Landen"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "54"
       ], 
@@ -1141,6 +1229,9 @@
       "street": "Rue de Landen"
     }, 
     {
+      "busnrs": [
+        "App1"
+      ], 
       "hnrlbls": [
         "57"
       ], 
@@ -1213,6 +1304,13 @@
       "street": "Rue de Landen"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "000B", 
+        "000C", 
+        "Bte1", 
+        "Bte2"
+      ], 
       "hnrlbls": [
         "63"
       ], 
@@ -1237,6 +1335,9 @@
       "street": "Rue de Landen"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "66"
       ], 
@@ -1249,6 +1350,9 @@
       "street": "Rue de Landen"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -1285,6 +1389,9 @@
       "street": "Rue de Landen"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "74"
       ], 
@@ -1297,6 +1404,13 @@
       "street": "Rue de Landen"
     }, 
     {
+      "busnrs": [
+        "B1.1", 
+        "B1.2", 
+        "B1.3", 
+        "B2.1", 
+        "B2.2"
+      ], 
       "hnrlbls": [
         "76"
       ], 
@@ -1309,6 +1423,13 @@
       "street": "Rue de Landen"
     }, 
     {
+      "busnrs": [
+        "Bte2", 
+        "Bte3", 
+        "Bte4", 
+        "Bte5", 
+        "Bte6"
+      ], 
       "hnrlbls": [
         "78"
       ], 
@@ -1321,6 +1442,16 @@
       "street": "Rue de Landen"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2", 
+        "Bte3", 
+        "Bte4", 
+        "Bte5", 
+        "Bte6", 
+        "Bte7", 
+        "Bte8"
+      ], 
       "hnrlbls": [
         "8"
       ], 
@@ -1345,6 +1476,9 @@
       "street": "Rue de Landen"
     }, 
     {
+      "busnrs": [
+        "Bte1"
+      ], 
       "hnrlbls": [
         "82"
       ], 
@@ -1405,6 +1539,9 @@
       "street": "Rue de Landen"
     }, 
     {
+      "busnrs": [
+        "Bte1"
+      ], 
       "hnrlbls": [
         "92"
       ], 
@@ -1453,6 +1590,9 @@
       "street": "Rue de Landen"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "97"
       ], 

@@ -1,6 +1,13 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "AptA", 
+        "AptC", 
+        "AptD", 
+        "aptB", 
+        "aptE"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -109,6 +116,11 @@
       "street": "Place de la Station"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "Bte1", 
+        "bte3"
+      ], 
       "hnrlbls": [
         "6"
       ], 

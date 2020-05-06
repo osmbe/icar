@@ -217,6 +217,13 @@
       "street": "Bois Notre Dame"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -281,8 +288,20 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.22798297936, 
-      "lon": 5.333698346298, 
+      "lat": 50.227964723231, 
+      "lon": 5.333662375378, 
+      "municipality": "Marche-en-Famenne", 
+      "pcode": "6900", 
+      "source": "7743913", 
+      "street": "Bois Notre Dame"
+    }, 
+    {
+      "hnrlbls": [
+        "9A"
+      ], 
+      "housenumber": "9A", 
+      "lat": 50.228015253924, 
+      "lon": 5.333797774729, 
       "municipality": "Marche-en-Famenne", 
       "pcode": "6900", 
       "source": "7743913", 

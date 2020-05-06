@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "01"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -877,6 +880,10 @@
       "street": "Chauss\u00e9e de Frasnes"
     }, 
     {
+      "busnrs": [
+        "11", 
+        "21"
+      ], 
       "hnrlbls": [
         "222"
       ], 
@@ -1033,6 +1040,13 @@
       "street": "Chauss\u00e9e de Frasnes"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "02", 
+        "03", 
+        "21"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -1249,6 +1263,9 @@
       "street": "Chauss\u00e9e de Frasnes"
     }, 
     {
+      "busnrs": [
+        "01"
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -1465,6 +1482,13 @@
       "street": "Chauss\u00e9e de Frasnes"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "11", 
+        "12", 
+        "21", 
+        "22"
+      ], 
       "hnrlbls": [
         "39"
       ], 
@@ -1718,6 +1742,18 @@
     }, 
     {
       "hnrlbls": [
+        "505"
+      ], 
+      "housenumber": "505", 
+      "lat": 50.640507395861, 
+      "lon": 3.465827364133, 
+      "municipality": "Tournai", 
+      "pcode": "7540", 
+      "source": "7722965", 
+      "street": "Chauss\u00e9e de Frasnes"
+    }, 
+    {
+      "hnrlbls": [
         "506"
       ], 
       "housenumber": "506", 
@@ -1730,11 +1766,35 @@
     }, 
     {
       "hnrlbls": [
+        "507"
+      ], 
+      "housenumber": "507", 
+      "lat": 50.640571886281, 
+      "lon": 3.466046089764, 
+      "municipality": "Tournai", 
+      "pcode": "7540", 
+      "source": "7722965", 
+      "street": "Chauss\u00e9e de Frasnes"
+    }, 
+    {
+      "hnrlbls": [
         "508"
       ], 
       "housenumber": "508", 
       "lat": 50.640031340578, 
       "lon": 3.465779151841, 
+      "municipality": "Tournai", 
+      "pcode": "7540", 
+      "source": "7722965", 
+      "street": "Chauss\u00e9e de Frasnes"
+    }, 
+    {
+      "hnrlbls": [
+        "509"
+      ], 
+      "housenumber": "509", 
+      "lat": 50.640715313465, 
+      "lon": 3.466321666072, 
       "municipality": "Tournai", 
       "pcode": "7540", 
       "source": "7722965", 
@@ -2117,8 +2177,8 @@
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 50.61781084219, 
-      "lon": 3.415169936083, 
+      "lat": 50.617755024032, 
+      "lon": 3.415161791696, 
       "municipality": "Tournai", 
       "pcode": "7540", 
       "source": "7722965", 
@@ -2401,6 +2461,11 @@
       "street": "Chauss\u00e9e de Frasnes"
     }, 
     {
+      "busnrs": [
+        "02", 
+        "11", 
+        "12"
+      ], 
       "hnrlbls": [
         "70"
       ], 
@@ -2629,6 +2694,11 @@
       "street": "Chauss\u00e9e de Frasnes"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "11", 
+        "21"
+      ], 
       "hnrlbls": [
         "87"
       ], 

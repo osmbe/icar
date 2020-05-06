@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -25,6 +28,9 @@
       "street": "Taviet"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -193,6 +199,10 @@
       "street": "Taviet"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -229,6 +239,9 @@
       "street": "Taviet"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -265,6 +278,11 @@
       "street": "Taviet"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "Bte1", 
+        "Bte2"
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -373,6 +391,9 @@
       "street": "Taviet"
     }, 
     {
+      "busnrs": [
+        "Bte2"
+      ], 
       "hnrlbls": [
         "37"
       ], 
@@ -439,6 +460,18 @@
       "housenumber": "41", 
       "lat": 50.270376275893, 
       "lon": 5.016605615659, 
+      "municipality": "Dinant", 
+      "pcode": "5503", 
+      "source": "7749407", 
+      "street": "Taviet"
+    }, 
+    {
+      "hnrlbls": [
+        "41B"
+      ], 
+      "housenumber": "41B", 
+      "lat": 50.270375007497, 
+      "lon": 5.016960574471, 
       "municipality": "Dinant", 
       "pcode": "5503", 
       "source": "7749407", 

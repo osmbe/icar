@@ -1,6 +1,13 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "11", 
+        "12", 
+        "13", 
+        "21", 
+        "22"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -17,14 +24,17 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.226732433859, 
-      "lon": 5.342460003972, 
+      "lat": 50.226767550527, 
+      "lon": 5.342527472285, 
       "municipality": "Marche-en-Famenne", 
       "pcode": "6900", 
       "source": "7744095", 
       "street": "Rue des Carmes"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -49,12 +59,15 @@
       "street": "Rue des Carmes"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 50.226759456227, 
-      "lon": 5.342973154098, 
+      "lat": 50.226729637672, 
+      "lon": 5.342912283175, 
       "municipality": "Marche-en-Famenne", 
       "pcode": "6900", 
       "source": "7744095", 
@@ -67,6 +80,18 @@
       "housenumber": "14", 
       "lat": 50.226687900851, 
       "lon": 5.342614737409, 
+      "municipality": "Marche-en-Famenne", 
+      "pcode": "6900", 
+      "source": "7744095", 
+      "street": "Rue des Carmes"
+    }, 
+    {
+      "hnrlbls": [
+        "15"
+      ], 
+      "housenumber": "15", 
+      "lat": 50.226637499749, 
+      "lon": 5.342981713493, 
       "municipality": "Marche-en-Famenne", 
       "pcode": "6900", 
       "source": "7744095", 
@@ -169,6 +194,12 @@
       "street": "Rue des Carmes"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "5"
       ], 

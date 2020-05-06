@@ -1,6 +1,27 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301"
+      ], 
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.599511400225, 
+      "lon": 4.327403224575, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703101", 
+      "street": "Rue du Cura"
+    }, 
+    {
       "hnrlbls": [
         "10"
       ], 
@@ -145,12 +166,32 @@
       "street": "Rue du Cura"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt03", 
+        "Bt04", 
+        "Bt05", 
+        "Bt06", 
+        "Bt07"
+      ], 
       "hnrlbls": [
         "22"
       ], 
       "housenumber": "22", 
       "lat": 50.60029590949, 
       "lon": 4.327946249227, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703101", 
+      "street": "Rue du Cura"
+    }, 
+    {
+      "hnrlbls": [
+        "22A"
+      ], 
+      "housenumber": "22A", 
+      "lat": 50.600218826565, 
+      "lon": 4.327939622113, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703101", 
@@ -229,12 +270,30 @@
       "street": "Rue du Cura"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "Bt01", 
+        "Bt02", 
+        "Bt03"
+      ], 
       "hnrlbls": [
         "29"
       ], 
       "housenumber": "29", 
       "lat": 50.600085270081, 
       "lon": 4.327600190279, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703101", 
+      "street": "Rue du Cura"
+    }, 
+    {
+      "hnrlbls": [
+        "2B"
+      ], 
+      "housenumber": "2B", 
+      "lat": 50.599555775434, 
+      "lon": 4.327787750098, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703101", 
@@ -325,6 +384,10 @@
       "street": "Rue du Cura"
     }, 
     {
+      "busnrs": [
+        "Bt03", 
+        "Bt21"
+      ], 
       "hnrlbls": [
         "37"
       ], 
@@ -361,6 +424,9 @@
       "street": "Rue du Cura"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "40"
       ], 
@@ -517,6 +583,30 @@
       "street": "Rue du Cura"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt04", 
+        "Bt05", 
+        "Bt06"
+      ], 
+      "hnrlbls": [
+        "61"
+      ], 
+      "housenumber": "61", 
+      "lat": 50.601163403452, 
+      "lon": 4.327549803598, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703101", 
+      "street": "Rue du Cura"
+    }, 
+    {
+      "busnrs": [
+        "Bt01", 
+        "Bt02"
+      ], 
       "hnrlbls": [
         "63"
       ], 
@@ -541,12 +631,46 @@
       "street": "Rue du Cura"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03"
+      ], 
+      "hnrlbls": [
+        "67"
+      ], 
+      "housenumber": "67", 
+      "lat": 50.601318206137, 
+      "lon": 4.327419235045, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703101", 
+      "street": "Rue du Cura"
+    }, 
+    {
       "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
       "lat": 50.599946193272, 
       "lon": 4.327779699332, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703101", 
+      "street": "Rue du Cura"
+    }, 
+    {
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "Bt03"
+      ], 
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.59964126762, 
+      "lon": 4.327387415604, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703101", 

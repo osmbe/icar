@@ -1,12 +1,15 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "bte2"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.695340156321, 
-      "lon": 4.052766336889, 
+      "lat": 50.694666600612, 
+      "lon": 4.052656135603, 
       "municipality": "Enghien", 
       "pcode": "7850", 
       "source": "7716872", 
@@ -49,6 +52,23 @@
       "street": "Rue du Chemin de Fer"
     }, 
     {
+      "busnrs": [
+        "bt01", 
+        "bt11", 
+        "bt12", 
+        "bt13", 
+        "bt14", 
+        "bt22", 
+        "bt23", 
+        "bt24", 
+        "bt31", 
+        "bt32", 
+        "bt33", 
+        "bt34", 
+        "bte2", 
+        "bte3", 
+        "bte4"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -67,6 +87,18 @@
       "housenumber": "6", 
       "lat": 50.694722343275, 
       "lon": 4.052246768835, 
+      "municipality": "Enghien", 
+      "pcode": "7850", 
+      "source": "7716872", 
+      "street": "Rue du Chemin de Fer"
+    }, 
+    {
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 50.695340156321, 
+      "lon": 4.052766336889, 
       "municipality": "Enghien", 
       "pcode": "7850", 
       "source": "7716872", 

@@ -25,6 +25,13 @@
       "street": "Rue Sainte-V\u00e9ronique"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -37,6 +44,16 @@
       "street": "Rue Sainte-V\u00e9ronique"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -49,6 +66,15 @@
       "street": "Rue Sainte-V\u00e9ronique"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022", 
+        "0031"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -61,6 +87,11 @@
       "street": "Rue Sainte-V\u00e9ronique"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -98,11 +129,47 @@
     }, 
     {
       "hnrlbls": [
+        "17"
+      ], 
+      "housenumber": "17", 
+      "lat": 50.631562202948, 
+      "lon": 5.566141334167, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731303", 
+      "street": "Rue Sainte-V\u00e9ronique"
+    }, 
+    {
+      "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
       "lat": 50.631844471739, 
       "lon": 5.566198228182, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731303", 
+      "street": "Rue Sainte-V\u00e9ronique"
+    }, 
+    {
+      "hnrlbls": [
+        "1B"
+      ], 
+      "housenumber": "1B", 
+      "lat": 50.631642748362, 
+      "lon": 5.567160358396, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731303", 
+      "street": "Rue Sainte-V\u00e9ronique"
+    }, 
+    {
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.631858262347, 
+      "lon": 5.567091599772, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731303", 
@@ -157,6 +224,16 @@
       "street": "Rue Sainte-V\u00e9ronique"
     }, 
     {
+      "busnrs": [
+        "A001", 
+        "A002", 
+        "A031", 
+        "B001", 
+        "B011", 
+        "B031", 
+        "B041", 
+        "B051"
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -170,6 +247,65 @@
     }, 
     {
       "hnrlbls": [
+        "29A"
+      ], 
+      "housenumber": "29A", 
+      "lat": 50.63154342694, 
+      "lon": 5.565694710481, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731303", 
+      "street": "Rue Sainte-V\u00e9ronique"
+    }, 
+    {
+      "hnrlbls": [
+        "29B"
+      ], 
+      "housenumber": "29B", 
+      "lat": 50.631564698459, 
+      "lon": 5.565560769577, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731303", 
+      "street": "Rue Sainte-V\u00e9ronique"
+    }, 
+    {
+      "hnrlbls": [
+        "2B"
+      ], 
+      "housenumber": "2B", 
+      "lat": 50.631847216633, 
+      "lon": 5.567004506599, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731303", 
+      "street": "Rue Sainte-V\u00e9ronique"
+    }, 
+    {
+      "hnrlbls": [
+        "2D"
+      ], 
+      "housenumber": "2D", 
+      "lat": 50.631860160341, 
+      "lon": 5.56683238312, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731303", 
+      "street": "Rue Sainte-V\u00e9ronique"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0031", 
+        "0032", 
+        "0041", 
+        "0042"
+      ], 
+      "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
@@ -181,6 +317,26 @@
       "street": "Rue Sainte-V\u00e9ronique"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0031", 
+        "0032", 
+        "0033", 
+        "0041", 
+        "0042", 
+        "0043", 
+        "0051", 
+        "0052", 
+        "0053", 
+        "0061", 
+        "0062", 
+        "0063"
+      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -193,6 +349,22 @@
       "street": "Rue Sainte-V\u00e9ronique"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024", 
+        "0031", 
+        "0032", 
+        "0033", 
+        "0034"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -205,6 +377,11 @@
       "street": "Rue Sainte-V\u00e9ronique"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -217,6 +394,11 @@
       "street": "Rue Sainte-V\u00e9ronique"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -229,6 +411,12 @@
       "street": "Rue Sainte-V\u00e9ronique"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -241,6 +429,12 @@
       "street": "Rue Sainte-V\u00e9ronique"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "8"
       ], 

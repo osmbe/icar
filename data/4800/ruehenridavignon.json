@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1+2\u00e9"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -50,6 +53,30 @@
     }, 
     {
       "hnrlbls": [
+        "22"
+      ], 
+      "housenumber": "22", 
+      "lat": 50.580313559014, 
+      "lon": 5.83965554261, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7739015", 
+      "street": "Rue Henri Davignon"
+    }, 
+    {
+      "hnrlbls": [
+        "24"
+      ], 
+      "housenumber": "24", 
+      "lat": 50.580160071383, 
+      "lon": 5.839795498542, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7739015", 
+      "street": "Rue Henri Davignon"
+    }, 
+    {
+      "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
@@ -61,6 +88,9 @@
       "street": "Rue Henri Davignon"
     }, 
     {
+      "busnrs": [
+        "2\u00e9t."
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -73,6 +103,10 @@
       "street": "Rue Henri Davignon"
     }, 
     {
+      "busnrs": [
+        "bte1", 
+        "rez."
+      ], 
       "hnrlbls": [
         "6"
       ], 

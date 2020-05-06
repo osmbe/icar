@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "000A", 
+        "000B", 
+        "000E", 
+        "000F"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -29,8 +35,8 @@
         "1C"
       ], 
       "housenumber": "1C", 
-      "lat": 50.653179453577, 
-      "lon": 5.093841899234, 
+      "lat": 50.653135525539, 
+      "lon": 5.093854370007, 
       "municipality": "Hannut", 
       "pcode": "4280", 
       "source": "7740444", 
@@ -49,6 +55,9 @@
       "street": "Rue d'Avennes"
     }, 
     {
+      "busnrs": [
+        "000D"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -133,6 +142,9 @@
       "street": "Rue d'Avennes"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "8"
       ], 

@@ -469,6 +469,10 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -541,6 +545,9 @@
       "street": "Rue de Namur"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -869,8 +876,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.430445681349, 
-      "lon": 4.23233819388, 
+      "lat": 50.430695785625, 
+      "lon": 4.232086327249, 
       "municipality": "Morlanwelz", 
       "pcode": "7141", 
       "source": "7721696", 

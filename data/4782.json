@@ -1,10 +1,10 @@
 {
   "streets": [
     {
-      "b": 50.290823768743, 
-      "l": 6.263427846507, 
+      "b": 50.290749714045, 
+      "l": 6.263603415802, 
       "name": "Alter Herresbacher Weg", 
-      "numOfAddr": 10, 
+      "numOfAddr": 14, 
       "r": 6.265898575392, 
       "sanName": "alterherresbacherweg", 
       "t": 50.293146338935
@@ -13,7 +13,7 @@
       "b": 50.286792390384, 
       "l": 6.261399094207, 
       "name": "Am Burgwall", 
-      "numOfAddr": 5, 
+      "numOfAddr": 6, 
       "r": 6.263783878059, 
       "sanName": "amburgwall", 
       "t": 50.28755415604
@@ -22,8 +22,8 @@
       "b": 50.267771428146, 
       "l": 6.253076965615, 
       "name": "Amelscheid", 
-      "numOfAddr": 53, 
-      "r": 6.263464531751, 
+      "numOfAddr": 61, 
+      "r": 6.263924594043, 
       "sanName": "amelscheid", 
       "t": 50.280796404307
     }, 
@@ -76,7 +76,7 @@
       "b": 50.268559797068, 
       "l": 6.264786269276, 
       "name": "Bleialfer Strasse", 
-      "numOfAddr": 19, 
+      "numOfAddr": 20, 
       "r": 6.271813699539, 
       "sanName": "bleialferstrasse", 
       "t": 50.288989441068
@@ -85,7 +85,7 @@
       "b": 50.280876698473, 
       "l": 6.261962132085, 
       "name": "B\u00fcrgerschaft", 
-      "numOfAddr": 32, 
+      "numOfAddr": 40, 
       "r": 6.267974498478, 
       "sanName": "brgerschaft", 
       "t": 50.286275146426
@@ -119,28 +119,28 @@
     }, 
     {
       "b": 50.289774666792, 
-      "l": 6.265115924728, 
+      "l": 6.264933604977, 
       "name": "In der Tr\u00f6t", 
-      "numOfAddr": 16, 
-      "r": 6.269062244905, 
+      "numOfAddr": 19, 
+      "r": 6.269047683752, 
       "sanName": "indertrt", 
-      "t": 50.291512504378
+      "t": 50.291496681905
     }, 
     {
       "b": 50.287007978403, 
       "l": 6.252452310771, 
       "name": "K-F.-Schinkel-Strasse", 
-      "numOfAddr": 29, 
+      "numOfAddr": 37, 
       "r": 6.26266262764, 
       "sanName": "kfschinkelstrasse", 
       "t": 50.2894383032
     }, 
     {
-      "b": 50.289523471931, 
+      "b": 50.289557106808, 
       "l": 6.264429241807, 
       "name": "K\u00f6nig-Baudouin-Platz", 
       "numOfAddr": 7, 
-      "r": 6.265078955409, 
+      "r": 6.26511743768, 
       "sanName": "knigbaudouinplatz", 
       "t": 50.290526782596
     }, 
@@ -148,25 +148,34 @@
       "b": 50.288874117147, 
       "l": 6.265875520791, 
       "name": "Kurtrierer Strasse", 
-      "numOfAddr": 5, 
+      "numOfAddr": 6, 
       "r": 6.268676289256, 
       "sanName": "kurtriererstrasse", 
       "t": 50.289693530611
     }, 
     {
-      "b": 50.289096430077, 
+      "b": 50.291920779724, 
+      "l": 6.265187287135, 
+      "name": "Lanschepeisch", 
+      "numOfAddr": 3, 
+      "r": 6.265970797395, 
+      "sanName": "lanschepeisch", 
+      "t": 50.292365229518
+    }, 
+    {
+      "b": 50.289052101415, 
       "l": 6.264709324926, 
       "name": "Manderfelder Strasse", 
-      "numOfAddr": 24, 
+      "numOfAddr": 29, 
       "r": 6.277727410159, 
       "sanName": "manderfelderstrasse", 
       "t": 50.29398067664
     }, 
     {
-      "b": 50.290271414525, 
-      "l": 6.262629174817, 
+      "b": 50.289796638042, 
+      "l": 6.261431794339, 
       "name": "Marxweg", 
-      "numOfAddr": 3, 
+      "numOfAddr": 5, 
       "r": 6.263124808363, 
       "sanName": "marxweg", 
       "t": 50.290621535049
@@ -175,19 +184,22 @@
       "b": 50.289082402335, 
       "l": 6.259449920354, 
       "name": "M\u00fchlenkaul", 
-      "numOfAddr": 4, 
-      "r": 6.259978225761, 
+      "numOfAddr": 5, 
+      "otherPCs": [
+        "4780"
+      ], 
+      "r": 6.260495680918, 
       "sanName": "mhlenkaul", 
-      "t": 50.289645788552
+      "t": 50.290052315934
     }, 
     {
       "b": 50.2904872062, 
-      "l": 6.272914757938, 
+      "l": 6.272314963066, 
       "name": "Op der Sch\u00fcer", 
-      "numOfAddr": 2, 
+      "numOfAddr": 4, 
       "r": 6.273384946185, 
       "sanName": "opderscher", 
-      "t": 50.290676415034
+      "t": 50.290675542591
     }, 
     {
       "b": 50.28824958556, 
@@ -200,9 +212,9 @@
     }, 
     {
       "b": 50.262977459816, 
-      "l": 6.207065780554, 
+      "l": 6.207047430954, 
       "name": "R\u00f6dgen", 
-      "numOfAddr": 15, 
+      "numOfAddr": 19, 
       "r": 6.210931717881, 
       "sanName": "rdgen", 
       "t": 50.266204164148
@@ -220,16 +232,16 @@
       "b": 50.286144887002, 
       "l": 6.244657463914, 
       "name": "Wingerscheid", 
-      "numOfAddr": 7, 
-      "r": 6.249294200962, 
+      "numOfAddr": 11, 
+      "r": 6.249328460935, 
       "sanName": "wingerscheid", 
-      "t": 50.288002046149
+      "t": 50.288004345299
     }, 
     {
-      "b": 50.290211340042, 
-      "l": 6.263650252178, 
+      "b": 50.289616780383, 
+      "l": 6.262978571863, 
       "name": "Zum Burren", 
-      "numOfAddr": 18, 
+      "numOfAddr": 21, 
       "r": 6.26916003044, 
       "sanName": "zumburren", 
       "t": 50.294857881511

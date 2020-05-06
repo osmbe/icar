@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "000A", 
+        "000B", 
+        "0B/1"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -25,6 +30,9 @@
       "street": "Rue d'Acosse"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -49,6 +57,10 @@
       "street": "Rue d'Acosse"
     }, 
     {
+      "busnrs": [
+        "000B", 
+        "000C"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -61,6 +73,10 @@
       "street": "Rue d'Acosse"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "000B"
+      ], 
       "hnrlbls": [
         "5"
       ], 

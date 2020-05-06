@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A2"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -109,6 +112,10 @@
       "street": "Rue du Temple"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -485,8 +492,8 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 50.666985526422, 
-      "lon": 5.637988647524, 
+      "lat": 50.66694765061, 
+      "lon": 5.638021341206, 
       "municipality": "Herstal", 
       "pcode": "4040", 
       "source": "7729326", 

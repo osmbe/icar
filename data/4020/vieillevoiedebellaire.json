@@ -25,12 +25,29 @@
       "street": "Vieille-Voie-de-Bellaire"
     }, 
     {
+      "busnrs": [
+        "A001", 
+        "A002", 
+        "A003"
+      ], 
       "hnrlbls": [
         "157"
       ], 
       "housenumber": "157", 
       "lat": 50.64588998798, 
       "lon": 5.652142480598, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7731485", 
+      "street": "Vieille-Voie-de-Bellaire"
+    }, 
+    {
+      "hnrlbls": [
+        "157A"
+      ], 
+      "housenumber": "157A", 
+      "lat": 50.645905772943, 
+      "lon": 5.652249109292, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7731485", 

@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "01", 
+        "02", 
+        "11", 
+        "21"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -13,6 +19,9 @@
       "street": "Avenue Montgomery"
     }, 
     {
+      "busnrs": [
+        "11"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -25,6 +34,9 @@
       "street": "Avenue Montgomery"
     }, 
     {
+      "busnrs": [
+        "21"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -37,6 +49,11 @@
       "street": "Avenue Montgomery"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "01", 
+        "02"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -49,6 +66,10 @@
       "street": "Avenue Montgomery"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "21"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -85,6 +106,10 @@
       "street": "Avenue Montgomery"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "01"
+      ], 
       "hnrlbls": [
         "26"
       ], 

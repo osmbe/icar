@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "B/1", 
+        "B/2"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -133,6 +137,10 @@
       "street": "Rue Maubonne"
     }, 
     {
+      "busnrs": [
+        "1B/1", 
+        "1B/2"
+      ], 
       "hnrlbls": [
         "1B"
       ], 
@@ -233,8 +241,8 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 49.559164704625, 
-      "lon": 5.548016844998, 
+      "lat": 49.559223122399, 
+      "lon": 5.548068227025, 
       "municipality": "Virton", 
       "pcode": "6761", 
       "source": "7747933", 
@@ -245,8 +253,8 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 49.559230528955, 
-      "lon": 5.548138917, 
+      "lat": 49.559183547099, 
+      "lon": 5.548149421497, 
       "municipality": "Virton", 
       "pcode": "6761", 
       "source": "7747933", 
@@ -445,6 +453,9 @@
       "street": "Rue Maubonne"
     }, 
     {
+      "busnrs": [
+        "6A"
+      ], 
       "hnrlbls": [
         "6"
       ], 

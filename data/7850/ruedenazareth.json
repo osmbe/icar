@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "bte2"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -25,6 +28,9 @@
       "street": "Rue de Nazareth"
     }, 
     {
+      "busnrs": [
+        "bte2"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -37,6 +43,9 @@
       "street": "Rue de Nazareth"
     }, 
     {
+      "busnrs": [
+        "b/2"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -182,9 +191,9 @@
     }, 
     {
       "hnrlbls": [
-        "22b"
+        "22B"
       ], 
-      "housenumber": "22b", 
+      "housenumber": "22B", 
       "lat": 50.693813981135, 
       "lon": 4.034929844421, 
       "municipality": "Enghien", 
@@ -194,9 +203,9 @@
     }, 
     {
       "hnrlbls": [
-        "22c"
+        "22C"
       ], 
-      "housenumber": "22c", 
+      "housenumber": "22C", 
       "lat": 50.693842945792, 
       "lon": 4.034869572559, 
       "municipality": "Enghien", 

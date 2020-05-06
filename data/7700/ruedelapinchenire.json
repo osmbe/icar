@@ -50,18 +50,6 @@
     }, 
     {
       "hnrlbls": [
-        "102"
-      ], 
-      "housenumber": "102", 
-      "lat": 50.726494497278, 
-      "lon": 3.202510634474, 
-      "municipality": "Mouscron", 
-      "pcode": "7700", 
-      "source": "7715773", 
-      "street": "Rue de la Pincheni\u00e8re"
-    }, 
-    {
-      "hnrlbls": [
         "103"
       ], 
       "housenumber": "103", 
@@ -85,6 +73,10 @@
       "street": "Rue de la Pincheni\u00e8re"
     }, 
     {
+      "busnrs": [
+        "0004", 
+        "A000"
+      ], 
       "hnrlbls": [
         "106"
       ], 
@@ -169,6 +161,10 @@
       "street": "Rue de la Pincheni\u00e8re"
     }, 
     {
+      "busnrs": [
+        "A000", 
+        "B000"
+      ], 
       "hnrlbls": [
         "112"
       ], 
@@ -325,6 +321,10 @@
       "street": "Rue de la Pincheni\u00e8re"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "124"
       ], 
@@ -797,8 +797,8 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.728272991987, 
-      "lon": 3.203237739326, 
+      "lat": 50.728302133516, 
+      "lon": 3.203183771234, 
       "municipality": "Mouscron", 
       "pcode": "7700", 
       "source": "7715773", 
@@ -1129,6 +1129,10 @@
       "street": "Rue de la Pincheni\u00e8re"
     }, 
     {
+      "busnrs": [
+        "B000", 
+        "C000"
+      ], 
       "hnrlbls": [
         "57"
       ], 
@@ -1261,6 +1265,15 @@
       "street": "Rue de la Pincheni\u00e8re"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007"
+      ], 
       "hnrlbls": [
         "72"
       ], 

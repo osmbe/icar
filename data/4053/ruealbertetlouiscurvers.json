@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "E12", 
+        "E22"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +17,9 @@
       "street": "Rue Albert et Louis Curvers"
     }, 
     {
+      "busnrs": [
+        "0011"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -61,6 +68,13 @@
       "street": "Rue Albert et Louis Curvers"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -91,6 +105,18 @@
       "housenumber": "19", 
       "lat": 50.594393961467, 
       "lon": 5.611558325948, 
+      "municipality": "Chaudfontaine", 
+      "pcode": "4053", 
+      "source": "7728061", 
+      "street": "Rue Albert et Louis Curvers"
+    }, 
+    {
+      "hnrlbls": [
+        "1B"
+      ], 
+      "housenumber": "1B", 
+      "lat": 50.593649949991, 
+      "lon": 5.608123582331, 
       "municipality": "Chaudfontaine", 
       "pcode": "4053", 
       "source": "7728061", 

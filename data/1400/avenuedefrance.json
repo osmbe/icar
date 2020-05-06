@@ -1,12 +1,46 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "A032", 
+        "A202", 
+        "Bt21"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.616853497822, 
-      "lon": 4.325607141064, 
+      "lat": 50.616603288691, 
+      "lon": 4.324125814288, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7702834", 
+      "street": "Avenue de France"
+    }, 
+    {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0104", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0301", 
+        "0302"
+      ], 
+      "hnrlbls": [
+        "10"
+      ], 
+      "housenumber": "10", 
+      "lat": 50.616645609054, 
+      "lon": 4.325289374671, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702834", 
@@ -14,11 +48,114 @@
     }, 
     {
       "hnrlbls": [
+        "12"
+      ], 
+      "housenumber": "12", 
+      "lat": 50.616698913221, 
+      "lon": 4.325354750658, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7702834", 
+      "street": "Avenue de France"
+    }, 
+    {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt04", 
+        "Bt05", 
+        "Bt06", 
+        "Bt07", 
+        "Bt08", 
+        "Bt09", 
+        "Bt10", 
+        "Bt11", 
+        "Bt12", 
+        "Bt13", 
+        "Bt14"
+      ], 
+      "hnrlbls": [
+        "15"
+      ], 
+      "housenumber": "15", 
+      "lat": 50.617171201934, 
+      "lon": 4.325391882104, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7702834", 
+      "street": "Avenue de France"
+    }, 
+    {
+      "busnrs": [
+        "0004", 
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt05", 
+        "Bt06", 
+        "Bt07", 
+        "Bt08", 
+        "Bt09", 
+        "Bt10", 
+        "Bt11", 
+        "Bt12", 
+        "Bt13", 
+        "Bt14"
+      ], 
+      "hnrlbls": [
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 50.617044091303, 
-      "lon": 4.325789790494, 
+      "lat": 50.617027427354, 
+      "lon": 4.325752419455, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7702834", 
+      "street": "Avenue de France"
+    }, 
+    {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302"
+      ], 
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.616457799831, 
+      "lon": 4.324979785407, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7702834", 
+      "street": "Avenue de France"
+    }, 
+    {
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.616504011047, 
+      "lon": 4.325098833536, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7702834", 
+      "street": "Avenue de France"
+    }, 
+    {
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 50.616576600574, 
+      "lon": 4.325212795133, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702834", 

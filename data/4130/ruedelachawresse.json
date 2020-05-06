@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -19,6 +23,18 @@
       "housenumber": "10", 
       "lat": 50.56207459228, 
       "lon": 5.604137699907, 
+      "municipality": "Esneux", 
+      "pcode": "4130", 
+      "source": "7728669", 
+      "street": "Rue de la Chawresse"
+    }, 
+    {
+      "hnrlbls": [
+        "11"
+      ], 
+      "housenumber": "11", 
+      "lat": 50.561669069763, 
+      "lon": 5.605976509571, 
       "municipality": "Esneux", 
       "pcode": "4130", 
       "source": "7728669", 
@@ -127,6 +143,18 @@
       "housenumber": "4", 
       "lat": 50.562414923138, 
       "lon": 5.603400765687, 
+      "municipality": "Esneux", 
+      "pcode": "4130", 
+      "source": "7728669", 
+      "street": "Rue de la Chawresse"
+    }, 
+    {
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.561834758871, 
+      "lon": 5.605943499139, 
       "municipality": "Esneux", 
       "pcode": "4130", 
       "source": "7728669", 

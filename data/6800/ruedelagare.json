@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +17,11 @@
       "street": "Rue de la Gare"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B", 
+        "C"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -61,24 +70,19 @@
       "street": "Rue de la Gare"
     }, 
     {
-      "hnrlbls": [
-        "2"
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
       ], 
-      "housenumber": "2", 
-      "lat": 49.919266800003, 
-      "lon": 5.382459565887, 
-      "municipality": "Libramont-Chevigny", 
-      "pcode": "6800", 
-      "source": "7746769", 
-      "street": "Rue de la Gare"
-    }, 
-    {
       "hnrlbls": [
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 49.920788288815, 
-      "lon": 5.379263767702, 
+      "lat": 49.920759011687, 
+      "lon": 5.379009216883, 
       "municipality": "Libramont-Chevigny", 
       "pcode": "6800", 
       "source": "7746769", 

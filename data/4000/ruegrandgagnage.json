@@ -1,6 +1,29 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0031", 
+        "0032", 
+        "0033", 
+        "0041", 
+        "0042", 
+        "0043", 
+        "0051", 
+        "0052", 
+        "0053", 
+        "0061", 
+        "0062", 
+        "0063"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +36,21 @@
       "street": "Rue Grandgagnage"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "B012", 
+        "B022", 
+        "C004", 
+        "C005", 
+        "C011"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -25,6 +63,36 @@
       "street": "Rue Grandgagnage"
     }, 
     {
+      "hnrlbls": [
+        "10B"
+      ], 
+      "housenumber": "10B", 
+      "lat": 50.638656242468, 
+      "lon": 5.561901335654, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731008", 
+      "street": "Rue Grandgagnage"
+    }, 
+    {
+      "hnrlbls": [
+        "10C"
+      ], 
+      "housenumber": "10C", 
+      "lat": 50.63864189428, 
+      "lon": 5.561607455673, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731008", 
+      "street": "Rue Grandgagnage"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -85,6 +153,10 @@
       "street": "Rue Grandgagnage"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0053"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -109,6 +181,39 @@
       "street": "Rue Grandgagnage"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0031", 
+        "0032", 
+        "0033", 
+        "0042", 
+        "0052", 
+        "0053"
+      ], 
+      "hnrlbls": [
+        "18"
+      ], 
+      "housenumber": "18", 
+      "lat": 50.638364466637, 
+      "lon": 5.562113670512, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731008", 
+      "street": "Rue Grandgagnage"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -122,6 +227,24 @@
     }, 
     {
       "hnrlbls": [
+        "20"
+      ], 
+      "housenumber": "20", 
+      "lat": 50.638281449334, 
+      "lon": 5.562116519509, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731008", 
+      "street": "Rue Grandgagnage"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
+      "hnrlbls": [
         "21"
       ], 
       "housenumber": "21", 
@@ -133,6 +256,18 @@
       "street": "Rue Grandgagnage"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0041", 
+        "0042", 
+        "0051", 
+        "0052"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -145,6 +280,19 @@
       "street": "Rue Grandgagnage"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022", 
+        "0023"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -157,12 +305,23 @@
       "street": "Rue Grandgagnage"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 50.638105165379, 
-      "lon": 5.56214414147, 
+      "lat": 50.638048720632, 
+      "lon": 5.562149260063, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731008", 
@@ -181,6 +340,14 @@
       "street": "Rue Grandgagnage"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -205,6 +372,11 @@
       "street": "Rue Grandgagnage"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "B001"
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -218,6 +390,38 @@
     }, 
     {
       "hnrlbls": [
+        "28A"
+      ], 
+      "housenumber": "28A", 
+      "lat": 50.637912742772, 
+      "lon": 5.5613143151, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731008", 
+      "street": "Rue Grandgagnage"
+    }, 
+    {
+      "hnrlbls": [
+        "28B"
+      ], 
+      "housenumber": "28B", 
+      "lat": 50.637983270726, 
+      "lon": 5.56121387693, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731008", 
+      "street": "Rue Grandgagnage"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
+      "hnrlbls": [
         "29"
       ], 
       "housenumber": "29", 
@@ -229,6 +433,11 @@
       "street": "Rue Grandgagnage"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "2A"
       ], 
@@ -242,6 +451,24 @@
     }, 
     {
       "hnrlbls": [
+        "2B"
+      ], 
+      "housenumber": "2B", 
+      "lat": 50.638860284416, 
+      "lon": 5.562127567006, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731008", 
+      "street": "Rue Grandgagnage"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
+      "hnrlbls": [
         "30"
       ], 
       "housenumber": "30", 
@@ -253,6 +480,12 @@
       "street": "Rue Grandgagnage"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -289,6 +522,14 @@
       "street": "Rue Grandgagnage"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041", 
+        "0051"
+      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -325,6 +566,12 @@
       "street": "Rue Grandgagnage"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "43"
       ], 
@@ -337,6 +584,12 @@
       "street": "Rue Grandgagnage"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "45"
       ], 
@@ -362,6 +615,25 @@
     }, 
     {
       "hnrlbls": [
+        "49"
+      ], 
+      "housenumber": "49", 
+      "lat": 50.638016807129, 
+      "lon": 5.562524082167, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731008", 
+      "street": "Rue Grandgagnage"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
+      "hnrlbls": [
         "51"
       ], 
       "housenumber": "51", 
@@ -373,6 +645,13 @@
       "street": "Rue Grandgagnage"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "53"
       ], 
@@ -385,6 +664,29 @@
       "street": "Rue Grandgagnage"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0021"
+      ], 
+      "hnrlbls": [
+        "55"
+      ], 
+      "housenumber": "55", 
+      "lat": 50.63789682707, 
+      "lon": 5.562475097195, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731008", 
+      "street": "Rue Grandgagnage"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -397,6 +699,12 @@
       "street": "Rue Grandgagnage"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -409,6 +717,14 @@
       "street": "Rue Grandgagnage"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "8"
       ], 

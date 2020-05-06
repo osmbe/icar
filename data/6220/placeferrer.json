@@ -5,8 +5,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.483361065358, 
-      "lon": 4.550457943732, 
+      "lat": 50.483376462443, 
+      "lon": 4.55008677528, 
       "municipality": "Fleurus", 
       "pcode": "6220", 
       "source": "7709929", 
@@ -55,6 +55,18 @@
       "housenumber": "13", 
       "lat": 50.482771792944, 
       "lon": 4.549783314284, 
+      "municipality": "Fleurus", 
+      "pcode": "6220", 
+      "source": "7709929", 
+      "street": "Place Ferrer"
+    }, 
+    {
+      "hnrlbls": [
+        "13/1"
+      ], 
+      "housenumber": "13/1", 
+      "lat": 50.482732232709, 
+      "lon": 4.549833057658, 
       "municipality": "Fleurus", 
       "pcode": "6220", 
       "source": "7709929", 
@@ -125,14 +137,19 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 50.482744070396, 
-      "lon": 4.549175564221, 
+      "lat": 50.482899323708, 
+      "lon": 4.549331779842, 
       "municipality": "Fleurus", 
       "pcode": "6220", 
       "source": "7709929", 
       "street": "Place Ferrer"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -157,18 +174,28 @@
       "street": "Place Ferrer"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "6"
+      ], 
       "hnrlbls": [
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.482734954161, 
-      "lon": 4.549250715141, 
+      "lat": 50.482966315463, 
+      "lon": 4.549399365513, 
       "municipality": "Fleurus", 
       "pcode": "6220", 
       "source": "7709929", 
       "street": "Place Ferrer"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -182,11 +209,11 @@
     }, 
     {
       "hnrlbls": [
-        "3"
+        "23"
       ], 
-      "housenumber": "3", 
-      "lat": 50.483272796898, 
-      "lon": 4.550407611001, 
+      "housenumber": "23", 
+      "lat": 50.483152031137, 
+      "lon": 4.549433870788, 
       "municipality": "Fleurus", 
       "pcode": "6220", 
       "source": "7709929", 
@@ -197,14 +224,18 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.483231922096, 
-      "lon": 4.55038214726, 
+      "lat": 50.48325239727, 
+      "lon": 4.55038970667, 
       "municipality": "Fleurus", 
       "pcode": "6220", 
       "source": "7709929", 
       "street": "Place Ferrer"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -217,6 +248,11 @@
       "street": "Place Ferrer"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -229,6 +265,11 @@
       "street": "Place Ferrer"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "11", 
+        "2"
+      ], 
       "hnrlbls": [
         "7"
       ], 

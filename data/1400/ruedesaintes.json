@@ -1,18 +1,26 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.597159591825, 
-      "lon": 4.324983784525, 
+      "lat": 50.597129862489, 
+      "lon": 4.324993154885, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703050", 
       "street": "Rue de Saintes"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -25,18 +33,47 @@
       "street": "Rue de Saintes"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "B/01", 
+        "Bt01", 
+        "Bt02"
+      ], 
       "hnrlbls": [
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 50.596848772894, 
-      "lon": 4.325187400835, 
+      "lat": 50.596870171416, 
+      "lon": 4.325161596144, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703050", 
       "street": "Rue de Saintes"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "002", 
+        "003"
+      ], 
+      "hnrlbls": [
+        "11B"
+      ], 
+      "housenumber": "11B", 
+      "lat": 50.59680142239, 
+      "lon": 4.325209685259, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703050", 
+      "street": "Rue de Saintes"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -49,6 +86,11 @@
       "street": "Rue de Saintes"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -61,6 +103,9 @@
       "street": "Rue de Saintes"
     }, 
     {
+      "busnrs": [
+        "Bt01"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -73,6 +118,13 @@
       "street": "Rue de Saintes"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "Bt01", 
+        "Bt02", 
+        "Bt03"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -85,6 +137,13 @@
       "street": "Rue de Saintes"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt04", 
+        "Bt05"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -121,6 +180,12 @@
       "street": "Rue de Saintes"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt04"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -139,6 +204,28 @@
       "housenumber": "2", 
       "lat": 50.597050960475, 
       "lon": 4.324728755798, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703050", 
+      "street": "Rue de Saintes"
+    }, 
+    {
+      "busnrs": [
+        "A001", 
+        "A002", 
+        "A003", 
+        "A004", 
+        "B001", 
+        "B002", 
+        "B003", 
+        "B004"
+      ], 
+      "hnrlbls": [
+        "21"
+      ], 
+      "housenumber": "21", 
+      "lat": 50.596261920403, 
+      "lon": 4.325776330277, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703050", 
@@ -205,12 +292,44 @@
       "street": "Rue de Saintes"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt04", 
+        "Bt06", 
+        "Bt07", 
+        "Bt08", 
+        "Bt09"
+      ], 
       "hnrlbls": [
         "31"
       ], 
       "housenumber": "31", 
       "lat": 50.596063212569, 
       "lon": 4.326200580782, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703050", 
+      "street": "Rue de Saintes"
+    }, 
+    {
+      "busnrs": [
+        "Bt12", 
+        "Bt13", 
+        "Bt14", 
+        "Bt15", 
+        "Bt17", 
+        "Bt18", 
+        "Bt19", 
+        "Bt20"
+      ], 
+      "hnrlbls": [
+        "33"
+      ], 
+      "housenumber": "33", 
+      "lat": 50.595999870598, 
+      "lon": 4.326356580138, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703050", 
@@ -229,6 +348,10 @@
       "street": "Rue de Saintes"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02"
+      ], 
       "hnrlbls": [
         "37"
       ], 
@@ -254,6 +377,23 @@
     }, 
     {
       "hnrlbls": [
+        "48"
+      ], 
+      "housenumber": "48", 
+      "lat": 50.595745197949, 
+      "lon": 4.326214274579, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703050", 
+      "street": "Rue de Saintes"
+    }, 
+    {
+      "busnrs": [
+        "Bt03", 
+        "Bt04", 
+        "Bt05"
+      ], 
+      "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
@@ -265,6 +405,11 @@
       "street": "Rue de Saintes"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -301,6 +446,11 @@
       "street": "Rue de Saintes"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03"
+      ], 
       "hnrlbls": [
         "9"
       ], 

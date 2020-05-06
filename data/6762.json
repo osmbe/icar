@@ -22,7 +22,7 @@
       "b": 49.560553823279, 
       "l": 5.519486969396, 
       "name": "Avenue Bouvier", 
-      "numOfAddr": 50, 
+      "numOfAddr": 71, 
       "otherPCs": [
         "6760"
       ], 
@@ -70,7 +70,7 @@
       "b": 49.549576211129, 
       "l": 5.537017240085, 
       "name": "Avenue de Lorraine", 
-      "numOfAddr": 11, 
+      "numOfAddr": 12, 
       "r": 5.539226238393, 
       "sanName": "avenuedelorraine", 
       "t": 49.550453451688
@@ -79,16 +79,16 @@
       "b": 49.554161965168, 
       "l": 5.535117814376, 
       "name": "Avenue Joseph Wauters", 
-      "numOfAddr": 84, 
+      "numOfAddr": 87, 
       "r": 5.547354292421, 
       "sanName": "avenuejosephwauters", 
       "t": 49.556123621283
     }, 
     {
       "b": 49.557016914601, 
-      "l": 5.527583927012, 
+      "l": 5.52731377076, 
       "name": "Chauss\u00e9e Romaine", 
-      "numOfAddr": 8, 
+      "numOfAddr": 10, 
       "r": 5.52874044056, 
       "sanName": "chausseromaine", 
       "t": 49.558057538958
@@ -104,30 +104,39 @@
     }, 
     {
       "b": 49.546447443929, 
-      "l": 5.530211827945, 
+      "l": 5.529632135773, 
       "name": "Chemin Morel", 
-      "numOfAddr": 51, 
+      "numOfAddr": 52, 
       "r": 5.532888770176, 
       "sanName": "cheminmorel", 
       "t": 49.554717724891
     }, 
     {
+      "b": 49.562262842131, 
+      "l": 5.52101740772, 
+      "name": "Dessus la Fontaine Martin", 
+      "numOfAddr": 3, 
+      "r": 5.521052895132, 
+      "sanName": "dessuslafontainemartin", 
+      "t": 49.562356874646
+    }, 
+    {
       "b": 49.55975583487, 
       "l": 5.529427496331, 
       "name": "Faubourg d'Arival", 
-      "numOfAddr": 22, 
+      "numOfAddr": 26, 
       "otherPCs": [
         "6760"
       ], 
-      "r": 5.530825782154, 
+      "r": 5.530968619951, 
       "sanName": "faubourgdarival", 
       "t": 49.562541935752
     }, 
     {
-      "b": 49.55932428486, 
+      "b": 49.559296289682, 
       "l": 5.533436350454, 
       "name": "Fontaine de Solumont", 
-      "numOfAddr": 14, 
+      "numOfAddr": 15, 
       "r": 5.537204364777, 
       "sanName": "fontainedesolumont", 
       "t": 49.560360715923
@@ -226,16 +235,25 @@
       "t": 49.554822694279
     }, 
     {
+      "b": 49.551827285569, 
+      "l": 5.505404849396, 
+      "name": "Rue de la Papeterie", 
+      "numOfAddr": 1, 
+      "r": 5.505404849396, 
+      "sanName": "ruedelapapeterie", 
+      "t": 49.551827285569
+    }, 
+    {
       "b": 49.558892340296, 
-      "l": 5.520898410432, 
+      "l": 5.52078697512, 
       "name": "Rue de la Station", 
-      "numOfAddr": 57, 
+      "numOfAddr": 58, 
       "r": 5.525872073783, 
       "sanName": "ruedelastation", 
       "t": 49.561432412803
     }, 
     {
-      "b": 49.550356751627, 
+      "b": 49.550286487529, 
       "l": 5.534204511751, 
       "name": "Rue de la Villette", 
       "numOfAddr": 60, 
@@ -292,7 +310,7 @@
       "b": 49.550697412981, 
       "l": 5.518480416511, 
       "name": "Rue d'Harnoncourt", 
-      "numOfAddr": 78, 
+      "numOfAddr": 79, 
       "r": 5.530061863445, 
       "sanName": "ruedharnoncourt", 
       "t": 49.554787358096
@@ -362,7 +380,7 @@
       "b": 49.561617965581, 
       "l": 5.517402678675, 
       "name": "Rue Edouard Andr\u00e9", 
-      "numOfAddr": 37, 
+      "numOfAddr": 39, 
       "r": 5.520525089053, 
       "sanName": "rueedouardandr", 
       "t": 49.563722025997
@@ -380,7 +398,7 @@
       "b": 49.556313549605, 
       "l": 5.529115109402, 
       "name": "Rue Jean-Fran\u00e7ois Grange", 
-      "numOfAddr": 34, 
+      "numOfAddr": 35, 
       "r": 5.531512142415, 
       "sanName": "ruejeanfranoisgrange", 
       "t": 49.559626992715
@@ -464,7 +482,7 @@
       "b": 49.555142875999, 
       "l": 5.531165590966, 
       "name": "Vichaurue", 
-      "numOfAddr": 39, 
+      "numOfAddr": 40, 
       "r": 5.533738949269, 
       "sanName": "vichaurue", 
       "t": 49.555980463324

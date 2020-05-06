@@ -73,6 +73,9 @@
       "street": "Rue Menil"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -109,6 +112,16 @@
       "street": "Rue Menil"
     }, 
     {
+      "busnrs": [
+        "A  1", 
+        "A  2", 
+        "B  1", 
+        "B  2", 
+        "C  1", 
+        "C  2", 
+        "D  1", 
+        "D  2"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -187,6 +200,78 @@
       "housenumber": "3", 
       "lat": 49.975697282039, 
       "lon": 5.453743682216, 
+      "municipality": "Libramont-Chevigny", 
+      "pcode": "6800", 
+      "source": "7746837", 
+      "street": "Rue Menil"
+    }, 
+    {
+      "hnrlbls": [
+        "30A"
+      ], 
+      "housenumber": "30A", 
+      "lat": 49.980813271577, 
+      "lon": 5.457976465796, 
+      "municipality": "Libramont-Chevigny", 
+      "pcode": "6800", 
+      "source": "7746837", 
+      "street": "Rue Menil"
+    }, 
+    {
+      "hnrlbls": [
+        "30B"
+      ], 
+      "housenumber": "30B", 
+      "lat": 49.980786741947, 
+      "lon": 5.458064502653, 
+      "municipality": "Libramont-Chevigny", 
+      "pcode": "6800", 
+      "source": "7746837", 
+      "street": "Rue Menil"
+    }, 
+    {
+      "hnrlbls": [
+        "30C"
+      ], 
+      "housenumber": "30C", 
+      "lat": 49.980804697579, 
+      "lon": 5.458256700482, 
+      "municipality": "Libramont-Chevigny", 
+      "pcode": "6800", 
+      "source": "7746837", 
+      "street": "Rue Menil"
+    }, 
+    {
+      "hnrlbls": [
+        "30D"
+      ], 
+      "housenumber": "30D", 
+      "lat": 49.980777983784, 
+      "lon": 5.458341468682, 
+      "municipality": "Libramont-Chevigny", 
+      "pcode": "6800", 
+      "source": "7746837", 
+      "street": "Rue Menil"
+    }, 
+    {
+      "hnrlbls": [
+        "30E"
+      ], 
+      "housenumber": "30E", 
+      "lat": 49.980751630099, 
+      "lon": 5.4584244741, 
+      "municipality": "Libramont-Chevigny", 
+      "pcode": "6800", 
+      "source": "7746837", 
+      "street": "Rue Menil"
+    }, 
+    {
+      "hnrlbls": [
+        "30F"
+      ], 
+      "housenumber": "30F", 
+      "lat": 49.980724782623, 
+      "lon": 5.458509672729, 
       "municipality": "Libramont-Chevigny", 
       "pcode": "6800", 
       "source": "7746837", 
@@ -338,6 +423,54 @@
     }, 
     {
       "hnrlbls": [
+        "46A"
+      ], 
+      "housenumber": "46A", 
+      "lat": 49.978689860911, 
+      "lon": 5.454916242781, 
+      "municipality": "Libramont-Chevigny", 
+      "pcode": "6800", 
+      "source": "7746837", 
+      "street": "Rue Menil"
+    }, 
+    {
+      "hnrlbls": [
+        "46B"
+      ], 
+      "housenumber": "46B", 
+      "lat": 49.978645693243, 
+      "lon": 5.454879566002, 
+      "municipality": "Libramont-Chevigny", 
+      "pcode": "6800", 
+      "source": "7746837", 
+      "street": "Rue Menil"
+    }, 
+    {
+      "hnrlbls": [
+        "46C"
+      ], 
+      "housenumber": "46C", 
+      "lat": 49.978604754213, 
+      "lon": 5.454846629685, 
+      "municipality": "Libramont-Chevigny", 
+      "pcode": "6800", 
+      "source": "7746837", 
+      "street": "Rue Menil"
+    }, 
+    {
+      "hnrlbls": [
+        "46D"
+      ], 
+      "housenumber": "46D", 
+      "lat": 49.978566653738, 
+      "lon": 5.454812083254, 
+      "municipality": "Libramont-Chevigny", 
+      "pcode": "6800", 
+      "source": "7746837", 
+      "street": "Rue Menil"
+    }, 
+    {
+      "hnrlbls": [
         "47"
       ], 
       "housenumber": "47", 
@@ -473,8 +606,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 49.97618102965, 
-      "lon": 5.45448966132, 
+      "lat": 49.976222144896, 
+      "lon": 5.45451936914, 
       "municipality": "Libramont-Chevigny", 
       "pcode": "6800", 
       "source": "7746837", 

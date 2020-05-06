@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "/1", 
+        "rez"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -37,6 +41,10 @@
       "street": "Rue du Ch\u00e2teau"
     }, 
     {
+      "busnrs": [
+        "/1", 
+        "/2"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -103,6 +111,18 @@
       "housenumber": "2", 
       "lat": 50.637074385325, 
       "lon": 5.789832080611, 
+      "municipality": "Herve", 
+      "pcode": "4650", 
+      "source": "7736121", 
+      "street": "Rue du Ch\u00e2teau"
+    }, 
+    {
+      "hnrlbls": [
+        "20"
+      ], 
+      "housenumber": "20", 
+      "lat": 50.636545789598, 
+      "lon": 5.789639135035, 
       "municipality": "Herve", 
       "pcode": "4650", 
       "source": "7736121", 
@@ -199,6 +219,25 @@
       "housenumber": "29", 
       "lat": 50.635562755958, 
       "lon": 5.790177773041, 
+      "municipality": "Herve", 
+      "pcode": "4650", 
+      "source": "7736121", 
+      "street": "Rue du Ch\u00e2teau"
+    }, 
+    {
+      "busnrs": [
+        "11", 
+        "12", 
+        "21", 
+        "rez1", 
+        "rez2"
+      ], 
+      "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 50.636770543315, 
+      "lon": 5.790127431314, 
       "municipality": "Herve", 
       "pcode": "4650", 
       "source": "7736121", 
@@ -302,6 +341,18 @@
     }, 
     {
       "hnrlbls": [
+        "43A"
+      ], 
+      "housenumber": "43A", 
+      "lat": 50.633071334134, 
+      "lon": 5.795444187965, 
+      "municipality": "Herve", 
+      "pcode": "4650", 
+      "source": "7736121", 
+      "street": "Rue du Ch\u00e2teau"
+    }, 
+    {
+      "hnrlbls": [
         "45"
       ], 
       "housenumber": "45", 
@@ -319,6 +370,26 @@
       "housenumber": "47", 
       "lat": 50.631409771592, 
       "lon": 5.798779697191, 
+      "municipality": "Herve", 
+      "pcode": "4650", 
+      "source": "7736121", 
+      "street": "Rue du Ch\u00e2teau"
+    }, 
+    {
+      "busnrs": [
+        "11", 
+        "12", 
+        "21", 
+        "22", 
+        "rez1", 
+        "rez2"
+      ], 
+      "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 50.636615521071, 
+      "lon": 5.790139714583, 
       "municipality": "Herve", 
       "pcode": "4650", 
       "source": "7736121", 

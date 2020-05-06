@@ -1105,6 +1105,9 @@
       "street": "Rue Victor Cretteur"
     }, 
     {
+      "busnrs": [
+        "11"
+      ], 
       "hnrlbls": [
         "42"
       ], 
@@ -1477,6 +1480,14 @@
       "street": "Rue Victor Cretteur"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "02", 
+        "03", 
+        "04", 
+        "05", 
+        "06"
+      ], 
       "hnrlbls": [
         "71"
       ], 
@@ -1769,8 +1780,8 @@
         "96"
       ], 
       "housenumber": "96", 
-      "lat": 50.497889228378, 
-      "lon": 3.589642518514, 
+      "lat": 50.497487830635, 
+      "lon": 3.58971804266, 
       "municipality": "P\u00e9ruwelz", 
       "pcode": "7600", 
       "source": "7722823", 

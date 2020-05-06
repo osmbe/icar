@@ -97,6 +97,10 @@
       "street": "Chauss\u00e9e de Marenne"
     }, 
     {
+      "busnrs": [
+        "11", 
+        "21"
+      ], 
       "hnrlbls": [
         "111"
       ], 
@@ -245,8 +249,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 50.22785546951, 
-      "lon": 5.348270391951, 
+      "lat": 50.227737745041, 
+      "lon": 5.348013571243, 
       "municipality": "Marche-en-Famenne", 
       "pcode": "6900", 
       "source": "7743920", 
@@ -265,6 +269,13 @@
       "street": "Chauss\u00e9e de Marenne"
     }, 
     {
+      "busnrs": [
+        "11", 
+        "12", 
+        "13", 
+        "21", 
+        "22"
+      ], 
       "hnrlbls": [
         "133"
       ], 
@@ -377,8 +388,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.22773877883, 
-      "lon": 5.348012534302, 
+      "lat": 50.227855133156, 
+      "lon": 5.348262650963, 
       "municipality": "Marche-en-Famenne", 
       "pcode": "6900", 
       "source": "7743920", 
@@ -401,8 +412,8 @@
         "151"
       ], 
       "housenumber": "151", 
-      "lat": 50.23291100136, 
-      "lon": 5.366831613503, 
+      "lat": 50.232930013891, 
+      "lon": 5.366833866755, 
       "municipality": "Marche-en-Famenne", 
       "pcode": "6900", 
       "source": "7743920", 
@@ -518,11 +529,11 @@
     }, 
     {
       "hnrlbls": [
-        "173"
+        "172"
       ], 
-      "housenumber": "173", 
-      "lat": 50.232810691336, 
-      "lon": 5.371638814777, 
+      "housenumber": "172", 
+      "lat": 50.233471414413, 
+      "lon": 5.369732089608, 
       "municipality": "Marche-en-Famenne", 
       "pcode": "6900", 
       "source": "7743920", 
@@ -530,11 +541,11 @@
     }, 
     {
       "hnrlbls": [
-        "174"
+        "173"
       ], 
-      "housenumber": "174", 
-      "lat": 50.233457351822, 
-      "lon": 5.369707686073, 
+      "housenumber": "173", 
+      "lat": 50.232810691336, 
+      "lon": 5.371638814777, 
       "municipality": "Marche-en-Famenne", 
       "pcode": "6900", 
       "source": "7743920", 
@@ -685,6 +696,10 @@
       "street": "Chauss\u00e9e de Marenne"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "11"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -721,6 +736,10 @@
       "street": "Chauss\u00e9e de Marenne"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -757,6 +776,11 @@
       "street": "Chauss\u00e9e de Marenne"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -775,6 +799,24 @@
       "housenumber": "28", 
       "lat": 50.228003827844, 
       "lon": 5.34796863676, 
+      "municipality": "Marche-en-Famenne", 
+      "pcode": "6900", 
+      "source": "7743920", 
+      "street": "Chauss\u00e9e de Marenne"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
+      "hnrlbls": [
+        "29"
+      ], 
+      "housenumber": "29", 
+      "lat": 50.228547563191, 
+      "lon": 5.349359855643, 
       "municipality": "Marche-en-Famenne", 
       "pcode": "6900", 
       "source": "7743920", 
@@ -865,6 +907,13 @@
       "street": "Chauss\u00e9e de Marenne"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "02", 
+        "11", 
+        "21", 
+        "22"
+      ], 
       "hnrlbls": [
         "37"
       ], 
@@ -913,6 +962,22 @@
       "street": "Chauss\u00e9e de Marenne"
     }, 
     {
+      "hnrlbls": [
+        "43"
+      ], 
+      "housenumber": "43", 
+      "lat": 50.228761382814, 
+      "lon": 5.350020888498, 
+      "municipality": "Marche-en-Famenne", 
+      "pcode": "6900", 
+      "source": "7743920", 
+      "street": "Chauss\u00e9e de Marenne"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "44"
       ], 
@@ -985,6 +1050,10 @@
       "street": "Chauss\u00e9e de Marenne"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "rez"
+      ], 
       "hnrlbls": [
         "50"
       ], 
@@ -1015,18 +1084,6 @@
       "housenumber": "52", 
       "lat": 50.228523777895, 
       "lon": 5.348950478882, 
-      "municipality": "Marche-en-Famenne", 
-      "pcode": "6900", 
-      "source": "7743920", 
-      "street": "Chauss\u00e9e de Marenne"
-    }, 
-    {
-      "hnrlbls": [
-        "53"
-      ], 
-      "housenumber": "53", 
-      "lat": 50.228956716683, 
-      "lon": 5.350521816532, 
       "municipality": "Marche-en-Famenne", 
       "pcode": "6900", 
       "source": "7743920", 
@@ -1081,6 +1138,10 @@
       "street": "Chauss\u00e9e de Marenne"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -1111,18 +1172,6 @@
       "housenumber": "62", 
       "lat": 50.228699805382, 
       "lon": 5.349281973739, 
-      "municipality": "Marche-en-Famenne", 
-      "pcode": "6900", 
-      "source": "7743920", 
-      "street": "Chauss\u00e9e de Marenne"
-    }, 
-    {
-      "hnrlbls": [
-        "63"
-      ], 
-      "housenumber": "63", 
-      "lat": 50.229042554692, 
-      "lon": 5.35092556413, 
       "municipality": "Marche-en-Famenne", 
       "pcode": "6900", 
       "source": "7743920", 
@@ -1321,6 +1370,9 @@
       "street": "Chauss\u00e9e de Marenne"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "83"
       ], 
@@ -1441,6 +1493,11 @@
       "street": "Chauss\u00e9e de Marenne"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "96"
       ], 

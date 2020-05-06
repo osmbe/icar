@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0002"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +16,10 @@
       "street": "Rue de la Clawenne"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -817,6 +824,16 @@
       "street": "Rue de la Clawenne"
     }, 
     {
+      "busnrs": [
+        "0005", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0042"
+      ], 
       "hnrlbls": [
         "88"
       ], 

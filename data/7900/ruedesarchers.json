@@ -2,11 +2,29 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1"
+        "2"
       ], 
-      "housenumber": "1", 
-      "lat": 50.598427956547, 
-      "lon": 3.617339332024, 
+      "housenumber": "2", 
+      "lat": 50.598422059547, 
+      "lon": 3.61703411943, 
+      "municipality": "Leuze-en-Hainaut", 
+      "pcode": "7900", 
+      "source": "7724280", 
+      "street": "Rue des Archers"
+    }, 
+    {
+      "busnrs": [
+        "3A", 
+        "3B", 
+        "3C", 
+        "3D"
+      ], 
+      "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 50.59842969465, 
+      "lon": 3.617333361831, 
       "municipality": "Leuze-en-Hainaut", 
       "pcode": "7900", 
       "source": "7724280", 
@@ -14,11 +32,27 @@
     }, 
     {
       "hnrlbls": [
-        "2"
+        "5"
       ], 
-      "housenumber": "2", 
-      "lat": 50.59829064287, 
-      "lon": 3.617436874068, 
+      "housenumber": "5", 
+      "lat": 50.59828942135, 
+      "lon": 3.617437058738, 
+      "municipality": "Leuze-en-Hainaut", 
+      "pcode": "7900", 
+      "source": "7724280", 
+      "street": "Rue des Archers"
+    }, 
+    {
+      "busnrs": [
+        "BTE1", 
+        "BTE2"
+      ], 
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 50.598143955414, 
+      "lon": 3.617732004678, 
       "municipality": "Leuze-en-Hainaut", 
       "pcode": "7900", 
       "source": "7724280", 

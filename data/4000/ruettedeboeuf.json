@@ -61,6 +61,16 @@
       "street": "Rue T\u00eate-de-Boeuf"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0041"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -85,6 +95,10 @@
       "street": "Rue T\u00eate-de-Boeuf"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -109,6 +123,20 @@
       "street": "Rue T\u00eate-de-Boeuf"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024", 
+        "0031", 
+        "0032", 
+        "0033"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -121,12 +149,27 @@
       "street": "Rue T\u00eate-de-Boeuf"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "19"
       ], 
       "housenumber": "19", 
       "lat": 50.640751117436, 
       "lon": 5.569558134409, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731368", 
+      "street": "Rue T\u00eate-de-Boeuf"
+    }, 
+    {
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.641092501254, 
+      "lon": 5.569000654389, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731368", 
@@ -157,12 +200,31 @@
       "street": "Rue T\u00eate-de-Boeuf"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "22"
       ], 
       "housenumber": "22", 
       "lat": 50.640609915407, 
       "lon": 5.569478245867, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731368", 
+      "street": "Rue T\u00eate-de-Boeuf"
+    }, 
+    {
+      "hnrlbls": [
+        "2B"
+      ], 
+      "housenumber": "2B", 
+      "lat": 50.640942028593, 
+      "lon": 5.568804532302, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731368", 

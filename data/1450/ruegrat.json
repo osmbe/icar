@@ -13,6 +13,9 @@
       "street": "Rue Gr\u00e9at"
     }, 
     {
+      "busnrs": [
+        "0101"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -109,6 +112,9 @@
       "street": "Rue Gr\u00e9at"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -278,11 +284,35 @@
     }, 
     {
       "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 50.580630185961, 
+      "lon": 4.644677508269, 
+      "municipality": "Chastre", 
+      "pcode": "1450", 
+      "source": "7705337", 
+      "street": "Rue Gr\u00e9at"
+    }, 
+    {
+      "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
       "lat": 50.580179142755, 
       "lon": 4.644555320488, 
+      "municipality": "Chastre", 
+      "pcode": "1450", 
+      "source": "7705337", 
+      "street": "Rue Gr\u00e9at"
+    }, 
+    {
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 50.580713995594, 
+      "lon": 4.644843869375, 
       "municipality": "Chastre", 
       "pcode": "1450", 
       "source": "7705337", 

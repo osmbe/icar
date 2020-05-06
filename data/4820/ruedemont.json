@@ -133,6 +133,10 @@
       "street": "Rue de Mont"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "110"
       ], 
@@ -157,6 +161,12 @@
       "street": "Rue de Mont"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
+        "0302"
+      ], 
       "hnrlbls": [
         "113"
       ], 
@@ -470,18 +480,6 @@
     }, 
     {
       "hnrlbls": [
-        "144"
-      ], 
-      "housenumber": "144", 
-      "lat": 50.614154159947, 
-      "lon": 5.86286441428, 
-      "municipality": "Dison", 
-      "pcode": "4820", 
-      "source": "7735644", 
-      "street": "Rue de Mont"
-    }, 
-    {
-      "hnrlbls": [
         "145"
       ], 
       "housenumber": "145", 
@@ -530,18 +528,6 @@
     }, 
     {
       "hnrlbls": [
-        "159"
-      ], 
-      "housenumber": "159", 
-      "lat": 50.615472119173, 
-      "lon": 5.863598553252, 
-      "municipality": "Dison", 
-      "pcode": "4820", 
-      "source": "7735644", 
-      "street": "Rue de Mont"
-    }, 
-    {
-      "hnrlbls": [
         "161"
       ], 
       "housenumber": "161", 
@@ -565,6 +551,11 @@
       "street": "Rue de Mont"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "165"
       ], 
@@ -637,6 +628,10 @@
       "street": "Rue de Mont"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "174"
       ], 
@@ -661,6 +656,10 @@
       "street": "Rue de Mont"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "177"
       ], 
@@ -673,6 +672,9 @@
       "street": "Rue de Mont"
     }, 
     {
+      "busnrs": [
+        "1ETA"
+      ], 
       "hnrlbls": [
         "180"
       ], 
@@ -817,6 +819,11 @@
       "street": "Rue de Mont"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "000B", 
+        "000C"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -829,6 +836,12 @@
       "street": "Rue de Mont"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -1021,6 +1034,12 @@
       "street": "Rue de Mont"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -1069,12 +1088,28 @@
       "street": "Rue de Mont"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "228A"
       ], 
       "housenumber": "228A", 
-      "lat": 50.621011388095, 
-      "lon": 5.862349885795, 
+      "lat": 50.620977573216, 
+      "lon": 5.862250180866, 
+      "municipality": "Dison", 
+      "pcode": "4820", 
+      "source": "7735644", 
+      "street": "Rue de Mont"
+    }, 
+    {
+      "hnrlbls": [
+        "228B"
+      ], 
+      "housenumber": "228B", 
+      "lat": 50.621039376045, 
+      "lon": 5.862438226223, 
       "municipality": "Dison", 
       "pcode": "4820", 
       "source": "7735644", 
@@ -1153,6 +1188,11 @@
       "street": "Rue de Mont"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B", 
+        "C"
+      ], 
       "hnrlbls": [
         "246"
       ], 
@@ -1177,6 +1217,9 @@
       "street": "Rue de Mont"
     }, 
     {
+      "busnrs": [
+        "1ETA"
+      ], 
       "hnrlbls": [
         "251"
       ], 
@@ -1477,6 +1520,9 @@
       "street": "Rue de Mont"
     }, 
     {
+      "busnrs": [
+        "000B"
+      ], 
       "hnrlbls": [
         "305"
       ], 
@@ -1525,6 +1571,11 @@
       "street": "Rue de Mont"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "32"
       ], 
@@ -1705,6 +1756,9 @@
       "street": "Rue de Mont"
     }, 
     {
+      "busnrs": [
+        "REZ"
+      ], 
       "hnrlbls": [
         "54"
       ], 
@@ -1741,6 +1795,10 @@
       "street": "Rue de Mont"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "57"
       ], 
@@ -1793,8 +1851,8 @@
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 50.612182261922, 
-      "lon": 5.859479370507, 
+      "lat": 50.612131138695, 
+      "lon": 5.859511389872, 
       "municipality": "Dison", 
       "pcode": "4820", 
       "source": "7735644", 
@@ -1813,12 +1871,17 @@
       "street": "Rue de Mont"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0102"
+      ], 
       "hnrlbls": [
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 50.612194187049, 
-      "lon": 5.859566444995, 
+      "lat": 50.612170077115, 
+      "lon": 5.859579890355, 
       "municipality": "Dison", 
       "pcode": "4820", 
       "source": "7735644", 
@@ -1921,6 +1984,10 @@
       "street": "Rue de Mont"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "74"
       ], 

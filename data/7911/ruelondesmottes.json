@@ -37,6 +37,15 @@
       "street": "Rue L\u00e9on Desmottes"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -61,6 +70,9 @@
       "street": "Rue L\u00e9on Desmottes"
     }, 
     {
+      "busnrs": [
+        "0021"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -145,6 +157,11 @@
       "street": "Rue L\u00e9on Desmottes"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "bte3"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -283,6 +300,18 @@
       "housenumber": "33", 
       "lat": 50.665340542255, 
       "lon": 3.617024285093, 
+      "municipality": "Frasnes-lez-Anvaing", 
+      "pcode": "7911", 
+      "source": "7708818", 
+      "street": "Rue L\u00e9on Desmottes"
+    }, 
+    {
+      "hnrlbls": [
+        "34"
+      ], 
+      "housenumber": "34", 
+      "lat": 50.665557292586, 
+      "lon": 3.616916528953, 
       "municipality": "Frasnes-lez-Anvaing", 
       "pcode": "7911", 
       "source": "7708818", 
@@ -650,6 +679,18 @@
     }, 
     {
       "hnrlbls": [
+        "63"
+      ], 
+      "housenumber": "63", 
+      "lat": 50.664168977759, 
+      "lon": 3.61451120468, 
+      "municipality": "Frasnes-lez-Anvaing", 
+      "pcode": "7911", 
+      "source": "7708818", 
+      "street": "Rue L\u00e9on Desmottes"
+    }, 
+    {
+      "hnrlbls": [
         "64"
       ], 
       "housenumber": "64", 
@@ -821,8 +862,8 @@
         "80"
       ], 
       "housenumber": "80", 
-      "lat": 50.664266089847, 
-      "lon": 3.614110986423, 
+      "lat": 50.664168987686, 
+      "lon": 3.613941522984, 
       "municipality": "Frasnes-lez-Anvaing", 
       "pcode": "7911", 
       "source": "7708818", 

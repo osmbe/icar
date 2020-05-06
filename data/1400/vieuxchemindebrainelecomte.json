@@ -50,35 +50,11 @@
     }, 
     {
       "hnrlbls": [
-        "23"
-      ], 
-      "housenumber": "23", 
-      "lat": 50.601202509568, 
-      "lon": 4.309926082416, 
-      "municipality": "Nivelles", 
-      "pcode": "1400", 
-      "source": "7703192", 
-      "street": "Vieux Chemin de Braine-le-Comte"
-    }, 
-    {
-      "hnrlbls": [
         "24"
       ], 
       "housenumber": "24", 
       "lat": 50.600345347102, 
       "lon": 4.313600877234, 
-      "municipality": "Nivelles", 
-      "pcode": "1400", 
-      "source": "7703192", 
-      "street": "Vieux Chemin de Braine-le-Comte"
-    }, 
-    {
-      "hnrlbls": [
-        "25"
-      ], 
-      "housenumber": "25", 
-      "lat": 50.60120255142, 
-      "lon": 4.309829745965, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703192", 
@@ -109,18 +85,15 @@
       "street": "Vieux Chemin de Braine-le-Comte"
     }, 
     {
-      "hnrlbls": [
-        "5"
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt04", 
+        "Bt05", 
+        "Bt06", 
+        "Bt07"
       ], 
-      "housenumber": "5", 
-      "lat": 50.599745667275, 
-      "lon": 4.315971665846, 
-      "municipality": "Nivelles", 
-      "pcode": "1400", 
-      "source": "7703192", 
-      "street": "Vieux Chemin de Braine-le-Comte"
-    }, 
-    {
       "hnrlbls": [
         "53"
       ], 
@@ -133,6 +106,16 @@
       "street": "Vieux Chemin de Braine-le-Comte"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt04", 
+        "Bt05", 
+        "Bt06", 
+        "Bt07", 
+        "Bt08"
+      ], 
       "hnrlbls": [
         "55"
       ], 
@@ -145,6 +128,15 @@
       "street": "Vieux Chemin de Braine-le-Comte"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt04", 
+        "Bt05", 
+        "Bt06", 
+        "Bt07"
+      ], 
       "hnrlbls": [
         "57"
       ], 
@@ -157,12 +149,45 @@
       "street": "Vieux Chemin de Braine-le-Comte"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt04", 
+        "Bt05", 
+        "Bt06", 
+        "Bt08"
+      ], 
+      "hnrlbls": [
+        "59"
+      ], 
+      "housenumber": "59", 
+      "lat": 50.601557959817, 
+      "lon": 4.313141478546, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703192", 
+      "street": "Vieux Chemin de Braine-le-Comte"
+    }, 
+    {
       "hnrlbls": [
         "5A"
       ], 
       "housenumber": "5A", 
-      "lat": 50.599302568939, 
-      "lon": 4.315352181067, 
+      "lat": 50.599745667275, 
+      "lon": 4.315971665846, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703192", 
+      "street": "Vieux Chemin de Braine-le-Comte"
+    }, 
+    {
+      "hnrlbls": [
+        "5B"
+      ], 
+      "housenumber": "5B", 
+      "lat": 50.599308523451, 
+      "lon": 4.315368991656, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703192", 
@@ -181,6 +206,75 @@
       "street": "Vieux Chemin de Braine-le-Comte"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt04", 
+        "Bt05", 
+        "Bt06", 
+        "Bt07", 
+        "Bt08"
+      ], 
+      "hnrlbls": [
+        "61"
+      ], 
+      "housenumber": "61", 
+      "lat": 50.60153027664, 
+      "lon": 4.312948660021, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703192", 
+      "street": "Vieux Chemin de Braine-le-Comte"
+    }, 
+    {
+      "busnrs": [
+        "Bt01", 
+        "Bt03", 
+        "Bt04", 
+        "Bt05", 
+        "Bt06", 
+        "Bt07"
+      ], 
+      "hnrlbls": [
+        "63"
+      ], 
+      "housenumber": "63", 
+      "lat": 50.601497836324, 
+      "lon": 4.312757341784, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703192", 
+      "street": "Vieux Chemin de Braine-le-Comte"
+    }, 
+    {
+      "hnrlbls": [
+        "65"
+      ], 
+      "housenumber": "65", 
+      "lat": 50.601202509568, 
+      "lon": 4.309926082416, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703192", 
+      "street": "Vieux Chemin de Braine-le-Comte"
+    }, 
+    {
+      "hnrlbls": [
+        "67"
+      ], 
+      "housenumber": "67", 
+      "lat": 50.60120255142, 
+      "lon": 4.309829745965, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703192", 
+      "street": "Vieux Chemin de Braine-le-Comte"
+    }, 
+    {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "7"
       ], 

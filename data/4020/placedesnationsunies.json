@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -26,6 +32,18 @@
     }, 
     {
       "hnrlbls": [
+        "10B"
+      ], 
+      "housenumber": "10B", 
+      "lat": 50.622723723342, 
+      "lon": 5.585769738176, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7729998", 
+      "street": "Place des Nations-Unies"
+    }, 
+    {
+      "hnrlbls": [
         "11"
       ], 
       "housenumber": "11", 
@@ -37,6 +55,13 @@
       "street": "Place des Nations-Unies"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -74,6 +99,18 @@
     }, 
     {
       "hnrlbls": [
+        "15"
+      ], 
+      "housenumber": "15", 
+      "lat": 50.622699970197, 
+      "lon": 5.586983199242, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7729998", 
+      "street": "Place des Nations-Unies"
+    }, 
+    {
+      "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
@@ -85,6 +122,13 @@
       "street": "Place des Nations-Unies"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -109,6 +153,15 @@
       "street": "Place des Nations-Unies"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -121,12 +174,43 @@
       "street": "Place des Nations-Unies"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
       "lat": 50.621838818166, 
       "lon": 5.586091049684, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7729998", 
+      "street": "Place des Nations-Unies"
+    }, 
+    {
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 50.622038077255, 
+      "lon": 5.585779536929, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7729998", 
+      "street": "Place des Nations-Unies"
+    }, 
+    {
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 50.622131701082, 
+      "lon": 5.585792621701, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7729998", 

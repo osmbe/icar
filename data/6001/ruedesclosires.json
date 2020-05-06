@@ -25,6 +25,11 @@
       "street": "Rue des Closi\u00e8res"
     }, 
     {
+      "busnrs": [
+        "00O1", 
+        "011", 
+        "021"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -61,6 +66,9 @@
       "street": "Rue des Closi\u00e8res"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -749,8 +757,8 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 50.393525815699, 
-      "lon": 4.425221263574, 
+      "lat": 50.393515449724, 
+      "lon": 4.425130005392, 
       "municipality": "Charleroi", 
       "pcode": "6001", 
       "source": "7760219", 

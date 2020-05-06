@@ -25,6 +25,9 @@
       "street": "Rue Gustave Brichant"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "104"
       ], 
@@ -350,6 +353,18 @@
     }, 
     {
       "hnrlbls": [
+        "60"
+      ], 
+      "housenumber": "60", 
+      "lat": 50.495428901264, 
+      "lon": 4.203357092835, 
+      "municipality": "La Louvi\u00e8re", 
+      "pcode": "7100", 
+      "source": "7717663", 
+      "street": "Rue Gustave Brichant"
+    }, 
+    {
+      "hnrlbls": [
         "61"
       ], 
       "housenumber": "61", 
@@ -529,6 +544,13 @@
       "street": "Rue Gustave Brichant"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005"
+      ], 
       "hnrlbls": [
         "92"
       ], 

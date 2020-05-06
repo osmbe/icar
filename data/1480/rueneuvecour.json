@@ -1,6 +1,23 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.69733773849, 
+      "lon": 4.202509715832, 
+      "municipality": "Tubize", 
+      "pcode": "1480", 
+      "source": "7703926", 
+      "street": "Rue Neuve-Cour"
+    }, 
+    {
       "hnrlbls": [
         "12"
       ], 
@@ -61,30 +78,92 @@
       "street": "Rue Neuve-Cour"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "102", 
+        "103", 
+        "104", 
+        "105", 
+        "106", 
+        "201", 
+        "202", 
+        "203", 
+        "204", 
+        "205", 
+        "206", 
+        "301", 
+        "302", 
+        "303", 
+        "304", 
+        "R01", 
+        "R02", 
+        "R03", 
+        "R04", 
+        "R05", 
+        "R06"
+      ], 
       "hnrlbls": [
         "140"
       ], 
       "housenumber": "140", 
-      "lat": 50.694924064676, 
-      "lon": 4.19604853695, 
+      "lat": 50.694928887313, 
+      "lon": 4.196093457287, 
       "municipality": "Tubize", 
       "pcode": "1480", 
       "source": "7703926", 
       "street": "Rue Neuve-Cour"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "R01"
+      ], 
+      "hnrlbls": [
+        "140A"
+      ], 
+      "housenumber": "140A", 
+      "lat": 50.69491560725, 
+      "lon": 4.195818538048, 
+      "municipality": "Tubize", 
+      "pcode": "1480", 
+      "source": "7703926", 
+      "street": "Rue Neuve-Cour"
+    }, 
+    {
+      "busnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401", 
+        "R01", 
+        "R02"
+      ], 
       "hnrlbls": [
         "142"
       ], 
       "housenumber": "142", 
-      "lat": 50.694788857247, 
-      "lon": 4.195463310196, 
+      "lat": 50.694919202665, 
+      "lon": 4.19546283316, 
       "municipality": "Tubize", 
       "pcode": "1480", 
       "source": "7703926", 
       "street": "Rue Neuve-Cour"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401", 
+        "R01", 
+        "R02"
+      ], 
       "hnrlbls": [
         "144"
       ], 
@@ -97,12 +176,23 @@
       "street": "Rue Neuve-Cour"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401", 
+        "R01", 
+        "R02"
+      ], 
       "hnrlbls": [
         "146"
       ], 
       "housenumber": "146", 
-      "lat": 50.694788857247, 
-      "lon": 4.195463310196, 
+      "lat": 50.694666150058, 
+      "lon": 4.195481734346, 
       "municipality": "Tubize", 
       "pcode": "1480", 
       "source": "7703926", 
@@ -223,6 +313,23 @@
       "housenumber": "22", 
       "lat": 50.696624636599, 
       "lon": 4.201866243461, 
+      "municipality": "Tubize", 
+      "pcode": "1480", 
+      "source": "7703926", 
+      "street": "Rue Neuve-Cour"
+    }, 
+    {
+      "busnrs": [
+        "101", 
+        "201", 
+        "R01"
+      ], 
+      "hnrlbls": [
+        "23"
+      ], 
+      "housenumber": "23", 
+      "lat": 50.696900862234, 
+      "lon": 4.201887708754, 
       "municipality": "Tubize", 
       "pcode": "1480", 
       "source": "7703926", 
@@ -373,6 +480,10 @@
       "street": "Rue Neuve-Cour"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "R01"
+      ], 
       "hnrlbls": [
         "36"
       ], 
@@ -481,6 +592,10 @@
       "street": "Rue Neuve-Cour"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "R01"
+      ], 
       "hnrlbls": [
         "45"
       ], 
@@ -553,6 +668,12 @@
       "street": "Rue Neuve-Cour"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -578,6 +699,18 @@
     }, 
     {
       "hnrlbls": [
+        "62"
+      ], 
+      "housenumber": "62", 
+      "lat": 50.695577076276, 
+      "lon": 4.199838503775, 
+      "municipality": "Tubize", 
+      "pcode": "1480", 
+      "source": "7703926", 
+      "street": "Rue Neuve-Cour"
+    }, 
+    {
+      "hnrlbls": [
         "64"
       ], 
       "housenumber": "64", 
@@ -589,6 +722,12 @@
       "street": "Rue Neuve-Cour"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "R01"
+      ], 
       "hnrlbls": [
         "65"
       ], 
@@ -619,6 +758,18 @@
       "housenumber": "67", 
       "lat": 50.696110867571, 
       "lon": 4.200231961389, 
+      "municipality": "Tubize", 
+      "pcode": "1480", 
+      "source": "7703926", 
+      "street": "Rue Neuve-Cour"
+    }, 
+    {
+      "hnrlbls": [
+        "68"
+      ], 
+      "housenumber": "68", 
+      "lat": 50.695411392999, 
+      "lon": 4.199173406612, 
       "municipality": "Tubize", 
       "pcode": "1480", 
       "source": "7703926", 
@@ -709,12 +860,65 @@
       "street": "Rue Neuve-Cour"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "10", 
+        "11", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
       "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
       "lat": 50.696920176515, 
       "lon": 4.202314189608, 
+      "municipality": "Tubize", 
+      "pcode": "1480", 
+      "source": "7703926", 
+      "street": "Rue Neuve-Cour"
+    }, 
+    {
+      "busnrs": [
+        "101", 
+        "102", 
+        "103", 
+        "201", 
+        "202", 
+        "203", 
+        "301", 
+        "302", 
+        "303", 
+        "401", 
+        "402", 
+        "R01", 
+        "R02", 
+        "R03"
+      ], 
+      "hnrlbls": [
+        "80"
+      ], 
+      "housenumber": "80", 
+      "lat": 50.694914345884, 
+      "lon": 4.196903046623, 
+      "municipality": "Tubize", 
+      "pcode": "1480", 
+      "source": "7703926", 
+      "street": "Rue Neuve-Cour"
+    }, 
+    {
+      "hnrlbls": [
+        "83"
+      ], 
+      "housenumber": "83", 
+      "lat": 50.696156389281, 
+      "lon": 4.199191709254, 
       "municipality": "Tubize", 
       "pcode": "1480", 
       "source": "7703926", 
@@ -758,9 +962,9 @@
     }, 
     {
       "hnrlbls": [
-        "91"
+        "95"
       ], 
-      "housenumber": "91", 
+      "housenumber": "95", 
       "lat": 50.695711130758, 
       "lon": 4.198715929012, 
       "municipality": "Tubize", 

@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -367,6 +373,18 @@
       "housenumber": "62", 
       "lat": 50.612678536523, 
       "lon": 5.62023948416, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4032", 
+      "source": "7731047", 
+      "street": "Rue Hippolyte-Cornet"
+    }, 
+    {
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 50.612127243369, 
+      "lon": 5.619431594461, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4032", 
       "source": "7731047", 

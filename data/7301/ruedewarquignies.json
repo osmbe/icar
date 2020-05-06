@@ -457,6 +457,9 @@
       "street": "Rue de Warquignies"
     }, 
     {
+      "busnrs": [
+        "165"
+      ], 
       "hnrlbls": [
         "163"
       ], 
@@ -775,6 +778,18 @@
       "housenumber": "200", 
       "lat": 50.422268344713, 
       "lon": 3.824769042664, 
+      "municipality": "Boussu", 
+      "pcode": "7301", 
+      "source": "7711989", 
+      "street": "Rue de Warquignies"
+    }, 
+    {
+      "hnrlbls": [
+        "201"
+      ], 
+      "housenumber": "201", 
+      "lat": 50.422342100967, 
+      "lon": 3.824283713395, 
       "municipality": "Boussu", 
       "pcode": "7301", 
       "source": "7711989", 
@@ -1157,8 +1172,8 @@
         "265"
       ], 
       "housenumber": "265", 
-      "lat": 50.418189600655, 
-      "lon": 3.821837337685, 
+      "lat": 50.418149063156, 
+      "lon": 3.821898761933, 
       "municipality": "Boussu", 
       "pcode": "7301", 
       "source": "7711989", 
@@ -1169,8 +1184,8 @@
         "267"
       ], 
       "housenumber": "267", 
-      "lat": 50.418173689687, 
-      "lon": 3.821797670536, 
+      "lat": 50.418126959772, 
+      "lon": 3.821836581437, 
       "municipality": "Boussu", 
       "pcode": "7301", 
       "source": "7711989", 

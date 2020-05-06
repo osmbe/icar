@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "A"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +18,10 @@
       "street": "Rue des Viaducs"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "0-2"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -217,6 +226,10 @@
       "street": "Rue des Viaducs"
     }, 
     {
+      "busnrs": [
+        "1-1", 
+        "2-1"
+      ], 
       "hnrlbls": [
         "115"
       ], 
@@ -253,6 +266,11 @@
       "street": "Rue des Viaducs"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "0-3"
+      ], 
       "hnrlbls": [
         "118"
       ], 
@@ -265,6 +283,10 @@
       "street": "Rue des Viaducs"
     }, 
     {
+      "busnrs": [
+        "1-1", 
+        "2-1"
+      ], 
       "hnrlbls": [
         "119"
       ], 
@@ -313,6 +335,13 @@
       "street": "Rue des Viaducs"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "1-1", 
+        "1-2", 
+        "2-1"
+      ], 
       "hnrlbls": [
         "122"
       ], 
@@ -325,6 +354,10 @@
       "street": "Rue des Viaducs"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1"
+      ], 
       "hnrlbls": [
         "123"
       ], 
@@ -434,6 +467,18 @@
     }, 
     {
       "hnrlbls": [
+        "130B"
+      ], 
+      "housenumber": "130B", 
+      "lat": 50.47556202114, 
+      "lon": 3.954889685974, 
+      "municipality": "Mons", 
+      "pcode": "7020", 
+      "source": "7713837", 
+      "street": "Rue des Viaducs"
+    }, 
+    {
+      "hnrlbls": [
         "131"
       ], 
       "housenumber": "131", 
@@ -457,6 +502,12 @@
       "street": "Rue des Viaducs"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "1-1", 
+        "2-1"
+      ], 
       "hnrlbls": [
         "133"
       ], 
@@ -469,6 +520,9 @@
       "street": "Rue des Viaducs"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "134"
       ], 
@@ -505,6 +559,17 @@
       "street": "Rue des Viaducs"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "0-3", 
+        "1-1", 
+        "1-2", 
+        "1-3", 
+        "1-4", 
+        "2-1", 
+        "2-2"
+      ], 
       "hnrlbls": [
         "138"
       ], 
@@ -517,6 +582,10 @@
       "street": "Rue des Viaducs"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1"
+      ], 
       "hnrlbls": [
         "139"
       ], 
@@ -553,6 +622,9 @@
       "street": "Rue des Viaducs"
     }, 
     {
+      "busnrs": [
+        "11"
+      ], 
       "hnrlbls": [
         "141"
       ], 
@@ -661,6 +733,20 @@
       "street": "Rue des Viaducs"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "0-3", 
+        "0-4", 
+        "1-1", 
+        "1-2", 
+        "1-3", 
+        "1-4", 
+        "2-1", 
+        "2-2", 
+        "2-3", 
+        "2-4"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -697,6 +783,11 @@
       "street": "Rue des Viaducs"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "1-2"
+      ], 
       "hnrlbls": [
         "152"
       ], 
@@ -745,6 +836,10 @@
       "street": "Rue des Viaducs"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1"
+      ], 
       "hnrlbls": [
         "156"
       ], 
@@ -769,6 +864,11 @@
       "street": "Rue des Viaducs"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "2-1"
+      ], 
       "hnrlbls": [
         "158"
       ], 
@@ -842,6 +942,23 @@
     }, 
     {
       "hnrlbls": [
+        "163"
+      ], 
+      "housenumber": "163", 
+      "lat": 50.477402521505, 
+      "lon": 3.954793949469, 
+      "municipality": "Mons", 
+      "pcode": "7020", 
+      "source": "7713837", 
+      "street": "Rue des Viaducs"
+    }, 
+    {
+      "busnrs": [
+        "02", 
+        "1-1", 
+        "2-1"
+      ], 
+      "hnrlbls": [
         "164"
       ], 
       "housenumber": "164", 
@@ -854,6 +971,22 @@
     }, 
     {
       "hnrlbls": [
+        "165"
+      ], 
+      "housenumber": "165", 
+      "lat": 50.477441925175, 
+      "lon": 3.954837406724, 
+      "municipality": "Mons", 
+      "pcode": "7020", 
+      "source": "7713837", 
+      "street": "Rue des Viaducs"
+    }, 
+    {
+      "busnrs": [
+        "01", 
+        "1-1"
+      ], 
+      "hnrlbls": [
         "166"
       ], 
       "housenumber": "166", 
@@ -865,6 +998,22 @@
       "street": "Rue des Viaducs"
     }, 
     {
+      "hnrlbls": [
+        "167"
+      ], 
+      "housenumber": "167", 
+      "lat": 50.477495077375, 
+      "lon": 3.954901244923, 
+      "municipality": "Mons", 
+      "pcode": "7020", 
+      "source": "7713837", 
+      "street": "Rue des Viaducs"
+    }, 
+    {
+      "busnrs": [
+        "0-1", 
+        "1-1"
+      ], 
       "hnrlbls": [
         "168"
       ], 
@@ -889,6 +1038,11 @@
       "street": "Rue des Viaducs"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "1-2"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -901,6 +1055,10 @@
       "street": "Rue des Viaducs"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1"
+      ], 
       "hnrlbls": [
         "170"
       ], 
@@ -997,6 +1155,10 @@
       "street": "Rue des Viaducs"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1"
+      ], 
       "hnrlbls": [
         "178"
       ], 
@@ -1045,12 +1207,65 @@
       "street": "Rue des Viaducs"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "1-2"
+      ], 
       "hnrlbls": [
         "181"
       ], 
       "housenumber": "181", 
       "lat": 50.477287429585, 
       "lon": 3.954262812067, 
+      "municipality": "Mons", 
+      "pcode": "7020", 
+      "source": "7713837", 
+      "street": "Rue des Viaducs"
+    }, 
+    {
+      "hnrlbls": [
+        "181A"
+      ], 
+      "housenumber": "181A", 
+      "lat": 50.477937086616, 
+      "lon": 3.954431722475, 
+      "municipality": "Mons", 
+      "pcode": "7020", 
+      "source": "7713837", 
+      "street": "Rue des Viaducs"
+    }, 
+    {
+      "hnrlbls": [
+        "181B"
+      ], 
+      "housenumber": "181B", 
+      "lat": 50.477410788157, 
+      "lon": 3.9543289598, 
+      "municipality": "Mons", 
+      "pcode": "7020", 
+      "source": "7713837", 
+      "street": "Rue des Viaducs"
+    }, 
+    {
+      "hnrlbls": [
+        "181C"
+      ], 
+      "housenumber": "181C", 
+      "lat": 50.477567430766, 
+      "lon": 3.954430476355, 
+      "municipality": "Mons", 
+      "pcode": "7020", 
+      "source": "7713837", 
+      "street": "Rue des Viaducs"
+    }, 
+    {
+      "hnrlbls": [
+        "181E"
+      ], 
+      "housenumber": "181E", 
+      "lat": 50.478031496568, 
+      "lon": 3.954692585744, 
       "municipality": "Mons", 
       "pcode": "7020", 
       "source": "7713837", 
@@ -1165,6 +1380,13 @@
       "street": "Rue des Viaducs"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "1-2", 
+        "2-1", 
+        "2-2"
+      ], 
       "hnrlbls": [
         "190"
       ], 
@@ -1277,8 +1499,24 @@
         "199"
       ], 
       "housenumber": "199", 
-      "lat": 50.477492825696, 
-      "lon": 3.953460162547, 
+      "lat": 50.477431516295, 
+      "lon": 3.953477473267, 
+      "municipality": "Mons", 
+      "pcode": "7020", 
+      "source": "7713837", 
+      "street": "Rue des Viaducs"
+    }, 
+    {
+      "busnrs": [
+        "0-1", 
+        "1-1"
+      ], 
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.471962396459, 
+      "lon": 3.956364334642, 
       "municipality": "Mons", 
       "pcode": "7020", 
       "source": "7713837", 
@@ -1286,11 +1524,11 @@
     }, 
     {
       "hnrlbls": [
-        "2"
+        "20"
       ], 
-      "housenumber": "2", 
-      "lat": 50.471962396459, 
-      "lon": 3.956364334642, 
+      "housenumber": "20", 
+      "lat": 50.472433022641, 
+      "lon": 3.956290090449, 
       "municipality": "Mons", 
       "pcode": "7020", 
       "source": "7713837", 
@@ -1309,12 +1547,17 @@
       "street": "Rue des Viaducs"
     }, 
     {
+      "busnrs": [
+        "2-1", 
+        "2-2", 
+        "3-1"
+      ], 
       "hnrlbls": [
         "201"
       ], 
       "housenumber": "201", 
-      "lat": 50.477492825696, 
-      "lon": 3.953460162547, 
+      "lat": 50.477458318352, 
+      "lon": 3.953388892913, 
       "municipality": "Mons", 
       "pcode": "7020", 
       "source": "7713837", 
@@ -1333,6 +1576,9 @@
       "street": "Rue des Viaducs"
     }, 
     {
+      "busnrs": [
+        "Rzch"
+      ], 
       "hnrlbls": [
         "204"
       ], 
@@ -1349,20 +1595,40 @@
         "205"
       ], 
       "housenumber": "205", 
-      "lat": 50.477555605347, 
-      "lon": 3.953018784812, 
+      "lat": 50.477486665765, 
+      "lon": 3.953184806543, 
       "municipality": "Mons", 
       "pcode": "7020", 
       "source": "7713837", 
       "street": "Rue des Viaducs"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "1-1"
+      ], 
       "hnrlbls": [
         "206"
       ], 
       "housenumber": "206", 
       "lat": 50.477118963953, 
       "lon": 3.953920615405, 
+      "municipality": "Mons", 
+      "pcode": "7020", 
+      "source": "7713837", 
+      "street": "Rue des Viaducs"
+    }, 
+    {
+      "busnrs": [
+        "1-1", 
+        "2-1"
+      ], 
+      "hnrlbls": [
+        "207"
+      ], 
+      "housenumber": "207", 
+      "lat": 50.477555605347, 
+      "lon": 3.953018784812, 
       "municipality": "Mons", 
       "pcode": "7020", 
       "source": "7713837", 
@@ -1381,6 +1647,9 @@
       "street": "Rue des Viaducs"
     }, 
     {
+      "busnrs": [
+        "1-1"
+      ], 
       "hnrlbls": [
         "209"
       ], 
@@ -1441,6 +1710,10 @@
       "street": "Rue des Viaducs"
     }, 
     {
+      "busnrs": [
+        "1-1", 
+        "2-1"
+      ], 
       "hnrlbls": [
         "212A"
       ], 
@@ -1489,6 +1762,9 @@
       "street": "Rue des Viaducs"
     }, 
     {
+      "busnrs": [
+        "1-1"
+      ], 
       "hnrlbls": [
         "215"
       ], 
@@ -1513,6 +1789,10 @@
       "street": "Rue des Viaducs"
     }, 
     {
+      "busnrs": [
+        "1-1", 
+        "2-1"
+      ], 
       "hnrlbls": [
         "217"
       ], 
@@ -1537,6 +1817,10 @@
       "street": "Rue des Viaducs"
     }, 
     {
+      "busnrs": [
+        "1-1", 
+        "2-1"
+      ], 
       "hnrlbls": [
         "219"
       ], 
@@ -1633,6 +1917,11 @@
       "street": "Rue des Viaducs"
     }, 
     {
+      "busnrs": [
+        "1-1", 
+        "1-2", 
+        "2-1"
+      ], 
       "hnrlbls": [
         "227"
       ], 
@@ -1681,6 +1970,9 @@
       "street": "Rue des Viaducs"
     }, 
     {
+      "busnrs": [
+        "1-1"
+      ], 
       "hnrlbls": [
         "232"
       ], 
@@ -1717,6 +2009,16 @@
       "street": "Rue des Viaducs"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "0-3", 
+        "0004", 
+        "1-1", 
+        "1-2", 
+        "1-4", 
+        "2-1"
+      ], 
       "hnrlbls": [
         "237"
       ], 
@@ -1729,6 +2031,11 @@
       "street": "Rue des Viaducs"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B", 
+        "C"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -1769,8 +2076,20 @@
         "245"
       ], 
       "housenumber": "245", 
-      "lat": 50.479762972425, 
-      "lon": 3.949530563992, 
+      "lat": 50.479771363863, 
+      "lon": 3.949482772656, 
+      "municipality": "Mons", 
+      "pcode": "7020", 
+      "source": "7713837", 
+      "street": "Rue des Viaducs"
+    }, 
+    {
+      "hnrlbls": [
+        "245B"
+      ], 
+      "housenumber": "245B", 
+      "lat": 50.479734435607, 
+      "lon": 3.949526194703, 
       "municipality": "Mons", 
       "pcode": "7020", 
       "source": "7713837", 
@@ -1945,12 +2264,30 @@
       "street": "Rue des Viaducs"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "1-2", 
+        "1-3"
+      ], 
       "hnrlbls": [
         "259"
       ], 
       "housenumber": "259", 
-      "lat": 50.480329234988, 
-      "lon": 3.949493930125, 
+      "lat": 50.4803217607, 
+      "lon": 3.949400052739, 
+      "municipality": "Mons", 
+      "pcode": "7020", 
+      "source": "7713837", 
+      "street": "Rue des Viaducs"
+    }, 
+    {
+      "hnrlbls": [
+        "259A"
+      ], 
+      "housenumber": "259A", 
+      "lat": 50.480343633415, 
+      "lon": 3.949529013223, 
       "municipality": "Mons", 
       "pcode": "7020", 
       "source": "7713837", 
@@ -2029,6 +2366,12 @@
       "street": "Rue des Viaducs"
     }, 
     {
+      "busnrs": [
+        "02", 
+        "1-1", 
+        "1-2", 
+        "2-1"
+      ], 
       "hnrlbls": [
         "267"
       ], 
@@ -2081,8 +2424,8 @@
         "270"
       ], 
       "housenumber": "270", 
-      "lat": 50.478920698062, 
-      "lon": 3.949320394651, 
+      "lat": 50.478904164198, 
+      "lon": 3.94935297301, 
       "municipality": "Mons", 
       "pcode": "7020", 
       "source": "7713837", 
@@ -2113,6 +2456,9 @@
       "street": "Rue des Viaducs"
     }, 
     {
+      "busnrs": [
+        "1-1"
+      ], 
       "hnrlbls": [
         "273"
       ], 
@@ -2173,6 +2519,34 @@
       "street": "Rue des Viaducs"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1"
+      ], 
+      "hnrlbls": [
+        "27B"
+      ], 
+      "housenumber": "27B", 
+      "lat": 50.472949303952, 
+      "lon": 3.956536038394, 
+      "municipality": "Mons", 
+      "pcode": "7020", 
+      "source": "7713837", 
+      "street": "Rue des Viaducs"
+    }, 
+    {
+      "hnrlbls": [
+        "28"
+      ], 
+      "housenumber": "28", 
+      "lat": 50.472310587723, 
+      "lon": 3.955931781544, 
+      "municipality": "Mons", 
+      "pcode": "7020", 
+      "source": "7713837", 
+      "street": "Rue des Viaducs"
+    }, 
+    {
       "hnrlbls": [
         "280"
       ], 
@@ -2203,6 +2577,18 @@
       "housenumber": "282", 
       "lat": 50.479141377917, 
       "lon": 3.949041178911, 
+      "municipality": "Mons", 
+      "pcode": "7020", 
+      "source": "7713837", 
+      "street": "Rue des Viaducs"
+    }, 
+    {
+      "hnrlbls": [
+        "283"
+      ], 
+      "housenumber": "283", 
+      "lat": 50.481675338134, 
+      "lon": 3.951731868352, 
       "municipality": "Mons", 
       "pcode": "7020", 
       "source": "7713837", 
@@ -2245,6 +2631,12 @@
       "street": "Rue des Viaducs"
     }, 
     {
+      "busnrs": [
+        "0-3", 
+        "04", 
+        "13", 
+        "2-1"
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -2257,6 +2649,9 @@
       "street": "Rue des Viaducs"
     }, 
     {
+      "busnrs": [
+        "1-1"
+      ], 
       "hnrlbls": [
         "290"
       ], 
@@ -2275,6 +2670,18 @@
       "housenumber": "292", 
       "lat": 50.479461334644, 
       "lon": 3.948853368158, 
+      "municipality": "Mons", 
+      "pcode": "7020", 
+      "source": "7713837", 
+      "street": "Rue des Viaducs"
+    }, 
+    {
+      "hnrlbls": [
+        "292A"
+      ], 
+      "housenumber": "292A", 
+      "lat": 50.479435095488, 
+      "lon": 3.948752364531, 
       "municipality": "Mons", 
       "pcode": "7020", 
       "source": "7713837", 
@@ -2330,9 +2737,33 @@
     }, 
     {
       "hnrlbls": [
+        "30"
+      ], 
+      "housenumber": "30", 
+      "lat": 50.472395548418, 
+      "lon": 3.95590961146, 
+      "municipality": "Mons", 
+      "pcode": "7020", 
+      "source": "7713837", 
+      "street": "Rue des Viaducs"
+    }, 
+    {
+      "hnrlbls": [
         "300"
       ], 
       "housenumber": "300", 
+      "lat": 50.480430679975, 
+      "lon": 3.949033594191, 
+      "municipality": "Mons", 
+      "pcode": "7020", 
+      "source": "7713837", 
+      "street": "Rue des Viaducs"
+    }, 
+    {
+      "hnrlbls": [
+        "302"
+      ], 
+      "housenumber": "302", 
       "lat": 50.480603410488, 
       "lon": 3.9490755477, 
       "municipality": "Mons", 
@@ -2413,6 +2844,11 @@
       "street": "Rue des Viaducs"
     }, 
     {
+      "busnrs": [
+        "1-1", 
+        "1-2", 
+        "1-3"
+      ], 
       "hnrlbls": [
         "314"
       ], 
@@ -2443,18 +2879,6 @@
       "housenumber": "318", 
       "lat": 50.48136322239, 
       "lon": 3.949422347716, 
-      "municipality": "Mons", 
-      "pcode": "7020", 
-      "source": "7713837", 
-      "street": "Rue des Viaducs"
-    }, 
-    {
-      "hnrlbls": [
-        "32"
-      ], 
-      "housenumber": "32", 
-      "lat": 50.472555303618, 
-      "lon": 3.956262642073, 
       "municipality": "Mons", 
       "pcode": "7020", 
       "source": "7713837", 
@@ -2599,6 +3023,18 @@
       "housenumber": "35", 
       "lat": 50.473176844329, 
       "lon": 3.956714721879, 
+      "municipality": "Mons", 
+      "pcode": "7020", 
+      "source": "7713837", 
+      "street": "Rue des Viaducs"
+    }, 
+    {
+      "hnrlbls": [
+        "350"
+      ], 
+      "housenumber": "350", 
+      "lat": 50.482464003562, 
+      "lon": 3.951252782836, 
       "municipality": "Mons", 
       "pcode": "7020", 
       "source": "7713837", 
@@ -2765,8 +3201,8 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 50.472555303618, 
-      "lon": 3.956262642073, 
+      "lat": 50.472559581469, 
+      "lon": 3.956295218721, 
       "municipality": "Mons", 
       "pcode": "7020", 
       "source": "7713837", 
@@ -2821,6 +3257,11 @@
       "street": "Rue des Viaducs"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "2-1"
+      ], 
       "hnrlbls": [
         "42"
       ], 
@@ -2869,6 +3310,10 @@
       "street": "Rue des Viaducs"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1"
+      ], 
       "hnrlbls": [
         "46"
       ], 
@@ -2893,6 +3338,14 @@
       "street": "Rue des Viaducs"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "1-2", 
+        "1-3", 
+        "1-4", 
+        "1-5"
+      ], 
       "hnrlbls": [
         "48"
       ], 
@@ -2905,6 +3358,11 @@
       "street": "Rue des Viaducs"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "2-1"
+      ], 
       "hnrlbls": [
         "49"
       ], 
@@ -2933,8 +3391,35 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 50.473095821603, 
-      "lon": 3.956137523888, 
+      "lat": 50.47312247257, 
+      "lon": 3.956140274551, 
+      "municipality": "Mons", 
+      "pcode": "7020", 
+      "source": "7713837", 
+      "street": "Rue des Viaducs"
+    }, 
+    {
+      "hnrlbls": [
+        "50A"
+      ], 
+      "housenumber": "50A", 
+      "lat": 50.473015271719, 
+      "lon": 3.955897498507, 
+      "municipality": "Mons", 
+      "pcode": "7020", 
+      "source": "7713837", 
+      "street": "Rue des Viaducs"
+    }, 
+    {
+      "busnrs": [
+        "0-1"
+      ], 
+      "hnrlbls": [
+        "50B"
+      ], 
+      "housenumber": "50B", 
+      "lat": 50.473064769994, 
+      "lon": 3.956172146406, 
       "municipality": "Mons", 
       "pcode": "7020", 
       "source": "7713837", 
@@ -2965,6 +3450,14 @@
       "street": "Rue des Viaducs"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "0-3", 
+        "1-1", 
+        "1-2", 
+        "2-1"
+      ], 
       "hnrlbls": [
         "53"
       ], 
@@ -3001,6 +3494,11 @@
       "street": "Rue des Viaducs"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "2-1"
+      ], 
       "hnrlbls": [
         "56"
       ], 
@@ -3013,6 +3511,9 @@
       "street": "Rue des Viaducs"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "57"
       ], 
@@ -3055,6 +3556,18 @@
       "housenumber": "6", 
       "lat": 50.472084111363, 
       "lon": 3.956355007911, 
+      "municipality": "Mons", 
+      "pcode": "7020", 
+      "source": "7713837", 
+      "street": "Rue des Viaducs"
+    }, 
+    {
+      "hnrlbls": [
+        "60"
+      ], 
+      "housenumber": "60", 
+      "lat": 50.47345720369, 
+      "lon": 3.955888436342, 
       "municipality": "Mons", 
       "pcode": "7020", 
       "source": "7713837", 
@@ -3157,6 +3670,12 @@
       "street": "Rue des Viaducs"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "1-1", 
+        "2-1"
+      ], 
       "hnrlbls": [
         "70"
       ], 
@@ -3193,6 +3712,10 @@
       "street": "Rue des Viaducs"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "0-2"
+      ], 
       "hnrlbls": [
         "73"
       ], 
@@ -3209,8 +3732,20 @@
         "74"
       ], 
       "housenumber": "74", 
-      "lat": 50.47368565818, 
-      "lon": 3.956059928747, 
+      "lat": 50.473668598003, 
+      "lon": 3.956078713791, 
+      "municipality": "Mons", 
+      "pcode": "7020", 
+      "source": "7713837", 
+      "street": "Rue des Viaducs"
+    }, 
+    {
+      "hnrlbls": [
+        "74B"
+      ], 
+      "housenumber": "74B", 
+      "lat": 50.473704769101, 
+      "lon": 3.956073398138, 
       "municipality": "Mons", 
       "pcode": "7020", 
       "source": "7713837", 
@@ -3241,6 +3776,11 @@
       "street": "Rue des Viaducs"
     }, 
     {
+      "busnrs": [
+        "1-1", 
+        "1-2", 
+        "1-3"
+      ], 
       "hnrlbls": [
         "77"
       ], 
@@ -3277,6 +3817,11 @@
       "street": "Rue des Viaducs"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "2-1"
+      ], 
       "hnrlbls": [
         "8"
       ], 
@@ -3305,8 +3850,20 @@
         "81"
       ], 
       "housenumber": "81", 
-      "lat": 50.474498165679, 
-      "lon": 3.956151606783, 
+      "lat": 50.474477396121, 
+      "lon": 3.956130541213, 
+      "municipality": "Mons", 
+      "pcode": "7020", 
+      "source": "7713837", 
+      "street": "Rue des Viaducs"
+    }, 
+    {
+      "hnrlbls": [
+        "81B"
+      ], 
+      "housenumber": "81B", 
+      "lat": 50.474511335537, 
+      "lon": 3.956111438654, 
       "municipality": "Mons", 
       "pcode": "7020", 
       "source": "7713837", 
@@ -3337,6 +3894,10 @@
       "street": "Rue des Viaducs"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1"
+      ], 
       "hnrlbls": [
         "84"
       ], 
@@ -3397,6 +3958,10 @@
       "street": "Rue des Viaducs"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1"
+      ], 
       "hnrlbls": [
         "89"
       ], 
@@ -3422,11 +3987,35 @@
     }, 
     {
       "hnrlbls": [
+        "90"
+      ], 
+      "housenumber": "90", 
+      "lat": 50.474326639629, 
+      "lon": 3.955476863014, 
+      "municipality": "Mons", 
+      "pcode": "7020", 
+      "source": "7713837", 
+      "street": "Rue des Viaducs"
+    }, 
+    {
+      "hnrlbls": [
         "91"
       ], 
       "housenumber": "91", 
       "lat": 50.474811180053, 
       "lon": 3.956010822234, 
+      "municipality": "Mons", 
+      "pcode": "7020", 
+      "source": "7713837", 
+      "street": "Rue des Viaducs"
+    }, 
+    {
+      "hnrlbls": [
+        "92"
+      ], 
+      "housenumber": "92", 
+      "lat": 50.474333388333, 
+      "lon": 3.95533404245, 
       "municipality": "Mons", 
       "pcode": "7020", 
       "source": "7713837", 
@@ -3457,6 +4046,11 @@
       "street": "Rue des Viaducs"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "2-1"
+      ], 
       "hnrlbls": [
         "95"
       ], 

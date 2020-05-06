@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -13,6 +18,19 @@
       "street": "Rue Armand-Stouls"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0031", 
+        "0032", 
+        "0033"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -37,6 +55,21 @@
       "street": "Rue Armand-Stouls"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024", 
+        "0031", 
+        "0032", 
+        "0033", 
+        "0034"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -49,12 +82,94 @@
       "street": "Rue Armand-Stouls"
     }, 
     {
+      "busnrs": [
+        "A001", 
+        "A012", 
+        "A021"
+      ], 
+      "hnrlbls": [
+        "18"
+      ], 
+      "housenumber": "18", 
+      "lat": 50.633130538081, 
+      "lon": 5.57920340174, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730178", 
+      "street": "Rue Armand-Stouls"
+    }, 
+    {
+      "hnrlbls": [
+        "18A"
+      ], 
+      "housenumber": "18A", 
+      "lat": 50.63322838827, 
+      "lon": 5.579218210696, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730178", 
+      "street": "Rue Armand-Stouls"
+    }, 
+    {
+      "hnrlbls": [
+        "18B"
+      ], 
+      "housenumber": "18B", 
+      "lat": 50.633192350573, 
+      "lon": 5.57921657951, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730178", 
+      "street": "Rue Armand-Stouls"
+    }, 
+    {
+      "hnrlbls": [
+        "18C"
+      ], 
+      "housenumber": "18C", 
+      "lat": 50.633309023979, 
+      "lon": 5.579228337055, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730178", 
+      "street": "Rue Armand-Stouls"
+    }, 
+    {
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.632999276242, 
+      "lon": 5.580155410699, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730178", 
+      "street": "Rue Armand-Stouls"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "20"
       ], 
       "housenumber": "20", 
       "lat": 50.632987767969, 
       "lon": 5.57909065914, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730178", 
+      "street": "Rue Armand-Stouls"
+    }, 
+    {
+      "hnrlbls": [
+        "21"
+      ], 
+      "housenumber": "21", 
+      "lat": 50.63269349729, 
+      "lon": 5.579513381876, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730178", 
@@ -73,6 +188,10 @@
       "street": "Rue Armand-Stouls"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -109,6 +228,12 @@
       "street": "Rue Armand-Stouls"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "36"
       ], 
@@ -121,12 +246,30 @@
       "street": "Rue Armand-Stouls"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "38"
       ], 
       "housenumber": "38", 
       "lat": 50.632996280727, 
       "lon": 5.578346114417, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730178", 
+      "street": "Rue Armand-Stouls"
+    }, 
+    {
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.632977079885, 
+      "lon": 5.579955085798, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730178", 
@@ -145,6 +288,24 @@
       "street": "Rue Armand-Stouls"
     }, 
     {
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.633005375396, 
+      "lon": 5.579637164897, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730178", 
+      "street": "Rue Armand-Stouls"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "8"
       ], 

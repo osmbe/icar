@@ -133,6 +133,10 @@
       "street": "Boulevard de la Batterie"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "Bt02"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -253,6 +257,10 @@
       "street": "Boulevard de la Batterie"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "Bt02"
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -349,6 +357,23 @@
       "street": "Boulevard de la Batterie"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03"
+      ], 
+      "hnrlbls": [
+        "37"
+      ], 
+      "housenumber": "37", 
+      "lat": 50.595659294529, 
+      "lon": 4.319069180109, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7702858", 
+      "street": "Boulevard de la Batterie"
+    }, 
+    {
       "hnrlbls": [
         "38"
       ], 
@@ -365,8 +390,8 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 50.595658624233, 
-      "lon": 4.319089308794, 
+      "lat": 50.595609624549, 
+      "lon": 4.319088612417, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702858", 
@@ -565,6 +590,12 @@
       "street": "Boulevard de la Batterie"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt06", 
+        "St03"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -673,6 +704,13 @@
       "street": "Boulevard de la Batterie"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt04", 
+        "Bt05"
+      ], 
       "hnrlbls": [
         "75"
       ], 

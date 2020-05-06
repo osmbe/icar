@@ -13,6 +13,9 @@
       "street": "Rue du Rauysse"
     }, 
     {
+      "busnrs": [
+        "Bte2"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -37,6 +40,9 @@
       "street": "Rue du Rauysse"
     }, 
     {
+      "busnrs": [
+        "Bte1"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -85,6 +91,10 @@
       "street": "Rue du Rauysse"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t", 
+        "RdCh"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -145,6 +155,9 @@
       "street": "Rue du Rauysse"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -205,6 +218,10 @@
       "street": "Rue du Rauysse"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "Bte 2"
+      ], 
       "hnrlbls": [
         "39"
       ], 
@@ -221,8 +238,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.325027513089, 
-      "lon": 4.878491470572, 
+      "lat": 50.325087264144, 
+      "lon": 4.87865751919, 
       "municipality": "Yvoir", 
       "pcode": "5530", 
       "source": "7750975", 
@@ -283,6 +300,18 @@
       "housenumber": "47", 
       "lat": 50.322316190852, 
       "lon": 4.878461127826, 
+      "municipality": "Yvoir", 
+      "pcode": "5530", 
+      "source": "7750975", 
+      "street": "Rue du Rauysse"
+    }, 
+    {
+      "hnrlbls": [
+        "47A"
+      ], 
+      "housenumber": "47A", 
+      "lat": 50.3221892392, 
+      "lon": 4.878457854933, 
       "municipality": "Yvoir", 
       "pcode": "5530", 
       "source": "7750975", 

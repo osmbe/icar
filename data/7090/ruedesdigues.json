@@ -73,6 +73,18 @@
       "street": "Rue des Digues"
     }, 
     {
+      "busnrs": [
+        "Bt.2", 
+        "Bt.3", 
+        "Bt.7", 
+        "Bt.8", 
+        "Bt10", 
+        "Bt11", 
+        "Bt12", 
+        "E1B4", 
+        "E1B5", 
+        "E2B9"
+      ], 
       "hnrlbls": [
         "107"
       ], 
@@ -109,6 +121,11 @@
       "street": "Rue des Digues"
     }, 
     {
+      "busnrs": [
+        "Et.1", 
+        "Et.2", 
+        "R.C."
+      ], 
       "hnrlbls": [
         "110"
       ], 
@@ -121,6 +138,10 @@
       "street": "Rue des Digues"
     }, 
     {
+      "busnrs": [
+        "BTB2", 
+        "Et.1"
+      ], 
       "hnrlbls": [
         "112"
       ], 
@@ -133,6 +154,10 @@
       "street": "Rue des Digues"
     }, 
     {
+      "busnrs": [
+        "Et.1", 
+        "Et.2"
+      ], 
       "hnrlbls": [
         "114"
       ], 
@@ -145,6 +170,12 @@
       "street": "Rue des Digues"
     }, 
     {
+      "busnrs": [
+        "Et1A", 
+        "Et1D", 
+        "Et2D", 
+        "Et2G"
+      ], 
       "hnrlbls": [
         "116"
       ], 
@@ -169,6 +200,9 @@
       "street": "Rue des Digues"
     }, 
     {
+      "busnrs": [
+        "R.C."
+      ], 
       "hnrlbls": [
         "118"
       ], 
@@ -367,30 +401,6 @@
       "housenumber": "43", 
       "lat": 50.611713373152, 
       "lon": 4.140799740005, 
-      "municipality": "Braine-le-Comte", 
-      "pcode": "7090", 
-      "source": "7716604", 
-      "street": "Rue des Digues"
-    }, 
-    {
-      "hnrlbls": [
-        "45"
-      ], 
-      "housenumber": "45", 
-      "lat": 50.612909817479, 
-      "lon": 4.141429272851, 
-      "municipality": "Braine-le-Comte", 
-      "pcode": "7090", 
-      "source": "7716604", 
-      "street": "Rue des Digues"
-    }, 
-    {
-      "hnrlbls": [
-        "47"
-      ], 
-      "housenumber": "47", 
-      "lat": 50.612954155218, 
-      "lon": 4.14121579481, 
       "municipality": "Braine-le-Comte", 
       "pcode": "7090", 
       "source": "7716604", 
@@ -733,6 +743,9 @@
       "street": "Rue des Digues"
     }, 
     {
+      "busnrs": [
+        "Et.1"
+      ], 
       "hnrlbls": [
         "99"
       ], 

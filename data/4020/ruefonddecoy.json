@@ -121,6 +121,12 @@
       "street": "Rue Fond-de-Coy"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -367,6 +373,18 @@
       "housenumber": "55", 
       "lat": 50.645257611986, 
       "lon": 5.647683637362, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730951", 
+      "street": "Rue Fond-de-Coy"
+    }, 
+    {
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.6436707902, 
+      "lon": 5.648810614484, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730951", 

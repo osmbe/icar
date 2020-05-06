@@ -1,6 +1,19 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -37,6 +50,25 @@
       "street": "Rue du Pont-de-Wandre"
     }, 
     {
+      "busnrs": [
+        "0011"
+      ], 
+      "hnrlbls": [
+        "102"
+      ], 
+      "housenumber": "102", 
+      "lat": 50.670837055806, 
+      "lon": 5.65722826117, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730862", 
+      "street": "Rue du Pont-de-Wandre"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "103"
       ], 
@@ -53,8 +85,20 @@
         "104"
       ], 
       "housenumber": "104", 
-      "lat": 50.671038034351, 
-      "lon": 5.656893606067, 
+      "lat": 50.670913766444, 
+      "lon": 5.657107915486, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730862", 
+      "street": "Rue du Pont-de-Wandre"
+    }, 
+    {
+      "hnrlbls": [
+        "104B"
+      ], 
+      "housenumber": "104B", 
+      "lat": 50.671024316826, 
+      "lon": 5.656929182941, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730862", 
@@ -97,6 +141,11 @@
       "street": "Rue du Pont-de-Wandre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -253,6 +302,12 @@
       "street": "Rue du Pont-de-Wandre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "122"
       ], 
@@ -302,6 +357,18 @@
     }, 
     {
       "hnrlbls": [
+        "126"
+      ], 
+      "housenumber": "126", 
+      "lat": 50.671569467371, 
+      "lon": 5.655688797164, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730862", 
+      "street": "Rue du Pont-de-Wandre"
+    }, 
+    {
+      "hnrlbls": [
         "127"
       ], 
       "housenumber": "127", 
@@ -337,6 +404,10 @@
       "street": "Rue du Pont-de-Wandre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -362,11 +433,35 @@
     }, 
     {
       "hnrlbls": [
+        "131"
+      ], 
+      "housenumber": "131", 
+      "lat": 50.671260499509, 
+      "lon": 5.655340514155, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730862", 
+      "street": "Rue du Pont-de-Wandre"
+    }, 
+    {
+      "hnrlbls": [
         "132"
       ], 
       "housenumber": "132", 
       "lat": 50.671556425328, 
       "lon": 5.65548851934, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730862", 
+      "street": "Rue du Pont-de-Wandre"
+    }, 
+    {
+      "hnrlbls": [
+        "133"
+      ], 
+      "housenumber": "133", 
+      "lat": 50.671232155355, 
+      "lon": 5.655301680937, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730862", 
@@ -529,6 +624,11 @@
       "street": "Rue du Pont-de-Wandre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "148"
       ], 
@@ -541,6 +641,11 @@
       "street": "Rue du Pont-de-Wandre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -553,6 +658,13 @@
       "street": "Rue du Pont-de-Wandre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0013"
+      ], 
       "hnrlbls": [
         "150"
       ], 
@@ -602,6 +714,18 @@
     }, 
     {
       "hnrlbls": [
+        "155"
+      ], 
+      "housenumber": "155", 
+      "lat": 50.671395425181, 
+      "lon": 5.655196624457, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730862", 
+      "street": "Rue du Pont-de-Wandre"
+    }, 
+    {
+      "hnrlbls": [
         "157"
       ], 
       "housenumber": "157", 
@@ -613,6 +737,10 @@
       "street": "Rue du Pont-de-Wandre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "159"
       ], 
@@ -661,6 +789,11 @@
       "street": "Rue du Pont-de-Wandre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "165"
       ], 
@@ -721,18 +854,27 @@
       "street": "Rue du Pont-de-Wandre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011"
+      ], 
       "hnrlbls": [
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 50.669603158326, 
-      "lon": 5.659854914376, 
+      "lat": 50.669529143271, 
+      "lon": 5.659799521101, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730862", 
       "street": "Rue du Pont-de-Wandre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "171"
       ], 
@@ -902,6 +1044,18 @@
     }, 
     {
       "hnrlbls": [
+        "189"
+      ], 
+      "housenumber": "189", 
+      "lat": 50.671707375586, 
+      "lon": 5.652117061744, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730862", 
+      "street": "Rue du Pont-de-Wandre"
+    }, 
+    {
+      "hnrlbls": [
         "19"
       ], 
       "housenumber": "19", 
@@ -913,6 +1067,12 @@
       "street": "Rue du Pont-de-Wandre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012"
+      ], 
       "hnrlbls": [
         "190"
       ], 
@@ -937,6 +1097,11 @@
       "street": "Rue du Pont-de-Wandre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "194"
       ], 
@@ -949,6 +1114,10 @@
       "street": "Rue du Pont-de-Wandre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "195"
       ], 
@@ -1009,6 +1178,24 @@
       "street": "Rue du Pont-de-Wandre"
     }, 
     {
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.669550368401, 
+      "lon": 5.660498965057, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730862", 
+      "street": "Rue du Pont-de-Wandre"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -1111,6 +1298,18 @@
       "housenumber": "208", 
       "lat": 50.672013843559, 
       "lon": 5.651028425903, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730862", 
+      "street": "Rue du Pont-de-Wandre"
+    }, 
+    {
+      "hnrlbls": [
+        "21"
+      ], 
+      "housenumber": "21", 
+      "lat": 50.669655367178, 
+      "lon": 5.659673068027, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730862", 
@@ -1297,6 +1496,11 @@
       "street": "Rue du Pont-de-Wandre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "227"
       ], 
@@ -1322,11 +1526,35 @@
     }, 
     {
       "hnrlbls": [
+        "228B"
+      ], 
+      "housenumber": "228B", 
+      "lat": 50.672092427351, 
+      "lon": 5.649749634851, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730862", 
+      "street": "Rue du Pont-de-Wandre"
+    }, 
+    {
+      "hnrlbls": [
         "229"
       ], 
       "housenumber": "229", 
       "lat": 50.67178670354, 
       "lon": 5.649917142736, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730862", 
+      "street": "Rue du Pont-de-Wandre"
+    }, 
+    {
+      "hnrlbls": [
+        "23"
+      ], 
+      "housenumber": "23", 
+      "lat": 50.669683970324, 
+      "lon": 5.659620031254, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730862", 
@@ -1357,6 +1585,12 @@
       "street": "Rue du Pont-de-Wandre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012"
+      ], 
       "hnrlbls": [
         "234"
       ], 
@@ -1381,6 +1615,10 @@
       "street": "Rue du Pont-de-Wandre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "236"
       ], 
@@ -1417,6 +1655,12 @@
       "street": "Rue du Pont-de-Wandre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -1477,6 +1721,11 @@
       "street": "Rue du Pont-de-Wandre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -1501,6 +1750,14 @@
       "street": "Rue du Pont-de-Wandre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "253"
       ], 
@@ -1513,12 +1770,28 @@
       "street": "Rue du Pont-de-Wandre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "255"
       ], 
       "housenumber": "255", 
       "lat": 50.671581870331, 
       "lon": 5.64895093471, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730862", 
+      "street": "Rue du Pont-de-Wandre"
+    }, 
+    {
+      "hnrlbls": [
+        "257"
+      ], 
+      "housenumber": "257", 
+      "lat": 50.671703995721, 
+      "lon": 5.649012684683, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730862", 
@@ -1537,6 +1810,15 @@
       "street": "Rue du Pont-de-Wandre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024"
+      ], 
       "hnrlbls": [
         "261"
       ], 
@@ -1549,6 +1831,11 @@
       "street": "Rue du Pont-de-Wandre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -1579,6 +1866,18 @@
       "housenumber": "29", 
       "lat": 50.669627238371, 
       "lon": 5.659519723946, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730862", 
+      "street": "Rue du Pont-de-Wandre"
+    }, 
+    {
+      "hnrlbls": [
+        "2B"
+      ], 
+      "housenumber": "2B", 
+      "lat": 50.669551024462, 
+      "lon": 5.660508745264, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730862", 
@@ -1621,12 +1920,31 @@
       "street": "Rue du Pont-de-Wandre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "A011"
+      ], 
       "hnrlbls": [
         "32"
       ], 
       "housenumber": "32", 
       "lat": 50.669861488358, 
       "lon": 5.659581497861, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730862", 
+      "street": "Rue du Pont-de-Wandre"
+    }, 
+    {
+      "hnrlbls": [
+        "32A"
+      ], 
+      "housenumber": "32A", 
+      "lat": 50.669900212605, 
+      "lon": 5.659470984596, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730862", 
@@ -1765,6 +2083,11 @@
       "street": "Rue du Pont-de-Wandre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "45"
       ], 
@@ -1777,6 +2100,11 @@
       "street": "Rue du Pont-de-Wandre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011"
+      ], 
       "hnrlbls": [
         "46"
       ], 
@@ -1789,6 +2117,11 @@
       "street": "Rue du Pont-de-Wandre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "47"
       ], 
@@ -1813,6 +2146,12 @@
       "street": "Rue du Pont-de-Wandre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "49"
       ], 
@@ -1825,6 +2164,10 @@
       "street": "Rue du Pont-de-Wandre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -1837,6 +2180,10 @@
       "street": "Rue du Pont-de-Wandre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "50"
       ], 
@@ -1850,6 +2197,25 @@
     }, 
     {
       "hnrlbls": [
+        "50A"
+      ], 
+      "housenumber": "50A", 
+      "lat": 50.670120263371, 
+      "lon": 5.659373512452, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730862", 
+      "street": "Rue du Pont-de-Wandre"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
+      "hnrlbls": [
         "52"
       ], 
       "housenumber": "52", 
@@ -1861,6 +2227,12 @@
       "street": "Rue du Pont-de-Wandre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021"
+      ], 
       "hnrlbls": [
         "54"
       ], 
@@ -1898,6 +2270,18 @@
     }, 
     {
       "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.669609699362, 
+      "lon": 5.660465050015, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730862", 
+      "street": "Rue du Pont-de-Wandre"
+    }, 
+    {
+      "hnrlbls": [
         "62"
       ], 
       "housenumber": "62", 
@@ -1922,6 +2306,18 @@
     }, 
     {
       "hnrlbls": [
+        "67"
+      ], 
+      "housenumber": "67", 
+      "lat": 50.670259780886, 
+      "lon": 5.658098996855, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730862", 
+      "street": "Rue du Pont-de-Wandre"
+    }, 
+    {
+      "hnrlbls": [
         "68"
       ], 
       "housenumber": "68", 
@@ -1933,6 +2329,16 @@
       "street": "Rue du Pont-de-Wandre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0031", 
+        "0032", 
+        "0033"
+      ], 
       "hnrlbls": [
         "69"
       ], 
@@ -1957,6 +2363,12 @@
       "street": "Rue du Pont-de-Wandre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "70"
       ], 
@@ -1969,6 +2381,13 @@
       "street": "Rue du Pont-de-Wandre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021"
+      ], 
       "hnrlbls": [
         "71"
       ], 
@@ -1981,6 +2400,11 @@
       "street": "Rue du Pont-de-Wandre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "72"
       ], 
@@ -2017,12 +2441,34 @@
       "street": "Rue du Pont-de-Wandre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "75"
       ], 
       "housenumber": "75", 
       "lat": 50.670431216427, 
       "lon": 5.657727718131, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730862", 
+      "street": "Rue du Pont-de-Wandre"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0012"
+      ], 
+      "hnrlbls": [
+        "76"
+      ], 
+      "housenumber": "76", 
+      "lat": 50.670387528326, 
+      "lon": 5.658332712647, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730862", 
@@ -2041,6 +2487,24 @@
       "street": "Rue du Pont-de-Wandre"
     }, 
     {
+      "hnrlbls": [
+        "78"
+      ], 
+      "housenumber": "78", 
+      "lat": 50.6705062564, 
+      "lon": 5.658369491294, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730862", 
+      "street": "Rue du Pont-de-Wandre"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "79"
       ], 
@@ -2065,6 +2529,10 @@
       "street": "Rue du Pont-de-Wandre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "80"
       ], 
@@ -2077,12 +2545,32 @@
       "street": "Rue du Pont-de-Wandre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "81"
       ], 
       "housenumber": "81", 
       "lat": 50.670552844961, 
       "lon": 5.657477304247, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730862", 
+      "street": "Rue du Pont-de-Wandre"
+    }, 
+    {
+      "hnrlbls": [
+        "82"
+      ], 
+      "housenumber": "82", 
+      "lat": 50.670431440467, 
+      "lon": 5.658191155889, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730862", 
@@ -2149,6 +2637,11 @@
       "street": "Rue du Pont-de-Wandre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "9"
       ], 
@@ -2161,6 +2654,11 @@
       "street": "Rue du Pont-de-Wandre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "90"
       ], 
@@ -2209,6 +2707,11 @@
       "street": "Rue du Pont-de-Wandre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "95"
       ], 
@@ -2221,6 +2724,12 @@
       "street": "Rue du Pont-de-Wandre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012"
+      ], 
       "hnrlbls": [
         "96"
       ], 

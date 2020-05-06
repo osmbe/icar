@@ -49,6 +49,12 @@
       "street": "Chemin de Champlon"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -85,12 +91,27 @@
       "street": "Chemin de Champlon"
     }, 
     {
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 50.222446879186, 
-      "lon": 5.347030512438, 
+      "lat": 50.222436730454, 
+      "lon": 5.34700694315, 
+      "municipality": "Marche-en-Famenne", 
+      "pcode": "6900", 
+      "source": "7743923", 
+      "street": "Chemin de Champlon"
+    }, 
+    {
+      "hnrlbls": [
+        "17A"
+      ], 
+      "housenumber": "17A", 
+      "lat": 50.222453625119, 
+      "lon": 5.347042978207, 
       "municipality": "Marche-en-Famenne", 
       "pcode": "6900", 
       "source": "7743923", 
@@ -209,8 +230,32 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 50.222951181699, 
-      "lon": 5.348231166506, 
+      "lat": 50.222986325418, 
+      "lon": 5.348210754176, 
+      "municipality": "Marche-en-Famenne", 
+      "pcode": "6900", 
+      "source": "7743923", 
+      "street": "Chemin de Champlon"
+    }, 
+    {
+      "hnrlbls": [
+        "28A"
+      ], 
+      "housenumber": "28A", 
+      "lat": 50.222952834786, 
+      "lon": 5.348225164423, 
+      "municipality": "Marche-en-Famenne", 
+      "pcode": "6900", 
+      "source": "7743923", 
+      "street": "Chemin de Champlon"
+    }, 
+    {
+      "hnrlbls": [
+        "28B"
+      ], 
+      "housenumber": "28B", 
+      "lat": 50.222916302059, 
+      "lon": 5.348241099908, 
       "municipality": "Marche-en-Famenne", 
       "pcode": "6900", 
       "source": "7743923", 

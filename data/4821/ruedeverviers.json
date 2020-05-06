@@ -1,6 +1,14 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -133,6 +141,12 @@
       "street": "Rue de Verviers"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "127"
       ], 
@@ -193,6 +207,11 @@
       "street": "Rue de Verviers"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "135"
       ], 
@@ -205,6 +224,11 @@
       "street": "Rue de Verviers"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "139"
       ], 
@@ -313,6 +337,9 @@
       "street": "Rue de Verviers"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "159"
       ], 
@@ -325,6 +352,11 @@
       "street": "Rue de Verviers"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -433,6 +465,11 @@
       "street": "Rue de Verviers"
     }, 
     {
+      "busnrs": [
+        "1ETA", 
+        "2ETA", 
+        "3ETA"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -517,6 +554,12 @@
       "street": "Rue de Verviers"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -553,6 +596,9 @@
       "street": "Rue de Verviers"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -565,6 +611,9 @@
       "street": "Rue de Verviers"
     }, 
     {
+      "busnrs": [
+        "REZ"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -605,8 +654,8 @@
         "205"
       ], 
       "housenumber": "205", 
-      "lat": 50.604123473952, 
-      "lon": 5.868696607633, 
+      "lat": 50.604451298609, 
+      "lon": 5.868118472956, 
       "municipality": "Dison", 
       "pcode": "4821", 
       "source": "7735647", 
@@ -625,6 +674,9 @@
       "street": "Rue de Verviers"
     }, 
     {
+      "busnrs": [
+        "REZ"
+      ], 
       "hnrlbls": [
         "208"
       ], 
@@ -649,6 +701,9 @@
       "street": "Rue de Verviers"
     }, 
     {
+      "busnrs": [
+        "1ETA"
+      ], 
       "hnrlbls": [
         "212"
       ], 
@@ -721,6 +776,11 @@
       "street": "Rue de Verviers"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0301"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -793,6 +853,9 @@
       "street": "Rue de Verviers"
     }, 
     {
+      "busnrs": [
+        "REZ"
+      ], 
       "hnrlbls": [
         "230"
       ], 
@@ -817,6 +880,9 @@
       "street": "Rue de Verviers"
     }, 
     {
+      "busnrs": [
+        "REZ"
+      ], 
       "hnrlbls": [
         "232"
       ], 
@@ -925,6 +991,12 @@
       "street": "Rue de Verviers"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -937,6 +1009,10 @@
       "street": "Rue de Verviers"
     }, 
     {
+      "busnrs": [
+        "A/0001", 
+        "B/0101"
+      ], 
       "hnrlbls": [
         "250"
       ], 
@@ -985,12 +1061,16 @@
       "street": "Rue de Verviers"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 50.59881682094, 
-      "lon": 5.860779561975, 
+      "lat": 50.598871570431, 
+      "lon": 5.860349556801, 
       "municipality": "Dison", 
       "pcode": "4821", 
       "source": "7735647", 
@@ -1009,6 +1089,9 @@
       "street": "Rue de Verviers"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -1273,6 +1356,10 @@
       "street": "Rue de Verviers"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
       "hnrlbls": [
         "316"
       ], 
@@ -1285,12 +1372,43 @@
       "street": "Rue de Verviers"
     }, 
     {
+      "busnrs": [
+        "1ETA"
+      ], 
+      "hnrlbls": [
+        "32"
+      ], 
+      "housenumber": "32", 
+      "lat": 50.599555958223, 
+      "lon": 5.860909128357, 
+      "municipality": "Dison", 
+      "pcode": "4821", 
+      "source": "7735647", 
+      "street": "Rue de Verviers"
+    }, 
+    {
       "hnrlbls": [
         "320"
       ], 
       "housenumber": "320", 
       "lat": 50.603698833514, 
       "lon": 5.868833554182, 
+      "municipality": "Dison", 
+      "pcode": "4821", 
+      "source": "7735647", 
+      "street": "Rue de Verviers"
+    }, 
+    {
+      "busnrs": [
+        "1ETA", 
+        "1ETB"
+      ], 
+      "hnrlbls": [
+        "34"
+      ], 
+      "housenumber": "34", 
+      "lat": 50.599700611527, 
+      "lon": 5.860983225028, 
       "municipality": "Dison", 
       "pcode": "4821", 
       "source": "7735647", 
@@ -1345,6 +1463,9 @@
       "street": "Rue de Verviers"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "376"
       ], 
@@ -1369,6 +1490,11 @@
       "street": "Rue de Verviers"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "382"
       ], 
@@ -1393,6 +1519,11 @@
       "street": "Rue de Verviers"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -1405,24 +1536,15 @@
       "street": "Rue de Verviers"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "47"
       ], 
       "housenumber": "47", 
       "lat": 50.599576078594, 
       "lon": 5.860591713159, 
-      "municipality": "Dison", 
-      "pcode": "4821", 
-      "source": "7735647", 
-      "street": "Rue de Verviers"
-    }, 
-    {
-      "hnrlbls": [
-        "49"
-      ], 
-      "housenumber": "49", 
-      "lat": 50.599638422187, 
-      "lon": 5.860602017878, 
       "municipality": "Dison", 
       "pcode": "4821", 
       "source": "7735647", 
@@ -1441,6 +1563,11 @@
       "street": "Rue de Verviers"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "51"
       ], 
@@ -1453,6 +1580,11 @@
       "street": "Rue de Verviers"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "53"
       ], 
@@ -1465,6 +1597,11 @@
       "street": "Rue de Verviers"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "55"
       ], 
@@ -1501,6 +1638,10 @@
       "street": "Rue de Verviers"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -1609,6 +1750,9 @@
       "street": "Rue de Verviers"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "8"
       ], 
@@ -1693,6 +1837,10 @@
       "street": "Rue de Verviers"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "S101"
+      ], 
       "hnrlbls": [
         "89"
       ], 
@@ -1705,6 +1853,10 @@
       "street": "Rue de Verviers"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0201"
+      ], 
       "hnrlbls": [
         "9"
       ], 
@@ -1729,6 +1881,10 @@
       "street": "Rue de Verviers"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "99"
       ], 

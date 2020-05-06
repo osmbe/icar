@@ -505,6 +505,9 @@
       "street": "Sur les Thiers"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "163"
       ], 
@@ -601,6 +604,10 @@
       "street": "Sur les Thiers"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "186"
       ], 
@@ -1781,8 +1788,8 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 50.668063303478, 
-      "lon": 5.613854796862, 
+      "lat": 50.667993862251, 
+      "lon": 5.61385754725, 
       "municipality": "Herstal", 
       "pcode": "4040", 
       "source": "7729441", 
@@ -2065,6 +2072,9 @@
       "street": "Sur les Thiers"
     }, 
     {
+      "busnrs": [
+        "0002"
+      ], 
       "hnrlbls": [
         "395"
       ], 
@@ -2113,6 +2123,11 @@
       "street": "Sur les Thiers"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "A1", 
+        "AR"
+      ], 
       "hnrlbls": [
         "405"
       ], 
@@ -2273,8 +2288,8 @@
         "57"
       ], 
       "housenumber": "57", 
-      "lat": 50.668421838079, 
-      "lon": 5.61377700026, 
+      "lat": 50.668411269864, 
+      "lon": 5.613828770544, 
       "municipality": "Herstal", 
       "pcode": "4040", 
       "source": "7729441", 

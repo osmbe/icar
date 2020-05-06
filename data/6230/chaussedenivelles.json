@@ -181,6 +181,11 @@
       "street": "Chauss\u00e9e de Nivelles"
     }, 
     {
+      "busnrs": [
+        "A001", 
+        "A002", 
+        "A003"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -493,6 +498,12 @@
       "street": "Chauss\u00e9e de Nivelles"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "1001", 
+        "2001", 
+        "2002"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -637,6 +648,9 @@
       "street": "Chauss\u00e9e de Nivelles"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "612"
       ], 
@@ -1253,8 +1267,8 @@
         "68"
       ], 
       "housenumber": "68", 
-      "lat": 50.497279924522, 
-      "lon": 4.425355572219, 
+      "lat": 50.497276909166, 
+      "lon": 4.425271550809, 
       "municipality": "Pont-\u00e0-Celles", 
       "pcode": "6230", 
       "source": "7711000", 
@@ -1433,8 +1447,8 @@
         "70"
       ], 
       "housenumber": "70", 
-      "lat": 50.497560127859, 
-      "lon": 4.425290215945, 
+      "lat": 50.497580071284, 
+      "lon": 4.425393511655, 
       "municipality": "Pont-\u00e0-Celles", 
       "pcode": "6230", 
       "source": "7711000", 
@@ -1553,8 +1567,8 @@
         "72"
       ], 
       "housenumber": "72", 
-      "lat": 50.497677137687, 
-      "lon": 4.425340731757, 
+      "lat": 50.497719441163, 
+      "lon": 4.425258441636, 
       "municipality": "Pont-\u00e0-Celles", 
       "pcode": "6230", 
       "source": "7711000", 

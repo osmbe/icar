@@ -77,8 +77,8 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 50.438335402173, 
-      "lon": 5.473367145579, 
+      "lat": 50.4383304375, 
+      "lon": 5.473288804878, 
       "municipality": "Ouffet", 
       "pcode": "4590", 
       "source": "7726090", 
@@ -97,6 +97,9 @@
       "street": "Rue Doyard"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -109,6 +112,12 @@
       "street": "Rue Doyard"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -185,8 +194,20 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.43912777866, 
-      "lon": 5.472207991317, 
+      "lat": 50.439143263563, 
+      "lon": 5.472230702068, 
+      "municipality": "Ouffet", 
+      "pcode": "4590", 
+      "source": "7726090", 
+      "street": "Rue Doyard"
+    }, 
+    {
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.443250396557, 
+      "lon": 5.460593882995, 
       "municipality": "Ouffet", 
       "pcode": "4590", 
       "source": "7726090", 
@@ -197,8 +218,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.43912777866, 
-      "lon": 5.472207991317, 
+      "lat": 50.443346335098, 
+      "lon": 5.460051697987, 
       "municipality": "Ouffet", 
       "pcode": "4590", 
       "source": "7726090", 

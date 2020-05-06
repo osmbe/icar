@@ -1,6 +1,16 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0033"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -17,8 +27,8 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 50.569312101938, 
-      "lon": 5.584749302712, 
+      "lat": 50.569204024112, 
+      "lon": 5.584619518517, 
       "municipality": "Esneux", 
       "pcode": "4130", 
       "source": "7728631", 
@@ -29,8 +39,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.569248161607, 
-      "lon": 5.584712560319, 
+      "lat": 50.569157560941, 
+      "lon": 5.584560813881, 
       "municipality": "Esneux", 
       "pcode": "4130", 
       "source": "7728631", 
@@ -41,8 +51,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 50.569200608388, 
-      "lon": 5.584630540012, 
+      "lat": 50.569121392453, 
+      "lon": 5.584527646612, 
       "municipality": "Esneux", 
       "pcode": "4130", 
       "source": "7728631", 
@@ -53,26 +63,33 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 50.569116487346, 
-      "lon": 5.584561456971, 
+      "lat": 50.569091348951, 
+      "lon": 5.584462757405, 
       "municipality": "Esneux", 
       "pcode": "4130", 
       "source": "7728631", 
       "street": "Place du Roi Albert"
     }, 
     {
+      "busnrs": [
+        "0011"
+      ], 
       "hnrlbls": [
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.569069740763, 
-      "lon": 5.584448652624, 
+      "lat": 50.569042389396, 
+      "lon": 5.584390984894, 
       "municipality": "Esneux", 
       "pcode": "4130", 
       "source": "7728631", 
       "street": "Place du Roi Albert"
     }, 
     {
+      "busnrs": [
+        "2A/11", 
+        "2B/21"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -85,6 +102,66 @@
       "street": "Place du Roi Albert"
     }, 
     {
+      "hnrlbls": [
+        "3A"
+      ], 
+      "housenumber": "3A", 
+      "lat": 50.569735151837, 
+      "lon": 5.58410169521, 
+      "municipality": "Esneux", 
+      "pcode": "4130", 
+      "source": "7728631", 
+      "street": "Place du Roi Albert"
+    }, 
+    {
+      "busnrs": [
+        "3B11", 
+        "3B12", 
+        "3B13", 
+        "3B21", 
+        "3B22", 
+        "3B23", 
+        "3B31", 
+        "3B32", 
+        "3B33"
+      ], 
+      "hnrlbls": [
+        "3B"
+      ], 
+      "housenumber": "3B", 
+      "lat": 50.569748413465, 
+      "lon": 5.584225865802, 
+      "municipality": "Esneux", 
+      "pcode": "4130", 
+      "source": "7728631", 
+      "street": "Place du Roi Albert"
+    }, 
+    {
+      "hnrlbls": [
+        "3C"
+      ], 
+      "housenumber": "3C", 
+      "lat": 50.569764449301, 
+      "lon": 5.584326200289, 
+      "municipality": "Esneux", 
+      "pcode": "4130", 
+      "source": "7728631", 
+      "street": "Place du Roi Albert"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0031", 
+        "0032", 
+        "0033"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -101,20 +178,54 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.569425597264, 
-      "lon": 5.584878705966, 
+      "lat": 50.569421747237, 
+      "lon": 5.584848723387, 
       "municipality": "Esneux", 
       "pcode": "4130", 
       "source": "7728631", 
       "street": "Place du Roi Albert"
     }, 
     {
+      "busnrs": [
+        "0011"
+      ], 
       "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
       "lat": 50.569380289257, 
       "lon": 5.58477799431, 
+      "municipality": "Esneux", 
+      "pcode": "4130", 
+      "source": "7728631", 
+      "street": "Place du Roi Albert"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0021"
+      ], 
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 50.569297375479, 
+      "lon": 5.584707738958, 
+      "municipality": "Esneux", 
+      "pcode": "4130", 
+      "source": "7728631", 
+      "street": "Place du Roi Albert"
+    }, 
+    {
+      "busnrs": [
+        "0011"
+      ], 
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.569257333167, 
+      "lon": 5.584669355472, 
       "municipality": "Esneux", 
       "pcode": "4130", 
       "source": "7728631", 

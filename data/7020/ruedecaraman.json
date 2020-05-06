@@ -169,6 +169,11 @@
       "street": "Rue de Caraman"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "2-1"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -487,6 +492,18 @@
       "housenumber": "71", 
       "lat": 50.482603035012, 
       "lon": 3.942456184535, 
+      "municipality": "Mons", 
+      "pcode": "7020", 
+      "source": "7713525", 
+      "street": "Rue de Caraman"
+    }, 
+    {
+      "hnrlbls": [
+        "72"
+      ], 
+      "housenumber": "72", 
+      "lat": 50.482185729305, 
+      "lon": 3.942123785089, 
       "municipality": "Mons", 
       "pcode": "7020", 
       "source": "7713525", 

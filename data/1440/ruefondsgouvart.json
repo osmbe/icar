@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "000A", 
+        "bte1", 
+        "bte2", 
+        "bte3"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -55,6 +61,18 @@
       "housenumber": "3", 
       "lat": 50.692656083362, 
       "lon": 4.314956406502, 
+      "municipality": "Braine-le-Ch\u00e2teau", 
+      "pcode": "1440", 
+      "source": "7700933", 
+      "street": "Rue Fonds Gouvart"
+    }, 
+    {
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.692637697256, 
+      "lon": 4.316688257832, 
       "municipality": "Braine-le-Ch\u00e2teau", 
       "pcode": "1440", 
       "source": "7700933", 

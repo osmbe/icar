@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -25,6 +29,9 @@
       "street": "Place Vivegnis"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -37,6 +44,12 @@
       "street": "Place Vivegnis"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -49,6 +62,10 @@
       "street": "Place Vivegnis"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -67,6 +84,42 @@
       "housenumber": "14", 
       "lat": 50.652296841673, 
       "lon": 5.588987459586, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730063", 
+      "street": "Place Vivegnis"
+    }, 
+    {
+      "hnrlbls": [
+        "24"
+      ], 
+      "housenumber": "24", 
+      "lat": 50.652353310819, 
+      "lon": 5.589176033529, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730063", 
+      "street": "Place Vivegnis"
+    }, 
+    {
+      "hnrlbls": [
+        "24A"
+      ], 
+      "housenumber": "24A", 
+      "lat": 50.652341969766, 
+      "lon": 5.589190957761, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730063", 
+      "street": "Place Vivegnis"
+    }, 
+    {
+      "hnrlbls": [
+        "24B"
+      ], 
+      "housenumber": "24B", 
+      "lat": 50.652353591832, 
+      "lon": 5.589231706799, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730063", 
@@ -97,6 +150,10 @@
       "street": "Place Vivegnis"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "0021"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -133,6 +190,18 @@
       "street": "Place Vivegnis"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0033"
+      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -145,6 +214,9 @@
       "street": "Place Vivegnis"
     }, 
     {
+      "busnrs": [
+        "0011"
+      ], 
       "hnrlbls": [
         "36"
       ], 
@@ -157,6 +229,13 @@
       "street": "Place Vivegnis"
     }, 
     {
+      "busnrs": [
+        "0021", 
+        "0022", 
+        "0023", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "46"
       ], 
@@ -193,6 +272,9 @@
       "street": "Place Vivegnis"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -217,6 +299,11 @@
       "street": "Place Vivegnis"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "9"
       ], 

@@ -409,6 +409,9 @@
       "street": "Rue des Coqs"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -1201,6 +1204,25 @@
       "street": "Rue des Coqs"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005"
+      ], 
+      "hnrlbls": [
+        "96"
+      ], 
+      "housenumber": "96", 
+      "lat": 50.638502521739, 
+      "lon": 5.481303792776, 
+      "municipality": "Gr\u00e2ce-Hollogne", 
+      "pcode": "4460", 
+      "source": "7733615", 
+      "street": "Rue des Coqs"
+    }, 
+    {
       "hnrlbls": [
         "97"
       ], 
@@ -1219,6 +1241,18 @@
       "housenumber": "99", 
       "lat": 50.637534237034, 
       "lon": 5.479930900867, 
+      "municipality": "Gr\u00e2ce-Hollogne", 
+      "pcode": "4460", 
+      "source": "7733615", 
+      "street": "Rue des Coqs"
+    }, 
+    {
+      "hnrlbls": [
+        "9A"
+      ], 
+      "housenumber": "9A", 
+      "lat": 50.63647275344, 
+      "lon": 5.476714666594, 
       "municipality": "Gr\u00e2ce-Hollogne", 
       "pcode": "4460", 
       "source": "7733615", 

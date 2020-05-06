@@ -61,6 +61,13 @@
       "street": "Rue de la Haige"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "2"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -98,11 +105,23 @@
     }, 
     {
       "hnrlbls": [
+        "24"
+      ], 
+      "housenumber": "24", 
+      "lat": 49.822284023627, 
+      "lon": 5.094332684724, 
+      "municipality": "Bouillon", 
+      "pcode": "6831", 
+      "source": "7745181", 
+      "street": "Rue de la Haige"
+    }, 
+    {
+      "hnrlbls": [
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 49.822284023627, 
-      "lon": 5.094332684724, 
+      "lat": 49.822776502508, 
+      "lon": 5.09416042404, 
       "municipality": "Bouillon", 
       "pcode": "6831", 
       "source": "7745181", 
@@ -125,8 +144,8 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 49.823699861975, 
-      "lon": 5.093437683366, 
+      "lat": 49.823730665769, 
+      "lon": 5.093483853574, 
       "municipality": "Bouillon", 
       "pcode": "6831", 
       "source": "7745181", 
@@ -137,8 +156,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 49.822776502508, 
-      "lon": 5.09416042404, 
+      "lat": 49.823368604374, 
+      "lon": 5.093939481434, 
       "municipality": "Bouillon", 
       "pcode": "6831", 
       "source": "7745181", 

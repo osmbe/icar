@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "5"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +16,10 @@
       "street": "Rue Charles Nicaise"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -25,6 +32,12 @@
       "street": "Rue Charles Nicaise"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -61,6 +74,15 @@
       "street": "Rue Charles Nicaise"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0201", 
+        "0301", 
+        "A000"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -85,6 +107,10 @@
       "street": "Rue Charles Nicaise"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "9"
       ], 

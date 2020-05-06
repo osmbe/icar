@@ -2,6 +2,18 @@
   "addresses": [
     {
       "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.60859780681, 
+      "lon": 4.135375454122, 
+      "municipality": "Braine-le-Comte", 
+      "pcode": "7090", 
+      "source": "7716535", 
+      "street": "Rue Britannique"
+    }, 
+    {
+      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -65,8 +77,25 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 50.607363090923, 
-      "lon": 4.13364883607, 
+      "lat": 50.607414998329, 
+      "lon": 4.133675491425, 
+      "municipality": "Braine-le-Comte", 
+      "pcode": "7090", 
+      "source": "7716535", 
+      "street": "Rue Britannique"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
+      "hnrlbls": [
+        "17A"
+      ], 
+      "housenumber": "17A", 
+      "lat": 50.606873299492, 
+      "lon": 4.134031997631, 
       "municipality": "Braine-le-Comte", 
       "pcode": "7090", 
       "source": "7716535", 
@@ -181,12 +210,86 @@
       "street": "Rue Britannique"
     }, 
     {
+      "busnrs": [
+        "BT.8", 
+        "Bt 5", 
+        "Bt.1", 
+        "Bt.4", 
+        "Bt.6", 
+        "Bt.9", 
+        "Bt10", 
+        "Bt12", 
+        "Bt13", 
+        "Bt14", 
+        "Bt15", 
+        "Bt16", 
+        "Bte7"
+      ], 
+      "hnrlbls": [
+        "28"
+      ], 
+      "housenumber": "28", 
+      "lat": 50.607240975442, 
+      "lon": 4.134681376746, 
+      "municipality": "Braine-le-Comte", 
+      "pcode": "7090", 
+      "source": "7716535", 
+      "street": "Rue Britannique"
+    }, 
+    {
+      "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 50.608481219846, 
+      "lon": 4.135358272451, 
+      "municipality": "Braine-le-Comte", 
+      "pcode": "7090", 
+      "source": "7716535", 
+      "street": "Rue Britannique"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "10", 
+        "11", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
       "hnrlbls": [
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 50.607232770129, 
-      "lon": 4.134684487167, 
+      "lat": 50.607072526282, 
+      "lon": 4.134544174257, 
+      "municipality": "Braine-le-Comte", 
+      "pcode": "7090", 
+      "source": "7716535", 
+      "street": "Rue Britannique"
+    }, 
+    {
+      "busnrs": [
+        "Bt.6", 
+        "Bt10", 
+        "E1B3", 
+        "E2D5", 
+        "E3B7", 
+        "E3D8", 
+        "RC.D", 
+        "RC.G"
+      ], 
+      "hnrlbls": [
+        "34"
+      ], 
+      "housenumber": "34", 
+      "lat": 50.606966975289, 
+      "lon": 4.134452851113, 
       "municipality": "Braine-le-Comte", 
       "pcode": "7090", 
       "source": "7716535", 
@@ -229,6 +332,11 @@
       "street": "Rue Britannique"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "40"
       ], 
@@ -253,18 +361,63 @@
       "street": "Rue Britannique"
     }, 
     {
-      "hnrlbls": [
-        "46"
+      "busnrs": [
+        "Bt.1", 
+        "Bt.2", 
+        "Bt.3", 
+        "Bt.4", 
+        "Bt.5", 
+        "Bt.6", 
+        "Bt.7"
       ], 
-      "housenumber": "46", 
-      "lat": 50.606546690061, 
-      "lon": 4.134175947227, 
+      "hnrlbls": [
+        "44"
+      ], 
+      "housenumber": "44", 
+      "lat": 50.606637452848, 
+      "lon": 4.134204138154, 
       "municipality": "Braine-le-Comte", 
       "pcode": "7090", 
       "source": "7716535", 
       "street": "Rue Britannique"
     }, 
     {
+      "busnrs": [
+        "Bt.1", 
+        "Bt.2", 
+        "Bt.3", 
+        "Bt.5", 
+        "Bt.6", 
+        "Bt.7", 
+        "Bt.8", 
+        "Bt.9"
+      ], 
+      "hnrlbls": [
+        "46"
+      ], 
+      "housenumber": "46", 
+      "lat": 50.606520960707, 
+      "lon": 4.134155889603, 
+      "municipality": "Braine-le-Comte", 
+      "pcode": "7090", 
+      "source": "7716535", 
+      "street": "Rue Britannique"
+    }, 
+    {
+      "busnrs": [
+        "Bt.2", 
+        "Bt.3", 
+        "Bt.4", 
+        "Bt.5", 
+        "Bt.6", 
+        "Bt.7", 
+        "Bt.8", 
+        "Bt.9", 
+        "Bt10", 
+        "Bt11", 
+        "Bt12", 
+        "Bt16"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -385,6 +538,12 @@
       "street": "Rue Britannique"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "68"
       ], 
@@ -401,8 +560,8 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.608258302105, 
-      "lon": 4.135201060471, 
+      "lat": 50.608262470064, 
+      "lon": 4.135203844287, 
       "municipality": "Braine-le-Comte", 
       "pcode": "7090", 
       "source": "7716535", 
@@ -434,6 +593,18 @@
     }, 
     {
       "hnrlbls": [
+        "7A"
+      ], 
+      "housenumber": "7A", 
+      "lat": 50.608193587526, 
+      "lon": 4.13515129662, 
+      "municipality": "Braine-le-Comte", 
+      "pcode": "7090", 
+      "source": "7716535", 
+      "street": "Rue Britannique"
+    }, 
+    {
+      "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
@@ -445,12 +616,42 @@
       "street": "Rue Britannique"
     }, 
     {
+      "busnrs": [
+        "Bt.1", 
+        "Bt.5", 
+        "E3B3", 
+        "Et.1", 
+        "Et.2"
+      ], 
       "hnrlbls": [
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.608194904331, 
-      "lon": 4.135147122449, 
+      "lat": 50.608109684251, 
+      "lon": 4.135055027289, 
+      "municipality": "Braine-le-Comte", 
+      "pcode": "7090", 
+      "source": "7716535", 
+      "street": "Rue Britannique"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
+      "hnrlbls": [
+        "9A"
+      ], 
+      "housenumber": "9A", 
+      "lat": 50.608003043356, 
+      "lon": 4.13495163711, 
       "municipality": "Braine-le-Comte", 
       "pcode": "7090", 
       "source": "7716535", 

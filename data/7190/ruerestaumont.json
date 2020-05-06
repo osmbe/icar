@@ -17,8 +17,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.562911127564, 
-      "lon": 4.143693322913, 
+      "lat": 50.562958674534, 
+      "lon": 4.143741830888, 
       "municipality": "Ecaussinnes", 
       "pcode": "7190", 
       "source": "7718987", 
@@ -170,9 +170,9 @@
     }, 
     {
       "hnrlbls": [
-        "110A000"
+        "110A"
       ], 
-      "housenumber": "110A000", 
+      "housenumber": "110A", 
       "lat": 50.560018135826, 
       "lon": 4.136772897444, 
       "municipality": "Ecaussinnes", 
@@ -230,9 +230,9 @@
     }, 
     {
       "hnrlbls": [
-        "114A000"
+        "114A"
       ], 
-      "housenumber": "114A000", 
+      "housenumber": "114A", 
       "lat": 50.559718045934, 
       "lon": 4.136407011213, 
       "municipality": "Ecaussinnes", 
@@ -242,9 +242,9 @@
     }, 
     {
       "hnrlbls": [
-        "114B000"
+        "114B"
       ], 
-      "housenumber": "114B000", 
+      "housenumber": "114B", 
       "lat": 50.559533795048, 
       "lon": 4.136259005353, 
       "municipality": "Ecaussinnes", 
@@ -278,9 +278,9 @@
     }, 
     {
       "hnrlbls": [
-        "116A000"
+        "116A"
       ], 
-      "housenumber": "116A000", 
+      "housenumber": "116A", 
       "lat": 50.559187428711, 
       "lon": 4.135995729625, 
       "municipality": "Ecaussinnes", 
@@ -289,10 +289,26 @@
       "street": "Rue Restaumont"
     }, 
     {
-      "hnrlbls": [
-        "116C000"
+      "busnrs": [
+        "01", 
+        "02"
       ], 
-      "housenumber": "116C000", 
+      "hnrlbls": [
+        "116B"
+      ], 
+      "housenumber": "116B", 
+      "lat": 50.559020473542, 
+      "lon": 4.135808515119, 
+      "municipality": "Ecaussinnes", 
+      "pcode": "7190", 
+      "source": "7718987", 
+      "street": "Rue Restaumont"
+    }, 
+    {
+      "hnrlbls": [
+        "116C"
+      ], 
+      "housenumber": "116C", 
       "lat": 50.558823576677, 
       "lon": 4.135575042776, 
       "municipality": "Ecaussinnes", 
@@ -301,10 +317,28 @@
       "street": "Rue Restaumont"
     }, 
     {
-      "hnrlbls": [
-        "116F000"
+      "busnrs": [
+        "01", 
+        "02", 
+        "03", 
+        "04"
       ], 
-      "housenumber": "116F000", 
+      "hnrlbls": [
+        "116D"
+      ], 
+      "housenumber": "116D", 
+      "lat": 50.558681545412, 
+      "lon": 4.135316817882, 
+      "municipality": "Ecaussinnes", 
+      "pcode": "7190", 
+      "source": "7718987", 
+      "street": "Rue Restaumont"
+    }, 
+    {
+      "hnrlbls": [
+        "116F"
+      ], 
+      "housenumber": "116F", 
       "lat": 50.557888619341, 
       "lon": 4.133683269358, 
       "municipality": "Ecaussinnes", 
@@ -338,9 +372,9 @@
     }, 
     {
       "hnrlbls": [
-        "118C000"
+        "118C"
       ], 
-      "housenumber": "118C000", 
+      "housenumber": "118C", 
       "lat": 50.557358546201, 
       "lon": 4.132449212234, 
       "municipality": "Ecaussinnes", 
@@ -353,8 +387,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.562858225881, 
-      "lon": 4.143630723442, 
+      "lat": 50.562913991772, 
+      "lon": 4.143685354564, 
       "municipality": "Ecaussinnes", 
       "pcode": "7190", 
       "source": "7718987", 
@@ -374,9 +408,9 @@
     }, 
     {
       "hnrlbls": [
-        "120A000"
+        "120A"
       ], 
-      "housenumber": "120A000", 
+      "housenumber": "120A", 
       "lat": 50.557011180147, 
       "lon": 4.13173272227, 
       "municipality": "Ecaussinnes", 
@@ -398,11 +432,23 @@
     }, 
     {
       "hnrlbls": [
+        "124"
+      ], 
+      "housenumber": "124", 
+      "lat": 50.556597979887, 
+      "lon": 4.13066763999, 
+      "municipality": "Ecaussinnes", 
+      "pcode": "7190", 
+      "source": "7718987", 
+      "street": "Rue Restaumont"
+    }, 
+    {
+      "hnrlbls": [
         "126"
       ], 
       "housenumber": "126", 
-      "lat": 50.55660146663, 
-      "lon": 4.130658987162, 
+      "lat": 50.556545194526, 
+      "lon": 4.130359065607, 
       "municipality": "Ecaussinnes", 
       "pcode": "7190", 
       "source": "7718987", 
@@ -437,8 +483,8 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 50.562811428297, 
-      "lon": 4.143558695101, 
+      "lat": 50.56285651671, 
+      "lon": 4.143627380846, 
       "municipality": "Ecaussinnes", 
       "pcode": "7190", 
       "source": "7718987", 
@@ -446,11 +492,11 @@
     }, 
     {
       "hnrlbls": [
-        "14A000"
+        "14A"
       ], 
-      "housenumber": "14A000", 
-      "lat": 50.562770368818, 
-      "lon": 4.143506597069, 
+      "housenumber": "14A", 
+      "lat": 50.562811849008, 
+      "lon": 4.143554012847, 
       "municipality": "Ecaussinnes", 
       "pcode": "7190", 
       "source": "7718987", 
@@ -463,6 +509,18 @@
       "housenumber": "15", 
       "lat": 50.562250410787, 
       "lon": 4.143229552204, 
+      "municipality": "Ecaussinnes", 
+      "pcode": "7190", 
+      "source": "7718987", 
+      "street": "Rue Restaumont"
+    }, 
+    {
+      "hnrlbls": [
+        "16"
+      ], 
+      "housenumber": "16", 
+      "lat": 50.562772567859, 
+      "lon": 4.143506156146, 
       "municipality": "Ecaussinnes", 
       "pcode": "7190", 
       "source": "7718987", 
@@ -559,6 +617,18 @@
       "housenumber": "23", 
       "lat": 50.561812568937, 
       "lon": 4.14194499926, 
+      "municipality": "Ecaussinnes", 
+      "pcode": "7190", 
+      "source": "7718987", 
+      "street": "Rue Restaumont"
+    }, 
+    {
+      "hnrlbls": [
+        "23A"
+      ], 
+      "housenumber": "23A", 
+      "lat": 50.561736628964, 
+      "lon": 4.141618887891, 
       "municipality": "Ecaussinnes", 
       "pcode": "7190", 
       "source": "7718987", 
@@ -770,6 +840,66 @@
     }, 
     {
       "hnrlbls": [
+        "3B"
+      ], 
+      "housenumber": "3B", 
+      "lat": 50.562612996144, 
+      "lon": 4.144060265822, 
+      "municipality": "Ecaussinnes", 
+      "pcode": "7190", 
+      "source": "7718987", 
+      "street": "Rue Restaumont"
+    }, 
+    {
+      "hnrlbls": [
+        "3C"
+      ], 
+      "housenumber": "3C", 
+      "lat": 50.562564926516, 
+      "lon": 4.143997486776, 
+      "municipality": "Ecaussinnes", 
+      "pcode": "7190", 
+      "source": "7718987", 
+      "street": "Rue Restaumont"
+    }, 
+    {
+      "hnrlbls": [
+        "3D"
+      ], 
+      "housenumber": "3D", 
+      "lat": 50.562540607024, 
+      "lon": 4.143886546728, 
+      "municipality": "Ecaussinnes", 
+      "pcode": "7190", 
+      "source": "7718987", 
+      "street": "Rue Restaumont"
+    }, 
+    {
+      "hnrlbls": [
+        "3E"
+      ], 
+      "housenumber": "3E", 
+      "lat": 50.562494384096, 
+      "lon": 4.143827152222, 
+      "municipality": "Ecaussinnes", 
+      "pcode": "7190", 
+      "source": "7718987", 
+      "street": "Rue Restaumont"
+    }, 
+    {
+      "hnrlbls": [
+        "3F"
+      ], 
+      "housenumber": "3F", 
+      "lat": 50.56244830513, 
+      "lon": 4.143767836188, 
+      "municipality": "Ecaussinnes", 
+      "pcode": "7190", 
+      "source": "7718987", 
+      "street": "Rue Restaumont"
+    }, 
+    {
+      "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
@@ -962,9 +1092,9 @@
     }, 
     {
       "hnrlbls": [
-        "53A000"
+        "53A"
       ], 
-      "housenumber": "53A000", 
+      "housenumber": "53A", 
       "lat": 50.561292957608, 
       "lon": 4.139085871386, 
       "municipality": "Ecaussinnes", 
@@ -1046,11 +1176,23 @@
     }, 
     {
       "hnrlbls": [
-        "59B000"
+        "59B"
       ], 
-      "housenumber": "59B000", 
+      "housenumber": "59B", 
       "lat": 50.561046429179, 
       "lon": 4.138395651704, 
+      "municipality": "Ecaussinnes", 
+      "pcode": "7190", 
+      "source": "7718987", 
+      "street": "Rue Restaumont"
+    }, 
+    {
+      "hnrlbls": [
+        "59C"
+      ], 
+      "housenumber": "59C", 
+      "lat": 50.560851286555, 
+      "lon": 4.138212050076, 
       "municipality": "Ecaussinnes", 
       "pcode": "7190", 
       "source": "7718987", 
@@ -1190,6 +1332,36 @@
     }, 
     {
       "hnrlbls": [
+        "6A"
+      ], 
+      "housenumber": "6A", 
+      "lat": 50.563210711271, 
+      "lon": 4.144088569506, 
+      "municipality": "Ecaussinnes", 
+      "pcode": "7190", 
+      "source": "7718987", 
+      "street": "Rue Restaumont"
+    }, 
+    {
+      "busnrs": [
+        "01", 
+        "02", 
+        "03", 
+        "04"
+      ], 
+      "hnrlbls": [
+        "6B"
+      ], 
+      "housenumber": "6B", 
+      "lat": 50.563119804506, 
+      "lon": 4.14388550771, 
+      "municipality": "Ecaussinnes", 
+      "pcode": "7190", 
+      "source": "7718987", 
+      "street": "Rue Restaumont"
+    }, 
+    {
+      "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
@@ -1226,9 +1398,9 @@
     }, 
     {
       "hnrlbls": [
-        "71A000"
+        "71A"
       ], 
-      "housenumber": "71A000", 
+      "housenumber": "71A", 
       "lat": 50.559218158769, 
       "lon": 4.136703429745, 
       "municipality": "Ecaussinnes", 
@@ -1262,9 +1434,9 @@
     }, 
     {
       "hnrlbls": [
-        "73A000"
+        "73A"
       ], 
-      "housenumber": "73A000", 
+      "housenumber": "73A", 
       "lat": 50.558806372055, 
       "lon": 4.13622718491, 
       "municipality": "Ecaussinnes", 
@@ -1321,6 +1493,9 @@
       "street": "Rue Restaumont"
     }, 
     {
+      "busnrs": [
+        "BTE2"
+      ], 
       "hnrlbls": [
         "80"
       ], 
@@ -1363,6 +1538,22 @@
       "housenumber": "83", 
       "lat": 50.557708632827, 
       "lon": 4.13406457051, 
+      "municipality": "Ecaussinnes", 
+      "pcode": "7190", 
+      "source": "7718987", 
+      "street": "Rue Restaumont"
+    }, 
+    {
+      "busnrs": [
+        "01", 
+        "02"
+      ], 
+      "hnrlbls": [
+        "83A"
+      ], 
+      "housenumber": "83A", 
+      "lat": 50.557510517559, 
+      "lon": 4.133734805136, 
       "municipality": "Ecaussinnes", 
       "pcode": "7190", 
       "source": "7718987", 

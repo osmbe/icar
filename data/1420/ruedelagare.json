@@ -2,6 +2,18 @@
   "addresses": [
     {
       "hnrlbls": [
+        "101"
+      ], 
+      "housenumber": "101", 
+      "lat": 50.696170823019, 
+      "lon": 4.348050423976, 
+      "municipality": "Braine-l'Alleud", 
+      "pcode": "1420", 
+      "source": "7700538", 
+      "street": "Rue de la Gare"
+    }, 
+    {
+      "hnrlbls": [
         "103"
       ], 
       "housenumber": "103", 
@@ -61,6 +73,10 @@
       "street": "Rue de la Gare"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "13"
       ], 

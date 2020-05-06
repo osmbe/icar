@@ -289,12 +289,27 @@
       "street": "Rue Bois des Noix"
     }, 
     {
+      "busnrs": [
+        "0A"
+      ], 
       "hnrlbls": [
         "23"
       ], 
       "housenumber": "23", 
       "lat": 50.43149254909, 
       "lon": 4.59805206817, 
+      "municipality": "Sambreville", 
+      "pcode": "5060", 
+      "source": "7755287", 
+      "street": "Rue Bois des Noix"
+    }, 
+    {
+      "hnrlbls": [
+        "23A"
+      ], 
+      "housenumber": "23A", 
+      "lat": 50.431497498071, 
+      "lon": 4.598145311489, 
       "municipality": "Sambreville", 
       "pcode": "5060", 
       "source": "7755287", 
@@ -929,8 +944,8 @@
         "71"
       ], 
       "housenumber": "71", 
-      "lat": 50.43134536261, 
-      "lon": 4.594367183608, 
+      "lat": 50.431355466733, 
+      "lon": 4.594370024309, 
       "municipality": "Sambreville", 
       "pcode": "5060", 
       "source": "7755287", 
@@ -977,8 +992,8 @@
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 50.431389087166, 
-      "lon": 4.594143106228, 
+      "lat": 50.431406717373, 
+      "lon": 4.59420775257, 
       "municipality": "Sambreville", 
       "pcode": "5060", 
       "source": "7755287", 
@@ -991,6 +1006,57 @@
       "housenumber": "76", 
       "lat": 50.432116409674, 
       "lon": 4.593553736888, 
+      "municipality": "Sambreville", 
+      "pcode": "5060", 
+      "source": "7755287", 
+      "street": "Rue Bois des Noix"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006"
+      ], 
+      "hnrlbls": [
+        "77"
+      ], 
+      "housenumber": "77", 
+      "lat": 50.431394850481, 
+      "lon": 4.593890767927, 
+      "municipality": "Sambreville", 
+      "pcode": "5060", 
+      "source": "7755287", 
+      "street": "Rue Bois des Noix"
+    }, 
+    {
+      "hnrlbls": [
+        "78"
+      ], 
+      "housenumber": "78", 
+      "lat": 50.432192871667, 
+      "lon": 4.593294988339, 
+      "municipality": "Sambreville", 
+      "pcode": "5060", 
+      "source": "7755287", 
+      "street": "Rue Bois des Noix"
+    }, 
+    {
+      "busnrs": [
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006"
+      ], 
+      "hnrlbls": [
+        "79"
+      ], 
+      "housenumber": "79", 
+      "lat": 50.431496398339, 
+      "lon": 4.593963870444, 
       "municipality": "Sambreville", 
       "pcode": "5060", 
       "source": "7755287", 
@@ -1010,11 +1076,86 @@
     }, 
     {
       "hnrlbls": [
+        "80"
+      ], 
+      "housenumber": "80", 
+      "lat": 50.432177475132, 
+      "lon": 4.593261399143, 
+      "municipality": "Sambreville", 
+      "pcode": "5060", 
+      "source": "7755287", 
+      "street": "Rue Bois des Noix"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006"
+      ], 
+      "hnrlbls": [
+        "81"
+      ], 
+      "housenumber": "81", 
+      "lat": 50.431598987186, 
+      "lon": 4.593807018962, 
+      "municipality": "Sambreville", 
+      "pcode": "5060", 
+      "source": "7755287", 
+      "street": "Rue Bois des Noix"
+    }, 
+    {
+      "hnrlbls": [
+        "82"
+      ], 
+      "housenumber": "82", 
+      "lat": 50.432228733497, 
+      "lon": 4.59320112576, 
+      "municipality": "Sambreville", 
+      "pcode": "5060", 
+      "source": "7755287", 
+      "street": "Rue Bois des Noix"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0004", 
+        "0005", 
+        "0006"
+      ], 
+      "hnrlbls": [
+        "83"
+      ], 
+      "housenumber": "83", 
+      "lat": 50.431680183551, 
+      "lon": 4.593641684713, 
+      "municipality": "Sambreville", 
+      "pcode": "5060", 
+      "source": "7755287", 
+      "street": "Rue Bois des Noix"
+    }, 
+    {
+      "hnrlbls": [
+        "84"
+      ], 
+      "housenumber": "84", 
+      "lat": 50.432245911011, 
+      "lon": 4.59323658559, 
+      "municipality": "Sambreville", 
+      "pcode": "5060", 
+      "source": "7755287", 
+      "street": "Rue Bois des Noix"
+    }, 
+    {
+      "hnrlbls": [
         "86"
       ], 
       "housenumber": "86", 
-      "lat": 50.432190442794, 
-      "lon": 4.593281365996, 
+      "lat": 50.432347968949, 
+      "lon": 4.593006530148, 
       "municipality": "Sambreville", 
       "pcode": "5060", 
       "source": "7755287", 
@@ -1025,8 +1166,8 @@
         "88"
       ], 
       "housenumber": "88", 
-      "lat": 50.432239086789, 
-      "lon": 4.593217835847, 
+      "lat": 50.43232996155, 
+      "lon": 4.592967820617, 
       "municipality": "Sambreville", 
       "pcode": "5060", 
       "source": "7755287", 
@@ -1049,8 +1190,8 @@
         "90"
       ], 
       "housenumber": "90", 
-      "lat": 50.432340163034, 
-      "lon": 4.592986804544, 
+      "lat": 50.432380164599, 
+      "lon": 4.592905064458, 
       "municipality": "Sambreville", 
       "pcode": "5060", 
       "source": "7755287", 
@@ -1061,8 +1202,8 @@
         "92"
       ], 
       "housenumber": "92", 
-      "lat": 50.432390550441, 
-      "lon": 4.592928208532, 
+      "lat": 50.432399434568, 
+      "lon": 4.59294687094, 
       "municipality": "Sambreville", 
       "pcode": "5060", 
       "source": "7755287", 

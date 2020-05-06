@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0201"
+      ], 
       "hnrlbls": [
         "102"
       ], 
@@ -25,6 +29,9 @@
       "street": "Rue d'Andrimont"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "105"
       ], 
@@ -49,6 +56,11 @@
       "street": "Rue d'Andrimont"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "107"
       ], 
@@ -61,6 +73,11 @@
       "street": "Rue d'Andrimont"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "108"
       ], 
@@ -85,6 +102,12 @@
       "street": "Rue d'Andrimont"
     }, 
     {
+      "busnrs": [
+        "1ETA", 
+        "2ETA", 
+        "3ETA", 
+        "REZ"
+      ], 
       "hnrlbls": [
         "110"
       ], 
@@ -97,6 +120,9 @@
       "street": "Rue d'Andrimont"
     }, 
     {
+      "busnrs": [
+        "REZ"
+      ], 
       "hnrlbls": [
         "111"
       ], 
@@ -109,6 +135,10 @@
       "street": "Rue d'Andrimont"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0201"
+      ], 
       "hnrlbls": [
         "112"
       ], 
@@ -157,6 +187,11 @@
       "street": "Rue d'Andrimont"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "116"
       ], 
@@ -181,6 +216,9 @@
       "street": "Rue d'Andrimont"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "118"
       ], 
@@ -205,6 +243,16 @@
       "street": "Rue d'Andrimont"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304"
+      ], 
       "hnrlbls": [
         "120"
       ], 
@@ -229,6 +277,9 @@
       "street": "Rue d'Andrimont"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "122"
       ], 
@@ -241,6 +292,11 @@
       "street": "Rue d'Andrimont"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "123"
       ], 
@@ -289,6 +345,10 @@
       "street": "Rue d'Andrimont"
     }, 
     {
+      "busnrs": [
+        "1ETA", 
+        "2ETA"
+      ], 
       "hnrlbls": [
         "132"
       ], 
@@ -325,6 +385,11 @@
       "street": "Rue d'Andrimont"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "138"
       ], 
@@ -337,6 +402,10 @@
       "street": "Rue d'Andrimont"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0201"
+      ], 
       "hnrlbls": [
         "139"
       ], 
@@ -409,6 +478,14 @@
       "street": "Rue d'Andrimont"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "147"
       ], 
@@ -529,6 +606,10 @@
       "street": "Rue d'Andrimont"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "162"
       ], 
@@ -553,6 +634,9 @@
       "street": "Rue d'Andrimont"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "164"
       ], 
@@ -926,11 +1010,23 @@
     }, 
     {
       "hnrlbls": [
-        "226"
+        "226A"
       ], 
-      "housenumber": "226", 
+      "housenumber": "226A", 
       "lat": 50.60946430994, 
       "lon": 5.864954525073, 
+      "municipality": "Dison", 
+      "pcode": "4821", 
+      "source": "7735630", 
+      "street": "Rue d'Andrimont"
+    }, 
+    {
+      "hnrlbls": [
+        "226B"
+      ], 
+      "housenumber": "226B", 
+      "lat": 50.609411015742, 
+      "lon": 5.864971655931, 
       "municipality": "Dison", 
       "pcode": "4821", 
       "source": "7735630", 

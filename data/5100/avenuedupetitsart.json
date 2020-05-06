@@ -161,8 +161,8 @@
         "116"
       ], 
       "housenumber": "116", 
-      "lat": 50.440721606893, 
-      "lon": 4.88596493882, 
+      "lat": 50.440788132679, 
+      "lon": 4.885971902026, 
       "municipality": "Namur", 
       "pcode": "5100", 
       "source": "7753107", 
@@ -1141,6 +1141,9 @@
       "street": "Avenue du Petit Sart"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "59"
       ], 
@@ -1249,6 +1252,13 @@
       "street": "Avenue du Petit Sart"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006"
+      ], 
       "hnrlbls": [
         "74"
       ], 

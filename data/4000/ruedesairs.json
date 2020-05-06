@@ -1,6 +1,13 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -14,6 +21,42 @@
     }, 
     {
       "hnrlbls": [
+        "10"
+      ], 
+      "housenumber": "10", 
+      "lat": 50.646344724509, 
+      "lon": 5.577176926673, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730541", 
+      "street": "Rue des Airs"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
+      "hnrlbls": [
+        "11"
+      ], 
+      "housenumber": "11", 
+      "lat": 50.646429670522, 
+      "lon": 5.57693573628, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730541", 
+      "street": "Rue des Airs"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
+      "hnrlbls": [
         "13"
       ], 
       "housenumber": "13", 
@@ -25,6 +68,16 @@
       "street": "Rue des Airs"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0031"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -38,17 +91,49 @@
     }, 
     {
       "hnrlbls": [
-        "16"
+        "15"
       ], 
-      "housenumber": "16", 
-      "lat": 50.646277480945, 
-      "lon": 5.576806847373, 
+      "housenumber": "15", 
+      "lat": 50.646488329228, 
+      "lon": 5.57717537268, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730541", 
       "street": "Rue des Airs"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032"
+      ], 
+      "hnrlbls": [
+        "16"
+      ], 
+      "housenumber": "16", 
+      "lat": 50.6463540497, 
+      "lon": 5.577410349787, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730541", 
+      "street": "Rue des Airs"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -61,6 +146,12 @@
       "street": "Rue des Airs"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -86,6 +177,26 @@
     }, 
     {
       "hnrlbls": [
+        "21"
+      ], 
+      "housenumber": "21", 
+      "lat": 50.646626890859, 
+      "lon": 5.577165911941, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730541", 
+      "street": "Rue des Airs"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032"
+      ], 
+      "hnrlbls": [
         "22"
       ], 
       "housenumber": "22", 
@@ -109,6 +220,10 @@
       "street": "Rue des Airs"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0021"
+      ], 
       "hnrlbls": [
         "24B"
       ], 
@@ -122,6 +237,24 @@
     }, 
     {
       "hnrlbls": [
+        "26"
+      ], 
+      "housenumber": "26", 
+      "lat": 50.646653694384, 
+      "lon": 5.577329927469, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730541", 
+      "street": "Rue des Airs"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
+      "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
@@ -133,12 +266,43 @@
       "street": "Rue des Airs"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
       "lat": 50.646404132936, 
       "lon": 5.576775317705, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730541", 
+      "street": "Rue des Airs"
+    }, 
+    {
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.646309157047, 
+      "lon": 5.576964891507, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730541", 
+      "street": "Rue des Airs"
+    }, 
+    {
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 50.646413933319, 
+      "lon": 5.576849144089, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730541", 

@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -38,6 +44,42 @@
     }, 
     {
       "hnrlbls": [
+        "14"
+      ], 
+      "housenumber": "14", 
+      "lat": 50.641021136101, 
+      "lon": 5.572899315559, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730414", 
+      "street": "Rue de la Sir\u00e8ne"
+    }, 
+    {
+      "hnrlbls": [
+        "16"
+      ], 
+      "housenumber": "16", 
+      "lat": 50.640983124824, 
+      "lon": 5.572949529896, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730414", 
+      "street": "Rue de la Sir\u00e8ne"
+    }, 
+    {
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.641318824713, 
+      "lon": 5.572375482101, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730414", 
+      "street": "Rue de la Sir\u00e8ne"
+    }, 
+    {
+      "hnrlbls": [
         "20"
       ], 
       "housenumber": "20", 
@@ -49,12 +91,65 @@
       "street": "Rue de la Sir\u00e8ne"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
       "lat": 50.641329503043, 
       "lon": 5.572713955531, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730414", 
+      "street": "Rue de la Sir\u00e8ne"
+    }, 
+    {
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.641228041986, 
+      "lon": 5.572548848407, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730414", 
+      "street": "Rue de la Sir\u00e8ne"
+    }, 
+    {
+      "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 50.641317851031, 
+      "lon": 5.572750505569, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730414", 
+      "street": "Rue de la Sir\u00e8ne"
+    }, 
+    {
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.641188453713, 
+      "lon": 5.572595063979, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730414", 
+      "street": "Rue de la Sir\u00e8ne"
+    }, 
+    {
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 50.641256821067, 
+      "lon": 5.572896705126, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730414", 

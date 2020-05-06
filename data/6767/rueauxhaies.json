@@ -73,6 +73,11 @@
       "street": "Rue Aux Haies"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B", 
+        "C"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -146,6 +151,18 @@
     }, 
     {
       "hnrlbls": [
+        "28"
+      ], 
+      "housenumber": "28", 
+      "lat": 49.557037945174, 
+      "lon": 5.49528443477, 
+      "municipality": "Rouvroy", 
+      "pcode": "6767", 
+      "source": "7748168", 
+      "street": "Rue Aux Haies"
+    }, 
+    {
+      "hnrlbls": [
         "30"
       ], 
       "housenumber": "30", 
@@ -181,6 +198,9 @@
       "street": "Rue Aux Haies"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "6"
       ], 

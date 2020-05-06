@@ -97,6 +97,16 @@
       "street": "Rue Henri Nottet"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -211,6 +221,18 @@
       "housenumber": "40", 
       "lat": 50.66370553891, 
       "lon": 5.60870760737, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731041", 
+      "street": "Rue Henri Nottet"
+    }, 
+    {
+      "hnrlbls": [
+        "42"
+      ], 
+      "housenumber": "42", 
+      "lat": 50.66383625533, 
+      "lon": 5.608831284648, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731041", 

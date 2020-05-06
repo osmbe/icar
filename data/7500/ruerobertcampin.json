@@ -1,6 +1,14 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "01", 
+        "02", 
+        "11", 
+        "12", 
+        "21", 
+        "22"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -13,6 +21,10 @@
       "street": "Rue Robert Campin"
     }, 
     {
+      "busnrs": [
+        "11", 
+        "22"
+      ], 
       "hnrlbls": [
         "2"
       ], 

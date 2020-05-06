@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "bt01", 
+        "bt02", 
+        "bt03", 
+        "bt04"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -61,6 +67,10 @@
       "street": "Rue du Passeur d'eau"
     }, 
     {
+      "busnrs": [
+        "bt01", 
+        "bt02"
+      ], 
       "hnrlbls": [
         "2"
       ], 

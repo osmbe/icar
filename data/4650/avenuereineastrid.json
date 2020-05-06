@@ -13,6 +13,10 @@
       "street": "Avenue Reine Astrid"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "rez"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -49,6 +53,11 @@
       "street": "Avenue Reine Astrid"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -61,6 +70,13 @@
       "street": "Avenue Reine Astrid"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
         "1A"
       ], 
@@ -91,6 +107,18 @@
       "housenumber": "22", 
       "lat": 50.644069920683, 
       "lon": 5.800059687988, 
+      "municipality": "Herve", 
+      "pcode": "4650", 
+      "source": "7735942", 
+      "street": "Avenue Reine Astrid"
+    }, 
+    {
+      "hnrlbls": [
+        "2A"
+      ], 
+      "housenumber": "2A", 
+      "lat": 50.64363581936, 
+      "lon": 5.796756204968, 
       "municipality": "Herve", 
       "pcode": "4650", 
       "source": "7735942", 
@@ -133,6 +161,10 @@
       "street": "Avenue Reine Astrid"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -145,12 +177,16 @@
       "street": "Avenue Reine Astrid"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
       "hnrlbls": [
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.644473992564, 
-      "lon": 5.797962313812, 
+      "lat": 50.644704389335, 
+      "lon": 5.798551280859, 
       "municipality": "Herve", 
       "pcode": "4650", 
       "source": "7735942", 

@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -73,6 +78,12 @@
       "street": "Rue Saint-Maur"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "107"
       ], 
@@ -133,12 +144,27 @@
       "street": "Rue Saint-Maur"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "115"
       ], 
       "housenumber": "115", 
       "lat": 50.619248186011, 
       "lon": 5.565919175323, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731318", 
+      "street": "Rue Saint-Maur"
+    }, 
+    {
+      "hnrlbls": [
+        "117"
+      ], 
+      "housenumber": "117", 
+      "lat": 50.619218875002, 
+      "lon": 5.565804394503, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731318", 
@@ -157,6 +183,11 @@
       "street": "Rue Saint-Maur"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -205,6 +236,11 @@
       "street": "Rue Saint-Maur"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -229,6 +265,11 @@
       "street": "Rue Saint-Maur"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -241,6 +282,12 @@
       "street": "Rue Saint-Maur"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -253,6 +300,11 @@
       "street": "Rue Saint-Maur"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -325,6 +377,17 @@
       "street": "Rue Saint-Maur"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -457,12 +520,28 @@
       "street": "Rue Saint-Maur"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "62"
       ], 
       "housenumber": "62", 
       "lat": 50.61986077022, 
       "lon": 5.566852874118, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731318", 
+      "street": "Rue Saint-Maur"
+    }, 
+    {
+      "hnrlbls": [
+        "64"
+      ], 
+      "housenumber": "64", 
+      "lat": 50.619797592414, 
+      "lon": 5.566776408338, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731318", 
@@ -481,6 +560,12 @@
       "street": "Rue Saint-Maur"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -602,11 +687,35 @@
     }, 
     {
       "hnrlbls": [
+        "93"
+      ], 
+      "housenumber": "93", 
+      "lat": 50.620092080271, 
+      "lon": 5.568313460485, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731318", 
+      "street": "Rue Saint-Maur"
+    }, 
+    {
+      "hnrlbls": [
         "93A"
       ], 
       "housenumber": "93A", 
       "lat": 50.619524402346, 
       "lon": 5.567525683665, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731318", 
+      "street": "Rue Saint-Maur"
+    }, 
+    {
+      "hnrlbls": [
+        "93B"
+      ], 
+      "housenumber": "93B", 
+      "lat": 50.62008109934, 
+      "lon": 5.568297112163, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731318", 

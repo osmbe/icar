@@ -385,6 +385,17 @@
       "street": "Rue Jules Monoyer"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "1ETG", 
+        "1Etg", 
+        "ETG1", 
+        "IETG1", 
+        "RCHA", 
+        "RCh0", 
+        "RCha"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -517,6 +528,19 @@
       "street": "Rue Jules Monoyer"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "001G", 
+        "0bis", 
+        "1ETD", 
+        "1EtD", 
+        "2Ava", 
+        "2avD", 
+        "A000", 
+        "D000", 
+        "RCAr"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -553,6 +577,9 @@
       "street": "Rue Jules Monoyer"
     }, 
     {
+      "busnrs": [
+        "3507"
+      ], 
       "hnrlbls": [
         "33"
       ], 
@@ -565,6 +592,9 @@
       "street": "Rue Jules Monoyer"
     }, 
     {
+      "busnrs": [
+        "0037"
+      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -577,6 +607,9 @@
       "street": "Rue Jules Monoyer"
     }, 
     {
+      "busnrs": [
+        "0039"
+      ], 
       "hnrlbls": [
         "37"
       ], 
@@ -637,6 +670,11 @@
       "street": "Rue Jules Monoyer"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "41"
       ], 
@@ -649,6 +687,9 @@
       "street": "Rue Jules Monoyer"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "43"
       ], 
@@ -661,6 +702,13 @@
       "street": "Rue Jules Monoyer"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "44"
       ], 
@@ -733,6 +781,13 @@
       "street": "Rue Jules Monoyer"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -769,6 +824,9 @@
       "street": "Rue Jules Monoyer"
     }, 
     {
+      "busnrs": [
+        "0054"
+      ], 
       "hnrlbls": [
         "52"
       ], 
@@ -1045,6 +1103,10 @@
       "street": "Rue Jules Monoyer"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -1069,6 +1131,9 @@
       "street": "Rue Jules Monoyer"
     }, 
     {
+      "busnrs": [
+        "0074"
+      ], 
       "hnrlbls": [
         "72"
       ], 
@@ -1241,8 +1306,8 @@
         "92"
       ], 
       "housenumber": "92", 
-      "lat": 50.480427951993, 
-      "lon": 4.143468304071, 
+      "lat": 50.480411380632, 
+      "lon": 4.143532349497, 
       "municipality": "La Louvi\u00e8re", 
       "pcode": "7110", 
       "source": "7717693", 

@@ -61,6 +61,9 @@
       "street": "Montagne d'Aisemont"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "105"
       ], 
@@ -181,6 +184,14 @@
       "street": "Montagne d'Aisemont"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -217,6 +228,14 @@
       "street": "Montagne d'Aisemont"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -553,12 +572,15 @@
       "street": "Montagne d'Aisemont"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "78"
       ], 
       "housenumber": "78", 
-      "lat": 50.712462452443, 
-      "lon": 4.616081682233, 
+      "lat": 50.712344533146, 
+      "lon": 4.615937536887, 
       "municipality": "Wavre", 
       "pcode": "1300", 
       "source": "7704816", 

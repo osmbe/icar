@@ -25,6 +25,12 @@
       "street": "Rue de la Roche"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -37,24 +43,40 @@
       "street": "Rue de la Roche"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "0021", 
+        "0031", 
+        "0032", 
+        "2/02", 
+        "3/02"
+      ], 
       "hnrlbls": [
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.193574414155, 
-      "lon": 4.542419712644, 
+      "lat": 50.194099996281, 
+      "lon": 4.54255877584, 
       "municipality": "Philippeville", 
       "pcode": "5600", 
       "source": "7757528", 
       "street": "Rue de la Roche"
     }, 
     {
+      "busnrs": [
+        "0021", 
+        "0022", 
+        "0031", 
+        "01/1", 
+        "03/2"
+      ], 
       "hnrlbls": [
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 50.193416552721, 
-      "lon": 4.542470574728, 
+      "lat": 50.193967161638, 
+      "lon": 4.542538885766, 
       "municipality": "Philippeville", 
       "pcode": "5600", 
       "source": "7757528", 
@@ -86,6 +108,18 @@
     }, 
     {
       "hnrlbls": [
+        "25"
+      ], 
+      "housenumber": "25", 
+      "lat": 50.193209507285, 
+      "lon": 4.542247079474, 
+      "municipality": "Philippeville", 
+      "pcode": "5600", 
+      "source": "7757528", 
+      "street": "Rue de la Roche"
+    }, 
+    {
+      "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
@@ -97,6 +131,10 @@
       "street": "Rue de la Roche"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "A001"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -157,6 +195,15 @@
       "street": "Rue de la Roche"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007"
+      ], 
       "hnrlbls": [
         "9"
       ], 

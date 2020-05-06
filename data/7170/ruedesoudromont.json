@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0002"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -89,14 +92,24 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.49746375202, 
-      "lon": 4.258395774999, 
+      "lat": 50.497458861365, 
+      "lon": 4.258749449052, 
       "municipality": "Manage", 
       "pcode": "7170", 
       "source": "7710741", 
       "street": "Rue de Soudromont"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -175,6 +188,18 @@
       "housenumber": "7", 
       "lat": 50.499891914538, 
       "lon": 4.258064126141, 
+      "municipality": "Manage", 
+      "pcode": "7170", 
+      "source": "7710741", 
+      "street": "Rue de Soudromont"
+    }, 
+    {
+      "hnrlbls": [
+        "7A"
+      ], 
+      "housenumber": "7A", 
+      "lat": 50.500123852644, 
+      "lon": 4.258079616726, 
       "municipality": "Manage", 
       "pcode": "7170", 
       "source": "7710741", 

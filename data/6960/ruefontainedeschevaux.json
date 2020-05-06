@@ -2,18 +2,6 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1"
-      ], 
-      "housenumber": "1", 
-      "lat": 50.27508570562, 
-      "lon": 5.658437265103, 
-      "municipality": "Manhay", 
-      "pcode": "6960", 
-      "source": "7744804", 
-      "street": "Rue Fontaine des Chevaux"
-    }, 
-    {
-      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -61,12 +49,29 @@
       "street": "Rue Fontaine des Chevaux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.274237668706, 
-      "lon": 5.656374411044, 
+      "lat": 50.274203816276, 
+      "lon": 5.656337856714, 
+      "municipality": "Manhay", 
+      "pcode": "6960", 
+      "source": "7744804", 
+      "street": "Rue Fontaine des Chevaux"
+    }, 
+    {
+      "hnrlbls": [
+        "15A"
+      ], 
+      "housenumber": "15A", 
+      "lat": 50.274257341853, 
+      "lon": 5.656421075, 
       "municipality": "Manhay", 
       "pcode": "6960", 
       "source": "7744804", 
@@ -134,35 +139,11 @@
     }, 
     {
       "hnrlbls": [
-        "29"
-      ], 
-      "housenumber": "29", 
-      "lat": 50.273065449942, 
-      "lon": 5.654254772491, 
-      "municipality": "Manhay", 
-      "pcode": "6960", 
-      "source": "7744804", 
-      "street": "Rue Fontaine des Chevaux"
-    }, 
-    {
-      "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
       "lat": 50.275040715248, 
       "lon": 5.658225301443, 
-      "municipality": "Manhay", 
-      "pcode": "6960", 
-      "source": "7744804", 
-      "street": "Rue Fontaine des Chevaux"
-    }, 
-    {
-      "hnrlbls": [
-        "31"
-      ], 
-      "housenumber": "31", 
-      "lat": 50.273030249061, 
-      "lon": 5.654309647369, 
       "municipality": "Manhay", 
       "pcode": "6960", 
       "source": "7744804", 

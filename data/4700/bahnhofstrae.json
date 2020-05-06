@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -17,8 +22,8 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 50.634905404092, 
-      "lon": 6.037055920564, 
+      "lat": 50.634914963211, 
+      "lon": 6.037011366444, 
       "municipality": "Eupen", 
       "pcode": "4700", 
       "source": "7735742", 
@@ -29,14 +34,19 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 50.634905404092, 
-      "lon": 6.037055920564, 
+      "lat": 50.634911790069, 
+      "lon": 6.037108520801, 
       "municipality": "Eupen", 
       "pcode": "4700", 
       "source": "7735742", 
       "street": "Bahnhofstra\u00dfe"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -97,6 +107,10 @@
       "street": "Bahnhofstra\u00dfe"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -133,12 +147,109 @@
       "street": "Bahnhofstra\u00dfe"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
       "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
       "lat": 50.634901989293, 
       "lon": 6.036438665509, 
+      "municipality": "Eupen", 
+      "pcode": "4700", 
+      "source": "7735742", 
+      "street": "Bahnhofstra\u00dfe"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "10", 
+        "11", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
+      "hnrlbls": [
+        "33"
+      ], 
+      "housenumber": "33", 
+      "lat": 50.634711881372, 
+      "lon": 6.039139246977, 
+      "municipality": "Eupen", 
+      "pcode": "4700", 
+      "source": "7735742", 
+      "street": "Bahnhofstra\u00dfe"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "10", 
+        "11", 
+        "12", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
+      "hnrlbls": [
+        "35"
+      ], 
+      "housenumber": "35", 
+      "lat": 50.634662968085, 
+      "lon": 6.039661085885, 
+      "municipality": "Eupen", 
+      "pcode": "4700", 
+      "source": "7735742", 
+      "street": "Bahnhofstra\u00dfe"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "10", 
+        "11", 
+        "12", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
+      "hnrlbls": [
+        "39"
+      ], 
+      "housenumber": "39", 
+      "lat": 50.634548513699, 
+      "lon": 6.04012727553, 
+      "municipality": "Eupen", 
+      "pcode": "4700", 
+      "source": "7735742", 
+      "street": "Bahnhofstra\u00dfe"
+    }, 
+    {
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.633644508847, 
+      "lon": 6.040982477825, 
       "municipality": "Eupen", 
       "pcode": "4700", 
       "source": "7735742", 

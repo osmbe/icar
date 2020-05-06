@@ -289,6 +289,9 @@
       "street": "En Marexhe"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -385,6 +388,9 @@
       "street": "En Marexhe"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -881,8 +887,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.65990814113, 
-      "lon": 5.62455572062, 
+      "lat": 50.659885555251, 
+      "lon": 5.624535655547, 
       "municipality": "Herstal", 
       "pcode": "4040", 
       "source": "7729081", 
@@ -913,6 +919,11 @@
       "street": "En Marexhe"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "000R"
+      ], 
       "hnrlbls": [
         "9"
       ], 

@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A001", 
+        "A002"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -313,6 +317,10 @@
       "street": "Houlteau"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -473,8 +481,8 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.63569821842, 
-      "lon": 5.863524127045, 
+      "lat": 50.635607437691, 
+      "lon": 5.863458108194, 
       "municipality": "Thimister-Clermont", 
       "pcode": "4890", 
       "source": "7739779", 

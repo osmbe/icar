@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -139,6 +145,18 @@
       "housenumber": "3", 
       "lat": 50.5031330936, 
       "lon": 4.478529022839, 
+      "municipality": "Les Bons Villers", 
+      "pcode": "6211", 
+      "source": "7711846", 
+      "street": "Rue Gaston Wautot"
+    }, 
+    {
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.503597322549, 
+      "lon": 4.477949280494, 
       "municipality": "Les Bons Villers", 
       "pcode": "6211", 
       "source": "7711846", 

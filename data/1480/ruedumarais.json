@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -205,6 +211,11 @@
       "street": "Rue du Marais"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -265,6 +276,9 @@
       "street": "Rue du Marais"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "5"
       ], 

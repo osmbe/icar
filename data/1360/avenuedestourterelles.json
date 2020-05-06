@@ -1,6 +1,27 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "bt11", 
+        "bt12", 
+        "bt13", 
+        "bt14", 
+        "bt15", 
+        "bt16", 
+        "bt18", 
+        "bt19", 
+        "bt20", 
+        "bt22", 
+        "bte1", 
+        "bte3", 
+        "bte4", 
+        "bte5", 
+        "bte6", 
+        "bte7", 
+        "bte8", 
+        "bte9", 
+        "rbt1"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -149,14 +170,18 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 50.622028023667, 
-      "lon": 4.808110527819, 
+      "lat": 50.622361455866, 
+      "lon": 4.807626502009, 
       "municipality": "Perwez", 
       "pcode": "1360", 
       "source": "7703206", 
       "street": "Avenue des Tourterelles"
     }, 
     {
+      "busnrs": [
+        "bte1", 
+        "bte2"
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -290,11 +315,47 @@
     }, 
     {
       "hnrlbls": [
+        "39"
+      ], 
+      "housenumber": "39", 
+      "lat": 50.621648759301, 
+      "lon": 4.801953486353, 
+      "municipality": "Perwez", 
+      "pcode": "1360", 
+      "source": "7703206", 
+      "street": "Avenue des Tourterelles"
+    }, 
+    {
+      "hnrlbls": [
         "40"
       ], 
       "housenumber": "40", 
       "lat": 50.621657281911, 
       "lon": 4.80464647952, 
+      "municipality": "Perwez", 
+      "pcode": "1360", 
+      "source": "7703206", 
+      "street": "Avenue des Tourterelles"
+    }, 
+    {
+      "hnrlbls": [
+        "41"
+      ], 
+      "housenumber": "41", 
+      "lat": 50.621648408235, 
+      "lon": 4.801855893727, 
+      "municipality": "Perwez", 
+      "pcode": "1360", 
+      "source": "7703206", 
+      "street": "Avenue des Tourterelles"
+    }, 
+    {
+      "hnrlbls": [
+        "43"
+      ], 
+      "housenumber": "43", 
+      "lat": 50.621652334789, 
+      "lon": 4.801759461039, 
       "municipality": "Perwez", 
       "pcode": "1360", 
       "source": "7703206", 

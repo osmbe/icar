@@ -145,6 +145,14 @@
       "street": "Rue des Muguets"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0021"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -283,6 +291,18 @@
       "housenumber": "2A", 
       "lat": 50.636303141947, 
       "lon": 5.603133113197, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730675", 
+      "street": "Rue des Muguets"
+    }, 
+    {
+      "hnrlbls": [
+        "2B"
+      ], 
+      "housenumber": "2B", 
+      "lat": 50.636298928238, 
+      "lon": 5.60325859101, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730675", 

@@ -1,6 +1,22 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0011", 
+        "021"
+      ], 
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.641607179403, 
+      "lon": 5.520871558784, 
+      "municipality": "Saint-Nicolas", 
+      "pcode": "4420", 
+      "source": "7731939", 
+      "street": "Rue des Ecoles"
+    }, 
+    {
       "hnrlbls": [
         "10"
       ], 
@@ -229,6 +245,9 @@
       "street": "Rue des Ecoles"
     }, 
     {
+      "busnrs": [
+        "001"
+      ], 
       "hnrlbls": [
         "5"
       ], 

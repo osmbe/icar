@@ -253,6 +253,11 @@
       "street": "Herlinval"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "76"
       ], 
@@ -313,6 +318,9 @@
       "street": "Herlinval"
     }, 
     {
+      "busnrs": [
+        "A/2"
+      ], 
       "hnrlbls": [
         "81"
       ], 
@@ -361,6 +369,9 @@
       "street": "Herlinval"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "85"
       ], 
@@ -403,6 +414,18 @@
       "housenumber": "88", 
       "lat": 50.113746956102, 
       "lon": 5.638535669086, 
+      "municipality": "La Roche-en-Ardenne", 
+      "pcode": "6983", 
+      "source": "7743771", 
+      "street": "Herlinval"
+    }, 
+    {
+      "hnrlbls": [
+        "88F"
+      ], 
+      "housenumber": "88F", 
+      "lat": 50.114230102611, 
+      "lon": 5.640363479589, 
       "municipality": "La Roche-en-Ardenne", 
       "pcode": "6983", 
       "source": "7743771", 

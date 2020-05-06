@@ -5,8 +5,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.620710579799, 
-      "lon": 4.558829596532, 
+      "lat": 50.62316113589, 
+      "lon": 4.551873756696, 
       "municipality": "Court-Saint-Etienne", 
       "pcode": "1490", 
       "source": "7701282", 
@@ -49,6 +49,9 @@
       "street": "Rue de Faux"
     }, 
     {
+      "busnrs": [
+        "Bte1"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -85,6 +88,12 @@
       "street": "Rue de Faux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "1001", 
+        "1002"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -325,6 +334,10 @@
       "street": "Rue de Faux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "41"
       ], 
@@ -541,6 +554,15 @@
       "street": "Rue de Faux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105"
+      ], 
       "hnrlbls": [
         "62"
       ], 
@@ -565,6 +587,21 @@
       "street": "Rue de Faux"
     }, 
     {
+      "hnrlbls": [
+        "63A"
+      ], 
+      "housenumber": "63A", 
+      "lat": 50.62034124493, 
+      "lon": 4.549632890749, 
+      "municipality": "Court-Saint-Etienne", 
+      "pcode": "1490", 
+      "source": "7701282", 
+      "street": "Rue de Faux"
+    }, 
+    {
+      "busnrs": [
+        "Bte1"
+      ], 
       "hnrlbls": [
         "65"
       ], 

@@ -49,6 +49,10 @@
       "street": "Rue du Soldat Larivi\u00e8re"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2"
+      ], 
       "hnrlbls": [
         "104"
       ], 
@@ -205,6 +209,11 @@
       "street": "Rue du Soldat Larivi\u00e8re"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "1/2", 
+        "2/3"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -517,6 +526,11 @@
       "street": "Rue du Soldat Larivi\u00e8re"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2", 
+        "Bte3"
+      ], 
       "hnrlbls": [
         "45"
       ], 
@@ -929,8 +943,8 @@
         "73"
       ], 
       "housenumber": "73", 
-      "lat": 50.716392145484, 
-      "lon": 4.87505443289, 
+      "lat": 50.716456056822, 
+      "lon": 4.874984247302, 
       "municipality": "Jodoigne", 
       "pcode": "1370", 
       "source": "7702460", 

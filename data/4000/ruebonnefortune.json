@@ -1,6 +1,13 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -49,6 +56,14 @@
       "street": "Rue Bonne-Fortune"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0022", 
+        "0031"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -61,12 +76,33 @@
       "street": "Rue Bonne-Fortune"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031"
+      ], 
       "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
       "lat": 50.640088899005, 
       "lon": 5.572387629229, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730227", 
+      "street": "Rue Bonne-Fortune"
+    }, 
+    {
+      "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 50.639905071561, 
+      "lon": 5.572436767324, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730227", 
@@ -121,6 +157,12 @@
       "street": "Rue Bonne-Fortune"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021"
+      ], 
       "hnrlbls": [
         "9"
       ], 

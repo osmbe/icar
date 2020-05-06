@@ -97,6 +97,11 @@
       "street": "Rue de la Plaine"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -115,6 +120,18 @@
       "housenumber": "18", 
       "lat": 50.643390152873, 
       "lon": 5.603558647019, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730393", 
+      "street": "Rue de la Plaine"
+    }, 
+    {
+      "hnrlbls": [
+        "1A"
+      ], 
+      "housenumber": "1A", 
+      "lat": 50.643135016587, 
+      "lon": 5.603107533573, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730393", 
@@ -145,6 +162,11 @@
       "street": "Rue de la Plaine"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -277,6 +299,13 @@
       "street": "Rue de la Plaine"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "6"
       ], 

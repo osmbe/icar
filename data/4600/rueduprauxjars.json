@@ -1,36 +1,20 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A", 
+        "A  1", 
+        "A  2", 
+        "B", 
+        "B  1", 
+        "B  2"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.742897055779, 
-      "lon": 5.681150283878, 
-      "municipality": "Vis\u00e9", 
-      "pcode": "4600", 
-      "source": "7733401", 
-      "street": "Rue du Pr\u00e9 aux Jars"
-    }, 
-    {
-      "hnrlbls": [
-        "1A"
-      ], 
-      "housenumber": "1A", 
-      "lat": 50.74289148841, 
-      "lon": 5.681264855386, 
-      "municipality": "Vis\u00e9", 
-      "pcode": "4600", 
-      "source": "7733401", 
-      "street": "Rue du Pr\u00e9 aux Jars"
-    }, 
-    {
-      "hnrlbls": [
-        "1B"
-      ], 
-      "housenumber": "1B", 
-      "lat": 50.742884114971, 
-      "lon": 5.681413118744, 
+      "lat": 50.742895929723, 
+      "lon": 5.68086906205, 
       "municipality": "Vis\u00e9", 
       "pcode": "4600", 
       "source": "7733401", 
@@ -41,20 +25,31 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.742490360099, 
-      "lon": 5.681252137532, 
+      "lat": 50.742492790087, 
+      "lon": 5.681141604477, 
       "municipality": "Vis\u00e9", 
       "pcode": "4600", 
       "source": "7733401", 
       "street": "Rue du Pr\u00e9 aux Jars"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "A  1", 
+        "A  2", 
+        "B", 
+        "B  1", 
+        "B 2", 
+        "C", 
+        "C  1", 
+        "C  2"
+      ], 
       "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.742895929723, 
-      "lon": 5.68086906205, 
+      "lat": 50.74289148841, 
+      "lon": 5.681264855386, 
       "municipality": "Vis\u00e9", 
       "pcode": "4600", 
       "source": "7733401", 
@@ -65,8 +60,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.742492790087, 
-      "lon": 5.681141604477, 
+      "lat": 50.742490360099, 
+      "lon": 5.681252137532, 
       "municipality": "Vis\u00e9", 
       "pcode": "4600", 
       "source": "7733401", 

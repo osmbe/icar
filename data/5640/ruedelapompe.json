@@ -205,6 +205,9 @@
       "street": "Rue de la Pompe"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "39"
       ], 
@@ -235,6 +238,18 @@
       "housenumber": "40", 
       "lat": 50.340517145995, 
       "lon": 4.625333453616, 
+      "municipality": "Mettet", 
+      "pcode": "5640", 
+      "source": "7752872", 
+      "street": "Rue de la Pompe"
+    }, 
+    {
+      "hnrlbls": [
+        "40A"
+      ], 
+      "housenumber": "40A", 
+      "lat": 50.340718227621, 
+      "lon": 4.625080466192, 
       "municipality": "Mettet", 
       "pcode": "5640", 
       "source": "7752872", 

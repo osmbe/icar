@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -134,6 +138,18 @@
     }, 
     {
       "hnrlbls": [
+        "21"
+      ], 
+      "housenumber": "21", 
+      "lat": 49.902148481038, 
+      "lon": 5.542110565966, 
+      "municipality": "Vaux-sur-S\u00fbre", 
+      "pcode": "6640", 
+      "source": "7762172", 
+      "street": "Rue Haute"
+    }, 
+    {
+      "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
@@ -163,18 +179,6 @@
       "housenumber": "6", 
       "lat": 49.901267704146, 
       "lon": 5.539195573799, 
-      "municipality": "Vaux-sur-S\u00fbre", 
-      "pcode": "6640", 
-      "source": "7762172", 
-      "street": "Rue Haute"
-    }, 
-    {
-      "hnrlbls": [
-        "7"
-      ], 
-      "housenumber": "7", 
-      "lat": 49.901851189139, 
-      "lon": 5.540188045921, 
       "municipality": "Vaux-sur-S\u00fbre", 
       "pcode": "6640", 
       "source": "7762172", 

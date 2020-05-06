@@ -1,6 +1,16 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -181,6 +191,9 @@
       "street": "Rue Horseilles"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -193,6 +206,9 @@
       "street": "Rue Horseilles"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -313,6 +329,11 @@
       "street": "Rue Horseilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "RC00"
+      ], 
       "hnrlbls": [
         "36"
       ], 

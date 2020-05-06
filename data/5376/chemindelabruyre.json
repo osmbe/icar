@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "000A", 
+        "000B"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -19,6 +23,18 @@
       "housenumber": "3", 
       "lat": 50.365440309571, 
       "lon": 5.255115556602, 
+      "municipality": "Havelange", 
+      "pcode": "5376", 
+      "source": "7749814", 
+      "street": "Chemin de la Bruy\u00e8re"
+    }, 
+    {
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.36518007102, 
+      "lon": 5.255087694086, 
       "municipality": "Havelange", 
       "pcode": "5376", 
       "source": "7749814", 

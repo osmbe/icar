@@ -1,6 +1,17 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "11", 
+        "12", 
+        "13", 
+        "15", 
+        "21", 
+        "22", 
+        "31", 
+        "32", 
+        "33"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +24,11 @@
       "street": "Place du Becquerelle"
     }, 
     {
+      "busnrs": [
+        "11", 
+        "12", 
+        "21"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -49,6 +65,10 @@
       "street": "Place du Becquerelle"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "21"
+      ], 
       "hnrlbls": [
         "6"
       ], 

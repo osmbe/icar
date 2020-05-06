@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "B", 
+        "Bte1"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,24 +17,15 @@
       "street": "Rue de Givet"
     }, 
     {
+      "busnrs": [
+        "0011"
+      ], 
       "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
       "lat": 50.248956100998, 
       "lon": 4.917814682296, 
-      "municipality": "Dinant", 
-      "pcode": "5500", 
-      "source": "7749235", 
-      "street": "Rue de Givet"
-    }, 
-    {
-      "hnrlbls": [
-        "12"
-      ], 
-      "housenumber": "12", 
-      "lat": 50.248902626632, 
-      "lon": 4.917855778587, 
       "municipality": "Dinant", 
       "pcode": "5500", 
       "source": "7749235", 
@@ -194,18 +189,6 @@
     }, 
     {
       "hnrlbls": [
-        "28"
-      ], 
-      "housenumber": "28", 
-      "lat": 50.245956183364, 
-      "lon": 4.918941466344, 
-      "municipality": "Dinant", 
-      "pcode": "5500", 
-      "source": "7749235", 
-      "street": "Rue de Givet"
-    }, 
-    {
-      "hnrlbls": [
         "29"
       ], 
       "housenumber": "29", 
@@ -217,6 +200,13 @@
       "street": "Rue de Givet"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2", 
+        "Bte3", 
+        "Bte4", 
+        "Bte5"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -349,6 +339,11 @@
       "street": "Rue de Givet"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2", 
+        "Bte3"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -649,6 +644,12 @@
       "street": "Rue de Givet"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B", 
+        "Bte1", 
+        "Bte2"
+      ], 
       "hnrlbls": [
         "62"
       ], 
@@ -697,24 +698,15 @@
       "street": "Rue de Givet"
     }, 
     {
+      "busnrs": [
+        "0070"
+      ], 
       "hnrlbls": [
         "69"
       ], 
       "housenumber": "69", 
       "lat": 50.240912040982, 
       "lon": 4.913418479595, 
-      "municipality": "Dinant", 
-      "pcode": "5500", 
-      "source": "7749235", 
-      "street": "Rue de Givet"
-    }, 
-    {
-      "hnrlbls": [
-        "70"
-      ], 
-      "housenumber": "70", 
-      "lat": 50.240885127266, 
-      "lon": 4.913337323452, 
       "municipality": "Dinant", 
       "pcode": "5500", 
       "source": "7749235", 
@@ -781,6 +773,11 @@
       "street": "Rue de Givet"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2", 
+        "Bte3"
+      ], 
       "hnrlbls": [
         "9"
       ], 

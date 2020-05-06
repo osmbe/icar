@@ -1,12 +1,15 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "Bte2"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.745324515697, 
-      "lon": 4.976069557529, 
+      "lat": 50.745078702377, 
+      "lon": 4.976079099054, 
       "municipality": "H\u00e9l\u00e9cine", 
       "pcode": "1357", 
       "source": "7705386", 
@@ -101,8 +104,8 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.747394706209, 
-      "lon": 4.977188176426, 
+      "lat": 50.746458961736, 
+      "lon": 4.979213071617, 
       "municipality": "H\u00e9l\u00e9cine", 
       "pcode": "1357", 
       "source": "7705386", 
@@ -161,8 +164,8 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.747545337483, 
-      "lon": 4.973230885422, 
+      "lat": 50.746302323903, 
+      "lon": 4.973029449513, 
       "municipality": "H\u00e9l\u00e9cine", 
       "pcode": "1357", 
       "source": "7705386", 
@@ -181,6 +184,11 @@
       "street": "Rue Armand Dewolf"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2", 
+        "Bte3"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -199,6 +207,18 @@
       "housenumber": "4", 
       "lat": 50.747239426819, 
       "lon": 4.976109182115, 
+      "municipality": "H\u00e9l\u00e9cine", 
+      "pcode": "1357", 
+      "source": "7705386", 
+      "street": "Rue Armand Dewolf"
+    }, 
+    {
+      "hnrlbls": [
+        "47"
+      ], 
+      "housenumber": "47", 
+      "lat": 50.745264580496, 
+      "lon": 4.9711383546, 
       "municipality": "H\u00e9l\u00e9cine", 
       "pcode": "1357", 
       "source": "7705386", 

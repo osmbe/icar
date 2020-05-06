@@ -13,6 +13,13 @@
       "street": "Rue Montagne du Parc"
     }, 
     {
+      "busnrs": [
+        "BT04", 
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt07"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -49,6 +56,11 @@
       "street": "Rue Montagne du Parc"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -115,6 +127,18 @@
       "housenumber": "5", 
       "lat": 50.595420113245, 
       "lon": 4.322264044836, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703159", 
+      "street": "Rue Montagne du Parc"
+    }, 
+    {
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 50.595503148727, 
+      "lon": 4.322128505184, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703159", 

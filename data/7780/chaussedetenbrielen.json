@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0/01", 
+        "0/02", 
+        "A---", 
+        "A/01"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -481,6 +487,10 @@
       "street": "Chauss\u00e9e de Ten-Brielen"
     }, 
     {
+      "busnrs": [
+        "A/01", 
+        "A/02"
+      ], 
       "hnrlbls": [
         "52"
       ], 

@@ -49,6 +49,21 @@
       "street": "Rue de France"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "10", 
+        "11", 
+        "12", 
+        "13", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -145,12 +160,40 @@
       "street": "Rue de France"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
+      "hnrlbls": [
+        "24"
+      ], 
+      "housenumber": "24", 
+      "lat": 50.604331787164, 
+      "lon": 4.13319807991, 
+      "municipality": "Braine-le-Comte", 
+      "pcode": "7090", 
+      "source": "7716543", 
+      "street": "Rue de France"
+    }, 
+    {
       "hnrlbls": [
         "25"
       ], 
       "housenumber": "25", 
       "lat": 50.604387464732, 
       "lon": 4.132925017292, 
+      "municipality": "Braine-le-Comte", 
+      "pcode": "7090", 
+      "source": "7716543", 
+      "street": "Rue de France"
+    }, 
+    {
+      "hnrlbls": [
+        "26"
+      ], 
+      "housenumber": "26", 
+      "lat": 50.604210037988, 
+      "lon": 4.133275305979, 
       "municipality": "Braine-le-Comte", 
       "pcode": "7090", 
       "source": "7716543", 
@@ -173,8 +216,8 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 50.60421339607, 
-      "lon": 4.133267406685, 
+      "lat": 50.604211320901, 
+      "lon": 4.133122583255, 
       "municipality": "Braine-le-Comte", 
       "pcode": "7090", 
       "source": "7716543", 

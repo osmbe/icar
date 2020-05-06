@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "1-2", 
+        "2-1"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -109,6 +115,10 @@
       "street": "Avenue d'Hyon"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1"
+      ], 
       "hnrlbls": [
         "109"
       ], 
@@ -157,6 +167,11 @@
       "street": "Avenue d'Hyon"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "1-2"
+      ], 
       "hnrlbls": [
         "10B"
       ], 
@@ -169,6 +184,10 @@
       "street": "Avenue d'Hyon"
     }, 
     {
+      "busnrs": [
+        "1-1", 
+        "1-2"
+      ], 
       "hnrlbls": [
         "10C"
       ], 
@@ -241,6 +260,24 @@
       "street": "Avenue d'Hyon"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "1-2", 
+        "2-1"
+      ], 
+      "hnrlbls": [
+        "113A"
+      ], 
+      "housenumber": "113A", 
+      "lat": 50.444561382872, 
+      "lon": 3.955372909414, 
+      "municipality": "Mons", 
+      "pcode": "7000", 
+      "source": "7713083", 
+      "street": "Avenue d'Hyon"
+    }, 
+    {
       "hnrlbls": [
         "114"
       ], 
@@ -289,12 +326,17 @@
       "street": "Avenue d'Hyon"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "1-1"
+      ], 
       "hnrlbls": [
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.449846226663, 
-      "lon": 3.954050933633, 
+      "lat": 50.449849818062, 
+      "lon": 3.954057421629, 
       "municipality": "Mons", 
       "pcode": "7000", 
       "source": "7713083", 
@@ -326,9 +368,33 @@
     }, 
     {
       "hnrlbls": [
-        "126"
+        "125"
       ], 
-      "housenumber": "126", 
+      "housenumber": "125", 
+      "lat": 50.444179841739, 
+      "lon": 3.95544164282, 
+      "municipality": "Mons", 
+      "pcode": "7000", 
+      "source": "7713083", 
+      "street": "Avenue d'Hyon"
+    }, 
+    {
+      "hnrlbls": [
+        "127"
+      ], 
+      "housenumber": "127", 
+      "lat": 50.444127521753, 
+      "lon": 3.955444892817, 
+      "municipality": "Mons", 
+      "pcode": "7000", 
+      "source": "7713083", 
+      "street": "Avenue d'Hyon"
+    }, 
+    {
+      "hnrlbls": [
+        "128"
+      ], 
+      "housenumber": "128", 
       "lat": 50.444336199573, 
       "lon": 3.955047313232, 
       "municipality": "Mons", 
@@ -337,6 +403,21 @@
       "street": "Avenue d'Hyon"
     }, 
     {
+      "hnrlbls": [
+        "129"
+      ], 
+      "housenumber": "129", 
+      "lat": 50.444083539866, 
+      "lon": 3.955451794135, 
+      "municipality": "Mons", 
+      "pcode": "7000", 
+      "source": "7713083", 
+      "street": "Avenue d'Hyon"
+    }, 
+    {
+      "busnrs": [
+        "1-1"
+      ], 
       "hnrlbls": [
         "12A"
       ], 
@@ -367,6 +448,18 @@
       "housenumber": "130", 
       "lat": 50.444283656035, 
       "lon": 3.955053937551, 
+      "municipality": "Mons", 
+      "pcode": "7000", 
+      "source": "7713083", 
+      "street": "Avenue d'Hyon"
+    }, 
+    {
+      "hnrlbls": [
+        "131"
+      ], 
+      "housenumber": "131", 
+      "lat": 50.444040148926, 
+      "lon": 3.955457759678, 
       "municipality": "Mons", 
       "pcode": "7000", 
       "source": "7713083", 
@@ -469,6 +562,11 @@
       "street": "Avenue d'Hyon"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "2-1"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -577,6 +675,14 @@
       "street": "Avenue d'Hyon"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "1-1", 
+        "1-2", 
+        "2-2", 
+        "3-1"
+      ], 
       "hnrlbls": [
         "148A"
       ], 
@@ -613,6 +719,10 @@
       "street": "Avenue d'Hyon"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "2-2"
+      ], 
       "hnrlbls": [
         "150"
       ], 
@@ -661,6 +771,10 @@
       "street": "Avenue d'Hyon"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -685,6 +799,11 @@
       "street": "Avenue d'Hyon"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "2-1"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -806,6 +925,18 @@
     }, 
     {
       "hnrlbls": [
+        "27B"
+      ], 
+      "housenumber": "27B", 
+      "lat": 50.44897924375, 
+      "lon": 3.954611149086, 
+      "municipality": "Mons", 
+      "pcode": "7000", 
+      "source": "7713083", 
+      "street": "Avenue d'Hyon"
+    }, 
+    {
+      "hnrlbls": [
         "28"
       ], 
       "housenumber": "28", 
@@ -829,6 +960,12 @@
       "street": "Avenue d'Hyon"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "1-2", 
+        "1-3"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -889,6 +1026,11 @@
       "street": "Avenue d'Hyon"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "2-1"
+      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -913,6 +1055,10 @@
       "street": "Avenue d'Hyon"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1"
+      ], 
       "hnrlbls": [
         "36"
       ], 
@@ -925,6 +1071,15 @@
       "street": "Avenue d'Hyon"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "0-3", 
+        "1-1", 
+        "1-2", 
+        "2-1", 
+        "2-2"
+      ], 
       "hnrlbls": [
         "37"
       ], 
@@ -937,6 +1092,15 @@
       "street": "Avenue d'Hyon"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "1-1", 
+        "1-2", 
+        "1-3", 
+        "2-1", 
+        "2-2"
+      ], 
       "hnrlbls": [
         "38"
       ], 
@@ -961,6 +1125,18 @@
       "street": "Avenue d'Hyon"
     }, 
     {
+      "busnrs": [
+        "1-1", 
+        "1-2", 
+        "2-1", 
+        "2-2", 
+        "3-1", 
+        "3-2", 
+        "4-1", 
+        "4-2", 
+        "5-1", 
+        "5-2"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -973,6 +1149,11 @@
       "street": "Avenue d'Hyon"
     }, 
     {
+      "busnrs": [
+        "1-2", 
+        "2-1", 
+        "RZCH"
+      ], 
       "hnrlbls": [
         "40"
       ], 
@@ -1009,6 +1190,12 @@
       "street": "Avenue d'Hyon"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "1-2", 
+        "2-1"
+      ], 
       "hnrlbls": [
         "43"
       ], 
@@ -1021,6 +1208,10 @@
       "street": "Avenue d'Hyon"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1"
+      ], 
       "hnrlbls": [
         "44"
       ], 
@@ -1057,6 +1248,22 @@
       "street": "Avenue d'Hyon"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "1-1", 
+        "1-2", 
+        "1-3", 
+        "1-4", 
+        "2-1", 
+        "2-2", 
+        "2-3", 
+        "2-4", 
+        "3-1", 
+        "3-2", 
+        "3-3", 
+        "3-4"
+      ], 
       "hnrlbls": [
         "47"
       ], 
@@ -1105,6 +1312,30 @@
       "street": "Avenue d'Hyon"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "0-3", 
+        "0-4", 
+        "1-1", 
+        "1-2", 
+        "1-3", 
+        "1-4", 
+        "1-5", 
+        "2-1", 
+        "2-2", 
+        "2-3", 
+        "2-4", 
+        "2-5", 
+        "3-1", 
+        "3-2", 
+        "3-3", 
+        "3-4", 
+        "3-5", 
+        "4-1", 
+        "4-2", 
+        "4-3"
+      ], 
       "hnrlbls": [
         "51"
       ], 
@@ -1165,6 +1396,18 @@
       "street": "Avenue d'Hyon"
     }, 
     {
+      "busnrs": [
+        "1-1", 
+        "1-2", 
+        "2-1", 
+        "2-2", 
+        "3-1", 
+        "3-2", 
+        "4-1", 
+        "4-2", 
+        "5-1", 
+        "5-2"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -1189,6 +1432,10 @@
       "street": "Avenue d'Hyon"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1"
+      ], 
       "hnrlbls": [
         "62"
       ], 
@@ -1213,6 +1460,9 @@
       "street": "Avenue d'Hyon"
     }, 
     {
+      "busnrs": [
+        "1-1"
+      ], 
       "hnrlbls": [
         "66"
       ], 
@@ -1225,6 +1475,9 @@
       "street": "Avenue d'Hyon"
     }, 
     {
+      "busnrs": [
+        "0-5"
+      ], 
       "hnrlbls": [
         "68"
       ], 
@@ -1297,6 +1550,14 @@
       "street": "Avenue d'Hyon"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "1-1", 
+        "1-2", 
+        "2-1", 
+        "2-2"
+      ], 
       "hnrlbls": [
         "74"
       ], 
@@ -1321,6 +1582,10 @@
       "street": "Avenue d'Hyon"
     }, 
     {
+      "busnrs": [
+        "1-1", 
+        "1-2"
+      ], 
       "hnrlbls": [
         "76"
       ], 
@@ -1381,6 +1646,10 @@
       "street": "Avenue d'Hyon"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "2-1"
+      ], 
       "hnrlbls": [
         "81"
       ], 
@@ -1453,6 +1722,12 @@
       "street": "Avenue d'Hyon"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "2-1", 
+        "3-1"
+      ], 
       "hnrlbls": [
         "87"
       ], 
@@ -1501,6 +1776,11 @@
       "street": "Avenue d'Hyon"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "2-1"
+      ], 
       "hnrlbls": [
         "90"
       ], 
@@ -1591,6 +1871,18 @@
       "housenumber": "98", 
       "lat": 50.445241597346, 
       "lon": 3.954935450455, 
+      "municipality": "Mons", 
+      "pcode": "7000", 
+      "source": "7713083", 
+      "street": "Avenue d'Hyon"
+    }, 
+    {
+      "hnrlbls": [
+        "98B"
+      ], 
+      "housenumber": "98B", 
+      "lat": 50.445120344882, 
+      "lon": 3.95494017604, 
       "municipality": "Mons", 
       "pcode": "7000", 
       "source": "7713083", 

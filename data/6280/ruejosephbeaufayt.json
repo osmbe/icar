@@ -1,12 +1,17 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "C1", 
+        "C2", 
+        "C3"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.335820036343, 
-      "lon": 4.529352298351, 
+      "lat": 50.336658670057, 
+      "lon": 4.528973558638, 
       "municipality": "Gerpinnes", 
       "pcode": "6280", 
       "source": "7710595", 
@@ -49,6 +54,10 @@
       "street": "Rue Joseph Beaufayt"
     }, 
     {
+      "busnrs": [
+        "A101", 
+        "A201"
+      ], 
       "hnrlbls": [
         "3"
       ], 

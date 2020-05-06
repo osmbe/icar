@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -13,6 +16,9 @@
       "street": "Rue de la Gare"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -25,6 +31,10 @@
       "street": "Rue de la Gare"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -49,6 +59,10 @@
       "street": "Rue de la Gare"
     }, 
     {
+      "busnrs": [
+        "15/A1/1", 
+        "15/A2/1"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -61,6 +75,9 @@
       "street": "Rue de la Gare"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -73,6 +90,12 @@
       "street": "Rue de la Gare"
     }, 
     {
+      "busnrs": [
+        "1/1", 
+        "1/2", 
+        "2/1", 
+        "2/2"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -145,6 +168,10 @@
       "street": "Rue de la Gare"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -253,18 +280,31 @@
       "street": "Rue de la Gare"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "1/1", 
+        "1/2", 
+        "2/1", 
+        "2/2"
+      ], 
       "hnrlbls": [
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 49.592240199135, 
-      "lon": 5.819114994251, 
+      "lat": 49.592212465473, 
+      "lon": 5.819144354925, 
       "municipality": "Messancy", 
       "pcode": "6780", 
       "source": "7742231", 
       "street": "Rue de la Gare"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "0/2", 
+        "1/1", 
+        "2/1"
+      ], 
       "hnrlbls": [
         "41"
       ], 
@@ -305,8 +345,8 @@
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 49.592803842646, 
-      "lon": 5.81967427718, 
+      "lat": 49.592437886705, 
+      "lon": 5.819667164065, 
       "municipality": "Messancy", 
       "pcode": "6780", 
       "source": "7742231", 

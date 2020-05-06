@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "1017"
       ], 
@@ -73,6 +77,12 @@
       "street": "Chauss\u00e9e de Marche"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0005"
+      ], 
       "hnrlbls": [
         "174"
       ], 
@@ -85,6 +95,9 @@
       "street": "Chauss\u00e9e de Marche"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "176"
       ], 
@@ -205,6 +218,9 @@
       "street": "Chauss\u00e9e de Marche"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "204"
       ], 
@@ -349,6 +365,10 @@
       "street": "Chauss\u00e9e de Marche"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "248"
       ], 
@@ -361,6 +381,12 @@
       "street": "Chauss\u00e9e de Marche"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "250"
       ], 
@@ -385,6 +411,15 @@
       "street": "Chauss\u00e9e de Marche"
     }, 
     {
+      "busnrs": [
+        "0005", 
+        "0007", 
+        "0008", 
+        "0010", 
+        "0011", 
+        "0012", 
+        "0013"
+      ], 
       "hnrlbls": [
         "256"
       ], 
@@ -745,6 +780,18 @@
       "street": "Chauss\u00e9e de Marche"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0009", 
+        "0010", 
+        "0011"
+      ], 
       "hnrlbls": [
         "318"
       ], 
@@ -805,6 +852,10 @@
       "street": "Chauss\u00e9e de Marche"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "330"
       ], 
@@ -817,6 +868,9 @@
       "street": "Chauss\u00e9e de Marche"
     }, 
     {
+      "busnrs": [
+        "0002"
+      ], 
       "hnrlbls": [
         "335"
       ], 
@@ -829,6 +883,14 @@
       "street": "Chauss\u00e9e de Marche"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006"
+      ], 
       "hnrlbls": [
         "336"
       ], 
@@ -853,6 +915,13 @@
       "street": "Chauss\u00e9e de Marche"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0007"
+      ], 
       "hnrlbls": [
         "338"
       ], 
@@ -925,6 +994,11 @@
       "street": "Chauss\u00e9e de Marche"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "346"
       ], 
@@ -1457,8 +1531,8 @@
         "658"
       ], 
       "housenumber": "658", 
-      "lat": 50.43610182639, 
-      "lon": 4.91316621403, 
+      "lat": 50.436062639613, 
+      "lon": 4.913152914332, 
       "municipality": "Namur", 
       "pcode": "5100", 
       "source": "7753171", 
@@ -1597,6 +1671,9 @@
       "street": "Chauss\u00e9e de Marche"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "727"
       ], 
@@ -1609,6 +1686,9 @@
       "street": "Chauss\u00e9e de Marche"
     }, 
     {
+      "busnrs": [
+        "0002"
+      ], 
       "hnrlbls": [
         "729"
       ], 
@@ -1793,8 +1873,8 @@
         "823"
       ], 
       "housenumber": "823", 
-      "lat": 50.424952468226, 
-      "lon": 4.931860413082, 
+      "lat": 50.424928779992, 
+      "lon": 4.931991591887, 
       "municipality": "Namur", 
       "pcode": "5100", 
       "source": "7753171", 
@@ -1829,8 +1909,8 @@
         "830"
       ], 
       "housenumber": "830", 
-      "lat": 50.423883837305, 
-      "lon": 4.932101619742, 
+      "lat": 50.423947561671, 
+      "lon": 4.931829399859, 
       "municipality": "Namur", 
       "pcode": "5100", 
       "source": "7753171", 
@@ -1889,8 +1969,8 @@
         "850"
       ], 
       "housenumber": "850", 
-      "lat": 50.422199801738, 
-      "lon": 4.93414694328, 
+      "lat": 50.422046667942, 
+      "lon": 4.933939585154, 
       "municipality": "Namur", 
       "pcode": "5100", 
       "source": "7753171", 
@@ -2077,6 +2157,9 @@
       "street": "Chauss\u00e9e de Marche"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "903"
       ], 
@@ -2117,8 +2200,8 @@
         "927"
       ], 
       "housenumber": "927", 
-      "lat": 50.418231483784, 
-      "lon": 4.94253950881, 
+      "lat": 50.417964225096, 
+      "lon": 4.942762189262, 
       "municipality": "Namur", 
       "pcode": "5100", 
       "source": "7753171", 
@@ -2153,8 +2236,8 @@
         "940"
       ], 
       "housenumber": "940", 
-      "lat": 50.418070397898, 
-      "lon": 4.941367319383, 
+      "lat": 50.417753268621, 
+      "lon": 4.941145732661, 
       "municipality": "Namur", 
       "pcode": "5100", 
       "source": "7753171", 

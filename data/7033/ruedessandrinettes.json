@@ -37,6 +37,10 @@
       "street": "Rue des Sandrinettes"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -85,6 +89,14 @@
       "street": "Rue des Sandrinettes"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -149,14 +161,17 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 50.445056432261, 
-      "lon": 3.920266430089, 
+      "lat": 50.446872916197, 
+      "lon": 3.919307472628, 
       "municipality": "Mons", 
       "pcode": "7033", 
       "source": "7713822", 
       "street": "Rue des Sandrinettes"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -221,8 +236,8 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 50.449276319436, 
-      "lon": 3.918684355863, 
+      "lat": 50.449336871733, 
+      "lon": 3.918296411125, 
       "municipality": "Mons", 
       "pcode": "7033", 
       "source": "7713822", 

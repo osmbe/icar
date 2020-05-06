@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -13,6 +17,11 @@
       "street": "Thier du Bouhay"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -73,6 +82,10 @@
       "street": "Thier du Bouhay"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -290,6 +303,18 @@
     }, 
     {
       "hnrlbls": [
+        "32"
+      ], 
+      "housenumber": "32", 
+      "lat": 50.63839448072, 
+      "lon": 5.598162098841, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7731478", 
+      "street": "Thier du Bouhay"
+    }, 
+    {
+      "hnrlbls": [
         "33"
       ], 
       "housenumber": "33", 
@@ -337,6 +362,14 @@
       "street": "Thier du Bouhay"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -361,6 +394,14 @@
       "street": "Thier du Bouhay"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -379,6 +420,18 @@
       "housenumber": "8", 
       "lat": 50.638182692518, 
       "lon": 5.597074471763, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7731478", 
+      "street": "Thier du Bouhay"
+    }, 
+    {
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.638315611051, 
+      "lon": 5.597146065595, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7731478", 

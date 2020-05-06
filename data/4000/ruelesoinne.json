@@ -1,6 +1,13 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -13,6 +20,10 @@
       "street": "Rue Lesoinne"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -25,6 +36,11 @@
       "street": "Rue Lesoinne"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -43,6 +59,18 @@
       "housenumber": "13", 
       "lat": 50.621986465287, 
       "lon": 5.572007964984, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731147", 
+      "street": "Rue Lesoinne"
+    }, 
+    {
+      "hnrlbls": [
+        "14"
+      ], 
+      "housenumber": "14", 
+      "lat": 50.622137104604, 
+      "lon": 5.571929419595, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731147", 
@@ -85,6 +113,12 @@
       "street": "Rue Lesoinne"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -97,6 +131,14 @@
       "street": "Rue Lesoinne"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0021"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -133,6 +175,14 @@
       "street": "Rue Lesoinne"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -169,6 +219,12 @@
       "street": "Rue Lesoinne"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -181,6 +237,11 @@
       "street": "Rue Lesoinne"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -205,6 +266,11 @@
       "street": "Rue Lesoinne"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -229,6 +295,12 @@
       "street": "Rue Lesoinne"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -241,6 +313,10 @@
       "street": "Rue Lesoinne"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "32"
       ], 
@@ -253,6 +329,12 @@
       "street": "Rue Lesoinne"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -265,6 +347,32 @@
       "street": "Rue Lesoinne"
     }, 
     {
+      "hnrlbls": [
+        "36"
+      ], 
+      "housenumber": "36", 
+      "lat": 50.622032001238, 
+      "lon": 5.570996039752, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731147", 
+      "street": "Rue Lesoinne"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022", 
+        "0023"
+      ], 
       "hnrlbls": [
         "4"
       ], 

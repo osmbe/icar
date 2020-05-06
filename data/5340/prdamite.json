@@ -13,6 +13,9 @@
       "street": "Pr\u00e9 d'Amite"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -37,6 +40,9 @@
       "street": "Pr\u00e9 d'Amite"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -61,6 +67,11 @@
       "street": "Pr\u00e9 d'Amite"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "000B", 
+        "000C"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -149,8 +160,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 50.408801404963, 
-      "lon": 5.044236272307, 
+      "lat": 50.408783685005, 
+      "lon": 5.044115632493, 
       "municipality": "Gesves", 
       "pcode": "5340", 
       "source": "7752673", 

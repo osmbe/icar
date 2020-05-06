@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -25,12 +29,29 @@
       "street": "Auf'm Bach"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "15"
       ], 
       "housenumber": "15", 
       "lat": 50.630243774622, 
       "lon": 6.034098891585, 
+      "municipality": "Eupen", 
+      "pcode": "4700", 
+      "source": "7735738", 
+      "street": "Auf'm Bach"
+    }, 
+    {
+      "hnrlbls": [
+        "2A"
+      ], 
+      "housenumber": "2A", 
+      "lat": 50.629922312342, 
+      "lon": 6.033669890406, 
       "municipality": "Eupen", 
       "pcode": "4700", 
       "source": "7735738", 
@@ -61,6 +82,10 @@
       "street": "Auf'm Bach"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "7"
       ], 

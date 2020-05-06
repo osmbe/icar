@@ -169,6 +169,9 @@
       "street": "Chauss\u00e9e de Bruxelles"
     }, 
     {
+      "busnrs": [
+        "Bt02"
+      ], 
       "hnrlbls": [
         "192"
       ], 
@@ -266,11 +269,23 @@
     }, 
     {
       "hnrlbls": [
+        "206B"
+      ], 
+      "housenumber": "206B", 
+      "lat": 50.612099856826, 
+      "lon": 4.339330841996, 
+      "municipality": "Nivelles", 
+      "pcode": "1401", 
+      "source": "7702865", 
+      "street": "Chauss\u00e9e de Bruxelles"
+    }, 
+    {
+      "hnrlbls": [
         "206C"
       ], 
       "housenumber": "206C", 
-      "lat": 50.61196762925, 
-      "lon": 4.33895874191, 
+      "lat": 50.612226814673, 
+      "lon": 4.339583246175, 
       "municipality": "Nivelles", 
       "pcode": "1401", 
       "source": "7702865", 
@@ -374,9 +389,9 @@
     }, 
     {
       "hnrlbls": [
-        "226"
+        "228"
       ], 
-      "housenumber": "226", 
+      "housenumber": "228", 
       "lat": 50.613458089384, 
       "lon": 4.339522724482, 
       "municipality": "Nivelles", 
@@ -386,9 +401,9 @@
     }, 
     {
       "hnrlbls": [
-        "228"
+        "230A"
       ], 
-      "housenumber": "228", 
+      "housenumber": "230A", 
       "lat": 50.613773108977, 
       "lon": 4.339671386615, 
       "municipality": "Nivelles", 
@@ -403,6 +418,18 @@
       "housenumber": "238", 
       "lat": 50.614463365498, 
       "lon": 4.339987914136, 
+      "municipality": "Nivelles", 
+      "pcode": "1401", 
+      "source": "7702865", 
+      "street": "Chauss\u00e9e de Bruxelles"
+    }, 
+    {
+      "hnrlbls": [
+        "264"
+      ], 
+      "housenumber": "264", 
+      "lat": 50.615064436806, 
+      "lon": 4.340237808243, 
       "municipality": "Nivelles", 
       "pcode": "1401", 
       "source": "7702865", 

@@ -1,6 +1,15 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041", 
+        "0051", 
+        "0061"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +22,11 @@
       "street": "Avenue du Luxembourg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -97,6 +111,12 @@
       "street": "Avenue du Luxembourg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -109,6 +129,17 @@
       "street": "Avenue du Luxembourg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0031", 
+        "0032", 
+        "0033", 
+        "0041"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -121,6 +152,16 @@
       "street": "Avenue du Luxembourg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0031", 
+        "0032", 
+        "0033"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -133,6 +174,12 @@
       "street": "Avenue du Luxembourg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -145,6 +192,11 @@
       "street": "Avenue du Luxembourg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -169,6 +221,11 @@
       "street": "Avenue du Luxembourg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0031"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -181,6 +238,14 @@
       "street": "Avenue du Luxembourg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -217,6 +282,14 @@
       "street": "Avenue du Luxembourg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -229,6 +302,12 @@
       "street": "Avenue du Luxembourg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -241,6 +320,12 @@
       "street": "Avenue du Luxembourg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -265,6 +350,12 @@
       "street": "Avenue du Luxembourg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -361,6 +452,15 @@
       "street": "Avenue du Luxembourg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041", 
+        "0051", 
+        "0061"
+      ], 
       "hnrlbls": [
         "37"
       ], 
@@ -386,6 +486,48 @@
     }, 
     {
       "hnrlbls": [
+        "39"
+      ], 
+      "housenumber": "39", 
+      "lat": 50.622562618516, 
+      "lon": 5.58811494263, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7729640", 
+      "street": "Avenue du Luxembourg"
+    }, 
+    {
+      "hnrlbls": [
+        "39A"
+      ], 
+      "housenumber": "39A", 
+      "lat": 50.622571699385, 
+      "lon": 5.588115827362, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7729640", 
+      "street": "Avenue du Luxembourg"
+    }, 
+    {
+      "hnrlbls": [
+        "39B"
+      ], 
+      "housenumber": "39B", 
+      "lat": 50.62256111342, 
+      "lon": 5.588207310933, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7729640", 
+      "street": "Avenue du Luxembourg"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
+      "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
@@ -409,6 +551,12 @@
       "street": "Avenue du Luxembourg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "41"
       ], 
@@ -445,6 +593,11 @@
       "street": "Avenue du Luxembourg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0031"
+      ], 
       "hnrlbls": [
         "44"
       ], 
@@ -481,6 +634,12 @@
       "street": "Avenue du Luxembourg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "47"
       ], 
@@ -505,6 +664,12 @@
       "street": "Avenue du Luxembourg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "000A", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "49"
       ], 
@@ -541,6 +706,12 @@
       "street": "Avenue du Luxembourg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "51"
       ], 
@@ -589,6 +760,13 @@
       "street": "Avenue du Luxembourg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "55"
       ], 
@@ -601,6 +779,14 @@
       "street": "Avenue du Luxembourg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "56"
       ], 
@@ -613,6 +799,13 @@
       "street": "Avenue du Luxembourg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "57"
       ], 
@@ -625,6 +818,11 @@
       "street": "Avenue du Luxembourg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "58"
       ], 
@@ -637,6 +835,12 @@
       "street": "Avenue du Luxembourg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "59"
       ], 
@@ -649,6 +853,13 @@
       "street": "Avenue du Luxembourg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -673,6 +884,13 @@
       "street": "Avenue du Luxembourg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "61"
       ], 
@@ -733,12 +951,36 @@
       "street": "Avenue du Luxembourg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "66"
       ], 
       "housenumber": "66", 
       "lat": 50.622245083219, 
       "lon": 5.58880899057, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7729640", 
+      "street": "Avenue du Luxembourg"
+    }, 
+    {
+      "busnrs": [
+        "0011"
+      ], 
+      "hnrlbls": [
+        "67"
+      ], 
+      "housenumber": "67", 
+      "lat": 50.622543376913, 
+      "lon": 5.589508411428, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7729640", 
@@ -757,6 +999,14 @@
       "street": "Avenue du Luxembourg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -769,6 +1019,11 @@
       "street": "Avenue du Luxembourg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "70"
       ], 
@@ -781,6 +1036,11 @@
       "street": "Avenue du Luxembourg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "72"
       ], 
@@ -841,6 +1101,11 @@
       "street": "Avenue du Luxembourg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "80"
       ], 
@@ -865,6 +1130,12 @@
       "street": "Avenue du Luxembourg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "84"
       ], 
@@ -889,6 +1160,12 @@
       "street": "Avenue du Luxembourg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "88"
       ], 

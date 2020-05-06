@@ -553,6 +553,10 @@
       "street": "Rue Vandervelde"
     }, 
     {
+      "busnrs": [
+        "01/2", 
+        "RC/1"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -806,11 +810,35 @@
     }, 
     {
       "hnrlbls": [
+        "94"
+      ], 
+      "housenumber": "94", 
+      "lat": 50.38521370507, 
+      "lon": 4.383698439428, 
+      "municipality": "Montigny-le-Tilleul", 
+      "pcode": "6110", 
+      "source": "7710988", 
+      "street": "Rue Vandervelde"
+    }, 
+    {
+      "hnrlbls": [
         "95"
       ], 
       "housenumber": "95", 
       "lat": 50.385084618366, 
       "lon": 4.384076391793, 
+      "municipality": "Montigny-le-Tilleul", 
+      "pcode": "6110", 
+      "source": "7710988", 
+      "street": "Rue Vandervelde"
+    }, 
+    {
+      "hnrlbls": [
+        "96"
+      ], 
+      "housenumber": "96", 
+      "lat": 50.385294484076, 
+      "lon": 4.38372803277, 
       "municipality": "Montigny-le-Tilleul", 
       "pcode": "6110", 
       "source": "7710988", 

@@ -73,6 +73,13 @@
       "street": "Rue de la R\u00e9sistance"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "160"
       ], 
@@ -110,11 +117,11 @@
     }, 
     {
       "hnrlbls": [
-        "166B"
+        "166A"
       ], 
-      "housenumber": "166B", 
-      "lat": 50.695686457782, 
-      "lon": 5.334983230763, 
+      "housenumber": "166A", 
+      "lat": 50.695621866677, 
+      "lon": 5.33497070694, 
       "municipality": "Remicourt", 
       "pcode": "4351", 
       "source": "7740844", 
@@ -122,11 +129,11 @@
     }, 
     {
       "hnrlbls": [
-        "166a"
+        "166B"
       ], 
-      "housenumber": "166a", 
-      "lat": 50.695621866677, 
-      "lon": 5.33497070694, 
+      "housenumber": "166B", 
+      "lat": 50.695686457782, 
+      "lon": 5.334983230763, 
       "municipality": "Remicourt", 
       "pcode": "4351", 
       "source": "7740844", 

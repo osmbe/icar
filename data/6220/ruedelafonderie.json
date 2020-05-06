@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +16,9 @@
       "street": "Rue de la Fonderie"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -121,6 +127,12 @@
       "street": "Rue de la Fonderie"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -139,6 +151,18 @@
       "housenumber": "3", 
       "lat": 50.482910966067, 
       "lon": 4.542639314274, 
+      "municipality": "Fleurus", 
+      "pcode": "6220", 
+      "source": "7709987", 
+      "street": "Rue de la Fonderie"
+    }, 
+    {
+      "hnrlbls": [
+        "31"
+      ], 
+      "housenumber": "31", 
+      "lat": 50.48200524932, 
+      "lon": 4.541781262231, 
       "municipality": "Fleurus", 
       "pcode": "6220", 
       "source": "7709987", 
@@ -337,6 +361,9 @@
       "street": "Rue de la Fonderie"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "6"
       ], 

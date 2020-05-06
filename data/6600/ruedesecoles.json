@@ -61,6 +61,15 @@
       "street": "Rue des Ecoles"
     }, 
     {
+      "busnrs": [
+        "A  1", 
+        "A  2", 
+        "B  1", 
+        "B  2", 
+        "C  1", 
+        "C  2", 
+        "D  1"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -109,12 +118,41 @@
       "street": "Rue des Ecoles"
     }, 
     {
+      "busnrs": [
+        "39 A", 
+        "39 B", 
+        "39 R"
+      ], 
       "hnrlbls": [
         "39"
       ], 
       "housenumber": "39", 
       "lat": 50.002860983311, 
       "lon": 5.71689947703, 
+      "municipality": "Bastogne", 
+      "pcode": "6600", 
+      "source": "7742436", 
+      "street": "Rue des Ecoles"
+    }, 
+    {
+      "busnrs": [
+        "A 1", 
+        "A 2", 
+        "A 3", 
+        "A 4", 
+        "B 1", 
+        "B 2", 
+        "B 3", 
+        "B 4", 
+        "C 1", 
+        "C 2"
+      ], 
+      "hnrlbls": [
+        "43"
+      ], 
+      "housenumber": "43", 
+      "lat": 50.002945104357, 
+      "lon": 5.7170179898, 
       "municipality": "Bastogne", 
       "pcode": "6600", 
       "source": "7742436", 

@@ -13,6 +13,10 @@
       "street": "Rue Coussin Ruelle"
     }, 
     {
+      "busnrs": [
+        "0102", 
+        "0201"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -49,6 +53,14 @@
       "street": "Rue Coussin Ruelle"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -133,6 +145,9 @@
       "street": "Rue Coussin Ruelle"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -157,6 +172,9 @@
       "street": "Rue Coussin Ruelle"
     }, 
     {
+      "busnrs": [
+        "1001"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -173,8 +191,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.641391938167, 
-      "lon": 4.569906785141, 
+      "lat": 50.64086005827, 
+      "lon": 4.569313561825, 
       "municipality": "Court-Saint-Etienne", 
       "pcode": "1490", 
       "source": "7701279", 

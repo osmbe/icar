@@ -73,6 +73,10 @@
       "street": "Rue Eug\u00e8ne Falmagne"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "111"
       ], 
@@ -181,6 +185,14 @@
       "street": "Rue Eug\u00e8ne Falmagne"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006"
+      ], 
       "hnrlbls": [
         "133"
       ], 
@@ -629,8 +641,8 @@
         "57"
       ], 
       "housenumber": "57", 
-      "lat": 50.377706920803, 
-      "lon": 4.888702355368, 
+      "lat": 50.370230157976, 
+      "lon": 4.881193219193, 
       "municipality": "Profondeville", 
       "pcode": "5170", 
       "source": "7755003", 
@@ -1009,6 +1021,9 @@
       "street": "Rue Eug\u00e8ne Falmagne"
     }, 
     {
+      "busnrs": [
+        "B2"
+      ], 
       "hnrlbls": [
         "99"
       ], 
@@ -1021,6 +1036,9 @@
       "street": "Rue Eug\u00e8ne Falmagne"
     }, 
     {
+      "busnrs": [
+        "99/B2"
+      ], 
       "hnrlbls": [
         "99B"
       ], 

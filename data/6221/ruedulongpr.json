@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -29,8 +32,20 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.515110622273, 
-      "lon": 4.543875421952, 
+      "lat": 50.515086231093, 
+      "lon": 4.543881859636, 
+      "municipality": "Fleurus", 
+      "pcode": "6221", 
+      "source": "7710059", 
+      "street": "Rue du Longpr\u00e9"
+    }, 
+    {
+      "hnrlbls": [
+        "14"
+      ], 
+      "housenumber": "14", 
+      "lat": 50.515263280789, 
+      "lon": 4.543727548644, 
       "municipality": "Fleurus", 
       "pcode": "6221", 
       "source": "7710059", 

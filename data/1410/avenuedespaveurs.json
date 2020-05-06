@@ -89,8 +89,8 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 50.708505365389, 
-      "lon": 4.377987803846, 
+      "lat": 50.708408892489, 
+      "lon": 4.375339276899, 
       "municipality": "Waterloo", 
       "pcode": "1410", 
       "source": "7704216", 
@@ -205,6 +205,11 @@
       "street": "Avenue des Paveurs"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2", 
+        "Bte3"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -289,6 +294,9 @@
       "street": "Avenue des Paveurs"
     }, 
     {
+      "busnrs": [
+        "Rdch"
+      ], 
       "hnrlbls": [
         "6"
       ], 

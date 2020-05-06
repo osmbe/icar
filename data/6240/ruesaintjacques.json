@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -25,6 +31,11 @@
       "street": "Rue Saint-Jacques"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "011", 
+        "021"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -169,6 +180,13 @@
       "street": "Rue Saint-Jacques"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "021", 
+        "022"
+      ], 
       "hnrlbls": [
         "6"
       ], 

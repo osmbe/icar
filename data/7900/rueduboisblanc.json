@@ -121,6 +121,11 @@
       "street": "Rue du Bois Blanc"
     }, 
     {
+      "busnrs": [
+        "BTE1", 
+        "BTE2", 
+        "BTE3"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -133,6 +138,16 @@
       "street": "Rue du Bois Blanc"
     }, 
     {
+      "busnrs": [
+        "APT3", 
+        "BTE1", 
+        "BTE2", 
+        "BTE4", 
+        "BTE5", 
+        "BTE6", 
+        "BTE7", 
+        "BTE8"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -470,6 +485,18 @@
     }, 
     {
       "hnrlbls": [
+        "46"
+      ], 
+      "housenumber": "46", 
+      "lat": 50.604688300584, 
+      "lon": 3.616530591221, 
+      "municipality": "Leuze-en-Hainaut", 
+      "pcode": "7900", 
+      "source": "7724297", 
+      "street": "Rue du Bois Blanc"
+    }, 
+    {
+      "hnrlbls": [
         "47"
       ], 
       "housenumber": "47", 
@@ -613,6 +640,15 @@
       "street": "Rue du Bois Blanc"
     }, 
     {
+      "busnrs": [
+        "BTE1", 
+        "BTE2", 
+        "BTE3", 
+        "BTE4", 
+        "BTE5", 
+        "BTE6", 
+        "BTE7"
+      ], 
       "hnrlbls": [
         "7"
       ], 

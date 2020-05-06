@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -17,14 +20,17 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 49.874335611232, 
-      "lon": 5.509233900271, 
+      "lat": 49.874284952868, 
+      "lon": 5.509256254747, 
       "municipality": "Neufch\u00e2teau", 
       "pcode": "6840", 
       "source": "7746047", 
       "street": "Voie des Fers"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -61,6 +67,12 @@
       "street": "Voie des Fers"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -97,6 +109,10 @@
       "street": "Voie des Fers"
     }, 
     {
+      "busnrs": [
+        "9/1", 
+        "9/2"
+      ], 
       "hnrlbls": [
         "9"
       ], 

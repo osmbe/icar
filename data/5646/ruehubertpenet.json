@@ -169,6 +169,12 @@
       "street": "Rue Hubert Penet"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B", 
+        "C", 
+        "D"
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -293,8 +299,20 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 50.280517912094, 
-      "lon": 4.657906885585, 
+      "lat": 50.280516117993, 
+      "lon": 4.657958474499, 
+      "municipality": "Mettet", 
+      "pcode": "5646", 
+      "source": "7752982", 
+      "street": "Rue Hubert Penet"
+    }, 
+    {
+      "hnrlbls": [
+        "36A"
+      ], 
+      "housenumber": "36A", 
+      "lat": 50.280559027659, 
+      "lon": 4.657868439989, 
       "municipality": "Mettet", 
       "pcode": "5646", 
       "source": "7752982", 
@@ -314,6 +332,30 @@
     }, 
     {
       "hnrlbls": [
+        "38"
+      ], 
+      "housenumber": "38", 
+      "lat": 50.280392318431, 
+      "lon": 4.65813902844, 
+      "municipality": "Mettet", 
+      "pcode": "5646", 
+      "source": "7752982", 
+      "street": "Rue Hubert Penet"
+    }, 
+    {
+      "hnrlbls": [
+        "38A"
+      ], 
+      "housenumber": "38A", 
+      "lat": 50.280359997224, 
+      "lon": 4.658219889336, 
+      "municipality": "Mettet", 
+      "pcode": "5646", 
+      "source": "7752982", 
+      "street": "Rue Hubert Penet"
+    }, 
+    {
+      "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
@@ -325,6 +367,14 @@
       "street": "Rue Hubert Penet"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006"
+      ], 
       "hnrlbls": [
         "40"
       ], 
@@ -397,6 +447,10 @@
       "street": "Rue Hubert Penet"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
       "hnrlbls": [
         "46"
       ], 
@@ -445,6 +499,10 @@
       "street": "Rue Hubert Penet"
     }, 
     {
+      "busnrs": [
+        "B", 
+        "C"
+      ], 
       "hnrlbls": [
         "50"
       ], 

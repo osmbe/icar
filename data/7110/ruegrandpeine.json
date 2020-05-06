@@ -1045,6 +1045,9 @@
       "street": "Rue Grand'Peine"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "85"
       ], 
@@ -1129,6 +1132,10 @@
       "street": "Rue Grand'Peine"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "92"
       ], 
@@ -1181,8 +1188,8 @@
         "96"
       ], 
       "housenumber": "96", 
-      "lat": 50.48776814682, 
-      "lon": 4.143538838231, 
+      "lat": 50.48774922517, 
+      "lon": 4.143465777376, 
       "municipality": "La Louvi\u00e8re", 
       "pcode": "7110", 
       "source": "7717661", 

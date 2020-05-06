@@ -97,6 +97,9 @@
       "street": "Rue de l'Enseignement"
     }, 
     {
+      "busnrs": [
+        "r\u00e9+1"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -253,6 +256,10 @@
       "street": "Rue de l'Enseignement"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "rez."
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -349,12 +356,28 @@
       "street": "Rue de l'Enseignement"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "rez."
+      ], 
       "hnrlbls": [
         "48"
       ], 
       "housenumber": "48", 
       "lat": 50.597292417221, 
       "lon": 5.859220491217, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738825", 
+      "street": "Rue de l'Enseignement"
+    }, 
+    {
+      "hnrlbls": [
+        "49"
+      ], 
+      "housenumber": "49", 
+      "lat": 50.59735799747, 
+      "lon": 5.859431353178, 
       "municipality": "Verviers", 
       "pcode": "4800", 
       "source": "7738825", 

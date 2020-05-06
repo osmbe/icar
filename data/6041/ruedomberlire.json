@@ -73,6 +73,9 @@
       "street": "Rue Dom Berli\u00e8re"
     }, 
     {
+      "busnrs": [
+        "00O1"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -109,6 +112,9 @@
       "street": "Rue Dom Berli\u00e8re"
     }, 
     {
+      "busnrs": [
+        "00O1"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -121,12 +127,18 @@
       "street": "Rue Dom Berli\u00e8re"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "011", 
+        "021", 
+        "031"
+      ], 
       "hnrlbls": [
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 50.464392507527, 
-      "lon": 4.429337902243, 
+      "lat": 50.464413898715, 
+      "lon": 4.429331563566, 
       "municipality": "Charleroi", 
       "pcode": "6041", 
       "source": "7761231", 
@@ -145,6 +157,11 @@
       "street": "Rue Dom Berli\u00e8re"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "021", 
+        "031"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -163,6 +180,18 @@
       "housenumber": "6", 
       "lat": 50.465013844028, 
       "lon": 4.429352959496, 
+      "municipality": "Charleroi", 
+      "pcode": "6041", 
+      "source": "7761231", 
+      "street": "Rue Dom Berli\u00e8re"
+    }, 
+    {
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 50.46463188642, 
+      "lon": 4.428919229151, 
       "municipality": "Charleroi", 
       "pcode": "6041", 
       "source": "7761231", 

@@ -421,6 +421,12 @@
       "street": "Rue de Genleau"
     }, 
     {
+      "busnrs": [
+        "1001", 
+        "1002", 
+        "2001", 
+        "2002"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -529,6 +535,16 @@
       "street": "Rue de Genleau"
     }, 
     {
+      "busnrs": [
+        "A001", 
+        "A002", 
+        "A003", 
+        "A004", 
+        "Bte1", 
+        "Bte2", 
+        "Bte3", 
+        "Bte4"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -637,6 +653,9 @@
       "street": "Rue de Genleau"
     }, 
     {
+      "busnrs": [
+        "2001"
+      ], 
       "hnrlbls": [
         "7"
       ], 

@@ -13,6 +13,9 @@
       "street": "Rue Jules Destr\u00e9e"
     }, 
     {
+      "busnrs": [
+        "21"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -37,6 +40,10 @@
       "street": "Rue Jules Destr\u00e9e"
     }, 
     {
+      "busnrs": [
+        "11", 
+        "21"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -61,6 +68,14 @@
       "street": "Rue Jules Destr\u00e9e"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "21", 
+        "22", 
+        "3", 
+        "6"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -313,6 +328,22 @@
       "street": "Rue Jules Destr\u00e9e"
     }, 
     {
+      "busnrs": [
+        "54B/01", 
+        "54B/11"
+      ], 
+      "hnrlbls": [
+        "54B"
+      ], 
+      "housenumber": "54B", 
+      "lat": 50.705747051945, 
+      "lon": 5.642803828951, 
+      "municipality": "Oupeye", 
+      "pcode": "4680", 
+      "source": "7731760", 
+      "street": "Rue Jules Destr\u00e9e"
+    }, 
+    {
       "hnrlbls": [
         "55"
       ], 
@@ -349,6 +380,10 @@
       "street": "Rue Jules Destr\u00e9e"
     }, 
     {
+      "busnrs": [
+        "11", 
+        "21"
+      ], 
       "hnrlbls": [
         "58"
       ], 

@@ -13,6 +13,10 @@
       "street": "Chemin des Roches"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -31,6 +35,25 @@
       "housenumber": "11B", 
       "lat": 50.004877881808, 
       "lon": 5.724635921956, 
+      "municipality": "Bastogne", 
+      "pcode": "6600", 
+      "source": "7742345", 
+      "street": "Chemin des Roches"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
+      "hnrlbls": [
+        "13"
+      ], 
+      "housenumber": "13", 
+      "lat": 50.005013387406, 
+      "lon": 5.725239677702, 
       "municipality": "Bastogne", 
       "pcode": "6600", 
       "source": "7742345", 
@@ -241,6 +264,10 @@
       "street": "Chemin des Roches"
     }, 
     {
+      "busnrs": [
+        "B  1", 
+        "B  2"
+      ], 
       "hnrlbls": [
         "9"
       ], 

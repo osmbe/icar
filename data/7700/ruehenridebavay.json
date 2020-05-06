@@ -85,6 +85,10 @@
       "street": "Rue Henri Debavay"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -241,12 +245,27 @@
       "street": "Rue Henri Debavay"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
       "lat": 50.741116841575, 
       "lon": 3.222979470059, 
+      "municipality": "Mouscron", 
+      "pcode": "7700", 
+      "source": "7716068", 
+      "street": "Rue Henri Debavay"
+    }, 
+    {
+      "hnrlbls": [
+        "8A"
+      ], 
+      "housenumber": "8A", 
+      "lat": 50.741052050922, 
+      "lon": 3.223074557199, 
       "municipality": "Mouscron", 
       "pcode": "7700", 
       "source": "7716068", 

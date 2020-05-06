@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0", 
+        "A", 
+        "B"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -241,6 +246,11 @@
       "street": "Rue Courteroie"
     }, 
     {
+      "busnrs": [
+        "0", 
+        "A", 
+        "B"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -601,6 +611,13 @@
       "street": "Rue Courteroie"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
         "5A"
       ], 

@@ -25,6 +25,10 @@
       "street": "Rue L\u00e9on Colin"
     }, 
     {
+      "busnrs": [
+        "B", 
+        "C"
+      ], 
       "hnrlbls": [
         "11A"
       ], 
@@ -55,6 +59,18 @@
       "housenumber": "13", 
       "lat": 50.32470695308, 
       "lon": 4.655898225291, 
+      "municipality": "Mettet", 
+      "pcode": "5640", 
+      "source": "7752984", 
+      "street": "Rue L\u00e9on Colin"
+    }, 
+    {
+      "hnrlbls": [
+        "13A"
+      ], 
+      "housenumber": "13A", 
+      "lat": 50.324780266438, 
+      "lon": 4.655905008461, 
       "municipality": "Mettet", 
       "pcode": "5640", 
       "source": "7752984", 
@@ -97,24 +113,15 @@
       "street": "Rue L\u00e9on Colin"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 50.325508906885, 
-      "lon": 4.654812418868, 
-      "municipality": "Mettet", 
-      "pcode": "5640", 
-      "source": "7752984", 
-      "street": "Rue L\u00e9on Colin"
-    }, 
-    {
-      "hnrlbls": [
-        "17A"
-      ], 
-      "housenumber": "17A", 
-      "lat": 50.325523006015, 
-      "lon": 4.65492795195, 
+      "lat": 50.325513499222, 
+      "lon": 4.654879329905, 
       "municipality": "Mettet", 
       "pcode": "5640", 
       "source": "7752984", 

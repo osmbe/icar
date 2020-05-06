@@ -1,12 +1,15 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.726261116668, 
-      "lon": 4.703583637508, 
+      "lat": 50.72640854768, 
+      "lon": 4.703583459125, 
       "municipality": "Grez-Doiceau", 
       "pcode": "1390", 
       "source": "7701687", 
@@ -97,6 +100,9 @@
       "street": "Avenue des Sapins"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -121,6 +127,10 @@
       "street": "Avenue des Sapins"
     }, 
     {
+      "busnrs": [
+        "000H", 
+        "000P"
+      ], 
       "hnrlbls": [
         "27"
       ], 

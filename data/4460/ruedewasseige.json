@@ -13,6 +13,9 @@
       "street": "Rue de Wasseige"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "40"
       ], 
@@ -133,12 +136,28 @@
       "street": "Rue de Wasseige"
     }, 
     {
+      "busnrs": [
+        "A001", 
+        "A002"
+      ], 
       "hnrlbls": [
         "62"
       ], 
       "housenumber": "62", 
       "lat": 50.656260823488, 
       "lon": 5.491106899337, 
+      "municipality": "Gr\u00e2ce-Hollogne", 
+      "pcode": "4460", 
+      "source": "7733604", 
+      "street": "Rue de Wasseige"
+    }, 
+    {
+      "hnrlbls": [
+        "62A"
+      ], 
+      "housenumber": "62A", 
+      "lat": 50.656201118456, 
+      "lon": 5.491018868673, 
       "municipality": "Gr\u00e2ce-Hollogne", 
       "pcode": "4460", 
       "source": "7733604", 

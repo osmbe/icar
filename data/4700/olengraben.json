@@ -1,6 +1,13 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -73,12 +80,44 @@
       "street": "Olengraben"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.624049497686, 
+      "lon": 6.032603920079, 
+      "municipality": "Eupen", 
+      "pcode": "4700", 
+      "source": "7735869", 
+      "street": "Olengraben"
+    }, 
+    {
       "hnrlbls": [
         "21A"
       ], 
       "housenumber": "21A", 
       "lat": 50.623892396701, 
       "lon": 6.032773314621, 
+      "municipality": "Eupen", 
+      "pcode": "4700", 
+      "source": "7735869", 
+      "street": "Olengraben"
+    }, 
+    {
+      "hnrlbls": [
+        "21B"
+      ], 
+      "housenumber": "21B", 
+      "lat": 50.623886924018, 
+      "lon": 6.032884639836, 
       "municipality": "Eupen", 
       "pcode": "4700", 
       "source": "7735869", 
@@ -133,6 +172,11 @@
       "street": "Olengraben"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -145,6 +189,10 @@
       "street": "Olengraben"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -169,6 +217,10 @@
       "street": "Olengraben"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -193,6 +245,12 @@
       "street": "Olengraben"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -205,6 +263,10 @@
       "street": "Olengraben"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "7"
       ], 

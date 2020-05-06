@@ -97,6 +97,11 @@
       "street": "Rue d'Egypte"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -199,18 +204,6 @@
       "housenumber": "28", 
       "lat": 50.540422071881, 
       "lon": 4.419127770911, 
-      "municipality": "Les Bons Villers", 
-      "pcode": "6210", 
-      "source": "7711809", 
-      "street": "Rue d'Egypte"
-    }, 
-    {
-      "hnrlbls": [
-        "3"
-      ], 
-      "housenumber": "3", 
-      "lat": 50.538974398676, 
-      "lon": 4.417093165182, 
       "municipality": "Les Bons Villers", 
       "pcode": "6210", 
       "source": "7711809", 

@@ -73,6 +73,9 @@
       "street": "Rue du Champay"
     }, 
     {
+      "busnrs": [
+        "BIS0"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -97,12 +100,40 @@
       "street": "Rue du Champay"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
       "lat": 50.519477580904, 
       "lon": 5.64224253851, 
+      "municipality": "Sprimont", 
+      "pcode": "4140", 
+      "source": "7733089", 
+      "street": "Rue du Champay"
+    }, 
+    {
+      "hnrlbls": [
+        "18/1"
+      ], 
+      "housenumber": "18/1", 
+      "lat": 50.519637992181, 
+      "lon": 5.6423959426, 
+      "municipality": "Sprimont", 
+      "pcode": "4140", 
+      "source": "7733089", 
+      "street": "Rue du Champay"
+    }, 
+    {
+      "hnrlbls": [
+        "18/2"
+      ], 
+      "housenumber": "18/2", 
+      "lat": 50.519805011096, 
+      "lon": 5.642506707865, 
       "municipality": "Sprimont", 
       "pcode": "4140", 
       "source": "7733089", 
@@ -193,6 +224,9 @@
       "street": "Rue du Champay"
     }, 
     {
+      "busnrs": [
+        "BIS0"
+      ], 
       "hnrlbls": [
         "6"
       ], 

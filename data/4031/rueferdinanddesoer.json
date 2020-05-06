@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -109,6 +114,11 @@
       "street": "Rue Ferdinand-Desoer"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -229,6 +239,11 @@
       "street": "Rue Ferdinand-Desoer"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -307,6 +322,22 @@
       "housenumber": "36", 
       "lat": 50.610195806379, 
       "lon": 5.601290262018, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4031", 
+      "source": "7730939", 
+      "street": "Rue Ferdinand-Desoer"
+    }, 
+    {
+      "busnrs": [
+        "0011", 
+        "0021"
+      ], 
+      "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 50.610473989497, 
+      "lon": 5.602631705532, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4031", 
       "source": "7730939", 

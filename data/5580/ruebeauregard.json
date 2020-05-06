@@ -133,6 +133,9 @@
       "street": "Rue Beauregard"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -338,6 +341,18 @@
     }, 
     {
       "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.156402833661, 
+      "lon": 5.223813155791, 
+      "municipality": "Rochefort", 
+      "pcode": "5580", 
+      "source": "7750341", 
+      "street": "Rue Beauregard"
+    }, 
+    {
+      "hnrlbls": [
         "61"
       ], 
       "housenumber": "61", 
@@ -349,6 +364,11 @@
       "street": "Rue Beauregard"
     }, 
     {
+      "busnrs": [
+        "A001", 
+        "A011", 
+        "A021"
+      ], 
       "hnrlbls": [
         "69"
       ], 

@@ -37,6 +37,10 @@
       "street": "Rue de la Sapini\u00e8re"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "000B"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -85,6 +89,10 @@
       "street": "Rue de la Sapini\u00e8re"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "Ap.3"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -157,6 +165,16 @@
       "street": "Rue de la Sapini\u00e8re"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0006", 
+        "0007", 
+        "0008", 
+        "5"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -307,6 +325,100 @@
       "housenumber": "6", 
       "lat": 50.533294981034, 
       "lon": 5.74984236064, 
+      "municipality": "Sprimont", 
+      "pcode": "4141", 
+      "source": "7733019", 
+      "street": "Rue de la Sapini\u00e8re"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0005", 
+        "0006", 
+        "2", 
+        "3", 
+        "4"
+      ], 
+      "hnrlbls": [
+        "61"
+      ], 
+      "housenumber": "61", 
+      "lat": 50.53767017356, 
+      "lon": 5.743233742467, 
+      "municipality": "Sprimont", 
+      "pcode": "4141", 
+      "source": "7733019", 
+      "street": "Rue de la Sapini\u00e8re"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006"
+      ], 
+      "hnrlbls": [
+        "63"
+      ], 
+      "housenumber": "63", 
+      "lat": 50.537777992182, 
+      "lon": 5.743121067599, 
+      "municipality": "Sprimont", 
+      "pcode": "4141", 
+      "source": "7733019", 
+      "street": "Rue de la Sapini\u00e8re"
+    }, 
+    {
+      "busnrs": [
+        "0003", 
+        "1", 
+        "2", 
+        "4"
+      ], 
+      "hnrlbls": [
+        "65"
+      ], 
+      "housenumber": "65", 
+      "lat": 50.537925257211, 
+      "lon": 5.742882150311, 
+      "municipality": "Sprimont", 
+      "pcode": "4141", 
+      "source": "7733019", 
+      "street": "Rue de la Sapini\u00e8re"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
+      "hnrlbls": [
+        "67"
+      ], 
+      "housenumber": "67", 
+      "lat": 50.538055287981, 
+      "lon": 5.742763503632, 
+      "municipality": "Sprimont", 
+      "pcode": "4141", 
+      "source": "7733019", 
+      "street": "Rue de la Sapini\u00e8re"
+    }, 
+    {
+      "busnrs": [
+        "0003", 
+        "1", 
+        "2", 
+        "4"
+      ], 
+      "hnrlbls": [
+        "69"
+      ], 
+      "housenumber": "69", 
+      "lat": 50.538179562909, 
+      "lon": 5.742653936237, 
       "municipality": "Sprimont", 
       "pcode": "4141", 
       "source": "7733019", 

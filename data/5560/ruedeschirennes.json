@@ -385,6 +385,10 @@
       "street": "Rue des Chirennes"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "38"
       ], 
@@ -427,6 +431,18 @@
       "housenumber": "5", 
       "lat": 50.185856204434, 
       "lon": 5.006794562852, 
+      "municipality": "Houyet", 
+      "pcode": "5560", 
+      "source": "7750088", 
+      "street": "Rue des Chirennes"
+    }, 
+    {
+      "hnrlbls": [
+        "5A"
+      ], 
+      "housenumber": "5A", 
+      "lat": 50.185768603716, 
+      "lon": 5.006659876261, 
       "municipality": "Houyet", 
       "pcode": "5560", 
       "source": "7750088", 

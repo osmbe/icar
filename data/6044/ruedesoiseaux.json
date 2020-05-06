@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "000A", 
+        "000B"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -133,6 +137,15 @@
       "street": "Rue des Oiseaux"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "000B", 
+        "000D", 
+        "000E", 
+        "000F", 
+        "C001", 
+        "C002"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -265,6 +278,11 @@
       "street": "Rue des Oiseaux"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "000B", 
+        "000C"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -361,6 +379,10 @@
       "street": "Rue des Oiseaux"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "000B"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -505,6 +527,9 @@
       "street": "Rue des Oiseaux"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -533,8 +558,8 @@
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 50.441962481975, 
-      "lon": 4.377741823878, 
+      "lat": 50.441914124271, 
+      "lon": 4.377728482038, 
       "municipality": "Charleroi", 
       "pcode": "6044", 
       "source": "7761526", 

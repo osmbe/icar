@@ -361,6 +361,10 @@
       "street": "Rue Adonis Descamps"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "0-2"
+      ], 
       "hnrlbls": [
         "159B"
       ], 
@@ -379,30 +383,6 @@
       "housenumber": "162", 
       "lat": 50.455349518769, 
       "lon": 4.034851529866, 
-      "municipality": "Mons", 
-      "pcode": "7021", 
-      "source": "7713439", 
-      "street": "Rue Adonis Descamps"
-    }, 
-    {
-      "hnrlbls": [
-        "163A"
-      ], 
-      "housenumber": "163A", 
-      "lat": 50.454503711334, 
-      "lon": 4.034901854686, 
-      "municipality": "Mons", 
-      "pcode": "7021", 
-      "source": "7713439", 
-      "street": "Rue Adonis Descamps"
-    }, 
-    {
-      "hnrlbls": [
-        "163B"
-      ], 
-      "housenumber": "163B", 
-      "lat": 50.454542606195, 
-      "lon": 4.034882020008, 
       "municipality": "Mons", 
       "pcode": "7021", 
       "source": "7713439", 
@@ -973,6 +953,11 @@
       "street": "Rue Adonis Descamps"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "1-2"
+      ], 
       "hnrlbls": [
         "79"
       ], 

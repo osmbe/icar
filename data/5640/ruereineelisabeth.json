@@ -37,6 +37,11 @@
       "street": "Rue Reine Elisabeth"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B", 
+        "C"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -73,6 +78,11 @@
       "street": "Rue Reine Elisabeth"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B", 
+        "C"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -133,6 +143,10 @@
       "street": "Rue Reine Elisabeth"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -145,6 +159,10 @@
       "street": "Rue Reine Elisabeth"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "000B"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -277,6 +295,9 @@
       "street": "Rue Reine Elisabeth"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "33"
       ], 
@@ -349,6 +370,12 @@
       "street": "Rue Reine Elisabeth"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004"
+      ], 
       "hnrlbls": [
         "43"
       ], 
@@ -517,6 +544,9 @@
       "street": "Rue Reine Elisabeth"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -713,8 +743,8 @@
         "76"
       ], 
       "housenumber": "76", 
-      "lat": 50.321557252538, 
-      "lon": 4.665707239429, 
+      "lat": 50.321515508157, 
+      "lon": 4.665659790813, 
       "municipality": "Mettet", 
       "pcode": "5640", 
       "source": "7752991", 

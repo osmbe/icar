@@ -121,6 +121,11 @@
       "street": "Rue du Tige"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -145,6 +150,14 @@
       "street": "Rue du Tige"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -185,8 +198,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.443594130633, 
-      "lon": 5.473718078647, 
+      "lat": 50.443622650396, 
+      "lon": 5.473720979663, 
       "municipality": "Ouffet", 
       "pcode": "4590", 
       "source": "7726095", 
@@ -257,8 +270,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 50.444186737197, 
-      "lon": 5.474157702293, 
+      "lat": 50.444166403425, 
+      "lon": 5.474144561236, 
       "municipality": "Ouffet", 
       "pcode": "4590", 
       "source": "7726095", 
@@ -355,6 +368,30 @@
       "housenumber": "44", 
       "lat": 50.44568641612, 
       "lon": 5.475812967768, 
+      "municipality": "Ouffet", 
+      "pcode": "4590", 
+      "source": "7726095", 
+      "street": "Rue du Tige"
+    }, 
+    {
+      "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 50.442709482061, 
+      "lon": 5.471547171196, 
+      "municipality": "Ouffet", 
+      "pcode": "4590", 
+      "source": "7726095", 
+      "street": "Rue du Tige"
+    }, 
+    {
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 50.442765642076, 
+      "lon": 5.471766036972, 
       "municipality": "Ouffet", 
       "pcode": "4590", 
       "source": "7726095", 

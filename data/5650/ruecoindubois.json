@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "000A", 
+        "000B", 
+        "000C"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -25,6 +30,9 @@
       "street": "Rue Coin du Bois"
     }, 
     {
+      "busnrs": [
+        "BTE1"
+      ], 
       "hnrlbls": [
         "4"
       ], 

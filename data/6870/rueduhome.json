@@ -325,6 +325,10 @@
       "street": "Rue du Home"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2"
+      ], 
       "hnrlbls": [
         "42"
       ], 
@@ -337,12 +341,19 @@
       "street": "Rue du Home"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "Bte2", 
+        "Bte3", 
+        "Bte4", 
+        "Bte5"
+      ], 
       "hnrlbls": [
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 50.024744044234, 
-      "lon": 5.378852035755, 
+      "lat": 50.024847630937, 
+      "lon": 5.378277614987, 
       "municipality": "Saint-Hubert", 
       "pcode": "6870", 
       "source": "7746369", 

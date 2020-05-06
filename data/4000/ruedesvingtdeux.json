@@ -25,6 +25,12 @@
       "street": "Rue des Vingt-Deux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -61,6 +67,12 @@
       "street": "Rue des Vingt-Deux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -73,6 +85,14 @@
       "street": "Rue des Vingt-Deux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -109,12 +129,32 @@
       "street": "Rue des Vingt-Deux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "19"
       ], 
       "housenumber": "19", 
       "lat": 50.62823300767, 
       "lon": 5.569786326865, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730736", 
+      "street": "Rue des Vingt-Deux"
+    }, 
+    {
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.62871016514, 
+      "lon": 5.570283519564, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730736", 
@@ -145,6 +185,14 @@
       "street": "Rue des Vingt-Deux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -217,6 +265,17 @@
       "street": "Rue des Vingt-Deux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022", 
+        "0031"
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -229,6 +288,13 @@
       "street": "Rue des Vingt-Deux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -241,6 +307,21 @@
       "street": "Rue des Vingt-Deux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0041", 
+        "0042", 
+        "0051", 
+        "0052", 
+        "0061"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -253,6 +334,16 @@
       "street": "Rue des Vingt-Deux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0021"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -278,11 +369,59 @@
     }, 
     {
       "hnrlbls": [
+        "32"
+      ], 
+      "housenumber": "32", 
+      "lat": 50.628168972505, 
+      "lon": 5.569104073976, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730736", 
+      "street": "Rue des Vingt-Deux"
+    }, 
+    {
+      "hnrlbls": [
+        "33"
+      ], 
+      "housenumber": "33", 
+      "lat": 50.627743022221, 
+      "lon": 5.569651220173, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730736", 
+      "street": "Rue des Vingt-Deux"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0032"
+      ], 
+      "hnrlbls": [
         "34"
       ], 
       "housenumber": "34", 
       "lat": 50.628147066285, 
       "lon": 5.569027538685, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730736", 
+      "street": "Rue des Vingt-Deux"
+    }, 
+    {
+      "busnrs": [
+        "0011"
+      ], 
+      "hnrlbls": [
+        "35"
+      ], 
+      "housenumber": "35", 
+      "lat": 50.627857933876, 
+      "lon": 5.569781786498, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730736", 
@@ -302,6 +441,28 @@
     }, 
     {
       "hnrlbls": [
+        "37"
+      ], 
+      "housenumber": "37", 
+      "lat": 50.627958340183, 
+      "lon": 5.56914739954, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730736", 
+      "street": "Rue des Vingt-Deux"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032"
+      ], 
+      "hnrlbls": [
         "38"
       ], 
       "housenumber": "38", 
@@ -313,6 +474,17 @@
       "street": "Rue des Vingt-Deux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0015"
+      ], 
       "hnrlbls": [
         "39"
       ], 
@@ -325,6 +497,14 @@
       "street": "Rue des Vingt-Deux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "41"
       ], 
@@ -337,6 +517,15 @@
       "street": "Rue des Vingt-Deux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "43"
       ], 
@@ -349,6 +538,16 @@
       "street": "Rue des Vingt-Deux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031"
+      ], 
       "hnrlbls": [
         "45"
       ], 
@@ -385,6 +584,14 @@
       "street": "Rue des Vingt-Deux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -397,6 +604,12 @@
       "street": "Rue des Vingt-Deux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "8"
       ], 
@@ -409,6 +622,12 @@
       "street": "Rue des Vingt-Deux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "9"
       ], 

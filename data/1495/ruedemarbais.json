@@ -13,6 +13,10 @@
       "street": "Rue de Marbais"
     }, 
     {
+      "busnrs": [
+        "F1Et", 
+        "F2Et"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -133,6 +137,10 @@
       "street": "Rue de Marbais"
     }, 
     {
+      "busnrs": [
+        "B1Et", 
+        "BRez"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -217,6 +225,14 @@
       "street": "Rue de Marbais"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -229,6 +245,34 @@
       "street": "Rue de Marbais"
     }, 
     {
+      "busnrs": [
+        "A001", 
+        "A002", 
+        "A003", 
+        "A004", 
+        "A005", 
+        "A006", 
+        "A007", 
+        "A008", 
+        "A009", 
+        "B002", 
+        "B003", 
+        "B004", 
+        "B005", 
+        "B006", 
+        "B007", 
+        "B008", 
+        "B009", 
+        "C001", 
+        "C002", 
+        "C003", 
+        "C004", 
+        "C005", 
+        "C006", 
+        "C007", 
+        "C008", 
+        "C009"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -355,6 +399,30 @@
       "housenumber": "34", 
       "lat": 50.572946893865, 
       "lon": 4.535605112325, 
+      "municipality": "Villers-la-Ville", 
+      "pcode": "1495", 
+      "source": "7704038", 
+      "street": "Rue de Marbais"
+    }, 
+    {
+      "hnrlbls": [
+        "35"
+      ], 
+      "housenumber": "35", 
+      "lat": 50.573218434501, 
+      "lon": 4.532216945205, 
+      "municipality": "Villers-la-Ville", 
+      "pcode": "1495", 
+      "source": "7704038", 
+      "street": "Rue de Marbais"
+    }, 
+    {
+      "hnrlbls": [
+        "35A"
+      ], 
+      "housenumber": "35A", 
+      "lat": 50.573025775199, 
+      "lon": 4.532462797717, 
       "municipality": "Villers-la-Ville", 
       "pcode": "1495", 
       "source": "7704038", 
@@ -757,6 +825,12 @@
       "street": "Rue de Marbais"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "8"
       ], 

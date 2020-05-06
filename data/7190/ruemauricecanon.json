@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "BTE2"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -229,6 +232,10 @@
       "street": "Rue Maurice Canon"
     }, 
     {
+      "busnrs": [
+        "BTE1", 
+        "BTE2"
+      ], 
       "hnrlbls": [
         "28BTE1"
       ], 
@@ -361,6 +368,9 @@
       "street": "Rue Maurice Canon"
     }, 
     {
+      "busnrs": [
+        "BTE2"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -425,14 +435,17 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 50.571400466628, 
-      "lon": 4.176800470326, 
+      "lat": 50.571096879209, 
+      "lon": 4.176482959087, 
       "municipality": "Ecaussinnes", 
       "pcode": "7190", 
       "source": "7718974", 
       "street": "Rue Maurice Canon"
     }, 
     {
+      "busnrs": [
+        "BTE3"
+      ], 
       "hnrlbls": [
         "5"
       ], 

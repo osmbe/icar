@@ -1,6 +1,14 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "1-1", 
+        "1-2", 
+        "1-3", 
+        "1-4"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -277,6 +285,10 @@
       "street": "Rue de l'Etang Derbaix"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "0-2"
+      ], 
       "hnrlbls": [
         "125"
       ], 
@@ -313,6 +325,14 @@
       "street": "Rue de l'Etang Derbaix"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "1-1", 
+        "1-2", 
+        "2-1", 
+        "2-2"
+      ], 
       "hnrlbls": [
         "128"
       ], 
@@ -409,12 +429,35 @@
       "street": "Rue de l'Etang Derbaix"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "1-2", 
+        "2-1", 
+        "2-2"
+      ], 
       "hnrlbls": [
         "137"
       ], 
       "housenumber": "137", 
       "lat": 50.440028840311, 
       "lon": 3.919340611058, 
+      "municipality": "Mons", 
+      "pcode": "7033", 
+      "source": "7713646", 
+      "street": "Rue de l'Etang Derbaix"
+    }, 
+    {
+      "busnrs": [
+        "1-1", 
+        "1-2"
+      ], 
+      "hnrlbls": [
+        "139"
+      ], 
+      "housenumber": "139", 
+      "lat": 50.440047190772, 
+      "lon": 3.918965732335, 
       "municipality": "Mons", 
       "pcode": "7033", 
       "source": "7713646", 
@@ -433,6 +476,21 @@
       "street": "Rue de l'Etang Derbaix"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "1-1", 
+        "1-2", 
+        "1-3", 
+        "2-1", 
+        "2-2", 
+        "2-3", 
+        "3-1", 
+        "3-2", 
+        "3-3", 
+        "4-1", 
+        "4-2"
+      ], 
       "hnrlbls": [
         "141"
       ], 
@@ -446,6 +504,24 @@
     }, 
     {
       "hnrlbls": [
+        "142"
+      ], 
+      "housenumber": "142", 
+      "lat": 50.440435216941, 
+      "lon": 3.918509405251, 
+      "municipality": "Mons", 
+      "pcode": "7033", 
+      "source": "7713646", 
+      "street": "Rue de l'Etang Derbaix"
+    }, 
+    {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "1-2", 
+        "2-1"
+      ], 
+      "hnrlbls": [
         "143"
       ], 
       "housenumber": "143", 
@@ -458,21 +534,9 @@
     }, 
     {
       "hnrlbls": [
-        "152"
+        "144"
       ], 
-      "housenumber": "152", 
-      "lat": 50.44042362664, 
-      "lon": 3.918464817705, 
-      "municipality": "Mons", 
-      "pcode": "7033", 
-      "source": "7713646", 
-      "street": "Rue de l'Etang Derbaix"
-    }, 
-    {
-      "hnrlbls": [
-        "154"
-      ], 
-      "housenumber": "154", 
+      "housenumber": "144", 
       "lat": 50.440468756389, 
       "lon": 3.91843862716, 
       "municipality": "Mons", 
@@ -482,11 +546,23 @@
     }, 
     {
       "hnrlbls": [
-        "156"
+        "146"
       ], 
-      "housenumber": "156", 
+      "housenumber": "146", 
       "lat": 50.440464747572, 
       "lon": 3.918355182969, 
+      "municipality": "Mons", 
+      "pcode": "7033", 
+      "source": "7713646", 
+      "street": "Rue de l'Etang Derbaix"
+    }, 
+    {
+      "hnrlbls": [
+        "150"
+      ], 
+      "housenumber": "150", 
+      "lat": 50.440556148462, 
+      "lon": 3.918065717723, 
       "municipality": "Mons", 
       "pcode": "7033", 
       "source": "7713646", 
@@ -497,8 +573,8 @@
         "158"
       ], 
       "housenumber": "158", 
-      "lat": 50.440487264748, 
-      "lon": 3.918284438886, 
+      "lat": 50.440652670313, 
+      "lon": 3.917710281083, 
       "municipality": "Mons", 
       "pcode": "7033", 
       "source": "7713646", 
@@ -509,8 +585,8 @@
         "160"
       ], 
       "housenumber": "160", 
-      "lat": 50.440522008315, 
-      "lon": 3.918201922193, 
+      "lat": 50.440669789594, 
+      "lon": 3.917641257336, 
       "municipality": "Mons", 
       "pcode": "7033", 
       "source": "7713646", 
@@ -521,8 +597,8 @@
         "162"
       ], 
       "housenumber": "162", 
-      "lat": 50.440556148462, 
-      "lon": 3.918065717723, 
+      "lat": 50.440693857749, 
+      "lon": 3.917555575176, 
       "municipality": "Mons", 
       "pcode": "7033", 
       "source": "7713646", 
@@ -530,11 +606,35 @@
     }, 
     {
       "hnrlbls": [
-        "168"
+        "166"
       ], 
-      "housenumber": "168", 
-      "lat": 50.440658476012, 
-      "lon": 3.917668183398, 
+      "housenumber": "166", 
+      "lat": 50.440715993533, 
+      "lon": 3.917477250163, 
+      "municipality": "Mons", 
+      "pcode": "7033", 
+      "source": "7713646", 
+      "street": "Rue de l'Etang Derbaix"
+    }, 
+    {
+      "hnrlbls": [
+        "167"
+      ], 
+      "housenumber": "167", 
+      "lat": 50.440188321025, 
+      "lon": 3.918390901638, 
+      "municipality": "Mons", 
+      "pcode": "7033", 
+      "source": "7713646", 
+      "street": "Rue de l'Etang Derbaix"
+    }, 
+    {
+      "hnrlbls": [
+        "169"
+      ], 
+      "housenumber": "169", 
+      "lat": 50.440206648959, 
+      "lon": 3.918278400532, 
       "municipality": "Mons", 
       "pcode": "7033", 
       "source": "7713646", 
@@ -557,8 +657,23 @@
         "170"
       ], 
       "housenumber": "170", 
-      "lat": 50.440693857749, 
-      "lon": 3.917555575176, 
+      "lat": 50.440787655354, 
+      "lon": 3.917501768881, 
+      "municipality": "Mons", 
+      "pcode": "7033", 
+      "source": "7713646", 
+      "street": "Rue de l'Etang Derbaix"
+    }, 
+    {
+      "busnrs": [
+        "1"
+      ], 
+      "hnrlbls": [
+        "171"
+      ], 
+      "housenumber": "171", 
+      "lat": 50.44022808731, 
+      "lon": 3.918172824296, 
       "municipality": "Mons", 
       "pcode": "7033", 
       "source": "7713646", 
@@ -569,8 +684,8 @@
         "172"
       ], 
       "housenumber": "172", 
-      "lat": 50.440726809832, 
-      "lon": 3.917437781006, 
+      "lat": 50.44084736699, 
+      "lon": 3.917598898994, 
       "municipality": "Mons", 
       "pcode": "7033", 
       "source": "7713646", 
@@ -581,8 +696,20 @@
         "174"
       ], 
       "housenumber": "174", 
-      "lat": 50.440791196656, 
-      "lon": 3.917495029861, 
+      "lat": 50.440897554098, 
+      "lon": 3.917580937248, 
+      "municipality": "Mons", 
+      "pcode": "7033", 
+      "source": "7713646", 
+      "street": "Rue de l'Etang Derbaix"
+    }, 
+    {
+      "hnrlbls": [
+        "175"
+      ], 
+      "housenumber": "175", 
+      "lat": 50.440391889678, 
+      "lon": 3.917992945128, 
       "municipality": "Mons", 
       "pcode": "7033", 
       "source": "7713646", 
@@ -593,8 +720,20 @@
         "176"
       ], 
       "housenumber": "176", 
-      "lat": 50.44084736699, 
-      "lon": 3.917598898994, 
+      "lat": 50.440919796732, 
+      "lon": 3.917532269184, 
+      "municipality": "Mons", 
+      "pcode": "7033", 
+      "source": "7713646", 
+      "street": "Rue de l'Etang Derbaix"
+    }, 
+    {
+      "hnrlbls": [
+        "177"
+      ], 
+      "housenumber": "177", 
+      "lat": 50.440244589544, 
+      "lon": 3.918055567935, 
       "municipality": "Mons", 
       "pcode": "7033", 
       "source": "7713646", 
@@ -605,8 +744,8 @@
         "178"
       ], 
       "housenumber": "178", 
-      "lat": 50.440897554098, 
-      "lon": 3.917580937248, 
+      "lat": 50.440916741824, 
+      "lon": 3.91735018841, 
       "municipality": "Mons", 
       "pcode": "7033", 
       "source": "7713646", 
@@ -617,8 +756,8 @@
         "179"
       ], 
       "housenumber": "179", 
-      "lat": 50.440188321025, 
-      "lon": 3.918390901638, 
+      "lat": 50.440258681588, 
+      "lon": 3.917993885696, 
       "municipality": "Mons", 
       "pcode": "7033", 
       "source": "7713646", 
@@ -631,30 +770,6 @@
       "housenumber": "18", 
       "lat": 50.438824984402, 
       "lon": 3.922692033705, 
-      "municipality": "Mons", 
-      "pcode": "7033", 
-      "source": "7713646", 
-      "street": "Rue de l'Etang Derbaix"
-    }, 
-    {
-      "hnrlbls": [
-        "180"
-      ], 
-      "housenumber": "180", 
-      "lat": 50.440919796732, 
-      "lon": 3.917532269184, 
-      "municipality": "Mons", 
-      "pcode": "7033", 
-      "source": "7713646", 
-      "street": "Rue de l'Etang Derbaix"
-    }, 
-    {
-      "hnrlbls": [
-        "181"
-      ], 
-      "housenumber": "181", 
-      "lat": 50.440206648959, 
-      "lon": 3.918278400532, 
       "municipality": "Mons", 
       "pcode": "7033", 
       "source": "7713646", 
@@ -677,8 +792,8 @@
         "183"
       ], 
       "housenumber": "183", 
-      "lat": 50.44022808731, 
-      "lon": 3.918172824296, 
+      "lat": 50.440406446438, 
+      "lon": 3.917888057333, 
       "municipality": "Mons", 
       "pcode": "7033", 
       "source": "7713646", 
@@ -689,8 +804,8 @@
         "185"
       ], 
       "housenumber": "185", 
-      "lat": 50.440135209174, 
-      "lon": 3.918096770078, 
+      "lat": 50.440421873109, 
+      "lon": 3.917839049191, 
       "municipality": "Mons", 
       "pcode": "7033", 
       "source": "7713646", 
@@ -701,20 +816,8 @@
         "187"
       ], 
       "housenumber": "187", 
-      "lat": 50.440244589544, 
-      "lon": 3.918055567935, 
-      "municipality": "Mons", 
-      "pcode": "7033", 
-      "source": "7713646", 
-      "street": "Rue de l'Etang Derbaix"
-    }, 
-    {
-      "hnrlbls": [
-        "189"
-      ], 
-      "housenumber": "189", 
-      "lat": 50.440258681588, 
-      "lon": 3.917993885696, 
+      "lat": 50.440344040272, 
+      "lon": 3.917706815322, 
       "municipality": "Mons", 
       "pcode": "7033", 
       "source": "7713646", 
@@ -749,8 +852,8 @@
         "193"
       ], 
       "housenumber": "193", 
-      "lat": 50.440391889678, 
-      "lon": 3.917992945128, 
+      "lat": 50.440380277334, 
+      "lon": 3.917643247221, 
       "municipality": "Mons", 
       "pcode": "7033", 
       "source": "7713646", 
@@ -761,8 +864,8 @@
         "195"
       ], 
       "housenumber": "195", 
-      "lat": 50.440412445386, 
-      "lon": 3.917861487417, 
+      "lat": 50.440410938484, 
+      "lon": 3.917572256614, 
       "municipality": "Mons", 
       "pcode": "7033", 
       "source": "7713646", 
@@ -773,26 +876,23 @@
         "197"
       ], 
       "housenumber": "197", 
-      "lat": 50.440344040272, 
-      "lon": 3.917706815322, 
+      "lat": 50.440380977561, 
+      "lon": 3.917443446738, 
       "municipality": "Mons", 
       "pcode": "7033", 
       "source": "7713646", 
       "street": "Rue de l'Etang Derbaix"
     }, 
     {
-      "hnrlbls": [
-        "199"
+      "busnrs": [
+        "1", 
+        "1-1", 
+        "1-2", 
+        "1-3", 
+        "1-4", 
+        "1-5", 
+        "Et-1"
       ], 
-      "housenumber": "199", 
-      "lat": 50.440380277334, 
-      "lon": 3.917643247221, 
-      "municipality": "Mons", 
-      "pcode": "7033", 
-      "source": "7713646", 
-      "street": "Rue de l'Etang Derbaix"
-    }, 
-    {
       "hnrlbls": [
         "2"
       ], 
@@ -811,30 +911,6 @@
       "housenumber": "20", 
       "lat": 50.43885100303, 
       "lon": 3.922640462916, 
-      "municipality": "Mons", 
-      "pcode": "7033", 
-      "source": "7713646", 
-      "street": "Rue de l'Etang Derbaix"
-    }, 
-    {
-      "hnrlbls": [
-        "201"
-      ], 
-      "housenumber": "201", 
-      "lat": 50.440410938484, 
-      "lon": 3.917572256614, 
-      "municipality": "Mons", 
-      "pcode": "7033", 
-      "source": "7713646", 
-      "street": "Rue de l'Etang Derbaix"
-    }, 
-    {
-      "hnrlbls": [
-        "203"
-      ], 
-      "housenumber": "203", 
-      "lat": 50.440380977561, 
-      "lon": 3.917443446738, 
       "municipality": "Mons", 
       "pcode": "7033", 
       "source": "7713646", 
@@ -889,6 +965,10 @@
       "street": "Rue de l'Etang Derbaix"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1"
+      ], 
       "hnrlbls": [
         "213"
       ], 
@@ -937,6 +1017,17 @@
       "street": "Rue de l'Etang Derbaix"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "1-1", 
+        "1-2", 
+        "1-3", 
+        "2-1", 
+        "2-2", 
+        "3-1", 
+        "3-2"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -949,6 +1040,10 @@
       "street": "Rue de l'Etang Derbaix"
     }, 
     {
+      "busnrs": [
+        "1-1", 
+        "2-1"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -997,6 +1092,11 @@
       "street": "Rue de l'Etang Derbaix"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "1-2"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -1117,6 +1217,10 @@
       "street": "Rue de l'Etang Derbaix"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -1165,6 +1269,21 @@
       "street": "Rue de l'Etang Derbaix"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "0-3", 
+        "0-4", 
+        "0-5", 
+        "0-6", 
+        "1-1", 
+        "1-2", 
+        "1-3", 
+        "1-4", 
+        "2-1", 
+        "2-2", 
+        "3-1"
+      ], 
       "hnrlbls": [
         "46"
       ], 

@@ -409,6 +409,11 @@
       "street": "Rue du Centre"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "11", 
+        "21"
+      ], 
       "hnrlbls": [
         "49"
       ], 
@@ -505,6 +510,9 @@
       "street": "Rue du Centre"
     }, 
     {
+      "busnrs": [
+        "11"
+      ], 
       "hnrlbls": [
         "59"
       ], 
@@ -547,18 +555,6 @@
       "housenumber": "62", 
       "lat": 50.551021935632, 
       "lon": 3.454039636798, 
-      "municipality": "Antoing", 
-      "pcode": "7640", 
-      "source": "7722077", 
-      "street": "Rue du Centre"
-    }, 
-    {
-      "hnrlbls": [
-        "63"
-      ], 
-      "housenumber": "63", 
-      "lat": 50.551073471633, 
-      "lon": 3.453550377224, 
       "municipality": "Antoing", 
       "pcode": "7640", 
       "source": "7722077", 

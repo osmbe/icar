@@ -85,6 +85,10 @@
       "street": "Rue Saint-Laurent"
     }, 
     {
+      "busnrs": [
+        "A/I", 
+        "A/rz"
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -145,6 +149,9 @@
       "street": "Rue Saint-Laurent"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "37"
       ], 
@@ -197,8 +204,32 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 50.700046433145, 
-      "lon": 4.819684128222, 
+      "lat": 50.700043697494, 
+      "lon": 4.820793581056, 
+      "municipality": "Jodoigne", 
+      "pcode": "1370", 
+      "source": "7702492", 
+      "street": "Rue Saint-Laurent"
+    }, 
+    {
+      "hnrlbls": [
+        "41"
+      ], 
+      "housenumber": "41", 
+      "lat": 50.701295413131, 
+      "lon": 4.820925185539, 
+      "municipality": "Jodoigne", 
+      "pcode": "1370", 
+      "source": "7702492", 
+      "street": "Rue Saint-Laurent"
+    }, 
+    {
+      "hnrlbls": [
+        "41B"
+      ], 
+      "housenumber": "41B", 
+      "lat": 50.701391315804, 
+      "lon": 4.820852322068, 
       "municipality": "Jodoigne", 
       "pcode": "1370", 
       "source": "7702492", 
@@ -349,6 +380,9 @@
       "street": "Rue Saint-Laurent"
     }, 
     {
+      "busnrs": [
+        "000I"
+      ], 
       "hnrlbls": [
         "66"
       ], 
@@ -499,6 +533,18 @@
       "housenumber": "90", 
       "lat": 50.705084466647, 
       "lon": 4.823616362627, 
+      "municipality": "Jodoigne", 
+      "pcode": "1370", 
+      "source": "7702492", 
+      "street": "Rue Saint-Laurent"
+    }, 
+    {
+      "hnrlbls": [
+        "91"
+      ], 
+      "housenumber": "91", 
+      "lat": 50.705642615453, 
+      "lon": 4.826669138269, 
       "municipality": "Jodoigne", 
       "pcode": "1370", 
       "source": "7702492", 

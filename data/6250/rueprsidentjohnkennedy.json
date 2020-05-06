@@ -37,6 +37,9 @@
       "street": "Rue Pr\u00e9sident John Kennedy"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "112"
       ], 
@@ -109,6 +112,9 @@
       "street": "Rue Pr\u00e9sident John Kennedy"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "136"
       ], 
@@ -170,11 +176,38 @@
     }, 
     {
       "hnrlbls": [
+        "143"
+      ], 
+      "housenumber": "143", 
+      "lat": 50.417341797862, 
+      "lon": 4.573243688095, 
+      "municipality": "Aiseau-Presles", 
+      "pcode": "6250", 
+      "source": "7711694", 
+      "street": "Rue Pr\u00e9sident John Kennedy"
+    }, 
+    {
+      "busnrs": [
+        "0001"
+      ], 
+      "hnrlbls": [
         "144"
       ], 
       "housenumber": "144", 
       "lat": 50.416848763805, 
       "lon": 4.571871702765, 
+      "municipality": "Aiseau-Presles", 
+      "pcode": "6250", 
+      "source": "7711694", 
+      "street": "Rue Pr\u00e9sident John Kennedy"
+    }, 
+    {
+      "hnrlbls": [
+        "145"
+      ], 
+      "housenumber": "145", 
+      "lat": 50.41731342124, 
+      "lon": 4.573148630634, 
       "municipality": "Aiseau-Presles", 
       "pcode": "6250", 
       "source": "7711694", 
@@ -557,8 +590,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.422604979421, 
-      "lon": 4.582030531906, 
+      "lat": 50.422623923518, 
+      "lon": 4.582012186668, 
       "municipality": "Aiseau-Presles", 
       "pcode": "6250", 
       "source": "7711694", 

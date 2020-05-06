@@ -13,6 +13,10 @@
       "street": "Rue des Ch\u00e8vrefeuilles"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -31,6 +35,18 @@
       "housenumber": "12", 
       "lat": 50.619751604237, 
       "lon": 5.554250931192, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730583", 
+      "street": "Rue des Ch\u00e8vrefeuilles"
+    }, 
+    {
+      "hnrlbls": [
+        "13"
+      ], 
+      "housenumber": "13", 
+      "lat": 50.619674715411, 
+      "lon": 5.554684844579, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730583", 
@@ -145,6 +161,13 @@
       "street": "Rue des Ch\u00e8vrefeuilles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "6"
       ], 

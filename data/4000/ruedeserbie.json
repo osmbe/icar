@@ -1,12 +1,34 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
       "lat": 50.629795027145, 
       "lon": 5.56857067526, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730500", 
+      "street": "Rue de Serbie"
+    }, 
+    {
+      "hnrlbls": [
+        "10"
+      ], 
+      "housenumber": "10", 
+      "lat": 50.629204375688, 
+      "lon": 5.568387458313, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730500", 
@@ -73,6 +95,9 @@
       "street": "Rue de Serbie"
     }, 
     {
+      "busnrs": [
+        "0022"
+      ], 
       "hnrlbls": [
         "105"
       ], 
@@ -133,6 +158,15 @@
       "street": "Rue de Serbie"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -181,6 +215,22 @@
       "street": "Rue de Serbie"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0023", 
+        "0024", 
+        "0031", 
+        "0032", 
+        "0033"
+      ], 
       "hnrlbls": [
         "113"
       ], 
@@ -193,6 +243,13 @@
       "street": "Rue de Serbie"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "114"
       ], 
@@ -217,6 +274,12 @@
       "street": "Rue de Serbie"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "116"
       ], 
@@ -229,6 +292,15 @@
       "street": "Rue de Serbie"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "117"
       ], 
@@ -241,6 +313,14 @@
       "street": "Rue de Serbie"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041", 
+        "0051"
+      ], 
       "hnrlbls": [
         "118"
       ], 
@@ -253,12 +333,30 @@
       "street": "Rue de Serbie"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "119"
       ], 
       "housenumber": "119", 
       "lat": 50.626146939776, 
       "lon": 5.569019293215, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730500", 
+      "street": "Rue de Serbie"
+    }, 
+    {
+      "hnrlbls": [
+        "12"
+      ], 
+      "housenumber": "12", 
+      "lat": 50.629136218456, 
+      "lon": 5.568373003735, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730500", 
@@ -277,6 +375,12 @@
       "street": "Rue de Serbie"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "121"
       ], 
@@ -313,6 +417,12 @@
       "street": "Rue de Serbie"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "125"
       ], 
@@ -337,6 +447,16 @@
       "street": "Rue de Serbie"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0031"
+      ], 
       "hnrlbls": [
         "127"
       ], 
@@ -349,6 +469,18 @@
       "street": "Rue de Serbie"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0041", 
+        "0042", 
+        "0051"
+      ], 
       "hnrlbls": [
         "128"
       ], 
@@ -385,6 +517,14 @@
       "street": "Rue de Serbie"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -397,6 +537,16 @@
       "street": "Rue de Serbie"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -409,12 +559,43 @@
       "street": "Rue de Serbie"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "17"
       ], 
       "housenumber": "17", 
       "lat": 50.629340257713, 
       "lon": 5.568621029267, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730500", 
+      "street": "Rue de Serbie"
+    }, 
+    {
+      "hnrlbls": [
+        "18"
+      ], 
+      "housenumber": "18", 
+      "lat": 50.62900252116, 
+      "lon": 5.568405227566, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730500", 
+      "street": "Rue de Serbie"
+    }, 
+    {
+      "hnrlbls": [
+        "18A"
+      ], 
+      "housenumber": "18A", 
+      "lat": 50.629007034024, 
+      "lon": 5.568337094975, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730500", 
@@ -445,12 +626,42 @@
       "street": "Rue de Serbie"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
+      "hnrlbls": [
+        "21"
+      ], 
+      "housenumber": "21", 
+      "lat": 50.629275308012, 
+      "lon": 5.568636524818, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730500", 
+      "street": "Rue de Serbie"
+    }, 
+    {
       "hnrlbls": [
         "22"
       ], 
       "housenumber": "22", 
       "lat": 50.628879571446, 
       "lon": 5.56840741748, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730500", 
+      "street": "Rue de Serbie"
+    }, 
+    {
+      "hnrlbls": [
+        "23"
+      ], 
+      "housenumber": "23", 
+      "lat": 50.629175979995, 
+      "lon": 5.568695348906, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730500", 
@@ -469,6 +680,12 @@
       "street": "Rue de Serbie"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -481,6 +698,15 @@
       "street": "Rue de Serbie"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0031", 
+        "0032", 
+        "0033"
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -493,6 +719,11 @@
       "street": "Rue de Serbie"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0021", 
+        "0041"
+      ], 
       "hnrlbls": [
         "2A"
       ], 
@@ -529,6 +760,17 @@
       "street": "Rue de Serbie"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022", 
+        "0023"
+      ], 
       "hnrlbls": [
         "32"
       ], 
@@ -541,6 +783,12 @@
       "street": "Rue de Serbie"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -565,6 +813,15 @@
       "street": "Rue de Serbie"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0031", 
+        "0032", 
+        "0033"
+      ], 
       "hnrlbls": [
         "38"
       ], 
@@ -577,6 +834,24 @@
       "street": "Rue de Serbie"
     }, 
     {
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.629374258216, 
+      "lon": 5.568378375552, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730500", 
+      "street": "Rue de Serbie"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "40"
       ], 
@@ -614,6 +889,18 @@
     }, 
     {
       "hnrlbls": [
+        "45"
+      ], 
+      "housenumber": "45", 
+      "lat": 50.628656867142, 
+      "lon": 5.568997658251, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730500", 
+      "street": "Rue de Serbie"
+    }, 
+    {
+      "hnrlbls": [
         "46"
       ], 
       "housenumber": "46", 
@@ -625,6 +912,13 @@
       "street": "Rue de Serbie"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "47"
       ], 
@@ -649,6 +943,13 @@
       "street": "Rue de Serbie"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "49"
       ], 
@@ -673,6 +974,15 @@
       "street": "Rue de Serbie"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "50"
       ], 
@@ -685,6 +995,12 @@
       "street": "Rue de Serbie"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "51"
       ], 
@@ -697,6 +1013,12 @@
       "street": "Rue de Serbie"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "52"
       ], 
@@ -721,6 +1043,11 @@
       "street": "Rue de Serbie"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "55"
       ], 
@@ -733,6 +1060,11 @@
       "street": "Rue de Serbie"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "56"
       ], 
@@ -745,6 +1077,17 @@
       "street": "Rue de Serbie"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0032", 
+        "0033", 
+        "0034"
+      ], 
       "hnrlbls": [
         "57"
       ], 
@@ -769,6 +1112,14 @@
       "street": "Rue de Serbie"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "59"
       ], 
@@ -793,6 +1144,14 @@
       "street": "Rue de Serbie"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "60"
       ], 
@@ -830,6 +1189,22 @@
     }, 
     {
       "hnrlbls": [
+        "63A"
+      ], 
+      "housenumber": "63A", 
+      "lat": 50.628131839021, 
+      "lon": 5.568764980918, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730500", 
+      "street": "Rue de Serbie"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0031"
+      ], 
+      "hnrlbls": [
         "63B"
       ], 
       "housenumber": "63B", 
@@ -854,6 +1229,18 @@
     }, 
     {
       "hnrlbls": [
+        "65"
+      ], 
+      "housenumber": "65", 
+      "lat": 50.628003984475, 
+      "lon": 5.568738774293, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730500", 
+      "street": "Rue de Serbie"
+    }, 
+    {
+      "hnrlbls": [
         "66"
       ], 
       "housenumber": "66", 
@@ -865,6 +1252,14 @@
       "street": "Rue de Serbie"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "67"
       ], 
@@ -877,6 +1272,15 @@
       "street": "Rue de Serbie"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031"
+      ], 
       "hnrlbls": [
         "68"
       ], 
@@ -889,6 +1293,19 @@
       "street": "Rue de Serbie"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "69"
       ], 
@@ -901,6 +1318,13 @@
       "street": "Rue de Serbie"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -913,6 +1337,12 @@
       "street": "Rue de Serbie"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "70"
       ], 
@@ -925,6 +1355,12 @@
       "street": "Rue de Serbie"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "01", 
+        "11"
+      ], 
       "hnrlbls": [
         "71"
       ], 
@@ -937,6 +1373,25 @@
       "street": "Rue de Serbie"
     }, 
     {
+      "hnrlbls": [
+        "72"
+      ], 
+      "housenumber": "72", 
+      "lat": 50.627022732595, 
+      "lon": 5.568627843104, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730500", 
+      "street": "Rue de Serbie"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "73"
       ], 
@@ -961,6 +1416,18 @@
       "street": "Rue de Serbie"
     }, 
     {
+      "busnrs": [
+        "0022", 
+        "B011", 
+        "C001", 
+        "C011", 
+        "D001", 
+        "E001", 
+        "E011", 
+        "E021", 
+        "E031", 
+        "E032"
+      ], 
       "hnrlbls": [
         "75"
       ], 
@@ -973,6 +1440,65 @@
       "street": "Rue de Serbie"
     }, 
     {
+      "hnrlbls": [
+        "75B"
+      ], 
+      "housenumber": "75B", 
+      "lat": 50.627684784361, 
+      "lon": 5.569037254298, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730500", 
+      "street": "Rue de Serbie"
+    }, 
+    {
+      "hnrlbls": [
+        "75C"
+      ], 
+      "housenumber": "75C", 
+      "lat": 50.627729576132, 
+      "lon": 5.569184270172, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730500", 
+      "street": "Rue de Serbie"
+    }, 
+    {
+      "hnrlbls": [
+        "75D"
+      ], 
+      "housenumber": "75D", 
+      "lat": 50.627743854583, 
+      "lon": 5.569299553747, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730500", 
+      "street": "Rue de Serbie"
+    }, 
+    {
+      "hnrlbls": [
+        "75E"
+      ], 
+      "housenumber": "75E", 
+      "lat": 50.627571210015, 
+      "lon": 5.568907713761, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730500", 
+      "street": "Rue de Serbie"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "76"
       ], 
@@ -997,6 +1523,24 @@
       "street": "Rue de Serbie"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "78"
       ], 
@@ -1009,6 +1553,12 @@
       "street": "Rue de Serbie"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "79"
       ], 
@@ -1033,6 +1583,31 @@
       "street": "Rue de Serbie"
     }, 
     {
+      "busnrs": [
+        "0021", 
+        "0032", 
+        "0041"
+      ], 
+      "hnrlbls": [
+        "80"
+      ], 
+      "housenumber": "80", 
+      "lat": 50.626784949158, 
+      "lon": 5.568635127699, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730500", 
+      "street": "Rue de Serbie"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "81"
       ], 
@@ -1045,6 +1620,30 @@
       "street": "Rue de Serbie"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021"
+      ], 
+      "hnrlbls": [
+        "82"
+      ], 
+      "housenumber": "82", 
+      "lat": 50.626685436699, 
+      "lon": 5.567898707016, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730500", 
+      "street": "Rue de Serbie"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "83"
       ], 
@@ -1075,6 +1674,18 @@
       "housenumber": "87", 
       "lat": 50.627231310838, 
       "lon": 5.568893445166, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730500", 
+      "street": "Rue de Serbie"
+    }, 
+    {
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.629543749548, 
+      "lon": 5.568613664041, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730500", 
@@ -1129,6 +1740,27 @@
       "street": "Rue de Serbie"
     }, 
     {
+      "hnrlbls": [
+        "98"
+      ], 
+      "housenumber": "98", 
+      "lat": 50.626541661174, 
+      "lon": 5.568205458665, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730500", 
+      "street": "Rue de Serbie"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "99"
       ], 

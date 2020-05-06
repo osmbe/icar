@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0102", 
+        "101", 
+        "201", 
+        "202"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -17,8 +23,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.722137249758, 
-      "lon": 4.514380286981, 
+      "lat": 50.723215855962, 
+      "lon": 4.513296965626, 
       "municipality": "Rixensart", 
       "pcode": "1332", 
       "source": "7703589", 
@@ -41,8 +47,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.72202612676, 
-      "lon": 4.514225567045, 
+      "lat": 50.723152607087, 
+      "lon": 4.513265203324, 
       "municipality": "Rixensart", 
       "pcode": "1332", 
       "source": "7703589", 
@@ -53,8 +59,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 50.72196224815, 
-      "lon": 4.514141810186, 
+      "lat": 50.723655385187, 
+      "lon": 4.513919010768, 
       "municipality": "Rixensart", 
       "pcode": "1332", 
       "source": "7703589", 
@@ -65,8 +71,8 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 50.721938499509, 
-      "lon": 4.514111761768, 
+      "lat": 50.722946605773, 
+      "lon": 4.514109804116, 
       "municipality": "Rixensart", 
       "pcode": "1332", 
       "source": "7703589", 
@@ -85,48 +91,15 @@
       "street": "Rue de Rixensart"
     }, 
     {
+      "busnrs": [
+        "001"
+      ], 
       "hnrlbls": [
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 50.721842935818, 
-      "lon": 4.513972827813, 
-      "municipality": "Rixensart", 
-      "pcode": "1332", 
-      "source": "7703589", 
-      "street": "Rue de Rixensart"
-    }, 
-    {
-      "hnrlbls": [
-        "17"
-      ], 
-      "housenumber": "17", 
-      "lat": 50.721806131799, 
-      "lon": 4.513922129575, 
-      "municipality": "Rixensart", 
-      "pcode": "1332", 
-      "source": "7703589", 
-      "street": "Rue de Rixensart"
-    }, 
-    {
-      "hnrlbls": [
-        "18"
-      ], 
-      "housenumber": "18", 
-      "lat": 50.721753303526, 
-      "lon": 4.513846090428, 
-      "municipality": "Rixensart", 
-      "pcode": "1332", 
-      "source": "7703589", 
-      "street": "Rue de Rixensart"
-    }, 
-    {
-      "hnrlbls": [
-        "22"
-      ], 
-      "housenumber": "22", 
-      "lat": 50.721512870615, 
-      "lon": 4.51352779307, 
+      "lat": 50.722807763636, 
+      "lon": 4.514026101124, 
       "municipality": "Rixensart", 
       "pcode": "1332", 
       "source": "7703589", 
@@ -137,8 +110,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 50.721472500683, 
-      "lon": 4.513475210949, 
+      "lat": 50.723428293102, 
+      "lon": 4.513623393862, 
       "municipality": "Rixensart", 
       "pcode": "1332", 
       "source": "7703589", 
@@ -157,24 +130,15 @@
       "street": "Rue de Rixensart"
     }, 
     {
+      "busnrs": [
+        "101"
+      ], 
       "hnrlbls": [
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.721350806353, 
-      "lon": 4.513308096846, 
-      "municipality": "Rixensart", 
-      "pcode": "1332", 
-      "source": "7703589", 
-      "street": "Rue de Rixensart"
-    }, 
-    {
-      "hnrlbls": [
-        "28"
-      ], 
-      "housenumber": "28", 
-      "lat": 50.721337390553, 
-      "lon": 4.513098227386, 
+      "lat": 50.723326217122, 
+      "lon": 4.513822822208, 
       "municipality": "Rixensart", 
       "pcode": "1332", 
       "source": "7703589", 
@@ -193,6 +157,9 @@
       "street": "Rue de Rixensart"
     }, 
     {
+      "busnrs": [
+        "101"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -209,8 +176,8 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 50.721327202276, 
-      "lon": 4.512682287048, 
+      "lat": 50.723264359335, 
+      "lon": 4.51441230141, 
       "municipality": "Rixensart", 
       "pcode": "1332", 
       "source": "7703589", 
@@ -265,6 +232,14 @@
       "street": "Rue de Rixensart"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -289,6 +264,10 @@
       "street": "Rue de Rixensart"
     }, 
     {
+      "busnrs": [
+        "B002", 
+        "B101"
+      ], 
       "hnrlbls": [
         "45"
       ], 
@@ -373,6 +352,10 @@
       "street": "Rue de Rixensart"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "59"
       ], 
@@ -385,6 +368,10 @@
       "street": "Rue de Rixensart"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -533,8 +520,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.722215139166, 
-      "lon": 4.514482447427, 
+      "lat": 50.723677235507, 
+      "lon": 4.51369848641, 
       "municipality": "Rixensart", 
       "pcode": "1332", 
       "source": "7703589", 

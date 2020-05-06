@@ -13,12 +13,16 @@
       "street": "Chauss\u00e9e de Wavre"
     }, 
     {
+      "busnrs": [
+        "bte1", 
+        "bte2"
+      ], 
       "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.626573975474, 
-      "lon": 4.80828029359, 
+      "lat": 50.626467803362, 
+      "lon": 4.808875913196, 
       "municipality": "Perwez", 
       "pcode": "1360", 
       "source": "7703215", 
@@ -77,8 +81,8 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 50.626989365154, 
-      "lon": 4.807976558972, 
+      "lat": 50.625785832282, 
+      "lon": 4.809821086512, 
       "municipality": "Perwez", 
       "pcode": "1360", 
       "source": "7703215", 
@@ -89,14 +93,17 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.626526471793, 
-      "lon": 4.808425133586, 
+      "lat": 50.626552420498, 
+      "lon": 4.808356381933, 
       "municipality": "Perwez", 
       "pcode": "1360", 
       "source": "7703215", 
       "street": "Chauss\u00e9e de Wavre"
     }, 
     {
+      "busnrs": [
+        "bte1"
+      ], 
       "hnrlbls": [
         "120"
       ], 
@@ -125,8 +132,8 @@
         "125"
       ], 
       "housenumber": "125", 
-      "lat": 50.634927349382, 
-      "lon": 4.785384204044, 
+      "lat": 50.634954006862, 
+      "lon": 4.785353022619, 
       "municipality": "Perwez", 
       "pcode": "1360", 
       "source": "7703215", 
@@ -242,18 +249,6 @@
     }, 
     {
       "hnrlbls": [
-        "134"
-      ], 
-      "housenumber": "134", 
-      "lat": 50.631384815238, 
-      "lon": 4.79597177762, 
-      "municipality": "Perwez", 
-      "pcode": "1360", 
-      "source": "7703215", 
-      "street": "Chauss\u00e9e de Wavre"
-    }, 
-    {
-      "hnrlbls": [
         "135"
       ], 
       "housenumber": "135", 
@@ -281,8 +276,8 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 50.62672447254, 
-      "lon": 4.807819693691, 
+      "lat": 50.626596038197, 
+      "lon": 4.808222364273, 
       "municipality": "Perwez", 
       "pcode": "1360", 
       "source": "7703215", 
@@ -361,12 +356,26 @@
       "street": "Chauss\u00e9e de Wavre"
     }, 
     {
+      "busnrs": [
+        "e1b1", 
+        "e1b3", 
+        "e1b4", 
+        "e1b5", 
+        "e2b2", 
+        "e2b3", 
+        "e2b4", 
+        "e2b5", 
+        "e3b1", 
+        "e3b2", 
+        "e3b3", 
+        "e3b4"
+      ], 
       "hnrlbls": [
         "150"
       ], 
       "housenumber": "150", 
-      "lat": 50.632075321523, 
-      "lon": 4.79421245115, 
+      "lat": 50.631854554029, 
+      "lon": 4.79480003983, 
       "municipality": "Perwez", 
       "pcode": "1360", 
       "source": "7703215", 
@@ -397,6 +406,9 @@
       "street": "Chauss\u00e9e de Wavre"
     }, 
     {
+      "busnrs": [
+        "bte1"
+      ], 
       "hnrlbls": [
         "156"
       ], 
@@ -421,6 +433,26 @@
       "street": "Chauss\u00e9e de Wavre"
     }, 
     {
+      "busnrs": [
+        "Abt3", 
+        "Abt4", 
+        "Bbt2", 
+        "Bbt4", 
+        "Bbt5", 
+        "Bbt6"
+      ], 
+      "hnrlbls": [
+        "16"
+      ], 
+      "housenumber": "16", 
+      "lat": 50.626663186921, 
+      "lon": 4.808032202892, 
+      "municipality": "Perwez", 
+      "pcode": "1360", 
+      "source": "7703215", 
+      "street": "Chauss\u00e9e de Wavre"
+    }, 
+    {
       "hnrlbls": [
         "161"
       ], 
@@ -433,6 +465,10 @@
       "street": "Chauss\u00e9e de Wavre"
     }, 
     {
+      "busnrs": [
+        "bte1", 
+        "bte2"
+      ], 
       "hnrlbls": [
         "163"
       ], 
@@ -457,6 +493,13 @@
       "street": "Chauss\u00e9e de Wavre"
     }, 
     {
+      "busnrs": [
+        "bte1", 
+        "bte2", 
+        "bte3", 
+        "bte4", 
+        "bte5"
+      ], 
       "hnrlbls": [
         "167"
       ], 
@@ -481,6 +524,9 @@
       "street": "Chauss\u00e9e de Wavre"
     }, 
     {
+      "busnrs": [
+        "bte2"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -511,6 +557,18 @@
       "housenumber": "172", 
       "lat": 50.633553734966, 
       "lon": 4.789949482184, 
+      "municipality": "Perwez", 
+      "pcode": "1360", 
+      "source": "7703215", 
+      "street": "Chauss\u00e9e de Wavre"
+    }, 
+    {
+      "hnrlbls": [
+        "173"
+      ], 
+      "housenumber": "173", 
+      "lat": 50.63579903344, 
+      "lon": 4.783439664529, 
       "municipality": "Perwez", 
       "pcode": "1360", 
       "source": "7703215", 
@@ -578,6 +636,18 @@
     }, 
     {
       "hnrlbls": [
+        "18"
+      ], 
+      "housenumber": "18", 
+      "lat": 50.626831707661, 
+      "lon": 4.807893985544, 
+      "municipality": "Perwez", 
+      "pcode": "1360", 
+      "source": "7703215", 
+      "street": "Chauss\u00e9e de Wavre"
+    }, 
+    {
+      "hnrlbls": [
         "180"
       ], 
       "housenumber": "180", 
@@ -617,8 +687,8 @@
         "186"
       ], 
       "housenumber": "186", 
-      "lat": 50.633859108217, 
-      "lon": 4.789027409531, 
+      "lat": 50.634225307188, 
+      "lon": 4.788299309884, 
       "municipality": "Perwez", 
       "pcode": "1360", 
       "source": "7703215", 
@@ -637,6 +707,15 @@
       "street": "Chauss\u00e9e de Wavre"
     }, 
     {
+      "busnrs": [
+        "bte1", 
+        "bte2", 
+        "bte3", 
+        "bte4", 
+        "bte5", 
+        "bte7", 
+        "bte8"
+      ], 
       "hnrlbls": [
         "189"
       ], 
@@ -697,6 +776,14 @@
       "street": "Chauss\u00e9e de Wavre"
     }, 
     {
+      "busnrs": [
+        "bte1", 
+        "bte3", 
+        "bte4", 
+        "bte5", 
+        "bte6", 
+        "bte8"
+      ], 
       "hnrlbls": [
         "195"
       ], 
@@ -709,6 +796,18 @@
       "street": "Chauss\u00e9e de Wavre"
     }, 
     {
+      "busnrs": [
+        "Ab12", 
+        "Ab13", 
+        "Ab14", 
+        "Abt1", 
+        "Abt2", 
+        "Abt3", 
+        "Abt4", 
+        "Abt7", 
+        "Abt8", 
+        "Abt9"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -757,6 +856,15 @@
       "street": "Chauss\u00e9e de Wavre"
     }, 
     {
+      "busnrs": [
+        "bte1", 
+        "bte3", 
+        "bte4", 
+        "bte5", 
+        "bte6", 
+        "bte7", 
+        "bte8"
+      ], 
       "hnrlbls": [
         "205"
       ], 
@@ -973,6 +1081,9 @@
       "street": "Chauss\u00e9e de Wavre"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -1073,8 +1184,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.631572190217, 
-      "lon": 4.795841791996, 
+      "lat": 50.626196738151, 
+      "lon": 4.80990396879, 
       "municipality": "Perwez", 
       "pcode": "1360", 
       "source": "7703215", 
@@ -1165,6 +1276,11 @@
       "street": "Chauss\u00e9e de Wavre"
     }, 
     {
+      "busnrs": [
+        "bte1", 
+        "bte3", 
+        "bte4"
+      ], 
       "hnrlbls": [
         "50"
       ], 
@@ -1193,8 +1309,8 @@
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 50.627363868075, 
-      "lon": 4.804847931412, 
+      "lat": 50.627434773427, 
+      "lon": 4.80479337402, 
       "municipality": "Perwez", 
       "pcode": "1360", 
       "source": "7703215", 
@@ -1261,6 +1377,15 @@
       "street": "Chauss\u00e9e de Wavre"
     }, 
     {
+      "busnrs": [
+        "bte1", 
+        "bte2", 
+        "bte3", 
+        "bte4", 
+        "bte5", 
+        "bte6", 
+        "bte7"
+      ], 
       "hnrlbls": [
         "59"
       ], 
@@ -1321,6 +1446,30 @@
       "street": "Chauss\u00e9e de Wavre"
     }, 
     {
+      "busnrs": [
+        "Abt1", 
+        "Abt2", 
+        "Abt4", 
+        "Abt5", 
+        "Abt6", 
+        "Abt7", 
+        "Abt8", 
+        "Bbt1", 
+        "Bbt2", 
+        "Bbt3", 
+        "Bbt4", 
+        "Bbt5", 
+        "Bbt6", 
+        "Bbt7", 
+        "Bbt8", 
+        "Cbt1", 
+        "Cbt2", 
+        "Cbt3", 
+        "Cbt4", 
+        "Cbt6", 
+        "Cbt7", 
+        "Cbt8"
+      ], 
       "hnrlbls": [
         "64"
       ], 
@@ -1334,11 +1483,23 @@
     }, 
     {
       "hnrlbls": [
+        "65"
+      ], 
+      "housenumber": "65", 
+      "lat": 50.627855817821, 
+      "lon": 4.802962125894, 
+      "municipality": "Perwez", 
+      "pcode": "1360", 
+      "source": "7703215", 
+      "street": "Chauss\u00e9e de Wavre"
+    }, 
+    {
+      "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.625724062524, 
-      "lon": 4.810063613101, 
+      "lat": 50.625713941665, 
+      "lon": 4.810191021994, 
       "municipality": "Perwez", 
       "pcode": "1360", 
       "source": "7703215", 
@@ -1441,6 +1602,11 @@
       "street": "Chauss\u00e9e de Wavre"
     }, 
     {
+      "busnrs": [
+        "bte1", 
+        "bte2", 
+        "bte3"
+      ], 
       "hnrlbls": [
         "80"
       ], 
@@ -1489,6 +1655,14 @@
       "street": "Chauss\u00e9e de Wavre"
     }, 
     {
+      "busnrs": [
+        "bte1", 
+        "bte2", 
+        "bte3", 
+        "bte4", 
+        "bte5", 
+        "bte6"
+      ], 
       "hnrlbls": [
         "85"
       ], 
@@ -1513,6 +1687,14 @@
       "street": "Chauss\u00e9e de Wavre"
     }, 
     {
+      "busnrs": [
+        "bte1", 
+        "bte2", 
+        "bte3", 
+        "bte4", 
+        "bte5", 
+        "bte6"
+      ], 
       "hnrlbls": [
         "87"
       ], 
@@ -1525,6 +1707,11 @@
       "street": "Chauss\u00e9e de Wavre"
     }, 
     {
+      "busnrs": [
+        "bte1", 
+        "bte2", 
+        "bte3"
+      ], 
       "hnrlbls": [
         "88"
       ], 

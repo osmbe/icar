@@ -5,8 +5,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.32937556814, 
-      "lon": 4.654631923677, 
+      "lat": 50.329017995003, 
+      "lon": 4.654392776248, 
       "municipality": "Mettet", 
       "pcode": "5640", 
       "source": "7752964", 
@@ -14,23 +14,11 @@
     }, 
     {
       "hnrlbls": [
-        "10"
+        "11"
       ], 
-      "housenumber": "10", 
-      "lat": 50.328406873086, 
-      "lon": 4.649855695421, 
-      "municipality": "Mettet", 
-      "pcode": "5640", 
-      "source": "7752964", 
-      "street": "Rue du Try Joly"
-    }, 
-    {
-      "hnrlbls": [
-        "12"
-      ], 
-      "housenumber": "12", 
-      "lat": 50.328395113648, 
-      "lon": 4.649707567613, 
+      "housenumber": "11", 
+      "lat": 50.329158194064, 
+      "lon": 4.653263556262, 
       "municipality": "Mettet", 
       "pcode": "5640", 
       "source": "7752964", 
@@ -41,68 +29,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 50.327992468471, 
-      "lon": 4.649543164783, 
-      "municipality": "Mettet", 
-      "pcode": "5640", 
-      "source": "7752964", 
-      "street": "Rue du Try Joly"
-    }, 
-    {
-      "hnrlbls": [
-        "14"
-      ], 
-      "housenumber": "14", 
-      "lat": 50.328369056331, 
-      "lon": 4.649575408163, 
-      "municipality": "Mettet", 
-      "pcode": "5640", 
-      "source": "7752964", 
-      "street": "Rue du Try Joly"
-    }, 
-    {
-      "hnrlbls": [
-        "15"
-      ], 
-      "housenumber": "15", 
-      "lat": 50.327980189766, 
-      "lon": 4.649345781317, 
-      "municipality": "Mettet", 
-      "pcode": "5640", 
-      "source": "7752964", 
-      "street": "Rue du Try Joly"
-    }, 
-    {
-      "hnrlbls": [
-        "16"
-      ], 
-      "housenumber": "16", 
-      "lat": 50.328314373437, 
-      "lon": 4.649343025899, 
-      "municipality": "Mettet", 
-      "pcode": "5640", 
-      "source": "7752964", 
-      "street": "Rue du Try Joly"
-    }, 
-    {
-      "hnrlbls": [
-        "17"
-      ], 
-      "housenumber": "17", 
-      "lat": 50.327967792357, 
-      "lon": 4.649130462471, 
-      "municipality": "Mettet", 
-      "pcode": "5640", 
-      "source": "7752964", 
-      "street": "Rue du Try Joly"
-    }, 
-    {
-      "hnrlbls": [
-        "18"
-      ], 
-      "housenumber": "18", 
-      "lat": 50.328291527736, 
-      "lon": 4.649143092774, 
+      "lat": 50.328909940102, 
+      "lon": 4.652638357736, 
       "municipality": "Mettet", 
       "pcode": "5640", 
       "source": "7752964", 
@@ -113,20 +41,50 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.32919474944, 
-      "lon": 4.653326813019, 
+      "lat": 50.328263581636, 
+      "lon": 4.654312778771, 
       "municipality": "Mettet", 
       "pcode": "5640", 
       "source": "7752964", 
       "street": "Rue du Try Joly"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B", 
+        "C", 
+        "D", 
+        "E", 
+        "F", 
+        "G", 
+        "H"
+      ], 
       "hnrlbls": [
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 50.328159850208, 
-      "lon": 4.648620560106, 
+      "lat": 50.328206960323, 
+      "lon": 4.650629180241, 
+      "municipality": "Mettet", 
+      "pcode": "5640", 
+      "source": "7752964", 
+      "street": "Rue du Try Joly"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006"
+      ], 
+      "hnrlbls": [
+        "21"
+      ], 
+      "housenumber": "21", 
+      "lat": 50.328688504004, 
+      "lon": 4.651568474755, 
       "municipality": "Mettet", 
       "pcode": "5640", 
       "source": "7752964", 
@@ -137,8 +95,28 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 50.328126119222, 
-      "lon": 4.648493581201, 
+      "lat": 50.328252074821, 
+      "lon": 4.649970308182, 
+      "municipality": "Mettet", 
+      "pcode": "5640", 
+      "source": "7752964", 
+      "street": "Rue du Try Joly"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006"
+      ], 
+      "hnrlbls": [
+        "23"
+      ], 
+      "housenumber": "23", 
+      "lat": 50.328636682875, 
+      "lon": 4.651164607668, 
       "municipality": "Mettet", 
       "pcode": "5640", 
       "source": "7752964", 
@@ -149,8 +127,68 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 50.327931758231, 
-      "lon": 4.647799101944, 
+      "lat": 50.328068347001, 
+      "lon": 4.649680012861, 
+      "municipality": "Mettet", 
+      "pcode": "5640", 
+      "source": "7752964", 
+      "street": "Rue du Try Joly"
+    }, 
+    {
+      "hnrlbls": [
+        "25"
+      ], 
+      "housenumber": "25", 
+      "lat": 50.328620002276, 
+      "lon": 4.650981681959, 
+      "municipality": "Mettet", 
+      "pcode": "5640", 
+      "source": "7752964", 
+      "street": "Rue du Try Joly"
+    }, 
+    {
+      "hnrlbls": [
+        "26"
+      ], 
+      "housenumber": "26", 
+      "lat": 50.327992468471, 
+      "lon": 4.649543164783, 
+      "municipality": "Mettet", 
+      "pcode": "5640", 
+      "source": "7752964", 
+      "street": "Rue du Try Joly"
+    }, 
+    {
+      "hnrlbls": [
+        "27"
+      ], 
+      "housenumber": "27", 
+      "lat": 50.328583079302, 
+      "lon": 4.65045698585, 
+      "municipality": "Mettet", 
+      "pcode": "5640", 
+      "source": "7752964", 
+      "street": "Rue du Try Joly"
+    }, 
+    {
+      "hnrlbls": [
+        "28"
+      ], 
+      "housenumber": "28", 
+      "lat": 50.327980189766, 
+      "lon": 4.649345781317, 
+      "municipality": "Mettet", 
+      "pcode": "5640", 
+      "source": "7752964", 
+      "street": "Rue du Try Joly"
+    }, 
+    {
+      "hnrlbls": [
+        "29"
+      ], 
+      "housenumber": "29", 
+      "lat": 50.328568429698, 
+      "lon": 4.650318664405, 
       "municipality": "Mettet", 
       "pcode": "5640", 
       "source": "7752964", 
@@ -161,8 +199,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.329431835566, 
-      "lon": 4.654152826138, 
+      "lat": 50.329358343469, 
+      "lon": 4.65457577935, 
       "municipality": "Mettet", 
       "pcode": "5640", 
       "source": "7752964", 
@@ -170,23 +208,28 @@
     }, 
     {
       "hnrlbls": [
-        "4"
+        "30"
       ], 
-      "housenumber": "4", 
-      "lat": 50.328909940102, 
-      "lon": 4.652638357736, 
+      "housenumber": "30", 
+      "lat": 50.327967792357, 
+      "lon": 4.649130462471, 
       "municipality": "Mettet", 
       "pcode": "5640", 
       "source": "7752964", 
       "street": "Rue du Try Joly"
     }, 
     {
-      "hnrlbls": [
-        "8"
+      "busnrs": [
+        "B", 
+        "C", 
+        "D"
       ], 
-      "housenumber": "8", 
-      "lat": 50.328570522333, 
-      "lon": 4.650390109299, 
+      "hnrlbls": [
+        "32"
+      ], 
+      "housenumber": "32", 
+      "lat": 50.327951639913, 
+      "lon": 4.648939360886, 
       "municipality": "Mettet", 
       "pcode": "5640", 
       "source": "7752964", 
@@ -194,11 +237,170 @@
     }, 
     {
       "hnrlbls": [
+        "33"
+      ], 
+      "housenumber": "33", 
+      "lat": 50.328411699833, 
+      "lon": 4.649801763289, 
+      "municipality": "Mettet", 
+      "pcode": "5640", 
+      "source": "7752964", 
+      "street": "Rue du Try Joly"
+    }, 
+    {
+      "hnrlbls": [
+        "35"
+      ], 
+      "housenumber": "35", 
+      "lat": 50.328395113648, 
+      "lon": 4.649707567613, 
+      "municipality": "Mettet", 
+      "pcode": "5640", 
+      "source": "7752964", 
+      "street": "Rue du Try Joly"
+    }, 
+    {
+      "hnrlbls": [
+        "37"
+      ], 
+      "housenumber": "37", 
+      "lat": 50.328369056331, 
+      "lon": 4.649575408163, 
+      "municipality": "Mettet", 
+      "pcode": "5640", 
+      "source": "7752964", 
+      "street": "Rue du Try Joly"
+    }, 
+    {
+      "hnrlbls": [
+        "39"
+      ], 
+      "housenumber": "39", 
+      "lat": 50.328327226992, 
+      "lon": 4.649339757949, 
+      "municipality": "Mettet", 
+      "pcode": "5640", 
+      "source": "7752964", 
+      "street": "Rue du Try Joly"
+    }, 
+    {
+      "hnrlbls": [
+        "3A"
+      ], 
+      "housenumber": "3A", 
+      "lat": 50.329380665357, 
+      "lon": 4.654687395196, 
+      "municipality": "Mettet", 
+      "pcode": "5640", 
+      "source": "7752964", 
+      "street": "Rue du Try Joly"
+    }, 
+    {
+      "hnrlbls": [
+        "41"
+      ], 
+      "housenumber": "41", 
+      "lat": 50.328291527736, 
+      "lon": 4.649143092774, 
+      "municipality": "Mettet", 
+      "pcode": "5640", 
+      "source": "7752964", 
+      "street": "Rue du Try Joly"
+    }, 
+    {
+      "hnrlbls": [
+        "43"
+      ], 
+      "housenumber": "43", 
+      "lat": 50.328159850208, 
+      "lon": 4.648620560106, 
+      "municipality": "Mettet", 
+      "pcode": "5640", 
+      "source": "7752964", 
+      "street": "Rue du Try Joly"
+    }, 
+    {
+      "hnrlbls": [
+        "45"
+      ], 
+      "housenumber": "45", 
+      "lat": 50.328126119222, 
+      "lon": 4.648493581201, 
+      "municipality": "Mettet", 
+      "pcode": "5640", 
+      "source": "7752964", 
+      "street": "Rue du Try Joly"
+    }, 
+    {
+      "hnrlbls": [
+        "49"
+      ], 
+      "housenumber": "49", 
+      "lat": 50.327931758231, 
+      "lon": 4.647799101944, 
+      "municipality": "Mettet", 
+      "pcode": "5640", 
+      "source": "7752964", 
+      "street": "Rue du Try Joly"
+    }, 
+    {
+      "busnrs": [
+        "A"
+      ], 
+      "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 50.329431351241, 
+      "lon": 4.654149803569, 
+      "municipality": "Mettet", 
+      "pcode": "5640", 
+      "source": "7752964", 
+      "street": "Rue du Try Joly"
+    }, 
+    {
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 50.328943874658, 
+      "lon": 4.653937842792, 
+      "municipality": "Mettet", 
+      "pcode": "5640", 
+      "source": "7752964", 
+      "street": "Rue du Try Joly"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "10", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
         "9"
       ], 
-      "housenumber": "9", 
-      "lat": 50.328252074821, 
-      "lon": 4.649970308182, 
+      "hnrlbls": [
+        "7A"
+      ], 
+      "housenumber": "7A", 
+      "lat": 50.32903865987, 
+      "lon": 4.653699843928, 
+      "municipality": "Mettet", 
+      "pcode": "5640", 
+      "source": "7752964", 
+      "street": "Rue du Try Joly"
+    }, 
+    {
+      "hnrlbls": [
+        "7B"
+      ], 
+      "housenumber": "7B", 
+      "lat": 50.328922961147, 
+      "lon": 4.653737052624, 
       "municipality": "Mettet", 
       "pcode": "5640", 
       "source": "7752964", 

@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "Bte1"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -50,11 +53,35 @@
     }, 
     {
       "hnrlbls": [
+        "12A"
+      ], 
+      "housenumber": "12A", 
+      "lat": 50.093994386186, 
+      "lon": 5.526881812966, 
+      "municipality": "Tenneville", 
+      "pcode": "6970", 
+      "source": "7744568", 
+      "street": "Rue de la Vieille Eglise"
+    }, 
+    {
+      "hnrlbls": [
         "13"
       ], 
       "housenumber": "13", 
       "lat": 50.095231002952, 
       "lon": 5.529303082542, 
+      "municipality": "Tenneville", 
+      "pcode": "6970", 
+      "source": "7744568", 
+      "street": "Rue de la Vieille Eglise"
+    }, 
+    {
+      "hnrlbls": [
+        "13A"
+      ], 
+      "housenumber": "13A", 
+      "lat": 50.095425191293, 
+      "lon": 5.530138685861, 
       "municipality": "Tenneville", 
       "pcode": "6970", 
       "source": "7744568", 
@@ -109,6 +136,9 @@
       "street": "Rue de la Vieille Eglise"
     }, 
     {
+      "busnrs": [
+        "Bte1"
+      ], 
       "hnrlbls": [
         "17A"
       ], 
@@ -182,6 +212,18 @@
     }, 
     {
       "hnrlbls": [
+        "1B"
+      ], 
+      "housenumber": "1B", 
+      "lat": 50.093918598694, 
+      "lon": 5.525902131488, 
+      "municipality": "Tenneville", 
+      "pcode": "6970", 
+      "source": "7744568", 
+      "street": "Rue de la Vieille Eglise"
+    }, 
+    {
+      "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
@@ -211,6 +253,18 @@
       "housenumber": "21", 
       "lat": 50.096111195619, 
       "lon": 5.53233031945, 
+      "municipality": "Tenneville", 
+      "pcode": "6970", 
+      "source": "7744568", 
+      "street": "Rue de la Vieille Eglise"
+    }, 
+    {
+      "hnrlbls": [
+        "21B"
+      ], 
+      "housenumber": "21B", 
+      "lat": 50.09620487158, 
+      "lon": 5.533078106446, 
       "municipality": "Tenneville", 
       "pcode": "6970", 
       "source": "7744568", 
@@ -257,8 +311,20 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 50.094446385159, 
-      "lon": 5.529406811953, 
+      "lat": 50.094442035702, 
+      "lon": 5.529375641401, 
+      "municipality": "Tenneville", 
+      "pcode": "6970", 
+      "source": "7744568", 
+      "street": "Rue de la Vieille Eglise"
+    }, 
+    {
+      "hnrlbls": [
+        "26A"
+      ], 
+      "housenumber": "26A", 
+      "lat": 50.094455204835, 
+      "lon": 5.529472429522, 
       "municipality": "Tenneville", 
       "pcode": "6970", 
       "source": "7744568", 
@@ -293,8 +359,20 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 50.095028565064, 
-      "lon": 5.529771120158, 
+      "lat": 50.095000649165, 
+      "lon": 5.529793295901, 
+      "municipality": "Tenneville", 
+      "pcode": "6970", 
+      "source": "7744568", 
+      "street": "Rue de la Vieille Eglise"
+    }, 
+    {
+      "hnrlbls": [
+        "30A"
+      ], 
+      "housenumber": "30A", 
+      "lat": 50.095056793243, 
+      "lon": 5.529749274867, 
       "municipality": "Tenneville", 
       "pcode": "6970", 
       "source": "7744568", 
@@ -317,8 +395,20 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 50.095307099497, 
-      "lon": 5.530857096595, 
+      "lat": 50.095274843919, 
+      "lon": 5.530899626681, 
+      "municipality": "Tenneville", 
+      "pcode": "6970", 
+      "source": "7744568", 
+      "street": "Rue de la Vieille Eglise"
+    }, 
+    {
+      "hnrlbls": [
+        "34A"
+      ], 
+      "housenumber": "34A", 
+      "lat": 50.09529729055, 
+      "lon": 5.530768099615, 
       "municipality": "Tenneville", 
       "pcode": "6970", 
       "source": "7744568", 
@@ -385,6 +475,10 @@
       "street": "Rue de la Vieille Eglise"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -403,6 +497,18 @@
       "housenumber": "5A", 
       "lat": 50.095619035742, 
       "lon": 5.528315595529, 
+      "municipality": "Tenneville", 
+      "pcode": "6970", 
+      "source": "7744568", 
+      "street": "Rue de la Vieille Eglise"
+    }, 
+    {
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.093360736427, 
+      "lon": 5.525795420405, 
       "municipality": "Tenneville", 
       "pcode": "6970", 
       "source": "7744568", 
@@ -449,8 +555,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.093391058573, 
-      "lon": 5.525846302387, 
+      "lat": 50.093422062811, 
+      "lon": 5.525900356998, 
       "municipality": "Tenneville", 
       "pcode": "6970", 
       "source": "7744568", 

@@ -61,6 +61,11 @@
       "street": "Rue Grande"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "001", 
+        "011"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -97,6 +102,15 @@
       "street": "Rue Grande"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt04", 
+        "Bt05", 
+        "Bt06", 
+        "Bt07"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -145,6 +159,9 @@
       "street": "Rue Grande"
     }, 
     {
+      "busnrs": [
+        "0011"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -217,6 +234,11 @@
       "street": "Rue Grande"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "0021"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -229,6 +251,10 @@
       "street": "Rue Grande"
     }, 
     {
+      "busnrs": [
+        "A002", 
+        "A003"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -313,6 +339,12 @@
       "street": "Rue Grande"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "44"
       ], 
@@ -337,6 +369,9 @@
       "street": "Rue Grande"
     }, 
     {
+      "busnrs": [
+        "0011"
+      ], 
       "hnrlbls": [
         "46"
       ], 
@@ -361,6 +396,9 @@
       "street": "Rue Grande"
     }, 
     {
+      "busnrs": [
+        "App1"
+      ], 
       "hnrlbls": [
         "48"
       ], 
@@ -565,6 +603,10 @@
       "street": "Rue Grande"
     }, 
     {
+      "busnrs": [
+        "Apt1", 
+        "Apt2"
+      ], 
       "hnrlbls": [
         "63"
       ], 
@@ -685,12 +727,16 @@
       "street": "Rue Grande"
     }, 
     {
+      "busnrs": [
+        "R\u00bff0", 
+        "R\u00bffP"
+      ], 
       "hnrlbls": [
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.407473449076, 
-      "lon": 3.684053871959, 
+      "lat": 50.406930624041, 
+      "lon": 3.683460080035, 
       "municipality": "Qui\u00e9vrain", 
       "pcode": "7380", 
       "source": "7714560", 

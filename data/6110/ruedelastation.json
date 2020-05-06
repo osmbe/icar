@@ -2,6 +2,30 @@
   "addresses": [
     {
       "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.368705164183, 
+      "lon": 4.396160375909, 
+      "municipality": "Montigny-le-Tilleul", 
+      "pcode": "6110", 
+      "source": "7710918", 
+      "street": "Rue de la Station"
+    }, 
+    {
+      "hnrlbls": [
+        "100"
+      ], 
+      "housenumber": "100", 
+      "lat": 50.364100423089, 
+      "lon": 4.393400752829, 
+      "municipality": "Montigny-le-Tilleul", 
+      "pcode": "6110", 
+      "source": "7710918", 
+      "street": "Rue de la Station"
+    }, 
+    {
+      "hnrlbls": [
         "105"
       ], 
       "housenumber": "105", 
@@ -97,6 +121,12 @@
       "street": "Rue de la Station"
     }, 
     {
+      "busnrs": [
+        "1/03", 
+        "1/04", 
+        "RC/1", 
+        "RC/2"
+      ], 
       "hnrlbls": [
         "121"
       ], 
@@ -109,12 +139,23 @@
       "street": "Rue de la Station"
     }, 
     {
+      "busnrs": [
+        "01/1", 
+        "01/2", 
+        "03/7", 
+        "1/03", 
+        "2/04", 
+        "2/05", 
+        "2/06", 
+        "3/08", 
+        "3/09"
+      ], 
       "hnrlbls": [
         "122"
       ], 
       "housenumber": "122", 
-      "lat": 50.362403055247, 
-      "lon": 4.393802253193, 
+      "lat": 50.362437243042, 
+      "lon": 4.393830626787, 
       "municipality": "Montigny-le-Tilleul", 
       "pcode": "6110", 
       "source": "7710918", 
@@ -245,8 +286,8 @@
         "189"
       ], 
       "housenumber": "189", 
-      "lat": 50.361799288319, 
-      "lon": 4.392248468495, 
+      "lat": 50.361774530499, 
+      "lon": 4.392339188045, 
       "municipality": "Montigny-le-Tilleul", 
       "pcode": "6110", 
       "source": "7710918", 
@@ -289,6 +330,9 @@
       "street": "Rue de la Station"
     }, 
     {
+      "busnrs": [
+        "01/1"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -317,8 +361,8 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 50.366488470639, 
-      "lon": 4.396505111911, 
+      "lat": 50.36624505457, 
+      "lon": 4.395968693977, 
       "municipality": "Montigny-le-Tilleul", 
       "pcode": "6110", 
       "source": "7710918", 
@@ -439,6 +483,18 @@
       "housenumber": "79", 
       "lat": 50.365246759307, 
       "lon": 4.393739209428, 
+      "municipality": "Montigny-le-Tilleul", 
+      "pcode": "6110", 
+      "source": "7710918", 
+      "street": "Rue de la Station"
+    }, 
+    {
+      "hnrlbls": [
+        "82"
+      ], 
+      "housenumber": "82", 
+      "lat": 50.364925275681, 
+      "lon": 4.393960086104, 
       "municipality": "Montigny-le-Tilleul", 
       "pcode": "6110", 
       "source": "7710918", 

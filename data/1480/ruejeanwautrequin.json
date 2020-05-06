@@ -325,6 +325,15 @@
       "street": "Rue Jean Wautrequin"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "102", 
+        "103", 
+        "104", 
+        "R01", 
+        "R02", 
+        "S01"
+      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -343,18 +352,6 @@
       "housenumber": "36", 
       "lat": 50.69143034672, 
       "lon": 4.221366931956, 
-      "municipality": "Tubize", 
-      "pcode": "1480", 
-      "source": "7703919", 
-      "street": "Rue Jean Wautrequin"
-    }, 
-    {
-      "hnrlbls": [
-        "39"
-      ], 
-      "housenumber": "39", 
-      "lat": 50.691963379572, 
-      "lon": 4.221384988863, 
       "municipality": "Tubize", 
       "pcode": "1480", 
       "source": "7703919", 

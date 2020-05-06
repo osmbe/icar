@@ -13,6 +13,14 @@
       "street": "Rue de Porto"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "101"
       ], 
@@ -121,12 +129,30 @@
       "street": "Rue de Porto"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "110"
       ], 
       "housenumber": "110", 
       "lat": 50.64346832804, 
       "lon": 5.596990100974, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730490", 
+      "street": "Rue de Porto"
+    }, 
+    {
+      "hnrlbls": [
+        "111"
+      ], 
+      "housenumber": "111", 
+      "lat": 50.643521397001, 
+      "lon": 5.596576284834, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730490", 
@@ -193,6 +219,11 @@
       "street": "Rue de Porto"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "118"
       ], 
@@ -229,6 +260,11 @@
       "street": "Rue de Porto"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "122"
       ], 
@@ -265,6 +301,12 @@
       "street": "Rue de Porto"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "125"
       ], 
@@ -338,6 +380,30 @@
     }, 
     {
       "hnrlbls": [
+        "130"
+      ], 
+      "housenumber": "130", 
+      "lat": 50.643839368145, 
+      "lon": 5.598007069408, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730490", 
+      "street": "Rue de Porto"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024"
+      ], 
+      "hnrlbls": [
         "131"
       ], 
       "housenumber": "131", 
@@ -355,6 +421,18 @@
       "housenumber": "133", 
       "lat": 50.643996225137, 
       "lon": 5.597905810724, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730490", 
+      "street": "Rue de Porto"
+    }, 
+    {
+      "hnrlbls": [
+        "134"
+      ], 
+      "housenumber": "134", 
+      "lat": 50.643749821482, 
+      "lon": 5.598010802611, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730490", 
@@ -385,6 +463,18 @@
       "street": "Rue de Porto"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024", 
+        "0025"
+      ], 
       "hnrlbls": [
         "137"
       ], 
@@ -409,6 +499,10 @@
       "street": "Rue de Porto"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "139"
       ], 
@@ -446,6 +540,60 @@
     }, 
     {
       "hnrlbls": [
+        "141"
+      ], 
+      "housenumber": "141", 
+      "lat": 50.644906883691, 
+      "lon": 5.598511419683, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730490", 
+      "street": "Rue de Porto"
+    }, 
+    {
+      "hnrlbls": [
+        "141A"
+      ], 
+      "housenumber": "141A", 
+      "lat": 50.644811162778, 
+      "lon": 5.598584859566, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730490", 
+      "street": "Rue de Porto"
+    }, 
+    {
+      "hnrlbls": [
+        "143"
+      ], 
+      "housenumber": "143", 
+      "lat": 50.644733015023, 
+      "lon": 5.598637405034, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730490", 
+      "street": "Rue de Porto"
+    }, 
+    {
+      "hnrlbls": [
+        "143A"
+      ], 
+      "housenumber": "143A", 
+      "lat": 50.644650820827, 
+      "lon": 5.598689986252, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730490", 
+      "street": "Rue de Porto"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
+      "hnrlbls": [
         "146"
       ], 
       "housenumber": "146", 
@@ -457,6 +605,12 @@
       "street": "Rue de Porto"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "148"
       ], 
@@ -493,6 +647,27 @@
       "street": "Rue de Porto"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031"
+      ], 
+      "hnrlbls": [
+        "151"
+      ], 
+      "housenumber": "151", 
+      "lat": 50.644295433006, 
+      "lon": 5.598741776094, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730490", 
+      "street": "Rue de Porto"
+    }, 
+    {
       "hnrlbls": [
         "152"
       ], 
@@ -505,12 +680,86 @@
       "street": "Rue de Porto"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032"
+      ], 
+      "hnrlbls": [
+        "153"
+      ], 
+      "housenumber": "153", 
+      "lat": 50.644359728874, 
+      "lon": 5.598938749801, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730490", 
+      "street": "Rue de Porto"
+    }, 
+    {
       "hnrlbls": [
         "154"
       ], 
       "housenumber": "154", 
       "lat": 50.644180178162, 
       "lon": 5.59894405148, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730490", 
+      "street": "Rue de Porto"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032"
+      ], 
+      "hnrlbls": [
+        "155"
+      ], 
+      "housenumber": "155", 
+      "lat": 50.644438246702, 
+      "lon": 5.599140583101, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730490", 
+      "street": "Rue de Porto"
+    }, 
+    {
+      "hnrlbls": [
+        "156"
+      ], 
+      "housenumber": "156", 
+      "lat": 50.644215213235, 
+      "lon": 5.599012626659, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730490", 
+      "street": "Rue de Porto"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
+      "hnrlbls": [
+        "157"
+      ], 
+      "housenumber": "157", 
+      "lat": 50.644493416125, 
+      "lon": 5.599275540255, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730490", 
@@ -565,6 +814,11 @@
       "street": "Rue de Porto"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "163"
       ], 
@@ -577,6 +831,10 @@
       "street": "Rue de Porto"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "164"
       ], 
@@ -589,6 +847,13 @@
       "street": "Rue de Porto"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "165"
       ], 
@@ -722,6 +987,23 @@
     }, 
     {
       "hnrlbls": [
+        "178"
+      ], 
+      "housenumber": "178", 
+      "lat": 50.644405779, 
+      "lon": 5.599895292451, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730490", 
+      "street": "Rue de Porto"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
+      "hnrlbls": [
         "179"
       ], 
       "housenumber": "179", 
@@ -757,6 +1039,12 @@
       "street": "Rue de Porto"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021"
+      ], 
       "hnrlbls": [
         "181"
       ], 
@@ -769,6 +1057,11 @@
       "street": "Rue de Porto"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "182"
       ], 
@@ -830,6 +1123,18 @@
     }, 
     {
       "hnrlbls": [
+        "187"
+      ], 
+      "housenumber": "187", 
+      "lat": 50.64491652374, 
+      "lon": 5.6004960198, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730490", 
+      "street": "Rue de Porto"
+    }, 
+    {
+      "hnrlbls": [
         "189"
       ], 
       "housenumber": "189", 
@@ -877,6 +1182,16 @@
       "street": "Rue de Porto"
     }, 
     {
+      "busnrs": [
+        "0041", 
+        "0042", 
+        "0043", 
+        "0044", 
+        "0045", 
+        "0046", 
+        "0047", 
+        "0048"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -914,6 +1229,18 @@
     }, 
     {
       "hnrlbls": [
+        "201B"
+      ], 
+      "housenumber": "201B", 
+      "lat": 50.645341939653, 
+      "lon": 5.600892319184, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730490", 
+      "street": "Rue de Porto"
+    }, 
+    {
+      "hnrlbls": [
         "203"
       ], 
       "housenumber": "203", 
@@ -931,6 +1258,46 @@
       "housenumber": "204", 
       "lat": 50.644972484748, 
       "lon": 5.601129664987, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730490", 
+      "street": "Rue de Porto"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
+      "hnrlbls": [
+        "206"
+      ], 
+      "housenumber": "206", 
+      "lat": 50.644932367015, 
+      "lon": 5.601192575049, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730490", 
+      "street": "Rue de Porto"
+    }, 
+    {
+      "hnrlbls": [
+        "208"
+      ], 
+      "housenumber": "208", 
+      "lat": 50.644889562919, 
+      "lon": 5.601320843325, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730490", 
+      "street": "Rue de Porto"
+    }, 
+    {
+      "hnrlbls": [
+        "21"
+      ], 
+      "housenumber": "21", 
+      "lat": 50.642446864668, 
+      "lon": 5.59283576854, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730490", 
@@ -961,6 +1328,10 @@
       "street": "Rue de Porto"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -973,6 +1344,11 @@
       "street": "Rue de Porto"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -997,6 +1373,11 @@
       "street": "Rue de Porto"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -1045,6 +1426,12 @@
       "street": "Rue de Porto"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "32"
       ], 
@@ -1069,6 +1456,11 @@
       "street": "Rue de Porto"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -1189,12 +1581,31 @@
       "street": "Rue de Porto"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "44"
       ], 
       "housenumber": "44", 
       "lat": 50.642447955974, 
       "lon": 5.593771952587, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730490", 
+      "street": "Rue de Porto"
+    }, 
+    {
+      "hnrlbls": [
+        "45"
+      ], 
+      "housenumber": "45", 
+      "lat": 50.643005206485, 
+      "lon": 5.593787876816, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730490", 
@@ -1261,6 +1672,12 @@
       "street": "Rue de Porto"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "53"
       ], 
@@ -1273,6 +1690,11 @@
       "street": "Rue de Porto"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "54"
       ], 
@@ -1285,6 +1707,12 @@
       "street": "Rue de Porto"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "55"
       ], 
@@ -1333,6 +1761,12 @@
       "street": "Rue de Porto"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "60"
       ], 
@@ -1345,6 +1779,11 @@
       "street": "Rue de Porto"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011"
+      ], 
       "hnrlbls": [
         "61"
       ], 
@@ -1358,6 +1797,24 @@
     }, 
     {
       "hnrlbls": [
+        "62"
+      ], 
+      "housenumber": "62", 
+      "lat": 50.642437862281, 
+      "lon": 5.59452425469, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730490", 
+      "street": "Rue de Porto"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
+      "hnrlbls": [
         "63"
       ], 
       "housenumber": "63", 
@@ -1370,11 +1827,40 @@
     }, 
     {
       "hnrlbls": [
+        "64"
+      ], 
+      "housenumber": "64", 
+      "lat": 50.642583038306, 
+      "lon": 5.5946128654, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730490", 
+      "street": "Rue de Porto"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
+      "hnrlbls": [
         "65"
       ], 
       "housenumber": "65", 
       "lat": 50.642964946377, 
       "lon": 5.594992138287, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730490", 
+      "street": "Rue de Porto"
+    }, 
+    {
+      "hnrlbls": [
+        "66"
+      ], 
+      "housenumber": "66", 
+      "lat": 50.642617110425, 
+      "lon": 5.594623563689, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730490", 
@@ -1549,6 +2035,12 @@
       "street": "Rue de Porto"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "80"
       ], 
@@ -1597,6 +2089,17 @@
       "street": "Rue de Porto"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "84"
       ], 
@@ -1621,6 +2124,15 @@
       "street": "Rue de Porto"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031"
+      ], 
       "hnrlbls": [
         "86"
       ], 
@@ -1633,6 +2145,11 @@
       "street": "Rue de Porto"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "87"
       ], 
@@ -1705,6 +2222,10 @@
       "street": "Rue de Porto"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "93"
       ], 
@@ -1741,6 +2262,22 @@
       "street": "Rue de Porto"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0015", 
+        "0016", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024"
+      ], 
       "hnrlbls": [
         "96"
       ], 
@@ -1765,6 +2302,12 @@
       "street": "Rue de Porto"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "98"
       ], 
@@ -1777,6 +2320,14 @@
       "street": "Rue de Porto"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0021"
+      ], 
       "hnrlbls": [
         "99"
       ], 

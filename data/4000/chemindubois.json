@@ -133,6 +133,10 @@
       "street": "Chemin du Bois"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "120"
       ], 
@@ -463,6 +467,18 @@
       "housenumber": "71", 
       "lat": 50.678711587678, 
       "lon": 5.552106311338, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729730", 
+      "street": "Chemin du Bois"
+    }, 
+    {
+      "hnrlbls": [
+        "79"
+      ], 
+      "housenumber": "79", 
+      "lat": 50.678248239306, 
+      "lon": 5.552857163683, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7729730", 

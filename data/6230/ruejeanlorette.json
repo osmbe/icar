@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1001"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -61,6 +64,11 @@
       "street": "Rue Jean Lorette"
     }, 
     {
+      "busnrs": [
+        "A001", 
+        "A101", 
+        "B001"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -197,8 +205,8 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 50.486889332892, 
-      "lon": 4.429381288014, 
+      "lat": 50.486847278513, 
+      "lon": 4.429377597983, 
       "municipality": "Pont-\u00e0-Celles", 
       "pcode": "6230", 
       "source": "7711215", 
@@ -245,8 +253,8 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 50.48691640204, 
-      "lon": 4.429569571309, 
+      "lat": 50.486873916497, 
+      "lon": 4.429548181649, 
       "municipality": "Pont-\u00e0-Celles", 
       "pcode": "6230", 
       "source": "7711215", 
@@ -301,6 +309,10 @@
       "street": "Rue Jean Lorette"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "1001"
+      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -541,6 +553,9 @@
       "street": "Rue Jean Lorette"
     }, 
     {
+      "busnrs": [
+        "0058"
+      ], 
       "hnrlbls": [
         "56"
       ], 

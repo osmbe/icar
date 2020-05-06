@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0002", 
+        "0003", 
+        "0004", 
+        "000A"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -97,6 +103,12 @@
       "street": "Rue du Ry de Perbais"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0004", 
+        "000A", 
+        "000B"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -109,6 +121,9 @@
       "street": "Rue du Ry de Perbais"
     }, 
     {
+      "busnrs": [
+        "0002"
+      ], 
       "hnrlbls": [
         "20"
       ], 

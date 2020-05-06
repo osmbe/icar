@@ -181,6 +181,9 @@
       "street": "Rue d'Ath"
     }, 
     {
+      "busnrs": [
+        "Bis0"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -269,8 +272,8 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 50.505981920844, 
-      "lon": 3.661476195123, 
+      "lat": 50.505935112762, 
+      "lon": 3.661414527816, 
       "municipality": "Bernissart", 
       "pcode": "7321", 
       "source": "7708103", 
@@ -290,11 +293,23 @@
     }, 
     {
       "hnrlbls": [
+        "31A"
+      ], 
+      "housenumber": "31A", 
+      "lat": 50.50598863886, 
+      "lon": 3.66093927728, 
+      "municipality": "Bernissart", 
+      "pcode": "7321", 
+      "source": "7708103", 
+      "street": "Rue d'Ath"
+    }, 
+    {
+      "hnrlbls": [
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 50.505992039495, 
-      "lon": 3.660927498531, 
+      "lat": 50.506097108825, 
+      "lon": 3.661091917356, 
       "municipality": "Bernissart", 
       "pcode": "7321", 
       "source": "7708103", 
@@ -305,8 +320,8 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 50.506098819738, 
-      "lon": 3.661103466136, 
+      "lat": 50.506212610371, 
+      "lon": 3.661235117557, 
       "municipality": "Bernissart", 
       "pcode": "7321", 
       "source": "7708103", 
@@ -409,6 +424,10 @@
       "street": "Rue d'Ath"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "8"
       ], 

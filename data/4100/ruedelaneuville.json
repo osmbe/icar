@@ -169,6 +169,9 @@
       "street": "Rue de la Neuville"
     }, 
     {
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "128"
       ], 
@@ -433,6 +436,10 @@
       "street": "Rue de la Neuville"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "50"
       ], 
@@ -595,6 +602,18 @@
       "housenumber": "67", 
       "lat": 50.585770091356, 
       "lon": 5.501767992857, 
+      "municipality": "Seraing", 
+      "pcode": "4100", 
+      "source": "7732250", 
+      "street": "Rue de la Neuville"
+    }, 
+    {
+      "hnrlbls": [
+        "69"
+      ], 
+      "housenumber": "69", 
+      "lat": 50.585647220804, 
+      "lon": 5.501756960729, 
       "municipality": "Seraing", 
       "pcode": "4100", 
       "source": "7732250", 

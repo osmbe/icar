@@ -97,6 +97,9 @@
       "street": "Rue Henri Gardier"
     }, 
     {
+      "busnrs": [
+        "0023"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -337,6 +340,11 @@
       "street": "Rue Henri Gardier"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "A000", 
+        "A001"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -355,6 +363,18 @@
       "housenumber": "61", 
       "lat": 50.621694756277, 
       "lon": 5.735824059874, 
+      "municipality": "Soumagne", 
+      "pcode": "4630", 
+      "source": "7732848", 
+      "street": "Rue Henri Gardier"
+    }, 
+    {
+      "hnrlbls": [
+        "63"
+      ], 
+      "housenumber": "63", 
+      "lat": 50.621648906002, 
+      "lon": 5.73555579732, 
       "municipality": "Soumagne", 
       "pcode": "4630", 
       "source": "7732848", 

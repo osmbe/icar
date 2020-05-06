@@ -29,8 +29,8 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 50.393382541335, 
-      "lon": 4.699057919082, 
+      "lat": 50.382867724249, 
+      "lon": 4.684928092341, 
       "municipality": "Fosses-la-Ville", 
       "pcode": "5070", 
       "source": "7752440", 
@@ -53,8 +53,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 50.382688993336, 
-      "lon": 4.684862417207, 
+      "lat": 50.393221305576, 
+      "lon": 4.699190752562, 
       "municipality": "Fosses-la-Ville", 
       "pcode": "5070", 
       "source": "7752440", 
@@ -89,8 +89,8 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 50.392440757595, 
-      "lon": 4.697860905037, 
+      "lat": 50.392802110295, 
+      "lon": 4.697730608073, 
       "municipality": "Fosses-la-Ville", 
       "pcode": "5070", 
       "source": "7752440", 
@@ -445,6 +445,9 @@
       "street": "Route de Bambois"
     }, 
     {
+      "busnrs": [
+        "A/1"
+      ], 
       "hnrlbls": [
         "56"
       ], 
@@ -493,6 +496,13 @@
       "street": "Route de Bambois"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "5", 
+        "6"
+      ], 
       "hnrlbls": [
         "9"
       ], 

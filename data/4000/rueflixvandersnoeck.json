@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -55,6 +60,18 @@
       "housenumber": "108", 
       "lat": 50.647902836387, 
       "lon": 5.527149841723, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730937", 
+      "street": "Rue F\u00e9lix-Vandersnoeck"
+    }, 
+    {
+      "hnrlbls": [
+        "108B"
+      ], 
+      "housenumber": "108B", 
+      "lat": 50.647887890395, 
+      "lon": 5.527193609603, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730937", 
@@ -122,6 +139,18 @@
     }, 
     {
       "hnrlbls": [
+        "27"
+      ], 
+      "housenumber": "27", 
+      "lat": 50.645625615626, 
+      "lon": 5.530877822873, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730937", 
+      "street": "Rue F\u00e9lix-Vandersnoeck"
+    }, 
+    {
+      "hnrlbls": [
         "29"
       ], 
       "housenumber": "29", 
@@ -139,6 +168,18 @@
       "housenumber": "30", 
       "lat": 50.646118069459, 
       "lon": 5.530373448438, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730937", 
+      "street": "Rue F\u00e9lix-Vandersnoeck"
+    }, 
+    {
+      "hnrlbls": [
+        "34"
+      ], 
+      "housenumber": "34", 
+      "lat": 50.64628682138, 
+      "lon": 5.530380799173, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730937", 
@@ -169,6 +210,10 @@
       "street": "Rue F\u00e9lix-Vandersnoeck"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "39"
       ], 
@@ -205,12 +250,48 @@
       "street": "Rue F\u00e9lix-Vandersnoeck"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0021", 
+        "0022"
+      ], 
+      "hnrlbls": [
+        "41"
+      ], 
+      "housenumber": "41", 
+      "lat": 50.64616196912, 
+      "lon": 5.529871486298, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730937", 
+      "street": "Rue F\u00e9lix-Vandersnoeck"
+    }, 
+    {
       "hnrlbls": [
         "42"
       ], 
       "housenumber": "42", 
       "lat": 50.64635266082, 
       "lon": 5.53002144788, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730937", 
+      "street": "Rue F\u00e9lix-Vandersnoeck"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
+      "hnrlbls": [
+        "43"
+      ], 
+      "housenumber": "43", 
+      "lat": 50.646233024572, 
+      "lon": 5.529778491872, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730937", 
@@ -229,6 +310,9 @@
       "street": "Rue F\u00e9lix-Vandersnoeck"
     }, 
     {
+      "busnrs": [
+        "0011"
+      ], 
       "hnrlbls": [
         "45"
       ], 
@@ -253,6 +337,12 @@
       "street": "Rue F\u00e9lix-Vandersnoeck"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "47"
       ], 
@@ -277,6 +367,13 @@
       "street": "Rue F\u00e9lix-Vandersnoeck"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "49"
       ], 
@@ -295,6 +392,41 @@
       "housenumber": "50", 
       "lat": 50.646798455922, 
       "lon": 5.529478223266, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730937", 
+      "street": "Rue F\u00e9lix-Vandersnoeck"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0022"
+      ], 
+      "hnrlbls": [
+        "51"
+      ], 
+      "housenumber": "51", 
+      "lat": 50.64659310486, 
+      "lon": 5.529237272994, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730937", 
+      "street": "Rue F\u00e9lix-Vandersnoeck"
+    }, 
+    {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "0022"
+      ], 
+      "hnrlbls": [
+        "53"
+      ], 
+      "housenumber": "53", 
+      "lat": 50.646696573673, 
+      "lon": 5.528868336474, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730937", 
@@ -362,6 +494,18 @@
     }, 
     {
       "hnrlbls": [
+        "68"
+      ], 
+      "housenumber": "68", 
+      "lat": 50.647207507603, 
+      "lon": 5.528825891643, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730937", 
+      "street": "Rue F\u00e9lix-Vandersnoeck"
+    }, 
+    {
+      "hnrlbls": [
         "69"
       ], 
       "housenumber": "69", 
@@ -373,6 +517,11 @@
       "street": "Rue F\u00e9lix-Vandersnoeck"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "70"
       ], 
@@ -398,6 +547,30 @@
     }, 
     {
       "hnrlbls": [
+        "74"
+      ], 
+      "housenumber": "74", 
+      "lat": 50.647432684, 
+      "lon": 5.528532343761, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730937", 
+      "street": "Rue F\u00e9lix-Vandersnoeck"
+    }, 
+    {
+      "hnrlbls": [
+        "78"
+      ], 
+      "housenumber": "78", 
+      "lat": 50.64741331724, 
+      "lon": 5.528528728339, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730937", 
+      "street": "Rue F\u00e9lix-Vandersnoeck"
+    }, 
+    {
+      "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
@@ -409,6 +582,10 @@
       "street": "Rue F\u00e9lix-Vandersnoeck"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "80"
       ], 

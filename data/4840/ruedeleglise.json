@@ -25,6 +25,10 @@
       "street": "Rue de l'Eglise"
     }, 
     {
+      "busnrs": [
+        "1.Et", 
+        "R.C."
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -37,6 +41,10 @@
       "street": "Rue de l'Eglise"
     }, 
     {
+      "busnrs": [
+        "1.Et", 
+        "R.C."
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -49,6 +57,10 @@
       "street": "Rue de l'Eglise"
     }, 
     {
+      "busnrs": [
+        "1.Et", 
+        "R.C."
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -73,6 +85,12 @@
       "street": "Rue de l'Eglise"
     }, 
     {
+      "busnrs": [
+        "1E.D", 
+        "1E.G", 
+        "RC.D", 
+        "RC.G"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -97,6 +115,11 @@
       "street": "Rue de l'Eglise"
     }, 
     {
+      "busnrs": [
+        "1.Et", 
+        "2.Et", 
+        "R.C."
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -121,6 +144,9 @@
       "street": "Rue de l'Eglise"
     }, 
     {
+      "busnrs": [
+        "R.C."
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -145,6 +171,14 @@
       "street": "Rue de l'Eglise"
     }, 
     {
+      "busnrs": [
+        "1E.1", 
+        "1E.2", 
+        "1E.3", 
+        "2.Et", 
+        "RC.1", 
+        "RC.2"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -169,6 +203,43 @@
       "street": "Rue de l'Eglise"
     }, 
     {
+      "busnrs": [
+        "A.06", 
+        "A.07", 
+        "A.08", 
+        "A.09", 
+        "A.10", 
+        "A.11", 
+        "A.12", 
+        "A.13", 
+        "A.14", 
+        "A.15", 
+        "A.16", 
+        "A.17", 
+        "A.18", 
+        "A.19", 
+        "A.20", 
+        "A.21", 
+        "A.22", 
+        "A.23", 
+        "A.24", 
+        "A.25", 
+        "A.26", 
+        "A.27", 
+        "A.28", 
+        "A.29", 
+        "A.30", 
+        "A.31", 
+        "A.32", 
+        "A.33", 
+        "A.34", 
+        "A.35", 
+        "RC.1", 
+        "RC.2", 
+        "RC.3", 
+        "RC.4", 
+        "RC.5"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -181,12 +252,28 @@
       "street": "Rue de l'Eglise"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "25"
       ], 
       "housenumber": "25", 
       "lat": 50.660274131495, 
       "lon": 5.970916321819, 
+      "municipality": "Welkenraedt", 
+      "pcode": "4840", 
+      "source": "7739403", 
+      "street": "Rue de l'Eglise"
+    }, 
+    {
+      "hnrlbls": [
+        "26"
+      ], 
+      "housenumber": "26", 
+      "lat": 50.660388852358, 
+      "lon": 5.969064824955, 
       "municipality": "Welkenraedt", 
       "pcode": "4840", 
       "source": "7739403", 
@@ -229,6 +316,10 @@
       "street": "Rue de l'Eglise"
     }, 
     {
+      "busnrs": [
+        "1.Et", 
+        "R.C."
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -253,6 +344,12 @@
       "street": "Rue de l'Eglise"
     }, 
     {
+      "busnrs": [
+        "1E.D", 
+        "1E.G", 
+        "2.Et", 
+        "R.C."
+      ], 
       "hnrlbls": [
         "32"
       ], 
@@ -289,6 +386,9 @@
       "street": "Rue de l'Eglise"
     }, 
     {
+      "busnrs": [
+        "R.C."
+      ], 
       "hnrlbls": [
         "38"
       ], 
@@ -301,6 +401,9 @@
       "street": "Rue de l'Eglise"
     }, 
     {
+      "busnrs": [
+        "1.Et"
+      ], 
       "hnrlbls": [
         "39"
       ], 
@@ -313,6 +416,14 @@
       "street": "Rue de l'Eglise"
     }, 
     {
+      "busnrs": [
+        "1E.1", 
+        "1E.2", 
+        "2E.1", 
+        "2E.2", 
+        "RC.1", 
+        "RC.2"
+      ], 
       "hnrlbls": [
         "40"
       ], 
@@ -325,6 +436,10 @@
       "street": "Rue de l'Eglise"
     }, 
     {
+      "busnrs": [
+        "1.Et", 
+        "R.C."
+      ], 
       "hnrlbls": [
         "41"
       ], 
@@ -337,6 +452,10 @@
       "street": "Rue de l'Eglise"
     }, 
     {
+      "busnrs": [
+        "1.Et", 
+        "2.Et"
+      ], 
       "hnrlbls": [
         "45"
       ], 
@@ -373,6 +492,11 @@
       "street": "Rue de l'Eglise"
     }, 
     {
+      "busnrs": [
+        "1.Et", 
+        "2.Et", 
+        "R.C."
+      ], 
       "hnrlbls": [
         "49"
       ], 
@@ -385,6 +509,11 @@
       "street": "Rue de l'Eglise"
     }, 
     {
+      "busnrs": [
+        "1.Et", 
+        "2.Et", 
+        "R.C."
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -445,6 +574,10 @@
       "street": "Rue de l'Eglise"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "56"
       ], 
@@ -529,6 +662,10 @@
       "street": "Rue de l'Eglise"
     }, 
     {
+      "busnrs": [
+        "1.Et", 
+        "R.C."
+      ], 
       "hnrlbls": [
         "63"
       ], 
@@ -541,6 +678,14 @@
       "street": "Rue de l'Eglise"
     }, 
     {
+      "busnrs": [
+        "1E.D", 
+        "1E.G", 
+        "2E.D", 
+        "2E.G", 
+        "RC.D", 
+        "RC.G"
+      ], 
       "hnrlbls": [
         "64"
       ], 
@@ -613,6 +758,10 @@
       "street": "Rue de l'Eglise"
     }, 
     {
+      "busnrs": [
+        "1.Et", 
+        "R.C."
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -685,6 +834,9 @@
       "street": "Rue de l'Eglise"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "75"
       ], 
@@ -745,6 +897,9 @@
       "street": "Rue de l'Eglise"
     }, 
     {
+      "busnrs": [
+        "1.Et"
+      ], 
       "hnrlbls": [
         "82"
       ], 
@@ -757,6 +912,10 @@
       "street": "Rue de l'Eglise"
     }, 
     {
+      "busnrs": [
+        "1.Et", 
+        "R.C."
+      ], 
       "hnrlbls": [
         "84"
       ], 
@@ -769,6 +928,14 @@
       "street": "Rue de l'Eglise"
     }, 
     {
+      "busnrs": [
+        "B.01", 
+        "B.02", 
+        "B.03", 
+        "B.04", 
+        "B.05", 
+        "B.06"
+      ], 
       "hnrlbls": [
         "86"
       ], 
@@ -781,6 +948,10 @@
       "street": "Rue de l'Eglise"
     }, 
     {
+      "busnrs": [
+        "1.Et", 
+        "R.C."
+      ], 
       "hnrlbls": [
         "9"
       ], 
@@ -793,6 +964,16 @@
       "street": "Rue de l'Eglise"
     }, 
     {
+      "busnrs": [
+        "B.01", 
+        "B.02", 
+        "B.03", 
+        "B.04", 
+        "B.05", 
+        "B.06", 
+        "RC.D", 
+        "RC.G"
+      ], 
       "hnrlbls": [
         "90"
       ], 

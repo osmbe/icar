@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "Bte2", 
+        "Bte3", 
+        "Bte4"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -421,6 +426,14 @@
       "street": "Route des Six Fr\u00e8res"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2", 
+        "Bte3", 
+        "Bte4", 
+        "Bte5", 
+        "Bte6"
+      ], 
       "hnrlbls": [
         "161"
       ], 
@@ -521,8 +534,8 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.556923446485, 
-      "lon": 4.905763557022, 
+      "lat": 50.556617547642, 
+      "lon": 4.907062663501, 
       "municipality": "Eghez\u00e9e", 
       "pcode": "5310", 
       "source": "7752055", 
@@ -722,6 +735,18 @@
     }, 
     {
       "hnrlbls": [
+        "39"
+      ], 
+      "housenumber": "39", 
+      "lat": 50.556282481461, 
+      "lon": 4.902394518977, 
+      "municipality": "Eghez\u00e9e", 
+      "pcode": "5310", 
+      "source": "7752055", 
+      "street": "Route des Six Fr\u00e8res"
+    }, 
+    {
+      "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
@@ -877,6 +902,9 @@
       "street": "Route des Six Fr\u00e8res"
     }, 
     {
+      "busnrs": [
+        "Bte1"
+      ], 
       "hnrlbls": [
         "59"
       ], 
@@ -973,6 +1001,12 @@
       "street": "Route des Six Fr\u00e8res"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2", 
+        "Bte3", 
+        "Bte4"
+      ], 
       "hnrlbls": [
         "7"
       ], 

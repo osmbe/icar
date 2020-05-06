@@ -145,6 +145,9 @@
       "street": "Rue Redout\u00e9"
     }, 
     {
+      "busnrs": [
+        "BteB"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -259,6 +262,18 @@
       "housenumber": "29", 
       "lat": 50.024389917897, 
       "lon": 5.372100901756, 
+      "municipality": "Saint-Hubert", 
+      "pcode": "6870", 
+      "source": "7746394", 
+      "street": "Rue Redout\u00e9"
+    }, 
+    {
+      "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 50.024896397774, 
+      "lon": 5.373414328561, 
       "municipality": "Saint-Hubert", 
       "pcode": "6870", 
       "source": "7746394", 
@@ -481,6 +496,10 @@
       "street": "Rue Redout\u00e9"
     }, 
     {
+      "busnrs": [
+        "Bte2", 
+        "Bte3"
+      ], 
       "hnrlbls": [
         "51"
       ], 
@@ -617,8 +636,8 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.024846448491, 
-      "lon": 5.373271858823, 
+      "lat": 50.024856307972, 
+      "lon": 5.373300684128, 
       "municipality": "Saint-Hubert", 
       "pcode": "6870", 
       "source": "7746394", 
@@ -655,6 +674,25 @@
       "housenumber": "8", 
       "lat": 50.024969563045, 
       "lon": 5.373118884852, 
+      "municipality": "Saint-Hubert", 
+      "pcode": "6870", 
+      "source": "7746394", 
+      "street": "Rue Redout\u00e9"
+    }, 
+    {
+      "busnrs": [
+        "Bte1", 
+        "Bte2", 
+        "Bte3", 
+        "Bte5", 
+        "bte4"
+      ], 
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.024841259254, 
+      "lon": 5.373258075051, 
       "municipality": "Saint-Hubert", 
       "pcode": "6870", 
       "source": "7746394", 

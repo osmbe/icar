@@ -109,6 +109,14 @@
       "street": "Von-Korff-Stra\u00dfe"
     }, 
     {
+      "busnrs": [
+        "1/1", 
+        "1/2", 
+        "2/1", 
+        "2/2", 
+        "P/1", 
+        "P/2"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -151,6 +159,18 @@
       "housenumber": "36", 
       "lat": 50.335287222358, 
       "lon": 6.123464174488, 
+      "municipality": "Amel", 
+      "pcode": "4770", 
+      "source": "7735031", 
+      "street": "Von-Korff-Stra\u00dfe"
+    }, 
+    {
+      "hnrlbls": [
+        "38"
+      ], 
+      "housenumber": "38", 
+      "lat": 50.335406825418, 
+      "lon": 6.123715176314, 
       "municipality": "Amel", 
       "pcode": "4770", 
       "source": "7735031", 
@@ -217,6 +237,25 @@
       "street": "Von-Korff-Stra\u00dfe"
     }, 
     {
+      "busnrs": [
+        "1/1", 
+        "1/2"
+      ], 
+      "hnrlbls": [
+        "53A"
+      ], 
+      "housenumber": "53A", 
+      "lat": 50.3373931152, 
+      "lon": 6.12564422655, 
+      "municipality": "Amel", 
+      "pcode": "4770", 
+      "source": "7735031", 
+      "street": "Von-Korff-Stra\u00dfe"
+    }, 
+    {
+      "busnrs": [
+        "1/1"
+      ], 
       "hnrlbls": [
         "55"
       ], 
@@ -229,6 +268,10 @@
       "street": "Von-Korff-Stra\u00dfe"
     }, 
     {
+      "busnrs": [
+        "1/1", 
+        "P/1"
+      ], 
       "hnrlbls": [
         "57"
       ], 

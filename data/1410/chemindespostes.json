@@ -49,6 +49,9 @@
       "street": "Chemin des Postes"
     }, 
     {
+      "busnrs": [
+        "RdCh"
+      ], 
       "hnrlbls": [
         "105"
       ], 
@@ -481,6 +484,10 @@
       "street": "Chemin des Postes"
     }, 
     {
+      "busnrs": [
+        "A-2D", 
+        "A-2G"
+      ], 
       "hnrlbls": [
         "151"
       ], 
@@ -757,6 +764,12 @@
       "street": "Chemin des Postes"
     }, 
     {
+      "busnrs": [
+        "Et.2", 
+        "Et1D", 
+        "Et1G", 
+        "RdCh"
+      ], 
       "hnrlbls": [
         "195"
       ], 
@@ -1117,6 +1130,9 @@
       "street": "Chemin des Postes"
     }, 
     {
+      "busnrs": [
+        "Bte3"
+      ], 
       "hnrlbls": [
         "237"
       ], 
@@ -1205,8 +1221,8 @@
         "247"
       ], 
       "housenumber": "247", 
-      "lat": 50.711632478623, 
-      "lon": 4.372324901285, 
+      "lat": 50.711580157184, 
+      "lon": 4.37234306209, 
       "municipality": "Waterloo", 
       "pcode": "1410", 
       "source": "7704317", 

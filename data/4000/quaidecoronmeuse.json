@@ -13,6 +13,12 @@
       "street": "Quai de Coronmeuse"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -49,6 +55,11 @@
       "street": "Quai de Coronmeuse"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -61,6 +72,12 @@
       "street": "Quai de Coronmeuse"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -73,6 +90,13 @@
       "street": "Quai de Coronmeuse"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -97,6 +121,10 @@
       "street": "Quai de Coronmeuse"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -109,6 +137,11 @@
       "street": "Quai de Coronmeuse"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -121,6 +154,11 @@
       "street": "Quai de Coronmeuse"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -157,6 +195,22 @@
       "street": "Quai de Coronmeuse"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024", 
+        "0031", 
+        "0032", 
+        "0033"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -193,6 +247,11 @@
       "street": "Quai de Coronmeuse"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -229,6 +288,13 @@
       "street": "Quai de Coronmeuse"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -266,6 +332,60 @@
     }, 
     {
       "hnrlbls": [
+        "32"
+      ], 
+      "housenumber": "32", 
+      "lat": 50.652040855138, 
+      "lon": 5.603382592968, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730108", 
+      "street": "Quai de Coronmeuse"
+    }, 
+    {
+      "hnrlbls": [
+        "34"
+      ], 
+      "housenumber": "34", 
+      "lat": 50.652205829847, 
+      "lon": 5.603902273731, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730108", 
+      "street": "Quai de Coronmeuse"
+    }, 
+    {
+      "hnrlbls": [
+        "37"
+      ], 
+      "housenumber": "37", 
+      "lat": 50.652516438017, 
+      "lon": 5.603638990328, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730108", 
+      "street": "Quai de Coronmeuse"
+    }, 
+    {
+      "hnrlbls": [
+        "39"
+      ], 
+      "housenumber": "39", 
+      "lat": 50.652405469459, 
+      "lon": 5.604349181954, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730108", 
+      "street": "Quai de Coronmeuse"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
+      "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
@@ -278,11 +398,47 @@
     }, 
     {
       "hnrlbls": [
+        "40"
+      ], 
+      "housenumber": "40", 
+      "lat": 50.652488857058, 
+      "lon": 5.604642709251, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730108", 
+      "street": "Quai de Coronmeuse"
+    }, 
+    {
+      "hnrlbls": [
+        "41"
+      ], 
+      "housenumber": "41", 
+      "lat": 50.652562892542, 
+      "lon": 5.604656104616, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730108", 
+      "street": "Quai de Coronmeuse"
+    }, 
+    {
+      "hnrlbls": [
         "42"
       ], 
       "housenumber": "42", 
       "lat": 50.652641810499, 
       "lon": 5.604919943479, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730108", 
+      "street": "Quai de Coronmeuse"
+    }, 
+    {
+      "hnrlbls": [
+        "44"
+      ], 
+      "housenumber": "44", 
+      "lat": 50.652871748162, 
+      "lon": 5.605202054197, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730108", 
@@ -313,6 +469,11 @@
       "street": "Quai de Coronmeuse"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "55"
       ], 
@@ -350,6 +511,18 @@
     }, 
     {
       "hnrlbls": [
+        "58"
+      ], 
+      "housenumber": "58", 
+      "lat": 50.653187718451, 
+      "lon": 5.60618097602, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730108", 
+      "street": "Quai de Coronmeuse"
+    }, 
+    {
+      "hnrlbls": [
         "60"
       ], 
       "housenumber": "60", 
@@ -373,6 +546,14 @@
       "street": "Quai de Coronmeuse"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "65"
       ], 
@@ -409,6 +590,10 @@
       "street": "Quai de Coronmeuse"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "68"
       ], 
@@ -421,12 +606,29 @@
       "street": "Quai de Coronmeuse"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "69"
       ], 
       "housenumber": "69", 
       "lat": 50.653533124334, 
       "lon": 5.606924520865, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730108", 
+      "street": "Quai de Coronmeuse"
+    }, 
+    {
+      "hnrlbls": [
+        "70"
+      ], 
+      "housenumber": "70", 
+      "lat": 50.653559548946, 
+      "lon": 5.606999155102, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730108", 
@@ -445,6 +647,12 @@
       "street": "Quai de Coronmeuse"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "72"
       ], 
@@ -493,6 +701,12 @@
       "street": "Quai de Coronmeuse"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "76"
       ], 
@@ -542,6 +756,18 @@
     }, 
     {
       "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 50.650926624476, 
+      "lon": 5.601145719368, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730108", 
+      "street": "Quai de Coronmeuse"
+    }, 
+    {
+      "hnrlbls": [
         "80"
       ], 
       "housenumber": "80", 
@@ -554,11 +780,89 @@
     }, 
     {
       "hnrlbls": [
+        "81"
+      ], 
+      "housenumber": "81", 
+      "lat": 50.654051893692, 
+      "lon": 5.607951819609, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730108", 
+      "street": "Quai de Coronmeuse"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0022"
+      ], 
+      "hnrlbls": [
         "83"
       ], 
       "housenumber": "83", 
       "lat": 50.654114021468, 
       "lon": 5.608205995716, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730108", 
+      "street": "Quai de Coronmeuse"
+    }, 
+    {
+      "hnrlbls": [
+        "84"
+      ], 
+      "housenumber": "84", 
+      "lat": 50.654197290704, 
+      "lon": 5.608418340348, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730108", 
+      "street": "Quai de Coronmeuse"
+    }, 
+    {
+      "hnrlbls": [
+        "84A"
+      ], 
+      "housenumber": "84A", 
+      "lat": 50.654168461536, 
+      "lon": 5.608267111223, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730108", 
+      "street": "Quai de Coronmeuse"
+    }, 
+    {
+      "hnrlbls": [
+        "84B"
+      ], 
+      "housenumber": "84B", 
+      "lat": 50.654212686629, 
+      "lon": 5.60842059773, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730108", 
+      "street": "Quai de Coronmeuse"
+    }, 
+    {
+      "hnrlbls": [
+        "85"
+      ], 
+      "housenumber": "85", 
+      "lat": 50.654267706569, 
+      "lon": 5.608531230821, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730108", 
+      "street": "Quai de Coronmeuse"
+    }, 
+    {
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.651015739027, 
+      "lon": 5.601105422099, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730108", 

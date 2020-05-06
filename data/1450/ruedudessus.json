@@ -13,6 +13,9 @@
       "street": "Rue du Dessus"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -145,6 +148,9 @@
       "street": "Rue du Dessus"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -193,6 +199,10 @@
       "street": "Rue du Dessus"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "000B"
+      ], 
       "hnrlbls": [
         "37"
       ], 
@@ -218,11 +228,38 @@
     }, 
     {
       "hnrlbls": [
+        "39"
+      ], 
+      "housenumber": "39", 
+      "lat": 50.582560588643, 
+      "lon": 4.642058742285, 
+      "municipality": "Chastre", 
+      "pcode": "1450", 
+      "source": "7705317", 
+      "street": "Rue du Dessus"
+    }, 
+    {
+      "hnrlbls": [
         "40"
       ], 
       "housenumber": "40", 
       "lat": 50.582723222107, 
       "lon": 4.64250718463, 
+      "municipality": "Chastre", 
+      "pcode": "1450", 
+      "source": "7705317", 
+      "street": "Rue du Dessus"
+    }, 
+    {
+      "busnrs": [
+        "000A"
+      ], 
+      "hnrlbls": [
+        "41"
+      ], 
+      "housenumber": "41", 
+      "lat": 50.582212807701, 
+      "lon": 4.642139553112, 
       "municipality": "Chastre", 
       "pcode": "1450", 
       "source": "7705317", 
@@ -355,6 +392,18 @@
       "housenumber": "60", 
       "lat": 50.58094401555, 
       "lon": 4.643795287321, 
+      "municipality": "Chastre", 
+      "pcode": "1450", 
+      "source": "7705317", 
+      "street": "Rue du Dessus"
+    }, 
+    {
+      "hnrlbls": [
+        "62"
+      ], 
+      "housenumber": "62", 
+      "lat": 50.580673283817, 
+      "lon": 4.6440966203, 
       "municipality": "Chastre", 
       "pcode": "1450", 
       "source": "7705317", 

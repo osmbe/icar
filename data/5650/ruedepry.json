@@ -193,10 +193,13 @@
       "street": "Rue de Pry"
     }, 
     {
-      "hnrlbls": [
-        "25BTE1"
+      "busnrs": [
+        "BTE1"
       ], 
-      "housenumber": "25BTE1", 
+      "hnrlbls": [
+        "25"
+      ], 
+      "housenumber": "25", 
       "lat": 50.268361459172, 
       "lon": 4.440992722873, 
       "municipality": "Walcourt", 
@@ -277,6 +280,9 @@
       "street": "Rue de Pry"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "6"
       ], 

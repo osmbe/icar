@@ -97,6 +97,10 @@
       "street": "Rue Fays"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "011"
+      ], 
       "hnrlbls": [
         "117"
       ], 
@@ -607,6 +611,18 @@
       "housenumber": "63", 
       "lat": 50.635803822049, 
       "lon": 5.519442658609, 
+      "municipality": "Saint-Nicolas", 
+      "pcode": "4420", 
+      "source": "7731980", 
+      "street": "Rue Fays"
+    }, 
+    {
+      "hnrlbls": [
+        "64"
+      ], 
+      "housenumber": "64", 
+      "lat": 50.635083804738, 
+      "lon": 5.518237744023, 
       "municipality": "Saint-Nicolas", 
       "pcode": "4420", 
       "source": "7731980", 

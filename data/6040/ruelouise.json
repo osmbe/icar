@@ -1,6 +1,13 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "C001", 
+        "C011", 
+        "E011", 
+        "E021", 
+        "E031"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -133,6 +140,10 @@
       "street": "Rue Louise"
     }, 
     {
+      "busnrs": [
+        "1/01", 
+        "1/O2"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -181,6 +192,9 @@
       "street": "Rue Louise"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -313,6 +327,11 @@
       "street": "Rue Louise"
     }, 
     {
+      "busnrs": [
+        "011", 
+        "0A/1", 
+        "0A/3"
+      ], 
       "hnrlbls": [
         "7"
       ], 

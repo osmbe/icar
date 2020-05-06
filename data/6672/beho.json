@@ -25,6 +25,9 @@
       "street": "Beho"
     }, 
     {
+      "busnrs": [
+        "Bte 0.1"
+      ], 
       "hnrlbls": [
         "101"
       ], 
@@ -445,6 +448,14 @@
       "street": "Beho"
     }, 
     {
+      "busnrs": [
+        "Ap.C", 
+        "Ap.E", 
+        "ApA", 
+        "ApB", 
+        "ApD", 
+        "ApF"
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -685,6 +696,9 @@
       "street": "Beho"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "44"
       ], 
@@ -703,6 +717,18 @@
       "housenumber": "44A", 
       "lat": 50.221972985139, 
       "lon": 5.993377756337, 
+      "municipality": "Gouvy", 
+      "pcode": "6672", 
+      "source": "7742973", 
+      "street": "Beho"
+    }, 
+    {
+      "hnrlbls": [
+        "44B"
+      ], 
+      "housenumber": "44B", 
+      "lat": 50.221822596013, 
+      "lon": 5.993410461964, 
       "municipality": "Gouvy", 
       "pcode": "6672", 
       "source": "7742973", 
@@ -841,6 +867,10 @@
       "street": "Beho"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "54"
       ], 
@@ -961,6 +991,9 @@
       "street": "Beho"
     }, 
     {
+      "busnrs": [
+        "Ap1"
+      ], 
       "hnrlbls": [
         "62"
       ], 
@@ -1117,6 +1150,11 @@
       "street": "Beho"
     }, 
     {
+      "busnrs": [
+        "71/0001", 
+        "71/0002", 
+        "71/0003"
+      ], 
       "hnrlbls": [
         "71"
       ], 
@@ -1621,6 +1659,10 @@
       "street": "Beho"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "95"
       ], 

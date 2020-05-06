@@ -121,6 +121,26 @@
       "street": "Boulevard des Alli\u00e9s"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008", 
+        "0009", 
+        "0010", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0015", 
+        "0016", 
+        "0017", 
+        "0018"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -199,6 +219,18 @@
       "housenumber": "178", 
       "lat": 50.738669663659, 
       "lon": 3.269864224287, 
+      "municipality": "Mouscron", 
+      "pcode": "7711", 
+      "source": "7715543", 
+      "street": "Boulevard des Alli\u00e9s"
+    }, 
+    {
+      "hnrlbls": [
+        "181"
+      ], 
+      "housenumber": "181", 
+      "lat": 50.737270297984, 
+      "lon": 3.271513908398, 
       "municipality": "Mouscron", 
       "pcode": "7711", 
       "source": "7715543", 
@@ -446,6 +478,30 @@
     }, 
     {
       "hnrlbls": [
+        "59"
+      ], 
+      "housenumber": "59", 
+      "lat": 50.727400426969, 
+      "lon": 3.296556699623, 
+      "municipality": "Mouscron", 
+      "pcode": "7711", 
+      "source": "7715543", 
+      "street": "Boulevard des Alli\u00e9s"
+    }, 
+    {
+      "hnrlbls": [
+        "59B"
+      ], 
+      "housenumber": "59B", 
+      "lat": 50.727394493387, 
+      "lon": 3.296441215235, 
+      "municipality": "Mouscron", 
+      "pcode": "7711", 
+      "source": "7715543", 
+      "street": "Boulevard des Alli\u00e9s"
+    }, 
+    {
+      "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
@@ -494,9 +550,9 @@
     }, 
     {
       "hnrlbls": [
-        "65B000"
+        "65B"
       ], 
-      "housenumber": "65B000", 
+      "housenumber": "65B", 
       "lat": 50.72769464787, 
       "lon": 3.295710802681, 
       "municipality": "Mouscron", 

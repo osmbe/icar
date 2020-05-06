@@ -37,6 +37,26 @@
       "street": "Sentier du Homvent"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "001", 
+        "0011", 
+        "012", 
+        "021", 
+        "022"
+      ], 
+      "hnrlbls": [
+        "12"
+      ], 
+      "housenumber": "12", 
+      "lat": 50.632319829351, 
+      "lon": 5.520450334171, 
+      "municipality": "Saint-Nicolas", 
+      "pcode": "4420", 
+      "source": "7732051", 
+      "street": "Sentier du Homvent"
+    }, 
+    {
       "hnrlbls": [
         "13"
       ], 
@@ -134,11 +154,23 @@
     }, 
     {
       "hnrlbls": [
+        "38"
+      ], 
+      "housenumber": "38", 
+      "lat": 50.631654139529, 
+      "lon": 5.520896554885, 
+      "municipality": "Saint-Nicolas", 
+      "pcode": "4420", 
+      "source": "7732051", 
+      "street": "Sentier du Homvent"
+    }, 
+    {
+      "hnrlbls": [
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 50.631157952608, 
-      "lon": 5.520802731362, 
+      "lat": 50.631083386576, 
+      "lon": 5.521089812814, 
       "municipality": "Saint-Nicolas", 
       "pcode": "4420", 
       "source": "7732051", 

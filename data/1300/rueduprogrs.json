@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -13,6 +18,13 @@
       "street": "Rue du Progr\u00e8s"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -25,12 +37,64 @@
       "street": "Rue du Progr\u00e8s"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008", 
+        "0009", 
+        "0010", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014"
+      ], 
       "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.714883359542, 
-      "lon": 4.609905968487, 
+      "lat": 50.714870178828, 
+      "lon": 4.609838465292, 
+      "municipality": "Wavre", 
+      "pcode": "1300", 
+      "source": "7705002", 
+      "street": "Rue du Progr\u00e8s"
+    }, 
+    {
+      "hnrlbls": [
+        "7A"
+      ], 
+      "housenumber": "7A", 
+      "lat": 50.714885513499, 
+      "lon": 4.609903367071, 
+      "municipality": "Wavre", 
+      "pcode": "1300", 
+      "source": "7705002", 
+      "street": "Rue du Progr\u00e8s"
+    }, 
+    {
+      "hnrlbls": [
+        "7B"
+      ], 
+      "housenumber": "7B", 
+      "lat": 50.714896334077, 
+      "lon": 4.609961868196, 
+      "municipality": "Wavre", 
+      "pcode": "1300", 
+      "source": "7705002", 
+      "street": "Rue du Progr\u00e8s"
+    }, 
+    {
+      "hnrlbls": [
+        "7C"
+      ], 
+      "housenumber": "7C", 
+      "lat": 50.714910498391, 
+      "lon": 4.610013640823, 
       "municipality": "Wavre", 
       "pcode": "1300", 
       "source": "7705002", 

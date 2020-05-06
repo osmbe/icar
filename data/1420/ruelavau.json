@@ -13,6 +13,9 @@
       "street": "Rue La Vau"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "121"
       ], 
@@ -157,6 +160,10 @@
       "street": "Rue La Vau"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -341,8 +348,8 @@
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 50.69856567058, 
-      "lon": 4.368977556734, 
+      "lat": 50.698534575471, 
+      "lon": 4.368870376581, 
       "municipality": "Braine-l'Alleud", 
       "pcode": "1420", 
       "source": "7700695", 

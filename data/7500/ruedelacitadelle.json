@@ -121,6 +121,10 @@
       "street": "Rue de la Citadelle"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "11"
+      ], 
       "hnrlbls": [
         "117"
       ], 
@@ -169,6 +173,12 @@
       "street": "Rue de la Citadelle"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "11", 
+        "12", 
+        "21"
+      ], 
       "hnrlbls": [
         "123"
       ], 
@@ -193,6 +203,9 @@
       "street": "Rue de la Citadelle"
     }, 
     {
+      "busnrs": [
+        "11"
+      ], 
       "hnrlbls": [
         "127"
       ], 
@@ -241,24 +254,15 @@
       "street": "Rue de la Citadelle"
     }, 
     {
+      "busnrs": [
+        "11"
+      ], 
       "hnrlbls": [
         "135"
       ], 
       "housenumber": "135", 
       "lat": 50.599216617085, 
       "lon": 3.388850728152, 
-      "municipality": "Tournai", 
-      "pcode": "7500", 
-      "source": "7723340", 
-      "street": "Rue de la Citadelle"
-    }, 
-    {
-      "hnrlbls": [
-        "136"
-      ], 
-      "housenumber": "136", 
-      "lat": 50.597492850693, 
-      "lon": 3.386159707281, 
       "municipality": "Tournai", 
       "pcode": "7500", 
       "source": "7723340", 
@@ -397,6 +401,11 @@
       "street": "Rue de la Citadelle"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "11", 
+        "21"
+      ], 
       "hnrlbls": [
         "24"
       ], 

@@ -13,6 +13,9 @@
       "street": "Rue des Economes"
     }, 
     {
+      "busnrs": [
+        "0012"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -158,6 +161,18 @@
     }, 
     {
       "hnrlbls": [
+        "20B"
+      ], 
+      "housenumber": "20B", 
+      "lat": 50.59907800817, 
+      "lon": 5.63283622558, 
+      "municipality": "Chaudfontaine", 
+      "pcode": "4051", 
+      "source": "7728136", 
+      "street": "Rue des Economes"
+    }, 
+    {
+      "hnrlbls": [
         "21"
       ], 
       "housenumber": "21", 
@@ -175,6 +190,18 @@
       "housenumber": "22", 
       "lat": 50.599166613317, 
       "lon": 5.633232072415, 
+      "municipality": "Chaudfontaine", 
+      "pcode": "4051", 
+      "source": "7728136", 
+      "street": "Rue des Economes"
+    }, 
+    {
+      "hnrlbls": [
+        "22A"
+      ], 
+      "housenumber": "22A", 
+      "lat": 50.599116687503, 
+      "lon": 5.633142244235, 
       "municipality": "Chaudfontaine", 
       "pcode": "4051", 
       "source": "7728136", 
@@ -493,12 +520,50 @@
       "street": "Rue des Economes"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012"
+      ], 
+      "hnrlbls": [
+        "60"
+      ], 
+      "housenumber": "60", 
+      "lat": 50.598213189616, 
+      "lon": 5.632211215609, 
+      "municipality": "Chaudfontaine", 
+      "pcode": "4051", 
+      "source": "7728136", 
+      "street": "Rue des Economes"
+    }, 
+    {
       "hnrlbls": [
         "62"
       ], 
       "housenumber": "62", 
       "lat": 50.598160147033, 
       "lon": 5.632138277377, 
+      "municipality": "Chaudfontaine", 
+      "pcode": "4051", 
+      "source": "7728136", 
+      "street": "Rue des Economes"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0013"
+      ], 
+      "hnrlbls": [
+        "66"
+      ], 
+      "housenumber": "66", 
+      "lat": 50.598326708959, 
+      "lon": 5.631917479029, 
       "municipality": "Chaudfontaine", 
       "pcode": "4051", 
       "source": "7728136", 

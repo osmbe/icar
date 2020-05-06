@@ -1,6 +1,13 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "01", 
+        "02", 
+        "12", 
+        "21", 
+        "22"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +20,9 @@
       "street": "Rue de la Linalux"
     }, 
     {
+      "busnrs": [
+        "01"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -37,6 +47,11 @@
       "street": "Rue de la Linalux"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "11", 
+        "21"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -49,6 +64,9 @@
       "street": "Rue de la Linalux"
     }, 
     {
+      "busnrs": [
+        "11"
+      ], 
       "hnrlbls": [
         "13"
       ], 

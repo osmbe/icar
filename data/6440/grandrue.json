@@ -109,6 +109,9 @@
       "street": "Grand-Rue"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -181,6 +184,9 @@
       "street": "Grand-Rue"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -205,6 +211,11 @@
       "street": "Grand-Rue"
     }, 
     {
+      "busnrs": [
+        "0003", 
+        "B1", 
+        "B2"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -229,6 +240,9 @@
       "street": "Grand-Rue"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -314,6 +328,18 @@
     }, 
     {
       "hnrlbls": [
+        "35"
+      ], 
+      "housenumber": "35", 
+      "lat": 50.225311015886, 
+      "lon": 4.376253957307, 
+      "municipality": "Froidchapelle", 
+      "pcode": "6440", 
+      "source": "7720385", 
+      "street": "Grand-Rue"
+    }, 
+    {
+      "hnrlbls": [
         "36"
       ], 
       "housenumber": "36", 
@@ -331,6 +357,18 @@
       "housenumber": "37", 
       "lat": 50.225311313357, 
       "lon": 4.376394269319, 
+      "municipality": "Froidchapelle", 
+      "pcode": "6440", 
+      "source": "7720385", 
+      "street": "Grand-Rue"
+    }, 
+    {
+      "hnrlbls": [
+        "38"
+      ], 
+      "housenumber": "38", 
+      "lat": 50.224642166468, 
+      "lon": 4.375760206913, 
       "municipality": "Froidchapelle", 
       "pcode": "6440", 
       "source": "7720385", 
@@ -397,6 +435,9 @@
       "street": "Grand-Rue"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -410,11 +451,35 @@
     }, 
     {
       "hnrlbls": [
+        "53"
+      ], 
+      "housenumber": "53", 
+      "lat": 50.224599960961, 
+      "lon": 4.376237594463, 
+      "municipality": "Froidchapelle", 
+      "pcode": "6440", 
+      "source": "7720385", 
+      "street": "Grand-Rue"
+    }, 
+    {
+      "hnrlbls": [
         "58"
       ], 
       "housenumber": "58", 
       "lat": 50.219690345532, 
       "lon": 4.37564855383, 
+      "municipality": "Froidchapelle", 
+      "pcode": "6440", 
+      "source": "7720385", 
+      "street": "Grand-Rue"
+    }, 
+    {
+      "hnrlbls": [
+        "59"
+      ], 
+      "housenumber": "59", 
+      "lat": 50.221591697231, 
+      "lon": 4.375674432801, 
       "municipality": "Froidchapelle", 
       "pcode": "6440", 
       "source": "7720385", 
@@ -445,6 +510,14 @@
       "street": "Grand-Rue"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0005", 
+        "0006", 
+        "0007"
+      ], 
       "hnrlbls": [
         "61"
       ], 

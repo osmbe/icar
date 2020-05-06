@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -25,6 +29,9 @@
       "street": "Rue Oscar Lelarge"
     }, 
     {
+      "busnrs": [
+        "0002"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -49,6 +56,16 @@
       "street": "Rue Oscar Lelarge"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022", 
+        "RCH1", 
+        "RCH2", 
+        "RCH3"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -61,6 +78,11 @@
       "street": "Rue Oscar Lelarge"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "RCH"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -97,6 +119,9 @@
       "street": "Rue Oscar Lelarge"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -109,6 +134,9 @@
       "street": "Rue Oscar Lelarge"
     }, 
     {
+      "busnrs": [
+        "0002"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -121,6 +149,9 @@
       "street": "Rue Oscar Lelarge"
     }, 
     {
+      "busnrs": [
+        "0RCH"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -145,6 +176,9 @@
       "street": "Rue Oscar Lelarge"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "8"
       ], 
@@ -157,6 +191,13 @@
       "street": "Rue Oscar Lelarge"
     }, 
     {
+      "busnrs": [
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022", 
+        "RCH1"
+      ], 
       "hnrlbls": [
         "9"
       ], 

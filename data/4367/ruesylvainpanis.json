@@ -169,6 +169,12 @@
       "street": "Rue Sylvain Panis"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0004", 
+        "0005"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -649,6 +655,9 @@
       "street": "Rue Sylvain Panis"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "80"
       ], 
@@ -713,8 +722,8 @@
         "93"
       ], 
       "housenumber": "93", 
-      "lat": 50.708085721256, 
-      "lon": 5.401481287687, 
+      "lat": 50.708159340102, 
+      "lon": 5.401591622546, 
       "municipality": "Crisn\u00e9e", 
       "pcode": "4367", 
       "source": "7740138", 

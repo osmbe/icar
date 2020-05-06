@@ -2,18 +2,6 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1"
-      ], 
-      "housenumber": "1", 
-      "lat": 50.157480231042, 
-      "lon": 5.222697293951, 
-      "municipality": "Rochefort", 
-      "pcode": "5580", 
-      "source": "7750363", 
-      "street": "Rue de France"
-    }, 
-    {
-      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -137,8 +125,8 @@
         "127"
       ], 
       "housenumber": "127", 
-      "lat": 50.153143140418, 
-      "lon": 5.209927237662, 
+      "lat": 50.153163864485, 
+      "lon": 5.210315258339, 
       "municipality": "Rochefort", 
       "pcode": "5580", 
       "source": "7750363", 
@@ -149,8 +137,8 @@
         "129"
       ], 
       "housenumber": "129", 
-      "lat": 50.153145101043, 
-      "lon": 5.210515669517, 
+      "lat": 50.153142920407, 
+      "lon": 5.210618931832, 
       "municipality": "Rochefort", 
       "pcode": "5580", 
       "source": "7750363", 
@@ -265,6 +253,10 @@
       "street": "Rue de France"
     }, 
     {
+      "busnrs": [
+        "A001", 
+        "B011"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -289,6 +281,10 @@
       "street": "Rue de France"
     }, 
     {
+      "busnrs": [
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -385,6 +381,11 @@
       "street": "Rue de France"
     }, 
     {
+      "busnrs": [
+        "A001", 
+        "A011", 
+        "B001"
+      ], 
       "hnrlbls": [
         "37"
       ], 
@@ -421,6 +422,13 @@
       "street": "Rue de France"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -505,6 +513,12 @@
       "street": "Rue de France"
     }, 
     {
+      "busnrs": [
+        "B011", 
+        "B012", 
+        "B021", 
+        "B022"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -709,6 +723,13 @@
       "street": "Rue de France"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "8"
       ], 

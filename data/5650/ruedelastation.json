@@ -61,10 +61,17 @@
       "street": "Rue de la Station"
     }, 
     {
-      "hnrlbls": [
-        "1040001"
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005"
       ], 
-      "housenumber": "1040001", 
+      "hnrlbls": [
+        "104"
+      ], 
+      "housenumber": "104", 
       "lat": 50.257841127133, 
       "lon": 4.437446387395, 
       "municipality": "Walcourt", 
@@ -218,6 +225,18 @@
     }, 
     {
       "hnrlbls": [
+        "119BTE2"
+      ], 
+      "housenumber": "119BTE2", 
+      "lat": 50.258402931097, 
+      "lon": 4.437402202252, 
+      "municipality": "Walcourt", 
+      "pcode": "5650", 
+      "source": "7757883", 
+      "street": "Rue de la Station"
+    }, 
+    {
+      "hnrlbls": [
         "12"
       ], 
       "housenumber": "12", 
@@ -233,8 +252,8 @@
         "120"
       ], 
       "housenumber": "120", 
-      "lat": 50.258299505031, 
-      "lon": 4.43666253229, 
+      "lat": 50.258518285745, 
+      "lon": 4.436736506576, 
       "municipality": "Walcourt", 
       "pcode": "5650", 
       "source": "7757883", 
@@ -254,6 +273,18 @@
     }, 
     {
       "hnrlbls": [
+        "121BTE2"
+      ], 
+      "housenumber": "121BTE2", 
+      "lat": 50.258480739349, 
+      "lon": 4.437363355866, 
+      "municipality": "Walcourt", 
+      "pcode": "5650", 
+      "source": "7757883", 
+      "street": "Rue de la Station"
+    }, 
+    {
+      "hnrlbls": [
         "122"
       ], 
       "housenumber": "122", 
@@ -265,10 +296,15 @@
       "street": "Rue de la Station"
     }, 
     {
-      "hnrlbls": [
-        "1230001"
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
       ], 
-      "housenumber": "1230001", 
+      "hnrlbls": [
+        "123"
+      ], 
+      "housenumber": "123", 
       "lat": 50.25854135355, 
       "lon": 4.437340517849, 
       "municipality": "Walcourt", 
@@ -317,8 +353,20 @@
         "13A"
       ], 
       "housenumber": "13A", 
-      "lat": 50.254788767385, 
-      "lon": 4.435531293003, 
+      "lat": 50.254495479822, 
+      "lon": 4.435418359283, 
+      "municipality": "Walcourt", 
+      "pcode": "5650", 
+      "source": "7757883", 
+      "street": "Rue de la Station"
+    }, 
+    {
+      "hnrlbls": [
+        "13B"
+      ], 
+      "housenumber": "13B", 
+      "lat": 50.254565285751, 
+      "lon": 4.435427670962, 
       "municipality": "Walcourt", 
       "pcode": "5650", 
       "source": "7757883", 
@@ -338,11 +386,59 @@
     }, 
     {
       "hnrlbls": [
-        "15000A"
+        "15A"
       ], 
-      "housenumber": "15000A", 
-      "lat": 50.254565285751, 
-      "lon": 4.435427670962, 
+      "housenumber": "15A", 
+      "lat": 50.25461573508, 
+      "lon": 4.435450928928, 
+      "municipality": "Walcourt", 
+      "pcode": "5650", 
+      "source": "7757883", 
+      "street": "Rue de la Station"
+    }, 
+    {
+      "hnrlbls": [
+        "15B"
+      ], 
+      "housenumber": "15B", 
+      "lat": 50.254659388729, 
+      "lon": 4.435469116514, 
+      "municipality": "Walcourt", 
+      "pcode": "5650", 
+      "source": "7757883", 
+      "street": "Rue de la Station"
+    }, 
+    {
+      "hnrlbls": [
+        "15C"
+      ], 
+      "housenumber": "15C", 
+      "lat": 50.254701717914, 
+      "lon": 4.435489118205, 
+      "municipality": "Walcourt", 
+      "pcode": "5650", 
+      "source": "7757883", 
+      "street": "Rue de la Station"
+    }, 
+    {
+      "hnrlbls": [
+        "15D"
+      ], 
+      "housenumber": "15D", 
+      "lat": 50.25474080921, 
+      "lon": 4.435500544628, 
+      "municipality": "Walcourt", 
+      "pcode": "5650", 
+      "source": "7757883", 
+      "street": "Rue de la Station"
+    }, 
+    {
+      "hnrlbls": [
+        "15E"
+      ], 
+      "housenumber": "15E", 
+      "lat": 50.254788767385, 
+      "lon": 4.435531293003, 
       "municipality": "Walcourt", 
       "pcode": "5650", 
       "source": "7757883", 
@@ -421,6 +517,10 @@
       "street": "Rue de la Station"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -487,6 +587,18 @@
       "housenumber": "27", 
       "lat": 50.255176850688, 
       "lon": 4.436358703046, 
+      "municipality": "Walcourt", 
+      "pcode": "5650", 
+      "source": "7757883", 
+      "street": "Rue de la Station"
+    }, 
+    {
+      "hnrlbls": [
+        "29"
+      ], 
+      "housenumber": "29", 
+      "lat": 50.25519902639, 
+      "lon": 4.436395794585, 
       "municipality": "Walcourt", 
       "pcode": "5650", 
       "source": "7757883", 
@@ -869,8 +981,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.255289321321, 
-      "lon": 4.435324367622, 
+      "lat": 50.255396407871, 
+      "lon": 4.435360583161, 
       "municipality": "Walcourt", 
       "pcode": "5650", 
       "source": "7757883", 
@@ -985,12 +1097,17 @@
       "street": "Rue de la Station"
     }, 
     {
-      "hnrlbls": [
-        "690001"
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
       ], 
-      "housenumber": "690001", 
-      "lat": 50.256713782527, 
-      "lon": 4.437834034023, 
+      "hnrlbls": [
+        "69"
+      ], 
+      "housenumber": "69", 
+      "lat": 50.256798441926, 
+      "lon": 4.437748515942, 
       "municipality": "Walcourt", 
       "pcode": "5650", 
       "source": "7757883", 

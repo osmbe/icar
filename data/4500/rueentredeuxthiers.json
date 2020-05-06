@@ -5,8 +5,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.508256479695, 
-      "lon": 5.233872182648, 
+      "lat": 50.508163957371, 
+      "lon": 5.233696568382, 
       "municipality": "Huy", 
       "pcode": "4500", 
       "source": "7725627", 
@@ -37,6 +37,10 @@
       "street": "Rue entre deux Thiers"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0RCH"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -121,6 +125,11 @@
       "street": "Rue entre deux Thiers"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "000B", 
+        "000D"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -385,6 +394,9 @@
       "street": "Rue entre deux Thiers"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "66"
       ], 

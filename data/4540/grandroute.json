@@ -734,9 +734,9 @@
     }, 
     {
       "hnrlbls": [
-        "149c"
+        "149C"
       ], 
-      "housenumber": "149c", 
+      "housenumber": "149C", 
       "lat": 50.533822386188, 
       "lon": 5.317556833486, 
       "municipality": "Amay", 
@@ -1249,6 +1249,10 @@
       "street": "Grand-Route"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "52"
       ], 
@@ -1417,6 +1421,12 @@
       "street": "Grand-Route"
     }, 
     {
+      "busnrs": [
+        "2", 
+        "3", 
+        "4", 
+        "RJ2"
+      ], 
       "hnrlbls": [
         "70"
       ], 
@@ -1589,8 +1599,8 @@
         "83"
       ], 
       "housenumber": "83", 
-      "lat": 50.539852153196, 
-      "lon": 5.328332136658, 
+      "lat": 50.539866472304, 
+      "lon": 5.328256185277, 
       "municipality": "Amay", 
       "pcode": "4540", 
       "source": "7724483", 
@@ -1601,8 +1611,8 @@
         "84"
       ], 
       "housenumber": "84", 
-      "lat": 50.539809139758, 
-      "lon": 5.328294073918, 
+      "lat": 50.539832966403, 
+      "lon": 5.32822634322, 
       "municipality": "Amay", 
       "pcode": "4540", 
       "source": "7724483", 

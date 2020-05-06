@@ -1,13 +1,32 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012"
+      ], 
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.653081473097, 
+      "lon": 5.675305070157, 
+      "municipality": "Blegny", 
+      "pcode": "4671", 
+      "source": "7733911", 
+      "street": "Rue Cahorday"
+    }, 
+    {
       "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
       "lat": 50.654787093776, 
       "lon": 5.674815003983, 
-      "municipality": "Bl\u00e9gny", 
+      "municipality": "Blegny", 
       "pcode": "4671", 
       "source": "7733911", 
       "street": "Rue Cahorday"
@@ -19,7 +38,7 @@
       "housenumber": "100", 
       "lat": 50.648258640728, 
       "lon": 5.677752029407, 
-      "municipality": "Bl\u00e9gny", 
+      "municipality": "Blegny", 
       "pcode": "4671", 
       "source": "7733911", 
       "street": "Rue Cahorday"
@@ -31,7 +50,7 @@
       "housenumber": "102", 
       "lat": 50.648201066714, 
       "lon": 5.677788317964, 
-      "municipality": "Bl\u00e9gny", 
+      "municipality": "Blegny", 
       "pcode": "4671", 
       "source": "7733911", 
       "street": "Rue Cahorday"
@@ -43,7 +62,7 @@
       "housenumber": "106", 
       "lat": 50.647915368173, 
       "lon": 5.677695978984, 
-      "municipality": "Bl\u00e9gny", 
+      "municipality": "Blegny", 
       "pcode": "4671", 
       "source": "7733911", 
       "street": "Rue Cahorday"
@@ -55,7 +74,7 @@
       "housenumber": "108", 
       "lat": 50.647843284703, 
       "lon": 5.677678324234, 
-      "municipality": "Bl\u00e9gny", 
+      "municipality": "Blegny", 
       "pcode": "4671", 
       "source": "7733911", 
       "street": "Rue Cahorday"
@@ -67,7 +86,7 @@
       "housenumber": "11", 
       "lat": 50.650358487206, 
       "lon": 5.678037590497, 
-      "municipality": "Bl\u00e9gny", 
+      "municipality": "Blegny", 
       "pcode": "4671", 
       "source": "7733911", 
       "street": "Rue Cahorday"
@@ -79,7 +98,7 @@
       "housenumber": "110", 
       "lat": 50.647704001908, 
       "lon": 5.677592339343, 
-      "municipality": "Bl\u00e9gny", 
+      "municipality": "Blegny", 
       "pcode": "4671", 
       "source": "7733911", 
       "street": "Rue Cahorday"
@@ -91,7 +110,7 @@
       "housenumber": "112", 
       "lat": 50.647558195765, 
       "lon": 5.677453278639, 
-      "municipality": "Bl\u00e9gny", 
+      "municipality": "Blegny", 
       "pcode": "4671", 
       "source": "7733911", 
       "street": "Rue Cahorday"
@@ -103,7 +122,7 @@
       "housenumber": "13", 
       "lat": 50.649310808588, 
       "lon": 5.678149597662, 
-      "municipality": "Bl\u00e9gny", 
+      "municipality": "Blegny", 
       "pcode": "4671", 
       "source": "7733911", 
       "street": "Rue Cahorday"
@@ -115,7 +134,7 @@
       "housenumber": "14", 
       "lat": 50.654682673458, 
       "lon": 5.674725355101, 
-      "municipality": "Bl\u00e9gny", 
+      "municipality": "Blegny", 
       "pcode": "4671", 
       "source": "7733911", 
       "street": "Rue Cahorday"
@@ -127,7 +146,7 @@
       "housenumber": "15", 
       "lat": 50.649170125339, 
       "lon": 5.678242170657, 
-      "municipality": "Bl\u00e9gny", 
+      "municipality": "Blegny", 
       "pcode": "4671", 
       "source": "7733911", 
       "street": "Rue Cahorday"
@@ -139,7 +158,7 @@
       "housenumber": "16", 
       "lat": 50.654603315553, 
       "lon": 5.674711729953, 
-      "municipality": "Bl\u00e9gny", 
+      "municipality": "Blegny", 
       "pcode": "4671", 
       "source": "7733911", 
       "street": "Rue Cahorday"
@@ -151,7 +170,7 @@
       "housenumber": "17", 
       "lat": 50.649001545277, 
       "lon": 5.678224650548, 
-      "municipality": "Bl\u00e9gny", 
+      "municipality": "Blegny", 
       "pcode": "4671", 
       "source": "7733911", 
       "street": "Rue Cahorday"
@@ -163,7 +182,7 @@
       "housenumber": "20", 
       "lat": 50.654348853458, 
       "lon": 5.673709056688, 
-      "municipality": "Bl\u00e9gny", 
+      "municipality": "Blegny", 
       "pcode": "4671", 
       "source": "7733911", 
       "street": "Rue Cahorday"
@@ -175,7 +194,7 @@
       "housenumber": "21", 
       "lat": 50.648582255316, 
       "lon": 5.678276411322, 
-      "municipality": "Bl\u00e9gny", 
+      "municipality": "Blegny", 
       "pcode": "4671", 
       "source": "7733911", 
       "street": "Rue Cahorday"
@@ -187,7 +206,7 @@
       "housenumber": "22", 
       "lat": 50.654279516731, 
       "lon": 5.674592247408, 
-      "municipality": "Bl\u00e9gny", 
+      "municipality": "Blegny", 
       "pcode": "4671", 
       "source": "7733911", 
       "street": "Rue Cahorday"
@@ -199,19 +218,22 @@
       "housenumber": "23", 
       "lat": 50.648372445384, 
       "lon": 5.678250478007, 
-      "municipality": "Bl\u00e9gny", 
+      "municipality": "Blegny", 
       "pcode": "4671", 
       "source": "7733911", 
       "street": "Rue Cahorday"
     }, 
     {
+      "busnrs": [
+        "1Ren"
+      ], 
       "hnrlbls": [
         "25"
       ], 
       "housenumber": "25", 
       "lat": 50.648133668651, 
       "lon": 5.67830999184, 
-      "municipality": "Bl\u00e9gny", 
+      "municipality": "Blegny", 
       "pcode": "4671", 
       "source": "7733911", 
       "street": "Rue Cahorday"
@@ -223,7 +245,7 @@
       "housenumber": "27", 
       "lat": 50.647962401447, 
       "lon": 5.678184170415, 
-      "municipality": "Bl\u00e9gny", 
+      "municipality": "Blegny", 
       "pcode": "4671", 
       "source": "7733911", 
       "street": "Rue Cahorday"
@@ -235,7 +257,7 @@
       "housenumber": "28", 
       "lat": 50.652350593024, 
       "lon": 5.675305266013, 
-      "municipality": "Bl\u00e9gny", 
+      "municipality": "Blegny", 
       "pcode": "4671", 
       "source": "7733911", 
       "street": "Rue Cahorday"
@@ -247,7 +269,7 @@
       "housenumber": "29", 
       "lat": 50.647775555289, 
       "lon": 5.678198316382, 
-      "municipality": "Bl\u00e9gny", 
+      "municipality": "Blegny", 
       "pcode": "4671", 
       "source": "7733911", 
       "street": "Rue Cahorday"
@@ -259,7 +281,7 @@
       "housenumber": "3", 
       "lat": 50.651630072202, 
       "lon": 5.676412453548, 
-      "municipality": "Bl\u00e9gny", 
+      "municipality": "Blegny", 
       "pcode": "4671", 
       "source": "7733911", 
       "street": "Rue Cahorday"
@@ -269,9 +291,9 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 50.65089039878, 
-      "lon": 5.675469187007, 
-      "municipality": "Bl\u00e9gny", 
+      "lat": 50.651933952666, 
+      "lon": 5.675587150482, 
+      "municipality": "Blegny", 
       "pcode": "4671", 
       "source": "7733911", 
       "street": "Rue Cahorday"
@@ -283,7 +305,7 @@
       "housenumber": "34", 
       "lat": 50.650452979765, 
       "lon": 5.677564374266, 
-      "municipality": "Bl\u00e9gny", 
+      "municipality": "Blegny", 
       "pcode": "4671", 
       "source": "7733911", 
       "street": "Rue Cahorday"
@@ -295,7 +317,27 @@
       "housenumber": "36", 
       "lat": 50.650427679142, 
       "lon": 5.677385462798, 
-      "municipality": "Bl\u00e9gny", 
+      "municipality": "Blegny", 
+      "pcode": "4671", 
+      "source": "7733911", 
+      "street": "Rue Cahorday"
+    }, 
+    {
+      "busnrs": [
+        "0002", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022"
+      ], 
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.655642792974, 
+      "lon": 5.675421856543, 
+      "municipality": "Blegny", 
       "pcode": "4671", 
       "source": "7733911", 
       "street": "Rue Cahorday"
@@ -307,7 +349,7 @@
       "housenumber": "42", 
       "lat": 50.650071882851, 
       "lon": 5.677536194493, 
-      "municipality": "Bl\u00e9gny", 
+      "municipality": "Blegny", 
       "pcode": "4671", 
       "source": "7733911", 
       "street": "Rue Cahorday"
@@ -319,7 +361,7 @@
       "housenumber": "44", 
       "lat": 50.649927233217, 
       "lon": 5.677556761074, 
-      "municipality": "Bl\u00e9gny", 
+      "municipality": "Blegny", 
       "pcode": "4671", 
       "source": "7733911", 
       "street": "Rue Cahorday"
@@ -331,7 +373,7 @@
       "housenumber": "46", 
       "lat": 50.649727295169, 
       "lon": 5.677596625283, 
-      "municipality": "Bl\u00e9gny", 
+      "municipality": "Blegny", 
       "pcode": "4671", 
       "source": "7733911", 
       "street": "Rue Cahorday"
@@ -343,31 +385,52 @@
       "housenumber": "5", 
       "lat": 50.65102657704, 
       "lon": 5.677254525159, 
-      "municipality": "Bl\u00e9gny", 
+      "municipality": "Blegny", 
       "pcode": "4671", 
       "source": "7733911", 
       "street": "Rue Cahorday"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
       "lat": 50.650873411638, 
       "lon": 5.677441994384, 
-      "municipality": "Bl\u00e9gny", 
+      "municipality": "Blegny", 
       "pcode": "4671", 
       "source": "7733911", 
       "street": "Rue Cahorday"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 50.655186139441, 
+      "lon": 5.675029743089, 
+      "municipality": "Blegny", 
+      "pcode": "4671", 
+      "source": "7733911", 
+      "street": "Rue Cahorday"
+    }, 
+    {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "9"
       ], 
       "housenumber": "9", 
       "lat": 50.650732292401, 
       "lon": 5.677696181908, 
-      "municipality": "Bl\u00e9gny", 
+      "municipality": "Blegny", 
       "pcode": "4671", 
       "source": "7733911", 
       "street": "Rue Cahorday"
@@ -379,7 +442,7 @@
       "housenumber": "92", 
       "lat": 50.648995708923, 
       "lon": 5.677688490094, 
-      "municipality": "Bl\u00e9gny", 
+      "municipality": "Blegny", 
       "pcode": "4671", 
       "source": "7733911", 
       "street": "Rue Cahorday"
@@ -391,7 +454,7 @@
       "housenumber": "94", 
       "lat": 50.648808145801, 
       "lon": 5.67771606749, 
-      "municipality": "Bl\u00e9gny", 
+      "municipality": "Blegny", 
       "pcode": "4671", 
       "source": "7733911", 
       "street": "Rue Cahorday"
@@ -403,7 +466,7 @@
       "housenumber": "96", 
       "lat": 50.648569056661, 
       "lon": 5.677680004682, 
-      "municipality": "Bl\u00e9gny", 
+      "municipality": "Blegny", 
       "pcode": "4671", 
       "source": "7733911", 
       "street": "Rue Cahorday"

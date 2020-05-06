@@ -1,6 +1,16 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -31,6 +41,18 @@
       "housenumber": "100", 
       "lat": 50.427658416036, 
       "lon": 4.618389372902, 
+      "municipality": "Sambreville", 
+      "pcode": "5060", 
+      "source": "7755237", 
+      "street": "Avenue des Fran\u00e7ais"
+    }, 
+    {
+      "hnrlbls": [
+        "101"
+      ], 
+      "housenumber": "101", 
+      "lat": 50.426463302148, 
+      "lon": 4.61902303219, 
       "municipality": "Sambreville", 
       "pcode": "5060", 
       "source": "7755237", 
@@ -133,6 +155,12 @@
       "street": "Avenue des Fran\u00e7ais"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -157,12 +185,29 @@
       "street": "Avenue des Fran\u00e7ais"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "14"
       ], 
       "housenumber": "14", 
       "lat": 50.429940764933, 
       "lon": 4.615098607518, 
+      "municipality": "Sambreville", 
+      "pcode": "5060", 
+      "source": "7755237", 
+      "street": "Avenue des Fran\u00e7ais"
+    }, 
+    {
+      "hnrlbls": [
+        "14A"
+      ], 
+      "housenumber": "14A", 
+      "lat": 50.430053476253, 
+      "lon": 4.615277903489, 
       "municipality": "Sambreville", 
       "pcode": "5060", 
       "source": "7755237", 
@@ -187,6 +232,18 @@
       "housenumber": "16", 
       "lat": 50.429904027852, 
       "lon": 4.615230872495, 
+      "municipality": "Sambreville", 
+      "pcode": "5060", 
+      "source": "7755237", 
+      "street": "Avenue des Fran\u00e7ais"
+    }, 
+    {
+      "hnrlbls": [
+        "16A"
+      ], 
+      "housenumber": "16A", 
+      "lat": 50.429926239008, 
+      "lon": 4.615272511227, 
       "municipality": "Sambreville", 
       "pcode": "5060", 
       "source": "7755237", 
@@ -265,6 +322,11 @@
       "street": "Avenue des Fran\u00e7ais"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -289,6 +351,10 @@
       "street": "Avenue des Fran\u00e7ais"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -313,6 +379,10 @@
       "street": "Avenue des Fran\u00e7ais"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -463,6 +533,18 @@
       "housenumber": "37", 
       "lat": 50.429132507818, 
       "lon": 4.615629365741, 
+      "municipality": "Sambreville", 
+      "pcode": "5060", 
+      "source": "7755237", 
+      "street": "Avenue des Fran\u00e7ais"
+    }, 
+    {
+      "hnrlbls": [
+        "38"
+      ], 
+      "housenumber": "38", 
+      "lat": 50.429404730102, 
+      "lon": 4.615809401617, 
       "municipality": "Sambreville", 
       "pcode": "5060", 
       "source": "7755237", 
@@ -829,6 +911,10 @@
       "street": "Avenue des Fran\u00e7ais"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "67"
       ], 
@@ -950,6 +1036,30 @@
     }, 
     {
       "hnrlbls": [
+        "77A"
+      ], 
+      "housenumber": "77A", 
+      "lat": 50.427961898219, 
+      "lon": 4.616869469533, 
+      "municipality": "Sambreville", 
+      "pcode": "5060", 
+      "source": "7755237", 
+      "street": "Avenue des Fran\u00e7ais"
+    }, 
+    {
+      "hnrlbls": [
+        "77B"
+      ], 
+      "housenumber": "77B", 
+      "lat": 50.427821009477, 
+      "lon": 4.616568036454, 
+      "municipality": "Sambreville", 
+      "pcode": "5060", 
+      "source": "7755237", 
+      "street": "Avenue des Fran\u00e7ais"
+    }, 
+    {
+      "hnrlbls": [
         "78"
       ], 
       "housenumber": "78", 
@@ -967,6 +1077,18 @@
       "housenumber": "79", 
       "lat": 50.427930378902, 
       "lon": 4.617270261015, 
+      "municipality": "Sambreville", 
+      "pcode": "5060", 
+      "source": "7755237", 
+      "street": "Avenue des Fran\u00e7ais"
+    }, 
+    {
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 50.430090298881, 
+      "lon": 4.614908197275, 
       "municipality": "Sambreville", 
       "pcode": "5060", 
       "source": "7755237", 
@@ -1121,8 +1243,32 @@
         "91"
       ], 
       "housenumber": "91", 
-      "lat": 50.427681625, 
-      "lon": 4.617596863486, 
+      "lat": 50.427576998785, 
+      "lon": 4.617357993438, 
+      "municipality": "Sambreville", 
+      "pcode": "5060", 
+      "source": "7755237", 
+      "street": "Avenue des Fran\u00e7ais"
+    }, 
+    {
+      "hnrlbls": [
+        "91A"
+      ], 
+      "housenumber": "91A", 
+      "lat": 50.427666202182, 
+      "lon": 4.617573754528, 
+      "municipality": "Sambreville", 
+      "pcode": "5060", 
+      "source": "7755237", 
+      "street": "Avenue des Fran\u00e7ais"
+    }, 
+    {
+      "hnrlbls": [
+        "91B"
+      ], 
+      "housenumber": "91B", 
+      "lat": 50.427713570417, 
+      "lon": 4.617669330984, 
       "municipality": "Sambreville", 
       "pcode": "5060", 
       "source": "7755237", 
@@ -1166,6 +1312,18 @@
     }, 
     {
       "hnrlbls": [
+        "95"
+      ], 
+      "housenumber": "95", 
+      "lat": 50.426828121124, 
+      "lon": 4.618050247711, 
+      "municipality": "Sambreville", 
+      "pcode": "5060", 
+      "source": "7755237", 
+      "street": "Avenue des Fran\u00e7ais"
+    }, 
+    {
+      "hnrlbls": [
         "96"
       ], 
       "housenumber": "96", 
@@ -1183,6 +1341,18 @@
       "housenumber": "96B", 
       "lat": 50.427479007899, 
       "lon": 4.619113021333, 
+      "municipality": "Sambreville", 
+      "pcode": "5060", 
+      "source": "7755237", 
+      "street": "Avenue des Fran\u00e7ais"
+    }, 
+    {
+      "hnrlbls": [
+        "96C"
+      ], 
+      "housenumber": "96C", 
+      "lat": 50.427155815279, 
+      "lon": 4.619473908515, 
       "municipality": "Sambreville", 
       "pcode": "5060", 
       "source": "7755237", 

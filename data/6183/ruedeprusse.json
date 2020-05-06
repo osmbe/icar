@@ -173,14 +173,17 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 50.464372128072, 
-      "lon": 4.343034992382, 
+      "lat": 50.464415220595, 
+      "lon": 4.343128830724, 
       "municipality": "Courcelles", 
       "pcode": "6183", 
       "source": "7709596", 
       "street": "Rue de Prusse"
     }, 
     {
+      "busnrs": [
+        "1/1"
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -197,8 +200,8 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 50.464405008495, 
-      "lon": 4.343007256136, 
+      "lat": 50.464438961276, 
+      "lon": 4.343032957039, 
       "municipality": "Courcelles", 
       "pcode": "6183", 
       "source": "7709596", 
@@ -553,6 +556,10 @@
       "street": "Rue de Prusse"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "0/2"
+      ], 
       "hnrlbls": [
         "68"
       ], 

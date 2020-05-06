@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -158,6 +163,18 @@
     }, 
     {
       "hnrlbls": [
+        "120"
+      ], 
+      "housenumber": "120", 
+      "lat": 50.619746595573, 
+      "lon": 5.618305988866, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4032", 
+      "source": "7730664", 
+      "street": "Rue des Mauvaises-Vignes"
+    }, 
+    {
+      "hnrlbls": [
         "124"
       ], 
       "housenumber": "124", 
@@ -217,6 +234,11 @@
       "street": "Rue des Mauvaises-Vignes"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "132"
       ], 
@@ -253,12 +275,30 @@
       "street": "Rue des Mauvaises-Vignes"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012"
+      ], 
       "hnrlbls": [
         "142"
       ], 
       "housenumber": "142", 
       "lat": 50.619989727552, 
       "lon": 5.61753875975, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4032", 
+      "source": "7730664", 
+      "street": "Rue des Mauvaises-Vignes"
+    }, 
+    {
+      "hnrlbls": [
+        "144"
+      ], 
+      "housenumber": "144", 
+      "lat": 50.620059922545, 
+      "lon": 5.617300224959, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4032", 
       "source": "7730664", 
@@ -601,6 +641,10 @@
       "street": "Rue des Mauvaises-Vignes"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "215"
       ], 
@@ -625,6 +669,10 @@
       "street": "Rue des Mauvaises-Vignes"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "219"
       ], 
@@ -685,6 +733,11 @@
       "street": "Rue des Mauvaises-Vignes"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "227"
       ], 
@@ -697,6 +750,10 @@
       "street": "Rue des Mauvaises-Vignes"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "229"
       ], 
@@ -853,6 +910,11 @@
       "street": "Rue des Mauvaises-Vignes"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012"
+      ], 
       "hnrlbls": [
         "37"
       ], 

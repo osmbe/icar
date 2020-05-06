@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -37,6 +40,14 @@
       "street": "Rue des Fr\u00e8res Grisleins"
     }, 
     {
+      "busnrs": [
+        "Bt02", 
+        "Bt03", 
+        "Bt04", 
+        "Bt05", 
+        "Bt06", 
+        "Bt07"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -61,6 +72,16 @@
       "street": "Rue des Fr\u00e8res Grisleins"
     }, 
     {
+      "busnrs": [
+        "Bt02", 
+        "Bt03", 
+        "Bt04", 
+        "Bt05", 
+        "Bt06", 
+        "Bt07", 
+        "Bt08", 
+        "Bt09"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -73,6 +94,14 @@
       "street": "Rue des Fr\u00e8res Grisleins"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt04", 
+        "Bt05", 
+        "Bt06"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -109,6 +138,17 @@
       "street": "Rue des Fr\u00e8res Grisleins"
     }, 
     {
+      "busnrs": [
+        "0004", 
+        "Bt02", 
+        "Bt03", 
+        "Bt05", 
+        "Bt06", 
+        "Bt08", 
+        "Bt09", 
+        "Bt10", 
+        "Bt12"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -133,6 +173,16 @@
       "street": "Rue des Fr\u00e8res Grisleins"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt04", 
+        "Bt05", 
+        "Bt06", 
+        "Bt07", 
+        "Bt08"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -185,14 +235,18 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.597663241062, 
-      "lon": 4.328964220162, 
+      "lat": 50.597644213833, 
+      "lon": 4.328970214808, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703073", 
       "street": "Rue des Fr\u00e8res Grisleins"
     }, 
     {
+      "busnrs": [
+        "Bt02", 
+        "Bt03"
+      ], 
       "hnrlbls": [
         "6"
       ], 

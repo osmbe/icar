@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -37,6 +42,12 @@
       "street": "Rue Vasset"
     }, 
     {
+      "busnrs": [
+        "0003", 
+        "Bte1", 
+        "Bte2", 
+        "Bte4"
+      ], 
       "hnrlbls": [
         "7"
       ], 

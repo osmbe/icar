@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "Bte1"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +16,12 @@
       "street": "Rue Saint-Roch"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2", 
+        "Bte3", 
+        "Bte4"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -121,6 +130,10 @@
       "street": "Rue Saint-Roch"
     }, 
     {
+      "busnrs": [
+        "Abt1", 
+        "Abt2"
+      ], 
       "hnrlbls": [
         "2"
       ], 

@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -25,6 +30,11 @@
       "street": "Rue du Carmel"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -86,6 +96,30 @@
     }, 
     {
       "hnrlbls": [
+        "16"
+      ], 
+      "housenumber": "16", 
+      "lat": 50.637311602361, 
+      "lon": 5.596760534407, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730778", 
+      "street": "Rue du Carmel"
+    }, 
+    {
+      "hnrlbls": [
+        "17"
+      ], 
+      "housenumber": "17", 
+      "lat": 50.637290191747, 
+      "lon": 5.596767611919, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730778", 
+      "street": "Rue du Carmel"
+    }, 
+    {
+      "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
@@ -97,6 +131,14 @@
       "street": "Rue du Carmel"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -133,6 +175,10 @@
       "street": "Rue du Carmel"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -241,6 +287,11 @@
       "street": "Rue du Carmel"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -257,8 +308,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.637694268313, 
-      "lon": 5.597576113845, 
+      "lat": 50.63774346019, 
+      "lon": 5.597558944169, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730778", 
@@ -269,8 +320,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.637737807729, 
-      "lon": 5.597448517202, 
+      "lat": 50.63769377589, 
+      "lon": 5.597479436646, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730778", 
@@ -295,6 +346,18 @@
       "housenumber": "8", 
       "lat": 50.637649322251, 
       "lon": 5.597342069739, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730778", 
+      "street": "Rue du Carmel"
+    }, 
+    {
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.637621425826, 
+      "lon": 5.597268318619, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730778", 

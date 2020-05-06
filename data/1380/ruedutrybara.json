@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -101,8 +104,8 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 50.698292287111, 
-      "lon": 4.470364388408, 
+      "lat": 50.698391090946, 
+      "lon": 4.470469271024, 
       "municipality": "Lasne", 
       "pcode": "1380", 
       "source": "7705700", 
@@ -293,8 +296,20 @@
         "39A"
       ], 
       "housenumber": "39A", 
-      "lat": 50.698129808483, 
-      "lon": 4.469916934181, 
+      "lat": 50.698138656234, 
+      "lon": 4.469999532735, 
+      "municipality": "Lasne", 
+      "pcode": "1380", 
+      "source": "7705700", 
+      "street": "Rue du Try-Bara"
+    }, 
+    {
+      "hnrlbls": [
+        "39B"
+      ], 
+      "housenumber": "39B", 
+      "lat": 50.698223643526, 
+      "lon": 4.469714739627, 
       "municipality": "Lasne", 
       "pcode": "1380", 
       "source": "7705700", 

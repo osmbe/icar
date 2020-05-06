@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "201"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -73,6 +76,10 @@
       "street": "Chauss\u00e9e de Lasne"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -97,6 +104,25 @@
       "street": "Chauss\u00e9e de Lasne"
     }, 
     {
+      "busnrs": [
+        "A001", 
+        "A002", 
+        "A101", 
+        "A102", 
+        "A201", 
+        "A202", 
+        "A203", 
+        "ASS1", 
+        "B001", 
+        "B002", 
+        "B101", 
+        "B102", 
+        "B103", 
+        "B201", 
+        "B202", 
+        "B203", 
+        "BSS1"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -277,6 +303,10 @@
       "street": "Chauss\u00e9e de Lasne"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -349,6 +379,10 @@
       "street": "Chauss\u00e9e de Lasne"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "33"
       ], 
@@ -385,6 +419,11 @@
       "street": "Chauss\u00e9e de Lasne"
     }, 
     {
+      "busnrs": [
+        "A001", 
+        "A101", 
+        "ASS1"
+      ], 
       "hnrlbls": [
         "37"
       ], 
@@ -421,6 +460,10 @@
       "street": "Chauss\u00e9e de Lasne"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -437,8 +480,8 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 50.705485646533, 
-      "lon": 4.507911810447, 
+      "lat": 50.705749732671, 
+      "lon": 4.50800929958, 
       "municipality": "Rixensart", 
       "pcode": "1330", 
       "source": "7703485", 
@@ -601,12 +644,16 @@
       "street": "Chauss\u00e9e de Lasne"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 50.704505312811, 
-      "lon": 4.502202345903, 
+      "lat": 50.704584197298, 
+      "lon": 4.506878779792, 
       "municipality": "Rixensart", 
       "pcode": "1330", 
       "source": "7703485", 
@@ -617,8 +664,8 @@
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 50.704233547658, 
-      "lon": 4.50226665002, 
+      "lat": 50.704486725159, 
+      "lon": 4.506806521026, 
       "municipality": "Rixensart", 
       "pcode": "1330", 
       "source": "7703485", 
@@ -689,8 +736,8 @@
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 50.704087969931, 
-      "lon": 4.502325834182, 
+      "lat": 50.704299418036, 
+      "lon": 4.506680614291, 
       "municipality": "Rixensart", 
       "pcode": "1330", 
       "source": "7703485", 
@@ -737,8 +784,8 @@
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 50.703907564711, 
-      "lon": 4.502377854745, 
+      "lat": 50.704170464071, 
+      "lon": 4.50680482601, 
       "municipality": "Rixensart", 
       "pcode": "1330", 
       "source": "7703485", 
@@ -761,8 +808,8 @@
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 50.703759379896, 
-      "lon": 4.502551947426, 
+      "lat": 50.704019721475, 
+      "lon": 4.506464062795, 
       "municipality": "Rixensart", 
       "pcode": "1330", 
       "source": "7703485", 
@@ -785,8 +832,8 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 50.703731320467, 
-      "lon": 4.502482623249, 
+      "lat": 50.703906987433, 
+      "lon": 4.50637395228, 
       "municipality": "Rixensart", 
       "pcode": "1330", 
       "source": "7703485", 
@@ -797,8 +844,8 @@
         "66"
       ], 
       "housenumber": "66", 
-      "lat": 50.703626245348, 
-      "lon": 4.50272160295, 
+      "lat": 50.703847108777, 
+      "lon": 4.506325998994, 
       "municipality": "Rixensart", 
       "pcode": "1330", 
       "source": "7703485", 
@@ -835,18 +882,6 @@
       "housenumber": "70", 
       "lat": 50.703462928821, 
       "lon": 4.505936411538, 
-      "municipality": "Rixensart", 
-      "pcode": "1330", 
-      "source": "7703485", 
-      "street": "Chauss\u00e9e de Lasne"
-    }, 
-    {
-      "hnrlbls": [
-        "77"
-      ], 
-      "housenumber": "77", 
-      "lat": 50.705064545147, 
-      "lon": 4.502178355649, 
       "municipality": "Rixensart", 
       "pcode": "1330", 
       "source": "7703485", 

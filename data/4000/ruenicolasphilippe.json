@@ -37,6 +37,10 @@
       "street": "Rue Nicolas-Philippe"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "A000"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -91,6 +95,21 @@
       "housenumber": "17", 
       "lat": 50.611197067607, 
       "lon": 5.557031366289, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731216", 
+      "street": "Rue Nicolas-Philippe"
+    }, 
+    {
+      "busnrs": [
+        "0011"
+      ], 
+      "hnrlbls": [
+        "18"
+      ], 
+      "housenumber": "18", 
+      "lat": 50.610977411768, 
+      "lon": 5.556581412002, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731216", 
@@ -169,6 +188,11 @@
       "street": "Rue Nicolas-Philippe"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -277,6 +301,13 @@
       "street": "Rue Nicolas-Philippe"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "8"
       ], 

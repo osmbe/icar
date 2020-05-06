@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -157,12 +163,43 @@
       "street": "Rue de l'Orph\u00e9on"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
       "lat": 50.646851510577, 
       "lon": 5.635014632343, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730475", 
+      "street": "Rue de l'Orph\u00e9on"
+    }, 
+    {
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 50.647079834329, 
+      "lon": 5.63494837074, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730475", 
+      "street": "Rue de l'Orph\u00e9on"
+    }, 
+    {
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.647126181355, 
+      "lon": 5.634919634889, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730475", 

@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -181,6 +185,10 @@
       "street": "Rue du Berceau"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "120"
       ], 
@@ -233,8 +241,8 @@
         "136"
       ], 
       "housenumber": "136", 
-      "lat": 50.486694847872, 
-      "lon": 4.547552183471, 
+      "lat": 50.486712319715, 
+      "lon": 4.547554986232, 
       "municipality": "Fleurus", 
       "pcode": "6220", 
       "source": "7710042", 
@@ -266,11 +274,26 @@
     }, 
     {
       "hnrlbls": [
-        "144"
+        "146"
       ], 
-      "housenumber": "144", 
-      "lat": 50.487001614167, 
-      "lon": 4.54765081705, 
+      "housenumber": "146", 
+      "lat": 50.487003128178, 
+      "lon": 4.547647870609, 
+      "municipality": "Fleurus", 
+      "pcode": "6220", 
+      "source": "7710042", 
+      "street": "Rue du Berceau"
+    }, 
+    {
+      "busnrs": [
+        "1"
+      ], 
+      "hnrlbls": [
+        "150"
+      ], 
+      "housenumber": "150", 
+      "lat": 50.487199536473, 
+      "lon": 4.547656082318, 
       "municipality": "Fleurus", 
       "pcode": "6220", 
       "source": "7710042", 
@@ -278,11 +301,23 @@
     }, 
     {
       "hnrlbls": [
-        "146"
+        "150A"
       ], 
-      "housenumber": "146", 
-      "lat": 50.48705663339, 
-      "lon": 4.547657395015, 
+      "housenumber": "150A", 
+      "lat": 50.487140895813, 
+      "lon": 4.547649026993, 
+      "municipality": "Fleurus", 
+      "pcode": "6220", 
+      "source": "7710042", 
+      "street": "Rue du Berceau"
+    }, 
+    {
+      "hnrlbls": [
+        "156"
+      ], 
+      "housenumber": "156", 
+      "lat": 50.487343856532, 
+      "lon": 4.547698387254, 
       "municipality": "Fleurus", 
       "pcode": "6220", 
       "source": "7710042", 
@@ -293,14 +328,19 @@
         "158"
       ], 
       "housenumber": "158", 
-      "lat": 50.487363685418, 
-      "lon": 4.547669860597, 
+      "lat": 50.487385037404, 
+      "lon": 4.547706479839, 
       "municipality": "Fleurus", 
       "pcode": "6220", 
       "source": "7710042", 
       "street": "Rue du Berceau"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -557,8 +597,8 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 50.483890451262, 
-      "lon": 4.547588128238, 
+      "lat": 50.483908155601, 
+      "lon": 4.547586500223, 
       "municipality": "Fleurus", 
       "pcode": "6220", 
       "source": "7710042", 
@@ -571,18 +611,6 @@
       "housenumber": "42", 
       "lat": 50.483900671058, 
       "lon": 4.547344568111, 
-      "municipality": "Fleurus", 
-      "pcode": "6220", 
-      "source": "7710042", 
-      "street": "Rue du Berceau"
-    }, 
-    {
-      "hnrlbls": [
-        "43"
-      ], 
-      "housenumber": "43", 
-      "lat": 50.483925514031, 
-      "lon": 4.547593474641, 
       "municipality": "Fleurus", 
       "pcode": "6220", 
       "source": "7710042", 
@@ -665,8 +693,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.483276626615, 
-      "lon": 4.547387535584, 
+      "lat": 50.483250233603, 
+      "lon": 4.547380724409, 
       "municipality": "Fleurus", 
       "pcode": "6220", 
       "source": "7710042", 
@@ -917,8 +945,8 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.48333700968, 
-      "lon": 4.547413817409, 
+      "lat": 50.483297810269, 
+      "lon": 4.547382352982, 
       "municipality": "Fleurus", 
       "pcode": "6220", 
       "source": "7710042", 
@@ -943,6 +971,18 @@
       "housenumber": "72", 
       "lat": 50.484514689895, 
       "lon": 4.547343354933, 
+      "municipality": "Fleurus", 
+      "pcode": "6220", 
+      "source": "7710042", 
+      "street": "Rue du Berceau"
+    }, 
+    {
+      "hnrlbls": [
+        "73"
+      ], 
+      "housenumber": "73", 
+      "lat": 50.484536739094, 
+      "lon": 4.547805765278, 
       "municipality": "Fleurus", 
       "pcode": "6220", 
       "source": "7710042", 
@@ -1135,6 +1175,23 @@
       "housenumber": "93", 
       "lat": 50.485128141738, 
       "lon": 4.54766902254, 
+      "municipality": "Fleurus", 
+      "pcode": "6220", 
+      "source": "7710042", 
+      "street": "Rue du Berceau"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
+      "hnrlbls": [
+        "94"
+      ], 
+      "housenumber": "94", 
+      "lat": 50.485005137216, 
+      "lon": 4.547371520161, 
       "municipality": "Fleurus", 
       "pcode": "6220", 
       "source": "7710042", 

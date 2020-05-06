@@ -61,6 +61,23 @@
       "street": "Rue Marlet"
     }, 
     {
+      "busnrs": [
+        "A002", 
+        "A003", 
+        "A004", 
+        "B003", 
+        "B004", 
+        "Bt02", 
+        "Bt1B", 
+        "Bt2", 
+        "BtC2", 
+        "BtD2", 
+        "C/04", 
+        "C001", 
+        "C003", 
+        "D003", 
+        "D004"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -137,8 +154,8 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.597053207481, 
-      "lon": 4.320022060892, 
+      "lat": 50.597034481012, 
+      "lon": 4.320034692951, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703155", 
@@ -197,8 +214,8 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 50.596104053955, 
-      "lon": 4.320500347918, 
+      "lat": 50.596121888476, 
+      "lon": 4.320487251097, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703155", 
@@ -211,6 +228,18 @@
       "housenumber": "3", 
       "lat": 50.596349688098, 
       "lon": 4.32056389935, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703155", 
+      "street": "Rue Marlet"
+    }, 
+    {
+      "hnrlbls": [
+        "30"
+      ], 
+      "housenumber": "30", 
+      "lat": 50.596091551461, 
+      "lon": 4.320511305222, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703155", 
@@ -245,8 +274,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.597006620985, 
-      "lon": 4.320043774953, 
+      "lat": 50.596956968907, 
+      "lon": 4.320076487852, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703155", 
@@ -259,18 +288,6 @@
       "housenumber": "5", 
       "lat": 50.596302824205, 
       "lon": 4.320589059114, 
-      "municipality": "Nivelles", 
-      "pcode": "1400", 
-      "source": "7703155", 
-      "street": "Rue Marlet"
-    }, 
-    {
-      "hnrlbls": [
-        "6"
-      ], 
-      "housenumber": "6", 
-      "lat": 50.596960004364, 
-      "lon": 4.320079683924, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703155", 

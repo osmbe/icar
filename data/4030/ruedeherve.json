@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -73,6 +78,11 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012"
+      ], 
       "hnrlbls": [
         "109"
       ], 
@@ -109,6 +119,11 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "115"
       ], 
@@ -217,6 +232,14 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041", 
+        "0051"
+      ], 
       "hnrlbls": [
         "128"
       ], 
@@ -265,6 +288,10 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "133"
       ], 
@@ -289,6 +316,10 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "135"
       ], 
@@ -349,6 +380,44 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008", 
+        "0009", 
+        "0010", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0015", 
+        "0016", 
+        "0017", 
+        "0018", 
+        "0019", 
+        "0020", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024", 
+        "0031", 
+        "0032", 
+        "0033", 
+        "0034", 
+        "0041", 
+        "0042", 
+        "0043", 
+        "0044", 
+        "0051", 
+        "0052", 
+        "0053", 
+        "0054"
+      ], 
       "hnrlbls": [
         "140"
       ], 
@@ -409,6 +478,11 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "145"
       ], 
@@ -433,6 +507,10 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "147"
       ], 
@@ -457,6 +535,10 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "149"
       ], 
@@ -469,6 +551,14 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0003", 
+        "0004", 
+        "0006", 
+        "0007", 
+        "0009", 
+        "0010"
+      ], 
       "hnrlbls": [
         "150"
       ], 
@@ -493,6 +583,13 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "152"
       ], 
@@ -517,6 +614,13 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "154"
       ], 
@@ -541,6 +645,10 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "157"
       ], 
@@ -565,6 +673,10 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "161"
       ], 
@@ -601,6 +713,18 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008", 
+        "0009", 
+        "0010"
+      ], 
       "hnrlbls": [
         "164"
       ], 
@@ -614,6 +738,30 @@
     }, 
     {
       "hnrlbls": [
+        "165"
+      ], 
+      "housenumber": "165", 
+      "lat": 50.630624770082, 
+      "lon": 5.608249307839, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730326", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0041", 
+        "0042", 
+        "0051", 
+        "0052"
+      ], 
+      "hnrlbls": [
         "166"
       ], 
       "housenumber": "166", 
@@ -625,6 +773,11 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "167"
       ], 
@@ -637,6 +790,12 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "168"
       ], 
@@ -661,6 +820,11 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "170"
       ], 
@@ -698,11 +862,35 @@
     }, 
     {
       "hnrlbls": [
+        "173"
+      ], 
+      "housenumber": "173", 
+      "lat": 50.630475188372, 
+      "lon": 5.608501797667, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730326", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "hnrlbls": [
         "174"
       ], 
       "housenumber": "174", 
       "lat": 50.629616997167, 
       "lon": 5.617644392272, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730326", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "hnrlbls": [
+        "175"
+      ], 
+      "housenumber": "175", 
+      "lat": 50.630526013166, 
+      "lon": 5.608634883127, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4030", 
       "source": "7730326", 
@@ -746,6 +934,18 @@
     }, 
     {
       "hnrlbls": [
+        "180B"
+      ], 
+      "housenumber": "180B", 
+      "lat": 50.62957529042, 
+      "lon": 5.618005991541, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730326", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "hnrlbls": [
         "181"
       ], 
       "housenumber": "181", 
@@ -758,11 +958,35 @@
     }, 
     {
       "hnrlbls": [
+        "182"
+      ], 
+      "housenumber": "182", 
+      "lat": 50.629542010824, 
+      "lon": 5.618175025933, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730326", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "hnrlbls": [
         "183"
       ], 
       "housenumber": "183", 
       "lat": 50.630491369876, 
       "lon": 5.608898816589, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730326", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "hnrlbls": [
+        "184"
+      ], 
+      "housenumber": "184", 
+      "lat": 50.629547120651, 
+      "lon": 5.618174765393, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4030", 
       "source": "7730326", 
@@ -793,6 +1017,11 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -842,6 +1071,30 @@
     }, 
     {
       "hnrlbls": [
+        "192A"
+      ], 
+      "housenumber": "192A", 
+      "lat": 50.629484587118, 
+      "lon": 5.618759726917, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730326", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "hnrlbls": [
+        "192B"
+      ], 
+      "housenumber": "192B", 
+      "lat": 50.629463521017, 
+      "lon": 5.618820943414, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730326", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "hnrlbls": [
         "193"
       ], 
       "housenumber": "193", 
@@ -854,6 +1107,24 @@
     }, 
     {
       "hnrlbls": [
+        "194"
+      ], 
+      "housenumber": "194", 
+      "lat": 50.629463764896, 
+      "lon": 5.618755386995, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730326", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021"
+      ], 
+      "hnrlbls": [
         "195"
       ], 
       "housenumber": "195", 
@@ -865,6 +1136,23 @@
       "street": "Rue de Herve"
     }, 
     {
+      "hnrlbls": [
+        "196"
+      ], 
+      "housenumber": "196", 
+      "lat": 50.629463245232, 
+      "lon": 5.618818151312, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730326", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "197"
       ], 
@@ -913,6 +1201,12 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "202"
       ], 
@@ -931,6 +1225,18 @@
       "housenumber": "203", 
       "lat": 50.630418074026, 
       "lon": 5.609898969077, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730326", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "hnrlbls": [
+        "206"
+      ], 
+      "housenumber": "206", 
+      "lat": 50.629470637431, 
+      "lon": 5.619767538925, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4030", 
       "source": "7730326", 
@@ -1010,6 +1316,41 @@
     }, 
     {
       "hnrlbls": [
+        "215"
+      ], 
+      "housenumber": "215", 
+      "lat": 50.629908256217, 
+      "lon": 5.609437927713, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730326", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008", 
+        "0009", 
+        "0010", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0041", 
+        "0042", 
+        "0051", 
+        "0052", 
+        "0061"
+      ], 
+      "hnrlbls": [
         "217"
       ], 
       "housenumber": "217", 
@@ -1021,6 +1362,29 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008", 
+        "0009", 
+        "0010", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0041", 
+        "0042", 
+        "0051", 
+        "0052", 
+        "0061"
+      ], 
       "hnrlbls": [
         "219"
       ], 
@@ -1045,6 +1409,10 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "222"
       ], 
@@ -1106,6 +1474,35 @@
     }, 
     {
       "hnrlbls": [
+        "228B"
+      ], 
+      "housenumber": "228B", 
+      "lat": 50.629138997412, 
+      "lon": 5.621103923824, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730326", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "hnrlbls": [
+        "229"
+      ], 
+      "housenumber": "229", 
+      "lat": 50.630227157352, 
+      "lon": 5.611086367382, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730326", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
+      "hnrlbls": [
         "23"
       ], 
       "housenumber": "23", 
@@ -1129,6 +1526,25 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0003", 
+        "0004", 
+        "0006", 
+        "0008", 
+        "0009", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0041", 
+        "0042", 
+        "0051", 
+        "0052", 
+        "0061"
+      ], 
       "hnrlbls": [
         "231"
       ], 
@@ -1141,6 +1557,12 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "232"
       ], 
@@ -1165,6 +1587,11 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012"
+      ], 
       "hnrlbls": [
         "235"
       ], 
@@ -1225,12 +1652,28 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "241"
       ], 
       "housenumber": "241", 
       "lat": 50.62988116916, 
       "lon": 5.611584054392, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730326", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "hnrlbls": [
+        "242"
+      ], 
+      "housenumber": "242", 
+      "lat": 50.628945286819, 
+      "lon": 5.621944816174, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4030", 
       "source": "7730326", 
@@ -1309,6 +1752,12 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -1321,6 +1770,12 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "250"
       ], 
@@ -1393,6 +1848,11 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "257"
       ], 
@@ -1442,6 +1902,18 @@
     }, 
     {
       "hnrlbls": [
+        "261"
+      ], 
+      "housenumber": "261", 
+      "lat": 50.63003518194, 
+      "lon": 5.612655320401, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730326", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "hnrlbls": [
         "262"
       ], 
       "housenumber": "262", 
@@ -1477,6 +1949,9 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0011"
+      ], 
       "hnrlbls": [
         "266"
       ], 
@@ -1598,6 +2073,42 @@
     }, 
     {
       "hnrlbls": [
+        "275A"
+      ], 
+      "housenumber": "275A", 
+      "lat": 50.629406182503, 
+      "lon": 5.613748418066, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730326", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "hnrlbls": [
+        "275B"
+      ], 
+      "housenumber": "275B", 
+      "lat": 50.629450968275, 
+      "lon": 5.613477905462, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730326", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "hnrlbls": [
+        "275C"
+      ], 
+      "housenumber": "275C", 
+      "lat": 50.629484409713, 
+      "lon": 5.613183486105, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730326", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "hnrlbls": [
         "276"
       ], 
       "housenumber": "276", 
@@ -1621,6 +2132,12 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "278"
       ], 
@@ -1669,6 +2186,12 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "283"
       ], 
@@ -1693,6 +2216,11 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "287"
       ], 
@@ -1705,6 +2233,11 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "289"
       ], 
@@ -1729,6 +2262,11 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "291"
       ], 
@@ -1837,6 +2375,11 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "303"
       ], 
@@ -1885,12 +2428,28 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "308"
       ], 
       "housenumber": "308", 
       "lat": 50.628450426336, 
       "lon": 5.625181411853, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730326", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "hnrlbls": [
+        "309"
+      ], 
+      "housenumber": "309", 
+      "lat": 50.629787592362, 
+      "lon": 5.614540064409, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4030", 
       "source": "7730326", 
@@ -1994,6 +2553,18 @@
     }, 
     {
       "hnrlbls": [
+        "316"
+      ], 
+      "housenumber": "316", 
+      "lat": 50.628383756996, 
+      "lon": 5.625581148153, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730326", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "hnrlbls": [
         "317"
       ], 
       "housenumber": "317", 
@@ -2006,11 +2577,35 @@
     }, 
     {
       "hnrlbls": [
+        "318"
+      ], 
+      "housenumber": "318", 
+      "lat": 50.628421632599, 
+      "lon": 5.625597437449, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730326", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "hnrlbls": [
         "319"
       ], 
       "housenumber": "319", 
       "lat": 50.62971981133, 
       "lon": 5.614996807572, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730326", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "hnrlbls": [
+        "320"
+      ], 
+      "housenumber": "320", 
+      "lat": 50.628576561556, 
+      "lon": 5.625913681066, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4030", 
       "source": "7730326", 
@@ -2065,6 +2660,11 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "33"
       ], 
@@ -2209,6 +2809,13 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021"
+      ], 
       "hnrlbls": [
         "348"
       ], 
@@ -2233,6 +2840,16 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "350"
       ], 
@@ -2245,6 +2862,11 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "351"
       ], 
@@ -2330,11 +2952,35 @@
     }, 
     {
       "hnrlbls": [
+        "364"
+      ], 
+      "housenumber": "364", 
+      "lat": 50.628038648333, 
+      "lon": 5.628199488143, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730326", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "hnrlbls": [
         "364A"
       ], 
       "housenumber": "364A", 
       "lat": 50.628010559574, 
       "lon": 5.628372705698, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730326", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "hnrlbls": [
+        "364B"
+      ], 
+      "housenumber": "364B", 
+      "lat": 50.628013421058, 
+      "lon": 5.628407470876, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4030", 
       "source": "7730326", 
@@ -2353,6 +2999,13 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0013"
+      ], 
       "hnrlbls": [
         "369"
       ], 
@@ -2449,6 +3102,10 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "379"
       ], 
@@ -2461,12 +3118,80 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008", 
+        "0009", 
+        "0010", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0015", 
+        "0016", 
+        "0017", 
+        "0018", 
+        "0019", 
+        "0020", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024", 
+        "0025", 
+        "0026", 
+        "0027", 
+        "0028", 
+        "0031", 
+        "0032", 
+        "0033", 
+        "0034", 
+        "0041", 
+        "0042", 
+        "0051", 
+        "0052", 
+        "0053", 
+        "0061", 
+        "0062", 
+        "0063", 
+        "0071", 
+        "0072", 
+        "0073"
+      ], 
       "hnrlbls": [
         "380"
       ], 
       "housenumber": "380", 
       "lat": 50.628062279612, 
       "lon": 5.628994400083, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730326", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "hnrlbls": [
+        "381"
+      ], 
+      "housenumber": "381", 
+      "lat": 50.629369564234, 
+      "lon": 5.61734053681, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730326", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "hnrlbls": [
+        "382"
+      ], 
+      "housenumber": "382", 
+      "lat": 50.627975595323, 
+      "lon": 5.629104195104, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4030", 
       "source": "7730326", 
@@ -2485,6 +3210,17 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "385"
       ], 
@@ -2605,12 +3341,39 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0012"
+      ], 
+      "hnrlbls": [
+        "404"
+      ], 
+      "housenumber": "404", 
+      "lat": 50.627795511552, 
+      "lon": 5.629777045058, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730326", 
+      "street": "Rue de Herve"
+    }, 
+    {
       "hnrlbls": [
         "405"
       ], 
       "housenumber": "405", 
       "lat": 50.629253679975, 
       "lon": 5.618113648308, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730326", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "hnrlbls": [
+        "406"
+      ], 
+      "housenumber": "406", 
+      "lat": 50.627770801809, 
+      "lon": 5.630108877122, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4030", 
       "source": "7730326", 
@@ -2629,12 +3392,23 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0041", 
+        "0042"
+      ], 
       "hnrlbls": [
         "408"
       ], 
       "housenumber": "408", 
-      "lat": 50.62769609838, 
-      "lon": 5.630249922434, 
+      "lat": 50.627748128654, 
+      "lon": 5.630278241262, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4030", 
       "source": "7730326", 
@@ -2755,6 +3529,18 @@
       "housenumber": "420", 
       "lat": 50.627547285744, 
       "lon": 5.631045193918, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730326", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "hnrlbls": [
+        "421"
+      ], 
+      "housenumber": "421", 
+      "lat": 50.629123492597, 
+      "lon": 5.618802183749, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4030", 
       "source": "7730326", 
@@ -2893,12 +3679,28 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "435"
       ], 
       "housenumber": "435", 
       "lat": 50.629034538329, 
       "lon": 5.619433384507, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730326", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "hnrlbls": [
+        "436"
+      ], 
+      "housenumber": "436", 
+      "lat": 50.627455774099, 
+      "lon": 5.63156427447, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4030", 
       "source": "7730326", 
@@ -2917,6 +3719,11 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "438"
       ], 
@@ -2953,6 +3760,11 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "441"
       ], 
@@ -2966,11 +3778,47 @@
     }, 
     {
       "hnrlbls": [
+        "447"
+      ], 
+      "housenumber": "447", 
+      "lat": 50.628795198813, 
+      "lon": 5.620003656878, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730326", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "hnrlbls": [
         "448"
       ], 
       "housenumber": "448", 
       "lat": 50.62740800189, 
       "lon": 5.63229430802, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730326", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "hnrlbls": [
+        "449"
+      ], 
+      "housenumber": "449", 
+      "lat": 50.62815397877, 
+      "lon": 5.61979059677, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730326", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "hnrlbls": [
+        "451"
+      ], 
+      "housenumber": "451", 
+      "lat": 50.628776274523, 
+      "lon": 5.620535651622, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4030", 
       "source": "7730326", 
@@ -3002,6 +3850,18 @@
     }, 
     {
       "hnrlbls": [
+        "457"
+      ], 
+      "housenumber": "457", 
+      "lat": 50.628779488866, 
+      "lon": 5.619954401132, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730326", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "hnrlbls": [
         "458"
       ], 
       "housenumber": "458", 
@@ -3013,6 +3873,23 @@
       "street": "Rue de Herve"
     }, 
     {
+      "hnrlbls": [
+        "459"
+      ], 
+      "housenumber": "459", 
+      "lat": 50.628159145661, 
+      "lon": 5.619791723216, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730326", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "460"
       ], 
@@ -3110,6 +3987,18 @@
     }, 
     {
       "hnrlbls": [
+        "475"
+      ], 
+      "housenumber": "475", 
+      "lat": 50.628002316868, 
+      "lon": 5.620936789944, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730326", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "hnrlbls": [
         "478"
       ], 
       "housenumber": "478", 
@@ -3157,6 +4046,10 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "482"
       ], 
@@ -3193,6 +4086,10 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "486"
       ], 
@@ -3241,6 +4138,11 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "49"
       ], 
@@ -3289,6 +4191,11 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "493"
       ], 
@@ -3301,6 +4208,12 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021"
+      ], 
       "hnrlbls": [
         "494"
       ], 
@@ -3313,6 +4226,11 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012"
+      ], 
       "hnrlbls": [
         "499"
       ], 
@@ -3325,6 +4243,11 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -3337,6 +4260,12 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "500"
       ], 
@@ -3367,6 +4296,34 @@
       "housenumber": "501", 
       "lat": 50.628563766991, 
       "lon": 5.622628667515, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730326", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "hnrlbls": [
+        "502"
+      ], 
+      "housenumber": "502", 
+      "lat": 50.62720298405, 
+      "lon": 5.635698913314, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730326", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
+      "hnrlbls": [
+        "502B"
+      ], 
+      "housenumber": "502B", 
+      "lat": 50.627068436465, 
+      "lon": 5.635713974605, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4030", 
       "source": "7730326", 
@@ -3409,6 +4366,14 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "507"
       ], 
@@ -3422,6 +4387,23 @@
     }, 
     {
       "hnrlbls": [
+        "509"
+      ], 
+      "housenumber": "509", 
+      "lat": 50.628468249499, 
+      "lon": 5.623145844576, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730326", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
+      "hnrlbls": [
         "51"
       ], 
       "housenumber": "51", 
@@ -3434,6 +4416,23 @@
     }, 
     {
       "hnrlbls": [
+        "511"
+      ], 
+      "housenumber": "511", 
+      "lat": 50.628494517985, 
+      "lon": 5.623124476809, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730326", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012"
+      ], 
+      "hnrlbls": [
         "513"
       ], 
       "housenumber": "513", 
@@ -3445,10 +4444,30 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "515"
       ], 
       "housenumber": "515", 
+      "lat": 50.628438313623, 
+      "lon": 5.62343884601, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730326", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "hnrlbls": [
+        "517"
+      ], 
+      "housenumber": "517", 
       "lat": 50.628438313623, 
       "lon": 5.62343884601, 
       "municipality": "Li\u00e8ge", 
@@ -3463,6 +4482,18 @@
       "housenumber": "519", 
       "lat": 50.628420444333, 
       "lon": 5.623557054548, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730326", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "hnrlbls": [
+        "521"
+      ], 
+      "housenumber": "521", 
+      "lat": 50.62840487855, 
+      "lon": 5.62366589572, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4030", 
       "source": "7730326", 
@@ -3493,6 +4524,11 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012"
+      ], 
       "hnrlbls": [
         "525"
       ], 
@@ -3541,6 +4577,13 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021"
+      ], 
       "hnrlbls": [
         "531"
       ], 
@@ -3589,6 +4632,13 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021"
+      ], 
       "hnrlbls": [
         "543"
       ], 
@@ -3673,6 +4723,11 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "561"
       ], 
@@ -3745,12 +4800,29 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "571"
       ], 
       "housenumber": "571", 
       "lat": 50.628038893605, 
       "lon": 5.626098743059, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730326", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "hnrlbls": [
+        "573"
+      ], 
+      "housenumber": "573", 
+      "lat": 50.628019442476, 
+      "lon": 5.626203545124, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4030", 
       "source": "7730326", 
@@ -3866,6 +4938,18 @@
     }, 
     {
       "hnrlbls": [
+        "597"
+      ], 
+      "housenumber": "597", 
+      "lat": 50.627827794127, 
+      "lon": 5.6275704976, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730326", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "hnrlbls": [
         "599"
       ], 
       "housenumber": "599", 
@@ -3877,6 +4961,10 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "60"
       ], 
@@ -3914,6 +5002,37 @@
     }, 
     {
       "hnrlbls": [
+        "61"
+      ], 
+      "housenumber": "61", 
+      "lat": 50.632858588323, 
+      "lon": 5.604791567216, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730326", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "hnrlbls": [
+        "611"
+      ], 
+      "housenumber": "611", 
+      "lat": 50.627719210441, 
+      "lon": 5.628130775329, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730326", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0021"
+      ], 
+      "hnrlbls": [
         "613"
       ], 
       "housenumber": "613", 
@@ -3937,6 +5056,12 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "619"
       ], 
@@ -3949,6 +5074,17 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0041", 
+        "0042"
+      ], 
       "hnrlbls": [
         "62"
       ], 
@@ -4130,6 +5266,18 @@
     }, 
     {
       "hnrlbls": [
+        "653B"
+      ], 
+      "housenumber": "653B", 
+      "lat": 50.626910540076, 
+      "lon": 5.631120002271, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730326", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "hnrlbls": [
         "655"
       ], 
       "housenumber": "655", 
@@ -4213,12 +5361,29 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
+      "hnrlbls": [
+        "665A"
+      ], 
+      "housenumber": "665A", 
+      "lat": 50.626791494573, 
+      "lon": 5.632387797892, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730326", 
+      "street": "Rue de Herve"
+    }, 
+    {
       "hnrlbls": [
         "667"
       ], 
       "housenumber": "667", 
-      "lat": 50.626739700467, 
-      "lon": 5.632862479529, 
+      "lat": 50.627022031059, 
+      "lon": 5.632823291062, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4030", 
       "source": "7730326", 
@@ -4250,6 +5415,18 @@
     }, 
     {
       "hnrlbls": [
+        "671"
+      ], 
+      "housenumber": "671", 
+      "lat": 50.626417843542, 
+      "lon": 5.633186445843, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730326", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "hnrlbls": [
         "673"
       ], 
       "housenumber": "673", 
@@ -4274,6 +5451,24 @@
     }, 
     {
       "hnrlbls": [
+        "675B"
+      ], 
+      "housenumber": "675B", 
+      "lat": 50.626550522438, 
+      "lon": 5.633262457131, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730326", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
+      "hnrlbls": [
         "677"
       ], 
       "housenumber": "677", 
@@ -4297,6 +5492,28 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008", 
+        "0009", 
+        "0010", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0041", 
+        "0042", 
+        "0051", 
+        "0052"
+      ], 
       "hnrlbls": [
         "68"
       ], 
@@ -4321,12 +5538,31 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "685"
       ], 
       "housenumber": "685", 
       "lat": 50.626860583641, 
       "lon": 5.633912124357, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730326", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "hnrlbls": [
+        "687"
+      ], 
+      "housenumber": "687", 
+      "lat": 50.626736886244, 
+      "lon": 5.634019445433, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4030", 
       "source": "7730326", 
@@ -4345,6 +5581,12 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "69"
       ], 
@@ -4357,6 +5599,11 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "691"
       ], 
@@ -4381,6 +5628,12 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "695"
       ], 
@@ -4417,6 +5670,27 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008", 
+        "0009", 
+        "0010", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0041", 
+        "0042", 
+        "0051", 
+        "0052"
+      ], 
       "hnrlbls": [
         "70"
       ], 
@@ -4453,12 +5727,34 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "705"
       ], 
       "housenumber": "705", 
       "lat": 50.626703948377, 
       "lon": 5.63493291516, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730326", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
+      "hnrlbls": [
+        "707"
+      ], 
+      "housenumber": "707", 
+      "lat": 50.626678953824, 
+      "lon": 5.634983329434, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4030", 
       "source": "7730326", 
@@ -4477,6 +5773,28 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008", 
+        "0009", 
+        "0010", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0041", 
+        "0042", 
+        "0051", 
+        "0052"
+      ], 
       "hnrlbls": [
         "72"
       ], 
@@ -4501,6 +5819,21 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "74"
       ], 
@@ -4525,6 +5858,28 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008", 
+        "0009", 
+        "0010", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0041", 
+        "0042", 
+        "0051", 
+        "0052"
+      ], 
       "hnrlbls": [
         "76"
       ], 
@@ -4538,11 +5893,42 @@
     }, 
     {
       "hnrlbls": [
+        "77"
+      ], 
+      "housenumber": "77", 
+      "lat": 50.632354910774, 
+      "lon": 5.60504339916, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730326", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0031", 
+        "0032", 
+        "0033", 
+        "0041", 
+        "0042", 
+        "0043", 
+        "0051", 
+        "0052", 
+        "0053", 
+        "0061", 
+        "0062"
+      ], 
+      "hnrlbls": [
         "78"
       ], 
       "housenumber": "78", 
-      "lat": 50.630269140529, 
-      "lon": 5.612804828076, 
+      "lat": 50.630285442667, 
+      "lon": 5.612937106592, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4030", 
       "source": "7730326", 
@@ -4573,6 +5959,12 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "81"
       ], 
@@ -4586,11 +5978,11 @@
     }, 
     {
       "hnrlbls": [
-        "83"
+        "82"
       ], 
-      "housenumber": "83", 
-      "lat": 50.632105501285, 
-      "lon": 5.605143683185, 
+      "housenumber": "82", 
+      "lat": 50.630239391347, 
+      "lon": 5.613100480813, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4030", 
       "source": "7730326", 
@@ -4610,11 +6002,11 @@
     }, 
     {
       "hnrlbls": [
-        "85"
+        "86"
       ], 
-      "housenumber": "85", 
-      "lat": 50.632025144107, 
-      "lon": 5.605149013948, 
+      "housenumber": "86", 
+      "lat": 50.630220608375, 
+      "lon": 5.613229473484, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4030", 
       "source": "7730326", 
@@ -4622,11 +6014,11 @@
     }, 
     {
       "hnrlbls": [
-        "86"
+        "87"
       ], 
-      "housenumber": "86", 
-      "lat": 50.630220608375, 
-      "lon": 5.613229473484, 
+      "housenumber": "87", 
+      "lat": 50.632105501285, 
+      "lon": 5.605143683185, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4030", 
       "source": "7730326", 
@@ -4646,6 +6038,18 @@
     }, 
     {
       "hnrlbls": [
+        "89"
+      ], 
+      "housenumber": "89", 
+      "lat": 50.631976943746, 
+      "lon": 5.605151490375, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730326", 
+      "street": "Rue de Herve"
+    }, 
+    {
+      "hnrlbls": [
         "9"
       ], 
       "housenumber": "9", 
@@ -4657,6 +6061,11 @@
       "street": "Rue de Herve"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011"
+      ], 
       "hnrlbls": [
         "90"
       ], 

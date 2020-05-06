@@ -61,6 +61,10 @@
       "street": "Grand'Route de Mons"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "107"
       ], 
@@ -175,6 +179,18 @@
       "housenumber": "118", 
       "lat": 50.478985054572, 
       "lon": 3.765657633561, 
+      "municipality": "Saint-Ghislain", 
+      "pcode": "7334", 
+      "source": "7714615", 
+      "street": "Grand'Route de Mons"
+    }, 
+    {
+      "hnrlbls": [
+        "120B"
+      ], 
+      "housenumber": "120B", 
+      "lat": 50.478914856603, 
+      "lon": 3.766582252587, 
       "municipality": "Saint-Ghislain", 
       "pcode": "7334", 
       "source": "7714615", 
@@ -457,6 +473,9 @@
       "street": "Grand'Route de Mons"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -517,6 +536,9 @@
       "street": "Grand'Route de Mons"
     }, 
     {
+      "busnrs": [
+        "0011"
+      ], 
       "hnrlbls": [
         "32"
       ], 
@@ -841,6 +863,10 @@
       "street": "Grand'Route de Mons"
     }, 
     {
+      "busnrs": [
+        "0012", 
+        "RCH2"
+      ], 
       "hnrlbls": [
         "79"
       ], 

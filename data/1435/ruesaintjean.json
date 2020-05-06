@@ -49,6 +49,9 @@
       "street": "Rue Saint-Jean"
     }, 
     {
+      "busnrs": [
+        "0101"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -61,6 +64,14 @@
       "street": "Rue Saint-Jean"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "02-1", 
+        "02.2", 
+        "03.2", 
+        "Bte3"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -133,12 +144,16 @@
       "street": "Rue Saint-Jean"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0201"
+      ], 
       "hnrlbls": [
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.639424247415, 
-      "lon": 4.613756676394, 
+      "lat": 50.639429056038, 
+      "lon": 4.613732388465, 
       "municipality": "Mont-Saint-Guibert", 
       "pcode": "1435", 
       "source": "7702770", 
@@ -181,6 +196,14 @@
       "street": "Rue Saint-Jean"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -241,6 +264,11 @@
       "street": "Rue Saint-Jean"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0003", 
+        "0101"
+      ], 
       "hnrlbls": [
         "3"
       ], 

@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "B011", 
+        "B021"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -121,6 +125,10 @@
       "street": "Rue des Sopreyes"
     }, 
     {
+      "busnrs": [
+        "0010", 
+        "0011"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -163,6 +171,18 @@
       "housenumber": "33", 
       "lat": 50.609791030386, 
       "lon": 5.636839150896, 
+      "municipality": "Chaudfontaine", 
+      "pcode": "4051", 
+      "source": "7728152", 
+      "street": "Rue des Sopreyes"
+    }, 
+    {
+      "hnrlbls": [
+        "35"
+      ], 
+      "housenumber": "35", 
+      "lat": 50.609974202298, 
+      "lon": 5.636883434265, 
       "municipality": "Chaudfontaine", 
       "pcode": "4051", 
       "source": "7728152", 

@@ -2,18 +2,6 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1"
-      ], 
-      "housenumber": "1", 
-      "lat": 50.589632561153, 
-      "lon": 5.377124852184, 
-      "municipality": "Saint-Georges-sur-Meuse", 
-      "pcode": "4470", 
-      "source": "7740990", 
-      "street": "Rue Noiset"
-    }, 
-    {
-      "hnrlbls": [
         "13"
       ], 
       "housenumber": "13", 
@@ -25,6 +13,10 @@
       "street": "Rue Noiset"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "14"
       ], 

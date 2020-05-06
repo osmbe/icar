@@ -1,12 +1,28 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A/1", 
+        "A/2"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
       "lat": 49.568464552028, 
       "lon": 5.532546980216, 
+      "municipality": "Virton", 
+      "pcode": "6760", 
+      "source": "7747778", 
+      "street": "Place Georges Lorand"
+    }, 
+    {
+      "hnrlbls": [
+        "10"
+      ], 
+      "housenumber": "10", 
+      "lat": 49.568943870009, 
+      "lon": 5.532614953431, 
       "municipality": "Virton", 
       "pcode": "6760", 
       "source": "7747778", 
@@ -25,24 +41,34 @@
       "street": "Place Georges Lorand"
     }, 
     {
+      "busnrs": [
+        "1/1", 
+        "1/2", 
+        "2/1", 
+        "2/2", 
+        "2/3"
+      ], 
       "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 49.568978129961, 
-      "lon": 5.532267858303, 
+      "lat": 49.569150156139, 
+      "lon": 5.532335655107, 
       "municipality": "Virton", 
       "pcode": "6760", 
       "source": "7747778", 
       "street": "Place Georges Lorand"
     }, 
     {
+      "busnrs": [
+        "1/1"
+      ], 
       "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 49.569013384752, 
-      "lon": 5.531930236305, 
+      "lat": 49.568969971913, 
+      "lon": 5.532271735939, 
       "municipality": "Virton", 
       "pcode": "6760", 
       "source": "7747778", 

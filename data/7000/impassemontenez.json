@@ -145,6 +145,14 @@
       "street": "Impasse Montenez"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "1-1", 
+        "1-2", 
+        "2-1", 
+        "2-2"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -235,18 +243,6 @@
       "housenumber": "3", 
       "lat": 50.460396127992, 
       "lon": 3.943497172037, 
-      "municipality": "Mons", 
-      "pcode": "7000", 
-      "source": "7713320", 
-      "street": "Impasse Montenez"
-    }, 
-    {
-      "hnrlbls": [
-        "4"
-      ], 
-      "housenumber": "4", 
-      "lat": 50.460400811468, 
-      "lon": 3.943896226568, 
       "municipality": "Mons", 
       "pcode": "7000", 
       "source": "7713320", 

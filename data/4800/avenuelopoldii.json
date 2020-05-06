@@ -61,6 +61,9 @@
       "street": "Avenue L\u00e9opold II"
     }, 
     {
+      "busnrs": [
+        "bt12"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -121,6 +124,11 @@
       "street": "Avenue L\u00e9opold II"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "2\u00e9t.", 
+        "rez."
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -163,6 +171,22 @@
       "housenumber": "8", 
       "lat": 50.585226000613, 
       "lon": 5.859304240684, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738609", 
+      "street": "Avenue L\u00e9opold II"
+    }, 
+    {
+      "busnrs": [
+        "1\u00e9t.", 
+        "rez."
+      ], 
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.584858087056, 
+      "lon": 5.860804827108, 
       "municipality": "Verviers", 
       "pcode": "4800", 
       "source": "7738609", 

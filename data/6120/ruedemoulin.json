@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0/02", 
+        "0001", 
+        "01/1", 
+        "02/1"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -13,6 +19,9 @@
       "street": "Rue Demoulin"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -145,6 +154,9 @@
       "street": "Rue Demoulin"
     }, 
     {
+      "busnrs": [
+        "000B"
+      ], 
       "hnrlbls": [
         "7"
       ], 

@@ -253,6 +253,12 @@
       "street": "Rue Basse Baive"
     }, 
     {
+      "busnrs": [
+        "A001", 
+        "A101", 
+        "B001", 
+        "B101"
+      ], 
       "hnrlbls": [
         "37"
       ], 
@@ -277,6 +283,9 @@
       "street": "Rue Basse Baive"
     }, 
     {
+      "busnrs": [
+        "Bte2"
+      ], 
       "hnrlbls": [
         "43"
       ], 
@@ -365,8 +374,8 @@
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 50.573022631668, 
-      "lon": 4.809265737501, 
+      "lat": 50.572814096467, 
+      "lon": 4.809044025749, 
       "municipality": "Eghez\u00e9e", 
       "pcode": "5310", 
       "source": "7752063", 

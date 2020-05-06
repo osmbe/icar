@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "3\u00e9t.", 
+        "rez."
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -25,12 +29,40 @@
       "street": "Rue du Ch\u00e2telet"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "3\u00e9t."
+      ], 
       "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
       "lat": 50.594504070377, 
       "lon": 5.856354401069, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738938", 
+      "street": "Rue du Ch\u00e2telet"
+    }, 
+    {
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.594394076915, 
+      "lon": 5.856475291413, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738938", 
+      "street": "Rue du Ch\u00e2telet"
+    }, 
+    {
+      "hnrlbls": [
+        "41"
+      ], 
+      "housenumber": "41", 
+      "lat": 50.594411756826, 
+      "lon": 5.856561807244, 
       "municipality": "Verviers", 
       "pcode": "4800", 
       "source": "7738938", 
@@ -61,6 +93,10 @@
       "street": "Rue du Ch\u00e2telet"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "3\u00e9t."
+      ], 
       "hnrlbls": [
         "7"
       ], 

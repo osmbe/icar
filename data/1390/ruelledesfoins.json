@@ -13,12 +13,15 @@
       "street": "Ruelle des Foins"
     }, 
     {
+      "busnrs": [
+        "0002"
+      ], 
       "hnrlbls": [
         "110"
       ], 
       "housenumber": "110", 
-      "lat": 50.747331256142, 
-      "lon": 4.680567480442, 
+      "lat": 50.746957347046, 
+      "lon": 4.680552910741, 
       "municipality": "Grez-Doiceau", 
       "pcode": "1390", 
       "source": "7701933", 
@@ -85,6 +88,13 @@
       "street": "Ruelle des Foins"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0004", 
+        "0005", 
+        "0006"
+      ], 
       "hnrlbls": [
         "56"
       ], 
@@ -121,6 +131,9 @@
       "street": "Ruelle des Foins"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "8"
       ], 

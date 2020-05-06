@@ -254,18 +254,6 @@
     }, 
     {
       "hnrlbls": [
-        "4"
-      ], 
-      "housenumber": "4", 
-      "lat": 50.48717511458, 
-      "lon": 4.493240220564, 
-      "municipality": "Fleurus", 
-      "pcode": "6220", 
-      "source": "7710138", 
-      "street": "Rue Trou \u00e0 la Vigne"
-    }, 
-    {
-      "hnrlbls": [
         "40"
       ], 
       "housenumber": "40", 
@@ -317,8 +305,8 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 50.488761652207, 
-      "lon": 4.491149132586, 
+      "lat": 50.488788104561, 
+      "lon": 4.491158988256, 
       "municipality": "Fleurus", 
       "pcode": "6220", 
       "source": "7710138", 
@@ -445,6 +433,9 @@
       "street": "Rue Trou \u00e0 la Vigne"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -553,12 +544,22 @@
       "street": "Rue Trou \u00e0 la Vigne"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
       "hnrlbls": [
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.487594625452, 
-      "lon": 4.493551639805, 
+      "lat": 50.487331561694, 
+      "lon": 4.493449233792, 
       "municipality": "Fleurus", 
       "pcode": "6220", 
       "source": "7710138", 

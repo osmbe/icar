@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "B", 
+        "C", 
+        "D"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -25,6 +30,9 @@
       "street": "Place de Brogne"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -37,6 +45,9 @@
       "street": "Place de Brogne"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -181,6 +192,11 @@
       "street": "Place de Brogne"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "7"
       ], 

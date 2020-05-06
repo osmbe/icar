@@ -25,6 +25,10 @@
       "street": "Rue de Virelles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "B2"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -49,6 +53,10 @@
       "street": "Rue de Virelles"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "B1"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -65,8 +73,8 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.14463633451, 
-      "lon": 4.326392926994, 
+      "lat": 50.144619912073, 
+      "lon": 4.326367400461, 
       "municipality": "Froidchapelle", 
       "pcode": "6440", 
       "source": "7720430", 
@@ -101,8 +109,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 50.142362744911, 
-      "lon": 4.327859974401, 
+      "lat": 50.142383444991, 
+      "lon": 4.327873282191, 
       "municipality": "Froidchapelle", 
       "pcode": "6440", 
       "source": "7720430", 
@@ -115,6 +123,18 @@
       "housenumber": "24", 
       "lat": 50.141835473283, 
       "lon": 4.32845784398, 
+      "municipality": "Froidchapelle", 
+      "pcode": "6440", 
+      "source": "7720430", 
+      "street": "Rue de Virelles"
+    }, 
+    {
+      "hnrlbls": [
+        "25"
+      ], 
+      "housenumber": "25", 
+      "lat": 50.142040631995, 
+      "lon": 4.327995374629, 
       "municipality": "Froidchapelle", 
       "pcode": "6440", 
       "source": "7720430", 
@@ -229,6 +249,9 @@
       "street": "Rue de Virelles"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "47"
       ], 
@@ -245,8 +268,8 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 50.137725120743, 
-      "lon": 4.329830172843, 
+      "lat": 50.137703707765, 
+      "lon": 4.32981908603, 
       "municipality": "Froidchapelle", 
       "pcode": "6440", 
       "source": "7720430", 
@@ -265,6 +288,9 @@
       "street": "Rue de Virelles"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "56"
       ], 
@@ -341,8 +367,8 @@
         "68"
       ], 
       "housenumber": "68", 
-      "lat": 50.126561049121, 
-      "lon": 4.326216330307, 
+      "lat": 50.126527726012, 
+      "lon": 4.326160855463, 
       "municipality": "Froidchapelle", 
       "pcode": "6440", 
       "source": "7720430", 
@@ -377,8 +403,8 @@
         "79"
       ], 
       "housenumber": "79", 
-      "lat": 50.126170692166, 
-      "lon": 4.325617065931, 
+      "lat": 50.126136199728, 
+      "lon": 4.325617096609, 
       "municipality": "Froidchapelle", 
       "pcode": "6440", 
       "source": "7720430", 

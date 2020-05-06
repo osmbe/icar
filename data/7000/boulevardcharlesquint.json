@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "A0-1", 
+        "A0-3"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +19,36 @@
       "street": "Boulevard Charles Quint"
     }, 
     {
+      "busnrs": [
+        "1-1", 
+        "1-2", 
+        "1-3", 
+        "1-4", 
+        "1-5", 
+        "1-6", 
+        "1-7", 
+        "1-8", 
+        "1-9", 
+        "2-1", 
+        "2-2", 
+        "2-3", 
+        "2-4", 
+        "2-5", 
+        "2-6", 
+        "2-7", 
+        "3-1", 
+        "3-2", 
+        "3-3", 
+        "3-4", 
+        "3-5", 
+        "3-6", 
+        "3-7", 
+        "4-1", 
+        "4-2", 
+        "4-3", 
+        "4-4", 
+        "4-5"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -37,6 +73,13 @@
       "street": "Boulevard Charles Quint"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "1-1", 
+        "2-1", 
+        "2-2"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -49,6 +92,14 @@
       "street": "Boulevard Charles Quint"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "1-1", 
+        "2-1", 
+        "2-2", 
+        "3-1"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -61,6 +112,13 @@
       "street": "Boulevard Charles Quint"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "1-2", 
+        "2-1", 
+        "2-2"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -85,6 +143,15 @@
       "street": "Boulevard Charles Quint"
     }, 
     {
+      "busnrs": [
+        "0-3", 
+        "0-4", 
+        "1", 
+        "1-1", 
+        "1-2", 
+        "2-1", 
+        "2-2"
+      ], 
       "hnrlbls": [
         "18A"
       ], 
@@ -121,6 +188,14 @@
       "street": "Boulevard Charles Quint"
     }, 
     {
+      "busnrs": [
+        "1-1", 
+        "1-2", 
+        "1-3", 
+        "2-1", 
+        "2-2", 
+        "2-3"
+      ], 
       "hnrlbls": [
         "19B"
       ], 
@@ -145,6 +220,13 @@
       "street": "Boulevard Charles Quint"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "2-1", 
+        "2-2", 
+        "A"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -157,6 +239,10 @@
       "street": "Boulevard Charles Quint"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -169,6 +255,12 @@
       "street": "Boulevard Charles Quint"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "2-1", 
+        "2-2"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -181,24 +273,33 @@
       "street": "Boulevard Charles Quint"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "2-1"
+      ], 
       "hnrlbls": [
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 50.45542853866, 
-      "lon": 3.945171838665, 
+      "lat": 50.455427044808, 
+      "lon": 3.945179601513, 
       "municipality": "Mons", 
       "pcode": "7000", 
       "source": "7713140", 
       "street": "Boulevard Charles Quint"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1"
+      ], 
       "hnrlbls": [
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.455397823242, 
-      "lon": 3.945136090039, 
+      "lat": 50.455393667968, 
+      "lon": 3.945144770857, 
       "municipality": "Mons", 
       "pcode": "7000", 
       "source": "7713140", 
@@ -229,24 +330,37 @@
       "street": "Boulevard Charles Quint"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "1-1", 
+        "2-1", 
+        "3-1"
+      ], 
       "hnrlbls": [
         "25C"
       ], 
       "housenumber": "25C", 
-      "lat": 50.455181518438, 
-      "lon": 3.944947092304, 
+      "lat": 50.455181526573, 
+      "lon": 3.944949328498, 
       "municipality": "Mons", 
       "pcode": "7000", 
       "source": "7713140", 
       "street": "Boulevard Charles Quint"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "1-1", 
+        "2-1", 
+        "3-1"
+      ], 
       "hnrlbls": [
         "25D"
       ], 
       "housenumber": "25D", 
-      "lat": 50.455121393581, 
-      "lon": 3.944876288215, 
+      "lat": 50.455121888138, 
+      "lon": 3.944881499872, 
       "municipality": "Mons", 
       "pcode": "7000", 
       "source": "7713140", 
@@ -265,6 +379,14 @@
       "street": "Boulevard Charles Quint"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "1-1", 
+        "2-1", 
+        "3-1", 
+        "4-1"
+      ], 
       "hnrlbls": [
         "25F"
       ], 
@@ -277,18 +399,25 @@
       "street": "Boulevard Charles Quint"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 50.454893723503, 
-      "lon": 3.944639124718, 
+      "lat": 50.454598706163, 
+      "lon": 3.944500343136, 
       "municipality": "Mons", 
       "pcode": "7000", 
       "source": "7713140", 
       "street": "Boulevard Charles Quint"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1"
+      ], 
       "hnrlbls": [
         "26A"
       ], 
@@ -313,6 +442,33 @@
       "street": "Boulevard Charles Quint"
     }, 
     {
+      "busnrs": [
+        "1-1", 
+        "1-2", 
+        "1-3", 
+        "1-4", 
+        "1-5", 
+        "1-6", 
+        "1-7", 
+        "2-1", 
+        "2-2", 
+        "2-3", 
+        "2-4", 
+        "2-5", 
+        "2-6", 
+        "2-7", 
+        "3-1", 
+        "3-2", 
+        "3-3", 
+        "3-4", 
+        "3-5", 
+        "3-6", 
+        "3-7", 
+        "4-1", 
+        "4-2", 
+        "4-3", 
+        "4-4"
+      ], 
       "hnrlbls": [
         "4"
       ], 

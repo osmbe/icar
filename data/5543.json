@@ -1,10 +1,19 @@
 {
   "streets": [
     {
+      "b": 50.161754217556, 
+      "l": 4.829105200095, 
+      "name": "La Loqueresse", 
+      "numOfAddr": 3, 
+      "r": 4.829652266471, 
+      "sanName": "laloqueresse", 
+      "t": 50.162202690323
+    }, 
+    {
       "b": 50.16100447942, 
       "l": 4.829577183133, 
       "name": "Le Hierdaux", 
-      "numOfAddr": 5, 
+      "numOfAddr": 6, 
       "r": 4.830347525532, 
       "sanName": "lehierdaux", 
       "t": 50.161336734857
@@ -37,6 +46,15 @@
       "t": 50.160659091407
     }, 
     {
+      "b": 50.157015334779, 
+      "l": 4.835774531573, 
+      "name": "Rue de Feschaux", 
+      "numOfAddr": 3, 
+      "r": 4.836153428723, 
+      "sanName": "ruedefeschaux", 
+      "t": 50.157621408448
+    }, 
+    {
       "b": 50.157669605674, 
       "l": 4.829988306613, 
       "name": "Rue de la Briqueterie", 
@@ -67,19 +85,28 @@
       "b": 50.162602804136, 
       "l": 4.831545835753, 
       "name": "Rue de l'Eglise (HR)", 
-      "numOfAddr": 21, 
+      "numOfAddr": 22, 
       "r": 4.833438237338, 
       "sanName": "ruedeleglisehr", 
       "t": 50.164001353197
     }, 
     {
       "b": 50.159365115428, 
-      "l": 4.828767135139, 
+      "l": 4.828672804765, 
       "name": "Rue derri\u00e8re la Ferme", 
       "numOfAddr": 5, 
       "r": 4.82924004513, 
       "sanName": "ruederrirelaferme", 
       "t": 50.160744907094
+    }, 
+    {
+      "b": 50.159991292441, 
+      "l": 4.8272821503, 
+      "name": "Rue derri\u00e8re la Ferme, Au Doux Repos", 
+      "numOfAddr": 27, 
+      "r": 4.828900388283, 
+      "sanName": "ruederrirelafermeaudouxrepos", 
+      "t": 50.160790208833
     }, 
     {
       "b": 50.16345022267, 
@@ -94,7 +121,7 @@
       "b": 50.15940186966, 
       "l": 4.829843839062, 
       "name": "Rue des Douaniers", 
-      "numOfAddr": 24, 
+      "numOfAddr": 25, 
       "r": 4.831551189031, 
       "sanName": "ruedesdouaniers", 
       "t": 50.161789216974
@@ -121,7 +148,7 @@
       "b": 50.153752644088, 
       "l": 4.831869607004, 
       "name": "Rue du Faubourg", 
-      "numOfAddr": 62, 
+      "numOfAddr": 63, 
       "r": 4.837900602439, 
       "sanName": "ruedufaubourg", 
       "t": 50.161611267228
@@ -130,16 +157,16 @@
       "b": 50.162157716243, 
       "l": 4.826679686295, 
       "name": "Rue du Pont", 
-      "numOfAddr": 35, 
+      "numOfAddr": 36, 
       "r": 4.831703793178, 
       "sanName": "ruedupont", 
       "t": 50.169967970634
     }, 
     {
       "b": 50.161954304192, 
-      "l": 4.832204785637, 
+      "l": 4.832064611936, 
       "name": "Rue du Prince Albert", 
-      "numOfAddr": 29, 
+      "numOfAddr": 30, 
       "r": 4.833637029876, 
       "sanName": "rueduprincealbert", 
       "t": 50.163604428847
@@ -157,8 +184,8 @@
       "b": 50.163166902302, 
       "l": 4.834024379254, 
       "name": "Rue du Suzery", 
-      "numOfAddr": 20, 
-      "r": 4.841180918082, 
+      "numOfAddr": 21, 
+      "r": 4.841950603475, 
       "sanName": "ruedusuzery", 
       "t": 50.164917578364
     }, 
@@ -166,10 +193,10 @@
       "b": 50.161487599695, 
       "l": 4.832628798112, 
       "name": "Rue du Vieux-Cimeti\u00e8re", 
-      "numOfAddr": 20, 
-      "r": 4.836368004724, 
+      "numOfAddr": 24, 
+      "r": 4.837976945501, 
       "sanName": "rueduvieuxcimetire", 
-      "t": 50.162011951365
+      "t": 50.162648124373
     }, 
     {
       "b": 50.163955885529, 
@@ -184,7 +211,7 @@
       "b": 50.162593063155, 
       "l": 4.824857265252, 
       "name": "Vall\u00e9e de Han", 
-      "numOfAddr": 120, 
+      "numOfAddr": 122, 
       "r": 4.827531031989, 
       "sanName": "valledehan", 
       "t": 50.169468676691

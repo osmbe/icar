@@ -157,6 +157,11 @@
       "street": "Rue du Fort"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -301,6 +306,9 @@
       "street": "Rue du Fort"
     }, 
     {
+      "busnrs": [
+        "002"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -494,6 +502,18 @@
     }, 
     {
       "hnrlbls": [
+        "34"
+      ], 
+      "housenumber": "34", 
+      "lat": 50.626891182144, 
+      "lon": 5.708195870824, 
+      "municipality": "Fl\u00e9ron", 
+      "pcode": "4621", 
+      "source": "7728949", 
+      "street": "Rue du Fort"
+    }, 
+    {
+      "hnrlbls": [
         "40"
       ], 
       "housenumber": "40", 
@@ -605,8 +625,8 @@
         "66"
       ], 
       "housenumber": "66", 
-      "lat": 50.629014932805, 
-      "lon": 5.70981214408, 
+      "lat": 50.628982502318, 
+      "lon": 5.709813560764, 
       "municipality": "Fl\u00e9ron", 
       "pcode": "4621", 
       "source": "7728949", 

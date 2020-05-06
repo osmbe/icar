@@ -13,6 +13,9 @@
       "street": "Rue de Beaufays"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -245,8 +248,8 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 50.524844618833, 
-      "lon": 5.658071825159, 
+      "lat": 50.524646966248, 
+      "lon": 5.657942004952, 
       "municipality": "Sprimont", 
       "pcode": "4140", 
       "source": "7732974", 
@@ -257,14 +260,17 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 50.523130078563, 
-      "lon": 5.65552276433, 
+      "lat": 50.523539910731, 
+      "lon": 5.655491593251, 
       "municipality": "Sprimont", 
       "pcode": "4140", 
       "source": "7732974", 
       "street": "Rue de Beaufays"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "38"
       ], 
@@ -277,6 +283,11 @@
       "street": "Rue de Beaufays"
     }, 
     {
+      "busnrs": [
+        "A1", 
+        "A3", 
+        "Ap.2"
+      ], 
       "hnrlbls": [
         "40"
       ], 
@@ -313,12 +324,42 @@
       "street": "Rue de Beaufays"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
+      "hnrlbls": [
+        "43"
+      ], 
+      "housenumber": "43", 
+      "lat": 50.526433023947, 
+      "lon": 5.657396988907, 
+      "municipality": "Sprimont", 
+      "pcode": "4140", 
+      "source": "7732974", 
+      "street": "Rue de Beaufays"
+    }, 
+    {
       "hnrlbls": [
         "44"
       ], 
       "housenumber": "44", 
       "lat": 50.525514989082, 
       "lon": 5.656809057494, 
+      "municipality": "Sprimont", 
+      "pcode": "4140", 
+      "source": "7732974", 
+      "street": "Rue de Beaufays"
+    }, 
+    {
+      "hnrlbls": [
+        "45"
+      ], 
+      "housenumber": "45", 
+      "lat": 50.526748940641, 
+      "lon": 5.657226454547, 
       "municipality": "Sprimont", 
       "pcode": "4140", 
       "source": "7732974", 
@@ -487,6 +528,18 @@
       "housenumber": "58", 
       "lat": 50.526973358131, 
       "lon": 5.656353298948, 
+      "municipality": "Sprimont", 
+      "pcode": "4140", 
+      "source": "7732974", 
+      "street": "Rue de Beaufays"
+    }, 
+    {
+      "hnrlbls": [
+        "59"
+      ], 
+      "housenumber": "59", 
+      "lat": 50.527776358645, 
+      "lon": 5.656846310569, 
       "municipality": "Sprimont", 
       "pcode": "4140", 
       "source": "7732974", 
@@ -725,8 +778,8 @@
         "87"
       ], 
       "housenumber": "87", 
-      "lat": 50.531475725039, 
-      "lon": 5.658273848627, 
+      "lat": 50.531658148803, 
+      "lon": 5.657101172464, 
       "municipality": "Sprimont", 
       "pcode": "4140", 
       "source": "7732974", 

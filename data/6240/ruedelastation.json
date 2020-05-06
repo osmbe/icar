@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "001", 
+        "002", 
+        "010"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -85,6 +90,10 @@
       "street": "Rue de la Station"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -133,6 +142,11 @@
       "street": "Rue de la Station"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -229,6 +243,9 @@
       "street": "Rue de la Station"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "32"
       ], 
@@ -313,6 +330,16 @@
       "street": "Rue de la Station"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008"
+      ], 
       "hnrlbls": [
         "40"
       ], 

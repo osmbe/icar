@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "app1", 
+        "app2", 
+        "app3"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -157,6 +162,9 @@
       "street": "Rue Maison-Communale"
     }, 
     {
+      "busnrs": [
+        "app1"
+      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -181,6 +189,11 @@
       "street": "Rue Maison-Communale"
     }, 
     {
+      "busnrs": [
+        "app1", 
+        "app2", 
+        "app3"
+      ], 
       "hnrlbls": [
         "38"
       ], 

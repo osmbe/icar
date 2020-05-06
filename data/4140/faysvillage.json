@@ -2,6 +2,18 @@
   "addresses": [
     {
       "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.510413529107, 
+      "lon": 5.601292809891, 
+      "municipality": "Sprimont", 
+      "pcode": "4140", 
+      "source": "7732933", 
+      "street": "Fays Village"
+    }, 
+    {
+      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -25,12 +37,28 @@
       "street": "Fays Village"
     }, 
     {
+      "busnrs": [
+        "A001", 
+        "Ap.1"
+      ], 
       "hnrlbls": [
         "12"
       ], 
       "housenumber": "12", 
       "lat": 50.509889482016, 
       "lon": 5.601397232327, 
+      "municipality": "Sprimont", 
+      "pcode": "4140", 
+      "source": "7732933", 
+      "street": "Fays Village"
+    }, 
+    {
+      "hnrlbls": [
+        "12A"
+      ], 
+      "housenumber": "12A", 
+      "lat": 50.509828317338, 
+      "lon": 5.601290996786, 
       "municipality": "Sprimont", 
       "pcode": "4140", 
       "source": "7732933", 
@@ -61,6 +89,21 @@
       "street": "Fays Village"
     }, 
     {
+      "hnrlbls": [
+        "14/1"
+      ], 
+      "housenumber": "14/1", 
+      "lat": 50.509360724604, 
+      "lon": 5.600888502045, 
+      "municipality": "Sprimont", 
+      "pcode": "4140", 
+      "source": "7732933", 
+      "street": "Fays Village"
+    }, 
+    {
+      "busnrs": [
+        "Ap.1"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -137,6 +180,18 @@
         "21"
       ], 
       "housenumber": "21", 
+      "lat": 50.510298352793, 
+      "lon": 5.600699592832, 
+      "municipality": "Sprimont", 
+      "pcode": "4140", 
+      "source": "7732933", 
+      "street": "Fays Village"
+    }, 
+    {
+      "hnrlbls": [
+        "21B"
+      ], 
+      "housenumber": "21B", 
       "lat": 50.510591043362, 
       "lon": 5.600306421389, 
       "municipality": "Sprimont", 
@@ -169,12 +224,40 @@
       "street": "Fays Village"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
       "hnrlbls": [
         "24"
       ], 
       "housenumber": "24", 
       "lat": 50.510712965461, 
       "lon": 5.60063193242, 
+      "municipality": "Sprimont", 
+      "pcode": "4140", 
+      "source": "7732933", 
+      "street": "Fays Village"
+    }, 
+    {
+      "hnrlbls": [
+        "25"
+      ], 
+      "housenumber": "25", 
+      "lat": 50.512920895274, 
+      "lon": 5.603130526616, 
+      "municipality": "Sprimont", 
+      "pcode": "4140", 
+      "source": "7732933", 
+      "street": "Fays Village"
+    }, 
+    {
+      "hnrlbls": [
+        "25B"
+      ], 
+      "housenumber": "25B", 
+      "lat": 50.512744002579, 
+      "lon": 5.603936036945, 
       "municipality": "Sprimont", 
       "pcode": "4140", 
       "source": "7732933", 
@@ -221,8 +304,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.510141826611, 
-      "lon": 5.601392145013, 
+      "lat": 50.510183707848, 
+      "lon": 5.60131837724, 
       "municipality": "Sprimont", 
       "pcode": "4140", 
       "source": "7732933", 
@@ -233,8 +316,56 @@
         "3A"
       ], 
       "housenumber": "3A", 
-      "lat": 50.510183707848, 
-      "lon": 5.60131837724, 
+      "lat": 50.510272421603, 
+      "lon": 5.601399889975, 
+      "municipality": "Sprimont", 
+      "pcode": "4140", 
+      "source": "7732933", 
+      "street": "Fays Village"
+    }, 
+    {
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.510141826611, 
+      "lon": 5.601392145013, 
+      "municipality": "Sprimont", 
+      "pcode": "4140", 
+      "source": "7732933", 
+      "street": "Fays Village"
+    }, 
+    {
+      "hnrlbls": [
+        "42"
+      ], 
+      "housenumber": "42", 
+      "lat": 50.512286724713, 
+      "lon": 5.598268828931, 
+      "municipality": "Sprimont", 
+      "pcode": "4140", 
+      "source": "7732933", 
+      "street": "Fays Village"
+    }, 
+    {
+      "hnrlbls": [
+        "44"
+      ], 
+      "housenumber": "44", 
+      "lat": 50.512336960043, 
+      "lon": 5.597837349642, 
+      "municipality": "Sprimont", 
+      "pcode": "4140", 
+      "source": "7732933", 
+      "street": "Fays Village"
+    }, 
+    {
+      "hnrlbls": [
+        "46"
+      ], 
+      "housenumber": "46", 
+      "lat": 50.512390777351, 
+      "lon": 5.597426857356, 
       "municipality": "Sprimont", 
       "pcode": "4140", 
       "source": "7732933", 
@@ -278,11 +409,23 @@
     }, 
     {
       "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.510066328389, 
+      "lon": 5.601582845065, 
+      "municipality": "Sprimont", 
+      "pcode": "4140", 
+      "source": "7732933", 
+      "street": "Fays Village"
+    }, 
+    {
+      "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.510066328389, 
-      "lon": 5.601582845065, 
+      "lat": 50.510060548983, 
+      "lon": 5.601870830313, 
       "municipality": "Sprimont", 
       "pcode": "4140", 
       "source": "7732933", 

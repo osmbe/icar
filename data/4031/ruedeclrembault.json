@@ -61,6 +61,13 @@
       "street": "Rue de-Cl\u00e9rembault"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -97,12 +104,29 @@
       "street": "Rue de-Cl\u00e9rembault"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "20"
       ], 
       "housenumber": "20", 
       "lat": 50.609862856461, 
       "lon": 5.602496265334, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4031", 
+      "source": "7730310", 
+      "street": "Rue de-Cl\u00e9rembault"
+    }, 
+    {
+      "hnrlbls": [
+        "22"
+      ], 
+      "housenumber": "22", 
+      "lat": 50.609841580412, 
+      "lon": 5.60242428175, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4031", 
       "source": "7730310", 

@@ -49,6 +49,11 @@
       "street": "Rue des Comparchonniers"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -61,12 +66,29 @@
       "street": "Rue des Comparchonniers"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
       "lat": 50.670156590533, 
       "lon": 5.655318319154, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730589", 
+      "street": "Rue des Comparchonniers"
+    }, 
+    {
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 50.67021254343, 
+      "lon": 5.65511427018, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730589", 

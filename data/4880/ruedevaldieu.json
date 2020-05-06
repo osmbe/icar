@@ -97,6 +97,10 @@
       "street": "Rue de Val-Dieu"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -121,6 +125,12 @@
       "street": "Rue de Val-Dieu"
     }, 
     {
+      "busnrs": [
+        "A1", 
+        "A2", 
+        "A3", 
+        "A4"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -133,6 +143,9 @@
       "street": "Rue de Val-Dieu"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -313,6 +326,21 @@
       "street": "Rue de Val-Dieu"
     }, 
     {
+      "hnrlbls": [
+        "41"
+      ], 
+      "housenumber": "41", 
+      "lat": 50.707148593994, 
+      "lon": 5.85538162566, 
+      "municipality": "Aubel", 
+      "pcode": "4880", 
+      "source": "7735162", 
+      "street": "Rue de Val-Dieu"
+    }, 
+    {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "43"
       ], 

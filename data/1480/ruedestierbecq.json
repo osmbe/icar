@@ -1,6 +1,13 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "R01"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -163,18 +170,6 @@
       "housenumber": "118", 
       "lat": 50.698944877075, 
       "lon": 4.195358823901, 
-      "municipality": "Tubize", 
-      "pcode": "1480", 
-      "source": "7703847", 
-      "street": "Rue de Stierbecq"
-    }, 
-    {
-      "hnrlbls": [
-        "12"
-      ], 
-      "housenumber": "12", 
-      "lat": 50.696314327331, 
-      "lon": 4.200508275354, 
       "municipality": "Tubize", 
       "pcode": "1480", 
       "source": "7703847", 
@@ -1033,12 +1028,78 @@
       "street": "Rue de Stierbecq"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
+      "hnrlbls": [
+        "85"
+      ], 
+      "housenumber": "85", 
+      "lat": 50.698060678661, 
+      "lon": 4.197479212051, 
+      "municipality": "Tubize", 
+      "pcode": "1480", 
+      "source": "7703847", 
+      "street": "Rue de Stierbecq"
+    }, 
+    {
+      "busnrs": [
+        "101", 
+        "201"
+      ], 
+      "hnrlbls": [
+        "87"
+      ], 
+      "housenumber": "87", 
+      "lat": 50.698096250016, 
+      "lon": 4.197406055409, 
+      "municipality": "Tubize", 
+      "pcode": "1480", 
+      "source": "7703847", 
+      "street": "Rue de Stierbecq"
+    }, 
+    {
+      "hnrlbls": [
+        "89"
+      ], 
+      "housenumber": "89", 
+      "lat": 50.698138379627, 
+      "lon": 4.197344108036, 
+      "municipality": "Tubize", 
+      "pcode": "1480", 
+      "source": "7703847", 
+      "street": "Rue de Stierbecq"
+    }, 
+    {
       "hnrlbls": [
         "9"
       ], 
       "housenumber": "9", 
       "lat": 50.696520138812, 
       "lon": 4.200795085739, 
+      "municipality": "Tubize", 
+      "pcode": "1480", 
+      "source": "7703847", 
+      "street": "Rue de Stierbecq"
+    }, 
+    {
+      "busnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "R01"
+      ], 
+      "hnrlbls": [
+        "91"
+      ], 
+      "housenumber": "91", 
+      "lat": 50.698193542433, 
+      "lon": 4.197249345322, 
       "municipality": "Tubize", 
       "pcode": "1480", 
       "source": "7703847", 

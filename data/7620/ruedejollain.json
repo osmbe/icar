@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -157,6 +160,9 @@
       "street": "Rue de Jollain"
     }, 
     {
+      "busnrs": [
+        "B011"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -257,8 +263,20 @@
         "2B"
       ], 
       "housenumber": "2B", 
-      "lat": 50.542358475573, 
-      "lon": 3.425282901139, 
+      "lat": 50.542379063834, 
+      "lon": 3.425593081133, 
+      "municipality": "Brunehaut", 
+      "pcode": "7620", 
+      "source": "7724010", 
+      "street": "Rue de Jollain"
+    }, 
+    {
+      "hnrlbls": [
+        "2C"
+      ], 
+      "housenumber": "2C", 
+      "lat": 50.542223578946, 
+      "lon": 3.425293752658, 
       "municipality": "Brunehaut", 
       "pcode": "7620", 
       "source": "7724010", 
@@ -391,6 +409,18 @@
       "housenumber": "39", 
       "lat": 50.541577292625, 
       "lon": 3.416128066069, 
+      "municipality": "Brunehaut", 
+      "pcode": "7620", 
+      "source": "7724010", 
+      "street": "Rue de Jollain"
+    }, 
+    {
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.541953990778, 
+      "lon": 3.425506498814, 
       "municipality": "Brunehaut", 
       "pcode": "7620", 
       "source": "7724010", 
@@ -593,8 +623,20 @@
         "4A"
       ], 
       "housenumber": "4A", 
-      "lat": 50.542267209482, 
-      "lon": 3.424878560729, 
+      "lat": 50.542137551658, 
+      "lon": 3.425097661871, 
+      "municipality": "Brunehaut", 
+      "pcode": "7620", 
+      "source": "7724010", 
+      "street": "Rue de Jollain"
+    }, 
+    {
+      "hnrlbls": [
+        "4B"
+      ], 
+      "housenumber": "4B", 
+      "lat": 50.542263318702, 
+      "lon": 3.424898944125, 
       "municipality": "Brunehaut", 
       "pcode": "7620", 
       "source": "7724010", 
@@ -809,8 +851,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.541923922404, 
-      "lon": 3.421411087494, 
+      "lat": 50.542634588858, 
+      "lon": 3.425455598627, 
       "municipality": "Brunehaut", 
       "pcode": "7620", 
       "source": "7724010", 

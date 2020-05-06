@@ -169,6 +169,12 @@
       "street": "Rue Vandervelde"
     }, 
     {
+      "busnrs": [
+        "0004", 
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "116"
       ], 
@@ -301,6 +307,10 @@
       "street": "Rue Vandervelde"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "21"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -331,6 +341,18 @@
       "housenumber": "18", 
       "lat": 50.586410472062, 
       "lon": 5.507931671075, 
+      "municipality": "Seraing", 
+      "pcode": "4100", 
+      "source": "7732619", 
+      "street": "Rue Vandervelde"
+    }, 
+    {
+      "hnrlbls": [
+        "19A"
+      ], 
+      "housenumber": "19A", 
+      "lat": 50.586694950958, 
+      "lon": 5.507476448618, 
       "municipality": "Seraing", 
       "pcode": "4100", 
       "source": "7732619", 
@@ -433,6 +455,9 @@
       "street": "Rue Vandervelde"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "32"
       ], 

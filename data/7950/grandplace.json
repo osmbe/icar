@@ -5,8 +5,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.586641174973, 
-      "lon": 3.809661733087, 
+      "lat": 50.586618369463, 
+      "lon": 3.809667980166, 
       "municipality": "Chi\u00e8vres", 
       "pcode": "7950", 
       "source": "7708312", 
@@ -17,8 +17,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.586966404979, 
-      "lon": 3.808584132449, 
+      "lat": 50.586962343573, 
+      "lon": 3.808630138225, 
       "municipality": "Chi\u00e8vres", 
       "pcode": "7950", 
       "source": "7708312", 
@@ -73,12 +73,15 @@
       "street": "Grand'Place"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.587419224037, 
-      "lon": 3.80785628487, 
+      "lat": 50.587401298066, 
+      "lon": 3.807887883121, 
       "municipality": "Chi\u00e8vres", 
       "pcode": "7950", 
       "source": "7708312", 
@@ -89,8 +92,32 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 50.587644117669, 
-      "lon": 3.808170967301, 
+      "lat": 50.587619137691, 
+      "lon": 3.808170141904, 
+      "municipality": "Chi\u00e8vres", 
+      "pcode": "7950", 
+      "source": "7708312", 
+      "street": "Grand'Place"
+    }, 
+    {
+      "hnrlbls": [
+        "17"
+      ], 
+      "housenumber": "17", 
+      "lat": 50.587954423991, 
+      "lon": 3.807765834053, 
+      "municipality": "Chi\u00e8vres", 
+      "pcode": "7950", 
+      "source": "7708312", 
+      "street": "Grand'Place"
+    }, 
+    {
+      "hnrlbls": [
+        "18"
+      ], 
+      "housenumber": "18", 
+      "lat": 50.587686026955, 
+      "lon": 3.808541711022, 
       "municipality": "Chi\u00e8vres", 
       "pcode": "7950", 
       "source": "7708312", 
@@ -133,6 +160,10 @@
       "street": "Grand'Place"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "01.1"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -169,6 +200,10 @@
       "street": "Grand'Place"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "00A2"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -181,6 +216,10 @@
       "street": "Grand'Place"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "000B"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -253,6 +292,12 @@
       "street": "Grand'Place"
     }, 
     {
+      "busnrs": [
+        "0030", 
+        "0031", 
+        "0032", 
+        "0034"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -293,8 +338,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.586815042321, 
-      "lon": 3.809073163916, 
+      "lat": 50.586835073272, 
+      "lon": 3.809034068427, 
       "municipality": "Chi\u00e8vres", 
       "pcode": "7950", 
       "source": "7708312", 
@@ -305,8 +350,8 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.586832067853, 
-      "lon": 3.808986439083, 
+      "lat": 50.586889227519, 
+      "lon": 3.808902068006, 
       "municipality": "Chi\u00e8vres", 
       "pcode": "7950", 
       "source": "7708312", 
@@ -317,14 +362,18 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.586833534186, 
-      "lon": 3.808857236658, 
+      "lat": 50.586910443505, 
+      "lon": 3.808823820077, 
       "municipality": "Chi\u00e8vres", 
       "pcode": "7950", 
       "source": "7708312", 
       "street": "Grand'Place"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "9"
       ], 

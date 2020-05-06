@@ -1,6 +1,13 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A001", 
+        "A002", 
+        "A102", 
+        "A201", 
+        "A202"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -205,6 +212,10 @@
       "street": "Rue de la R\u00e9sistance"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "23"
       ], 

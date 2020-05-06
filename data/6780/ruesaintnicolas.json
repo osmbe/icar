@@ -13,6 +13,10 @@
       "street": "Rue Saint-Nicolas"
     }, 
     {
+      "busnrs": [
+        "01/2", 
+        "1/1"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -55,6 +59,18 @@
       "housenumber": "16", 
       "lat": 49.635653475515, 
       "lon": 5.834155386096, 
+      "municipality": "Messancy", 
+      "pcode": "6780", 
+      "source": "7742316", 
+      "street": "Rue Saint-Nicolas"
+    }, 
+    {
+      "hnrlbls": [
+        "17"
+      ], 
+      "housenumber": "17", 
+      "lat": 49.635837811844, 
+      "lon": 5.833706752021, 
       "municipality": "Messancy", 
       "pcode": "6780", 
       "source": "7742316", 
@@ -194,6 +210,18 @@
     }, 
     {
       "hnrlbls": [
+        "30"
+      ], 
+      "housenumber": "30", 
+      "lat": 49.636620478409, 
+      "lon": 5.835973477169, 
+      "municipality": "Messancy", 
+      "pcode": "6780", 
+      "source": "7742316", 
+      "street": "Rue Saint-Nicolas"
+    }, 
+    {
+      "hnrlbls": [
         "31"
       ], 
       "housenumber": "31", 
@@ -209,8 +237,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 49.636636768066, 
-      "lon": 5.836022487137, 
+      "lat": 49.636654123396, 
+      "lon": 5.836060565145, 
       "municipality": "Messancy", 
       "pcode": "6780", 
       "source": "7742316", 
@@ -293,8 +321,8 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 49.637590423313, 
-      "lon": 5.837020409242, 
+      "lat": 49.637605914587, 
+      "lon": 5.837054610082, 
       "municipality": "Messancy", 
       "pcode": "6780", 
       "source": "7742316", 
@@ -337,6 +365,11 @@
       "street": "Rue Saint-Nicolas"
     }, 
     {
+      "busnrs": [
+        "/1", 
+        "/2", 
+        "0/1"
+      ], 
       "hnrlbls": [
         "47A"
       ], 
@@ -361,6 +394,13 @@
       "street": "Rue Saint-Nicolas"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "1/1", 
+        "1/2", 
+        "2/1", 
+        "2/2"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -437,8 +477,20 @@
         "57"
       ], 
       "housenumber": "57", 
-      "lat": 49.638083160501, 
-      "lon": 5.838746182429, 
+      "lat": 49.638099351279, 
+      "lon": 5.838819213546, 
+      "municipality": "Messancy", 
+      "pcode": "6780", 
+      "source": "7742316", 
+      "street": "Rue Saint-Nicolas"
+    }, 
+    {
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 49.634980959805, 
+      "lon": 5.833326792877, 
       "municipality": "Messancy", 
       "pcode": "6780", 
       "source": "7742316", 

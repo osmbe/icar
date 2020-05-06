@@ -109,6 +109,10 @@
       "street": "Rue de Fraire"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "290001"
       ], 
@@ -137,6 +141,18 @@
         "31"
       ], 
       "housenumber": "31", 
+      "lat": 50.253403660212, 
+      "lon": 4.440286575066, 
+      "municipality": "Walcourt", 
+      "pcode": "5650", 
+      "source": "7757846", 
+      "street": "Rue de Fraire"
+    }, 
+    {
+      "hnrlbls": [
+        "33"
+      ], 
+      "housenumber": "33", 
       "lat": 50.253399964405, 
       "lon": 4.440355434741, 
       "municipality": "Walcourt", 
@@ -161,8 +177,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.254071639645, 
-      "lon": 4.438349760113, 
+      "lat": 50.254069733499, 
+      "lon": 4.438931330806, 
       "municipality": "Walcourt", 
       "pcode": "5650", 
       "source": "7757846", 

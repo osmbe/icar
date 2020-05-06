@@ -229,6 +229,9 @@
       "street": "Rue de Goyet"
     }, 
     {
+      "busnrs": [
+        "0030"
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -485,8 +488,8 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 50.478253152229, 
-      "lon": 4.69291023822, 
+      "lat": 50.478928261283, 
+      "lon": 4.694491524161, 
       "municipality": "Jemeppe-sur-Sambre", 
       "pcode": "5190", 
       "source": "7755769", 
@@ -505,6 +508,14 @@
       "street": "Rue de Goyet"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006"
+      ], 
       "hnrlbls": [
         "44"
       ], 

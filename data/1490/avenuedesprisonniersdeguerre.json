@@ -85,6 +85,10 @@
       "street": "Avenue des Prisonniers de Guerre"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "A000"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -103,6 +107,18 @@
       "housenumber": "22", 
       "lat": 50.642958009575, 
       "lon": 4.564907407078, 
+      "municipality": "Court-Saint-Etienne", 
+      "pcode": "1490", 
+      "source": "7701225", 
+      "street": "Avenue des Prisonniers de Guerre"
+    }, 
+    {
+      "hnrlbls": [
+        "23"
+      ], 
+      "housenumber": "23", 
+      "lat": 50.643440688792, 
+      "lon": 4.563348144861, 
       "municipality": "Court-Saint-Etienne", 
       "pcode": "1490", 
       "source": "7701225", 
@@ -181,6 +197,11 @@
       "street": "Avenue des Prisonniers de Guerre"
     }, 
     {
+      "busnrs": [
+        "3A000", 
+        "A000", 
+        "B000"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -217,12 +238,28 @@
       "street": "Avenue des Prisonniers de Guerre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "1001"
+      ], 
       "hnrlbls": [
         "32"
       ], 
       "housenumber": "32", 
       "lat": 50.64332964471, 
       "lon": 4.564132845951, 
+      "municipality": "Court-Saint-Etienne", 
+      "pcode": "1490", 
+      "source": "7701225", 
+      "street": "Avenue des Prisonniers de Guerre"
+    }, 
+    {
+      "hnrlbls": [
+        "33"
+      ], 
+      "housenumber": "33", 
+      "lat": 50.644022729418, 
+      "lon": 4.562524077815, 
       "municipality": "Court-Saint-Etienne", 
       "pcode": "1490", 
       "source": "7701225", 
@@ -245,8 +282,8 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 50.643550580135, 
-      "lon": 4.565447698029, 
+      "lat": 50.643911915096, 
+      "lon": 4.56439063168, 
       "municipality": "Court-Saint-Etienne", 
       "pcode": "1490", 
       "source": "7701225", 

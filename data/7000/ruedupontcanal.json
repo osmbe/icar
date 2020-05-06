@@ -1,18 +1,236 @@
 {
   "addresses": [
     {
-      "hnrlbls": [
-        "14"
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "1-1", 
+        "1-2", 
+        "2-2", 
+        "3-2", 
+        "4-1", 
+        "4-2"
       ], 
-      "housenumber": "14", 
-      "lat": 50.455196135681, 
-      "lon": 3.92592966342, 
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.455527188578, 
+      "lon": 3.927516245591, 
       "municipality": "Mons", 
       "pcode": "7000", 
       "source": "7713952", 
       "street": "Rue du Pont Canal"
     }, 
     {
+      "busnrs": [
+        "0-2", 
+        "1-1", 
+        "1-2", 
+        "1-3", 
+        "2-1", 
+        "2-2", 
+        "2-3", 
+        "3-1", 
+        "3-2", 
+        "3-3"
+      ], 
+      "hnrlbls": [
+        "10"
+      ], 
+      "housenumber": "10", 
+      "lat": 50.455223605395, 
+      "lon": 3.926399435531, 
+      "municipality": "Mons", 
+      "pcode": "7000", 
+      "source": "7713952", 
+      "street": "Rue du Pont Canal"
+    }, 
+    {
+      "busnrs": [
+        "0-2", 
+        "1-1", 
+        "1-2", 
+        "2-1", 
+        "2-3", 
+        "3-2", 
+        "4-1"
+      ], 
+      "hnrlbls": [
+        "11"
+      ], 
+      "housenumber": "11", 
+      "lat": 50.455515209134, 
+      "lon": 3.926292141221, 
+      "municipality": "Mons", 
+      "pcode": "7000", 
+      "source": "7713952", 
+      "street": "Rue du Pont Canal"
+    }, 
+    {
+      "busnrs": [
+        "0-1", 
+        "0-3", 
+        "1-1", 
+        "1-2", 
+        "1-3", 
+        "2-3"
+      ], 
+      "hnrlbls": [
+        "12"
+      ], 
+      "housenumber": "12", 
+      "lat": 50.455219492779, 
+      "lon": 3.926163126113, 
+      "municipality": "Mons", 
+      "pcode": "7000", 
+      "source": "7713952", 
+      "street": "Rue du Pont Canal"
+    }, 
+    {
+      "busnrs": [
+        "1-1", 
+        "2-1", 
+        "2-2", 
+        "2-3"
+      ], 
+      "hnrlbls": [
+        "14"
+      ], 
+      "housenumber": "14", 
+      "lat": 50.455179016147, 
+      "lon": 3.925936537539, 
+      "municipality": "Mons", 
+      "pcode": "7000", 
+      "source": "7713952", 
+      "street": "Rue du Pont Canal"
+    }, 
+    {
+      "busnrs": [
+        "0-1", 
+        "0-3", 
+        "1-1", 
+        "1-2", 
+        "2-1", 
+        "2-2", 
+        "2-3", 
+        "3-2"
+      ], 
+      "hnrlbls": [
+        "16"
+      ], 
+      "housenumber": "16", 
+      "lat": 50.455086508128, 
+      "lon": 3.925793245726, 
+      "municipality": "Mons", 
+      "pcode": "7000", 
+      "source": "7713952", 
+      "street": "Rue du Pont Canal"
+    }, 
+    {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "0-3", 
+        "1-1", 
+        "1-2", 
+        "1-3", 
+        "2-1", 
+        "2-2", 
+        "2-3", 
+        "3-1", 
+        "3-2"
+      ], 
+      "hnrlbls": [
+        "18"
+      ], 
+      "housenumber": "18", 
+      "lat": 50.454970284534, 
+      "lon": 3.925589346152, 
+      "municipality": "Mons", 
+      "pcode": "7000", 
+      "source": "7713952", 
+      "street": "Rue du Pont Canal"
+    }, 
+    {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "1-1", 
+        "1-3", 
+        "2-2"
+      ], 
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.455222232836, 
+      "lon": 3.927356279746, 
+      "municipality": "Mons", 
+      "pcode": "7000", 
+      "source": "7713952", 
+      "street": "Rue du Pont Canal"
+    }, 
+    {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "1-2", 
+        "1-3", 
+        "2-1", 
+        "2-2", 
+        "2-3", 
+        "3-1", 
+        "3-2", 
+        "3-3"
+      ], 
+      "hnrlbls": [
+        "20"
+      ], 
+      "housenumber": "20", 
+      "lat": 50.454863472403, 
+      "lon": 3.925431438089, 
+      "municipality": "Mons", 
+      "pcode": "7000", 
+      "source": "7713952", 
+      "street": "Rue du Pont Canal"
+    }, 
+    {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "0-3", 
+        "1-1", 
+        "1-2", 
+        "1-3", 
+        "3-2"
+      ], 
+      "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 50.455525858938, 
+      "lon": 3.92726782741, 
+      "municipality": "Mons", 
+      "pcode": "7000", 
+      "source": "7713952", 
+      "street": "Rue du Pont Canal"
+    }, 
+    {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "0-3", 
+        "1-1", 
+        "1-2", 
+        "1-3", 
+        "2-1", 
+        "2-2", 
+        "2-3", 
+        "3-1", 
+        "3-2", 
+        "3-3"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -25,12 +243,104 @@
       "street": "Rue du Pont Canal"
     }, 
     {
+      "busnrs": [
+        "1-1", 
+        "1-2", 
+        "3-2", 
+        "4-2"
+      ], 
+      "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 50.455540667046, 
+      "lon": 3.927022607885, 
+      "municipality": "Mons", 
+      "pcode": "7000", 
+      "source": "7713952", 
+      "street": "Rue du Pont Canal"
+    }, 
+    {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "0-3", 
+        "1-1", 
+        "1-2", 
+        "2-1", 
+        "2-2", 
+        "2-3"
+      ], 
       "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.455231014419, 
-      "lon": 3.92684592388, 
+      "lat": 50.455221376186, 
+      "lon": 3.926847692203, 
+      "municipality": "Mons", 
+      "pcode": "7000", 
+      "source": "7713952", 
+      "street": "Rue du Pont Canal"
+    }, 
+    {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "0-3", 
+        "1-2", 
+        "2-1", 
+        "2-2", 
+        "2-3", 
+        "3-2", 
+        "4-2"
+      ], 
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 50.455539547496, 
+      "lon": 3.926775339623, 
+      "municipality": "Mons", 
+      "pcode": "7000", 
+      "source": "7713952", 
+      "street": "Rue du Pont Canal"
+    }, 
+    {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "1-3", 
+        "2-1", 
+        "2-2", 
+        "2-3", 
+        "3-1"
+      ], 
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 50.455219040866, 
+      "lon": 3.926608507505, 
+      "municipality": "Mons", 
+      "pcode": "7000", 
+      "source": "7713952", 
+      "street": "Rue du Pont Canal"
+    }, 
+    {
+      "busnrs": [
+        "0-2", 
+        "1-1", 
+        "1-2", 
+        "2-1", 
+        "2-2", 
+        "4-1"
+      ], 
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.455518270228, 
+      "lon": 3.926533825904, 
       "municipality": "Mons", 
       "pcode": "7000", 
       "source": "7713952", 

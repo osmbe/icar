@@ -4,7 +4,7 @@
       "b": 50.115265962805, 
       "l": 5.561549625606, 
       "name": "Beaulieu", 
-      "numOfAddr": 13, 
+      "numOfAddr": 14, 
       "r": 5.571764090904, 
       "sanName": "beaulieu", 
       "t": 50.12031823859
@@ -13,8 +13,8 @@
       "b": 50.112111991986, 
       "l": 5.522882723858, 
       "name": "Belle-Vue", 
-      "numOfAddr": 9, 
-      "r": 5.529991374671, 
+      "numOfAddr": 12, 
+      "r": 5.530388288847, 
       "sanName": "bellevue", 
       "t": 50.11924404792
     }, 
@@ -22,19 +22,28 @@
       "b": 50.102212514191, 
       "l": 5.5707432678, 
       "name": "Cens", 
-      "numOfAddr": 33, 
+      "numOfAddr": 35, 
       "r": 5.576307423752, 
       "sanName": "cens", 
       "t": 50.107333683988
     }, 
     {
       "b": 50.103455558202, 
-      "l": 5.575567951694, 
+      "l": 5.575593164989, 
       "name": "Chemin de Mousny", 
       "numOfAddr": 11, 
       "r": 5.579038585821, 
       "sanName": "chemindemousny", 
       "t": 50.104988791631
+    }, 
+    {
+      "b": 50.100053793458, 
+      "l": 5.55059592173, 
+      "name": "Chemin des Fagnes", 
+      "numOfAddr": 1, 
+      "r": 5.55059592173, 
+      "sanName": "chemindesfagnes", 
+      "t": 50.100053793458
     }, 
     {
       "b": 50.106065579964, 
@@ -58,7 +67,7 @@
       "b": 50.112561258415, 
       "l": 5.547571628037, 
       "name": "Erneuville", 
-      "numOfAddr": 26, 
+      "numOfAddr": 32, 
       "r": 5.555371574074, 
       "sanName": "erneuville", 
       "t": 50.114815499017
@@ -76,8 +85,8 @@
       "b": 50.106262271071, 
       "l": 5.549498848724, 
       "name": "Grand'Garde", 
-      "numOfAddr": 11, 
-      "r": 5.56011252074, 
+      "numOfAddr": 12, 
+      "r": 5.560107113862, 
       "sanName": "grandgarde", 
       "t": 50.11273751016
     }, 
@@ -91,31 +100,19 @@
       "t": 50.117325657272
     }, 
     {
-      "b": 50.1287293576, 
-      "l": 5.506650919346, 
-      "name": "Moulin de Grainchamps", 
-      "numOfAddr": 1, 
-      "r": 5.506650919346, 
-      "sanName": "moulindegrainchamps", 
-      "t": 50.1287293576
-    }, 
-    {
       "b": 50.135758889707, 
       "l": 5.493433978923, 
       "name": "Route de Beausaint", 
       "numOfAddr": 1, 
-      "otherPCs": [
-        "6971"
-      ], 
       "r": 5.493433978923, 
       "sanName": "routedebeausaint", 
       "t": 50.135758889707
     }, 
     {
-      "b": 50.119296841575, 
+      "b": 50.119318972504, 
       "l": 5.567993349753, 
       "name": "Route de Hives", 
-      "numOfAddr": 15, 
+      "numOfAddr": 16, 
       "r": 5.570648650085, 
       "sanName": "routedehives", 
       "t": 50.12437450384
@@ -142,7 +139,7 @@
       "b": 50.098452972723, 
       "l": 5.549930626464, 
       "name": "Rue de la Chapelle", 
-      "numOfAddr": 8, 
+      "numOfAddr": 9, 
       "r": 5.55263685338, 
       "sanName": "ruedelachapelle", 
       "t": 50.099972855072
@@ -178,16 +175,16 @@
       "b": 50.09755552219, 
       "l": 5.565269275391, 
       "name": "Tresfontaines", 
-      "numOfAddr": 26, 
+      "numOfAddr": 27, 
       "r": 5.57034170645, 
       "sanName": "tresfontaines", 
       "t": 50.102545383978
     }, 
     {
-      "b": 50.092756853217, 
-      "l": 5.549641038428, 
+      "b": 50.092793058089, 
+      "l": 5.549677527851, 
       "name": "Wembay", 
-      "numOfAddr": 7, 
+      "numOfAddr": 9, 
       "r": 5.554489845459, 
       "sanName": "wembay", 
       "t": 50.098548287697

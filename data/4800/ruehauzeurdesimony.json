@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "2\u00e9t.", 
+        "rez."
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -37,6 +42,11 @@
       "street": "Rue Hauzeur de Simony"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "2\u00e9t.", 
+        "rez."
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -74,11 +84,38 @@
     }, 
     {
       "hnrlbls": [
+        "20"
+      ], 
+      "housenumber": "20", 
+      "lat": 50.581859934752, 
+      "lon": 5.860129324677, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7739013", 
+      "street": "Rue Hauzeur de Simony"
+    }, 
+    {
+      "busnrs": [
+        "2\u00e9t."
+      ], 
+      "hnrlbls": [
         "21"
       ], 
       "housenumber": "21", 
       "lat": 50.582216862629, 
       "lon": 5.861319656847, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7739013", 
+      "street": "Rue Hauzeur de Simony"
+    }, 
+    {
+      "hnrlbls": [
+        "23"
+      ], 
+      "housenumber": "23", 
+      "lat": 50.582167398204, 
+      "lon": 5.861288131459, 
       "municipality": "Verviers", 
       "pcode": "4800", 
       "source": "7739013", 
@@ -133,6 +170,11 @@
       "street": "Rue Hauzeur de Simony"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "102", 
+        "203"
+      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -217,6 +259,11 @@
       "street": "Rue Hauzeur de Simony"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "bte3", 
+        "bte4"
+      ], 
       "hnrlbls": [
         "47"
       ], 
@@ -271,6 +318,22 @@
       "housenumber": "57", 
       "lat": 50.581377970355, 
       "lon": 5.860521305534, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7739013", 
+      "street": "Rue Hauzeur de Simony"
+    }, 
+    {
+      "busnrs": [
+        "1+2\u00e9", 
+        "Rez."
+      ], 
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 50.582510397081, 
+      "lon": 5.861601655851, 
       "municipality": "Verviers", 
       "pcode": "4800", 
       "source": "7739013", 

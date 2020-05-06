@@ -25,12 +25,15 @@
       "street": "Rue des Barrages"
     }, 
     {
+      "busnrs": [
+        "BTE1"
+      ], 
       "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.246972487123, 
-      "lon": 4.425247034796, 
+      "lat": 50.270435700478, 
+      "lon": 4.463730817257, 
       "municipality": "Walcourt", 
       "pcode": "5650", 
       "source": "7757925", 
@@ -49,6 +52,9 @@
       "street": "Rue des Barrages"
     }, 
     {
+      "busnrs": [
+        "BTE1"
+      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -229,10 +235,13 @@
       "street": "Rue des Barrages"
     }, 
     {
-      "hnrlbls": [
-        "70000A"
+      "busnrs": [
+        "000A"
       ], 
-      "housenumber": "70000A", 
+      "hnrlbls": [
+        "70A"
+      ], 
+      "housenumber": "70A", 
       "lat": 50.267743331109, 
       "lon": 4.44630034333, 
       "municipality": "Walcourt", 

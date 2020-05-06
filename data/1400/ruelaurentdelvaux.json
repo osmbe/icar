@@ -1,6 +1,24 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0003", 
+        "Bt01", 
+        "Bt02", 
+        "Bt03"
+      ], 
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.599632671945, 
+      "lon": 4.329714263474, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703149", 
+      "street": "Rue Laurent Delvaux"
+    }, 
+    {
       "hnrlbls": [
         "10"
       ], 
@@ -49,6 +67,10 @@
       "street": "Rue Laurent Delvaux"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -97,6 +119,11 @@
       "street": "Rue Laurent Delvaux"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "Bt02", 
+        "RDCH"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -133,6 +160,11 @@
       "street": "Rue Laurent Delvaux"
     }, 
     {
+      "busnrs": [
+        "Bt02", 
+        "Bt03", 
+        "RDCH"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -157,6 +189,12 @@
       "street": "Rue Laurent Delvaux"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt04"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -337,6 +375,22 @@
       "street": "Rue Laurent Delvaux"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02"
+      ], 
+      "hnrlbls": [
+        "39"
+      ], 
+      "housenumber": "39", 
+      "lat": 50.601058163673, 
+      "lon": 4.328749047898, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703149", 
+      "street": "Rue Laurent Delvaux"
+    }, 
+    {
       "hnrlbls": [
         "4"
       ], 
@@ -421,12 +475,33 @@
       "street": "Rue Laurent Delvaux"
     }, 
     {
+      "busnrs": [
+        "A002", 
+        "ABt1"
+      ], 
       "hnrlbls": [
         "46"
       ], 
       "housenumber": "46", 
       "lat": 50.601554164195, 
       "lon": 4.328602787633, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703149", 
+      "street": "Rue Laurent Delvaux"
+    }, 
+    {
+      "busnrs": [
+        "002", 
+        "003", 
+        "Bt1"
+      ], 
+      "hnrlbls": [
+        "46A"
+      ], 
+      "housenumber": "46A", 
+      "lat": 50.60161090215, 
+      "lon": 4.328578869245, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703149", 
@@ -485,8 +560,8 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 50.601378622322, 
-      "lon": 4.328463358956, 
+      "lat": 50.601358648046, 
+      "lon": 4.328481315228, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703149", 
@@ -497,8 +572,8 @@
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 50.601437548168, 
-      "lon": 4.328398995536, 
+      "lat": 50.601399980428, 
+      "lon": 4.328440885545, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703149", 
@@ -509,8 +584,8 @@
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 50.601472758379, 
-      "lon": 4.328361434127, 
+      "lat": 50.601456115809, 
+      "lon": 4.328384619819, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703149", 
@@ -541,6 +616,11 @@
       "street": "Rue Laurent Delvaux"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "Bt01", 
+        "Bt02"
+      ], 
       "hnrlbls": [
         "7"
       ], 

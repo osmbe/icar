@@ -25,6 +25,11 @@
       "street": "Rue de Wavre"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2", 
+        "Bte3"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -37,6 +42,10 @@
       "street": "Rue de Wavre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -109,6 +118,18 @@
       "street": "Rue de Wavre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "000B", 
+        "A01G", 
+        "A11G", 
+        "A21D", 
+        "A21G", 
+        "AO1D", 
+        "RDC"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -133,6 +154,11 @@
       "street": "Rue de Wavre"
     }, 
     {
+      "busnrs": [
+        "0.1.", 
+        "1.1.", 
+        "2.1."
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -361,6 +387,15 @@
       "street": "Rue de Wavre"
     }, 
     {
+      "busnrs": [
+        "0.1.", 
+        "0.2.", 
+        "1.1.", 
+        "1.2.", 
+        "2.1.", 
+        "2.2.", 
+        "3.1."
+      ], 
       "hnrlbls": [
         "38"
       ], 
@@ -457,6 +492,9 @@
       "street": "Rue de Wavre"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "48"
       ], 
@@ -511,6 +549,66 @@
       "housenumber": "51", 
       "lat": 50.668841168774, 
       "lon": 5.066218984414, 
+      "municipality": "Hannut", 
+      "pcode": "4280", 
+      "source": "7740516", 
+      "street": "Rue de Wavre"
+    }, 
+    {
+      "hnrlbls": [
+        "52A"
+      ], 
+      "housenumber": "52A", 
+      "lat": 50.6692081677, 
+      "lon": 5.067379171803, 
+      "municipality": "Hannut", 
+      "pcode": "4280", 
+      "source": "7740516", 
+      "street": "Rue de Wavre"
+    }, 
+    {
+      "hnrlbls": [
+        "52B"
+      ], 
+      "housenumber": "52B", 
+      "lat": 50.669204746126, 
+      "lon": 5.067235392148, 
+      "municipality": "Hannut", 
+      "pcode": "4280", 
+      "source": "7740516", 
+      "street": "Rue de Wavre"
+    }, 
+    {
+      "hnrlbls": [
+        "52C"
+      ], 
+      "housenumber": "52C", 
+      "lat": 50.66919618119, 
+      "lon": 5.066997212808, 
+      "municipality": "Hannut", 
+      "pcode": "4280", 
+      "source": "7740516", 
+      "street": "Rue de Wavre"
+    }, 
+    {
+      "hnrlbls": [
+        "52D"
+      ], 
+      "housenumber": "52D", 
+      "lat": 50.669197054277, 
+      "lon": 5.066851251768, 
+      "municipality": "Hannut", 
+      "pcode": "4280", 
+      "source": "7740516", 
+      "street": "Rue de Wavre"
+    }, 
+    {
+      "hnrlbls": [
+        "52E"
+      ], 
+      "housenumber": "52E", 
+      "lat": 50.669166987841, 
+      "lon": 5.066628475287, 
       "municipality": "Hannut", 
       "pcode": "4280", 
       "source": "7740516", 

@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "000A", 
+        "000B"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -53,8 +57,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.678588539839, 
-      "lon": 5.019568579437, 
+      "lat": 50.678227027801, 
+      "lon": 5.020389516776, 
       "municipality": "Hannut", 
       "pcode": "4280", 
       "source": "7740657", 
@@ -97,6 +101,9 @@
       "street": "Rue Sainte Apolline"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "7"
       ], 

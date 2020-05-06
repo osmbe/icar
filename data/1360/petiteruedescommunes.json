@@ -25,12 +25,16 @@
       "street": "Petite Rue des Communes"
     }, 
     {
+      "busnrs": [
+        "Abt2", 
+        "Abt3"
+      ], 
       "hnrlbls": [
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.633680423304, 
-      "lon": 4.784718132782, 
+      "lat": 50.633581920226, 
+      "lon": 4.784652157106, 
       "municipality": "Perwez", 
       "pcode": "1360", 
       "source": "7703223", 
@@ -49,6 +53,9 @@
       "street": "Petite Rue des Communes"
     }, 
     {
+      "busnrs": [
+        "bte2"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -103,6 +110,18 @@
       "housenumber": "6", 
       "lat": 50.63434899836, 
       "lon": 4.784960799122, 
+      "municipality": "Perwez", 
+      "pcode": "1360", 
+      "source": "7703223", 
+      "street": "Petite Rue des Communes"
+    }, 
+    {
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 50.633895614662, 
+      "lon": 4.785163464223, 
       "municipality": "Perwez", 
       "pcode": "1360", 
       "source": "7703223", 

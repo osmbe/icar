@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -31,6 +34,30 @@
       "housenumber": "11", 
       "lat": 50.332632064043, 
       "lon": 4.353123536619, 
+      "municipality": "Thuin", 
+      "pcode": "6534", 
+      "source": "7721038", 
+      "street": "Rue de Marbaix"
+    }, 
+    {
+      "hnrlbls": [
+        "11A"
+      ], 
+      "housenumber": "11A", 
+      "lat": 50.332601273868, 
+      "lon": 4.353329355648, 
+      "municipality": "Thuin", 
+      "pcode": "6534", 
+      "source": "7721038", 
+      "street": "Rue de Marbaix"
+    }, 
+    {
+      "hnrlbls": [
+        "11C"
+      ], 
+      "housenumber": "11C", 
+      "lat": 50.332435406151, 
+      "lon": 4.353865804817, 
       "municipality": "Thuin", 
       "pcode": "6534", 
       "source": "7721038", 
@@ -161,8 +188,8 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 50.332649569619, 
-      "lon": 4.355074429505, 
+      "lat": 50.332624038582, 
+      "lon": 4.355106545052, 
       "municipality": "Thuin", 
       "pcode": "6534", 
       "source": "7721038", 

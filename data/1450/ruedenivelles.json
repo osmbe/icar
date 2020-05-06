@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "000B"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -17,8 +20,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 50.576410654059, 
-      "lon": 4.633041899812, 
+      "lat": 50.576533946131, 
+      "lon": 4.6332201127, 
       "municipality": "Chastre", 
       "pcode": "1450", 
       "source": "7705276", 
@@ -61,6 +64,10 @@
       "street": "Rue de Nivelles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "5"
       ], 

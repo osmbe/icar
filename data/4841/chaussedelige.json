@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1.Et", 
+        "RC.D", 
+        "RC.G"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -122,6 +127,18 @@
     }, 
     {
       "hnrlbls": [
+        "19C"
+      ], 
+      "housenumber": "19C", 
+      "lat": 50.675977872235, 
+      "lon": 5.925458636069, 
+      "municipality": "Welkenraedt", 
+      "pcode": "4841", 
+      "source": "7739350", 
+      "street": "Chauss\u00e9e de Li\u00e8ge"
+    }, 
+    {
+      "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
@@ -193,6 +210,10 @@
       "street": "Chauss\u00e9e de Li\u00e8ge"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "24"
       ], 

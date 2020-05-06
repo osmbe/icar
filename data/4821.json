@@ -112,7 +112,7 @@
       "b": 50.613033781295, 
       "l": 5.887410610401, 
       "name": "Chemin de la Neuville", 
-      "numOfAddr": 64, 
+      "numOfAddr": 65, 
       "r": 5.900489230112, 
       "sanName": "chemindelaneuville", 
       "t": 50.614417187663
@@ -193,7 +193,7 @@
       "b": 50.607690132947, 
       "l": 5.877419960813, 
       "name": "Clos de Hombiet", 
-      "numOfAddr": 34, 
+      "numOfAddr": 35, 
       "r": 5.880690812725, 
       "sanName": "closdehombiet", 
       "t": 50.608918301223
@@ -202,7 +202,7 @@
       "b": 50.614915489687, 
       "l": 5.886187524618, 
       "name": "Clos de la Sauveni\u00e8re", 
-      "numOfAddr": 23, 
+      "numOfAddr": 24, 
       "r": 5.888854191953, 
       "sanName": "closdelasauvenire", 
       "t": 50.615933559671
@@ -229,7 +229,7 @@
       "b": 50.601598636521, 
       "l": 5.85320816015, 
       "name": "Impasse de la Limite", 
-      "numOfAddr": 2, 
+      "numOfAddr": 1, 
       "otherPCs": [
         "4820"
       ], 
@@ -250,7 +250,7 @@
       "b": 50.613921454809, 
       "l": 5.881941384051, 
       "name": "Place Communale", 
-      "numOfAddr": 7, 
+      "numOfAddr": 6, 
       "r": 5.882637154514, 
       "sanName": "placecommunale", 
       "t": 50.614459161889
@@ -286,7 +286,7 @@
       "b": 50.609244847575, 
       "l": 5.883560024587, 
       "name": "Route du Village", 
-      "numOfAddr": 65, 
+      "numOfAddr": 67, 
       "r": 5.887800406654, 
       "sanName": "routeduvillage", 
       "t": 50.613904934628
@@ -304,7 +304,7 @@
       "b": 50.598767946062, 
       "l": 5.866620409763, 
       "name": "Rue Albert Thomas", 
-      "numOfAddr": 42, 
+      "numOfAddr": 41, 
       "r": 5.870635457663, 
       "sanName": "ruealbertthomas", 
       "t": 50.601376162106
@@ -320,18 +320,18 @@
     }, 
     {
       "b": 50.598626539315, 
-      "l": 5.859126106441, 
+      "l": 5.859153759317, 
       "name": "Rue Cl\u00e9ment XIV", 
-      "numOfAddr": 83, 
+      "numOfAddr": 75, 
       "r": 5.862820211685, 
       "sanName": "rueclmentxiv", 
-      "t": 50.601724029401
+      "t": 50.601690778155
     }, 
     {
       "b": 50.608224320607, 
       "l": 5.860768477434, 
       "name": "Rue d'Andrimont", 
-      "numOfAddr": 86, 
+      "numOfAddr": 87, 
       "otherPCs": [
         "4820"
       ], 
@@ -353,6 +353,9 @@
       "l": 5.856130844644, 
       "name": "Rue de la Limite", 
       "numOfAddr": 12, 
+      "otherPCs": [
+        "4800"
+      ], 
       "r": 5.856470889861, 
       "sanName": "ruedelalimite", 
       "t": 50.597907753069
@@ -388,7 +391,7 @@
       "b": 50.597592371426, 
       "l": 5.85412289875, 
       "name": "Rue des Franchimontois", 
-      "numOfAddr": 97, 
+      "numOfAddr": 98, 
       "otherPCs": [
         "4820"
       ], 
@@ -418,7 +421,10 @@
       "b": 50.598201783329, 
       "l": 5.859559519916, 
       "name": "Rue de Verviers", 
-      "numOfAddr": 145, 
+      "numOfAddr": 146, 
+      "otherPCs": [
+        "4800"
+      ], 
       "r": 5.869986048953, 
       "sanName": "ruedeverviers", 
       "t": 50.604899945525
@@ -437,6 +443,9 @@
       "l": 5.867768375827, 
       "name": "Rue du Mamelon Vert", 
       "numOfAddr": 26, 
+      "otherPCs": [
+        "4800"
+      ], 
       "r": 5.870249857392, 
       "sanName": "ruedumamelonvert", 
       "t": 50.598144672863
@@ -445,7 +454,10 @@
       "b": 50.596785974169, 
       "l": 5.861625859369, 
       "name": "Rue du Paradis", 
-      "numOfAddr": 75, 
+      "numOfAddr": 74, 
+      "otherPCs": [
+        "4800"
+      ], 
       "r": 5.866049393756, 
       "sanName": "rueduparadis", 
       "t": 50.598936115116
@@ -464,6 +476,9 @@
       "l": 5.872589293536, 
       "name": "Rue du Travail", 
       "numOfAddr": 34, 
+      "otherPCs": [
+        "4800"
+      ], 
       "r": 5.876098731199, 
       "sanName": "ruedutravail", 
       "t": 50.604634417338
@@ -478,10 +493,10 @@
       "t": 50.599903072373
     }, 
     {
-      "b": 50.597778243596, 
+      "b": 50.597767868892, 
       "l": 5.860132807126, 
       "name": "Rue Fonds de Loup", 
-      "numOfAddr": 83, 
+      "numOfAddr": 82, 
       "r": 5.863741957616, 
       "sanName": "ruefondsdeloup", 
       "t": 50.599072853524
@@ -491,6 +506,9 @@
       "l": 5.860615858375, 
       "name": "Rue Haute", 
       "numOfAddr": 34, 
+      "otherPCs": [
+        "4800"
+      ], 
       "r": 5.862014329065, 
       "sanName": "ruehaute", 
       "t": 50.598063376448
@@ -533,12 +551,12 @@
     }, 
     {
       "b": 50.614934904856, 
-      "l": 5.881534091983, 
+      "l": 5.881532453261, 
       "name": "Ruelle des Juifs", 
       "numOfAddr": 7, 
       "r": 5.881984911164, 
       "sanName": "ruelledesjuifs", 
-      "t": 50.615349764237
+      "t": 50.615345444826
     }, 
     {
       "b": 50.603597336008, 
@@ -559,10 +577,10 @@
       "t": 50.601276704325
     }, 
     {
-      "b": 50.598828041836, 
-      "l": 5.861327540038, 
+      "b": 50.598727482807, 
+      "l": 5.860774745938, 
       "name": "Rue Michel Pire", 
-      "numOfAddr": 92, 
+      "numOfAddr": 94, 
       "r": 5.863578103194, 
       "sanName": "ruemichelpire", 
       "t": 50.601462429976
@@ -637,7 +655,7 @@
       "b": 50.60210322094, 
       "l": 5.861847549325, 
       "name": "Sur les Heids", 
-      "numOfAddr": 7, 
+      "numOfAddr": 6, 
       "r": 5.864832767583, 
       "sanName": "surlesheids", 
       "t": 50.602851977167
@@ -655,10 +673,10 @@
       "b": 50.613997765457, 
       "l": 5.885593934111, 
       "name": "Sur le Tombeux", 
-      "numOfAddr": 33, 
+      "numOfAddr": 34, 
       "r": 5.89284951231, 
       "sanName": "surletombeux", 
-      "t": 50.616409606644
+      "t": 50.616694266425
     }
   ]
 }

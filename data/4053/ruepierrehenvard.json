@@ -61,6 +61,10 @@
       "street": "Rue Pierre Henvard"
     }, 
     {
+      "busnrs": [
+        "A011", 
+        "A021"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -325,6 +329,11 @@
       "street": "Rue Pierre Henvard"
     }, 
     {
+      "busnrs": [
+        "0021", 
+        "0022", 
+        "0031"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -373,6 +382,10 @@
       "street": "Rue Pierre Henvard"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "0031"
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -397,6 +410,9 @@
       "street": "Rue Pierre Henvard"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -457,6 +473,12 @@
       "street": "Rue Pierre Henvard"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -517,6 +539,14 @@
       "street": "Rue Pierre Henvard"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0012"
+      ], 
       "hnrlbls": [
         "40"
       ], 
@@ -629,8 +659,8 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 50.593799583602, 
-      "lon": 5.602837421538, 
+      "lat": 50.59536567251, 
+      "lon": 5.599049730637, 
       "municipality": "Chaudfontaine", 
       "pcode": "4053", 
       "source": "7728229", 
@@ -757,12 +787,15 @@
       "street": "Rue Pierre Henvard"
     }, 
     {
+      "busnrs": [
+        "0012"
+      ], 
       "hnrlbls": [
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 50.594304587758, 
-      "lon": 5.597623451405, 
+      "lat": 50.594332374841, 
+      "lon": 5.596968092499, 
       "municipality": "Chaudfontaine", 
       "pcode": "4053", 
       "source": "7728229", 

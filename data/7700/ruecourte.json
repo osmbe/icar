@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A000"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -26,9 +29,9 @@
     }, 
     {
       "hnrlbls": [
-        "2A000"
+        "2A"
       ], 
-      "housenumber": "2A000", 
+      "housenumber": "2A", 
       "lat": 50.74277320984, 
       "lon": 3.236236178213, 
       "municipality": "Mouscron", 

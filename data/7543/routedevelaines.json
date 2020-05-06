@@ -73,6 +73,9 @@
       "street": "Route de Velaines"
     }, 
     {
+      "busnrs": [
+        "000B"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -229,6 +232,21 @@
       "street": "Route de Velaines"
     }, 
     {
+      "hnrlbls": [
+        "23A"
+      ], 
+      "housenumber": "23A", 
+      "lat": 50.64294190448, 
+      "lon": 3.426397915994, 
+      "municipality": "Tournai", 
+      "pcode": "7543", 
+      "source": "7723213", 
+      "street": "Route de Velaines"
+    }, 
+    {
+      "busnrs": [
+        "0Bis"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -709,6 +727,9 @@
       "street": "Route de Velaines"
     }, 
     {
+      "busnrs": [
+        "BIS0"
+      ], 
       "hnrlbls": [
         "59"
       ], 
@@ -821,8 +842,8 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.642355382541, 
-      "lon": 3.421892118731, 
+      "lat": 50.642496540568, 
+      "lon": 3.422028329183, 
       "municipality": "Tournai", 
       "pcode": "7543", 
       "source": "7723213", 

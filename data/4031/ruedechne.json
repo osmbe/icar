@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -109,6 +115,12 @@
       "street": "Rue de Ch\u00ean\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -133,6 +145,11 @@
       "street": "Rue de Ch\u00ean\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -145,6 +162,18 @@
       "street": "Rue de Ch\u00ean\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022", 
+        "0023"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -181,6 +210,16 @@
       "street": "Rue de Ch\u00ean\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022", 
+        "0023"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -205,6 +244,11 @@
       "street": "Rue de Ch\u00ean\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -259,6 +303,18 @@
       "housenumber": "34", 
       "lat": 50.610984844946, 
       "lon": 5.604991119532, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4031", 
+      "source": "7730307", 
+      "street": "Rue de Ch\u00ean\u00e9e"
+    }, 
+    {
+      "hnrlbls": [
+        "35"
+      ], 
+      "housenumber": "35", 
+      "lat": 50.610964377368, 
+      "lon": 5.60517039355, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4031", 
       "source": "7730307", 
@@ -373,6 +429,12 @@
       "street": "Rue de Ch\u00ean\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "46"
       ], 
@@ -385,6 +447,11 @@
       "street": "Rue de Ch\u00ean\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011"
+      ], 
       "hnrlbls": [
         "47"
       ], 
@@ -415,6 +482,30 @@
       "housenumber": "5", 
       "lat": 50.611880694645, 
       "lon": 5.601405337169, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4031", 
+      "source": "7730307", 
+      "street": "Rue de Ch\u00ean\u00e9e"
+    }, 
+    {
+      "hnrlbls": [
+        "53"
+      ], 
+      "housenumber": "53", 
+      "lat": 50.609139249916, 
+      "lon": 5.608226037566, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4031", 
+      "source": "7730307", 
+      "street": "Rue de Ch\u00ean\u00e9e"
+    }, 
+    {
+      "hnrlbls": [
+        "54"
+      ], 
+      "housenumber": "54", 
+      "lat": 50.606363758436, 
+      "lon": 5.609267644589, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4031", 
       "source": "7730307", 

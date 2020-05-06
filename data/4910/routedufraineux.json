@@ -157,6 +157,12 @@
       "street": "Route du Fraineux"
     }, 
     {
+      "busnrs": [
+        "34/1A", 
+        "34/1B", 
+        "34/RCA", 
+        "34RCB"
+      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -187,6 +193,22 @@
       "housenumber": "36", 
       "lat": 50.481165557257, 
       "lon": 5.791441228381, 
+      "municipality": "Theux", 
+      "pcode": "4910", 
+      "source": "7738427", 
+      "street": "Route du Fraineux"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "RC"
+      ], 
+      "hnrlbls": [
+        "38"
+      ], 
+      "housenumber": "38", 
+      "lat": 50.481194713773, 
+      "lon": 5.79131381311, 
       "municipality": "Theux", 
       "pcode": "4910", 
       "source": "7738427", 
@@ -241,6 +263,12 @@
       "street": "Route du Fraineux"
     }, 
     {
+      "busnrs": [
+        "46A1", 
+        "46A2", 
+        "46A3", 
+        "46A4"
+      ], 
       "hnrlbls": [
         "46"
       ], 

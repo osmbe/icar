@@ -13,6 +13,10 @@
       "street": "Chauss\u00e9e de Nivelles"
     }, 
     {
+      "busnrs": [
+        "C001", 
+        "D002"
+      ], 
       "hnrlbls": [
         "100"
       ], 
@@ -61,6 +65,10 @@
       "street": "Chauss\u00e9e de Nivelles"
     }, 
     {
+      "busnrs": [
+        "B001", 
+        "C003"
+      ], 
       "hnrlbls": [
         "106"
       ], 
@@ -73,6 +81,9 @@
       "street": "Chauss\u00e9e de Nivelles"
     }, 
     {
+      "busnrs": [
+        "0002"
+      ], 
       "hnrlbls": [
         "108"
       ], 
@@ -314,6 +325,25 @@
     }, 
     {
       "hnrlbls": [
+        "15"
+      ], 
+      "housenumber": "15", 
+      "lat": 50.687749482493, 
+      "lon": 4.40570243687, 
+      "municipality": "Braine-l'Alleud", 
+      "pcode": "1420", 
+      "source": "7700325", 
+      "street": "Chauss\u00e9e de Nivelles"
+    }, 
+    {
+      "busnrs": [
+        "A001", 
+        "A002", 
+        "B003", 
+        "B004", 
+        "C005"
+      ], 
+      "hnrlbls": [
         "150"
       ], 
       "housenumber": "150", 
@@ -349,6 +379,13 @@
       "street": "Chauss\u00e9e de Nivelles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005"
+      ], 
       "hnrlbls": [
         "213"
       ], 
@@ -497,8 +534,8 @@
         "346"
       ], 
       "housenumber": "346", 
-      "lat": 50.661829517259, 
-      "lon": 4.380939160737, 
+      "lat": 50.661946849713, 
+      "lon": 4.381217782152, 
       "municipality": "Braine-l'Alleud", 
       "pcode": "1420", 
       "source": "7700325", 
@@ -589,6 +626,9 @@
       "street": "Chauss\u00e9e de Nivelles"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "47"
       ], 

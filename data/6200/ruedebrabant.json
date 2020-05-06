@@ -841,6 +841,10 @@
       "street": "Rue de Brabant"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "000B"
+      ], 
       "hnrlbls": [
         "253"
       ], 
@@ -925,6 +929,9 @@
       "street": "Rue de Brabant"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "261"
       ], 
@@ -1141,6 +1148,9 @@
       "street": "Rue de Brabant"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -1169,8 +1179,8 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 50.441634022705, 
-      "lon": 4.516557764071, 
+      "lat": 50.441459402119, 
+      "lon": 4.516727927162, 
       "municipality": "Ch\u00e2telet", 
       "pcode": "6200", 
       "source": "7709158", 

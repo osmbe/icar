@@ -73,6 +73,10 @@
       "street": "Rue Bidaut"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "Rez."
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -133,6 +137,10 @@
       "street": "Rue Bidaut"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "rez."
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -169,6 +177,9 @@
       "street": "Rue Bidaut"
     }, 
     {
+      "busnrs": [
+        "1+2\u00e9"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -193,6 +204,12 @@
       "street": "Rue Bidaut"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "2\u00e9t.", 
+        "3\u00e9t.", 
+        "rez."
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -205,6 +222,10 @@
       "street": "Rue Bidaut"
     }, 
     {
+      "busnrs": [
+        "2\u00e9t.", 
+        "rez."
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -283,6 +304,18 @@
       "housenumber": "39", 
       "lat": 50.588003791553, 
       "lon": 5.862649680636, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738746", 
+      "street": "Rue Bidaut"
+    }, 
+    {
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.586959505885, 
+      "lon": 5.862754800009, 
       "municipality": "Verviers", 
       "pcode": "4800", 
       "source": "7738746", 
@@ -445,6 +478,10 @@
       "street": "Rue Bidaut"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "102"
+      ], 
       "hnrlbls": [
         "63"
       ], 
@@ -505,12 +542,27 @@
       "street": "Rue Bidaut"
     }, 
     {
+      "busnrs": [
+        "Rez."
+      ], 
       "hnrlbls": [
         "71"
       ], 
       "housenumber": "71", 
       "lat": 50.587261503731, 
       "lon": 5.862946320342, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738746", 
+      "street": "Rue Bidaut"
+    }, 
+    {
+      "hnrlbls": [
+        "73"
+      ], 
+      "housenumber": "73", 
+      "lat": 50.587250525502, 
+      "lon": 5.862926190685, 
       "municipality": "Verviers", 
       "pcode": "4800", 
       "source": "7738746", 
@@ -529,6 +581,11 @@
       "street": "Rue Bidaut"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "2\u00e9t.", 
+        "3\u00e9t."
+      ], 
       "hnrlbls": [
         "77"
       ], 
@@ -553,6 +610,9 @@
       "street": "Rue Bidaut"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t."
+      ], 
       "hnrlbls": [
         "9"
       ], 

@@ -253,6 +253,11 @@
       "street": "Rue du Petit Pav\u00e9"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "02", 
+        "11"
+      ], 
       "hnrlbls": [
         "33"
       ], 
@@ -307,18 +312,6 @@
       "housenumber": "43", 
       "lat": 50.555839569019, 
       "lon": 3.424466547657, 
-      "municipality": "Antoing", 
-      "pcode": "7641", 
-      "source": "7722089", 
-      "street": "Rue du Petit Pav\u00e9"
-    }, 
-    {
-      "hnrlbls": [
-        "45"
-      ], 
-      "housenumber": "45", 
-      "lat": 50.555879788817, 
-      "lon": 3.424381503761, 
       "municipality": "Antoing", 
       "pcode": "7641", 
       "source": "7722089", 
@@ -505,6 +498,9 @@
       "street": "Rue du Petit Pav\u00e9"
     }, 
     {
+      "busnrs": [
+        "BIS0"
+      ], 
       "hnrlbls": [
         "9"
       ], 

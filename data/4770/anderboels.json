@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1/1", 
+        "P/1"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -19,6 +23,18 @@
       "housenumber": "5", 
       "lat": 50.319686426099, 
       "lon": 6.171730190764, 
+      "municipality": "Amel", 
+      "pcode": "4770", 
+      "source": "7734870", 
+      "street": "An der Boels"
+    }, 
+    {
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.318990324764, 
+      "lon": 6.171799933991, 
       "municipality": "Amel", 
       "pcode": "4770", 
       "source": "7734870", 

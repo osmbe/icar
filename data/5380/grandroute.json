@@ -73,6 +73,9 @@
       "street": "Grand-Route"
     }, 
     {
+      "busnrs": [
+        "bte1"
+      ], 
       "hnrlbls": [
         "111"
       ], 
@@ -125,8 +128,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.528168510368, 
-      "lon": 5.007728544957, 
+      "lat": 50.527750500321, 
+      "lon": 5.007858902015, 
       "municipality": "Fernelmont", 
       "pcode": "5380", 
       "source": "7755544", 
@@ -433,6 +436,11 @@
       "street": "Grand-Route"
     }, 
     {
+      "busnrs": [
+        "bte2", 
+        "bte3", 
+        "bte4"
+      ], 
       "hnrlbls": [
         "63"
       ], 

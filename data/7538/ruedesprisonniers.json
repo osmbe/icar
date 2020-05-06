@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "00A1"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -17,8 +20,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.568511823844, 
-      "lon": 3.501240157188, 
+      "lat": 50.568408891231, 
+      "lon": 3.501092928972, 
       "municipality": "Tournai", 
       "pcode": "7538", 
       "source": "7723565", 
@@ -85,6 +88,9 @@
       "street": "Rue des Prisonniers"
     }, 
     {
+      "busnrs": [
+        "000B"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -265,6 +271,9 @@
       "street": "Rue des Prisonniers"
     }, 
     {
+      "busnrs": [
+        "000F"
+      ], 
       "hnrlbls": [
         "32"
       ], 
@@ -307,6 +316,30 @@
       "housenumber": "4", 
       "lat": 50.568252996504, 
       "lon": 3.500843281938, 
+      "municipality": "Tournai", 
+      "pcode": "7538", 
+      "source": "7723565", 
+      "street": "Rue des Prisonniers"
+    }, 
+    {
+      "hnrlbls": [
+        "42"
+      ], 
+      "housenumber": "42", 
+      "lat": 50.568761373724, 
+      "lon": 3.505674082256, 
+      "municipality": "Tournai", 
+      "pcode": "7538", 
+      "source": "7723565", 
+      "street": "Rue des Prisonniers"
+    }, 
+    {
+      "hnrlbls": [
+        "48"
+      ], 
+      "housenumber": "48", 
+      "lat": 50.568706001932, 
+      "lon": 3.506035154123, 
       "municipality": "Tournai", 
       "pcode": "7538", 
       "source": "7723565", 

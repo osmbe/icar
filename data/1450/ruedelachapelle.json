@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0", 
+        "A", 
+        "B", 
+        "C"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -37,6 +43,14 @@
       "street": "Rue de la Chapelle"
     }, 
     {
+      "busnrs": [
+        "0", 
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -49,6 +63,10 @@
       "street": "Rue de la Chapelle"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "000b"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -98,6 +116,18 @@
     }, 
     {
       "hnrlbls": [
+        "33"
+      ], 
+      "housenumber": "33", 
+      "lat": 50.608917318073, 
+      "lon": 4.635352586821, 
+      "municipality": "Chastre", 
+      "pcode": "1450", 
+      "source": "7705260", 
+      "street": "Rue de la Chapelle"
+    }, 
+    {
+      "hnrlbls": [
         "35"
       ], 
       "housenumber": "35", 
@@ -133,6 +163,9 @@
       "street": "Rue de la Chapelle"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "4"
       ], 

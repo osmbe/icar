@@ -37,6 +37,11 @@
       "street": "Rue Riverre"
     }, 
     {
+      "busnrs": [
+        "0003", 
+        "00B1", 
+        "2"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -79,6 +84,18 @@
       "housenumber": "14", 
       "lat": 50.441258132487, 
       "lon": 4.781298009058, 
+      "municipality": "Floreffe", 
+      "pcode": "5150", 
+      "source": "7752396", 
+      "street": "Rue Riverre"
+    }, 
+    {
+      "hnrlbls": [
+        "14A"
+      ], 
+      "housenumber": "14A", 
+      "lat": 50.44158849313, 
+      "lon": 4.780130499664, 
       "municipality": "Floreffe", 
       "pcode": "5150", 
       "source": "7752396", 
@@ -529,6 +546,10 @@
       "street": "Rue Riverre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "3"
+      ], 
       "hnrlbls": [
         "5"
       ], 

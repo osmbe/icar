@@ -193,6 +193,12 @@
       "street": "Rue d'Arsimont"
     }, 
     {
+      "busnrs": [
+        "A/01", 
+        "A/02", 
+        "A/03", 
+        "A/04"
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -206,9 +212,9 @@
     }, 
     {
       "hnrlbls": [
-        "29a"
+        "29A"
       ], 
-      "housenumber": "29a", 
+      "housenumber": "29A", 
       "lat": 50.436403201525, 
       "lon": 4.666412637401, 
       "municipality": "Jemeppe-sur-Sambre", 

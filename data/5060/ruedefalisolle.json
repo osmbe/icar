@@ -305,8 +305,8 @@
         "138"
       ], 
       "housenumber": "138", 
-      "lat": 50.44159776342, 
-      "lon": 4.63195945626, 
+      "lat": 50.441578184623, 
+      "lon": 4.631958488534, 
       "municipality": "Sambreville", 
       "pcode": "5060", 
       "source": "7755307", 
@@ -529,6 +529,10 @@
       "street": "Rue de Falisolle"
     }, 
     {
+      "busnrs": [
+        "A001", 
+        "A002"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -1021,6 +1025,14 @@
       "street": "Rue de Falisolle"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006"
+      ], 
       "hnrlbls": [
         "225"
       ], 
@@ -1291,6 +1303,18 @@
       "housenumber": "247", 
       "lat": 50.437177016588, 
       "lon": 4.63062481281, 
+      "municipality": "Sambreville", 
+      "pcode": "5060", 
+      "source": "7755307", 
+      "street": "Rue de Falisolle"
+    }, 
+    {
+      "hnrlbls": [
+        "249"
+      ], 
+      "housenumber": "249", 
+      "lat": 50.437055662242, 
+      "lon": 4.630614754534, 
       "municipality": "Sambreville", 
       "pcode": "5060", 
       "source": "7755307", 
@@ -1741,6 +1765,19 @@
       "street": "Rue de Falisolle"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0008", 
+        "0009", 
+        "0010", 
+        "0011", 
+        "0013"
+      ], 
       "hnrlbls": [
         "316"
       ], 
@@ -2113,6 +2150,10 @@
       "street": "Rue de Falisolle"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -2761,6 +2802,11 @@
       "street": "Rue de Falisolle"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "50"
       ], 
@@ -3061,6 +3107,11 @@
       "street": "Rue de Falisolle"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0005"
+      ], 
       "hnrlbls": [
         "83"
       ], 

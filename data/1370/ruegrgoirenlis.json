@@ -13,6 +13,14 @@
       "street": "Rue Gr\u00e9goire N\u00e9lis"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2", 
+        "Bte3", 
+        "Bte4", 
+        "Bte5", 
+        "Bte6"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -25,6 +33,10 @@
       "street": "Rue Gr\u00e9goire N\u00e9lis"
     }, 
     {
+      "busnrs": [
+        "1Etg", 
+        "Rez"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -49,6 +61,18 @@
       "street": "Rue Gr\u00e9goire N\u00e9lis"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "B/2", 
+        "B/3", 
+        "B/4", 
+        "B/5", 
+        "B/6", 
+        "Bte1", 
+        "Bte3", 
+        "Bte4", 
+        "C/1"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -133,12 +157,33 @@
       "street": "Rue Gr\u00e9goire N\u00e9lis"
     }, 
     {
+      "busnrs": [
+        "0/2", 
+        "1/3"
+      ], 
       "hnrlbls": [
         "20"
       ], 
       "housenumber": "20", 
       "lat": 50.723277297557, 
       "lon": 4.868119937699, 
+      "municipality": "Jodoigne", 
+      "pcode": "1370", 
+      "source": "7702471", 
+      "street": "Rue Gr\u00e9goire N\u00e9lis"
+    }, 
+    {
+      "busnrs": [
+        "1Etg", 
+        "2Etg", 
+        "Rez"
+      ], 
+      "hnrlbls": [
+        "21"
+      ], 
+      "housenumber": "21", 
+      "lat": 50.723254848544, 
+      "lon": 4.867853867214, 
       "municipality": "Jodoigne", 
       "pcode": "1370", 
       "source": "7702471", 
@@ -205,6 +250,9 @@
       "street": "Rue Gr\u00e9goire N\u00e9lis"
     }, 
     {
+      "busnrs": [
+        "1Etg"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -217,6 +265,11 @@
       "street": "Rue Gr\u00e9goire N\u00e9lis"
     }, 
     {
+      "busnrs": [
+        "1Etg", 
+        "2Etg", 
+        "Rez"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -241,6 +294,13 @@
       "street": "Rue Gr\u00e9goire N\u00e9lis"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "0/2", 
+        "1/3", 
+        "2/4", 
+        "2/5"
+      ], 
       "hnrlbls": [
         "7"
       ], 

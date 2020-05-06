@@ -265,6 +265,9 @@
       "street": "Rue Baillet-Latour"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -289,6 +292,11 @@
       "street": "Rue Baillet-Latour"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "A1/1", 
+        "A1/2"
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -793,6 +801,10 @@
       "street": "Rue Baillet-Latour"
     }, 
     {
+      "busnrs": [
+        "A/1", 
+        "A/2"
+      ], 
       "hnrlbls": [
         "7"
       ], 

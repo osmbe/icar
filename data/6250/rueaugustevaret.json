@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -122,6 +125,18 @@
     }, 
     {
       "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.423940904568, 
+      "lon": 4.605529433539, 
+      "municipality": "Aiseau-Presles", 
+      "pcode": "6250", 
+      "source": "7711570", 
+      "street": "Rue Auguste Varet"
+    }, 
+    {
+      "hnrlbls": [
         "20"
       ], 
       "housenumber": "20", 
@@ -223,6 +238,18 @@
       "housenumber": "29", 
       "lat": 50.424264172273, 
       "lon": 4.60783152299, 
+      "municipality": "Aiseau-Presles", 
+      "pcode": "6250", 
+      "source": "7711570", 
+      "street": "Rue Auguste Varet"
+    }, 
+    {
+      "hnrlbls": [
+        "29/1"
+      ], 
+      "housenumber": "29/1", 
+      "lat": 50.424380389119, 
+      "lon": 4.6080105066, 
       "municipality": "Aiseau-Presles", 
       "pcode": "6250", 
       "source": "7711570", 
@@ -497,8 +524,8 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.423746753872, 
-      "lon": 4.605186881125, 
+      "lat": 50.423794946093, 
+      "lon": 4.605117121063, 
       "municipality": "Aiseau-Presles", 
       "pcode": "6250", 
       "source": "7711570", 

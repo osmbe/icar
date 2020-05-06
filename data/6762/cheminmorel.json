@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0", 
+        "1"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -169,6 +173,14 @@
       "street": "Chemin Morel"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "0/2", 
+        "1/1", 
+        "2/1", 
+        "2/2", 
+        "3/3"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -559,6 +571,18 @@
       "housenumber": "7", 
       "lat": 49.554255819717, 
       "lon": 5.530372306688, 
+      "municipality": "Virton", 
+      "pcode": "6762", 
+      "source": "7747758", 
+      "street": "Chemin Morel"
+    }, 
+    {
+      "hnrlbls": [
+        "71"
+      ], 
+      "housenumber": "71", 
+      "lat": 49.551869380844, 
+      "lon": 5.529632135773, 
       "municipality": "Virton", 
       "pcode": "6762", 
       "source": "7747758", 

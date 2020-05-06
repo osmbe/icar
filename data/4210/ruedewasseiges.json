@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "000A", 
+        "000B", 
+        "000C"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +18,10 @@
       "street": "Rue de Wasseiges"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "1\u00e9ta"
+      ], 
       "hnrlbls": [
         "2"
       ], 

@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "/2"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -50,9 +53,9 @@
     }, 
     {
       "hnrlbls": [
-        "12/A"
+        "12A"
       ], 
-      "housenumber": "12/A", 
+      "housenumber": "12A", 
       "lat": 50.546064146215, 
       "lon": 5.812525577821, 
       "municipality": "Theux", 
@@ -134,9 +137,9 @@
     }, 
     {
       "hnrlbls": [
-        "18/A"
+        "18A"
       ], 
-      "housenumber": "18/A", 
+      "housenumber": "18A", 
       "lat": 50.546858967452, 
       "lon": 5.81332652746, 
       "municipality": "Theux", 
@@ -289,6 +292,9 @@
       "street": "Chemin de Sohan"
     }, 
     {
+      "busnrs": [
+        "/5"
+      ], 
       "hnrlbls": [
         "4"
       ], 

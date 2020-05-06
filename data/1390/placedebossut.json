@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "Apt1", 
+        "Apt2"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -65,8 +69,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.76137359532, 
-      "lon": 4.695926400511, 
+      "lat": 50.761565604179, 
+      "lon": 4.695735291011, 
       "municipality": "Grez-Doiceau", 
       "pcode": "1390", 
       "source": "7701774", 
@@ -85,6 +89,9 @@
       "street": "Place de Bossut"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "6"
       ], 

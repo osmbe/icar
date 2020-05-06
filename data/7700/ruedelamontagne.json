@@ -229,6 +229,11 @@
       "street": "Rue de la Montagne"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "139"
       ], 
@@ -277,6 +282,12 @@
       "street": "Rue de la Montagne"
     }, 
     {
+      "busnrs": [
+        "A000", 
+        "B000", 
+        "C000", 
+        "D000"
+      ], 
       "hnrlbls": [
         "147"
       ], 
@@ -319,54 +330,6 @@
       "housenumber": "19", 
       "lat": 50.734378791301, 
       "lon": 3.227433875341, 
-      "municipality": "Mouscron", 
-      "pcode": "7700", 
-      "source": "7715766", 
-      "street": "Rue de la Montagne"
-    }, 
-    {
-      "hnrlbls": [
-        "208"
-      ], 
-      "housenumber": "208", 
-      "lat": 50.73716685547, 
-      "lon": 3.231773559441, 
-      "municipality": "Mouscron", 
-      "pcode": "7700", 
-      "source": "7715766", 
-      "street": "Rue de la Montagne"
-    }, 
-    {
-      "hnrlbls": [
-        "218"
-      ], 
-      "housenumber": "218", 
-      "lat": 50.737334694039, 
-      "lon": 3.231946470424, 
-      "municipality": "Mouscron", 
-      "pcode": "7700", 
-      "source": "7715766", 
-      "street": "Rue de la Montagne"
-    }, 
-    {
-      "hnrlbls": [
-        "222"
-      ], 
-      "housenumber": "222", 
-      "lat": 50.737403961639, 
-      "lon": 3.232026337304, 
-      "municipality": "Mouscron", 
-      "pcode": "7700", 
-      "source": "7715766", 
-      "street": "Rue de la Montagne"
-    }, 
-    {
-      "hnrlbls": [
-        "224"
-      ], 
-      "housenumber": "224", 
-      "lat": 50.737440482498, 
-      "lon": 3.23205968677, 
       "municipality": "Mouscron", 
       "pcode": "7700", 
       "source": "7715766", 
@@ -481,6 +444,11 @@
       "street": "Rue de la Montagne"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -631,6 +599,18 @@
       "housenumber": "63", 
       "lat": 50.735118895365, 
       "lon": 3.228914570245, 
+      "municipality": "Mouscron", 
+      "pcode": "7700", 
+      "source": "7715766", 
+      "street": "Rue de la Montagne"
+    }, 
+    {
+      "hnrlbls": [
+        "65"
+      ], 
+      "housenumber": "65", 
+      "lat": 50.735146735858, 
+      "lon": 3.228967704891, 
       "municipality": "Mouscron", 
       "pcode": "7700", 
       "source": "7715766", 

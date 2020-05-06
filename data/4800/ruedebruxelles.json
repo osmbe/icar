@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1", 
+        "2\u00e9t."
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -14,6 +18,21 @@
     }, 
     {
       "hnrlbls": [
+        "11"
+      ], 
+      "housenumber": "11", 
+      "lat": 50.587976418707, 
+      "lon": 5.856083762515, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738770", 
+      "street": "Rue de Bruxelles"
+    }, 
+    {
+      "busnrs": [
+        "rez."
+      ], 
+      "hnrlbls": [
         "13"
       ], 
       "housenumber": "13", 
@@ -25,6 +44,9 @@
       "street": "Rue de Bruxelles"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t."
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -37,6 +59,15 @@
       "street": "Rue de Bruxelles"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "1\u00e9t.", 
+        "4", 
+        "5", 
+        "6\u00e9tD", 
+        "bt10", 
+        "bte8"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -73,6 +104,9 @@
       "street": "Rue de Bruxelles"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t."
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -85,6 +119,9 @@
       "street": "Rue de Bruxelles"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t."
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -133,12 +170,28 @@
       "street": "Rue de Bruxelles"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "bte2"
+      ], 
       "hnrlbls": [
         "31"
       ], 
       "housenumber": "31", 
       "lat": 50.587309262475, 
       "lon": 5.855086549781, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738770", 
+      "street": "Rue de Bruxelles"
+    }, 
+    {
+      "hnrlbls": [
+        "33"
+      ], 
+      "housenumber": "33", 
+      "lat": 50.587311319995, 
+      "lon": 5.855059668277, 
       "municipality": "Verviers", 
       "pcode": "4800", 
       "source": "7738770", 
@@ -157,6 +210,21 @@
       "street": "Rue de Bruxelles"
     }, 
     {
+      "hnrlbls": [
+        "35C"
+      ], 
+      "housenumber": "35C", 
+      "lat": 50.586898313294, 
+      "lon": 5.8547066336, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738770", 
+      "street": "Rue de Bruxelles"
+    }, 
+    {
+      "busnrs": [
+        "2\u00e9t."
+      ], 
       "hnrlbls": [
         "37"
       ], 
@@ -193,12 +261,27 @@
       "street": "Rue de Bruxelles"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t."
+      ], 
       "hnrlbls": [
         "43"
       ], 
       "housenumber": "43", 
       "lat": 50.58662732454, 
       "lon": 5.854442874564, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738770", 
+      "street": "Rue de Bruxelles"
+    }, 
+    {
+      "hnrlbls": [
+        "45"
+      ], 
+      "housenumber": "45", 
+      "lat": 50.586611540322, 
+      "lon": 5.854403500367, 
       "municipality": "Verviers", 
       "pcode": "4800", 
       "source": "7738770", 
@@ -223,6 +306,18 @@
       "housenumber": "7", 
       "lat": 50.588210915381, 
       "lon": 5.855989437472, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738770", 
+      "street": "Rue de Bruxelles"
+    }, 
+    {
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.588014986668, 
+      "lon": 5.85613766948, 
       "municipality": "Verviers", 
       "pcode": "4800", 
       "source": "7738770", 

@@ -73,6 +73,9 @@
       "street": "Rue de l'Epargne"
     }, 
     {
+      "busnrs": [
+        "r+1\u00e9"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -85,6 +88,11 @@
       "street": "Rue de l'Epargne"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "2\u00e9t.", 
+        "rez."
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -109,6 +117,11 @@
       "street": "Rue de l'Epargne"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "2+3\u00e9", 
+        "rez."
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -121,6 +134,11 @@
       "street": "Rue de l'Epargne"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "2\u00e9t.", 
+        "rez."
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -157,6 +175,12 @@
       "street": "Rue de l'Epargne"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "2\u00e9t.", 
+        "3\u00e9t.", 
+        "rez."
+      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -206,6 +230,18 @@
     }, 
     {
       "hnrlbls": [
+        "43"
+      ], 
+      "housenumber": "43", 
+      "lat": 50.598663673019, 
+      "lon": 5.878307532162, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738826", 
+      "street": "Rue de l'Epargne"
+    }, 
+    {
+      "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
@@ -235,6 +271,30 @@
       "housenumber": "7", 
       "lat": 50.599538955557, 
       "lon": 5.875832918685, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738826", 
+      "street": "Rue de l'Epargne"
+    }, 
+    {
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 50.59923721373, 
+      "lon": 5.875736415166, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738826", 
+      "street": "Rue de l'Epargne"
+    }, 
+    {
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.599367633516, 
+      "lon": 5.876001211352, 
       "municipality": "Verviers", 
       "pcode": "4800", 
       "source": "7738826", 

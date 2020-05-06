@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "B001", 
+        "B021"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -103,6 +107,42 @@
       "housenumber": "1A", 
       "lat": 50.636348248506, 
       "lon": 5.597137239685, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730185", 
+      "street": "Rue Auguste-Javaux"
+    }, 
+    {
+      "hnrlbls": [
+        "1B"
+      ], 
+      "housenumber": "1B", 
+      "lat": 50.636285670231, 
+      "lon": 5.597179890954, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730185", 
+      "street": "Rue Auguste-Javaux"
+    }, 
+    {
+      "hnrlbls": [
+        "1C"
+      ], 
+      "housenumber": "1C", 
+      "lat": 50.636256433646, 
+      "lon": 5.59727526821, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730185", 
+      "street": "Rue Auguste-Javaux"
+    }, 
+    {
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.636340367604, 
+      "lon": 5.59668153605, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730185", 

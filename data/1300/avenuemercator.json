@@ -37,6 +37,9 @@
       "street": "Avenue Mercator"
     }, 
     {
+      "busnrs": [
+        "000B"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -97,12 +100,15 @@
       "street": "Avenue Mercator"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.73350603104, 
-      "lon": 4.587228060333, 
+      "lat": 50.733683557671, 
+      "lon": 4.587765732591, 
       "municipality": "Wavre", 
       "pcode": "1300", 
       "source": "7704632", 

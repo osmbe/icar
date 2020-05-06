@@ -61,6 +61,9 @@
       "street": "Rue des Grottes"
     }, 
     {
+      "busnrs": [
+        "B011"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -85,6 +88,9 @@
       "street": "Rue des Grottes"
     }, 
     {
+      "busnrs": [
+        "0011"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -109,6 +115,9 @@
       "street": "Rue des Grottes"
     }, 
     {
+      "busnrs": [
+        "0011"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -121,6 +130,10 @@
       "street": "Rue des Grottes"
     }, 
     {
+      "busnrs": [
+        "B011", 
+        "B012"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -199,6 +212,30 @@
       "housenumber": "29", 
       "lat": 50.124796570781, 
       "lon": 5.189944011904, 
+      "municipality": "Rochefort", 
+      "pcode": "5580", 
+      "source": "7750464", 
+      "street": "Rue des Grottes"
+    }, 
+    {
+      "hnrlbls": [
+        "2A"
+      ], 
+      "housenumber": "2A", 
+      "lat": 50.12515740465, 
+      "lon": 5.187585394266, 
+      "municipality": "Rochefort", 
+      "pcode": "5580", 
+      "source": "7750464", 
+      "street": "Rue des Grottes"
+    }, 
+    {
+      "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 50.125266032252, 
+      "lon": 5.188234636304, 
       "municipality": "Rochefort", 
       "pcode": "5580", 
       "source": "7750464", 
@@ -373,12 +410,27 @@
       "street": "Rue des Grottes"
     }, 
     {
+      "busnrs": [
+        "0011"
+      ], 
+      "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 50.125206958112, 
+      "lon": 5.18831243972, 
+      "municipality": "Rochefort", 
+      "pcode": "5580", 
+      "source": "7750464", 
+      "street": "Rue des Grottes"
+    }, 
+    {
       "hnrlbls": [
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 50.124215384003, 
-      "lon": 5.191456036953, 
+      "lat": 50.124356655896, 
+      "lon": 5.191492206384, 
       "municipality": "Rochefort", 
       "pcode": "5580", 
       "source": "7750464", 
@@ -433,6 +485,10 @@
       "street": "Rue des Grottes"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -533,8 +589,8 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.125210993548, 
-      "lon": 5.188350135824, 
+      "lat": 50.125170050903, 
+      "lon": 5.188387176452, 
       "municipality": "Rochefort", 
       "pcode": "5580", 
       "source": "7750464", 
@@ -601,6 +657,9 @@
       "street": "Rue des Grottes"
     }, 
     {
+      "busnrs": [
+        "0011"
+      ], 
       "hnrlbls": [
         "8"
       ], 

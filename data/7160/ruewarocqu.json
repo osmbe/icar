@@ -2,23 +2,11 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1"
-      ], 
-      "housenumber": "1", 
-      "lat": 50.469184708195, 
-      "lon": 4.283866394934, 
-      "municipality": "Chapelle-lez-Herlaimont", 
-      "pcode": "7160", 
-      "source": "7709020", 
-      "street": "Rue Warocqu\u00e9"
-    }, 
-    {
-      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.468880822572, 
-      "lon": 4.283215155322, 
+      "lat": 50.468838788502, 
+      "lon": 4.283529942733, 
       "municipality": "Chapelle-lez-Herlaimont", 
       "pcode": "7160", 
       "source": "7709020", 
@@ -181,6 +169,11 @@
       "street": "Rue Warocqu\u00e9"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "1/2", 
+        "2/3"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -289,6 +282,10 @@
       "street": "Rue Warocqu\u00e9"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "1/2"
+      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -313,6 +310,10 @@
       "street": "Rue Warocqu\u00e9"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "1/2"
+      ], 
       "hnrlbls": [
         "36"
       ], 

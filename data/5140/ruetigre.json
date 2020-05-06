@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "/A", 
+        "/B"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -241,6 +245,9 @@
       "street": "Rue Tigr\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0004"
+      ], 
       "hnrlbls": [
         "3"
       ], 

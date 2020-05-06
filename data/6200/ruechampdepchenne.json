@@ -85,6 +85,12 @@
       "street": "Rue Champ de P\u00e9chenne"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "000B", 
+        "000C", 
+        "000D"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -145,6 +151,9 @@
       "street": "Rue Champ de P\u00e9chenne"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -233,8 +242,8 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.389458131588, 
-      "lon": 4.50847936346, 
+      "lat": 50.389509698104, 
+      "lon": 4.50859724384, 
       "municipality": "Ch\u00e2telet", 
       "pcode": "6200", 
       "source": "7709146", 

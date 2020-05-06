@@ -2,6 +2,18 @@
   "addresses": [
     {
       "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.683512726976, 
+      "lon": 4.694406513508, 
+      "municipality": "Chaumont-Gistoux", 
+      "pcode": "1325", 
+      "source": "7701103", 
+      "street": "Rue de Corroy"
+    }, 
+    {
+      "hnrlbls": [
         "11"
       ], 
       "housenumber": "11", 
@@ -158,6 +170,24 @@
     }, 
     {
       "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 50.683218608686, 
+      "lon": 4.694450529436, 
+      "municipality": "Chaumont-Gistoux", 
+      "pcode": "1325", 
+      "source": "7701103", 
+      "street": "Rue de Corroy"
+    }, 
+    {
+      "busnrs": [
+        "3A 1.1", 
+        "3A 1.2", 
+        "3A 2.1", 
+        "3A 2.2"
+      ], 
+      "hnrlbls": [
         "3A"
       ], 
       "housenumber": "3A", 
@@ -169,6 +199,11 @@
       "street": "Rue de Corroy"
     }, 
     {
+      "busnrs": [
+        "3B 0.1", 
+        "3B 1.1", 
+        "3B 2.2"
+      ], 
       "hnrlbls": [
         "3B"
       ], 
@@ -206,59 +241,11 @@
     }, 
     {
       "hnrlbls": [
-        "58"
-      ], 
-      "housenumber": "58", 
-      "lat": 50.672547767152, 
-      "lon": 4.683548178007, 
-      "municipality": "Chaumont-Gistoux", 
-      "pcode": "1325", 
-      "source": "7701103", 
-      "street": "Rue de Corroy"
-    }, 
-    {
-      "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
       "lat": 50.68278190116, 
       "lon": 4.694832391522, 
-      "municipality": "Chaumont-Gistoux", 
-      "pcode": "1325", 
-      "source": "7701103", 
-      "street": "Rue de Corroy"
-    }, 
-    {
-      "hnrlbls": [
-        "62"
-      ], 
-      "housenumber": "62", 
-      "lat": 50.673174907475, 
-      "lon": 4.684112436481, 
-      "municipality": "Chaumont-Gistoux", 
-      "pcode": "1325", 
-      "source": "7701103", 
-      "street": "Rue de Corroy"
-    }, 
-    {
-      "hnrlbls": [
-        "67"
-      ], 
-      "housenumber": "67", 
-      "lat": 50.672729121253, 
-      "lon": 4.683193365896, 
-      "municipality": "Chaumont-Gistoux", 
-      "pcode": "1325", 
-      "source": "7701103", 
-      "street": "Rue de Corroy"
-    }, 
-    {
-      "hnrlbls": [
-        "69"
-      ], 
-      "housenumber": "69", 
-      "lat": 50.673125652466, 
-      "lon": 4.683420932492, 
       "municipality": "Chaumont-Gistoux", 
       "pcode": "1325", 
       "source": "7701103", 
@@ -278,167 +265,11 @@
     }, 
     {
       "hnrlbls": [
-        "71"
-      ], 
-      "housenumber": "71", 
-      "lat": 50.6731961664, 
-      "lon": 4.683448211398, 
-      "municipality": "Chaumont-Gistoux", 
-      "pcode": "1325", 
-      "source": "7701103", 
-      "street": "Rue de Corroy"
-    }, 
-    {
-      "hnrlbls": [
-        "73"
-      ], 
-      "housenumber": "73", 
-      "lat": 50.673552905363, 
-      "lon": 4.683642588253, 
-      "municipality": "Chaumont-Gistoux", 
-      "pcode": "1325", 
-      "source": "7701103", 
-      "street": "Rue de Corroy"
-    }, 
-    {
-      "hnrlbls": [
-        "75"
-      ], 
-      "housenumber": "75", 
-      "lat": 50.673644285973, 
-      "lon": 4.683700456723, 
-      "municipality": "Chaumont-Gistoux", 
-      "pcode": "1325", 
-      "source": "7701103", 
-      "street": "Rue de Corroy"
-    }, 
-    {
-      "hnrlbls": [
-        "76"
-      ], 
-      "housenumber": "76", 
-      "lat": 50.674279712002, 
-      "lon": 4.684900758894, 
-      "municipality": "Chaumont-Gistoux", 
-      "pcode": "1325", 
-      "source": "7701103", 
-      "street": "Rue de Corroy"
-    }, 
-    {
-      "hnrlbls": [
-        "77"
-      ], 
-      "housenumber": "77", 
-      "lat": 50.674006845161, 
-      "lon": 4.683923563161, 
-      "municipality": "Chaumont-Gistoux", 
-      "pcode": "1325", 
-      "source": "7701103", 
-      "street": "Rue de Corroy"
-    }, 
-    {
-      "hnrlbls": [
-        "82"
-      ], 
-      "housenumber": "82", 
-      "lat": 50.674757628593, 
-      "lon": 4.685290380538, 
-      "municipality": "Chaumont-Gistoux", 
-      "pcode": "1325", 
-      "source": "7701103", 
-      "street": "Rue de Corroy"
-    }, 
-    {
-      "hnrlbls": [
-        "84"
-      ], 
-      "housenumber": "84", 
-      "lat": 50.674846604273, 
-      "lon": 4.685163845723, 
-      "municipality": "Chaumont-Gistoux", 
-      "pcode": "1325", 
-      "source": "7701103", 
-      "street": "Rue de Corroy"
-    }, 
-    {
-      "hnrlbls": [
-        "85"
-      ], 
-      "housenumber": "85", 
-      "lat": 50.674835335985, 
-      "lon": 4.684507320516, 
-      "municipality": "Chaumont-Gistoux", 
-      "pcode": "1325", 
-      "source": "7701103", 
-      "street": "Rue de Corroy"
-    }, 
-    {
-      "hnrlbls": [
         "9"
       ], 
       "housenumber": "9", 
       "lat": 50.682540559707, 
       "lon": 4.693733903469, 
-      "municipality": "Chaumont-Gistoux", 
-      "pcode": "1325", 
-      "source": "7701103", 
-      "street": "Rue de Corroy"
-    }, 
-    {
-      "hnrlbls": [
-        "90"
-      ], 
-      "housenumber": "90", 
-      "lat": 50.675387023786, 
-      "lon": 4.685788268106, 
-      "municipality": "Chaumont-Gistoux", 
-      "pcode": "1325", 
-      "source": "7701103", 
-      "street": "Rue de Corroy"
-    }, 
-    {
-      "hnrlbls": [
-        "91"
-      ], 
-      "housenumber": "91", 
-      "lat": 50.675381792216, 
-      "lon": 4.68460747568, 
-      "municipality": "Chaumont-Gistoux", 
-      "pcode": "1325", 
-      "source": "7701103", 
-      "street": "Rue de Corroy"
-    }, 
-    {
-      "hnrlbls": [
-        "93"
-      ], 
-      "housenumber": "93", 
-      "lat": 50.675617871118, 
-      "lon": 4.685351565076, 
-      "municipality": "Chaumont-Gistoux", 
-      "pcode": "1325", 
-      "source": "7701103", 
-      "street": "Rue de Corroy"
-    }, 
-    {
-      "hnrlbls": [
-        "94"
-      ], 
-      "housenumber": "94", 
-      "lat": 50.677049052607, 
-      "lon": 4.687083059235, 
-      "municipality": "Chaumont-Gistoux", 
-      "pcode": "1325", 
-      "source": "7701103", 
-      "street": "Rue de Corroy"
-    }, 
-    {
-      "hnrlbls": [
-        "96"
-      ], 
-      "housenumber": "96", 
-      "lat": 50.677416804056, 
-      "lon": 4.687715938702, 
       "municipality": "Chaumont-Gistoux", 
       "pcode": "1325", 
       "source": "7701103", 

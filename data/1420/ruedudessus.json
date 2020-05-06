@@ -37,6 +37,10 @@
       "street": "Rue du Dessus"
     }, 
     {
+      "busnrs": [
+        "A001", 
+        "A002"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -77,8 +81,8 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 50.699755111612, 
-      "lon": 4.350967339366, 
+      "lat": 50.699770814307, 
+      "lon": 4.350992801516, 
       "municipality": "Braine-l'Alleud", 
       "pcode": "1420", 
       "source": "7700637", 
@@ -139,6 +143,18 @@
       "housenumber": "28", 
       "lat": 50.699625539516, 
       "lon": 4.350118267397, 
+      "municipality": "Braine-l'Alleud", 
+      "pcode": "1420", 
+      "source": "7700637", 
+      "street": "Rue du Dessus"
+    }, 
+    {
+      "hnrlbls": [
+        "29"
+      ], 
+      "housenumber": "29", 
+      "lat": 50.699384062155, 
+      "lon": 4.35040686179, 
       "municipality": "Braine-l'Alleud", 
       "pcode": "1420", 
       "source": "7700637", 

@@ -217,6 +217,9 @@
       "street": "Grand Chemin"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "47"
       ], 
@@ -329,8 +332,8 @@
         "61"
       ], 
       "housenumber": "61", 
-      "lat": 50.564271574547, 
-      "lon": 3.984344975239, 
+      "lat": 50.565173322499, 
+      "lon": 3.984674326667, 
       "municipality": "Soignies", 
       "pcode": "7063", 
       "source": "7718635", 
@@ -505,6 +508,11 @@
       "street": "Grand Chemin"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "4"
+      ], 
       "hnrlbls": [
         "89"
       ], 

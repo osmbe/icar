@@ -61,6 +61,10 @@
       "street": "Chemin de Halage"
     }, 
     {
+      "busnrs": [
+        "1/01", 
+        "RC/1"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -73,6 +77,11 @@
       "street": "Chemin de Halage"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "002", 
+        "003"
+      ], 
       "hnrlbls": [
         "2A"
       ], 
@@ -103,6 +112,18 @@
       "housenumber": "6", 
       "lat": 50.37965094695, 
       "lon": 4.354188882879, 
+      "municipality": "Montigny-le-Tilleul", 
+      "pcode": "6111", 
+      "source": "7710875", 
+      "street": "Chemin de Halage"
+    }, 
+    {
+      "hnrlbls": [
+        "6B"
+      ], 
+      "housenumber": "6B", 
+      "lat": 50.381376967973, 
+      "lon": 4.353289788943, 
       "municipality": "Montigny-le-Tilleul", 
       "pcode": "6111", 
       "source": "7710875", 

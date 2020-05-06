@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -25,6 +28,11 @@
       "street": "Rue Jean Mottin"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "RDC"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -125,8 +133,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.672336680713, 
-      "lon": 5.080256886029, 
+      "lat": 50.672280741058, 
+      "lon": 5.08021914217, 
       "municipality": "Hannut", 
       "pcode": "4280", 
       "source": "7740620", 
@@ -161,8 +169,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.672460322669, 
-      "lon": 5.079926140601, 
+      "lat": 50.672333063442, 
+      "lon": 5.079895656797, 
       "municipality": "Hannut", 
       "pcode": "4280", 
       "source": "7740620", 

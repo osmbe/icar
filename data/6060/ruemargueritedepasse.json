@@ -61,6 +61,10 @@
       "street": "Rue Marguerite Depasse"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "011"
+      ], 
       "hnrlbls": [
         "115"
       ], 
@@ -169,6 +173,11 @@
       "street": "Rue Marguerite Depasse"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "021", 
+        "O1/1"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -193,6 +202,10 @@
       "street": "Rue Marguerite Depasse"
     }, 
     {
+      "busnrs": [
+        "011", 
+        "021"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -253,6 +266,12 @@
       "street": "Rue Marguerite Depasse"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -265,12 +284,19 @@
       "street": "Rue Marguerite Depasse"
     }, 
     {
+      "busnrs": [
+        "011", 
+        "012", 
+        "021", 
+        "022", 
+        "OO/2"
+      ], 
       "hnrlbls": [
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.416631176154, 
-      "lon": 4.481524071093, 
+      "lat": 50.416626352271, 
+      "lon": 4.481455563744, 
       "municipality": "Charleroi", 
       "pcode": "6060", 
       "source": "7761621", 
@@ -329,8 +355,8 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 50.416541403011, 
-      "lon": 4.481445848991, 
+      "lat": 50.416528749946, 
+      "lon": 4.481532493637, 
       "municipality": "Charleroi", 
       "pcode": "6060", 
       "source": "7761621", 

@@ -73,6 +73,12 @@
       "street": "Rue du Cheval Blanc"
     }, 
     {
+      "busnrs": [
+        "2", 
+        "7", 
+        "8", 
+        "9"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -134,6 +140,18 @@
     }, 
     {
       "hnrlbls": [
+        "25"
+      ], 
+      "housenumber": "25", 
+      "lat": 50.752734855553, 
+      "lon": 5.563492499847, 
+      "municipality": "Bassenge", 
+      "pcode": "4690", 
+      "source": "7727683", 
+      "street": "Rue du Cheval Blanc"
+    }, 
+    {
+      "hnrlbls": [
         "26"
       ], 
       "housenumber": "26", 
@@ -163,18 +181,6 @@
       "housenumber": "28", 
       "lat": 50.753310246034, 
       "lon": 5.565450338436, 
-      "municipality": "Bassenge", 
-      "pcode": "4690", 
-      "source": "7727683", 
-      "street": "Rue du Cheval Blanc"
-    }, 
-    {
-      "hnrlbls": [
-        "29"
-      ], 
-      "housenumber": "29", 
-      "lat": 50.752734855553, 
-      "lon": 5.563492499847, 
       "municipality": "Bassenge", 
       "pcode": "4690", 
       "source": "7727683", 
@@ -253,6 +259,13 @@
       "street": "Rue du Cheval Blanc"
     }, 
     {
+      "busnrs": [
+        "A1", 
+        "A3", 
+        "A4", 
+        "A5", 
+        "A6"
+      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -289,6 +302,10 @@
       "street": "Rue du Cheval Blanc"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "43"
       ], 
@@ -301,6 +318,9 @@
       "street": "Rue du Cheval Blanc"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "45"
       ], 

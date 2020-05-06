@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0101"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -101,8 +104,8 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.662501182968, 
-      "lon": 4.59457706904, 
+      "lat": 50.665069731241, 
+      "lon": 4.598796359037, 
       "municipality": "Ottignies-Louvain-la-Neuve", 
       "pcode": "1340", 
       "source": "7706429", 
@@ -169,6 +172,10 @@
       "street": "rue de la Malaise"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "9"
       ], 

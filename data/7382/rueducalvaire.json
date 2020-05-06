@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -49,6 +53,9 @@
       "street": "Rue du Calvaire"
     }, 
     {
+      "busnrs": [
+        "0021"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -137,8 +144,8 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.418830332636, 
-      "lon": 3.695729910156, 
+      "lat": 50.383987314198, 
+      "lon": 3.719574782343, 
       "municipality": "Qui\u00e9vrain", 
       "pcode": "7382", 
       "source": "7714543", 
@@ -217,6 +224,9 @@
       "street": "Rue du Calvaire"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "29"
       ], 

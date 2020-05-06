@@ -1,6 +1,15 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "01-1", 
+        "01-2", 
+        "02-1", 
+        "03-1", 
+        "03-2", 
+        "2-02", 
+        "RC00"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -14,11 +23,43 @@
     }, 
     {
       "hnrlbls": [
+        "10"
+      ], 
+      "housenumber": "10", 
+      "lat": 50.51797814804, 
+      "lon": 5.081396998216, 
+      "municipality": "Andenne", 
+      "pcode": "5300", 
+      "source": "7751437", 
+      "street": "Clos de la Velaine"
+    }, 
+    {
+      "busnrs": [
+        "01-1", 
+        "01-2", 
+        "02-1", 
+        "02-2", 
+        "03-1", 
+        "03-2"
+      ], 
+      "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
       "lat": 50.519055060063, 
       "lon": 5.080617851875, 
+      "municipality": "Andenne", 
+      "pcode": "5300", 
+      "source": "7751437", 
+      "street": "Clos de la Velaine"
+    }, 
+    {
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.518095557138, 
+      "lon": 5.081336086595, 
       "municipality": "Andenne", 
       "pcode": "5300", 
       "source": "7751437", 

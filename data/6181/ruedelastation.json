@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A1/1", 
+        "A1/2"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -277,6 +281,10 @@
       "street": "Rue de la Station"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "1/2"
+      ], 
       "hnrlbls": [
         "122"
       ], 
@@ -325,6 +333,9 @@
       "street": "Rue de la Station"
     }, 
     {
+      "busnrs": [
+        "0/1"
+      ], 
       "hnrlbls": [
         "126"
       ], 
@@ -487,6 +498,18 @@
       "housenumber": "139", 
       "lat": 50.495873330396, 
       "lon": 4.32732062552, 
+      "municipality": "Courcelles", 
+      "pcode": "6181", 
+      "source": "7709572", 
+      "street": "Rue de la Station"
+    }, 
+    {
+      "hnrlbls": [
+        "13A"
+      ], 
+      "housenumber": "13A", 
+      "lat": 50.488011460981, 
+      "lon": 4.329167624324, 
       "municipality": "Courcelles", 
       "pcode": "6181", 
       "source": "7709572", 
@@ -781,6 +804,10 @@
       "street": "Rue de la Station"
     }, 
     {
+      "busnrs": [
+        "1/1", 
+        "1/2"
+      ], 
       "hnrlbls": [
         "168"
       ], 
@@ -793,6 +820,11 @@
       "street": "Rue de la Station"
     }, 
     {
+      "busnrs": [
+        "0", 
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "169"
       ], 
@@ -829,6 +861,10 @@
       "street": "Rue de la Station"
     }, 
     {
+      "busnrs": [
+        "1/1", 
+        "2/1"
+      ], 
       "hnrlbls": [
         "171"
       ], 
@@ -877,6 +913,9 @@
       "street": "Rue de la Station"
     }, 
     {
+      "busnrs": [
+        "1/1"
+      ], 
       "hnrlbls": [
         "175"
       ], 
@@ -961,6 +1000,14 @@
       "street": "Rue de la Station"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "0/2", 
+        "1/1", 
+        "1/2", 
+        "2/1", 
+        "2/2"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -1129,6 +1176,9 @@
       "street": "Rue de la Station"
     }, 
     {
+      "busnrs": [
+        "1/1"
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -1549,6 +1599,14 @@
       "street": "Rue de la Station"
     }, 
     {
+      "busnrs": [
+        "0/3", 
+        "0/4", 
+        "0/5", 
+        "01/1", 
+        "01/3", 
+        "1/2"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -1621,6 +1679,9 @@
       "street": "Rue de la Station"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "67"
       ], 

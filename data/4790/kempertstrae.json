@@ -73,6 +73,10 @@
       "street": "Kempertstra\u00dfe"
     }, 
     {
+      "busnrs": [
+        "0A", 
+        "1A"
+      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -97,12 +101,28 @@
       "street": "Kempertstra\u00dfe"
     }, 
     {
+      "busnrs": [
+        "0A", 
+        "2A"
+      ], 
       "hnrlbls": [
         "47"
       ], 
       "housenumber": "47", 
       "lat": 50.246296601244, 
       "lon": 6.054819637488, 
+      "municipality": "Burg-Reuland", 
+      "pcode": "4790", 
+      "source": "7763535", 
+      "street": "Kempertstra\u00dfe"
+    }, 
+    {
+      "hnrlbls": [
+        "51"
+      ], 
+      "housenumber": "51", 
+      "lat": 50.246186711579, 
+      "lon": 6.054512714997, 
       "municipality": "Burg-Reuland", 
       "pcode": "4790", 
       "source": "7763535", 

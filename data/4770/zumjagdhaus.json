@@ -1,6 +1,22 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1/1", 
+        "2/1"
+      ], 
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.36012523854, 
+      "lon": 6.225939120936, 
+      "municipality": "Amel", 
+      "pcode": "4770", 
+      "source": "7735050", 
+      "street": "Zum Jagdhaus"
+    }, 
+    {
       "hnrlbls": [
         "10"
       ], 
@@ -29,8 +45,20 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 50.359600109814, 
-      "lon": 6.228261683713, 
+      "lat": 50.35959862753, 
+      "lon": 6.228309607443, 
+      "municipality": "Amel", 
+      "pcode": "4770", 
+      "source": "7735050", 
+      "street": "Zum Jagdhaus"
+    }, 
+    {
+      "hnrlbls": [
+        "14A"
+      ], 
+      "housenumber": "14A", 
+      "lat": 50.359601854388, 
+      "lon": 6.228223428187, 
       "municipality": "Amel", 
       "pcode": "4770", 
       "source": "7735050", 
@@ -62,11 +90,35 @@
     }, 
     {
       "hnrlbls": [
+        "1A"
+      ], 
+      "housenumber": "1A", 
+      "lat": 50.360120689405, 
+      "lon": 6.22600031575, 
+      "municipality": "Amel", 
+      "pcode": "4770", 
+      "source": "7735050", 
+      "street": "Zum Jagdhaus"
+    }, 
+    {
+      "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
       "lat": 50.359785626553, 
       "lon": 6.226032214441, 
+      "municipality": "Amel", 
+      "pcode": "4770", 
+      "source": "7735050", 
+      "street": "Zum Jagdhaus"
+    }, 
+    {
+      "hnrlbls": [
+        "20"
+      ], 
+      "housenumber": "20", 
+      "lat": 50.358993259978, 
+      "lon": 6.23315546495, 
       "municipality": "Amel", 
       "pcode": "4770", 
       "source": "7735050", 

@@ -2,6 +2,26 @@
   "addresses": [
     {
       "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.639254615665, 
+      "lon": 5.58365785547, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7731255", 
+      "street": "Rue Porte-Grumsel"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
+      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -13,6 +33,13 @@
       "street": "Rue Porte-Grumsel"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -37,6 +64,13 @@
       "street": "Rue Porte-Grumsel"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -49,6 +83,18 @@
       "street": "Rue Porte-Grumsel"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -61,6 +107,9 @@
       "street": "Rue Porte-Grumsel"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -73,6 +122,12 @@
       "street": "Rue Porte-Grumsel"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -85,6 +140,14 @@
       "street": "Rue Porte-Grumsel"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -97,6 +160,14 @@
       "street": "Rue Porte-Grumsel"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -145,12 +216,30 @@
       "street": "Rue Porte-Grumsel"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "21"
       ], 
       "housenumber": "21", 
       "lat": 50.638628371097, 
       "lon": 5.583810717297, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7731255", 
+      "street": "Rue Porte-Grumsel"
+    }, 
+    {
+      "hnrlbls": [
+        "22"
+      ], 
+      "housenumber": "22", 
+      "lat": 50.638458323739, 
+      "lon": 5.583613572949, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7731255", 
@@ -182,6 +271,28 @@
     }, 
     {
       "hnrlbls": [
+        "27"
+      ], 
+      "housenumber": "27", 
+      "lat": 50.638478767275, 
+      "lon": 5.583873712458, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7731255", 
+      "street": "Rue Porte-Grumsel"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0031"
+      ], 
+      "hnrlbls": [
         "29"
       ], 
       "housenumber": "29", 
@@ -193,6 +304,15 @@
       "street": "Rue Porte-Grumsel"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -217,6 +337,17 @@
       "street": "Rue Porte-Grumsel"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0041", 
+        "0042"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -229,6 +360,20 @@
       "street": "Rue Porte-Grumsel"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0041", 
+        "0042", 
+        "0051", 
+        "0052"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -241,6 +386,14 @@
       "street": "Rue Porte-Grumsel"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041", 
+        "0051"
+      ], 
       "hnrlbls": [
         "9"
       ], 

@@ -85,6 +85,9 @@
       "street": "Rue Saint-Roch"
     }, 
     {
+      "busnrs": [
+        "Bte3"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -115,6 +118,18 @@
       "housenumber": "19", 
       "lat": 50.023875344435, 
       "lon": 5.374489465164, 
+      "municipality": "Saint-Hubert", 
+      "pcode": "6870", 
+      "source": "7746398", 
+      "street": "Rue Saint-Roch"
+    }, 
+    {
+      "hnrlbls": [
+        "19B"
+      ], 
+      "housenumber": "19B", 
+      "lat": 50.023682451868, 
+      "lon": 5.374770248112, 
       "municipality": "Saint-Hubert", 
       "pcode": "6870", 
       "source": "7746398", 
@@ -397,6 +412,9 @@
       "street": "Rue Saint-Roch"
     }, 
     {
+      "busnrs": [
+        "Bte1"
+      ], 
       "hnrlbls": [
         "60"
       ], 

@@ -265,6 +265,10 @@
       "street": "Rue G\u00e9rard Delvoye"
     }, 
     {
+      "busnrs": [
+        "1.Et", 
+        "2.Et"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -398,6 +402,18 @@
     }, 
     {
       "hnrlbls": [
+        "3A"
+      ], 
+      "housenumber": "3A", 
+      "lat": 50.662329705105, 
+      "lon": 5.970585554131, 
+      "municipality": "Welkenraedt", 
+      "pcode": "4840", 
+      "source": "7739442", 
+      "street": "Rue G\u00e9rard Delvoye"
+    }, 
+    {
+      "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
@@ -469,6 +485,12 @@
       "street": "Rue G\u00e9rard Delvoye"
     }, 
     {
+      "busnrs": [
+        "1.ED", 
+        "1.EG", 
+        "RC.D", 
+        "RC.G"
+      ], 
       "hnrlbls": [
         "45"
       ], 
@@ -493,6 +515,12 @@
       "street": "Rue G\u00e9rard Delvoye"
     }, 
     {
+      "busnrs": [
+        "1E.D", 
+        "1E.G", 
+        "RC.D", 
+        "RC.G"
+      ], 
       "hnrlbls": [
         "47"
       ], 

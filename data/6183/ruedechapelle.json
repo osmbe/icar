@@ -217,6 +217,9 @@
       "street": "Rue de Chapelle"
     }, 
     {
+      "busnrs": [
+        "B"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -241,6 +244,10 @@
       "street": "Rue de Chapelle"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "0/2"
+      ], 
       "hnrlbls": [
         "132"
       ], 
@@ -265,6 +272,11 @@
       "street": "Rue de Chapelle"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "0/2", 
+        "0/3"
+      ], 
       "hnrlbls": [
         "136"
       ], 
@@ -289,6 +301,12 @@
       "street": "Rue de Chapelle"
     }, 
     {
+      "busnrs": [
+        "A0/1", 
+        "A1/1", 
+        "A2/1", 
+        "A2/2"
+      ], 
       "hnrlbls": [
         "13A"
       ], 
@@ -673,6 +691,9 @@
       "street": "Rue de Chapelle"
     }, 
     {
+      "busnrs": [
+        "0/1"
+      ], 
       "hnrlbls": [
         "194"
       ], 
@@ -733,6 +754,9 @@
       "street": "Rue de Chapelle"
     }, 
     {
+      "busnrs": [
+        "1/1"
+      ], 
       "hnrlbls": [
         "206"
       ], 
@@ -745,6 +769,9 @@
       "street": "Rue de Chapelle"
     }, 
     {
+      "busnrs": [
+        "1/1"
+      ], 
       "hnrlbls": [
         "208"
       ], 
@@ -781,6 +808,11 @@
       "street": "Rue de Chapelle"
     }, 
     {
+      "busnrs": [
+        "1/1", 
+        "1/2", 
+        "2/1"
+      ], 
       "hnrlbls": [
         "210"
       ], 
@@ -961,6 +993,9 @@
       "street": "Rue de Chapelle"
     }, 
     {
+      "busnrs": [
+        "1/1"
+      ], 
       "hnrlbls": [
         "230"
       ], 
@@ -1021,6 +1056,12 @@
       "street": "Rue de Chapelle"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "01/1", 
+        "1/1", 
+        "2/1"
+      ], 
       "hnrlbls": [
         "238"
       ], 
@@ -1033,6 +1074,10 @@
       "street": "Rue de Chapelle"
     }, 
     {
+      "busnrs": [
+        "24/0/1", 
+        "24/1/1"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -1141,6 +1186,9 @@
       "street": "Rue de Chapelle"
     }, 
     {
+      "busnrs": [
+        "26/1/1"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -1189,6 +1237,9 @@
       "street": "Rue de Chapelle"
     }, 
     {
+      "busnrs": [
+        "1/1"
+      ], 
       "hnrlbls": [
         "277"
       ], 
@@ -1261,12 +1312,16 @@
       "street": "Rue de Chapelle"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "0/2"
+      ], 
       "hnrlbls": [
         "291"
       ], 
       "housenumber": "291", 
-      "lat": 50.466312494295, 
-      "lon": 4.307464139218, 
+      "lat": 50.466238532953, 
+      "lon": 4.307622693929, 
       "municipality": "Courcelles", 
       "pcode": "6183", 
       "source": "7709530", 
@@ -1409,8 +1464,8 @@
         "301"
       ], 
       "housenumber": "301", 
-      "lat": 50.466365468396, 
-      "lon": 4.306071660943, 
+      "lat": 50.466568567115, 
+      "lon": 4.300485643455, 
       "municipality": "Courcelles", 
       "pcode": "6183", 
       "source": "7709530", 
@@ -1433,8 +1488,8 @@
         "303"
       ], 
       "housenumber": "303", 
-      "lat": 50.466571018079, 
-      "lon": 4.300417959397, 
+      "lat": 50.466288145839, 
+      "lon": 4.305723487478, 
       "municipality": "Courcelles", 
       "pcode": "6183", 
       "source": "7709530", 
@@ -1765,6 +1820,9 @@
       "street": "Rue de Chapelle"
     }, 
     {
+      "busnrs": [
+        "1/1"
+      ], 
       "hnrlbls": [
         "344"
       ], 
@@ -1789,6 +1847,11 @@
       "street": "Rue de Chapelle"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B", 
+        "C"
+      ], 
       "hnrlbls": [
         "348"
       ], 
@@ -2150,6 +2213,18 @@
     }, 
     {
       "hnrlbls": [
+        "68"
+      ], 
+      "housenumber": "68", 
+      "lat": 50.464197329299, 
+      "lon": 4.32514317506, 
+      "municipality": "Courcelles", 
+      "pcode": "6183", 
+      "source": "7709530", 
+      "street": "Rue de Chapelle"
+    }, 
+    {
+      "hnrlbls": [
         "69"
       ], 
       "housenumber": "69", 
@@ -2161,6 +2236,9 @@
       "street": "Rue de Chapelle"
     }, 
     {
+      "busnrs": [
+        "A1/1"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -2317,6 +2395,19 @@
       "street": "Rue de Chapelle"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "0/2", 
+        "0/3", 
+        "0/4", 
+        "0/5", 
+        "0/6", 
+        "1/1", 
+        "1/3", 
+        "1/4", 
+        "1/5", 
+        "1/6"
+      ], 
       "hnrlbls": [
         "87"
       ], 
@@ -2369,8 +2460,8 @@
         "92"
       ], 
       "housenumber": "92", 
-      "lat": 50.46440601592, 
-      "lon": 4.323934763892, 
+      "lat": 50.464455923582, 
+      "lon": 4.323870800537, 
       "municipality": "Courcelles", 
       "pcode": "6183", 
       "source": "7709530", 

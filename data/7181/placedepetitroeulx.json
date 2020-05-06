@@ -49,6 +49,10 @@
       "street": "Place de Petit-Roeulx"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -73,12 +77,18 @@
       "street": "Place de Petit-Roeulx"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004"
+      ], 
       "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.554230568205, 
-      "lon": 4.3138873367, 
+      "lat": 50.554286175882, 
+      "lon": 4.313818069913, 
       "municipality": "Seneffe", 
       "pcode": "7181", 
       "source": "7711393", 
@@ -89,8 +99,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.554259089848, 
-      "lon": 4.314072377054, 
+      "lat": 50.554335214143, 
+      "lon": 4.314121765347, 
       "municipality": "Seneffe", 
       "pcode": "7181", 
       "source": "7711393", 

@@ -1,12 +1,21 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.610760573228, 
-      "lon": 4.137133557129, 
+      "lat": 50.6104507746, 
+      "lon": 4.136898834598, 
       "municipality": "Braine-le-Comte", 
       "pcode": "7090", 
       "source": "7716673", 
@@ -55,6 +64,45 @@
       "housenumber": "2", 
       "lat": 50.610574896592, 
       "lon": 4.136917748563, 
+      "municipality": "Braine-le-Comte", 
+      "pcode": "7090", 
+      "source": "7716673", 
+      "street": "Rue Haute"
+    }, 
+    {
+      "busnrs": [
+        "Bt.2"
+      ], 
+      "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 50.610693247514, 
+      "lon": 4.137078146549, 
+      "municipality": "Braine-le-Comte", 
+      "pcode": "7090", 
+      "source": "7716673", 
+      "street": "Rue Haute"
+    }, 
+    {
+      "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 50.610760573228, 
+      "lon": 4.137133557129, 
+      "municipality": "Braine-le-Comte", 
+      "pcode": "7090", 
+      "source": "7716673", 
+      "street": "Rue Haute"
+    }, 
+    {
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 50.610893523334, 
+      "lon": 4.137316037103, 
       "municipality": "Braine-le-Comte", 
       "pcode": "7090", 
       "source": "7716673", 

@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +16,9 @@
       "street": "Avenue des Boign\u00e9es"
     }, 
     {
+      "busnrs": [
+        "000C"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -61,6 +67,10 @@
       "street": "Avenue des Boign\u00e9es"
     }, 
     {
+      "busnrs": [
+        "bte1", 
+        "bte3"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -209,8 +219,20 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.67847663188, 
-      "lon": 4.300597337251, 
+      "lat": 50.678503979472, 
+      "lon": 4.300587003535, 
+      "municipality": "Braine-le-Ch\u00e2teau", 
+      "pcode": "1440", 
+      "source": "7700812", 
+      "street": "Avenue des Boign\u00e9es"
+    }, 
+    {
+      "hnrlbls": [
+        "5A"
+      ], 
+      "housenumber": "5A", 
+      "lat": 50.678445215296, 
+      "lon": 4.300588701951, 
       "municipality": "Braine-le-Ch\u00e2teau", 
       "pcode": "1440", 
       "source": "7700812", 

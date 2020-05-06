@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "001", 
+        "011", 
+        "012"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -13,6 +18,11 @@
       "street": "Impasse Duperroy"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "012", 
+        "013"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -25,6 +35,9 @@
       "street": "Impasse Duperroy"
     }, 
     {
+      "busnrs": [
+        "001"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -49,6 +62,10 @@
       "street": "Impasse Duperroy"
     }, 
     {
+      "busnrs": [
+        "011", 
+        "012"
+      ], 
       "hnrlbls": [
         "6"
       ], 

@@ -37,12 +37,22 @@
       "street": "Rue d'Arlon"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "C/1", 
+        "C/3", 
+        "C/4", 
+        "C/5", 
+        "C/7", 
+        "C6"
+      ], 
       "hnrlbls": [
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 49.697966628579, 
-      "lon": 5.313565608338, 
+      "lat": 49.697962615458, 
+      "lon": 5.313613647937, 
       "municipality": "Florenville", 
       "pcode": "6820", 
       "source": "7747193", 
@@ -53,8 +63,8 @@
         "12A"
       ], 
       "housenumber": "12A", 
-      "lat": 49.697958222819, 
-      "lon": 5.313646021816, 
+      "lat": 49.697723356489, 
+      "lon": 5.313895758987, 
       "municipality": "Florenville", 
       "pcode": "6820", 
       "source": "7747193", 
@@ -97,12 +107,17 @@
       "street": "Rue d'Arlon"
     }, 
     {
+      "busnrs": [
+        "A/1", 
+        "A/2", 
+        "A/3"
+      ], 
       "hnrlbls": [
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 49.68815061348, 
-      "lon": 5.343554933046, 
+      "lat": 49.697698496715, 
+      "lon": 5.314411258769, 
       "municipality": "Florenville", 
       "pcode": "6820", 
       "source": "7747193", 
@@ -121,6 +136,10 @@
       "street": "Rue d'Arlon"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -133,6 +152,9 @@
       "street": "Rue d'Arlon"
     }, 
     {
+      "busnrs": [
+        "A/1"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -181,6 +203,17 @@
       "street": "Rue d'Arlon"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "A/1", 
+        "A/2", 
+        "A/3", 
+        "A/4", 
+        "A/5", 
+        "A/6", 
+        "A/7", 
+        "A/8"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -325,6 +358,9 @@
       "street": "Rue d'Arlon"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "30"
       ], 

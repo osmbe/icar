@@ -37,6 +37,10 @@
       "street": "Stockbergerweg"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -61,6 +65,10 @@
       "street": "Stockbergerweg"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -121,6 +129,10 @@
       "street": "Stockbergerweg"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -326,6 +338,35 @@
     }, 
     {
       "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 50.627395007881, 
+      "lon": 6.040291532008, 
+      "municipality": "Eupen", 
+      "pcode": "4700", 
+      "source": "7735904", 
+      "street": "Stockbergerweg"
+    }, 
+    {
+      "hnrlbls": [
+        "5A"
+      ], 
+      "housenumber": "5A", 
+      "lat": 50.627630209408, 
+      "lon": 6.040112611479, 
+      "municipality": "Eupen", 
+      "pcode": "4700", 
+      "source": "7735904", 
+      "street": "Stockbergerweg"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
+      "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
@@ -349,6 +390,11 @@
       "street": "Stockbergerweg"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "8"
       ], 

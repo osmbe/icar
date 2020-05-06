@@ -265,6 +265,9 @@
       "street": "Chemin du Halage"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "37"
       ], 
@@ -421,6 +424,19 @@
       "street": "Chemin du Halage"
     }, 
     {
+      "busnrs": [
+        "01/4", 
+        "01/5", 
+        "01/6", 
+        "02/9", 
+        "1", 
+        "2/7", 
+        "2/8", 
+        "3/10", 
+        "3/12", 
+        "RC/3", 
+        "RC2"
+      ], 
       "hnrlbls": [
         "49"
       ], 
@@ -505,6 +521,10 @@
       "street": "Chemin du Halage"
     }, 
     {
+      "busnrs": [
+        "A1", 
+        "A2"
+      ], 
       "hnrlbls": [
         "54"
       ], 
@@ -733,6 +753,9 @@
       "street": "Chemin du Halage"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "76"
       ], 
@@ -751,6 +774,18 @@
       "housenumber": "77", 
       "lat": 50.342296833056, 
       "lon": 4.283976918672, 
+      "municipality": "Thuin", 
+      "pcode": "6530", 
+      "source": "7720932", 
+      "street": "Chemin du Halage"
+    }, 
+    {
+      "hnrlbls": [
+        "77B"
+      ], 
+      "housenumber": "77B", 
+      "lat": 50.342395880205, 
+      "lon": 4.28376945993, 
       "municipality": "Thuin", 
       "pcode": "6530", 
       "source": "7720932", 
@@ -853,6 +888,9 @@
       "street": "Chemin du Halage"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "88"
       ], 

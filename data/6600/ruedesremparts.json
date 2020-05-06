@@ -1,6 +1,21 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A  2", 
+        "A  3", 
+        "A  4", 
+        "B  2", 
+        "B  3", 
+        "B  4", 
+        "B  5", 
+        "B001", 
+        "C  1", 
+        "C  2", 
+        "C  3", 
+        "R  1", 
+        "R  2"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -25,6 +40,18 @@
       "street": "Rue des Remparts"
     }, 
     {
+      "busnrs": [
+        "A  1", 
+        "A  2", 
+        "A  3", 
+        "A  4", 
+        "B  1", 
+        "B  2", 
+        "B  3", 
+        "B  4", 
+        "R  1", 
+        "R  2"
+      ], 
       "hnrlbls": [
         "100"
       ], 
@@ -85,6 +112,10 @@
       "street": "Rue des Remparts"
     }, 
     {
+      "busnrs": [
+        "A  1", 
+        "R  1"
+      ], 
       "hnrlbls": [
         "108"
       ], 
@@ -121,6 +152,9 @@
       "street": "Rue des Remparts"
     }, 
     {
+      "busnrs": [
+        "B  2"
+      ], 
       "hnrlbls": [
         "110"
       ], 
@@ -433,6 +467,14 @@
       "street": "Rue des Remparts"
     }, 
     {
+      "busnrs": [
+        "A  1", 
+        "A  4", 
+        "A  5", 
+        "A  6", 
+        "B  1", 
+        "B  2"
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -469,6 +511,11 @@
       "street": "Rue des Remparts"
     }, 
     {
+      "busnrs": [
+        "A  2", 
+        "B  2", 
+        "B  3"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -529,6 +576,10 @@
       "street": "Rue des Remparts"
     }, 
     {
+      "busnrs": [
+        "A  1", 
+        "A  R"
+      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -613,6 +664,11 @@
       "street": "Rue des Remparts"
     }, 
     {
+      "busnrs": [
+        "A  2", 
+        "A  3", 
+        "A  4"
+      ], 
       "hnrlbls": [
         "43"
       ], 
@@ -761,8 +817,8 @@
         "57"
       ], 
       "housenumber": "57", 
-      "lat": 50.006558352512, 
-      "lon": 5.719329407378, 
+      "lat": 50.006725248885, 
+      "lon": 5.719889551429, 
       "municipality": "Bastogne", 
       "pcode": "6600", 
       "source": "7742446", 
@@ -1201,6 +1257,10 @@
       "street": "Rue des Remparts"
     }, 
     {
+      "busnrs": [
+        "A  1", 
+        "R  1"
+      ], 
       "hnrlbls": [
         "96"
       ], 

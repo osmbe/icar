@@ -73,6 +73,10 @@
       "street": "Rue de l'Invasion"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -121,6 +125,12 @@
       "street": "Rue de l'Invasion"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -145,6 +155,9 @@
       "street": "Rue de l'Invasion"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -269,8 +282,8 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 50.612845883163, 
-      "lon": 6.011830338416, 
+      "lat": 50.61082690403, 
+      "lon": 6.006602353119, 
       "municipality": "Baelen", 
       "pcode": "4837", 
       "source": "7735240", 

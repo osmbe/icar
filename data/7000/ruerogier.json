@@ -5,8 +5,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.451856782665, 
-      "lon": 3.94446206721, 
+      "lat": 50.451806134189, 
+      "lon": 3.944524274654, 
       "municipality": "Mons", 
       "pcode": "7000", 
       "source": "7714162", 
@@ -37,6 +37,12 @@
       "street": "Rue Rogier"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "2-1", 
+        "3-1"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -49,6 +55,11 @@
       "street": "Rue Rogier"
     }, 
     {
+      "busnrs": [
+        "1-1", 
+        "2-1", 
+        "3-1"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -61,6 +72,14 @@
       "street": "Rue Rogier"
     }, 
     {
+      "busnrs": [
+        "1-1", 
+        "1-2", 
+        "2-1", 
+        "2-2", 
+        "3-1", 
+        "4-2"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -73,6 +92,60 @@
       "street": "Rue Rogier"
     }, 
     {
+      "busnrs": [
+        "1-1", 
+        "1-2", 
+        "1-3", 
+        "2-1", 
+        "2-2", 
+        "2-3", 
+        "3-1", 
+        "3-2", 
+        "3-3"
+      ], 
+      "hnrlbls": [
+        "1A"
+      ], 
+      "housenumber": "1A", 
+      "lat": 50.45185509982, 
+      "lon": 3.944479143146, 
+      "municipality": "Mons", 
+      "pcode": "7000", 
+      "source": "7714162", 
+      "street": "Rue Rogier"
+    }, 
+    {
+      "hnrlbls": [
+        "1B"
+      ], 
+      "housenumber": "1B", 
+      "lat": 50.451888684123, 
+      "lon": 3.944445973068, 
+      "municipality": "Mons", 
+      "pcode": "7000", 
+      "source": "7714162", 
+      "street": "Rue Rogier"
+    }, 
+    {
+      "hnrlbls": [
+        "1C"
+      ], 
+      "housenumber": "1C", 
+      "lat": 50.451924804473, 
+      "lon": 3.944410789182, 
+      "municipality": "Mons", 
+      "pcode": "7000", 
+      "source": "7714162", 
+      "street": "Rue Rogier"
+    }, 
+    {
+      "busnrs": [
+        "0-1", 
+        "3-1", 
+        "4-1", 
+        "4-2", 
+        "A2"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -85,6 +158,12 @@
       "street": "Rue Rogier"
     }, 
     {
+      "busnrs": [
+        "1-1", 
+        "2", 
+        "2-1", 
+        "Et-1"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -113,20 +192,47 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.451986436496, 
-      "lon": 3.944322179354, 
+      "lat": 50.451968114211, 
+      "lon": 3.944353081265, 
       "municipality": "Mons", 
       "pcode": "7000", 
       "source": "7714162", 
       "street": "Rue Rogier"
     }, 
     {
+      "busnrs": [
+        "1-1", 
+        "1-2", 
+        "1-3", 
+        "2-1", 
+        "2-2", 
+        "2-3", 
+        "3-1", 
+        "4-1"
+      ], 
       "hnrlbls": [
         "3A"
       ], 
       "housenumber": "3A", 
-      "lat": 50.452098744433, 
-      "lon": 3.944196217409, 
+      "lat": 50.452044942378, 
+      "lon": 3.944282389133, 
+      "municipality": "Mons", 
+      "pcode": "7000", 
+      "source": "7714162", 
+      "street": "Rue Rogier"
+    }, 
+    {
+      "busnrs": [
+        "1-1", 
+        "2-1", 
+        "3-1"
+      ], 
+      "hnrlbls": [
+        "3B"
+      ], 
+      "housenumber": "3B", 
+      "lat": 50.452103865847, 
+      "lon": 3.944202018203, 
       "municipality": "Mons", 
       "pcode": "7000", 
       "source": "7714162", 
@@ -145,6 +251,18 @@
       "street": "Rue Rogier"
     }, 
     {
+      "busnrs": [
+        "1-1", 
+        "1-2", 
+        "1-3", 
+        "2-1", 
+        "2-2", 
+        "2-3", 
+        "2-6", 
+        "3-1", 
+        "3-2", 
+        "3-3"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -157,12 +275,27 @@
       "street": "Rue Rogier"
     }, 
     {
+      "busnrs": [
+        "2-1"
+      ], 
       "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
       "lat": 50.452206212298, 
       "lon": 3.944091603316, 
+      "municipality": "Mons", 
+      "pcode": "7000", 
+      "source": "7714162", 
+      "street": "Rue Rogier"
+    }, 
+    {
+      "hnrlbls": [
+        "7B"
+      ], 
+      "housenumber": "7B", 
+      "lat": 50.452231212683, 
+      "lon": 3.944089574489, 
       "municipality": "Mons", 
       "pcode": "7000", 
       "source": "7714162", 

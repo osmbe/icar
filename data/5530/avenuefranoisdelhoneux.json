@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "000B", 
+        "A/3", 
+        "A/B1"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -97,6 +102,10 @@
       "street": "Avenue Fran\u00e7ois de Lhoneux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -145,12 +154,29 @@
       "street": "Avenue Fran\u00e7ois de Lhoneux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "1A"
       ], 
       "housenumber": "1A", 
       "lat": 50.325805531247, 
       "lon": 4.878605189226, 
+      "municipality": "Yvoir", 
+      "pcode": "5530", 
+      "source": "7750818", 
+      "street": "Avenue Fran\u00e7ois de Lhoneux"
+    }, 
+    {
+      "hnrlbls": [
+        "1B"
+      ], 
+      "housenumber": "1B", 
+      "lat": 50.325718696019, 
+      "lon": 4.878687678117, 
       "municipality": "Yvoir", 
       "pcode": "5530", 
       "source": "7750818", 
@@ -205,6 +231,12 @@
       "street": "Avenue Fran\u00e7ois de Lhoneux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "RdCh", 
+        "\u00e9t"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -349,6 +381,13 @@
       "street": "Avenue Fran\u00e7ois de Lhoneux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "A/b2", 
+        "Bte2"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -367,6 +406,24 @@
       "housenumber": "40", 
       "lat": 50.327100675906, 
       "lon": 4.876824063575, 
+      "municipality": "Yvoir", 
+      "pcode": "5530", 
+      "source": "7750818", 
+      "street": "Avenue Fran\u00e7ois de Lhoneux"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004"
+      ], 
+      "hnrlbls": [
+        "40A"
+      ], 
+      "housenumber": "40A", 
+      "lat": 50.327360732998, 
+      "lon": 4.876702331228, 
       "municipality": "Yvoir", 
       "pcode": "5530", 
       "source": "7750818", 
@@ -409,6 +466,11 @@
       "street": "Avenue Fran\u00e7ois de Lhoneux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "Bte1"
+      ], 
       "hnrlbls": [
         "48"
       ], 
@@ -421,6 +483,11 @@
       "street": "Avenue Fran\u00e7ois de Lhoneux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "1\u00e9t"
+      ], 
       "hnrlbls": [
         "5"
       ], 

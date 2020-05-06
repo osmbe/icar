@@ -341,8 +341,8 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 50.732235746985, 
-      "lon": 5.672160896433, 
+      "lat": 50.732225924562, 
+      "lon": 5.67222981633, 
       "municipality": "Oupeye", 
       "pcode": "4684", 
       "source": "7731676", 
@@ -469,6 +469,9 @@
       "street": "Rue du Canal"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "55"
       ], 
@@ -517,6 +520,12 @@
       "street": "Rue du Canal"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "11", 
+        "12", 
+        "21"
+      ], 
       "hnrlbls": [
         "62"
       ], 

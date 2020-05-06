@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -19,6 +22,18 @@
       "housenumber": "10", 
       "lat": 50.468151266285, 
       "lon": 5.442568815268, 
+      "municipality": "Ouffet", 
+      "pcode": "4590", 
+      "source": "7726080", 
+      "street": "Rue de Soheit"
+    }, 
+    {
+      "hnrlbls": [
+        "11"
+      ], 
+      "housenumber": "11", 
+      "lat": 50.46890873019, 
+      "lon": 5.441882203664, 
       "municipality": "Ouffet", 
       "pcode": "4590", 
       "source": "7726080", 

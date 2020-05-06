@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0000", 
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -109,6 +114,9 @@
       "street": "Rue Rosa Luxembourg"
     }, 
     {
+      "busnrs": [
+        "H001"
+      ], 
       "hnrlbls": [
         "110"
       ], 
@@ -337,6 +345,13 @@
       "street": "Rue Rosa Luxembourg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -409,6 +424,10 @@
       "street": "Rue Rosa Luxembourg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -637,6 +656,9 @@
       "street": "Rue Rosa Luxembourg"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "47"
       ], 
@@ -1109,8 +1131,8 @@
         "98A"
       ], 
       "housenumber": "98A", 
-      "lat": 50.613444338961, 
-      "lon": 5.761382860434, 
+      "lat": 50.613375764688, 
+      "lon": 5.761325992719, 
       "municipality": "Soumagne", 
       "pcode": "4630", 
       "source": "7732873", 

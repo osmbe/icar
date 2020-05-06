@@ -1,6 +1,16 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt04", 
+        "Bt05", 
+        "Bt06", 
+        "Bt07", 
+        "Bt08"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -25,6 +35,16 @@
       "street": "Les Huttes"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt04", 
+        "Bt05", 
+        "Bt06", 
+        "Bt07", 
+        "Bt08"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -37,6 +57,17 @@
       "street": "Les Huttes"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt03", 
+        "Bt05", 
+        "Bt06", 
+        "Bt07", 
+        "Bt08", 
+        "BtC3", 
+        "CA04", 
+        "RDCH"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -53,8 +84,20 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.585714848396, 
-      "lon": 4.311759307793, 
+      "lat": 50.585980301339, 
+      "lon": 4.311754508177, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7702950", 
+      "street": "Les Huttes"
+    }, 
+    {
+      "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 50.585712151621, 
+      "lon": 4.311752370562, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702950", 

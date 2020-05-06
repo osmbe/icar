@@ -37,6 +37,10 @@
       "street": "Rue de la Gare"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -149,8 +153,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 50.42599075951, 
-      "lon": 4.586299447906, 
+      "lat": 50.425957333611, 
+      "lon": 4.586238971137, 
       "municipality": "Aiseau-Presles", 
       "pcode": "6250", 
       "source": "7711590", 
@@ -173,8 +177,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.426013991, 
-      "lon": 4.586246554154, 
+      "lat": 50.426002623665, 
+      "lon": 4.586219691941, 
       "municipality": "Aiseau-Presles", 
       "pcode": "6250", 
       "source": "7711590", 
@@ -217,6 +221,9 @@
       "street": "Rue de la Gare"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -313,6 +320,9 @@
       "street": "Rue de la Gare"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "37"
       ], 
@@ -374,18 +384,6 @@
     }, 
     {
       "hnrlbls": [
-        "43"
-      ], 
-      "housenumber": "43", 
-      "lat": 50.426874090004, 
-      "lon": 4.585963533387, 
-      "municipality": "Aiseau-Presles", 
-      "pcode": "6250", 
-      "source": "7711590", 
-      "street": "Rue de la Gare"
-    }, 
-    {
-      "hnrlbls": [
         "44"
       ], 
       "housenumber": "44", 
@@ -433,12 +431,24 @@
       "street": "Rue de la Gare"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008", 
+        "0009", 
+        "0010"
+      ], 
       "hnrlbls": [
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 50.426731363493, 
-      "lon": 4.58556276333, 
+      "lat": 50.426710723112, 
+      "lon": 4.585533623462, 
       "municipality": "Aiseau-Presles", 
       "pcode": "6250", 
       "source": "7711590", 
@@ -521,8 +531,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.425270753849, 
-      "lon": 4.586129015668, 
+      "lat": 50.425290174766, 
+      "lon": 4.586123295515, 
       "municipality": "Aiseau-Presles", 
       "pcode": "6250", 
       "source": "7711590", 
@@ -637,6 +647,10 @@
       "street": "Rue de la Gare"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "72"
       ], 
@@ -715,6 +729,18 @@
       "housenumber": "82", 
       "lat": 50.428181654062, 
       "lon": 4.585205696708, 
+      "municipality": "Aiseau-Presles", 
+      "pcode": "6250", 
+      "source": "7711590", 
+      "street": "Rue de la Gare"
+    }, 
+    {
+      "hnrlbls": [
+        "84"
+      ], 
+      "housenumber": "84", 
+      "lat": 50.428226216559, 
+      "lon": 4.585178260566, 
       "municipality": "Aiseau-Presles", 
       "pcode": "6250", 
       "source": "7711590", 

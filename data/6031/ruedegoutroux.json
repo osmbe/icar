@@ -97,6 +97,10 @@
       "street": "Rue de Goutroux"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "SS01"
+      ], 
       "hnrlbls": [
         "117"
       ], 
@@ -181,6 +185,11 @@
       "street": "Rue de Goutroux"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "011", 
+        "021"
+      ], 
       "hnrlbls": [
         "129"
       ], 
@@ -505,6 +514,10 @@
       "street": "Rue de Goutroux"
     }, 
     {
+      "busnrs": [
+        "000B", 
+        "00C"
+      ], 
       "hnrlbls": [
         "193"
       ], 
@@ -677,8 +690,8 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 50.410059307381, 
-      "lon": 4.375827834194, 
+      "lat": 50.410982599315, 
+      "lon": 4.378350334599, 
       "municipality": "Charleroi", 
       "pcode": "6031", 
       "source": "7760769", 

@@ -4,7 +4,7 @@
       "b": 50.539676366209, 
       "l": 5.485853846868, 
       "name": "All\u00e9e des Sorbiers", 
-      "numOfAddr": 16, 
+      "numOfAddr": 20, 
       "otherPCs": [
         "4120"
       ], 
@@ -13,10 +13,10 @@
       "t": 50.540951251336
     }, 
     {
-      "b": 50.542637840887, 
+      "b": 50.541925268778, 
       "l": 5.489428874312, 
       "name": "Avenue Marcel Marion", 
-      "numOfAddr": 3, 
+      "numOfAddr": 5, 
       "r": 5.489600698003, 
       "sanName": "avenuemarcelmarion", 
       "t": 50.542953529235
@@ -52,7 +52,7 @@
       "b": 50.527747254242, 
       "l": 5.518898651846, 
       "name": "Grand Route", 
-      "numOfAddr": 109, 
+      "numOfAddr": 110, 
       "otherPCs": [
         "4120"
       ], 
@@ -79,6 +79,15 @@
       "t": 50.540394776827
     }, 
     {
+      "b": 50.539930436318, 
+      "l": 5.504041511842, 
+      "name": "Petit Bioleux", 
+      "numOfAddr": 9, 
+      "r": 5.506137049207, 
+      "sanName": "petitbioleux", 
+      "t": 50.541922652895
+    }, 
+    {
       "b": 50.544047686734, 
       "l": 5.490352930947, 
       "name": "Route de Seraing", 
@@ -88,10 +97,10 @@
       "t": 50.547007331271
     }, 
     {
-      "b": 50.543142538479, 
-      "l": 5.484335471131, 
+      "b": 50.542170390642, 
+      "l": 5.480147737068, 
       "name": "Route du Condroz", 
-      "numOfAddr": 35, 
+      "numOfAddr": 37, 
       "otherPCs": [
         "4120", 
         "4121"
@@ -153,7 +162,7 @@
       "b": 50.538840134387, 
       "l": 5.486953166255, 
       "name": "Rue de la Limite", 
-      "numOfAddr": 6, 
+      "numOfAddr": 7, 
       "otherPCs": [
         "4120"
       ], 
@@ -259,15 +268,6 @@
       "r": 5.525058001169, 
       "sanName": "rueduchrist", 
       "t": 50.545122227529
-    }, 
-    {
-      "b": 50.539930436318, 
-      "l": 5.504041511842, 
-      "name": "Rue du Petit Bioleux", 
-      "numOfAddr": 9, 
-      "r": 5.506137049207, 
-      "sanName": "ruedupetitbioleux", 
-      "t": 50.541922652895
     }, 
     {
       "b": 50.540750365818, 

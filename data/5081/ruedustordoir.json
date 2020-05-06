@@ -25,6 +25,9 @@
       "street": "Rue du Stordoir"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -97,6 +100,9 @@
       "street": "Rue du Stordoir"
     }, 
     {
+      "busnrs": [
+        "000B"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -121,6 +127,11 @@
       "street": "Rue du Stordoir"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "000B", 
+        "000C"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -289,12 +300,19 @@
       "street": "Rue du Stordoir"
     }, 
     {
+      "busnrs": [
+        "000C", 
+        "ABT1", 
+        "ABT2", 
+        "Bte1", 
+        "Bte2"
+      ], 
       "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.536771522808, 
-      "lon": 4.783194732191, 
+      "lat": 50.536696851822, 
+      "lon": 4.783103216962, 
       "municipality": "La Bruy\u00e8re", 
       "pcode": "5081", 
       "source": "7756072", 

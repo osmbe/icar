@@ -1,12 +1,27 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "rez."
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
       "lat": 50.588776441419, 
       "lon": 5.861111299637, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738690", 
+      "street": "Place Albert 1er"
+    }, 
+    {
+      "hnrlbls": [
+        "13"
+      ], 
+      "housenumber": "13", 
+      "lat": 50.589221303296, 
+      "lon": 5.860687906838, 
       "municipality": "Verviers", 
       "pcode": "4800", 
       "source": "7738690", 
@@ -25,6 +40,12 @@
       "street": "Place Albert 1er"
     }, 
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "2\u00e9t.", 
+        "5", 
+        "6"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -49,6 +70,9 @@
       "street": "Place Albert 1er"
     }, 
     {
+      "busnrs": [
+        "2\u00e9t."
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -61,12 +85,28 @@
       "street": "Place Albert 1er"
     }, 
     {
+      "busnrs": [
+        "2+3\u00e9", 
+        "2\u00e9t."
+      ], 
       "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
       "lat": 50.588545988995, 
       "lon": 5.860475501496, 
+      "municipality": "Verviers", 
+      "pcode": "4800", 
+      "source": "7738690", 
+      "street": "Place Albert 1er"
+    }, 
+    {
+      "hnrlbls": [
+        "60"
+      ], 
+      "housenumber": "60", 
+      "lat": 50.589152696337, 
+      "lon": 5.860966711008, 
       "municipality": "Verviers", 
       "pcode": "4800", 
       "source": "7738690", 

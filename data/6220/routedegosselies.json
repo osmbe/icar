@@ -265,6 +265,13 @@
       "street": "Route de Gosselies"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "7"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -481,6 +488,9 @@
       "street": "Route de Gosselies"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "271"
       ], 
@@ -665,8 +675,8 @@
         "288"
       ], 
       "housenumber": "288", 
-      "lat": 50.475436438018, 
-      "lon": 4.524740164259, 
+      "lat": 50.475448948577, 
+      "lon": 4.524776437425, 
       "municipality": "Fleurus", 
       "pcode": "6220", 
       "source": "7709936", 
@@ -689,8 +699,8 @@
         "290"
       ], 
       "housenumber": "290", 
-      "lat": 50.475381783744, 
-      "lon": 4.524588325263, 
+      "lat": 50.475423041233, 
+      "lon": 4.52470906556, 
       "municipality": "Fleurus", 
       "pcode": "6220", 
       "source": "7709936", 
@@ -710,11 +720,47 @@
     }, 
     {
       "hnrlbls": [
+        "292"
+      ], 
+      "housenumber": "292", 
+      "lat": 50.475381783744, 
+      "lon": 4.524588325263, 
+      "municipality": "Fleurus", 
+      "pcode": "6220", 
+      "source": "7709936", 
+      "street": "Route de Gosselies"
+    }, 
+    {
+      "hnrlbls": [
+        "294"
+      ], 
+      "housenumber": "294", 
+      "lat": 50.475262910464, 
+      "lon": 4.524287541471, 
+      "municipality": "Fleurus", 
+      "pcode": "6220", 
+      "source": "7709936", 
+      "street": "Route de Gosselies"
+    }, 
+    {
+      "hnrlbls": [
         "295"
       ], 
       "housenumber": "295", 
       "lat": 50.473924552409, 
       "lon": 4.520771321793, 
+      "municipality": "Fleurus", 
+      "pcode": "6220", 
+      "source": "7709936", 
+      "street": "Route de Gosselies"
+    }, 
+    {
+      "hnrlbls": [
+        "296"
+      ], 
+      "housenumber": "296", 
+      "lat": 50.475235847275, 
+      "lon": 4.524247195655, 
       "municipality": "Fleurus", 
       "pcode": "6220", 
       "source": "7709936", 
@@ -869,8 +915,8 @@
         "314"
       ], 
       "housenumber": "314", 
-      "lat": 50.47489385121, 
-      "lon": 4.523373294932, 
+      "lat": 50.47493544357, 
+      "lon": 4.523399057248, 
       "municipality": "Fleurus", 
       "pcode": "6220", 
       "source": "7709936", 
@@ -881,8 +927,8 @@
         "316"
       ], 
       "housenumber": "316", 
-      "lat": 50.474792672409, 
-      "lon": 4.523193731236, 
+      "lat": 50.474814260755, 
+      "lon": 4.523165399256, 
       "municipality": "Fleurus", 
       "pcode": "6220", 
       "source": "7709936", 
@@ -1010,6 +1056,18 @@
     }, 
     {
       "hnrlbls": [
+        "336"
+      ], 
+      "housenumber": "336", 
+      "lat": 50.474443812468, 
+      "lon": 4.522491965735, 
+      "municipality": "Fleurus", 
+      "pcode": "6220", 
+      "source": "7709936", 
+      "street": "Route de Gosselies"
+    }, 
+    {
+      "hnrlbls": [
         "337"
       ], 
       "housenumber": "337", 
@@ -1025,8 +1083,8 @@
         "338"
       ], 
       "housenumber": "338", 
-      "lat": 50.474337172882, 
-      "lon": 4.522512731553, 
+      "lat": 50.474352427704, 
+      "lon": 4.522488926433, 
       "municipality": "Fleurus", 
       "pcode": "6220", 
       "source": "7709936", 
@@ -1063,6 +1121,18 @@
       "housenumber": "345", 
       "lat": 50.472245270371, 
       "lon": 4.516850046167, 
+      "municipality": "Fleurus", 
+      "pcode": "6220", 
+      "source": "7709936", 
+      "street": "Route de Gosselies"
+    }, 
+    {
+      "hnrlbls": [
+        "346"
+      ], 
+      "housenumber": "346", 
+      "lat": 50.474203315634, 
+      "lon": 4.522133139286, 
       "municipality": "Fleurus", 
       "pcode": "6220", 
       "source": "7709936", 
@@ -1217,8 +1287,8 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 50.48229921917, 
-      "lon": 4.538081981378, 
+      "lat": 50.482286494252, 
+      "lon": 4.537961394496, 
       "municipality": "Fleurus", 
       "pcode": "6220", 
       "source": "7709936", 
@@ -1393,6 +1463,9 @@
       "street": "Route de Gosselies"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "470"
       ], 
@@ -1405,12 +1478,43 @@
       "street": "Route de Gosselies"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
+      "hnrlbls": [
+        "49"
+      ], 
+      "housenumber": "49", 
+      "lat": 50.481727771644, 
+      "lon": 4.536616236644, 
+      "municipality": "Fleurus", 
+      "pcode": "6220", 
+      "source": "7709936", 
+      "street": "Route de Gosselies"
+    }, 
+    {
       "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
       "lat": 50.483286325863, 
       "lon": 4.540596793526, 
+      "municipality": "Fleurus", 
+      "pcode": "6220", 
+      "source": "7709936", 
+      "street": "Route de Gosselies"
+    }, 
+    {
+      "hnrlbls": [
+        "51"
+      ], 
+      "housenumber": "51", 
+      "lat": 50.48161574089, 
+      "lon": 4.536448825703, 
       "municipality": "Fleurus", 
       "pcode": "6220", 
       "source": "7709936", 

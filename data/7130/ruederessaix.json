@@ -29,8 +29,8 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 50.412494371904, 
-      "lon": 4.172822854453, 
+      "lat": 50.412534688851, 
+      "lon": 4.172814612684, 
       "municipality": "Binche", 
       "pcode": "7130", 
       "source": "7719695", 
@@ -109,6 +109,25 @@
       "street": "Rue de Ressaix"
     }, 
     {
+      "busnrs": [
+        "A002", 
+        "A004", 
+        "A1", 
+        "A3", 
+        "B1", 
+        "B2", 
+        "B3", 
+        "B4", 
+        "C002", 
+        "C1", 
+        "C4", 
+        "RDC1", 
+        "RDC2", 
+        "RDC3", 
+        "RDC4", 
+        "SS1", 
+        "SS2"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -265,6 +284,9 @@
       "street": "Rue de Ressaix"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -277,6 +299,10 @@
       "street": "Rue de Ressaix"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "31"
       ], 

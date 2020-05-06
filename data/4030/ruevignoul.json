@@ -97,6 +97,22 @@
       "street": "Rue Vignoul"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024", 
+        "0031", 
+        "0032", 
+        "0033", 
+        "0034"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -121,6 +137,10 @@
       "street": "Rue Vignoul"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -133,12 +153,35 @@
       "street": "Rue Vignoul"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "28"
       ], 
       "housenumber": "28", 
       "lat": 50.620858187485, 
       "lon": 5.602922590739, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7731401", 
+      "street": "Rue Vignoul"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021"
+      ], 
+      "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 50.620135989063, 
+      "lon": 5.601969124839, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4030", 
       "source": "7731401", 
@@ -181,6 +224,11 @@
       "street": "Rue Vignoul"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "33"
       ], 
@@ -253,6 +301,22 @@
       "street": "Rue Vignoul"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.620388054673, 
+      "lon": 5.601965251159, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7731401", 
+      "street": "Rue Vignoul"
+    }, 
+    {
       "hnrlbls": [
         "45"
       ], 
@@ -289,6 +353,10 @@
       "street": "Rue Vignoul"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -313,6 +381,11 @@
       "street": "Rue Vignoul"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012"
+      ], 
       "hnrlbls": [
         "9"
       ], 

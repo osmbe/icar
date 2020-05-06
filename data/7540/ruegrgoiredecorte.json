@@ -1,12 +1,16 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "01", 
+        "11"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.641921604547, 
-      "lon": 3.362468801149, 
+      "lat": 50.641926653128, 
+      "lon": 3.362533661133, 
       "municipality": "Tournai", 
       "pcode": "7540", 
       "source": "7723779", 
@@ -146,6 +150,18 @@
     }, 
     {
       "hnrlbls": [
+        "15A"
+      ], 
+      "housenumber": "15A", 
+      "lat": 50.643633688867, 
+      "lon": 3.364780816384, 
+      "municipality": "Tournai", 
+      "pcode": "7540", 
+      "source": "7723779", 
+      "street": "Rue Gr\u00e9goire Decorte"
+    }, 
+    {
+      "hnrlbls": [
         "16"
       ], 
       "housenumber": "16", 
@@ -221,8 +237,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.644595286911, 
-      "lon": 3.365168229051, 
+      "lat": 50.644510219095, 
+      "lon": 3.365047465184, 
       "municipality": "Tournai", 
       "pcode": "7540", 
       "source": "7723779", 
@@ -253,6 +269,9 @@
       "street": "Rue Gr\u00e9goire Decorte"
     }, 
     {
+      "busnrs": [
+        "Bis0"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -277,6 +296,9 @@
       "street": "Rue Gr\u00e9goire Decorte"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -313,6 +335,10 @@
       "street": "Rue Gr\u00e9goire Decorte"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "01"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -361,6 +387,9 @@
       "street": "Rue Gr\u00e9goire Decorte"
     }, 
     {
+      "busnrs": [
+        "Bis0"
+      ], 
       "hnrlbls": [
         "3"
       ], 

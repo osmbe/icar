@@ -49,6 +49,9 @@
       "street": "Rue Victor-Carpentier"
     }, 
     {
+      "busnrs": [
+        "0011"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -121,6 +124,16 @@
       "street": "Rue Victor-Carpentier"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0023"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -133,6 +146,14 @@
       "street": "Rue Victor-Carpentier"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0022", 
+        "0023"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -169,6 +190,24 @@
       "street": "Rue Victor-Carpentier"
     }, 
     {
+      "hnrlbls": [
+        "22"
+      ], 
+      "housenumber": "22", 
+      "lat": 50.640219487332, 
+      "lon": 5.596489235643, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7731395", 
+      "street": "Rue Victor-Carpentier"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "23"
       ], 

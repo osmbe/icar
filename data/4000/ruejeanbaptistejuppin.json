@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -55,6 +60,30 @@
       "housenumber": "16", 
       "lat": 50.643261091837, 
       "lon": 5.550802390323, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731082", 
+      "street": "Rue Jean-Baptiste-Juppin"
+    }, 
+    {
+      "hnrlbls": [
+        "17"
+      ], 
+      "housenumber": "17", 
+      "lat": 50.643026015315, 
+      "lon": 5.550213273797, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731082", 
+      "street": "Rue Jean-Baptiste-Juppin"
+    }, 
+    {
+      "hnrlbls": [
+        "18"
+      ], 
+      "housenumber": "18", 
+      "lat": 50.643462539723, 
+      "lon": 5.550627293515, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731082", 

@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "B", 
+        "Bte1", 
+        "Bte2"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -25,18 +30,11 @@
       "street": "Rue de Maibes"
     }, 
     {
-      "hnrlbls": [
-        "12"
+      "busnrs": [
+        "Bte1", 
+        "Bte2", 
+        "Bte3"
       ], 
-      "housenumber": "12", 
-      "lat": 50.259675775519, 
-      "lon": 4.913893989927, 
-      "municipality": "Dinant", 
-      "pcode": "5500", 
-      "source": "7749263", 
-      "street": "Rue de Maibes"
-    }, 
-    {
       "hnrlbls": [
         "2"
       ], 
@@ -49,6 +47,12 @@
       "street": "Rue de Maibes"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2", 
+        "Bte3", 
+        "Bte4"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -61,6 +65,10 @@
       "street": "Rue de Maibes"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -73,6 +81,10 @@
       "street": "Rue de Maibes"
     }, 
     {
+      "busnrs": [
+        "Bte2", 
+        "Bte3"
+      ], 
       "hnrlbls": [
         "5"
       ], 

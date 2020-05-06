@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +16,12 @@
       "street": "Rue Bughin Augustin"
     }, 
     {
+      "busnrs": [
+        "002", 
+        "011", 
+        "1/01", 
+        "OO/1"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -73,6 +82,11 @@
       "street": "Rue Bughin Augustin"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "00O1", 
+        "021"
+      ], 
       "hnrlbls": [
         "9"
       ], 

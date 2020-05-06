@@ -1,6 +1,13 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "201", 
+        "SS01"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -25,6 +32,14 @@
       "street": "Avenue Herbert Hoover"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -37,6 +52,9 @@
       "street": "Avenue Herbert Hoover"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "20"
       ], 

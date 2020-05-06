@@ -13,6 +13,14 @@
       "street": "Rue des Ecureuils"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -37,6 +45,16 @@
       "street": "Rue des Ecureuils"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -61,6 +79,17 @@
       "street": "Rue des Ecureuils"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022", 
+        "0023"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -127,6 +156,18 @@
       "housenumber": "5", 
       "lat": 50.623082799127, 
       "lon": 5.558053269978, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730609", 
+      "street": "Rue des Ecureuils"
+    }, 
+    {
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.622914561968, 
+      "lon": 5.557690256959, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730609", 

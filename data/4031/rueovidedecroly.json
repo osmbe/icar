@@ -145,6 +145,18 @@
       "street": "Rue Ovide-Decroly"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0023"
+      ], 
       "hnrlbls": [
         "110"
       ], 
@@ -517,6 +529,11 @@
       "street": "Rue Ovide-Decroly"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "149"
       ], 
@@ -541,6 +558,12 @@
       "street": "Rue Ovide-Decroly"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "151"
       ], 
@@ -1141,12 +1164,41 @@
       "street": "Rue Ovide-Decroly"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
+      "hnrlbls": [
+        "55"
+      ], 
+      "housenumber": "55", 
+      "lat": 50.611272570731, 
+      "lon": 5.596397700205, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4031", 
+      "source": "7731225", 
+      "street": "Rue Ovide-Decroly"
+    }, 
+    {
       "hnrlbls": [
         "56"
       ], 
       "housenumber": "56", 
       "lat": 50.612039461713, 
       "lon": 5.59414845615, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4031", 
+      "source": "7731225", 
+      "street": "Rue Ovide-Decroly"
+    }, 
+    {
+      "hnrlbls": [
+        "57"
+      ], 
+      "housenumber": "57", 
+      "lat": 50.611276566746, 
+      "lon": 5.596388788838, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4031", 
       "source": "7731225", 
@@ -1195,6 +1247,18 @@
       "housenumber": "60", 
       "lat": 50.612066023631, 
       "lon": 5.593997678129, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4031", 
+      "source": "7731225", 
+      "street": "Rue Ovide-Decroly"
+    }, 
+    {
+      "hnrlbls": [
+        "61"
+      ], 
+      "housenumber": "61", 
+      "lat": 50.611308595959, 
+      "lon": 5.595850358598, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4031", 
       "source": "7731225", 

@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -97,6 +102,9 @@
       "street": "Rue de la Halle"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -109,6 +117,12 @@
       "street": "Rue de la Halle"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0022"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -139,18 +153,6 @@
       "housenumber": "5", 
       "lat": 50.711344481185, 
       "lon": 3.829954346218, 
-      "municipality": "Lessines", 
-      "pcode": "7860", 
-      "source": "7718014", 
-      "street": "Rue de la Halle"
-    }, 
-    {
-      "hnrlbls": [
-        "6"
-      ], 
-      "housenumber": "6", 
-      "lat": 50.711509103859, 
-      "lon": 3.82944590101, 
       "municipality": "Lessines", 
       "pcode": "7860", 
       "source": "7718014", 

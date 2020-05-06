@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "R"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -625,12 +630,18 @@
       "street": "Rue d'Aywaille"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "R1", 
+        "R2"
+      ], 
       "hnrlbls": [
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 50.480397169833, 
-      "lon": 5.593179858722, 
+      "lat": 50.4802576068, 
+      "lon": 5.593253061933, 
       "municipality": "Comblain-au-Pont", 
       "pcode": "4170", 
       "source": "7728296", 
@@ -665,8 +676,8 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 50.480353478741, 
-      "lon": 5.593735820385, 
+      "lat": 50.480408259791, 
+      "lon": 5.593724245351, 
       "municipality": "Comblain-au-Pont", 
       "pcode": "4170", 
       "source": "7728296", 
@@ -841,6 +852,9 @@
       "street": "Rue d'Aywaille"
     }, 
     {
+      "busnrs": [
+        "SS"
+      ], 
       "hnrlbls": [
         "53"
       ], 
@@ -1057,6 +1071,9 @@
       "street": "Rue d'Aywaille"
     }, 
     {
+      "busnrs": [
+        "REZ"
+      ], 
       "hnrlbls": [
         "72"
       ], 

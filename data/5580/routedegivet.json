@@ -5,8 +5,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.206560097899, 
-      "lon": 5.112221244637, 
+      "lat": 50.206530812965, 
+      "lon": 5.112188169513, 
       "municipality": "Rochefort", 
       "pcode": "5580", 
       "source": "7750337", 
@@ -170,6 +170,30 @@
     }, 
     {
       "hnrlbls": [
+        "2A"
+      ], 
+      "housenumber": "2A", 
+      "lat": 50.206363512383, 
+      "lon": 5.110950814503, 
+      "municipality": "Rochefort", 
+      "pcode": "5580", 
+      "source": "7750337", 
+      "street": "Route de Givet"
+    }, 
+    {
+      "hnrlbls": [
+        "2B"
+      ], 
+      "housenumber": "2B", 
+      "lat": 50.206376407218, 
+      "lon": 5.111054430267, 
+      "municipality": "Rochefort", 
+      "pcode": "5580", 
+      "source": "7750337", 
+      "street": "Route de Givet"
+    }, 
+    {
+      "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
@@ -181,12 +205,40 @@
       "street": "Route de Givet"
     }, 
     {
+      "busnrs": [
+        "B011", 
+        "B021"
+      ], 
       "hnrlbls": [
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 50.207763860936, 
-      "lon": 5.116036895205, 
+      "lat": 50.207748206874, 
+      "lon": 5.11597456155, 
+      "municipality": "Rochefort", 
+      "pcode": "5580", 
+      "source": "7750337", 
+      "street": "Route de Givet"
+    }, 
+    {
+      "hnrlbls": [
+        "30A"
+      ], 
+      "housenumber": "30A", 
+      "lat": 50.207785737083, 
+      "lon": 5.116094169622, 
+      "municipality": "Rochefort", 
+      "pcode": "5580", 
+      "source": "7750337", 
+      "street": "Route de Givet"
+    }, 
+    {
+      "hnrlbls": [
+        "30B"
+      ], 
+      "housenumber": "30B", 
+      "lat": 50.207803764761, 
+      "lon": 5.116157468071, 
       "municipality": "Rochefort", 
       "pcode": "5580", 
       "source": "7750337", 
@@ -565,6 +617,12 @@
       "street": "Route de Givet"
     }, 
     {
+      "busnrs": [
+        "A001", 
+        "B001", 
+        "C011", 
+        "C012"
+      ], 
       "hnrlbls": [
         "68"
       ], 

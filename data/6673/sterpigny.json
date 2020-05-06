@@ -289,6 +289,9 @@
       "street": "Sterpigny"
     }, 
     {
+      "busnrs": [
+        "APP."
+      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -337,6 +340,11 @@
       "street": "Sterpigny"
     }, 
     {
+      "busnrs": [
+        "/0001", 
+        "/0002", 
+        "/0003"
+      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -602,6 +610,18 @@
     }, 
     {
       "hnrlbls": [
+        "46B"
+      ], 
+      "housenumber": "46B", 
+      "lat": 50.185676414008, 
+      "lon": 5.879704940604, 
+      "municipality": "Gouvy", 
+      "pcode": "6673", 
+      "source": "7743032", 
+      "street": "Sterpigny"
+    }, 
+    {
+      "hnrlbls": [
         "46C"
       ], 
       "housenumber": "46C", 
@@ -697,6 +717,10 @@
       "street": "Sterpigny"
     }, 
     {
+      "busnrs": [
+        "AP1", 
+        "Ap2"
+      ], 
       "hnrlbls": [
         "52"
       ], 
@@ -805,6 +829,10 @@
       "street": "Sterpigny"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "Bte2"
+      ], 
       "hnrlbls": [
         "59"
       ], 
@@ -926,6 +954,18 @@
     }, 
     {
       "hnrlbls": [
+        "66A"
+      ], 
+      "housenumber": "66A", 
+      "lat": 50.180799589997, 
+      "lon": 5.877366239431, 
+      "municipality": "Gouvy", 
+      "pcode": "6673", 
+      "source": "7743032", 
+      "street": "Sterpigny"
+    }, 
+    {
+      "hnrlbls": [
         "67"
       ], 
       "housenumber": "67", 
@@ -973,6 +1013,9 @@
       "street": "Sterpigny"
     }, 
     {
+      "busnrs": [
+        "App"
+      ], 
       "hnrlbls": [
         "7"
       ], 

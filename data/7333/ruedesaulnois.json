@@ -49,6 +49,9 @@
       "street": "Rue des Aulnois"
     }, 
     {
+      "busnrs": [
+        "RCH2"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -101,8 +104,8 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 50.522311551329, 
-      "lon": 3.778337146304, 
+      "lat": 50.472375082818, 
+      "lon": 3.804607042749, 
       "municipality": "Saint-Ghislain", 
       "pcode": "7333", 
       "source": "7714718", 
@@ -121,6 +124,9 @@
       "street": "Rue des Aulnois"
     }, 
     {
+      "busnrs": [
+        "RCH2"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -337,6 +343,11 @@
       "street": "Rue des Aulnois"
     }, 
     {
+      "busnrs": [
+        "RCH1", 
+        "RCH2", 
+        "RCH3"
+      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -545,8 +556,8 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.472473589137, 
-      "lon": 3.805514986467, 
+      "lat": 50.472472783058, 
+      "lon": 3.805452404836, 
       "municipality": "Saint-Ghislain", 
       "pcode": "7333", 
       "source": "7714718", 

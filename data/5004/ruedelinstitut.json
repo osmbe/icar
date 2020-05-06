@@ -149,8 +149,8 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 50.472175782392, 
-      "lon": 4.886228276446, 
+      "lat": 50.470574397574, 
+      "lon": 4.885898273355, 
       "municipality": "Namur", 
       "pcode": "5004", 
       "source": "7753866", 
@@ -253,6 +253,9 @@
       "street": "Rue de l'Institut"
     }, 
     {
+      "busnrs": [
+        "ET01"
+      ], 
       "hnrlbls": [
         "43"
       ], 
@@ -301,6 +304,14 @@
       "street": "Rue de l'Institut"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0402"
+      ], 
       "hnrlbls": [
         "5"
       ], 

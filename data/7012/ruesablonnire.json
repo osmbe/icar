@@ -25,6 +25,9 @@
       "street": "Rue Sablonni\u00e8re"
     }, 
     {
+      "busnrs": [
+        "13"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -133,6 +136,12 @@
       "street": "Rue Sablonni\u00e8re"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "1-1", 
+        "1-2"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -421,6 +430,11 @@
       "street": "Rue Sablonni\u00e8re"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "1-2"
+      ], 
       "hnrlbls": [
         "45"
       ], 
@@ -601,12 +615,16 @@
       "street": "Rue Sablonni\u00e8re"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1"
+      ], 
       "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.447678754486, 
-      "lon": 3.888213696156, 
+      "lat": 50.447680878889, 
+      "lon": 3.888209763196, 
       "municipality": "Mons", 
       "pcode": "7012", 
       "source": "7714164", 

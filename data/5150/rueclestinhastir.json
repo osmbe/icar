@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -77,8 +81,8 @@
         "104"
       ], 
       "housenumber": "104", 
-      "lat": 50.443709234295, 
-      "lon": 4.765384132271, 
+      "lat": 50.443957623335, 
+      "lon": 4.765369451307, 
       "municipality": "Floreffe", 
       "pcode": "5150", 
       "source": "7752282", 
@@ -169,6 +173,10 @@
       "street": "Rue C\u00e9lestin-Hastir"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "13A"
       ], 
@@ -205,24 +213,16 @@
       "street": "Rue C\u00e9lestin-Hastir"
     }, 
     {
-      "hnrlbls": [
-        "15A1"
+      "busnrs": [
+        "1", 
+        "2"
       ], 
-      "housenumber": "15A1", 
-      "lat": 50.439981020363, 
-      "lon": 4.760399758243, 
-      "municipality": "Floreffe", 
-      "pcode": "5150", 
-      "source": "7752282", 
-      "street": "Rue C\u00e9lestin-Hastir"
-    }, 
-    {
       "hnrlbls": [
-        "15A2"
+        "15A"
       ], 
-      "housenumber": "15A2", 
-      "lat": 50.440009640441, 
-      "lon": 4.760417887854, 
+      "housenumber": "15A", 
+      "lat": 50.440001115009, 
+      "lon": 4.760406642401, 
       "municipality": "Floreffe", 
       "pcode": "5150", 
       "source": "7752282", 
@@ -391,6 +391,18 @@
       "housenumber": "29", 
       "lat": 50.440358323127, 
       "lon": 4.760718346281, 
+      "municipality": "Floreffe", 
+      "pcode": "5150", 
+      "source": "7752282", 
+      "street": "Rue C\u00e9lestin-Hastir"
+    }, 
+    {
+      "hnrlbls": [
+        "2B"
+      ], 
+      "housenumber": "2B", 
+      "lat": 50.439045485163, 
+      "lon": 4.760967486221, 
       "municipality": "Floreffe", 
       "pcode": "5150", 
       "source": "7752282", 
@@ -793,6 +805,11 @@
       "street": "Rue C\u00e9lestin-Hastir"
     }, 
     {
+      "busnrs": [
+        "3", 
+        "5", 
+        "6"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -877,6 +894,11 @@
       "street": "Rue C\u00e9lestin-Hastir"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "66"
       ], 
@@ -901,6 +923,12 @@
       "street": "Rue C\u00e9lestin-Hastir"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "68"
       ], 
@@ -1087,6 +1115,18 @@
       "housenumber": "81", 
       "lat": 50.442008956001, 
       "lon": 4.762063150116, 
+      "municipality": "Floreffe", 
+      "pcode": "5150", 
+      "source": "7752282", 
+      "street": "Rue C\u00e9lestin-Hastir"
+    }, 
+    {
+      "hnrlbls": [
+        "81A"
+      ], 
+      "housenumber": "81A", 
+      "lat": 50.441967759832, 
+      "lon": 4.762030588147, 
       "municipality": "Floreffe", 
       "pcode": "5150", 
       "source": "7752282", 
@@ -1303,6 +1343,27 @@
       "housenumber": "98", 
       "lat": 50.443630983917, 
       "lon": 4.764851634868, 
+      "municipality": "Floreffe", 
+      "pcode": "5150", 
+      "source": "7752282", 
+      "street": "Rue C\u00e9lestin-Hastir"
+    }, 
+    {
+      "busnrs": [
+        "/1", 
+        "/2", 
+        "/3", 
+        "/4", 
+        "/5", 
+        "/6", 
+        "/7"
+      ], 
+      "hnrlbls": [
+        "99"
+      ], 
+      "housenumber": "99", 
+      "lat": 50.44263598555, 
+      "lon": 4.76227863437, 
       "municipality": "Floreffe", 
       "pcode": "5150", 
       "source": "7752282", 

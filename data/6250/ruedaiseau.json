@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "101"
       ], 
@@ -73,6 +76,9 @@
       "street": "Rue d'Aiseau"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -377,8 +383,8 @@
         "200"
       ], 
       "housenumber": "200", 
-      "lat": 50.403432848797, 
-      "lon": 4.558345006678, 
+      "lat": 50.403414947445, 
+      "lon": 4.558382152682, 
       "municipality": "Aiseau-Presles", 
       "pcode": "6250", 
       "source": "7711579", 
@@ -589,6 +595,9 @@
       "street": "Rue d'Aiseau"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "43"
       ], 
@@ -649,12 +658,16 @@
       "street": "Rue d'Aiseau"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.406245196549, 
-      "lon": 4.538413906544, 
+      "lat": 50.406277993366, 
+      "lon": 4.538352610854, 
       "municipality": "Aiseau-Presles", 
       "pcode": "6250", 
       "source": "7711579", 
@@ -715,18 +728,6 @@
       "housenumber": "69", 
       "lat": 50.405998191993, 
       "lon": 4.542104248072, 
-      "municipality": "Aiseau-Presles", 
-      "pcode": "6250", 
-      "source": "7711579", 
-      "street": "Rue d'Aiseau"
-    }, 
-    {
-      "hnrlbls": [
-        "69/1"
-      ], 
-      "housenumber": "69/1", 
-      "lat": 50.406072948654, 
-      "lon": 4.542148102014, 
       "municipality": "Aiseau-Presles", 
       "pcode": "6250", 
       "source": "7711579", 

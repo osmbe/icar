@@ -181,6 +181,10 @@
       "street": "Rue Forville"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "000B"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -401,8 +405,8 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 50.423425030478, 
-      "lon": 5.358474766462, 
+      "lat": 50.423492185287, 
+      "lon": 5.358634055283, 
       "municipality": "Clavier", 
       "pcode": "4560", 
       "source": "7724913", 
@@ -422,11 +426,35 @@
     }, 
     {
       "hnrlbls": [
+        "45"
+      ], 
+      "housenumber": "45", 
+      "lat": 50.423438117192, 
+      "lon": 5.358506613061, 
+      "municipality": "Clavier", 
+      "pcode": "4560", 
+      "source": "7724913", 
+      "street": "Rue Forville"
+    }, 
+    {
+      "hnrlbls": [
         "46"
       ], 
       "housenumber": "46", 
       "lat": 50.421956508211, 
       "lon": 5.36035130814, 
+      "municipality": "Clavier", 
+      "pcode": "4560", 
+      "source": "7724913", 
+      "street": "Rue Forville"
+    }, 
+    {
+      "hnrlbls": [
+        "47"
+      ], 
+      "housenumber": "47", 
+      "lat": 50.423364873479, 
+      "lon": 5.358336027062, 
       "municipality": "Clavier", 
       "pcode": "4560", 
       "source": "7724913", 

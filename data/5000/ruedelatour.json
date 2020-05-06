@@ -13,6 +13,11 @@
       "street": "Rue de la Tour"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "0021"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -25,18 +30,26 @@
       "street": "Rue de la Tour"
     }, 
     {
+      "busnrs": [
+        "0005"
+      ], 
       "hnrlbls": [
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.463323931641, 
-      "lon": 4.868057790667, 
+      "lat": 50.463281127073, 
+      "lon": 4.868051733361, 
       "municipality": "Namur", 
       "pcode": "5000", 
       "source": "7753821", 
       "street": "Rue de la Tour"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "0003", 
+        "ET01"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -49,12 +62,15 @@
       "street": "Rue de la Tour"
     }, 
     {
+      "busnrs": [
+        "0041"
+      ], 
       "hnrlbls": [
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 50.463317989552, 
-      "lon": 4.868434003179, 
+      "lat": 50.463267257779, 
+      "lon": 4.868433664772, 
       "municipality": "Namur", 
       "pcode": "5000", 
       "source": "7753821", 
@@ -85,6 +101,10 @@
       "street": "Rue de la Tour"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "7"
       ], 

@@ -97,6 +97,11 @@
       "street": "Clos-Fleuri"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -133,6 +138,12 @@
       "street": "Clos-Fleuri"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -295,6 +306,30 @@
       "housenumber": "8", 
       "lat": 50.625100274148, 
       "lon": 5.603592095178, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7729775", 
+      "street": "Clos-Fleuri"
+    }, 
+    {
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.625322876053, 
+      "lon": 5.603633170697, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7729775", 
+      "street": "Clos-Fleuri"
+    }, 
+    {
+      "hnrlbls": [
+        "9B"
+      ], 
+      "housenumber": "9B", 
+      "lat": 50.625402457043, 
+      "lon": 5.603487968492, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4030", 
       "source": "7729775", 

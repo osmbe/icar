@@ -1,6 +1,15 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "B011", 
+        "B021", 
+        "B022", 
+        "B031", 
+        "B032", 
+        "B041", 
+        "B042"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -25,6 +34,12 @@
       "street": "Rue des Rivageois"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -37,6 +52,54 @@
       "street": "Rue des Rivageois"
     }, 
     {
+      "hnrlbls": [
+        "1A"
+      ], 
+      "housenumber": "1A", 
+      "lat": 50.623567249712, 
+      "lon": 5.575949150342, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730715", 
+      "street": "Rue des Rivageois"
+    }, 
+    {
+      "hnrlbls": [
+        "1B"
+      ], 
+      "housenumber": "1B", 
+      "lat": 50.623533831802, 
+      "lon": 5.575798615428, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730715", 
+      "street": "Rue des Rivageois"
+    }, 
+    {
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.623753964067, 
+      "lon": 5.575813290423, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730715", 
+      "street": "Rue des Rivageois"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -97,6 +160,18 @@
       "street": "Rue des Rivageois"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0041", 
+        "0042"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -109,12 +184,30 @@
       "street": "Rue des Rivageois"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021"
+      ], 
       "hnrlbls": [
         "31"
       ], 
       "housenumber": "31", 
       "lat": 50.622944696086, 
       "lon": 5.57396794778, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730715", 
+      "street": "Rue des Rivageois"
+    }, 
+    {
+      "hnrlbls": [
+        "33"
+      ], 
+      "housenumber": "33", 
+      "lat": 50.622740441158, 
+      "lon": 5.573792363029, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730715", 
@@ -158,6 +251,18 @@
     }, 
     {
       "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.623613609602, 
+      "lon": 5.57519642113, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730715", 
+      "street": "Rue des Rivageois"
+    }, 
+    {
+      "hnrlbls": [
         "41"
       ], 
       "housenumber": "41", 
@@ -169,6 +274,21 @@
       "street": "Rue des Rivageois"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024", 
+        "0031", 
+        "0032", 
+        "0033", 
+        "0034"
+      ], 
       "hnrlbls": [
         "43"
       ], 
@@ -181,6 +301,30 @@
       "street": "Rue des Rivageois"
     }, 
     {
+      "hnrlbls": [
+        "47"
+      ], 
+      "housenumber": "47", 
+      "lat": 50.622843175415, 
+      "lon": 5.573794010447, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730715", 
+      "street": "Rue des Rivageois"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0041", 
+        "0042"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -205,6 +349,19 @@
       "street": "Rue des Rivageois"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0041", 
+        "0042"
+      ], 
       "hnrlbls": [
         "7"
       ], 

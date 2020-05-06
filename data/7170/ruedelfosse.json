@@ -1,12 +1,24 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "N/0002", 
+        "N000", 
+        "N001", 
+        "P000"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.502970558365, 
-      "lon": 4.232867885557, 
+      "lat": 50.502460974213, 
+      "lon": 4.233535044592, 
       "municipality": "Manage", 
       "pcode": "7170", 
       "source": "7710745", 
@@ -109,6 +121,10 @@
       "street": "Rue Delfosse"
     }, 
     {
+      "busnrs": [
+        "A000", 
+        "B000"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -169,6 +185,13 @@
       "street": "Rue Delfosse"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -241,6 +264,9 @@
       "street": "Rue Delfosse"
     }, 
     {
+      "busnrs": [
+        "A000"
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -853,6 +879,9 @@
       "street": "Rue Delfosse"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "73"
       ], 
@@ -901,6 +930,10 @@
       "street": "Rue Delfosse"
     }, 
     {
+      "busnrs": [
+        "A000", 
+        "B000"
+      ], 
       "hnrlbls": [
         "78"
       ], 
@@ -913,6 +946,9 @@
       "street": "Rue Delfosse"
     }, 
     {
+      "busnrs": [
+        "A000"
+      ], 
       "hnrlbls": [
         "8"
       ], 

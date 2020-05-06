@@ -37,6 +37,9 @@
       "street": "Rue du Moulin"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -181,6 +184,9 @@
       "street": "Rue du Moulin"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -493,6 +499,9 @@
       "street": "Rue du Moulin"
     }, 
     {
+      "busnrs": [
+        "A/2"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -541,6 +550,9 @@
       "street": "Rue du Moulin"
     }, 
     {
+      "busnrs": [
+        "0002"
+      ], 
       "hnrlbls": [
         "54"
       ], 
@@ -745,6 +757,12 @@
       "street": "Rue du Moulin"
     }, 
     {
+      "busnrs": [
+        "B/2", 
+        "B/3", 
+        "B/4", 
+        "B1"
+      ], 
       "hnrlbls": [
         "70"
       ], 
@@ -829,6 +847,22 @@
       "street": "Rue du Moulin"
     }, 
     {
+      "hnrlbls": [
+        "74B"
+      ], 
+      "housenumber": "74B", 
+      "lat": 49.673166277771, 
+      "lon": 5.594277113638, 
+      "municipality": "Etalle", 
+      "pcode": "6740", 
+      "source": "7747105", 
+      "street": "Rue du Moulin"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0003"
+      ], 
       "hnrlbls": [
         "75"
       ], 
@@ -919,6 +953,18 @@
       "housenumber": "87", 
       "lat": 49.672502563322, 
       "lon": 5.59141420972, 
+      "municipality": "Etalle", 
+      "pcode": "6740", 
+      "source": "7747105", 
+      "street": "Rue du Moulin"
+    }, 
+    {
+      "hnrlbls": [
+        "88"
+      ], 
+      "housenumber": "88", 
+      "lat": 49.672524216122, 
+      "lon": 5.584303359299, 
       "municipality": "Etalle", 
       "pcode": "6740", 
       "source": "7747105", 

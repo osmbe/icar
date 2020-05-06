@@ -77,8 +77,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.59448084706, 
-      "lon": 4.325779405503, 
+      "lat": 50.594500800878, 
+      "lon": 4.325706145657, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702859", 
@@ -97,12 +97,32 @@
       "street": "Boulevard de la Dodaine"
     }, 
     {
+      "busnrs": [
+        "0030", 
+        "A011", 
+        "Bt04", 
+        "Bt05", 
+        "Bt06", 
+        "Bt10", 
+        "Bt12", 
+        "Bt16", 
+        "Bt17", 
+        "Bt18", 
+        "Bt22", 
+        "Bt23", 
+        "Bt24", 
+        "Bt28", 
+        "Bt29", 
+        "Bt30", 
+        "Bt34", 
+        "Bt35"
+      ], 
       "hnrlbls": [
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 50.594542533072, 
-      "lon": 4.326418682373, 
+      "lat": 50.594539626874, 
+      "lon": 4.326273693691, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702859", 
@@ -121,6 +141,58 @@
       "street": "Boulevard de la Dodaine"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt07", 
+        "Bt08", 
+        "Bt09", 
+        "Bt13", 
+        "Bt14", 
+        "Bt15", 
+        "Bt19", 
+        "Bt20", 
+        "Bt21", 
+        "Bt25", 
+        "Bt26", 
+        "Bt27", 
+        "Bt31", 
+        "Bt32", 
+        "Bt33"
+      ], 
+      "hnrlbls": [
+        "19"
+      ], 
+      "housenumber": "19", 
+      "lat": 50.5945419079, 
+      "lon": 4.326586709731, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7702859", 
+      "street": "Boulevard de la Dodaine"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.594854069075, 
+      "lon": 4.320235200964, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7702859", 
+      "street": "Boulevard de la Dodaine"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -157,6 +229,12 @@
       "street": "Boulevard de la Dodaine"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "RDCH"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -169,6 +247,10 @@
       "street": "Boulevard de la Dodaine"
     }, 
     {
+      "busnrs": [
+        "A000", 
+        "B000"
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -197,8 +279,8 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 50.594323311125, 
-      "lon": 4.321206762194, 
+      "lat": 50.594327188329, 
+      "lon": 4.32123758716, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702859", 
@@ -325,18 +407,227 @@
       "street": "Boulevard de la Dodaine"
     }, 
     {
-      "hnrlbls": [
-        "60"
+      "busnrs": [
+        "0001", 
+        "Bt02", 
+        "Bt03", 
+        "Bt04", 
+        "Bt05", 
+        "Bt06", 
+        "Bt07", 
+        "Bt08", 
+        "Bt09", 
+        "Bt10", 
+        "Bt11", 
+        "Bt12", 
+        "Bt13", 
+        "Bt14", 
+        "Bt15", 
+        "Bt16", 
+        "Bt17", 
+        "Bt18", 
+        "Bt19", 
+        "Bt20", 
+        "Bt22", 
+        "Bt23", 
+        "Bt24", 
+        "Bt25", 
+        "Bt26", 
+        "Bt27", 
+        "Bt28", 
+        "Bt29", 
+        "Bt30", 
+        "Bt31", 
+        "Bt32", 
+        "Bt33", 
+        "Bt34", 
+        "Bt35", 
+        "Bt36", 
+        "Bt37", 
+        "Bt38", 
+        "Bt39", 
+        "Bt40", 
+        "Bt41", 
+        "Bt42", 
+        "Bt43", 
+        "Bt44", 
+        "Bt45", 
+        "Bt46", 
+        "Bt47", 
+        "Bt48", 
+        "Bt49", 
+        "Bt50", 
+        "Bt51", 
+        "Bt52", 
+        "Bt54", 
+        "Bt55", 
+        "Bt56", 
+        "Bt57", 
+        "Bt58", 
+        "Bt59", 
+        "Bt60", 
+        "Bt61", 
+        "Bt62", 
+        "Bt63", 
+        "Bt64", 
+        "Bt65", 
+        "Bt66", 
+        "Bt67", 
+        "Bt68", 
+        "Bt69", 
+        "Bt71"
       ], 
-      "housenumber": "60", 
-      "lat": 50.594863669363, 
-      "lon": 4.324868255412, 
+      "hnrlbls": [
+        "50"
+      ], 
+      "housenumber": "50", 
+      "lat": 50.594634122136, 
+      "lon": 4.322494625868, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7702859", 
       "street": "Boulevard de la Dodaine"
     }, 
     {
+      "hnrlbls": [
+        "56"
+      ], 
+      "housenumber": "56", 
+      "lat": 50.594671793532, 
+      "lon": 4.32385991689, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7702859", 
+      "street": "Boulevard de la Dodaine"
+    }, 
+    {
+      "hnrlbls": [
+        "58"
+      ], 
+      "housenumber": "58", 
+      "lat": 50.594761455777, 
+      "lon": 4.324459230628, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7702859", 
+      "street": "Boulevard de la Dodaine"
+    }, 
+    {
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.59468951797, 
+      "lon": 4.320457587179, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7702859", 
+      "street": "Boulevard de la Dodaine"
+    }, 
+    {
+      "busnrs": [
+        "A001", 
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt04", 
+        "Bt05", 
+        "Bt06", 
+        "Bt08", 
+        "Bt09", 
+        "Bt10", 
+        "Bt11", 
+        "Bt12", 
+        "Bt13"
+      ], 
+      "hnrlbls": [
+        "60"
+      ], 
+      "housenumber": "60", 
+      "lat": 50.594827411339, 
+      "lon": 4.3245917585, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7702859", 
+      "street": "Boulevard de la Dodaine"
+    }, 
+    {
+      "busnrs": [
+        "Bt06", 
+        "Bt07", 
+        "Bt08", 
+        "Bt10", 
+        "Bt11", 
+        "Bt12", 
+        "BtC1", 
+        "C002", 
+        "C003", 
+        "C006", 
+        "D003", 
+        "D004"
+      ], 
+      "hnrlbls": [
+        "62"
+      ], 
+      "housenumber": "62", 
+      "lat": 50.594864359476, 
+      "lon": 4.324855246876, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7702859", 
+      "street": "Boulevard de la Dodaine"
+    }, 
+    {
+      "busnrs": [
+        "Bt01", 
+        "Bt03", 
+        "Bt04", 
+        "Bt05", 
+        "Bt06", 
+        "Bt07", 
+        "Bt08", 
+        "Bt10", 
+        "Bt11", 
+        "Bt12"
+      ], 
+      "hnrlbls": [
+        "64"
+      ], 
+      "housenumber": "64", 
+      "lat": 50.594891081986, 
+      "lon": 4.325077941635, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7702859", 
+      "street": "Boulevard de la Dodaine"
+    }, 
+    {
+      "busnrs": [
+        "BT05", 
+        "Bt01", 
+        "Bt02", 
+        "Bt04", 
+        "Bt06", 
+        "Bt07", 
+        "Bt10", 
+        "Bt11", 
+        "G003"
+      ], 
+      "hnrlbls": [
+        "66"
+      ], 
+      "housenumber": "66", 
+      "lat": 50.594913050175, 
+      "lon": 4.325308115204, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7702859", 
+      "street": "Boulevard de la Dodaine"
+    }, 
+    {
+      "busnrs": [
+        "Bt02"
+      ], 
       "hnrlbls": [
         "7"
       ], 

@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "001", 
+        "011", 
+        "021", 
+        "031"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +19,9 @@
       "street": "Rue de l'Escalier"
     }, 
     {
+      "busnrs": [
+        "021"
+      ], 
       "hnrlbls": [
         "3"
       ], 

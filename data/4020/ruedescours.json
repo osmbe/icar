@@ -25,6 +25,11 @@
       "street": "Rue des Cours"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -49,6 +54,9 @@
       "street": "Rue des Cours"
     }, 
     {
+      "busnrs": [
+        "0263"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -139,6 +147,18 @@
       "housenumber": "24", 
       "lat": 50.644897199848, 
       "lon": 5.627234157772, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730595", 
+      "street": "Rue des Cours"
+    }, 
+    {
+      "hnrlbls": [
+        "25"
+      ], 
+      "housenumber": "25", 
+      "lat": 50.644982771687, 
+      "lon": 5.626953781831, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730595", 
@@ -362,6 +382,37 @@
     }, 
     {
       "hnrlbls": [
+        "48"
+      ], 
+      "housenumber": "48", 
+      "lat": 50.645169173692, 
+      "lon": 5.627244395833, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730595", 
+      "street": "Rue des Cours"
+    }, 
+    {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "0013", 
+        "0015", 
+        "0016"
+      ], 
+      "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 50.644417865836, 
+      "lon": 5.626969119821, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730595", 
+      "street": "Rue des Cours"
+    }, 
+    {
+      "hnrlbls": [
         "50"
       ], 
       "housenumber": "50", 
@@ -379,6 +430,18 @@
       "housenumber": "6", 
       "lat": 50.644297074562, 
       "lon": 5.627695533956, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730595", 
+      "street": "Rue des Cours"
+    }, 
+    {
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 50.644502666447, 
+      "lon": 5.627092989956, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730595", 

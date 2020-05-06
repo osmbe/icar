@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0", 
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -50,11 +55,83 @@
     }, 
     {
       "hnrlbls": [
+        "18"
+      ], 
+      "housenumber": "18", 
+      "lat": 50.598064626018, 
+      "lon": 4.605522725043, 
+      "municipality": "Chastre", 
+      "pcode": "1450", 
+      "source": "7705259", 
+      "street": "Rue de la Brasserie"
+    }, 
+    {
+      "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
       "lat": 50.598580590096, 
       "lon": 4.607194687672, 
+      "municipality": "Chastre", 
+      "pcode": "1450", 
+      "source": "7705259", 
+      "street": "Rue de la Brasserie"
+    }, 
+    {
+      "hnrlbls": [
+        "20"
+      ], 
+      "housenumber": "20", 
+      "lat": 50.597976989277, 
+      "lon": 4.605485381173, 
+      "municipality": "Chastre", 
+      "pcode": "1450", 
+      "source": "7705259", 
+      "street": "Rue de la Brasserie"
+    }, 
+    {
+      "hnrlbls": [
+        "22"
+      ], 
+      "housenumber": "22", 
+      "lat": 50.597904244958, 
+      "lon": 4.605435497516, 
+      "municipality": "Chastre", 
+      "pcode": "1450", 
+      "source": "7705259", 
+      "street": "Rue de la Brasserie"
+    }, 
+    {
+      "hnrlbls": [
+        "24"
+      ], 
+      "housenumber": "24", 
+      "lat": 50.597770406603, 
+      "lon": 4.605350272534, 
+      "municipality": "Chastre", 
+      "pcode": "1450", 
+      "source": "7705259", 
+      "street": "Rue de la Brasserie"
+    }, 
+    {
+      "hnrlbls": [
+        "26"
+      ], 
+      "housenumber": "26", 
+      "lat": 50.597689028511, 
+      "lon": 4.605305952014, 
+      "municipality": "Chastre", 
+      "pcode": "1450", 
+      "source": "7705259", 
+      "street": "Rue de la Brasserie"
+    }, 
+    {
+      "hnrlbls": [
+        "28"
+      ], 
+      "housenumber": "28", 
+      "lat": 50.597611556042, 
+      "lon": 4.605241564703, 
       "municipality": "Chastre", 
       "pcode": "1450", 
       "source": "7705259", 
@@ -85,6 +162,10 @@
       "street": "Rue de la Brasserie"
     }, 
     {
+      "busnrs": [
+        "0", 
+        "A"
+      ], 
       "hnrlbls": [
         "7"
       ], 

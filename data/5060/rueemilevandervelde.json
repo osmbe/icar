@@ -73,6 +73,9 @@
       "street": "Rue Emile Vandervelde"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "105"
       ], 
@@ -626,18 +629,6 @@
     }, 
     {
       "hnrlbls": [
-        "46"
-      ], 
-      "housenumber": "46", 
-      "lat": 50.44309208057, 
-      "lon": 4.581779444764, 
-      "municipality": "Sambreville", 
-      "pcode": "5060", 
-      "source": "7755449", 
-      "street": "Rue Emile Vandervelde"
-    }, 
-    {
-      "hnrlbls": [
         "47"
       ], 
       "housenumber": "47", 
@@ -817,6 +808,9 @@
       "street": "Rue Emile Vandervelde"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "62"
       ], 
@@ -841,6 +835,10 @@
       "street": "Rue Emile Vandervelde"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
       "hnrlbls": [
         "64"
       ], 
@@ -869,8 +867,8 @@
         "66"
       ], 
       "housenumber": "66", 
-      "lat": 50.441737577585, 
-      "lon": 4.581832936873, 
+      "lat": 50.441689318909, 
+      "lon": 4.581837041294, 
       "municipality": "Sambreville", 
       "pcode": "5060", 
       "source": "7755449", 

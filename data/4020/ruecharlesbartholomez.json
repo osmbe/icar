@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +19,10 @@
       "street": "Rue Charles-Bartholomez"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -73,12 +83,34 @@
       "street": "Rue Charles-Bartholomez"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
       "lat": 50.638143311162, 
       "lon": 5.589613330198, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730250", 
+      "street": "Rue Charles-Bartholomez"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.63844847773, 
+      "lon": 5.589274164819, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730250", 
@@ -181,6 +213,10 @@
       "street": "Rue Charles-Bartholomez"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "36"
       ], 
@@ -241,6 +277,10 @@
       "street": "Rue Charles-Bartholomez"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "44"
       ], 
@@ -253,12 +293,28 @@
       "street": "Rue Charles-Bartholomez"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "46"
       ], 
       "housenumber": "46", 
       "lat": 50.637906831434, 
       "lon": 5.589905703164, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730250", 
+      "street": "Rue Charles-Bartholomez"
+    }, 
+    {
+      "hnrlbls": [
+        "48"
+      ], 
+      "housenumber": "48", 
+      "lat": 50.637633938851, 
+      "lon": 5.589654909769, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730250", 
@@ -290,6 +346,18 @@
     }, 
     {
       "hnrlbls": [
+        "52"
+      ], 
+      "housenumber": "52", 
+      "lat": 50.637713673591, 
+      "lon": 5.590025985004, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730250", 
+      "street": "Rue Charles-Bartholomez"
+    }, 
+    {
+      "hnrlbls": [
         "56"
       ], 
       "housenumber": "56", 
@@ -301,6 +369,12 @@
       "street": "Rue Charles-Bartholomez"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "58"
       ], 
@@ -329,8 +403,8 @@
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 50.637749744941, 
-      "lon": 5.590549149143, 
+      "lat": 50.637798437323, 
+      "lon": 5.590508305629, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730250", 
@@ -385,6 +459,11 @@
       "street": "Rue Charles-Bartholomez"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -397,6 +476,10 @@
       "street": "Rue Charles-Bartholomez"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "8"
       ], 

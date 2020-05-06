@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1+2\u00e9"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -157,6 +160,63 @@
       "street": "Rue Deru-Dehayes"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
+      "hnrlbls": [
+        "31"
+      ], 
+      "housenumber": "31", 
+      "lat": 50.576382932759, 
+      "lon": 5.86463807541, 
+      "municipality": "Verviers", 
+      "pcode": "4802", 
+      "source": "7738852", 
+      "street": "Rue Deru-Dehayes"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
+      "hnrlbls": [
+        "33"
+      ], 
+      "housenumber": "33", 
+      "lat": 50.576225102537, 
+      "lon": 5.864748868198, 
+      "municipality": "Verviers", 
+      "pcode": "4802", 
+      "source": "7738852", 
+      "street": "Rue Deru-Dehayes"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
+      "hnrlbls": [
+        "35"
+      ], 
+      "housenumber": "35", 
+      "lat": 50.576096395128, 
+      "lon": 5.864767210462, 
+      "municipality": "Verviers", 
+      "pcode": "4802", 
+      "source": "7738852", 
+      "street": "Rue Deru-Dehayes"
+    }, 
+    {
       "hnrlbls": [
         "4"
       ], 
@@ -175,6 +235,18 @@
       "housenumber": "5", 
       "lat": 50.577528936748, 
       "lon": 5.864889731075, 
+      "municipality": "Verviers", 
+      "pcode": "4802", 
+      "source": "7738852", 
+      "street": "Rue Deru-Dehayes"
+    }, 
+    {
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 50.577491099207, 
+      "lon": 5.864905667883, 
       "municipality": "Verviers", 
       "pcode": "4802", 
       "source": "7738852", 

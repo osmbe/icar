@@ -109,6 +109,9 @@
       "street": "Rue d'Hasti\u00e8re"
     }, 
     {
+      "busnrs": [
+        "A1"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -121,6 +124,9 @@
       "street": "Rue d'Hasti\u00e8re"
     }, 
     {
+      "busnrs": [
+        "19/A1"
+      ], 
       "hnrlbls": [
         "19A"
       ], 
@@ -185,8 +191,8 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.168167132909, 
-      "lon": 4.884650410287, 
+      "lat": 50.167468671686, 
+      "lon": 4.885408278167, 
       "municipality": "Houyet", 
       "pcode": "5560", 
       "source": "7750098", 
@@ -349,6 +355,12 @@
       "street": "Rue d'Hasti\u00e8re"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -385,6 +397,10 @@
       "street": "Rue d'Hasti\u00e8re"
     }, 
     {
+      "busnrs": [
+        "33/A1", 
+        "33/A2"
+      ], 
       "hnrlbls": [
         "33A"
       ], 
@@ -457,6 +473,10 @@
       "street": "Rue d'Hasti\u00e8re"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "3B"
       ], 
@@ -505,6 +525,9 @@
       "street": "Rue d'Hasti\u00e8re"
     }, 
     {
+      "busnrs": [
+        "5A1"
+      ], 
       "hnrlbls": [
         "5A"
       ], 
@@ -554,6 +577,18 @@
     }, 
     {
       "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.168161292834, 
+      "lon": 4.884644297247, 
+      "municipality": "Houyet", 
+      "pcode": "5560", 
+      "source": "7750098", 
+      "street": "Rue d'Hasti\u00e8re"
+    }, 
+    {
+      "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
@@ -565,6 +600,10 @@
       "street": "Rue d'Hasti\u00e8re"
     }, 
     {
+      "busnrs": [
+        "7/A1", 
+        "7/A2"
+      ], 
       "hnrlbls": [
         "7A"
       ], 

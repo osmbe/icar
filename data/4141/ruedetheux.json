@@ -25,6 +25,9 @@
       "street": "Rue de Theux"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "103"
       ], 
@@ -194,6 +197,30 @@
     }, 
     {
       "hnrlbls": [
+        "126"
+      ], 
+      "housenumber": "126", 
+      "lat": 50.53145381775, 
+      "lon": 5.750245817356, 
+      "municipality": "Sprimont", 
+      "pcode": "4141", 
+      "source": "7733047", 
+      "street": "Rue de Theux"
+    }, 
+    {
+      "hnrlbls": [
+        "128"
+      ], 
+      "housenumber": "128", 
+      "lat": 50.53143972958, 
+      "lon": 5.750711226627, 
+      "municipality": "Sprimont", 
+      "pcode": "4141", 
+      "source": "7733047", 
+      "street": "Rue de Theux"
+    }, 
+    {
+      "hnrlbls": [
         "130"
       ], 
       "housenumber": "130", 
@@ -265,6 +292,9 @@
       "street": "Rue de Theux"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -529,6 +559,11 @@
       "street": "Rue de Theux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "60"
       ], 
@@ -697,6 +732,9 @@
       "street": "Rue de Theux"
     }, 
     {
+      "busnrs": [
+        "Ap.1"
+      ], 
       "hnrlbls": [
         "81"
       ], 

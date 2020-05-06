@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -29,14 +32,19 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 50.670164918208, 
-      "lon": 5.085051577293, 
+      "lat": 50.670119352661, 
+      "lon": 5.085099166727, 
       "municipality": "Hannut", 
       "pcode": "4280", 
       "source": "7740640", 
       "street": "Rue Louis Snyers"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "000A"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -61,6 +69,10 @@
       "street": "Rue Louis Snyers"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -85,6 +97,15 @@
       "street": "Rue Louis Snyers"
     }, 
     {
+      "busnrs": [
+        "A3", 
+        "B2", 
+        "B3", 
+        "BtA2", 
+        "Bte0", 
+        "Bte1", 
+        "btA1"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -109,6 +130,9 @@
       "street": "Rue Louis Snyers"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -121,6 +145,10 @@
       "street": "Rue Louis Snyers"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "Bte2"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -169,6 +197,10 @@
       "street": "Rue Louis Snyers"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -181,6 +213,20 @@
       "street": "Rue Louis Snyers"
     }, 
     {
+      "busnrs": [
+        "Bt10", 
+        "Bt11", 
+        "Bt12", 
+        "Bt13", 
+        "Bte1", 
+        "Bte3", 
+        "Bte4", 
+        "Bte5", 
+        "Bte6", 
+        "Bte7", 
+        "Bte8", 
+        "Bte9"
+      ], 
       "hnrlbls": [
         "7"
       ], 

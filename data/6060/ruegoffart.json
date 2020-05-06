@@ -1,6 +1,13 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "000A", 
+        "000B", 
+        "001", 
+        "O1/1", 
+        "O1/2"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -253,6 +260,10 @@
       "street": "Rue Goffart"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "012"
+      ], 
       "hnrlbls": [
         "3"
       ], 

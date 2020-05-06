@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "B001"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -187,6 +190,18 @@
       "housenumber": "31", 
       "lat": 50.126964727258, 
       "lon": 5.190802313434, 
+      "municipality": "Rochefort", 
+      "pcode": "5580", 
+      "source": "7750442", 
+      "street": "Rue des Aub\u00e9pines"
+    }, 
+    {
+      "hnrlbls": [
+        "32"
+      ], 
+      "housenumber": "32", 
+      "lat": 50.127352581306, 
+      "lon": 5.190217323932, 
       "municipality": "Rochefort", 
       "pcode": "5580", 
       "source": "7750442", 

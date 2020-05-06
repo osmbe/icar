@@ -5,8 +5,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.4860925973, 
-      "lon": 5.098152273847, 
+      "lat": 50.485967684052, 
+      "lon": 5.098402537092, 
       "municipality": "Andenne", 
       "pcode": "5300", 
       "source": "7751465", 
@@ -37,6 +37,10 @@
       "street": "Place du Perron"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "RC00"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -85,6 +89,10 @@
       "street": "Place du Perron"
     }, 
     {
+      "busnrs": [
+        "01-1", 
+        "RC-1"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -97,6 +105,12 @@
       "street": "Place du Perron"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "02-1", 
+        "02-2", 
+        "RC00"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -133,6 +147,9 @@
       "street": "Place du Perron"
     }, 
     {
+      "busnrs": [
+        "0002"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -145,6 +162,12 @@
       "street": "Place du Perron"
     }, 
     {
+      "busnrs": [
+        "01-1", 
+        "02-1", 
+        "03-1", 
+        "RC-1"
+      ], 
       "hnrlbls": [
         "8"
       ], 

@@ -10,7 +10,7 @@
       "t": 50.708765629194
     }, 
     {
-      "b": 50.704496588607, 
+      "b": 50.704527912171, 
       "l": 5.65145686958, 
       "name": "Avenue de la Dr\u00e8ve", 
       "numOfAddr": 32, 
@@ -100,7 +100,7 @@
       "t": 50.705375437881
     }, 
     {
-      "b": 50.705847291705, 
+      "b": 50.705819614037, 
       "l": 5.614524516943, 
       "name": "Rue Adolphe Marquet", 
       "numOfAddr": 26, 
@@ -712,7 +712,10 @@
       "b": 50.702956831059, 
       "l": 5.639148876545, 
       "name": "Rue du Pr\u00e9 de la Haye", 
-      "numOfAddr": 62, 
+      "numOfAddr": 64, 
+      "otherPCs": [
+        "4683"
+      ], 
       "r": 5.647846946499, 
       "sanName": "rueduprdelahaye", 
       "t": 50.705490845437
@@ -730,7 +733,7 @@
       "b": 50.702452485338, 
       "l": 5.644006448999, 
       "name": "Rue du Roi Albert", 
-      "numOfAddr": 246, 
+      "numOfAddr": 247, 
       "r": 5.653717203642, 
       "sanName": "rueduroialbert", 
       "t": 50.716490104141
@@ -844,7 +847,7 @@
       "b": 50.708110691973, 
       "l": 5.610779000217, 
       "name": "Rue Haie Martin", 
-      "numOfAddr": 14, 
+      "numOfAddr": 16, 
       "r": 5.614060190133, 
       "sanName": "ruehaiemartin", 
       "t": 50.708992333088
@@ -898,7 +901,7 @@
       "b": 50.70561903103, 
       "l": 5.641321054228, 
       "name": "Rue Jules Destr\u00e9e", 
-      "numOfAddr": 31, 
+      "numOfAddr": 32, 
       "r": 5.643276878464, 
       "sanName": "ruejulesdestre", 
       "t": 50.706669912155
@@ -988,7 +991,7 @@
       "b": 50.715776149341, 
       "l": 5.622501349913, 
       "name": "Rue Petit Aaz", 
-      "numOfAddr": 25, 
+      "numOfAddr": 26, 
       "r": 5.626307573206, 
       "sanName": "ruepetitaaz", 
       "t": 50.716848434935

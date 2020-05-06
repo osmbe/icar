@@ -97,10 +97,14 @@
       "street": "Rue de la Marli\u00e8re"
     }, 
     {
-      "hnrlbls": [
-        "18BTE1"
+      "busnrs": [
+        "BTE1", 
+        "BTE2"
       ], 
-      "housenumber": "18BTE1", 
+      "hnrlbls": [
+        "18"
+      ], 
+      "housenumber": "18", 
       "lat": 50.569180551728, 
       "lon": 4.174079348586, 
       "municipality": "Ecaussinnes", 
@@ -133,10 +137,14 @@
       "street": "Rue de la Marli\u00e8re"
     }, 
     {
-      "hnrlbls": [
-        "20BTE1"
+      "busnrs": [
+        "BTE1", 
+        "BTE2"
       ], 
-      "housenumber": "20BTE1", 
+      "hnrlbls": [
+        "20"
+      ], 
+      "housenumber": "20", 
       "lat": 50.5691033315, 
       "lon": 4.173947313483, 
       "municipality": "Ecaussinnes", 
@@ -205,6 +213,11 @@
       "street": "Rue de la Marli\u00e8re"
     }, 
     {
+      "busnrs": [
+        "BTE1", 
+        "BTE2", 
+        "BTE3"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -235,6 +248,30 @@
       "housenumber": "28", 
       "lat": 50.568527942749, 
       "lon": 4.171979666501, 
+      "municipality": "Ecaussinnes", 
+      "pcode": "7190", 
+      "source": "7718901", 
+      "street": "Rue de la Marli\u00e8re"
+    }, 
+    {
+      "busnrs": [
+        "01", 
+        "02", 
+        "03", 
+        "04", 
+        "05", 
+        "06", 
+        "07", 
+        "08", 
+        "09", 
+        "10"
+      ], 
+      "hnrlbls": [
+        "28A"
+      ], 
+      "housenumber": "28A", 
+      "lat": 50.568567858896, 
+      "lon": 4.172202130822, 
       "municipality": "Ecaussinnes", 
       "pcode": "7190", 
       "source": "7718901", 

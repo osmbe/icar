@@ -601,6 +601,10 @@
       "street": "Rue Emile Muraille"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "000R"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -997,6 +1001,14 @@
       "street": "Rue Emile Muraille"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "R1", 
+        "R2"
+      ], 
       "hnrlbls": [
         "206"
       ], 
@@ -1117,6 +1129,12 @@
       "street": "Rue Emile Muraille"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "00R1", 
+        "R2"
+      ], 
       "hnrlbls": [
         "221"
       ], 
@@ -1141,6 +1159,12 @@
       "street": "Rue Emile Muraille"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "00R1", 
+        "00R2"
+      ], 
       "hnrlbls": [
         "223"
       ], 
@@ -1153,6 +1177,12 @@
       "street": "Rue Emile Muraille"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "00R2", 
+        "R1"
+      ], 
       "hnrlbls": [
         "225"
       ], 
@@ -1549,6 +1579,10 @@
       "street": "Rue Emile Muraille"
     }, 
     {
+      "busnrs": [
+        "A1", 
+        "AR"
+      ], 
       "hnrlbls": [
         "294"
       ], 
@@ -2057,8 +2091,8 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 50.671445687528, 
-      "lon": 5.613489356991, 
+      "lat": 50.671613073156, 
+      "lon": 5.613131117658, 
       "municipality": "Herstal", 
       "pcode": "4040", 
       "source": "7729338", 
@@ -2161,6 +2195,10 @@
       "street": "Rue Emile Muraille"
     }, 
     {
+      "busnrs": [
+        "R1", 
+        "R2"
+      ], 
       "hnrlbls": [
         "55"
       ], 
@@ -2201,8 +2239,8 @@
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 50.671843189456, 
-      "lon": 5.613904898885, 
+      "lat": 50.671827814299, 
+      "lon": 5.613988394683, 
       "municipality": "Herstal", 
       "pcode": "4040", 
       "source": "7729338", 

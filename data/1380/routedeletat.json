@@ -313,6 +313,12 @@
       "street": "Route de l'Etat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "1001"
+      ], 
       "hnrlbls": [
         "181"
       ], 
@@ -533,14 +539,17 @@
         "215"
       ], 
       "housenumber": "215", 
-      "lat": 50.668044184099, 
-      "lon": 4.464697515273, 
+      "lat": 50.668433014683, 
+      "lon": 4.464263557447, 
       "municipality": "Lasne", 
       "pcode": "1380", 
       "source": "7705603", 
       "street": "Route de l'Etat"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "216"
       ], 
@@ -593,8 +602,8 @@
         "235"
       ], 
       "housenumber": "235", 
-      "lat": 50.666684707357, 
-      "lon": 4.465426164579, 
+      "lat": 50.666531870163, 
+      "lon": 4.465414759469, 
       "municipality": "Lasne", 
       "pcode": "1380", 
       "source": "7705603", 
@@ -1333,6 +1342,9 @@
       "street": "Route de l'Etat"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "330"
       ], 

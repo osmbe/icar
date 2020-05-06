@@ -1,18 +1,27 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "/2"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.538834141649, 
-      "lon": 5.766280515063, 
+      "lat": 50.538865766926, 
+      "lon": 5.766240398181, 
       "municipality": "Theux", 
       "pcode": "4910", 
       "source": "7738305", 
       "street": "Ayrifagne"
     }, 
     {
+      "busnrs": [
+        "/1B", 
+        "/A1", 
+        "/B1", 
+        "/RC"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -43,6 +52,18 @@
       "housenumber": "7", 
       "lat": 50.538832005235, 
       "lon": 5.755732313112, 
+      "municipality": "Theux", 
+      "pcode": "4910", 
+      "source": "7738305", 
+      "street": "Ayrifagne"
+    }, 
+    {
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.538789056987, 
+      "lon": 5.75293887097, 
       "municipality": "Theux", 
       "pcode": "4910", 
       "source": "7738305", 

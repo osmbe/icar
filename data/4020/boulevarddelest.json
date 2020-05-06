@@ -1,18 +1,13 @@
 {
   "addresses": [
     {
-      "hnrlbls": [
-        "1"
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
       ], 
-      "housenumber": "1", 
-      "lat": 50.641958307135, 
-      "lon": 5.582550089565, 
-      "municipality": "Li\u00e8ge", 
-      "pcode": "4020", 
-      "source": "7729678", 
-      "street": "Boulevard de l'Est"
-    }, 
-    {
       "hnrlbls": [
         "10"
       ], 
@@ -25,6 +20,11 @@
       "street": "Boulevard de l'Est"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -37,12 +37,44 @@
       "street": "Boulevard de l'Est"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "12"
       ], 
       "housenumber": "12", 
       "lat": 50.64196006284, 
       "lon": 5.581323520221, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7729678", 
+      "street": "Boulevard de l'Est"
+    }, 
+    {
+      "hnrlbls": [
+        "13"
+      ], 
+      "housenumber": "13", 
+      "lat": 50.641929035166, 
+      "lon": 5.581306999579, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7729678", 
+      "street": "Boulevard de l'Est"
+    }, 
+    {
+      "hnrlbls": [
+        "14"
+      ], 
+      "housenumber": "14", 
+      "lat": 50.641892417398, 
+      "lon": 5.581317935856, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7729678", 
@@ -61,6 +93,21 @@
       "street": "Boulevard de l'Est"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0031", 
+        "0032", 
+        "0033", 
+        "0041", 
+        "0042", 
+        "0043"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -85,6 +132,10 @@
       "street": "Boulevard de l'Est"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -97,6 +148,12 @@
       "street": "Boulevard de l'Est"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -133,6 +190,15 @@
       "street": "Boulevard de l'Est"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0032", 
+        "0033"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -145,6 +211,15 @@
       "street": "Boulevard de l'Est"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0032", 
+        "0041"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -157,6 +232,13 @@
       "street": "Boulevard de l'Est"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "8"
       ], 
@@ -169,6 +251,14 @@
       "street": "Boulevard de l'Est"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "9"
       ], 

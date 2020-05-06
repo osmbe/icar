@@ -1,6 +1,35 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0031"
+      ], 
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.671247129876, 
+      "lon": 5.656349514912, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730201", 
+      "street": "Rue Bastin"
+    }, 
+    {
+      "hnrlbls": [
+        "10"
+      ], 
+      "housenumber": "10", 
+      "lat": 50.671402303576, 
+      "lon": 5.657027513587, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730201", 
+      "street": "Rue Bastin"
+    }, 
+    {
       "hnrlbls": [
         "101"
       ], 
@@ -19,6 +48,18 @@
       "housenumber": "103", 
       "lat": 50.673549709688, 
       "lon": 5.658992087112, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730201", 
+      "street": "Rue Bastin"
+    }, 
+    {
+      "hnrlbls": [
+        "104"
+      ], 
+      "housenumber": "104", 
+      "lat": 50.674070884354, 
+      "lon": 5.659773407556, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730201", 
@@ -109,6 +150,13 @@
       "street": "Rue Bastin"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0011"
+      ], 
       "hnrlbls": [
         "115"
       ], 
@@ -218,6 +266,18 @@
     }, 
     {
       "hnrlbls": [
+        "128"
+      ], 
+      "housenumber": "128", 
+      "lat": 50.674394397229, 
+      "lon": 5.660106149978, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730201", 
+      "street": "Rue Bastin"
+    }, 
+    {
+      "hnrlbls": [
         "13"
       ], 
       "housenumber": "13", 
@@ -235,6 +295,18 @@
       "housenumber": "130", 
       "lat": 50.674330589238, 
       "lon": 5.660035140201, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730201", 
+      "street": "Rue Bastin"
+    }, 
+    {
+      "hnrlbls": [
+        "132"
+      ], 
+      "housenumber": "132", 
+      "lat": 50.674421817522, 
+      "lon": 5.660025116079, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730201", 
@@ -265,6 +337,11 @@
       "street": "Rue Bastin"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "138"
       ], 
@@ -325,6 +402,10 @@
       "street": "Rue Bastin"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -343,6 +424,18 @@
       "housenumber": "152", 
       "lat": 50.674861880584, 
       "lon": 5.661152097736, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730201", 
+      "street": "Rue Bastin"
+    }, 
+    {
+      "hnrlbls": [
+        "156"
+      ], 
+      "housenumber": "156", 
+      "lat": 50.674882793332, 
+      "lon": 5.660440300845, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730201", 
@@ -410,11 +503,50 @@
     }, 
     {
       "hnrlbls": [
+        "163"
+      ], 
+      "housenumber": "163", 
+      "lat": 50.67502622134, 
+      "lon": 5.659975305236, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730201", 
+      "street": "Rue Bastin"
+    }, 
+    {
+      "hnrlbls": [
         "164"
       ], 
       "housenumber": "164", 
       "lat": 50.675036960896, 
       "lon": 5.660321307549, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730201", 
+      "street": "Rue Bastin"
+    }, 
+    {
+      "busnrs": [
+        "A000"
+      ], 
+      "hnrlbls": [
+        "165"
+      ], 
+      "housenumber": "165", 
+      "lat": 50.675087467387, 
+      "lon": 5.660022686355, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730201", 
+      "street": "Rue Bastin"
+    }, 
+    {
+      "hnrlbls": [
+        "165A"
+      ], 
+      "housenumber": "165A", 
+      "lat": 50.675167546602, 
+      "lon": 5.660033793754, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730201", 
@@ -497,8 +629,8 @@
         "173"
       ], 
       "housenumber": "173", 
-      "lat": 50.675675830567, 
-      "lon": 5.660492405725, 
+      "lat": 50.675345950194, 
+      "lon": 5.660288368678, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730201", 
@@ -577,6 +709,22 @@
       "street": "Rue Bastin"
     }, 
     {
+      "hnrlbls": [
+        "183"
+      ], 
+      "housenumber": "183", 
+      "lat": 50.67568070901, 
+      "lon": 5.660445603801, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730201", 
+      "street": "Rue Bastin"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "185"
       ], 
@@ -662,6 +810,23 @@
     }, 
     {
       "hnrlbls": [
+        "194"
+      ], 
+      "housenumber": "194", 
+      "lat": 50.675813059014, 
+      "lon": 5.661510978334, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730201", 
+      "street": "Rue Bastin"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
+      "hnrlbls": [
         "195"
       ], 
       "housenumber": "195", 
@@ -746,6 +911,22 @@
     }, 
     {
       "hnrlbls": [
+        "207"
+      ], 
+      "housenumber": "207", 
+      "lat": 50.676251486553, 
+      "lon": 5.661084881026, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730201", 
+      "street": "Rue Bastin"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
+      "hnrlbls": [
         "208"
       ], 
       "housenumber": "208", 
@@ -769,6 +950,12 @@
       "street": "Rue Bastin"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -829,6 +1016,11 @@
       "street": "Rue Bastin"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011"
+      ], 
       "hnrlbls": [
         "219"
       ], 
@@ -841,6 +1033,26 @@
       "street": "Rue Bastin"
     }, 
     {
+      "hnrlbls": [
+        "22"
+      ], 
+      "housenumber": "22", 
+      "lat": 50.671565085254, 
+      "lon": 5.657423173992, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730201", 
+      "street": "Rue Bastin"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "220"
       ], 
@@ -905,8 +1117,8 @@
         "225"
       ], 
       "housenumber": "225", 
-      "lat": 50.676762815438, 
-      "lon": 5.661648183585, 
+      "lat": 50.676731865491, 
+      "lon": 5.661493237872, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730201", 
@@ -919,6 +1131,18 @@
       "housenumber": "227", 
       "lat": 50.676816116065, 
       "lon": 5.661685502117, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730201", 
+      "street": "Rue Bastin"
+    }, 
+    {
+      "hnrlbls": [
+        "227B"
+      ], 
+      "housenumber": "227B", 
+      "lat": 50.676816225387, 
+      "lon": 5.661671567019, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730201", 
@@ -943,6 +1167,18 @@
       "housenumber": "229", 
       "lat": 50.676851107352, 
       "lon": 5.661740968826, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730201", 
+      "street": "Rue Bastin"
+    }, 
+    {
+      "hnrlbls": [
+        "22A"
+      ], 
+      "housenumber": "22A", 
+      "lat": 50.671584789672, 
+      "lon": 5.657470827875, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730201", 
@@ -1153,6 +1389,33 @@
       "street": "Rue Bastin"
     }, 
     {
+      "busnrs": [
+        "0011"
+      ], 
+      "hnrlbls": [
+        "262"
+      ], 
+      "housenumber": "262", 
+      "lat": 50.677383181297, 
+      "lon": 5.662867833491, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730201", 
+      "street": "Rue Bastin"
+    }, 
+    {
+      "hnrlbls": [
+        "264"
+      ], 
+      "housenumber": "264", 
+      "lat": 50.677375351369, 
+      "lon": 5.662844171167, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730201", 
+      "street": "Rue Bastin"
+    }, 
+    {
       "hnrlbls": [
         "27"
       ], 
@@ -1297,6 +1560,10 @@
       "street": "Rue Bastin"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "41"
       ], 
@@ -1321,6 +1588,13 @@
       "street": "Rue Bastin"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "43"
       ], 
@@ -1393,6 +1667,12 @@
       "street": "Rue Bastin"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "56"
       ], 
@@ -1466,6 +1746,18 @@
     }, 
     {
       "hnrlbls": [
+        "69"
+      ], 
+      "housenumber": "69", 
+      "lat": 50.672413365155, 
+      "lon": 5.657777584766, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730201", 
+      "street": "Rue Bastin"
+    }, 
+    {
+      "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
@@ -1477,6 +1769,13 @@
       "street": "Rue Bastin"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014"
+      ], 
       "hnrlbls": [
         "71"
       ], 
@@ -1573,6 +1872,13 @@
       "street": "Rue Bastin"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "86"
       ], 
@@ -1645,6 +1951,12 @@
       "street": "Rue Bastin"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "94"
       ], 

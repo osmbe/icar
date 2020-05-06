@@ -37,6 +37,9 @@
       "street": "Rue de l'Ev\u00each\u00e9"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -85,6 +88,10 @@
       "street": "Rue de l'Ev\u00each\u00e9"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -109,6 +116,12 @@
       "street": "Rue de l'Ev\u00each\u00e9"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt04"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -125,14 +138,17 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.597976134942, 
-      "lon": 4.325979389821, 
+      "lat": 50.597957568605, 
+      "lon": 4.325944277063, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703034", 
       "street": "Rue de l'Ev\u00each\u00e9"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -161,8 +177,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.597870158112, 
-      "lon": 4.326098257738, 
+      "lat": 50.59788974951, 
+      "lon": 4.326006680578, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703034", 

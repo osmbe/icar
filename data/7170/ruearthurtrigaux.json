@@ -349,6 +349,9 @@
       "street": "Rue Arthur Trigaux"
     }, 
     {
+      "busnrs": [
+        "A000"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -589,6 +592,12 @@
       "street": "Rue Arthur Trigaux"
     }, 
     {
+      "busnrs": [
+        "A000", 
+        "B000", 
+        "C000", 
+        "D000"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -625,6 +634,9 @@
       "street": "Rue Arthur Trigaux"
     }, 
     {
+      "busnrs": [
+        "A000"
+      ], 
       "hnrlbls": [
         "153"
       ], 
@@ -1693,6 +1705,9 @@
       "street": "Rue Arthur Trigaux"
     }, 
     {
+      "busnrs": [
+        "A000"
+      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -2071,6 +2086,22 @@
       "housenumber": "70", 
       "lat": 50.485227724531, 
       "lon": 4.231505574314, 
+      "municipality": "Manage", 
+      "pcode": "7170", 
+      "source": "7710679", 
+      "street": "Rue Arthur Trigaux"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
+      "hnrlbls": [
+        "72"
+      ], 
+      "housenumber": "72", 
+      "lat": 50.48513144391, 
+      "lon": 4.231538155434, 
       "municipality": "Manage", 
       "pcode": "7170", 
       "source": "7710679", 

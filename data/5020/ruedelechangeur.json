@@ -145,6 +145,9 @@
       "street": "Rue de l'Echangeur"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -269,8 +272,8 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 50.516903137372, 
-      "lon": 4.876647873381, 
+      "lat": 50.516937739697, 
+      "lon": 4.876553558546, 
       "municipality": "Namur", 
       "pcode": "5020", 
       "source": "7753840", 
@@ -289,6 +292,12 @@
       "street": "Rue de l'Echangeur"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004"
+      ], 
       "hnrlbls": [
         "44"
       ], 

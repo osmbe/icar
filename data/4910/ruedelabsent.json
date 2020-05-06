@@ -49,6 +49,9 @@
       "street": "Rue de l'Absent"
     }, 
     {
+      "busnrs": [
+        "/0001"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -97,48 +100,16 @@
       "street": "Rue de l'Absent"
     }, 
     {
+      "busnrs": [
+        "/1", 
+        "/RC"
+      ], 
       "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
       "lat": 50.531199318655, 
       "lon": 5.814661110822, 
-      "municipality": "Theux", 
-      "pcode": "4910", 
-      "source": "7738457", 
-      "street": "Rue de l'Absent"
-    }, 
-    {
-      "hnrlbls": [
-        "2/A"
-      ], 
-      "housenumber": "2/A", 
-      "lat": 50.531172882676, 
-      "lon": 5.814552856944, 
-      "municipality": "Theux", 
-      "pcode": "4910", 
-      "source": "7738457", 
-      "street": "Rue de l'Absent"
-    }, 
-    {
-      "hnrlbls": [
-        "2/B"
-      ], 
-      "housenumber": "2/B", 
-      "lat": 50.531151984763, 
-      "lon": 5.814463569073, 
-      "municipality": "Theux", 
-      "pcode": "4910", 
-      "source": "7738457", 
-      "street": "Rue de l'Absent"
-    }, 
-    {
-      "hnrlbls": [
-        "2/C"
-      ], 
-      "housenumber": "2/C", 
-      "lat": 50.531125955107, 
-      "lon": 5.814356395763, 
       "municipality": "Theux", 
       "pcode": "4910", 
       "source": "7738457", 
@@ -187,6 +158,42 @@
       "housenumber": "27", 
       "lat": 50.532434586507, 
       "lon": 5.812556885401, 
+      "municipality": "Theux", 
+      "pcode": "4910", 
+      "source": "7738457", 
+      "street": "Rue de l'Absent"
+    }, 
+    {
+      "hnrlbls": [
+        "2A"
+      ], 
+      "housenumber": "2A", 
+      "lat": 50.531172882676, 
+      "lon": 5.814552856944, 
+      "municipality": "Theux", 
+      "pcode": "4910", 
+      "source": "7738457", 
+      "street": "Rue de l'Absent"
+    }, 
+    {
+      "hnrlbls": [
+        "2B"
+      ], 
+      "housenumber": "2B", 
+      "lat": 50.531151984763, 
+      "lon": 5.814463569073, 
+      "municipality": "Theux", 
+      "pcode": "4910", 
+      "source": "7738457", 
+      "street": "Rue de l'Absent"
+    }, 
+    {
+      "hnrlbls": [
+        "2C"
+      ], 
+      "housenumber": "2C", 
+      "lat": 50.531125955107, 
+      "lon": 5.814356395763, 
       "municipality": "Theux", 
       "pcode": "4910", 
       "source": "7738457", 

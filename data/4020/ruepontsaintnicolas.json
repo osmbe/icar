@@ -1,6 +1,13 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0011", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0031"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -9,8 +16,8 @@
       "lon": 5.581603799701, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
-      "source": "7731252", 
-      "street": "Rue Pont-Saint-Nicolas"
+      "source": "7764580", 
+      "street": "Rue Pont Saint-Nicolas"
     }, 
     {
       "hnrlbls": [
@@ -21,8 +28,8 @@
       "lon": 5.581693263041, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
-      "source": "7731252", 
-      "street": "Rue Pont-Saint-Nicolas"
+      "source": "7764580", 
+      "street": "Rue Pont Saint-Nicolas"
     }, 
     {
       "hnrlbls": [
@@ -33,8 +40,20 @@
       "lon": 5.581799286537, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
-      "source": "7731252", 
-      "street": "Rue Pont-Saint-Nicolas"
+      "source": "7764580", 
+      "street": "Rue Pont Saint-Nicolas"
+    }, 
+    {
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.641042377519, 
+      "lon": 5.581871903407, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7764580", 
+      "street": "Rue Pont Saint-Nicolas"
     }
   ]
 }

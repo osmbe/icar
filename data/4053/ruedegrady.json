@@ -14,6 +14,18 @@
     }, 
     {
       "hnrlbls": [
+        "10"
+      ], 
+      "housenumber": "10", 
+      "lat": 50.589601502699, 
+      "lon": 5.603377184452, 
+      "municipality": "Chaudfontaine", 
+      "pcode": "4053", 
+      "source": "7728094", 
+      "street": "Rue de Grady"
+    }, 
+    {
+      "hnrlbls": [
         "11"
       ], 
       "housenumber": "11", 
@@ -31,18 +43,6 @@
       "housenumber": "12", 
       "lat": 50.589592763498, 
       "lon": 5.603286487259, 
-      "municipality": "Chaudfontaine", 
-      "pcode": "4053", 
-      "source": "7728094", 
-      "street": "Rue de Grady"
-    }, 
-    {
-      "hnrlbls": [
-        "14"
-      ], 
-      "housenumber": "14", 
-      "lat": 50.589601502699, 
-      "lon": 5.603377184452, 
       "municipality": "Chaudfontaine", 
       "pcode": "4053", 
       "source": "7728094", 
@@ -385,6 +385,10 @@
       "street": "Rue de Grady"
     }, 
     {
+      "busnrs": [
+        "C11", 
+        "c01"
+      ], 
       "hnrlbls": [
         "58"
       ], 

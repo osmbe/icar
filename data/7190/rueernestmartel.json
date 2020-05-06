@@ -37,6 +37,13 @@
       "street": "Rue Ernest Martel"
     }, 
     {
+      "busnrs": [
+        "BTE1", 
+        "BTE2", 
+        "BTE3", 
+        "BTE4", 
+        "BTE5"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -74,11 +81,11 @@
     }, 
     {
       "hnrlbls": [
-        "15"
+        "16"
       ], 
-      "housenumber": "15", 
-      "lat": 50.566847412304, 
-      "lon": 4.166515494181, 
+      "housenumber": "16", 
+      "lat": 50.566645453005, 
+      "lon": 4.165423619119, 
       "municipality": "Ecaussinnes", 
       "pcode": "7190", 
       "source": "7718961", 
@@ -86,11 +93,11 @@
     }, 
     {
       "hnrlbls": [
-        "16"
+        "17"
       ], 
-      "housenumber": "16", 
-      "lat": 50.566645453005, 
-      "lon": 4.165423619119, 
+      "housenumber": "17", 
+      "lat": 50.566847412304, 
+      "lon": 4.166515494181, 
       "municipality": "Ecaussinnes", 
       "pcode": "7190", 
       "source": "7718961", 
@@ -289,6 +296,67 @@
       "street": "Rue Ernest Martel"
     }, 
     {
+      "busnrs": [
+        "10", 
+        "11", 
+        "12", 
+        "14", 
+        "15", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
+      "hnrlbls": [
+        "31A"
+      ], 
+      "housenumber": "31A", 
+      "lat": 50.566335045408, 
+      "lon": 4.165587793511, 
+      "municipality": "Ecaussinnes", 
+      "pcode": "7190", 
+      "source": "7718961", 
+      "street": "Rue Ernest Martel"
+    }, 
+    {
+      "hnrlbls": [
+        "31B"
+      ], 
+      "housenumber": "31B", 
+      "lat": 50.566088262161, 
+      "lon": 4.165811315879, 
+      "municipality": "Ecaussinnes", 
+      "pcode": "7190", 
+      "source": "7718961", 
+      "street": "Rue Ernest Martel"
+    }, 
+    {
+      "hnrlbls": [
+        "31C"
+      ], 
+      "housenumber": "31C", 
+      "lat": 50.566033005854, 
+      "lon": 4.165930925137, 
+      "municipality": "Ecaussinnes", 
+      "pcode": "7190", 
+      "source": "7718961", 
+      "street": "Rue Ernest Martel"
+    }, 
+    {
+      "hnrlbls": [
+        "31D"
+      ], 
+      "housenumber": "31D", 
+      "lat": 50.565977559248, 
+      "lon": 4.166054405289, 
+      "municipality": "Ecaussinnes", 
+      "pcode": "7190", 
+      "source": "7718961", 
+      "street": "Rue Ernest Martel"
+    }, 
+    {
       "hnrlbls": [
         "32"
       ], 
@@ -313,6 +381,10 @@
       "street": "Rue Ernest Martel"
     }, 
     {
+      "busnrs": [
+        "BTE1", 
+        "BTE2"
+      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -397,6 +469,12 @@
       "street": "Rue Ernest Martel"
     }, 
     {
+      "busnrs": [
+        "A/01", 
+        "A/02", 
+        "BTE2", 
+        "BTE3"
+      ], 
       "hnrlbls": [
         "40"
       ], 
@@ -445,6 +523,9 @@
       "street": "Rue Ernest Martel"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "44"
       ], 
@@ -517,6 +598,10 @@
       "street": "Rue Ernest Martel"
     }, 
     {
+      "busnrs": [
+        "BTE1", 
+        "BTE2"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -673,6 +758,15 @@
       "street": "Rue Ernest Martel"
     }, 
     {
+      "busnrs": [
+        "A/B1", 
+        "A/B2", 
+        "A/B3", 
+        "A/B4", 
+        "A/B5", 
+        "A/B6", 
+        "A/B7"
+      ], 
       "hnrlbls": [
         "62"
       ], 
@@ -829,6 +923,10 @@
       "street": "Rue Ernest Martel"
     }, 
     {
+      "busnrs": [
+        "BTE1", 
+        "BTE2"
+      ], 
       "hnrlbls": [
         "74"
       ], 
@@ -1075,6 +1173,18 @@
       "housenumber": "92", 
       "lat": 50.564765187326, 
       "lon": 4.16123848343, 
+      "municipality": "Ecaussinnes", 
+      "pcode": "7190", 
+      "source": "7718961", 
+      "street": "Rue Ernest Martel"
+    }, 
+    {
+      "hnrlbls": [
+        "92A"
+      ], 
+      "housenumber": "92A", 
+      "lat": 50.564707109811, 
+      "lon": 4.161185115592, 
       "municipality": "Ecaussinnes", 
       "pcode": "7190", 
       "source": "7718961", 

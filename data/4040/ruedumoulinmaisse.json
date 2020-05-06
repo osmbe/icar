@@ -289,6 +289,9 @@
       "street": "Rue du Moulin Maisse"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "45"
       ], 
@@ -481,6 +484,11 @@
       "street": "Rue du Moulin Maisse"
     }, 
     {
+      "busnrs": [
+        "00-1", 
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "66"
       ], 
@@ -493,6 +501,11 @@
       "street": "Rue du Moulin Maisse"
     }, 
     {
+      "busnrs": [
+        "-1", 
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "68"
       ], 

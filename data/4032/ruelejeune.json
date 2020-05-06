@@ -2,6 +2,18 @@
   "addresses": [
     {
       "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.607561339897, 
+      "lon": 5.623510379426, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4032", 
+      "source": "7731139", 
+      "street": "Rue Lejeune"
+    }, 
+    {
+      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -169,6 +181,11 @@
       "street": "Rue Lejeune"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -337,6 +354,9 @@
       "street": "Rue Lejeune"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -625,12 +645,43 @@
       "street": "Rue Lejeune"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "71"
       ], 
       "housenumber": "71", 
       "lat": 50.605686490802, 
       "lon": 5.621900700222, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4032", 
+      "source": "7731139", 
+      "street": "Rue Lejeune"
+    }, 
+    {
+      "hnrlbls": [
+        "72"
+      ], 
+      "housenumber": "72", 
+      "lat": 50.605763090318, 
+      "lon": 5.621703006255, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4032", 
+      "source": "7731139", 
+      "street": "Rue Lejeune"
+    }, 
+    {
+      "hnrlbls": [
+        "74"
+      ], 
+      "housenumber": "74", 
+      "lat": 50.605805681653, 
+      "lon": 5.621716442671, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4032", 
       "source": "7731139", 

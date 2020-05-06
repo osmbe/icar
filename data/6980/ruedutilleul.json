@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -55,6 +58,18 @@
       "housenumber": "6", 
       "lat": 50.170006357236, 
       "lon": 5.556356610112, 
+      "municipality": "La Roche-en-Ardenne", 
+      "pcode": "6980", 
+      "source": "7743865", 
+      "street": "Rue du Tilleul"
+    }, 
+    {
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.170418339442, 
+      "lon": 5.557598305039, 
       "municipality": "La Roche-en-Ardenne", 
       "pcode": "6980", 
       "source": "7743865", 

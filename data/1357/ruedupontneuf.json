@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2", 
+        "Bte3"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +18,9 @@
       "street": "Rue du Pont Neuf"
     }, 
     {
+      "busnrs": [
+        "bte1"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -509,8 +517,8 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 50.75973197798, 
-      "lon": 4.986759229302, 
+      "lat": 50.759738313912, 
+      "lon": 4.986874250571, 
       "municipality": "H\u00e9l\u00e9cine", 
       "pcode": "1357", 
       "source": "7705414", 
@@ -601,12 +609,27 @@
       "street": "Rue du Pont Neuf"
     }, 
     {
+      "busnrs": [
+        "000B"
+      ], 
       "hnrlbls": [
         "60"
       ], 
       "housenumber": "60", 
       "lat": 50.759809312909, 
       "lon": 4.985588355556, 
+      "municipality": "H\u00e9l\u00e9cine", 
+      "pcode": "1357", 
+      "source": "7705414", 
+      "street": "Rue du Pont Neuf"
+    }, 
+    {
+      "hnrlbls": [
+        "6B"
+      ], 
+      "housenumber": "6B", 
+      "lat": 50.758815138469, 
+      "lon": 4.99294951395, 
       "municipality": "H\u00e9l\u00e9cine", 
       "pcode": "1357", 
       "source": "7705414", 

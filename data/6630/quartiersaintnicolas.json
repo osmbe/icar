@@ -13,6 +13,10 @@
       "street": "Quartier Saint-Nicolas"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -362,11 +366,23 @@
     }, 
     {
       "hnrlbls": [
+        "47"
+      ], 
+      "housenumber": "47", 
+      "lat": 49.824134665343, 
+      "lon": 5.745849440773, 
+      "municipality": "Martelange", 
+      "pcode": "6630", 
+      "source": "7742160", 
+      "street": "Quartier Saint-Nicolas"
+    }, 
+    {
+      "hnrlbls": [
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 49.824308831668, 
-      "lon": 5.745902747242, 
+      "lat": 49.824346218227, 
+      "lon": 5.745903967055, 
       "municipality": "Martelange", 
       "pcode": "6630", 
       "source": "7742160", 

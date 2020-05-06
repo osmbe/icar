@@ -49,12 +49,17 @@
       "street": "Rue Hovade"
     }, 
     {
+      "busnrs": [
+        "0003", 
+        "0004", 
+        "0011"
+      ], 
       "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.561963652148, 
-      "lon": 5.597614405433, 
+      "lat": 50.561987911852, 
+      "lon": 5.59755480833, 
       "municipality": "Esneux", 
       "pcode": "4130", 
       "source": "7728781", 
@@ -65,8 +70,8 @@
         "4A"
       ], 
       "housenumber": "4A", 
-      "lat": 50.56192135293, 
-      "lon": 5.597752854184, 
+      "lat": 50.561935969404, 
+      "lon": 5.597720368487, 
       "municipality": "Esneux", 
       "pcode": "4130", 
       "source": "7728781", 
@@ -77,8 +82,25 @@
         "4B"
       ], 
       "housenumber": "4B", 
-      "lat": 50.56192135293, 
-      "lon": 5.597752854184, 
+      "lat": 50.561925794708, 
+      "lon": 5.597782848531, 
+      "municipality": "Esneux", 
+      "pcode": "4130", 
+      "source": "7728781", 
+      "street": "Rue Hovade"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0003", 
+        "0004"
+      ], 
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.561933358536, 
+      "lon": 5.597964249394, 
       "municipality": "Esneux", 
       "pcode": "4130", 
       "source": "7728781", 

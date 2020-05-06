@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -55,18 +59,6 @@
       "housenumber": "5", 
       "lat": 50.482468129111, 
       "lon": 4.550369387136, 
-      "municipality": "Fleurus", 
-      "pcode": "6220", 
-      "source": "7710020", 
-      "street": "Rue des Demoiselles"
-    }, 
-    {
-      "hnrlbls": [
-        "6"
-      ], 
-      "housenumber": "6", 
-      "lat": 50.482445198955, 
-      "lon": 4.550607705102, 
       "municipality": "Fleurus", 
       "pcode": "6220", 
       "source": "7710020", 

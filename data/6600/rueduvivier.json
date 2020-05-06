@@ -313,6 +313,12 @@
       "street": "Rue du Vivier"
     }, 
     {
+      "busnrs": [
+        "A  1", 
+        "A  2", 
+        "A  3", 
+        "B  1"
+      ], 
       "hnrlbls": [
         "150"
       ], 
@@ -337,6 +343,11 @@
       "street": "Rue du Vivier"
     }, 
     {
+      "busnrs": [
+        "A  1", 
+        "A  2", 
+        "A  3"
+      ], 
       "hnrlbls": [
         "154"
       ], 
@@ -517,6 +528,12 @@
       "street": "Rue du Vivier"
     }, 
     {
+      "busnrs": [
+        "A  1", 
+        "A  2", 
+        "B  1", 
+        "B  2"
+      ], 
       "hnrlbls": [
         "180"
       ], 
@@ -553,6 +570,10 @@
       "street": "Rue du Vivier"
     }, 
     {
+      "busnrs": [
+        "B  1", 
+        "C  2"
+      ], 
       "hnrlbls": [
         "186"
       ], 
@@ -601,6 +622,10 @@
       "street": "Rue du Vivier"
     }, 
     {
+      "busnrs": [
+        "A  1", 
+        "A  2"
+      ], 
       "hnrlbls": [
         "194"
       ], 
@@ -661,6 +686,9 @@
       "street": "Rue du Vivier"
     }, 
     {
+      "busnrs": [
+        "A002"
+      ], 
       "hnrlbls": [
         "200"
       ], 
@@ -809,8 +837,8 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 50.001539443161, 
-      "lon": 5.717158474644, 
+      "lat": 50.001594381634, 
+      "lon": 5.716835199294, 
       "municipality": "Bastogne", 
       "pcode": "6600", 
       "source": "7742466", 
@@ -1069,6 +1097,14 @@
       "street": "Rue du Vivier"
     }, 
     {
+      "busnrs": [
+        "A  1", 
+        "A  2", 
+        "B  1", 
+        "B  2", 
+        "C  1", 
+        "C  2"
+      ], 
       "hnrlbls": [
         "76"
       ], 

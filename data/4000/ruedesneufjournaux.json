@@ -25,6 +25,11 @@
       "street": "Rue des Neuf-Journaux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "258"
       ], 
@@ -43,6 +48,18 @@
       "housenumber": "262", 
       "lat": 50.664294481324, 
       "lon": 5.569763790741, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730678", 
+      "street": "Rue des Neuf-Journaux"
+    }, 
+    {
+      "hnrlbls": [
+        "264"
+      ], 
+      "housenumber": "264", 
+      "lat": 50.664291967725, 
+      "lon": 5.569634924654, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730678", 

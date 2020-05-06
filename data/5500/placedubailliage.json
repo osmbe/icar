@@ -62,18 +62,6 @@
     }, 
     {
       "hnrlbls": [
-        "16"
-      ], 
-      "housenumber": "16", 
-      "lat": 50.272610932056, 
-      "lon": 4.898049172763, 
-      "municipality": "Dinant", 
-      "pcode": "5500", 
-      "source": "7749172", 
-      "street": "Place du Bailliage"
-    }, 
-    {
-      "hnrlbls": [
         "17"
       ], 
       "housenumber": "17", 
@@ -85,12 +73,15 @@
       "street": "Place du Bailliage"
     }, 
     {
+      "busnrs": [
+        "Bte1"
+      ], 
       "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 50.272563196112, 
-      "lon": 4.897957709225, 
+      "lat": 50.272739399116, 
+      "lon": 4.897695586236, 
       "municipality": "Dinant", 
       "pcode": "5500", 
       "source": "7749172", 
@@ -145,6 +136,11 @@
       "street": "Place du Bailliage"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2", 
+        "Bte3"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -193,6 +189,11 @@
       "street": "Place du Bailliage"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2", 
+        "Bte3"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -229,6 +230,12 @@
       "street": "Place du Bailliage"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2", 
+        "Bte3", 
+        "Bte4"
+      ], 
       "hnrlbls": [
         "9"
       ], 

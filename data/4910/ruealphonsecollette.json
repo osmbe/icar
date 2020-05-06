@@ -85,6 +85,9 @@
       "street": "Rue Alphonse Collette"
     }, 
     {
+      "busnrs": [
+        "/0002"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -115,30 +118,6 @@
       "housenumber": "2", 
       "lat": 50.556969592126, 
       "lon": 5.897438342914, 
-      "municipality": "Theux", 
-      "pcode": "4910", 
-      "source": "7738433", 
-      "street": "Rue Alphonse Collette"
-    }, 
-    {
-      "hnrlbls": [
-        "2/A"
-      ], 
-      "housenumber": "2/A", 
-      "lat": 50.556910541454, 
-      "lon": 5.897597305826, 
-      "municipality": "Theux", 
-      "pcode": "4910", 
-      "source": "7738433", 
-      "street": "Rue Alphonse Collette"
-    }, 
-    {
-      "hnrlbls": [
-        "2/B"
-      ], 
-      "housenumber": "2/B", 
-      "lat": 50.556878368525, 
-      "lon": 5.897684274377, 
       "municipality": "Theux", 
       "pcode": "4910", 
       "source": "7738433", 
@@ -205,6 +184,9 @@
       "street": "Rue Alphonse Collette"
     }, 
     {
+      "busnrs": [
+        "/RC"
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -217,6 +199,34 @@
       "street": "Rue Alphonse Collette"
     }, 
     {
+      "hnrlbls": [
+        "2A"
+      ], 
+      "housenumber": "2A", 
+      "lat": 50.556910541454, 
+      "lon": 5.897597305826, 
+      "municipality": "Theux", 
+      "pcode": "4910", 
+      "source": "7738433", 
+      "street": "Rue Alphonse Collette"
+    }, 
+    {
+      "hnrlbls": [
+        "2B"
+      ], 
+      "housenumber": "2B", 
+      "lat": 50.556878368525, 
+      "lon": 5.897684274377, 
+      "municipality": "Theux", 
+      "pcode": "4910", 
+      "source": "7738433", 
+      "street": "Rue Alphonse Collette"
+    }, 
+    {
+      "busnrs": [
+        "/0001", 
+        "/0003"
+      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -242,9 +252,33 @@
     }, 
     {
       "hnrlbls": [
-        "39/A"
+        "35"
       ], 
-      "housenumber": "39/A", 
+      "housenumber": "35", 
+      "lat": 50.556836263616, 
+      "lon": 5.900041775218, 
+      "municipality": "Theux", 
+      "pcode": "4910", 
+      "source": "7738433", 
+      "street": "Rue Alphonse Collette"
+    }, 
+    {
+      "hnrlbls": [
+        "37"
+      ], 
+      "housenumber": "37", 
+      "lat": 50.556786837706, 
+      "lon": 5.900000960476, 
+      "municipality": "Theux", 
+      "pcode": "4910", 
+      "source": "7738433", 
+      "street": "Rue Alphonse Collette"
+    }, 
+    {
+      "hnrlbls": [
+        "39A"
+      ], 
+      "housenumber": "39A", 
       "lat": 50.556692773021, 
       "lon": 5.89994000427, 
       "municipality": "Theux", 
@@ -254,11 +288,11 @@
     }, 
     {
       "hnrlbls": [
-        "39/B"
+        "39B"
       ], 
-      "housenumber": "39/B", 
-      "lat": 50.556815484414, 
-      "lon": 5.900030519883, 
+      "housenumber": "39B", 
+      "lat": 50.556687206493, 
+      "lon": 5.899970344019, 
       "municipality": "Theux", 
       "pcode": "4910", 
       "source": "7738433", 
@@ -457,6 +491,10 @@
       "street": "Rue Alphonse Collette"
     }, 
     {
+      "busnrs": [
+        "1A", 
+        "1B"
+      ], 
       "hnrlbls": [
         "69"
       ], 
@@ -469,6 +507,11 @@
       "street": "Rue Alphonse Collette"
     }, 
     {
+      "busnrs": [
+        "/1A", 
+        "/1B", 
+        "/RCA"
+      ], 
       "hnrlbls": [
         "7"
       ], 

@@ -145,6 +145,9 @@
       "street": "Rue Jules Tison"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -241,12 +244,15 @@
       "street": "Rue Jules Tison"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 50.458424568945, 
-      "lon": 4.19996073265, 
+      "lat": 50.458415306721, 
+      "lon": 4.200114777755, 
       "municipality": "La Louvi\u00e8re", 
       "pcode": "7100", 
       "source": "7717696", 
@@ -269,8 +275,8 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 50.45849312567, 
-      "lon": 4.200002006416, 
+      "lat": 50.458469516361, 
+      "lon": 4.199926816128, 
       "municipality": "La Louvi\u00e8re", 
       "pcode": "7100", 
       "source": "7717696", 
@@ -325,6 +331,10 @@
       "street": "Rue Jules Tison"
     }, 
     {
+      "busnrs": [
+        "-000", 
+        "A"
+      ], 
       "hnrlbls": [
         "43"
       ], 

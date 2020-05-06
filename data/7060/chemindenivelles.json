@@ -253,6 +253,11 @@
       "street": "Chemin de Nivelles"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "3", 
+        "O001"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -457,6 +462,9 @@
       "street": "Chemin de Nivelles"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -581,8 +589,8 @@
         "66"
       ], 
       "housenumber": "66", 
-      "lat": 50.578633946585, 
-      "lon": 4.086467784623, 
+      "lat": 50.578641107845, 
+      "lon": 4.086592779202, 
       "municipality": "Soignies", 
       "pcode": "7060", 
       "source": "7718527", 
@@ -761,8 +769,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.579589340001, 
-      "lon": 4.075598783544, 
+      "lat": 50.57987203961, 
+      "lon": 4.076214118904, 
       "municipality": "Soignies", 
       "pcode": "7060", 
       "source": "7718527", 

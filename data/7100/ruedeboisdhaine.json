@@ -37,6 +37,9 @@
       "street": "Rue de Bois d'Haine"
     }, 
     {
+      "busnrs": [
+        "0101"
+      ], 
       "hnrlbls": [
         "103"
       ], 
@@ -325,6 +328,10 @@
       "street": "Rue de Bois d'Haine"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -397,6 +404,10 @@
       "street": "Rue de Bois d'Haine"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -469,6 +480,9 @@
       "street": "Rue de Bois d'Haine"
     }, 
     {
+      "busnrs": [
+        "0191"
+      ], 
       "hnrlbls": [
         "189"
       ], 
@@ -607,18 +621,6 @@
       "housenumber": "30", 
       "lat": 50.510086678886, 
       "lon": 4.197012192972, 
-      "municipality": "La Louvi\u00e8re", 
-      "pcode": "7100", 
-      "source": "7717206", 
-      "street": "Rue de Bois d'Haine"
-    }, 
-    {
-      "hnrlbls": [
-        "35"
-      ], 
-      "housenumber": "35", 
-      "lat": 50.510268288487, 
-      "lon": 4.197411025646, 
       "municipality": "La Louvi\u00e8re", 
       "pcode": "7100", 
       "source": "7717206", 
@@ -997,6 +999,9 @@
       "street": "Rue de Bois d'Haine"
     }, 
     {
+      "busnrs": [
+        "0003"
+      ], 
       "hnrlbls": [
         "72"
       ], 
@@ -1169,8 +1174,8 @@
         "94"
       ], 
       "housenumber": "94", 
-      "lat": 50.509231329873, 
-      "lon": 4.202025173558, 
+      "lat": 50.509281754804, 
+      "lon": 4.202024320017, 
       "municipality": "La Louvi\u00e8re", 
       "pcode": "7100", 
       "source": "7717206", 
@@ -1193,8 +1198,8 @@
         "98"
       ], 
       "housenumber": "98", 
-      "lat": 50.50923414972, 
-      "lon": 4.202876298137, 
+      "lat": 50.50932717709, 
+      "lon": 4.202905565692, 
       "municipality": "La Louvi\u00e8re", 
       "pcode": "7100", 
       "source": "7717206", 

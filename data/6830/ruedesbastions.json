@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0006", 
+        "0007"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -37,6 +43,37 @@
       "street": "Rue des Bastions"
     }, 
     {
+      "hnrlbls": [
+        "14"
+      ], 
+      "housenumber": "14", 
+      "lat": 49.796936169912, 
+      "lon": 5.06867363119, 
+      "municipality": "Bouillon", 
+      "pcode": "6830", 
+      "source": "7745220", 
+      "street": "Rue des Bastions"
+    }, 
+    {
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 49.796761463712, 
+      "lon": 5.069260968917, 
+      "municipality": "Bouillon", 
+      "pcode": "6830", 
+      "source": "7745220", 
+      "street": "Rue des Bastions"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0005", 
+        "0010"
+      ], 
       "hnrlbls": [
         "5"
       ], 

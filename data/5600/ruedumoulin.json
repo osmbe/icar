@@ -1,6 +1,13 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "101"
       ], 
@@ -13,12 +20,51 @@
       "street": "Rue du Moulin"
     }, 
     {
+      "busnrs": [
+        "0011"
+      ], 
+      "hnrlbls": [
+        "102"
+      ], 
+      "housenumber": "102", 
+      "lat": 50.195833806999, 
+      "lon": 4.542904625281, 
+      "municipality": "Philippeville", 
+      "pcode": "5600", 
+      "source": "7757625", 
+      "street": "Rue du Moulin"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0041", 
+        "0042"
+      ], 
       "hnrlbls": [
         "103"
       ], 
       "housenumber": "103", 
       "lat": 50.195910730467, 
       "lon": 4.542624811578, 
+      "municipality": "Philippeville", 
+      "pcode": "5600", 
+      "source": "7757625", 
+      "street": "Rue du Moulin"
+    }, 
+    {
+      "hnrlbls": [
+        "104"
+      ], 
+      "housenumber": "104", 
+      "lat": 50.195810865884, 
+      "lon": 4.542821229631, 
       "municipality": "Philippeville", 
       "pcode": "5600", 
       "source": "7757625", 
@@ -38,6 +84,18 @@
     }, 
     {
       "hnrlbls": [
+        "106"
+      ], 
+      "housenumber": "106", 
+      "lat": 50.195779262812, 
+      "lon": 4.542707116369, 
+      "municipality": "Philippeville", 
+      "pcode": "5600", 
+      "source": "7757625", 
+      "street": "Rue du Moulin"
+    }, 
+    {
+      "hnrlbls": [
         "108"
       ], 
       "housenumber": "108", 
@@ -50,11 +108,23 @@
     }, 
     {
       "hnrlbls": [
+        "109"
+      ], 
+      "housenumber": "109", 
+      "lat": 50.195802812356, 
+      "lon": 4.542299587705, 
+      "municipality": "Philippeville", 
+      "pcode": "5600", 
+      "source": "7757625", 
+      "street": "Rue du Moulin"
+    }, 
+    {
+      "hnrlbls": [
         "110"
       ], 
       "housenumber": "110", 
-      "lat": 50.194188572326, 
-      "lon": 4.536599900221, 
+      "lat": 50.195717919517, 
+      "lon": 4.542594301913, 
       "municipality": "Philippeville", 
       "pcode": "5600", 
       "source": "7757625", 
@@ -77,8 +147,8 @@
         "114"
       ], 
       "housenumber": "114", 
-      "lat": 50.195564165702, 
-      "lon": 4.542461682115, 
+      "lat": 50.195669635099, 
+      "lon": 4.542448580774, 
       "municipality": "Philippeville", 
       "pcode": "5600", 
       "source": "7757625", 
@@ -193,6 +263,11 @@
       "street": "Rue du Moulin"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "128"
       ], 
@@ -293,8 +368,8 @@
         "139"
       ], 
       "housenumber": "139", 
-      "lat": 50.195478352956, 
-      "lon": 4.541117392256, 
+      "lat": 50.195382979086, 
+      "lon": 4.541035625976, 
       "municipality": "Philippeville", 
       "pcode": "5600", 
       "source": "7757625", 
@@ -305,14 +380,18 @@
         "140"
       ], 
       "housenumber": "140", 
-      "lat": 50.194741518258, 
-      "lon": 4.539747100476, 
+      "lat": 50.194790387728, 
+      "lon": 4.539958803462, 
       "municipality": "Philippeville", 
       "pcode": "5600", 
       "source": "7757625", 
       "street": "Rue du Moulin"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "141"
       ], 
@@ -377,14 +456,17 @@
         "148"
       ], 
       "housenumber": "148", 
-      "lat": 50.194636143525, 
-      "lon": 4.539674807475, 
+      "lat": 50.194640355382, 
+      "lon": 4.539496709743, 
       "municipality": "Philippeville", 
       "pcode": "5600", 
       "source": "7757625", 
       "street": "Rue du Moulin"
     }, 
     {
+      "busnrs": [
+        "0011"
+      ], 
       "hnrlbls": [
         "149"
       ], 
@@ -437,8 +519,8 @@
         "158"
       ], 
       "housenumber": "158", 
-      "lat": 50.194406263534, 
-      "lon": 4.539037188479, 
+      "lat": 50.194472366199, 
+      "lon": 4.539035156752, 
       "municipality": "Philippeville", 
       "pcode": "5600", 
       "source": "7757625", 
@@ -482,6 +564,18 @@
     }, 
     {
       "hnrlbls": [
+        "164"
+      ], 
+      "housenumber": "164", 
+      "lat": 50.194045367997, 
+      "lon": 4.539044526694, 
+      "municipality": "Philippeville", 
+      "pcode": "5600", 
+      "source": "7757625", 
+      "street": "Rue du Moulin"
+    }, 
+    {
+      "hnrlbls": [
         "165"
       ], 
       "housenumber": "165", 
@@ -497,8 +591,8 @@
         "166"
       ], 
       "housenumber": "166", 
-      "lat": 50.194058154251, 
-      "lon": 4.538288159766, 
+      "lat": 50.194119788308, 
+      "lon": 4.538330296722, 
       "municipality": "Philippeville", 
       "pcode": "5600", 
       "source": "7757625", 
@@ -509,8 +603,8 @@
         "167"
       ], 
       "housenumber": "167", 
-      "lat": 50.194513506639, 
-      "lon": 4.538377289593, 
+      "lat": 50.194549074897, 
+      "lon": 4.538379314366, 
       "municipality": "Philippeville", 
       "pcode": "5600", 
       "source": "7757625", 
@@ -533,8 +627,8 @@
         "169"
       ], 
       "housenumber": "169", 
-      "lat": 50.194536022347, 
-      "lon": 4.538258999042, 
+      "lat": 50.194492743396, 
+      "lon": 4.53823950351, 
       "municipality": "Philippeville", 
       "pcode": "5600", 
       "source": "7757625", 
@@ -665,8 +759,8 @@
         "192"
       ], 
       "housenumber": "192", 
-      "lat": 50.191979883276, 
-      "lon": 4.537075231318, 
+      "lat": 50.191991817385, 
+      "lon": 4.537032766258, 
       "municipality": "Philippeville", 
       "pcode": "5600", 
       "source": "7757625", 
@@ -703,6 +797,18 @@
       "housenumber": "198", 
       "lat": 50.191437196859, 
       "lon": 4.536604769572, 
+      "municipality": "Philippeville", 
+      "pcode": "5600", 
+      "source": "7757625", 
+      "street": "Rue du Moulin"
+    }, 
+    {
+      "hnrlbls": [
+        "200"
+      ], 
+      "housenumber": "200", 
+      "lat": 50.191226753174, 
+      "lon": 4.536535777902, 
       "municipality": "Philippeville", 
       "pcode": "5600", 
       "source": "7757625", 
@@ -853,6 +959,27 @@
       "street": "Rue du Moulin"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008", 
+        "0009", 
+        "0010", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0015", 
+        "0016", 
+        "0017", 
+        "0018", 
+        "0019"
+      ], 
       "hnrlbls": [
         "233"
       ], 

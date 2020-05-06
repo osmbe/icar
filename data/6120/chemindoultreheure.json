@@ -13,6 +13,9 @@
       "street": "Chemin d'Oultre Heure"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "100"
       ], 
@@ -158,6 +161,18 @@
     }, 
     {
       "hnrlbls": [
+        "143"
+      ], 
+      "housenumber": "143", 
+      "lat": 50.326081892292, 
+      "lon": 4.411867659613, 
+      "municipality": "Ham-sur-Heure-Nalinnes", 
+      "pcode": "6120", 
+      "source": "7721429", 
+      "street": "Chemin d'Oultre Heure"
+    }, 
+    {
+      "hnrlbls": [
         "15"
       ], 
       "housenumber": "15", 
@@ -277,6 +292,10 @@
       "street": "Chemin d'Oultre Heure"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "000B"
+      ], 
       "hnrlbls": [
         "169"
       ], 

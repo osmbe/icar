@@ -37,6 +37,12 @@
       "street": "Rue Doth\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -49,6 +55,11 @@
       "street": "Rue Doth\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -61,6 +72,12 @@
       "street": "Rue Doth\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0031"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -121,6 +138,12 @@
       "street": "Rue Doth\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -133,6 +156,14 @@
       "street": "Rue Doth\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -157,6 +188,10 @@
       "street": "Rue Doth\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -205,12 +240,31 @@
       "street": "Rue Doth\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "26"
       ], 
       "housenumber": "26", 
       "lat": 50.63111184888, 
       "lon": 5.581353964344, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730756", 
+      "street": "Rue Doth\u00e9e"
+    }, 
+    {
+      "hnrlbls": [
+        "27"
+      ], 
+      "housenumber": "27", 
+      "lat": 50.630993172581, 
+      "lon": 5.581633501084, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730756", 
@@ -229,6 +283,11 @@
       "street": "Rue Doth\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -241,6 +300,11 @@
       "street": "Rue Doth\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -253,6 +317,11 @@
       "street": "Rue Doth\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -385,6 +454,11 @@
       "street": "Rue Doth\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "40"
       ], 
@@ -397,6 +471,11 @@
       "street": "Rue Doth\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "41"
       ], 
@@ -433,6 +512,11 @@
       "street": "Rue Doth\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "46"
       ], 
@@ -445,6 +529,11 @@
       "street": "Rue Doth\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "48"
       ], 
@@ -494,6 +583,18 @@
     }, 
     {
       "hnrlbls": [
+        "54"
+      ], 
+      "housenumber": "54", 
+      "lat": 50.630575017883, 
+      "lon": 5.580456897112, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730756", 
+      "street": "Rue Doth\u00e9e"
+    }, 
+    {
+      "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
@@ -511,6 +612,18 @@
       "housenumber": "7", 
       "lat": 50.631401081717, 
       "lon": 5.582173338957, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730756", 
+      "street": "Rue Doth\u00e9e"
+    }, 
+    {
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 50.631446052232, 
+      "lon": 5.581868468213, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730756", 

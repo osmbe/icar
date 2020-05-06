@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0002", 
+        "A/1", 
+        "Bte3"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -61,6 +66,9 @@
       "street": "Rue Thomas"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -113,8 +121,8 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.336223815449, 
-      "lon": 4.986962414621, 
+      "lat": 50.33623729736, 
+      "lon": 4.987074420726, 
       "municipality": "Yvoir", 
       "pcode": "5530", 
       "source": "7750999", 

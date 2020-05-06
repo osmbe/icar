@@ -2,6 +2,18 @@
   "addresses": [
     {
       "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.595756716326, 
+      "lon": 4.321661692639, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7702974", 
+      "street": "Rue Bayard"
+    }, 
+    {
+      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -37,6 +49,10 @@
       "street": "Rue Bayard"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "RDCH"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -85,6 +101,12 @@
       "street": "Rue Bayard"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "RDCH"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -97,6 +119,14 @@
       "street": "Rue Bayard"
     }, 
     {
+      "busnrs": [
+        "Bt01", 
+        "Bt02", 
+        "Bt03", 
+        "Bt04", 
+        "Bt05", 
+        "Bt06"
+      ], 
       "hnrlbls": [
         "18"
       ], 

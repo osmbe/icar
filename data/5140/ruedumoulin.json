@@ -37,6 +37,11 @@
       "street": "Rue du Moulin"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -121,6 +126,9 @@
       "street": "Rue du Moulin"
     }, 
     {
+      "busnrs": [
+        "/1"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -281,8 +289,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.51239827806, 
-      "lon": 4.619329427816, 
+      "lat": 50.512425986749, 
+      "lon": 4.619504009689, 
       "municipality": "Sombreffe", 
       "pcode": "5140", 
       "source": "7755167", 

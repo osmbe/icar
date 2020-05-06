@@ -37,6 +37,24 @@
       "street": "Chauss\u00e9e de Rochefort"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "02", 
+        "03", 
+        "04", 
+        "11", 
+        "12", 
+        "13", 
+        "14", 
+        "21", 
+        "22", 
+        "23", 
+        "24", 
+        "31", 
+        "32", 
+        "33", 
+        "34"
+      ], 
       "hnrlbls": [
         "101"
       ], 
@@ -181,12 +199,16 @@
       "street": "Chauss\u00e9e de Rochefort"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "112"
       ], 
       "housenumber": "112", 
-      "lat": 50.197136702753, 
-      "lon": 5.315576361912, 
+      "lat": 50.196562331669, 
+      "lon": 5.314997584622, 
       "municipality": "Marche-en-Famenne", 
       "pcode": "6900", 
       "source": "7743921", 
@@ -209,8 +231,25 @@
         "115"
       ], 
       "housenumber": "115", 
-      "lat": 50.200169261198, 
-      "lon": 5.317750045678, 
+      "lat": 50.200184913581, 
+      "lon": 5.317755917302, 
+      "municipality": "Marche-en-Famenne", 
+      "pcode": "6900", 
+      "source": "7743921", 
+      "street": "Chauss\u00e9e de Rochefort"
+    }, 
+    {
+      "busnrs": [
+        "01", 
+        "11", 
+        "21"
+      ], 
+      "hnrlbls": [
+        "115A"
+      ], 
+      "housenumber": "115A", 
+      "lat": 50.200145917135, 
+      "lon": 5.317734929695, 
       "municipality": "Marche-en-Famenne", 
       "pcode": "6900", 
       "source": "7743921", 
@@ -221,8 +260,8 @@
         "116"
       ], 
       "housenumber": "116", 
-      "lat": 50.196562331669, 
-      "lon": 5.314997584622, 
+      "lat": 50.196342323102, 
+      "lon": 5.314706594066, 
       "municipality": "Marche-en-Famenne", 
       "pcode": "6900", 
       "source": "7743921", 
@@ -233,8 +272,36 @@
         "117"
       ], 
       "housenumber": "117", 
-      "lat": 50.200040979213, 
-      "lon": 5.317727444217, 
+      "lat": 50.200056920043, 
+      "lon": 5.31774166042, 
+      "municipality": "Marche-en-Famenne", 
+      "pcode": "6900", 
+      "source": "7743921", 
+      "street": "Chauss\u00e9e de Rochefort"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
+      "hnrlbls": [
+        "117A"
+      ], 
+      "housenumber": "117A", 
+      "lat": 50.2000411843, 
+      "lon": 5.317727652818, 
+      "municipality": "Marche-en-Famenne", 
+      "pcode": "6900", 
+      "source": "7743921", 
+      "street": "Chauss\u00e9e de Rochefort"
+    }, 
+    {
+      "hnrlbls": [
+        "117B"
+      ], 
+      "housenumber": "117B", 
+      "lat": 50.200022246813, 
+      "lon": 5.317716157462, 
       "municipality": "Marche-en-Famenne", 
       "pcode": "6900", 
       "source": "7743921", 
@@ -313,6 +380,19 @@
       "street": "Chauss\u00e9e de Rochefort"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "13", 
+        "15", 
+        "16", 
+        "2", 
+        "3", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
       "hnrlbls": [
         "123"
       ], 
@@ -713,8 +793,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 50.20602564454, 
-      "lon": 5.323752100952, 
+      "lat": 50.206010939734, 
+      "lon": 5.323732345329, 
       "municipality": "Marche-en-Famenne", 
       "pcode": "6900", 
       "source": "7743921", 
@@ -770,18 +850,6 @@
     }, 
     {
       "hnrlbls": [
-        "27"
-      ], 
-      "housenumber": "27", 
-      "lat": 50.205826250287, 
-      "lon": 5.323605555069, 
-      "municipality": "Marche-en-Famenne", 
-      "pcode": "6900", 
-      "source": "7743921", 
-      "street": "Chauss\u00e9e de Rochefort"
-    }, 
-    {
-      "hnrlbls": [
         "28"
       ], 
       "housenumber": "28", 
@@ -793,12 +861,27 @@
       "street": "Chauss\u00e9e de Rochefort"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "29"
       ], 
       "housenumber": "29", 
       "lat": 50.205601590178, 
       "lon": 5.323524348322, 
+      "municipality": "Marche-en-Famenne", 
+      "pcode": "6900", 
+      "source": "7743921", 
+      "street": "Chauss\u00e9e de Rochefort"
+    }, 
+    {
+      "hnrlbls": [
+        "29A"
+      ], 
+      "housenumber": "29A", 
+      "lat": 50.204365384375, 
+      "lon": 5.32600624995, 
       "municipality": "Marche-en-Famenne", 
       "pcode": "6900", 
       "source": "7743921", 
@@ -905,8 +988,8 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 50.205990213919, 
-      "lon": 5.323713621957, 
+      "lat": 50.204465581002, 
+      "lon": 5.321641817883, 
       "municipality": "Marche-en-Famenne", 
       "pcode": "6900", 
       "source": "7743921", 
@@ -1046,18 +1129,6 @@
     }, 
     {
       "hnrlbls": [
-        "48"
-      ], 
-      "housenumber": "48", 
-      "lat": 50.203524785175, 
-      "lon": 5.320685940751, 
-      "municipality": "Marche-en-Famenne", 
-      "pcode": "6900", 
-      "source": "7743921", 
-      "street": "Chauss\u00e9e de Rochefort"
-    }, 
-    {
-      "hnrlbls": [
         "49"
       ], 
       "housenumber": "49", 
@@ -1093,12 +1164,28 @@
       "street": "Chauss\u00e9e de Rochefort"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "11"
+      ], 
+      "hnrlbls": [
+        "50A"
+      ], 
+      "housenumber": "50A", 
+      "lat": 50.203333454281, 
+      "lon": 5.320498755022, 
+      "municipality": "Marche-en-Famenne", 
+      "pcode": "6900", 
+      "source": "7743921", 
+      "street": "Chauss\u00e9e de Rochefort"
+    }, 
+    {
       "hnrlbls": [
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 50.204344467278, 
-      "lon": 5.321939679121, 
+      "lat": 50.204466948982, 
+      "lon": 5.322232356439, 
       "municipality": "Marche-en-Famenne", 
       "pcode": "6900", 
       "source": "7743921", 
@@ -1157,8 +1244,20 @@
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 50.202761796844, 
-      "lon": 5.319860794498, 
+      "lat": 50.20277543406, 
+      "lon": 5.319880339929, 
+      "municipality": "Marche-en-Famenne", 
+      "pcode": "6900", 
+      "source": "7743921", 
+      "street": "Chauss\u00e9e de Rochefort"
+    }, 
+    {
+      "hnrlbls": [
+        "56A"
+      ], 
+      "housenumber": "56A", 
+      "lat": 50.202734682433, 
+      "lon": 5.319833070651, 
       "municipality": "Marche-en-Famenne", 
       "pcode": "6900", 
       "source": "7743921", 
@@ -1193,8 +1292,8 @@
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 50.203830692382, 
-      "lon": 5.3214361825, 
+      "lat": 50.203833924476, 
+      "lon": 5.32147701877, 
       "municipality": "Marche-en-Famenne", 
       "pcode": "6900", 
       "source": "7743921", 
@@ -1301,8 +1400,8 @@
         "67"
       ], 
       "housenumber": "67", 
-      "lat": 50.203470591766, 
-      "lon": 5.320996329705, 
+      "lat": 50.203489193778, 
+      "lon": 5.320990771743, 
       "municipality": "Marche-en-Famenne", 
       "pcode": "6900", 
       "source": "7743921", 
@@ -1345,6 +1444,15 @@
       "street": "Chauss\u00e9e de Rochefort"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7"
+      ], 
       "hnrlbls": [
         "70"
       ], 
@@ -1381,6 +1489,9 @@
       "street": "Chauss\u00e9e de Rochefort"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "73"
       ], 
@@ -1406,6 +1517,54 @@
     }, 
     {
       "hnrlbls": [
+        "74A"
+      ], 
+      "housenumber": "74A", 
+      "lat": 50.201768503483, 
+      "lon": 5.318764150507, 
+      "municipality": "Marche-en-Famenne", 
+      "pcode": "6900", 
+      "source": "7743921", 
+      "street": "Chauss\u00e9e de Rochefort"
+    }, 
+    {
+      "hnrlbls": [
+        "74B"
+      ], 
+      "housenumber": "74B", 
+      "lat": 50.20172482663, 
+      "lon": 5.31872343536, 
+      "municipality": "Marche-en-Famenne", 
+      "pcode": "6900", 
+      "source": "7743921", 
+      "street": "Chauss\u00e9e de Rochefort"
+    }, 
+    {
+      "hnrlbls": [
+        "74C"
+      ], 
+      "housenumber": "74C", 
+      "lat": 50.201684772023, 
+      "lon": 5.318676305299, 
+      "municipality": "Marche-en-Famenne", 
+      "pcode": "6900", 
+      "source": "7743921", 
+      "street": "Chauss\u00e9e de Rochefort"
+    }, 
+    {
+      "hnrlbls": [
+        "74D"
+      ], 
+      "housenumber": "74D", 
+      "lat": 50.201626413175, 
+      "lon": 5.318613060708, 
+      "municipality": "Marche-en-Famenne", 
+      "pcode": "6900", 
+      "source": "7743921", 
+      "street": "Chauss\u00e9e de Rochefort"
+    }, 
+    {
+      "hnrlbls": [
         "75"
       ], 
       "housenumber": "75", 
@@ -1421,8 +1580,8 @@
         "76"
       ], 
       "housenumber": "76", 
-      "lat": 50.201719147973, 
-      "lon": 5.318711699388, 
+      "lat": 50.201561992744, 
+      "lon": 5.318512126622, 
       "municipality": "Marche-en-Famenne", 
       "pcode": "6900", 
       "source": "7743921", 
@@ -1525,12 +1684,34 @@
       "street": "Chauss\u00e9e de Rochefort"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "11", 
+        "21"
+      ], 
       "hnrlbls": [
         "84"
       ], 
       "housenumber": "84", 
       "lat": 50.201125014388, 
       "lon": 5.318082173192, 
+      "municipality": "Marche-en-Famenne", 
+      "pcode": "6900", 
+      "source": "7743921", 
+      "street": "Chauss\u00e9e de Rochefort"
+    }, 
+    {
+      "busnrs": [
+        "01", 
+        "11", 
+        "21"
+      ], 
+      "hnrlbls": [
+        "84A"
+      ], 
+      "housenumber": "84A", 
+      "lat": 50.201044825186, 
+      "lon": 5.317990143921, 
       "municipality": "Marche-en-Famenne", 
       "pcode": "6900", 
       "source": "7743921", 
@@ -1573,6 +1754,11 @@
       "street": "Chauss\u00e9e de Rochefort"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "88"
       ], 
@@ -1639,6 +1825,18 @@
       "housenumber": "92", 
       "lat": 50.200321975226, 
       "lon": 5.317488633787, 
+      "municipality": "Marche-en-Famenne", 
+      "pcode": "6900", 
+      "source": "7743921", 
+      "street": "Chauss\u00e9e de Rochefort"
+    }, 
+    {
+      "hnrlbls": [
+        "92A"
+      ], 
+      "housenumber": "92A", 
+      "lat": 50.200250751428, 
+      "lon": 5.317483509809, 
       "municipality": "Marche-en-Famenne", 
       "pcode": "6900", 
       "source": "7743921", 

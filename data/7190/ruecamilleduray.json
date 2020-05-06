@@ -13,10 +13,22 @@
       "street": "Rue Camille Duray"
     }, 
     {
-      "hnrlbls": [
-        "100001"
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008", 
+        "0009", 
+        "0010"
       ], 
-      "housenumber": "100001", 
+      "hnrlbls": [
+        "10"
+      ], 
+      "housenumber": "10", 
       "lat": 50.561226366633, 
       "lon": 4.159898409939, 
       "municipality": "Ecaussinnes", 
@@ -37,10 +49,24 @@
       "street": "Rue Camille Duray"
     }, 
     {
-      "hnrlbls": [
-        "12B001"
+      "busnrs": [
+        "B001", 
+        "B002", 
+        "B003", 
+        "B004", 
+        "B005", 
+        "B006", 
+        "B007", 
+        "B008", 
+        "B009", 
+        "B010", 
+        "B011", 
+        "B012"
       ], 
-      "housenumber": "12B001", 
+      "hnrlbls": [
+        "12"
+      ], 
+      "housenumber": "12", 
       "lat": 50.561301836204, 
       "lon": 4.159791194673, 
       "municipality": "Ecaussinnes", 
@@ -61,12 +87,19 @@
       "street": "Rue Camille Duray"
     }, 
     {
-      "hnrlbls": [
-        "14B001"
+      "busnrs": [
+        "B001", 
+        "B002", 
+        "B003", 
+        "B004", 
+        "B005"
       ], 
-      "housenumber": "14B001", 
-      "lat": 50.561367572955, 
-      "lon": 4.159685997867, 
+      "hnrlbls": [
+        "14"
+      ], 
+      "housenumber": "14", 
+      "lat": 50.561410291391, 
+      "lon": 4.159631662297, 
       "municipality": "Ecaussinnes", 
       "pcode": "7190", 
       "source": "7718876", 
@@ -361,6 +394,10 @@
       "street": "Rue Camille Duray"
     }, 
     {
+      "busnrs": [
+        "BTE1", 
+        "BTE2"
+      ], 
       "hnrlbls": [
         "45BTE1"
       ], 
@@ -493,6 +530,10 @@
       "street": "Rue Camille Duray"
     }, 
     {
+      "busnrs": [
+        "BTE1", 
+        "BTE2"
+      ], 
       "hnrlbls": [
         "61BTE1"
       ], 
@@ -581,8 +622,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.561240775987, 
-      "lon": 4.160603353464, 
+      "lat": 50.561070851714, 
+      "lon": 4.160128243426, 
       "municipality": "Ecaussinnes", 
       "pcode": "7190", 
       "source": "7718876", 

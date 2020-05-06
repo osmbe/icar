@@ -1,6 +1,15 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0031", 
+        "0041", 
+        "0051"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -37,6 +46,12 @@
       "street": "Place Cockerill"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -61,6 +76,12 @@
       "street": "Place Cockerill"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -73,6 +94,11 @@
       "street": "Place Cockerill"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -85,12 +111,30 @@
       "street": "Place Cockerill"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "22"
       ], 
       "housenumber": "22", 
       "lat": 50.641260345135, 
       "lon": 5.574854736268, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729966", 
+      "street": "Place Cockerill"
+    }, 
+    {
+      "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 50.641427529905, 
+      "lon": 5.57627586937, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7729966", 
@@ -110,6 +154,18 @@
     }, 
     {
       "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 50.641282472395, 
+      "lon": 5.575540017646, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7729966", 
+      "street": "Place Cockerill"
+    }, 
+    {
+      "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
@@ -121,6 +177,15 @@
       "street": "Place Cockerill"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "8"
       ], 

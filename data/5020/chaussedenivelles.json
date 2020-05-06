@@ -553,6 +553,9 @@
       "street": "Chauss\u00e9e de Nivelles"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "249"
       ], 
@@ -677,8 +680,8 @@
         "267"
       ], 
       "housenumber": "267", 
-      "lat": 50.483346905326, 
-      "lon": 4.763391759141, 
+      "lat": 50.483331790718, 
+      "lon": 4.76349284595, 
       "municipality": "Namur", 
       "pcode": "5020", 
       "source": "7753172", 
@@ -1081,6 +1084,10 @@
       "street": "Chauss\u00e9e de Nivelles"
     }, 
     {
+      "busnrs": [
+        "0003", 
+        "0004"
+      ], 
       "hnrlbls": [
         "310"
       ], 
@@ -1333,6 +1340,16 @@
       "street": "Chauss\u00e9e de Nivelles"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "B001", 
+        "B002", 
+        "B021", 
+        "B022"
+      ], 
       "hnrlbls": [
         "346"
       ], 

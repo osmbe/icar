@@ -1,6 +1,38 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0032", 
+        "0033", 
+        "0041", 
+        "0042", 
+        "0043", 
+        "0051"
+      ], 
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.644203717333, 
+      "lon": 5.578178372284, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730113", 
+      "street": "Quai de la Ribu\u00e9e"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -13,12 +45,31 @@
       "street": "Quai de la Ribu\u00e9e"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041", 
+        "0051"
+      ], 
       "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
       "lat": 50.644365621914, 
       "lon": 5.578345716288, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730113", 
+      "street": "Quai de la Ribu\u00e9e"
+    }, 
+    {
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.644372862386, 
+      "lon": 5.578332454428, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730113", 

@@ -241,6 +241,9 @@
       "street": "Rue Grande"
     }, 
     {
+      "busnrs": [
+        "0011"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -289,6 +292,9 @@
       "street": "Rue Grande"
     }, 
     {
+      "busnrs": [
+        "0011"
+      ], 
       "hnrlbls": [
         "36"
       ], 
@@ -595,6 +601,18 @@
       "housenumber": "7", 
       "lat": 50.251865654738, 
       "lon": 4.674341809912, 
+      "municipality": "Florennes", 
+      "pcode": "5620", 
+      "source": "7757304", 
+      "street": "Rue Grande"
+    }, 
+    {
+      "hnrlbls": [
+        "71"
+      ], 
+      "housenumber": "71", 
+      "lat": 50.25224298682, 
+      "lon": 4.683802033947, 
       "municipality": "Florennes", 
       "pcode": "5620", 
       "source": "7757304", 

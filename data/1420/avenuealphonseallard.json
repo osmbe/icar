@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -302,6 +306,18 @@
     }, 
     {
       "hnrlbls": [
+        "131"
+      ], 
+      "housenumber": "131", 
+      "lat": 50.677104870089, 
+      "lon": 4.381210471208, 
+      "municipality": "Braine-l'Alleud", 
+      "pcode": "1420", 
+      "source": "7700168", 
+      "street": "Avenue Alphonse Allard"
+    }, 
+    {
+      "hnrlbls": [
         "132"
       ], 
       "housenumber": "132", 
@@ -361,6 +377,18 @@
       "street": "Avenue Alphonse Allard"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0041", 
+        "0042"
+      ], 
       "hnrlbls": [
         "140"
       ], 
@@ -373,6 +401,16 @@
       "street": "Avenue Alphonse Allard"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0032", 
+        "0041"
+      ], 
       "hnrlbls": [
         "142"
       ], 
@@ -385,6 +423,15 @@
       "street": "Avenue Alphonse Allard"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "D001"
+      ], 
       "hnrlbls": [
         "144"
       ], 
@@ -481,6 +528,12 @@
       "street": "Avenue Alphonse Allard"
     }, 
     {
+      "busnrs": [
+        "A000", 
+        "B000", 
+        "C000", 
+        "D000"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -613,6 +666,11 @@
       "street": "Avenue Alphonse Allard"
     }, 
     {
+      "busnrs": [
+        "B000", 
+        "C000", 
+        "D000"
+      ], 
       "hnrlbls": [
         "172"
       ], 
@@ -901,6 +959,9 @@
       "street": "Avenue Alphonse Allard"
     }, 
     {
+      "busnrs": [
+        "B000"
+      ], 
       "hnrlbls": [
         "200"
       ], 
@@ -1021,24 +1082,17 @@
       "street": "Avenue Alphonse Allard"
     }, 
     {
+      "busnrs": [
+        "A001", 
+        "A002", 
+        "B003"
+      ], 
       "hnrlbls": [
         "23"
       ], 
       "housenumber": "23", 
       "lat": 50.681633808196, 
       "lon": 4.37694738786, 
-      "municipality": "Braine-l'Alleud", 
-      "pcode": "1420", 
-      "source": "7700168", 
-      "street": "Avenue Alphonse Allard"
-    }, 
-    {
-      "hnrlbls": [
-        "231"
-      ], 
-      "housenumber": "231", 
-      "lat": 50.674220145632, 
-      "lon": 4.383799416376, 
       "municipality": "Braine-l'Alleud", 
       "pcode": "1420", 
       "source": "7700168", 
@@ -1081,6 +1135,10 @@
       "street": "Avenue Alphonse Allard"
     }, 
     {
+      "busnrs": [
+        "A000", 
+        "B000"
+      ], 
       "hnrlbls": [
         "240"
       ], 
@@ -1093,6 +1151,14 @@
       "street": "Avenue Alphonse Allard"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "242"
       ], 
@@ -1165,6 +1231,29 @@
       "street": "Avenue Alphonse Allard"
     }, 
     {
+      "busnrs": [
+        "0004", 
+        "0008", 
+        "0009", 
+        "0010", 
+        "0011", 
+        "0012", 
+        "0014", 
+        "0015", 
+        "0016", 
+        "0017", 
+        "0018", 
+        "0019", 
+        "0021", 
+        "0022", 
+        "0024", 
+        "A005", 
+        "A006", 
+        "B007", 
+        "C013", 
+        "D020", 
+        "D023"
+      ], 
       "hnrlbls": [
         "251"
       ], 
@@ -1178,9 +1267,9 @@
     }, 
     {
       "hnrlbls": [
-        "260"
+        "262"
       ], 
-      "housenumber": "260", 
+      "housenumber": "262", 
       "lat": 50.674346357151, 
       "lon": 4.383099187223, 
       "municipality": "Braine-l'Alleud", 
@@ -1213,6 +1302,11 @@
       "street": "Avenue Alphonse Allard"
     }, 
     {
+      "busnrs": [
+        "A000", 
+        "B000", 
+        "C000"
+      ], 
       "hnrlbls": [
         "271"
       ], 
@@ -1357,6 +1451,11 @@
       "street": "Avenue Alphonse Allard"
     }, 
     {
+      "busnrs": [
+        "B000", 
+        "C000", 
+        "D000"
+      ], 
       "hnrlbls": [
         "291"
       ], 
@@ -1381,6 +1480,11 @@
       "street": "Avenue Alphonse Allard"
     }, 
     {
+      "busnrs": [
+        "B000", 
+        "C000", 
+        "D000"
+      ], 
       "hnrlbls": [
         "293"
       ], 
@@ -1825,6 +1929,12 @@
       "street": "Avenue Alphonse Allard"
     }, 
     {
+      "busnrs": [
+        "A000", 
+        "B000", 
+        "C000", 
+        "D000"
+      ], 
       "hnrlbls": [
         "330"
       ], 
@@ -1933,6 +2043,19 @@
       "street": "Avenue Alphonse Allard"
     }, 
     {
+      "busnrs": [
+        "B001", 
+        "B002", 
+        "B003", 
+        "C004", 
+        "C005", 
+        "C006", 
+        "D007", 
+        "D008", 
+        "D009", 
+        "E010", 
+        "E011"
+      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -2017,6 +2140,9 @@
       "street": "Avenue Alphonse Allard"
     }, 
     {
+      "busnrs": [
+        "CD00"
+      ], 
       "hnrlbls": [
         "354"
       ], 
@@ -2041,6 +2167,9 @@
       "street": "Avenue Alphonse Allard"
     }, 
     {
+      "busnrs": [
+        "SS02"
+      ], 
       "hnrlbls": [
         "358"
       ], 
@@ -2053,6 +2182,11 @@
       "street": "Avenue Alphonse Allard"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "36"
       ], 
@@ -2077,6 +2211,10 @@
       "street": "Avenue Alphonse Allard"
     }, 
     {
+      "busnrs": [
+        "B000", 
+        "C000"
+      ], 
       "hnrlbls": [
         "366"
       ], 
@@ -2293,6 +2431,12 @@
       "street": "Avenue Alphonse Allard"
     }, 
     {
+      "busnrs": [
+        "A001", 
+        "A002", 
+        "B003", 
+        "B004"
+      ], 
       "hnrlbls": [
         "399"
       ], 
@@ -2329,6 +2473,12 @@
       "street": "Avenue Alphonse Allard"
     }, 
     {
+      "busnrs": [
+        "A001", 
+        "A002", 
+        "C003", 
+        "C004"
+      ], 
       "hnrlbls": [
         "401"
       ], 
@@ -2341,6 +2491,13 @@
       "street": "Avenue Alphonse Allard"
     }, 
     {
+      "busnrs": [
+        "A001", 
+        "A002", 
+        "B004", 
+        "B005", 
+        "C003"
+      ], 
       "hnrlbls": [
         "403"
       ], 
@@ -2353,6 +2510,13 @@
       "street": "Avenue Alphonse Allard"
     }, 
     {
+      "busnrs": [
+        "A001", 
+        "A002", 
+        "B  6", 
+        "B004", 
+        "B005"
+      ], 
       "hnrlbls": [
         "405"
       ], 
@@ -2365,6 +2529,13 @@
       "street": "Avenue Alphonse Allard"
     }, 
     {
+      "busnrs": [
+        "A001", 
+        "A002", 
+        "B003", 
+        "B005", 
+        "C004"
+      ], 
       "hnrlbls": [
         "407"
       ], 
@@ -2425,6 +2596,9 @@
       "street": "Avenue Alphonse Allard"
     }, 
     {
+      "busnrs": [
+        "C002"
+      ], 
       "hnrlbls": [
         "47"
       ], 
@@ -2449,6 +2623,11 @@
       "street": "Avenue Alphonse Allard"
     }, 
     {
+      "busnrs": [
+        "A000", 
+        "B000", 
+        "D000"
+      ], 
       "hnrlbls": [
         "49"
       ], 
@@ -2617,6 +2796,12 @@
       "street": "Avenue Alphonse Allard"
     }, 
     {
+      "busnrs": [
+        "A000", 
+        "B000", 
+        "C000", 
+        "D000"
+      ], 
       "hnrlbls": [
         "63"
       ], 
@@ -2773,6 +2958,9 @@
       "street": "Avenue Alphonse Allard"
     }, 
     {
+      "busnrs": [
+        "BC00"
+      ], 
       "hnrlbls": [
         "8"
       ], 
@@ -2845,6 +3033,16 @@
       "street": "Avenue Alphonse Allard"
     }, 
     {
+      "busnrs": [
+        "A001", 
+        "A002", 
+        "B003", 
+        "B004", 
+        "C005", 
+        "C006", 
+        "D007", 
+        "D008"
+      ], 
       "hnrlbls": [
         "88"
       ], 
@@ -2882,23 +3080,27 @@
     }, 
     {
       "hnrlbls": [
-        "91"
+        "90"
       ], 
-      "housenumber": "91", 
-      "lat": 50.679215085956, 
-      "lon": 4.379173251725, 
+      "housenumber": "90", 
+      "lat": 50.679488964996, 
+      "lon": 4.378467705212, 
       "municipality": "Braine-l'Alleud", 
       "pcode": "1420", 
       "source": "7700168", 
       "street": "Avenue Alphonse Allard"
     }, 
     {
-      "hnrlbls": [
-        "92"
+      "busnrs": [
+        "A000", 
+        "B000"
       ], 
-      "housenumber": "92", 
-      "lat": 50.679488964996, 
-      "lon": 4.378467705212, 
+      "hnrlbls": [
+        "91"
+      ], 
+      "housenumber": "91", 
+      "lat": 50.679215085956, 
+      "lon": 4.379173251725, 
       "municipality": "Braine-l'Alleud", 
       "pcode": "1420", 
       "source": "7700168", 

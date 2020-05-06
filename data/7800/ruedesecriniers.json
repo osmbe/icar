@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "bte1", 
+        "bte2", 
+        "bte3", 
+        "bte4"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -109,6 +115,13 @@
       "street": "Rue des Ecriniers"
     }, 
     {
+      "busnrs": [
+        "bte2", 
+        "bte3", 
+        "bte4", 
+        "bte5", 
+        "bte6"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -145,6 +158,10 @@
       "street": "Rue des Ecriniers"
     }, 
     {
+      "busnrs": [
+        "bte1", 
+        "bte2"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -169,6 +186,15 @@
       "street": "Rue des Ecriniers"
     }, 
     {
+      "busnrs": [
+        "Bte5", 
+        "Bte6", 
+        "bte1", 
+        "bte2", 
+        "bte3", 
+        "bte4", 
+        "bte7"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -289,6 +315,12 @@
       "street": "Rue des Ecriniers"
     }, 
     {
+      "busnrs": [
+        "1Etg", 
+        "bte2", 
+        "bte3", 
+        "bte4"
+      ], 
       "hnrlbls": [
         "33"
       ], 
@@ -341,8 +373,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.629144264719, 
-      "lon": 3.778934993055, 
+      "lat": 50.629358075667, 
+      "lon": 3.778903774328, 
       "municipality": "Ath", 
       "pcode": "7800", 
       "source": "7707657", 

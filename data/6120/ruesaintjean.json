@@ -73,6 +73,10 @@
       "street": "Rue Saint-Jean"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "000B"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -235,6 +239,18 @@
       "housenumber": "48", 
       "lat": 50.29837087088, 
       "lon": 4.388088584256, 
+      "municipality": "Ham-sur-Heure-Nalinnes", 
+      "pcode": "6120", 
+      "source": "7721579", 
+      "street": "Rue Saint-Jean"
+    }, 
+    {
+      "hnrlbls": [
+        "49"
+      ], 
+      "housenumber": "49", 
+      "lat": 50.298150759013, 
+      "lon": 4.388367696825, 
       "municipality": "Ham-sur-Heure-Nalinnes", 
       "pcode": "6120", 
       "source": "7721579", 
@@ -433,6 +449,10 @@
       "street": "Rue Saint-Jean"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "000B"
+      ], 
       "hnrlbls": [
         "71"
       ], 

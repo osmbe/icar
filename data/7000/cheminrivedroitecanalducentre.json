@@ -109,6 +109,13 @@
       "street": "Chemin Rive droite Canal du Centre"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "1-2", 
+        "2-1", 
+        "2-2"
+      ], 
       "hnrlbls": [
         "45"
       ], 
@@ -355,6 +362,18 @@
       "housenumber": "68", 
       "lat": 50.461833362497, 
       "lon": 3.947165627345, 
+      "municipality": "Mons", 
+      "pcode": "7000", 
+      "source": "7713226", 
+      "street": "Chemin Rive droite Canal du Centre"
+    }, 
+    {
+      "hnrlbls": [
+        "72"
+      ], 
+      "housenumber": "72", 
+      "lat": 50.461802546894, 
+      "lon": 3.946339056971, 
       "municipality": "Mons", 
       "pcode": "7000", 
       "source": "7713226", 

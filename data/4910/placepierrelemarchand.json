@@ -1,6 +1,14 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "/B/2", 
+        "A/1", 
+        "A/2", 
+        "A/RC", 
+        "B/1", 
+        "B/RC"
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -13,6 +21,11 @@
       "street": "Place Pierre Lemarchand"
     }, 
     {
+      "busnrs": [
+        "/1", 
+        "/2", 
+        "/RC"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -25,10 +38,14 @@
       "street": "Place Pierre Lemarchand"
     }, 
     {
-      "hnrlbls": [
-        "30/A"
+      "busnrs": [
+        "/2A", 
+        "/R.C."
       ], 
-      "housenumber": "30/A", 
+      "hnrlbls": [
+        "30A"
+      ], 
+      "housenumber": "30A", 
       "lat": 50.5560633802, 
       "lon": 5.899954708659, 
       "municipality": "Theux", 
@@ -73,6 +90,9 @@
       "street": "Place Pierre Lemarchand"
     }, 
     {
+      "busnrs": [
+        "/1"
+      ], 
       "hnrlbls": [
         "46"
       ], 

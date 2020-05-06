@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "BP01", 
+        "Bte2", 
+        "Bte3"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -61,6 +66,9 @@
       "street": "Rue Gabriel Marcelier"
     }, 
     {
+      "busnrs": [
+        "Bte1"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -79,6 +87,24 @@
       "housenumber": "19", 
       "lat": 50.777940845945, 
       "lon": 4.720231278861, 
+      "municipality": "Beauvechain", 
+      "pcode": "1320", 
+      "source": "7700129", 
+      "street": "Rue Gabriel Marcelier"
+    }, 
+    {
+      "busnrs": [
+        "Bte1", 
+        "Bte2", 
+        "Bte4", 
+        "bte3"
+      ], 
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.778751702985, 
+      "lon": 4.7199573874, 
       "municipality": "Beauvechain", 
       "pcode": "1320", 
       "source": "7700129", 

@@ -49,6 +49,9 @@
       "street": "Rue Saint-Vincent"
     }, 
     {
+      "busnrs": [
+        "Bte1"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -74,11 +77,23 @@
     }, 
     {
       "hnrlbls": [
+        "19"
+      ], 
+      "housenumber": "19", 
+      "lat": 50.733709416673, 
+      "lon": 4.93554150423, 
+      "municipality": "Jodoigne", 
+      "pcode": "1370", 
+      "source": "7702497", 
+      "street": "Rue Saint-Vincent"
+    }, 
+    {
+      "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.7333896268, 
-      "lon": 4.932444399874, 
+      "lat": 50.733820001537, 
+      "lon": 4.934387238017, 
       "municipality": "Jodoigne", 
       "pcode": "1370", 
       "source": "7702497", 

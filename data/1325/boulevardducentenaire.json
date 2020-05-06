@@ -181,6 +181,10 @@
       "street": "Boulevard du Centenaire"
     }, 
     {
+      "busnrs": [
+        "1-1", 
+        "1-2"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -434,6 +438,18 @@
     }, 
     {
       "hnrlbls": [
+        "54"
+      ], 
+      "housenumber": "54", 
+      "lat": 50.710259670349, 
+      "lon": 4.657573086372, 
+      "municipality": "Chaumont-Gistoux", 
+      "pcode": "1325", 
+      "source": "7701021", 
+      "street": "Boulevard du Centenaire"
+    }, 
+    {
+      "hnrlbls": [
         "57"
       ], 
       "housenumber": "57", 
@@ -497,8 +513,8 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 50.712156568357, 
-      "lon": 4.658401299726, 
+      "lat": 50.712083516975, 
+      "lon": 4.65841414363, 
       "municipality": "Chaumont-Gistoux", 
       "pcode": "1325", 
       "source": "7701021", 
@@ -593,8 +609,8 @@
         "76"
       ], 
       "housenumber": "76", 
-      "lat": 50.713232678489, 
-      "lon": 4.658789023092, 
+      "lat": 50.713295513734, 
+      "lon": 4.658845988165, 
       "municipality": "Chaumont-Gistoux", 
       "pcode": "1325", 
       "source": "7701021", 
@@ -805,6 +821,9 @@
       "street": "Boulevard du Centenaire"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "95"
       ], 

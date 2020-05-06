@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "101", 
+        "201", 
+        "R01"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -253,6 +258,12 @@
       "street": "Rue Reine Elisabeth"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "125"
       ], 
@@ -277,6 +288,10 @@
       "street": "Rue Reine Elisabeth"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "127"
       ], 
@@ -301,12 +316,18 @@
       "street": "Rue Reine Elisabeth"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "131"
       ], 
       "housenumber": "131", 
-      "lat": 50.686941869313, 
-      "lon": 4.212525024928, 
+      "lat": 50.686948358495, 
+      "lon": 4.212521178441, 
       "municipality": "Tubize", 
       "pcode": "1480", 
       "source": "7703936", 
@@ -325,12 +346,78 @@
       "street": "Rue Reine Elisabeth"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "R01", 
+        "R02", 
+        "S01"
+      ], 
+      "hnrlbls": [
+        "133"
+      ], 
+      "housenumber": "133", 
+      "lat": 50.686865115508, 
+      "lon": 4.212704919661, 
+      "municipality": "Tubize", 
+      "pcode": "1480", 
+      "source": "7703936", 
+      "street": "Rue Reine Elisabeth"
+    }, 
+    {
+      "busnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "R01"
+      ], 
+      "hnrlbls": [
+        "135"
+      ], 
+      "housenumber": "135", 
+      "lat": 50.686811119121, 
+      "lon": 4.212822361711, 
+      "municipality": "Tubize", 
+      "pcode": "1480", 
+      "source": "7703936", 
+      "street": "Rue Reine Elisabeth"
+    }, 
+    {
       "hnrlbls": [
         "136"
       ], 
       "housenumber": "136", 
       "lat": 50.687099394478, 
       "lon": 4.212764823233, 
+      "municipality": "Tubize", 
+      "pcode": "1480", 
+      "source": "7703936", 
+      "street": "Rue Reine Elisabeth"
+    }, 
+    {
+      "busnrs": [
+        "101", 
+        "102", 
+        "103", 
+        "104", 
+        "201", 
+        "202", 
+        "203", 
+        "301", 
+        "302", 
+        "R01", 
+        "R02"
+      ], 
+      "hnrlbls": [
+        "137"
+      ], 
+      "housenumber": "137", 
+      "lat": 50.686741360325, 
+      "lon": 4.213012067558, 
       "municipality": "Tubize", 
       "pcode": "1480", 
       "source": "7703936", 
@@ -373,6 +460,10 @@
       "street": "Rue Reine Elisabeth"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -445,6 +536,24 @@
       "street": "Rue Reine Elisabeth"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "102", 
+        "103", 
+        "104", 
+        "201", 
+        "202", 
+        "203", 
+        "204", 
+        "301", 
+        "302", 
+        "303", 
+        "304", 
+        "R01", 
+        "R02", 
+        "R03", 
+        "R04"
+      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -523,6 +632,40 @@
       "housenumber": "48", 
       "lat": 50.688797172137, 
       "lon": 4.209305478876, 
+      "municipality": "Tubize", 
+      "pcode": "1480", 
+      "source": "7703936", 
+      "street": "Rue Reine Elisabeth"
+    }, 
+    {
+      "hnrlbls": [
+        "4A"
+      ], 
+      "housenumber": "4A", 
+      "lat": 50.688769798333, 
+      "lon": 4.207090059058, 
+      "municipality": "Tubize", 
+      "pcode": "1480", 
+      "source": "7703936", 
+      "street": "Rue Reine Elisabeth"
+    }, 
+    {
+      "busnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "R01", 
+        "R02"
+      ], 
+      "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 50.688228048171, 
+      "lon": 4.207098335611, 
       "municipality": "Tubize", 
       "pcode": "1480", 
       "source": "7703936", 
@@ -769,6 +912,14 @@
       "street": "Rue Reine Elisabeth"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
       "hnrlbls": [
         "81"
       ], 
@@ -811,6 +962,18 @@
       "housenumber": "88", 
       "lat": 50.687921067001, 
       "lon": 4.211119743543, 
+      "municipality": "Tubize", 
+      "pcode": "1480", 
+      "source": "7703936", 
+      "street": "Rue Reine Elisabeth"
+    }, 
+    {
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.688282204222, 
+      "lon": 4.207400231108, 
       "municipality": "Tubize", 
       "pcode": "1480", 
       "source": "7703936", 

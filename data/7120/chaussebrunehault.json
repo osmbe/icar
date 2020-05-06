@@ -181,6 +181,16 @@
       "street": "Chauss\u00e9e Brunehault"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8"
+      ], 
       "hnrlbls": [
         "117"
       ], 
@@ -223,6 +233,18 @@
       "housenumber": "120", 
       "lat": 50.400468403084, 
       "lon": 4.107670260548, 
+      "municipality": "Estinnes", 
+      "pcode": "7120", 
+      "source": "7721221", 
+      "street": "Chauss\u00e9e Brunehault"
+    }, 
+    {
+      "hnrlbls": [
+        "121"
+      ], 
+      "housenumber": "121", 
+      "lat": 50.399309988448, 
+      "lon": 4.102922963079, 
       "municipality": "Estinnes", 
       "pcode": "7120", 
       "source": "7721221", 
@@ -283,6 +305,18 @@
       "housenumber": "128", 
       "lat": 50.400128616339, 
       "lon": 4.106851905503, 
+      "municipality": "Estinnes", 
+      "pcode": "7120", 
+      "source": "7721221", 
+      "street": "Chauss\u00e9e Brunehault"
+    }, 
+    {
+      "hnrlbls": [
+        "129C"
+      ], 
+      "housenumber": "129C", 
+      "lat": 50.398782204863, 
+      "lon": 4.10149128049, 
       "municipality": "Estinnes", 
       "pcode": "7120", 
       "source": "7721221", 
@@ -541,6 +575,12 @@
       "street": "Chauss\u00e9e Brunehault"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "02", 
+        "11", 
+        "12"
+      ], 
       "hnrlbls": [
         "159"
       ], 
@@ -1213,6 +1253,11 @@
       "street": "Chauss\u00e9e Brunehault"
     }, 
     {
+      "busnrs": [
+        "2", 
+        "App1", 
+        "App4"
+      ], 
       "hnrlbls": [
         "220"
       ], 
@@ -1261,6 +1306,9 @@
       "street": "Chauss\u00e9e Brunehault"
     }, 
     {
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "224"
       ], 
@@ -1445,8 +1493,8 @@
         "246"
       ], 
       "housenumber": "246", 
-      "lat": 50.396686134461, 
-      "lon": 4.09696070211, 
+      "lat": 50.396633834098, 
+      "lon": 4.096940114657, 
       "municipality": "Estinnes", 
       "pcode": "7120", 
       "source": "7721221", 
@@ -3170,6 +3218,18 @@
     }, 
     {
       "hnrlbls": [
+        "88"
+      ], 
+      "housenumber": "88", 
+      "lat": 50.401331833437, 
+      "lon": 4.110367759308, 
+      "municipality": "Estinnes", 
+      "pcode": "7120", 
+      "source": "7721221", 
+      "street": "Chauss\u00e9e Brunehault"
+    }, 
+    {
+      "hnrlbls": [
         "89"
       ], 
       "housenumber": "89", 
@@ -3185,8 +3245,8 @@
         "90"
       ], 
       "housenumber": "90", 
-      "lat": 50.401331833437, 
-      "lon": 4.110367759308, 
+      "lat": 50.401231595972, 
+      "lon": 4.110058384527, 
       "municipality": "Estinnes", 
       "pcode": "7120", 
       "source": "7721221", 
@@ -3197,8 +3257,8 @@
         "92"
       ], 
       "housenumber": "92", 
-      "lat": 50.401231595972, 
-      "lon": 4.110058384527, 
+      "lat": 50.401238256451, 
+      "lon": 4.109681558787, 
       "municipality": "Estinnes", 
       "pcode": "7120", 
       "source": "7721221", 
@@ -3221,8 +3281,8 @@
         "94"
       ], 
       "housenumber": "94", 
-      "lat": 50.401238256451, 
-      "lon": 4.109681558787, 
+      "lat": 50.401189396741, 
+      "lon": 4.109525381424, 
       "municipality": "Estinnes", 
       "pcode": "7120", 
       "source": "7721221", 
@@ -3245,18 +3305,6 @@
         "96"
       ], 
       "housenumber": "96", 
-      "lat": 50.401189396741, 
-      "lon": 4.109525381424, 
-      "municipality": "Estinnes", 
-      "pcode": "7120", 
-      "source": "7721221", 
-      "street": "Chauss\u00e9e Brunehault"
-    }, 
-    {
-      "hnrlbls": [
-        "98"
-      ], 
-      "housenumber": "98", 
       "lat": 50.40116311346, 
       "lon": 4.10944669812, 
       "municipality": "Estinnes", 

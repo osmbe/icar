@@ -2,18 +2,6 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1"
-      ], 
-      "housenumber": "1", 
-      "lat": 50.345642495959, 
-      "lon": 4.695238603982, 
-      "municipality": "Mettet", 
-      "pcode": "5640", 
-      "source": "7752970", 
-      "street": "Rue Favauge"
-    }, 
-    {
-      "hnrlbls": [
         "100"
       ], 
       "housenumber": "100", 
@@ -55,6 +43,18 @@
       "housenumber": "103", 
       "lat": 50.350950007591, 
       "lon": 4.687348244435, 
+      "municipality": "Mettet", 
+      "pcode": "5640", 
+      "source": "7752970", 
+      "street": "Rue Favauge"
+    }, 
+    {
+      "hnrlbls": [
+        "105"
+      ], 
+      "housenumber": "105", 
+      "lat": 50.351152116279, 
+      "lon": 4.686801208084, 
       "municipality": "Mettet", 
       "pcode": "5640", 
       "source": "7752970", 
@@ -149,8 +149,8 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 50.347316369749, 
-      "lon": 4.693695799421, 
+      "lat": 50.347338237322, 
+      "lon": 4.693701896752, 
       "municipality": "Mettet", 
       "pcode": "5640", 
       "source": "7752970", 
@@ -193,6 +193,9 @@
       "street": "Rue Favauge"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -221,8 +224,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 50.347436795377, 
-      "lon": 4.692825250448, 
+      "lat": 50.347437049193, 
+      "lon": 4.692734546551, 
       "municipality": "Mettet", 
       "pcode": "5640", 
       "source": "7752970", 
@@ -245,8 +248,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.347590782089, 
-      "lon": 4.692540799492, 
+      "lat": 50.347610779729, 
+      "lon": 4.692534988567, 
       "municipality": "Mettet", 
       "pcode": "5640", 
       "source": "7752970", 
@@ -305,8 +308,8 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 50.348667113397, 
-      "lon": 4.692151477399, 
+      "lat": 50.34864162128, 
+      "lon": 4.692165802336, 
       "municipality": "Mettet", 
       "pcode": "5640", 
       "source": "7752970", 
@@ -329,8 +332,8 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 50.34904804343, 
-      "lon": 4.69187360921, 
+      "lat": 50.349031036508, 
+      "lon": 4.691894404995, 
       "municipality": "Mettet", 
       "pcode": "5640", 
       "source": "7752970", 
@@ -710,18 +713,6 @@
     }, 
     {
       "hnrlbls": [
-        "89"
-      ], 
-      "housenumber": "89", 
-      "lat": 50.349936230565, 
-      "lon": 4.686712569688, 
-      "municipality": "Mettet", 
-      "pcode": "5640", 
-      "source": "7752970", 
-      "street": "Rue Favauge"
-    }, 
-    {
-      "hnrlbls": [
         "9"
       ], 
       "housenumber": "9", 
@@ -749,8 +740,8 @@
         "93"
       ], 
       "housenumber": "93", 
-      "lat": 50.350125772106, 
-      "lon": 4.685947998604, 
+      "lat": 50.349936180266, 
+      "lon": 4.686713534653, 
       "municipality": "Mettet", 
       "pcode": "5640", 
       "source": "7752970", 
@@ -761,8 +752,8 @@
         "95"
       ], 
       "housenumber": "95", 
-      "lat": 50.350445769353, 
-      "lon": 4.685952148994, 
+      "lat": 50.350447200073, 
+      "lon": 4.685951042906, 
       "municipality": "Mettet", 
       "pcode": "5640", 
       "source": "7752970", 

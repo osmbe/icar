@@ -397,6 +397,9 @@
       "street": "Rue du Berceau"
     }, 
     {
+      "busnrs": [
+        "1Etg"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -577,6 +580,10 @@
       "street": "Rue du Berceau"
     }, 
     {
+      "busnrs": [
+        "1Etg", 
+        "Rez."
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -751,6 +758,18 @@
       "housenumber": "93", 
       "lat": 50.546104615723, 
       "lon": 4.525999978754, 
+      "municipality": "Villers-la-Ville", 
+      "pcode": "1495", 
+      "source": "7704059", 
+      "street": "Rue du Berceau"
+    }, 
+    {
+      "hnrlbls": [
+        "95"
+      ], 
+      "housenumber": "95", 
+      "lat": 50.546125796497, 
+      "lon": 4.525719167219, 
       "municipality": "Villers-la-Ville", 
       "pcode": "1495", 
       "source": "7704059", 

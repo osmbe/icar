@@ -601,12 +601,20 @@
       "street": "Rue des Chaufours"
     }, 
     {
+      "busnrs": [
+        "10", 
+        "3", 
+        "5", 
+        "6", 
+        "7", 
+        "8"
+      ], 
       "hnrlbls": [
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.417102245411, 
-      "lon": 3.805892475623, 
+      "lat": 50.417260296047, 
+      "lon": 3.806827252306, 
       "municipality": "Boussu", 
       "pcode": "7300", 
       "source": "7711996", 
@@ -1405,6 +1413,9 @@
       "street": "Rue des Chaufours"
     }, 
     {
+      "busnrs": [
+        "83"
+      ], 
       "hnrlbls": [
         "81-83"
       ], 

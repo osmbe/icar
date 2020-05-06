@@ -37,6 +37,9 @@
       "street": "Rue Bois de Graux"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -137,8 +140,8 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 50.377920539116, 
-      "lon": 4.771809303463, 
+      "lat": 50.377981834937, 
+      "lon": 4.772556805847, 
       "municipality": "Profondeville", 
       "pcode": "5170", 
       "source": "7754932", 
@@ -625,12 +628,16 @@
       "street": "Rue Bois de Graux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "80"
       ], 
       "housenumber": "80", 
-      "lat": 50.375301750589, 
-      "lon": 4.762658147751, 
+      "lat": 50.375260047727, 
+      "lon": 4.762500823422, 
       "municipality": "Profondeville", 
       "pcode": "5170", 
       "source": "7754932", 

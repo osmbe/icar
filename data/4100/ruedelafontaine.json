@@ -805,6 +805,10 @@
       "street": "Rue de la Fontaine"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "21"
+      ], 
       "hnrlbls": [
         "196"
       ], 
@@ -853,6 +857,11 @@
       "street": "Rue de la Fontaine"
     }, 
     {
+      "busnrs": [
+        "0007", 
+        "21", 
+        "5"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -1057,6 +1066,10 @@
       "street": "Rue de la Fontaine"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "21"
+      ], 
       "hnrlbls": [
         "215"
       ], 
@@ -1069,6 +1082,10 @@
       "street": "Rue de la Fontaine"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "11"
+      ], 
       "hnrlbls": [
         "216"
       ], 
@@ -1195,6 +1212,18 @@
       "housenumber": "235", 
       "lat": 50.597881138313, 
       "lon": 5.522268361318, 
+      "municipality": "Seraing", 
+      "pcode": "4100", 
+      "source": "7732232", 
+      "street": "Rue de la Fontaine"
+    }, 
+    {
+      "hnrlbls": [
+        "239"
+      ], 
+      "housenumber": "239", 
+      "lat": 50.597779143216, 
+      "lon": 5.522272599897, 
       "municipality": "Seraing", 
       "pcode": "4100", 
       "source": "7732232", 
@@ -1573,6 +1602,9 @@
       "street": "Rue de la Fontaine"
     }, 
     {
+      "busnrs": [
+        "0048"
+      ], 
       "hnrlbls": [
         "46"
       ], 
@@ -1705,6 +1737,9 @@
       "street": "Rue de la Fontaine"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "64"
       ], 

@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1\u00e9t.", 
+        "2\u00e9t."
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -254,6 +258,18 @@
     }, 
     {
       "hnrlbls": [
+        "32B"
+      ], 
+      "housenumber": "32B", 
+      "lat": 50.491558659898, 
+      "lon": 5.666618328632, 
+      "municipality": "Sprimont", 
+      "pcode": "4140", 
+      "source": "7732960", 
+      "street": "Rue Armand Binet"
+    }, 
+    {
+      "hnrlbls": [
         "33"
       ], 
       "housenumber": "33", 
@@ -325,6 +341,9 @@
       "street": "Rue Armand Binet"
     }, 
     {
+      "busnrs": [
+        "000C"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -337,6 +356,12 @@
       "street": "Rue Armand Binet"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0003", 
+        "00A3", 
+        "A  2"
+      ], 
       "hnrlbls": [
         "40"
       ], 
@@ -553,6 +578,9 @@
       "street": "Rue Armand Binet"
     }, 
     {
+      "busnrs": [
+        "Rez0"
+      ], 
       "hnrlbls": [
         "55"
       ], 
@@ -637,10 +665,17 @@
       "street": "Rue Armand Binet"
     }, 
     {
-      "hnrlbls": [
-        "66"
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021"
       ], 
-      "housenumber": "66", 
+      "hnrlbls": [
+        "63"
+      ], 
+      "housenumber": "63", 
       "lat": 50.495302318983, 
       "lon": 5.668930224084, 
       "municipality": "Sprimont", 

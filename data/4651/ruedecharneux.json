@@ -37,6 +37,11 @@
       "street": "Rue de Charneux"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "rez1", 
+        "rez2"
+      ], 
       "hnrlbls": [
         "46"
       ], 
@@ -55,6 +60,18 @@
       "housenumber": "47", 
       "lat": 50.648146287927, 
       "lon": 5.797678874684, 
+      "municipality": "Herve", 
+      "pcode": "4651", 
+      "source": "7736065", 
+      "street": "Rue de Charneux"
+    }, 
+    {
+      "hnrlbls": [
+        "47B"
+      ], 
+      "housenumber": "47B", 
+      "lat": 50.648380879127, 
+      "lon": 5.797703708414, 
       "municipality": "Herve", 
       "pcode": "4651", 
       "source": "7736065", 
@@ -241,6 +258,45 @@
       "street": "Rue de Charneux"
     }, 
     {
+      "busnrs": [
+        "67"
+      ], 
+      "hnrlbls": [
+        "65"
+      ], 
+      "housenumber": "65", 
+      "lat": 50.651752997553, 
+      "lon": 5.796779416047, 
+      "municipality": "Herve", 
+      "pcode": "4651", 
+      "source": "7736065", 
+      "street": "Rue de Charneux"
+    }, 
+    {
+      "hnrlbls": [
+        "66"
+      ], 
+      "housenumber": "66", 
+      "lat": 50.649052500205, 
+      "lon": 5.798879542353, 
+      "municipality": "Herve", 
+      "pcode": "4651", 
+      "source": "7736065", 
+      "street": "Rue de Charneux"
+    }, 
+    {
+      "hnrlbls": [
+        "66A"
+      ], 
+      "housenumber": "66A", 
+      "lat": 50.649004138997, 
+      "lon": 5.798797626837, 
+      "municipality": "Herve", 
+      "pcode": "4651", 
+      "source": "7736065", 
+      "street": "Rue de Charneux"
+    }, 
+    {
       "hnrlbls": [
         "68"
       ], 
@@ -269,8 +325,8 @@
         "71"
       ], 
       "housenumber": "71", 
-      "lat": 50.652872399277, 
-      "lon": 5.796536085255, 
+      "lat": 50.652873920059, 
+      "lon": 5.796484676703, 
       "municipality": "Herve", 
       "pcode": "4651", 
       "source": "7736065", 
@@ -325,6 +381,10 @@
       "street": "Rue de Charneux"
     }, 
     {
+      "busnrs": [
+        "rez1", 
+        "rez2"
+      ], 
       "hnrlbls": [
         "82"
       ], 

@@ -25,6 +25,17 @@
       "street": "Rue de Bruxelles"
     }, 
     {
+      "busnrs": [
+        "/1", 
+        "/2", 
+        "/3", 
+        "/4", 
+        "/5", 
+        "/6", 
+        "/7", 
+        "/8", 
+        "/9"
+      ], 
       "hnrlbls": [
         "104"
       ], 
@@ -313,12 +324,27 @@
       "street": "Rue de Bruxelles"
     }, 
     {
+      "busnrs": [
+        "BIS0"
+      ], 
       "hnrlbls": [
         "165"
       ], 
       "housenumber": "165", 
       "lat": 50.674430007609, 
       "lon": 5.485295978039, 
+      "municipality": "Awans", 
+      "pcode": "4340", 
+      "source": "7727182", 
+      "street": "Rue de Bruxelles"
+    }, 
+    {
+      "hnrlbls": [
+        "165B"
+      ], 
+      "housenumber": "165B", 
+      "lat": 50.674392697816, 
+      "lon": 5.485391619535, 
       "municipality": "Awans", 
       "pcode": "4340", 
       "source": "7727182", 
@@ -353,8 +379,8 @@
         "170"
       ], 
       "housenumber": "170", 
-      "lat": 50.674611629425, 
-      "lon": 5.483010070675, 
+      "lat": 50.674386644838, 
+      "lon": 5.48574153852, 
       "municipality": "Awans", 
       "pcode": "4340", 
       "source": "7727182", 
@@ -734,6 +760,18 @@
     }, 
     {
       "hnrlbls": [
+        "25"
+      ], 
+      "housenumber": "25", 
+      "lat": 50.679637448808, 
+      "lon": 5.472180634368, 
+      "municipality": "Awans", 
+      "pcode": "4340", 
+      "source": "7727182", 
+      "street": "Rue de Bruxelles"
+    }, 
+    {
+      "hnrlbls": [
         "26"
       ], 
       "housenumber": "26", 
@@ -973,6 +1011,9 @@
       "street": "Rue de Bruxelles"
     }, 
     {
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -985,6 +1026,14 @@
       "street": "Rue de Bruxelles"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
       "hnrlbls": [
         "71"
       ], 
@@ -1033,6 +1082,10 @@
       "street": "Rue de Bruxelles"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "86"
       ], 

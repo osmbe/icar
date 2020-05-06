@@ -13,6 +13,9 @@
       "street": "Place de la Coll\u00e9giale"
     }, 
     {
+      "busnrs": [
+        "A  2"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -25,6 +28,11 @@
       "street": "Place de la Coll\u00e9giale"
     }, 
     {
+      "busnrs": [
+        "A  2", 
+        "B 1", 
+        "B002"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -61,12 +69,29 @@
       "street": "Place de la Coll\u00e9giale"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
       "lat": 50.733588827885, 
       "lon": 5.695227247662, 
+      "municipality": "Vis\u00e9", 
+      "pcode": "4600", 
+      "source": "7733264", 
+      "street": "Place de la Coll\u00e9giale"
+    }, 
+    {
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 50.733520821129, 
+      "lon": 5.69529959953, 
       "municipality": "Vis\u00e9", 
       "pcode": "4600", 
       "source": "7733264", 

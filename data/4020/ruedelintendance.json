@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -79,6 +83,18 @@
       "housenumber": "15", 
       "lat": 50.64184542965, 
       "lon": 5.597927395579, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730471", 
+      "street": "Rue de l'Intendance"
+    }, 
+    {
+      "hnrlbls": [
+        "16"
+      ], 
+      "housenumber": "16", 
+      "lat": 50.641744520255, 
+      "lon": 5.598108454861, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730471", 
@@ -169,6 +185,13 @@
       "street": "Rue de l'Intendance"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -193,6 +216,18 @@
       "street": "Rue de l'Intendance"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0021"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -211,6 +246,21 @@
       "housenumber": "4", 
       "lat": 50.64159088351, 
       "lon": 5.597977407818, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7730471", 
+      "street": "Rue de l'Intendance"
+    }, 
+    {
+      "busnrs": [
+        "0001"
+      ], 
+      "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 50.641729427736, 
+      "lon": 5.597552374211, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4020", 
       "source": "7730471", 

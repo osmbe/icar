@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "000A", 
+        "000B", 
+        "000C"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -37,6 +42,9 @@
       "street": "Ruelle de Huy"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -49,6 +57,9 @@
       "street": "Ruelle de Huy"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -79,6 +90,18 @@
       "housenumber": "15", 
       "lat": 50.370996154334, 
       "lon": 5.242810554936, 
+      "municipality": "Havelange", 
+      "pcode": "5376", 
+      "source": "7749956", 
+      "street": "Ruelle de Huy"
+    }, 
+    {
+      "hnrlbls": [
+        "16"
+      ], 
+      "housenumber": "16", 
+      "lat": 50.370438460072, 
+      "lon": 5.24335267297, 
       "municipality": "Havelange", 
       "pcode": "5376", 
       "source": "7749956", 
@@ -205,6 +228,9 @@
       "street": "Ruelle de Huy"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "9"
       ], 

@@ -13,6 +13,11 @@
       "street": "Rue de Dinant"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "1-1"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -37,6 +42,23 @@
       "street": "Rue de Dinant"
     }, 
     {
+      "hnrlbls": [
+        "14"
+      ], 
+      "housenumber": "14", 
+      "lat": 50.450405282178, 
+      "lon": 3.948046457894, 
+      "municipality": "Mons", 
+      "pcode": "7000", 
+      "source": "7713530", 
+      "street": "Rue de Dinant"
+    }, 
+    {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "1-2"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -89,14 +111,33 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 50.450308170626, 
-      "lon": 3.948090623875, 
+      "lat": 50.450299335935, 
+      "lon": 3.948120804139, 
       "municipality": "Mons", 
       "pcode": "7000", 
       "source": "7713530", 
       "street": "Rue de Dinant"
     }, 
     {
+      "hnrlbls": [
+        "18B"
+      ], 
+      "housenumber": "18B", 
+      "lat": 50.45031501075, 
+      "lon": 3.948056576368, 
+      "municipality": "Mons", 
+      "pcode": "7000", 
+      "source": "7713530", 
+      "street": "Rue de Dinant"
+    }, 
+    {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "1-2", 
+        "2-1", 
+        "3-1"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -185,8 +226,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.450653962423, 
-      "lon": 3.948522041919, 
+      "lat": 50.450692107753, 
+      "lon": 3.948545920755, 
       "municipality": "Mons", 
       "pcode": "7000", 
       "source": "7713530", 
@@ -197,8 +238,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.450634485143, 
-      "lon": 3.948344034202, 
+      "lat": 50.450615717987, 
+      "lon": 3.948334421154, 
       "municipality": "Mons", 
       "pcode": "7000", 
       "source": "7713530", 
@@ -206,11 +247,41 @@
     }, 
     {
       "hnrlbls": [
+        "4A"
+      ], 
+      "housenumber": "4A", 
+      "lat": 50.450657359265, 
+      "lon": 3.948357173374, 
+      "municipality": "Mons", 
+      "pcode": "7000", 
+      "source": "7713530", 
+      "street": "Rue de Dinant"
+    }, 
+    {
+      "busnrs": [
+        "1-1", 
+        "1-2", 
+        "1-3", 
+        "1-4", 
+        "1-5", 
+        "1-6", 
+        "2-1", 
+        "2-2", 
+        "2-3", 
+        "2-4", 
+        "2-5", 
+        "2-6", 
+        "3-1", 
+        "3-2", 
+        "3-3", 
+        "4-1"
+      ], 
+      "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.450653962423, 
-      "lon": 3.948522041919, 
+      "lat": 50.450663505249, 
+      "lon": 3.948529873771, 
       "municipality": "Mons", 
       "pcode": "7000", 
       "source": "7713530", 
@@ -233,8 +304,8 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.450653962423, 
-      "lon": 3.948522041919, 
+      "lat": 50.45062326358, 
+      "lon": 3.948501823031, 
       "municipality": "Mons", 
       "pcode": "7000", 
       "source": "7713530", 

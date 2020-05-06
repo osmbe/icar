@@ -410,9 +410,9 @@
     }, 
     {
       "hnrlbls": [
-        "340036"
+        "34/36"
       ], 
-      "housenumber": "340036", 
+      "housenumber": "34/36", 
       "lat": 50.570661975356, 
       "lon": 4.171504817675, 
       "municipality": "Ecaussinnes", 
@@ -494,9 +494,9 @@
     }, 
     {
       "hnrlbls": [
-        "40A000"
+        "40A"
       ], 
-      "housenumber": "40A000", 
+      "housenumber": "40A", 
       "lat": 50.570293733642, 
       "lon": 4.170798609311, 
       "municipality": "Ecaussinnes", 
@@ -589,10 +589,14 @@
       "street": "Rue de la Haie"
     }, 
     {
-      "hnrlbls": [
-        "48BTE1"
+      "busnrs": [
+        "BTE1", 
+        "BTE2"
       ], 
-      "housenumber": "48BTE1", 
+      "hnrlbls": [
+        "48"
+      ], 
+      "housenumber": "48", 
       "lat": 50.569576588592, 
       "lon": 4.170197697062, 
       "municipality": "Ecaussinnes", 
@@ -686,6 +690,18 @@
     }, 
     {
       "hnrlbls": [
+        "56A"
+      ], 
+      "housenumber": "56A", 
+      "lat": 50.569280307793, 
+      "lon": 4.169918585742, 
+      "municipality": "Ecaussinnes", 
+      "pcode": "7190", 
+      "source": "7718898", 
+      "street": "Rue de la Haie"
+    }, 
+    {
+      "hnrlbls": [
         "57"
       ], 
       "housenumber": "57", 
@@ -697,6 +713,10 @@
       "street": "Rue de la Haie"
     }, 
     {
+      "busnrs": [
+        "BTE1", 
+        "BTE2"
+      ], 
       "hnrlbls": [
         "58"
       ], 
@@ -709,6 +729,34 @@
       "street": "Rue de la Haie"
     }, 
     {
+      "busnrs": [
+        "BTE1", 
+        "BTE2", 
+        "BTE3", 
+        "BTE4", 
+        "BTE6", 
+        "BTE7"
+      ], 
+      "hnrlbls": [
+        "59"
+      ], 
+      "housenumber": "59", 
+      "lat": 50.567807382839, 
+      "lon": 4.168901055658, 
+      "municipality": "Ecaussinnes", 
+      "pcode": "7190", 
+      "source": "7718898", 
+      "street": "Rue de la Haie"
+    }, 
+    {
+      "busnrs": [
+        "BTE1", 
+        "BTE2", 
+        "BTE3", 
+        "BTE4", 
+        "BTE5", 
+        "BTE6"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -835,6 +883,32 @@
       "housenumber": "75", 
       "lat": 50.567478990597, 
       "lon": 4.168088774895, 
+      "municipality": "Ecaussinnes", 
+      "pcode": "7190", 
+      "source": "7718898", 
+      "street": "Rue de la Haie"
+    }, 
+    {
+      "busnrs": [
+        "01", 
+        "02", 
+        "03", 
+        "04", 
+        "05", 
+        "06", 
+        "07", 
+        "08", 
+        "09", 
+        "10", 
+        "11", 
+        "12"
+      ], 
+      "hnrlbls": [
+        "75B"
+      ], 
+      "housenumber": "75B", 
+      "lat": 50.567172801683, 
+      "lon": 4.167474305557, 
       "municipality": "Ecaussinnes", 
       "pcode": "7190", 
       "source": "7718898", 

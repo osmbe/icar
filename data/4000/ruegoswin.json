@@ -13,6 +13,11 @@
       "street": "Rue Goswin"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -37,6 +42,16 @@
       "street": "Rue Goswin"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -50,6 +65,38 @@
     }, 
     {
       "hnrlbls": [
+        "14"
+      ], 
+      "housenumber": "14", 
+      "lat": 50.649629442799, 
+      "lon": 5.593840811854, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731003", 
+      "street": "Rue Goswin"
+    }, 
+    {
+      "hnrlbls": [
+        "15"
+      ], 
+      "housenumber": "15", 
+      "lat": 50.649588965796, 
+      "lon": 5.594244928229, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731003", 
+      "street": "Rue Goswin"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0013", 
+        "0021"
+      ], 
+      "hnrlbls": [
         "16"
       ], 
       "housenumber": "16", 
@@ -61,6 +108,11 @@
       "street": "Rue Goswin"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -109,6 +161,11 @@
       "street": "Rue Goswin"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -157,6 +214,13 @@
       "street": "Rue Goswin"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "37"
       ], 
@@ -205,6 +269,10 @@
       "street": "Rue Goswin"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -235,6 +303,18 @@
       "housenumber": "8", 
       "lat": 50.649805286059, 
       "lon": 5.593685488316, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731003", 
+      "street": "Rue Goswin"
+    }, 
+    {
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.649899745537, 
+      "lon": 5.594083098494, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731003", 

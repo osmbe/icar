@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "001", 
+        "011", 
+        "021"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -13,6 +18,11 @@
       "street": "Rue Major Servais"
     }, 
     {
+      "busnrs": [
+        "00O1", 
+        "011", 
+        "021"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -25,6 +35,12 @@
       "street": "Rue Major Servais"
     }, 
     {
+      "busnrs": [
+        "0013", 
+        "00O1", 
+        "00O2", 
+        "012"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -49,6 +65,15 @@
       "street": "Rue Major Servais"
     }, 
     {
+      "busnrs": [
+        "0013", 
+        "0014", 
+        "002", 
+        "0024", 
+        "003", 
+        "00O1", 
+        "023"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -277,6 +302,11 @@
       "street": "Rue Major Servais"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "0011", 
+        "021"
+      ], 
       "hnrlbls": [
         "7"
       ], 

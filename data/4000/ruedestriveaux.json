@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -25,6 +31,11 @@
       "street": "Rue Destriveaux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -61,6 +72,10 @@
       "street": "Rue Destriveaux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -97,6 +112,12 @@
       "street": "Rue Destriveaux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -109,6 +130,13 @@
       "street": "Rue Destriveaux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -121,6 +149,11 @@
       "street": "Rue Destriveaux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -205,6 +238,11 @@
       "street": "Rue Destriveaux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -265,6 +303,11 @@
       "street": "Rue Destriveaux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -289,6 +332,12 @@
       "street": "Rue Destriveaux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "32"
       ], 
@@ -301,6 +350,10 @@
       "street": "Rue Destriveaux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "33"
       ], 
@@ -349,12 +402,34 @@
       "street": "Rue Destriveaux"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "37"
       ], 
       "housenumber": "37", 
       "lat": 50.634338868245, 
       "lon": 5.556467013547, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730742", 
+      "street": "Rue Destriveaux"
+    }, 
+    {
+      "hnrlbls": [
+        "38"
+      ], 
+      "housenumber": "38", 
+      "lat": 50.634518941254, 
+      "lon": 5.556422983845, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730742", 

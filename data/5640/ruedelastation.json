@@ -73,18 +73,13 @@
       "street": "Rue de la Station"
     }, 
     {
-      "hnrlbls": [
-        "16"
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005"
       ], 
-      "housenumber": "16", 
-      "lat": 50.298801639536, 
-      "lon": 4.679180872007, 
-      "municipality": "Mettet", 
-      "pcode": "5640", 
-      "source": "7752876", 
-      "street": "Rue de la Station"
-    }, 
-    {
       "hnrlbls": [
         "17"
       ], 
@@ -302,6 +297,18 @@
     }, 
     {
       "hnrlbls": [
+        "34"
+      ], 
+      "housenumber": "34", 
+      "lat": 50.298801639536, 
+      "lon": 4.679180872007, 
+      "municipality": "Mettet", 
+      "pcode": "5640", 
+      "source": "7752876", 
+      "street": "Rue de la Station"
+    }, 
+    {
+      "hnrlbls": [
         "35"
       ], 
       "housenumber": "35", 
@@ -317,8 +324,8 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 50.29849434533, 
-      "lon": 4.679778905769, 
+      "lat": 50.298477689235, 
+      "lon": 4.679780653542, 
       "municipality": "Mettet", 
       "pcode": "5640", 
       "source": "7752876", 

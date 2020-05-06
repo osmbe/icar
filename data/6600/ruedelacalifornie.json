@@ -49,6 +49,12 @@
       "street": "Rue de la Californie"
     }, 
     {
+      "busnrs": [
+        "A/1", 
+        "A/2", 
+        "R/1", 
+        "R/2"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -367,6 +373,18 @@
       "housenumber": "52", 
       "lat": 50.000984983927, 
       "lon": 5.72599884966, 
+      "municipality": "Bastogne", 
+      "pcode": "6600", 
+      "source": "7742405", 
+      "street": "Rue de la Californie"
+    }, 
+    {
+      "hnrlbls": [
+        "58"
+      ], 
+      "housenumber": "58", 
+      "lat": 50.00054899198, 
+      "lon": 5.726685932697, 
       "municipality": "Bastogne", 
       "pcode": "6600", 
       "source": "7742405", 

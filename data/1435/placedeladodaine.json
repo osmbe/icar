@@ -61,12 +61,19 @@
       "street": "Place de la Dodaine"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0006"
+      ], 
       "hnrlbls": [
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 50.640489544573, 
-      "lon": 4.61061605936, 
+      "lat": 50.640580411442, 
+      "lon": 4.610321449852, 
       "municipality": "Mont-Saint-Guibert", 
       "pcode": "1435", 
       "source": "7702680", 
@@ -109,6 +116,9 @@
       "street": "Place de la Dodaine"
     }, 
     {
+      "busnrs": [
+        "0101"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -121,6 +131,15 @@
       "street": "Place de la Dodaine"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -133,6 +152,10 @@
       "street": "Place de la Dodaine"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102"
+      ], 
       "hnrlbls": [
         "9"
       ], 

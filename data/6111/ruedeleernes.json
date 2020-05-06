@@ -217,6 +217,9 @@
       "street": "Rue de Leernes"
     }, 
     {
+      "busnrs": [
+        "2/1"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -305,8 +308,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.378329040278, 
-      "lon": 4.351221035728, 
+      "lat": 50.378296580396, 
+      "lon": 4.351288562589, 
       "municipality": "Montigny-le-Tilleul", 
       "pcode": "6111", 
       "source": "7710921", 
@@ -385,6 +388,11 @@
       "street": "Rue de Leernes"
     }, 
     {
+      "busnrs": [
+        "01/1", 
+        "RC/1", 
+        "RC/2"
+      ], 
       "hnrlbls": [
         "48"
       ], 

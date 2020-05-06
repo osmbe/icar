@@ -325,6 +325,9 @@
       "street": "Rue de la Boverie"
     }, 
     {
+      "busnrs": [
+        "314"
+      ], 
       "hnrlbls": [
         "312"
       ], 
@@ -433,6 +436,10 @@
       "street": "Rue de la Boverie"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "12"
+      ], 
       "hnrlbls": [
         "370"
       ], 
@@ -541,6 +548,28 @@
       "street": "Rue de la Boverie"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8"
+      ], 
+      "hnrlbls": [
+        "380"
+      ], 
+      "housenumber": "380", 
+      "lat": 50.59858038415, 
+      "lon": 5.503505662238, 
+      "municipality": "Seraing", 
+      "pcode": "4100", 
+      "source": "7732218", 
+      "street": "Rue de la Boverie"
+    }, 
+    {
       "hnrlbls": [
         "381"
       ], 
@@ -602,6 +631,18 @@
     }, 
     {
       "hnrlbls": [
+        "411"
+      ], 
+      "housenumber": "411", 
+      "lat": 50.597643558664, 
+      "lon": 5.505163867437, 
+      "municipality": "Seraing", 
+      "pcode": "4100", 
+      "source": "7732218", 
+      "street": "Rue de la Boverie"
+    }, 
+    {
+      "hnrlbls": [
         "413"
       ], 
       "housenumber": "413", 
@@ -649,6 +690,9 @@
       "street": "Rue de la Boverie"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "419"
       ], 
@@ -877,6 +921,9 @@
       "street": "Rue de la Boverie"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "469"
       ], 
@@ -901,6 +948,38 @@
       "street": "Rue de la Boverie"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0101", 
+        "0112", 
+        "0122", 
+        "0132", 
+        "0142", 
+        "102", 
+        "111", 
+        "121", 
+        "131", 
+        "141", 
+        "151", 
+        "152", 
+        "32", 
+        "41", 
+        "42", 
+        "51", 
+        "52", 
+        "61", 
+        "62", 
+        "71", 
+        "72", 
+        "81", 
+        "82", 
+        "91"
+      ], 
       "hnrlbls": [
         "471"
       ], 
@@ -925,6 +1004,38 @@
       "street": "Rue de la Boverie"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0022", 
+        "0072", 
+        "0101", 
+        "0112", 
+        "0131", 
+        "0132", 
+        "0141", 
+        "102", 
+        "111", 
+        "12", 
+        "121", 
+        "122", 
+        "151", 
+        "152", 
+        "21", 
+        "31", 
+        "32", 
+        "41", 
+        "42", 
+        "51", 
+        "52", 
+        "61", 
+        "62", 
+        "71", 
+        "81", 
+        "82", 
+        "91", 
+        "92"
+      ], 
       "hnrlbls": [
         "473"
       ], 
@@ -1261,6 +1372,10 @@
       "street": "Rue de la Boverie"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "538"
       ], 
@@ -1465,6 +1580,9 @@
       "street": "Rue de la Boverie"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "568"
       ], 
@@ -1649,8 +1767,8 @@
         "598"
       ], 
       "housenumber": "598", 
-      "lat": 50.59368427092, 
-      "lon": 5.50453992792, 
+      "lat": 50.593725681827, 
+      "lon": 5.504542915354, 
       "municipality": "Seraing", 
       "pcode": "4100", 
       "source": "7732218", 
@@ -1661,8 +1779,8 @@
         "599"
       ], 
       "housenumber": "599", 
-      "lat": 50.593681131818, 
-      "lon": 5.505381319479, 
+      "lat": 50.593637580881, 
+      "lon": 5.505313799364, 
       "municipality": "Seraing", 
       "pcode": "4100", 
       "source": "7732218", 
@@ -1717,6 +1835,9 @@
       "street": "Rue de la Boverie"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "607"
       ], 
@@ -1853,8 +1974,8 @@
         "621"
       ], 
       "housenumber": "621", 
-      "lat": 50.593214381865, 
-      "lon": 5.505370609939, 
+      "lat": 50.593202736054, 
+      "lon": 5.505055814897, 
       "municipality": "Seraing", 
       "pcode": "4100", 
       "source": "7732218", 
@@ -1957,12 +2078,82 @@
       "street": "Rue de la Boverie"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "645"
       ], 
       "housenumber": "645", 
       "lat": 50.592629587164, 
       "lon": 5.505662350418, 
+      "municipality": "Seraing", 
+      "pcode": "4100", 
+      "source": "7732218", 
+      "street": "Rue de la Boverie"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
+      "hnrlbls": [
+        "649"
+      ], 
+      "housenumber": "649", 
+      "lat": 50.592478927815, 
+      "lon": 5.50557198334, 
+      "municipality": "Seraing", 
+      "pcode": "4100", 
+      "source": "7732218", 
+      "street": "Rue de la Boverie"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "11", 
+        "2", 
+        "3"
+      ], 
+      "hnrlbls": [
+        "651"
+      ], 
+      "housenumber": "651", 
+      "lat": 50.592429619434, 
+      "lon": 5.505578644202, 
+      "municipality": "Seraing", 
+      "pcode": "4100", 
+      "source": "7732218", 
+      "street": "Rue de la Boverie"
+    }, 
+    {
+      "busnrs": [
+        "1"
+      ], 
+      "hnrlbls": [
+        "653"
+      ], 
+      "housenumber": "653", 
+      "lat": 50.592320058276, 
+      "lon": 5.505579931052, 
+      "municipality": "Seraing", 
+      "pcode": "4100", 
+      "source": "7732218", 
+      "street": "Rue de la Boverie"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
+      "hnrlbls": [
+        "655"
+      ], 
+      "housenumber": "655", 
+      "lat": 50.592269377986, 
+      "lon": 5.505580954241, 
       "municipality": "Seraing", 
       "pcode": "4100", 
       "source": "7732218", 
@@ -2089,6 +2280,10 @@
       "street": "Rue de la Boverie"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "674"
       ], 
@@ -2101,6 +2296,9 @@
       "street": "Rue de la Boverie"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "676"
       ], 
@@ -2233,6 +2431,9 @@
       "street": "Rue de la Boverie"
     }, 
     {
+      "busnrs": [
+        "2BIS"
+      ], 
       "hnrlbls": [
         "695"
       ], 
@@ -2485,6 +2686,9 @@
       "street": "Rue de la Boverie"
     }, 
     {
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "811"
       ], 

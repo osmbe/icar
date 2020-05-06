@@ -169,12 +169,28 @@
       "street": "Rue de la Bourlotte"
     }, 
     {
+      "busnrs": [
+        "A001", 
+        "A101"
+      ], 
       "hnrlbls": [
         "22"
       ], 
       "housenumber": "22", 
       "lat": 50.636040330562, 
       "lon": 4.621003202237, 
+      "municipality": "Mont-Saint-Guibert", 
+      "pcode": "1435", 
+      "source": "7702699", 
+      "street": "Rue de la Bourlotte"
+    }, 
+    {
+      "hnrlbls": [
+        "22B"
+      ], 
+      "housenumber": "22B", 
+      "lat": 50.636159405394, 
+      "lon": 4.62092471179, 
       "municipality": "Mont-Saint-Guibert", 
       "pcode": "1435", 
       "source": "7702699", 
@@ -277,6 +293,15 @@
       "street": "Rue de la Bourlotte"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0004", 
+        "A101", 
+        "A102", 
+        "A103", 
+        "A202"
+      ], 
       "hnrlbls": [
         "5"
       ], 

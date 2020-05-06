@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A", 
+        "A1", 
+        "A2", 
+        "B"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -211,6 +217,30 @@
       "housenumber": "40", 
       "lat": 50.739684337751, 
       "lon": 5.709771383427, 
+      "municipality": "Vis\u00e9", 
+      "pcode": "4600", 
+      "source": "7733434", 
+      "street": "Rue Marcelle Martin"
+    }, 
+    {
+      "hnrlbls": [
+        "45"
+      ], 
+      "housenumber": "45", 
+      "lat": 50.740618423239, 
+      "lon": 5.708836022588, 
+      "municipality": "Vis\u00e9", 
+      "pcode": "4600", 
+      "source": "7733434", 
+      "street": "Rue Marcelle Martin"
+    }, 
+    {
+      "hnrlbls": [
+        "47"
+      ], 
+      "housenumber": "47", 
+      "lat": 50.740666972044, 
+      "lon": 5.708772171307, 
       "municipality": "Vis\u00e9", 
       "pcode": "4600", 
       "source": "7733434", 

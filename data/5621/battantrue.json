@@ -25,6 +25,9 @@
       "street": "Battant Rue"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "111"
       ], 
@@ -157,6 +160,22 @@
       "street": "Battant Rue"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
+      "hnrlbls": [
+        "120"
+      ], 
+      "housenumber": "120", 
+      "lat": 50.275573270898, 
+      "lon": 4.566554307407, 
+      "municipality": "Florennes", 
+      "pcode": "5621", 
+      "source": "7757109", 
+      "street": "Battant Rue"
+    }, 
+    {
       "hnrlbls": [
         "121"
       ], 
@@ -173,8 +192,8 @@
         "122"
       ], 
       "housenumber": "122", 
-      "lat": 50.276043541215, 
-      "lon": 4.567259801231, 
+      "lat": 50.275859904553, 
+      "lon": 4.566817833365, 
       "municipality": "Florennes", 
       "pcode": "5621", 
       "source": "7757109", 
@@ -185,8 +204,8 @@
         "123"
       ], 
       "housenumber": "123", 
-      "lat": 50.275578726974, 
-      "lon": 4.566486754102, 
+      "lat": 50.275891998192, 
+      "lon": 4.566492514604, 
       "municipality": "Florennes", 
       "pcode": "5621", 
       "source": "7757109", 

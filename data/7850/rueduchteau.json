@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "bte2"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -182,9 +185,9 @@
     }, 
     {
       "hnrlbls": [
-        "24a"
+        "24A"
       ], 
-      "housenumber": "24a", 
+      "housenumber": "24A", 
       "lat": 50.692061501729, 
       "lon": 4.039789993965, 
       "municipality": "Enghien", 
@@ -241,6 +244,9 @@
       "street": "Rue du Ch\u00e2teau"
     }, 
     {
+      "busnrs": [
+        "bte2"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -289,6 +295,9 @@
       "street": "Rue du Ch\u00e2teau"
     }, 
     {
+      "busnrs": [
+        "bte2"
+      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -445,12 +454,16 @@
       "street": "Rue du Ch\u00e2teau"
     }, 
     {
+      "busnrs": [
+        "bte3", 
+        "bte4"
+      ], 
       "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.689468695243, 
-      "lon": 4.041904735472, 
+      "lat": 50.692668578489, 
+      "lon": 4.039970466467, 
       "municipality": "Enghien", 
       "pcode": "7850", 
       "source": "7716871", 

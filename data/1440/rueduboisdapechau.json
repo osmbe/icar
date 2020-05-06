@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "000B", 
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -61,6 +66,11 @@
       "street": "Rue du Bois d'Apechau"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "000B", 
+        "000C"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -73,6 +83,9 @@
       "street": "Rue du Bois d'Apechau"
     }, 
     {
+      "busnrs": [
+        "000B"
+      ], 
       "hnrlbls": [
         "2"
       ], 

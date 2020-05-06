@@ -13,6 +13,11 @@
       "street": "Avenue de la Cokerie"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -193,6 +198,14 @@
       "street": "Avenue de la Cokerie"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -265,6 +278,10 @@
       "street": "Avenue de la Cokerie"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -385,12 +402,33 @@
       "street": "Avenue de la Cokerie"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "53"
       ], 
       "housenumber": "53", 
       "lat": 50.622449338782, 
       "lon": 5.5936748116, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7729610", 
+      "street": "Avenue de la Cokerie"
+    }, 
+    {
+      "hnrlbls": [
+        "55"
+      ], 
+      "housenumber": "55", 
+      "lat": 50.622469898178, 
+      "lon": 5.593593806919, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4030", 
       "source": "7729610", 
@@ -409,6 +447,11 @@
       "street": "Avenue de la Cokerie"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "8"
       ], 

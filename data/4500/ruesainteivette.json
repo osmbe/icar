@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -337,6 +341,11 @@
       "street": "Rue Sainte-Ivette"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0RCH"
+      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -349,6 +358,9 @@
       "street": "Rue Sainte-Ivette"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -457,6 +469,9 @@
       "street": "Rue Sainte-Ivette"
     }, 
     {
+      "busnrs": [
+        "0RCH"
+      ], 
       "hnrlbls": [
         "43"
       ], 
@@ -581,8 +596,8 @@
         "57"
       ], 
       "housenumber": "57", 
-      "lat": 50.528536717171, 
-      "lon": 5.234784923904, 
+      "lat": 50.528580834614, 
+      "lon": 5.234791007048, 
       "municipality": "Huy", 
       "pcode": "4500", 
       "source": "7725684", 
@@ -605,8 +620,8 @@
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 50.528591878275, 
-      "lon": 5.234852226902, 
+      "lat": 50.528546553519, 
+      "lon": 5.234877899799, 
       "municipality": "Huy", 
       "pcode": "4500", 
       "source": "7725684", 
@@ -937,6 +952,9 @@
       "street": "Rue Sainte-Ivette"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "86"
       ], 
@@ -961,6 +979,10 @@
       "street": "Rue Sainte-Ivette"
     }, 
     {
+      "busnrs": [
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "88"
       ], 

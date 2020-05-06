@@ -1,6 +1,14 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -25,18 +33,12 @@
       "street": "Rue Albert Ier"
     }, 
     {
-      "hnrlbls": [
-        "101"
+      "busnrs": [
+        "1ETA", 
+        "2ETA", 
+        "3ETA", 
+        "REZB"
       ], 
-      "housenumber": "101", 
-      "lat": 50.609259318247, 
-      "lon": 5.854176229411, 
-      "municipality": "Dison", 
-      "pcode": "4820", 
-      "source": "7735621", 
-      "street": "Rue Albert Ier"
-    }, 
-    {
       "hnrlbls": [
         "102"
       ], 
@@ -49,12 +51,15 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "103"
       ], 
       "housenumber": "103", 
-      "lat": 50.609371943692, 
-      "lon": 5.85413647543, 
+      "lat": 50.609341471778, 
+      "lon": 5.854175334737, 
       "municipality": "Dison", 
       "pcode": "4820", 
       "source": "7735621", 
@@ -73,18 +78,28 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "105"
       ], 
       "housenumber": "105", 
-      "lat": 50.609371943692, 
-      "lon": 5.85413647543, 
+      "lat": 50.609377750805, 
+      "lon": 5.85418488807, 
       "municipality": "Dison", 
       "pcode": "4820", 
       "source": "7735621", 
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "106"
       ], 
@@ -97,18 +112,24 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "107"
       ], 
       "housenumber": "107", 
-      "lat": 50.609371943692, 
-      "lon": 5.85413647543, 
+      "lat": 50.60940449821, 
+      "lon": 5.854158249221, 
       "municipality": "Dison", 
       "pcode": "4820", 
       "source": "7735621", 
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "108"
       ], 
@@ -121,6 +142,11 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "109"
       ], 
@@ -133,6 +159,11 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "112"
       ], 
@@ -145,6 +176,9 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "115"
       ], 
@@ -157,6 +191,9 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "116"
       ], 
@@ -169,6 +206,9 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "118"
       ], 
@@ -181,6 +221,10 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "120"
       ], 
@@ -193,6 +237,9 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "122"
       ], 
@@ -205,6 +252,11 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "124"
       ], 
@@ -217,6 +269,10 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0301"
+      ], 
       "hnrlbls": [
         "130"
       ], 
@@ -253,6 +309,10 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "1ETA", 
+        "2ETA"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -265,6 +325,12 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -277,6 +343,11 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -301,6 +372,10 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -313,18 +388,11 @@
       "street": "Rue Albert Ier"
     }, 
     {
-      "hnrlbls": [
-        "33"
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "0301"
       ], 
-      "housenumber": "33", 
-      "lat": 50.607130329395, 
-      "lon": 5.854830728136, 
-      "municipality": "Dison", 
-      "pcode": "4820", 
-      "source": "7735621", 
-      "street": "Rue Albert Ier"
-    }, 
-    {
       "hnrlbls": [
         "35"
       ], 
@@ -361,6 +429,10 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "41"
       ], 
@@ -373,6 +445,18 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402"
+      ], 
       "hnrlbls": [
         "42"
       ], 
@@ -385,6 +469,12 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "43"
       ], 
@@ -397,6 +487,17 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402"
+      ], 
       "hnrlbls": [
         "46"
       ], 
@@ -409,6 +510,16 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
+      ], 
       "hnrlbls": [
         "47"
       ], 
@@ -421,6 +532,11 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "48"
       ], 
@@ -433,6 +549,11 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "49A"
       ], 
@@ -445,6 +566,11 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "49B"
       ], 
@@ -457,6 +583,11 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -469,6 +600,12 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "50"
       ], 
@@ -481,12 +618,38 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "51"
       ], 
       "housenumber": "51", 
       "lat": 50.607761386223, 
       "lon": 5.854319629539, 
+      "municipality": "Dison", 
+      "pcode": "4820", 
+      "source": "7735621", 
+      "street": "Rue Albert Ier"
+    }, 
+    {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402"
+      ], 
+      "hnrlbls": [
+        "51A"
+      ], 
+      "housenumber": "51A", 
+      "lat": 50.607719950181, 
+      "lon": 5.854034574558, 
       "municipality": "Dison", 
       "pcode": "4820", 
       "source": "7735621", 
@@ -505,6 +668,9 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "53"
       ], 
@@ -517,6 +683,9 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "0101"
+      ], 
       "hnrlbls": [
         "54"
       ], 
@@ -529,6 +698,11 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "55"
       ], 
@@ -541,6 +715,10 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "57"
       ], 
@@ -589,6 +767,14 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0201", 
+        "0202", 
+        "0203"
+      ], 
       "hnrlbls": [
         "63"
       ], 
@@ -613,6 +799,12 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "65"
       ], 
@@ -637,6 +829,12 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "67"
       ], 
@@ -685,6 +883,11 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "72"
       ], 
@@ -697,6 +900,10 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "2ETA", 
+        "3ETA"
+      ], 
       "hnrlbls": [
         "73"
       ], 
@@ -733,6 +940,9 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "76"
       ], 
@@ -745,6 +955,10 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "78"
       ], 
@@ -781,6 +995,11 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "82"
       ], 
@@ -805,6 +1024,9 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "84"
       ], 
@@ -817,6 +1039,10 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "85"
       ], 
@@ -829,6 +1055,13 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "0022", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "87"
       ], 
@@ -841,6 +1074,13 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "88"
       ], 
@@ -877,6 +1117,9 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "92"
       ], 
@@ -901,6 +1144,13 @@
       "street": "Rue Albert Ier"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "95"
       ], 
@@ -943,18 +1193,6 @@
       "housenumber": "98", 
       "lat": 50.609209257364, 
       "lon": 5.854513892498, 
-      "municipality": "Dison", 
-      "pcode": "4820", 
-      "source": "7735621", 
-      "street": "Rue Albert Ier"
-    }, 
-    {
-      "hnrlbls": [
-        "99"
-      ], 
-      "housenumber": "99", 
-      "lat": 50.609259318247, 
-      "lon": 5.854176229411, 
       "municipality": "Dison", 
       "pcode": "4820", 
       "source": "7735621", 

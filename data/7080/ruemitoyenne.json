@@ -265,6 +265,11 @@
       "street": "Rue Mitoyenne"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "130"
       ], 
@@ -605,8 +610,8 @@
         "167"
       ], 
       "housenumber": "167", 
-      "lat": 50.388104693484, 
-      "lon": 3.862737083609, 
+      "lat": 50.388102020663, 
+      "lon": 3.862819138522, 
       "municipality": "Frameries", 
       "pcode": "7080", 
       "source": "7712552", 
@@ -653,8 +658,8 @@
         "173"
       ], 
       "housenumber": "173", 
-      "lat": 50.387990370724, 
-      "lon": 3.862762206754, 
+      "lat": 50.387974969732, 
+      "lon": 3.862679528828, 
       "municipality": "Frameries", 
       "pcode": "7080", 
       "source": "7712552", 
@@ -1129,6 +1134,9 @@
       "street": "Rue Mitoyenne"
     }, 
     {
+      "busnrs": [
+        "25"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -1165,6 +1173,10 @@
       "street": "Rue Mitoyenne"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "27"
       ], 

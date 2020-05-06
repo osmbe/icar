@@ -85,6 +85,11 @@
       "street": "Rosi\u00e8re-la-Grande"
     }, 
     {
+      "busnrs": [
+        "App1", 
+        "App2", 
+        "App3"
+      ], 
       "hnrlbls": [
         "44"
       ], 
@@ -173,8 +178,20 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 49.920434996817, 
-      "lon": 5.573136360552, 
+      "lat": 49.92049334647, 
+      "lon": 5.573130457318, 
+      "municipality": "Vaux-sur-S\u00fbre", 
+      "pcode": "6640", 
+      "source": "7742936", 
+      "street": "Rosi\u00e8re-la-Grande"
+    }, 
+    {
+      "hnrlbls": [
+        "48B"
+      ], 
+      "housenumber": "48B", 
+      "lat": 49.919996786246, 
+      "lon": 5.572945999551, 
       "municipality": "Vaux-sur-S\u00fbre", 
       "pcode": "6640", 
       "source": "7742936", 
@@ -353,8 +370,8 @@
         "52H"
       ], 
       "housenumber": "52H", 
-      "lat": 49.918679044371, 
-      "lon": 5.566852128121, 
+      "lat": 49.91874093885, 
+      "lon": 5.566852631432, 
       "municipality": "Vaux-sur-S\u00fbre", 
       "pcode": "6640", 
       "source": "7742936", 
@@ -458,6 +475,30 @@
     }, 
     {
       "hnrlbls": [
+        "55A"
+      ], 
+      "housenumber": "55A", 
+      "lat": 49.922459132668, 
+      "lon": 5.564415847836, 
+      "municipality": "Vaux-sur-S\u00fbre", 
+      "pcode": "6640", 
+      "source": "7742936", 
+      "street": "Rosi\u00e8re-la-Grande"
+    }, 
+    {
+      "hnrlbls": [
+        "56"
+      ], 
+      "housenumber": "56", 
+      "lat": 49.920432772365, 
+      "lon": 5.573143041029, 
+      "municipality": "Vaux-sur-S\u00fbre", 
+      "pcode": "6640", 
+      "source": "7742936", 
+      "street": "Rosi\u00e8re-la-Grande"
+    }, 
+    {
+      "hnrlbls": [
         "57"
       ], 
       "housenumber": "57", 
@@ -509,8 +550,8 @@
         "61"
       ], 
       "housenumber": "61", 
-      "lat": 49.921314100013, 
-      "lon": 5.57242241529, 
+      "lat": 49.921327642036, 
+      "lon": 5.573037393185, 
       "municipality": "Vaux-sur-S\u00fbre", 
       "pcode": "6640", 
       "source": "7742936", 
@@ -589,6 +630,9 @@
       "street": "Rosi\u00e8re-la-Grande"
     }, 
     {
+      "busnrs": [
+        "Bte2"
+      ], 
       "hnrlbls": [
         "68"
       ], 

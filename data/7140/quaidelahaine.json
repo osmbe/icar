@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0005", 
+        "0006", 
+        "0009", 
+        "0011"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -326,18 +332,6 @@
     }, 
     {
       "hnrlbls": [
-        "21"
-      ], 
-      "housenumber": "21", 
-      "lat": 50.454208265197, 
-      "lon": 4.24127689628, 
-      "municipality": "Morlanwelz", 
-      "pcode": "7140", 
-      "source": "7721637", 
-      "street": "Quai de la Haine"
-    }, 
-    {
-      "hnrlbls": [
         "23"
       ], 
       "housenumber": "23", 
@@ -373,6 +367,9 @@
       "street": "Quai de la Haine"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "33"
       ], 
@@ -397,6 +394,10 @@
       "street": "Quai de la Haine"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "37"
       ], 

@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -13,6 +19,12 @@
       "street": "Place de la R\u00e9sistance"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -25,6 +37,24 @@
       "street": "Place de la R\u00e9sistance"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032", 
+        "0041", 
+        "0042", 
+        "0051", 
+        "0052", 
+        "0061", 
+        "0062", 
+        "0071", 
+        "0072", 
+        "0081", 
+        "0082"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -73,6 +103,14 @@
       "street": "Place de la R\u00e9sistance"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -85,6 +123,35 @@
       "street": "Place de la R\u00e9sistance"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0021", 
+        "0031", 
+        "0041", 
+        "0051", 
+        "0061", 
+        "0071"
+      ], 
+      "hnrlbls": [
+        "21"
+      ], 
+      "housenumber": "21", 
+      "lat": 50.643664142174, 
+      "lon": 5.598244867448, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7729976", 
+      "street": "Place de la R\u00e9sistance"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0023"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -145,6 +212,29 @@
       "street": "Place de la R\u00e9sistance"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 50.643369132324, 
+      "lon": 5.59871497487, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4020", 
+      "source": "7729976", 
+      "street": "Place de la R\u00e9sistance"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "9"
       ], 

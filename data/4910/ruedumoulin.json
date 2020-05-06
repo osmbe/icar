@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "/1", 
+        "/2", 
+        "/RC"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -157,6 +162,11 @@
       "street": "Rue du Moulin"
     }, 
     {
+      "busnrs": [
+        "/1", 
+        "/2", 
+        "/3"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -397,6 +407,9 @@
       "street": "Rue du Moulin"
     }, 
     {
+      "busnrs": [
+        "/RC"
+      ], 
       "hnrlbls": [
         "5"
       ], 

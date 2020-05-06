@@ -457,12 +457,27 @@
       "street": "Rue du Centre"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "42"
       ], 
       "housenumber": "42", 
       "lat": 50.197919981015, 
       "lon": 4.947568105336, 
+      "municipality": "Houyet", 
+      "pcode": "5560", 
+      "source": "7750107", 
+      "street": "Rue du Centre"
+    }, 
+    {
+      "hnrlbls": [
+        "42A"
+      ], 
+      "housenumber": "42A", 
+      "lat": 50.197828892167, 
+      "lon": 4.947324175113, 
       "municipality": "Houyet", 
       "pcode": "5560", 
       "source": "7750107", 

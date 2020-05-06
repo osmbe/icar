@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -187,6 +193,22 @@
       "housenumber": "27", 
       "lat": 50.627571251355, 
       "lon": 5.594799432325, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730912", 
+      "street": "Rue Emile-Collard"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
+      "hnrlbls": [
+        "28"
+      ], 
+      "housenumber": "28", 
+      "lat": 50.627292285868, 
+      "lon": 5.594881930956, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4030", 
       "source": "7730912", 

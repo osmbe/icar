@@ -1,12 +1,16 @@
 {
   "addresses": [
     {
-      "hnrlbls": [
-        "14"
+      "busnrs": [
+        "1/1", 
+        "1/2"
       ], 
-      "housenumber": "14", 
-      "lat": 50.16878866964, 
-      "lon": 4.169246721889, 
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.166832659985, 
+      "lon": 4.175198589184, 
       "municipality": "Sivry-Rance", 
       "pcode": "6470", 
       "source": "7721926", 
@@ -14,11 +18,59 @@
     }, 
     {
       "hnrlbls": [
-        "16"
+        "10"
       ], 
-      "housenumber": "16", 
-      "lat": 50.169134114521, 
-      "lon": 4.168828221993, 
+      "housenumber": "10", 
+      "lat": 50.167567649126, 
+      "lon": 4.175278200196, 
+      "municipality": "Sivry-Rance", 
+      "pcode": "6470", 
+      "source": "7721926", 
+      "street": "Rue Moulard"
+    }, 
+    {
+      "hnrlbls": [
+        "11"
+      ], 
+      "housenumber": "11", 
+      "lat": 50.167671766496, 
+      "lon": 4.174636049242, 
+      "municipality": "Sivry-Rance", 
+      "pcode": "6470", 
+      "source": "7721926", 
+      "street": "Rue Moulard"
+    }, 
+    {
+      "hnrlbls": [
+        "12"
+      ], 
+      "housenumber": "12", 
+      "lat": 50.167653304972, 
+      "lon": 4.174972560921, 
+      "municipality": "Sivry-Rance", 
+      "pcode": "6470", 
+      "source": "7721926", 
+      "street": "Rue Moulard"
+    }, 
+    {
+      "hnrlbls": [
+        "13"
+      ], 
+      "housenumber": "13", 
+      "lat": 50.167750162265, 
+      "lon": 4.174489642159, 
+      "municipality": "Sivry-Rance", 
+      "pcode": "6470", 
+      "source": "7721926", 
+      "street": "Rue Moulard"
+    }, 
+    {
+      "hnrlbls": [
+        "14"
+      ], 
+      "housenumber": "14", 
+      "lat": 50.167936813808, 
+      "lon": 4.17472991784, 
       "municipality": "Sivry-Rance", 
       "pcode": "6470", 
       "source": "7721926", 
@@ -38,11 +90,47 @@
     }, 
     {
       "hnrlbls": [
+        "18"
+      ], 
+      "housenumber": "18", 
+      "lat": 50.168147012811, 
+      "lon": 4.174202989328, 
+      "municipality": "Sivry-Rance", 
+      "pcode": "6470", 
+      "source": "7721926", 
+      "street": "Rue Moulard"
+    }, 
+    {
+      "hnrlbls": [
         "19"
       ], 
       "housenumber": "19", 
       "lat": 50.167948204875, 
       "lon": 4.169914243301, 
+      "municipality": "Sivry-Rance", 
+      "pcode": "6470", 
+      "source": "7721926", 
+      "street": "Rue Moulard"
+    }, 
+    {
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.166633595779, 
+      "lon": 4.175628259357, 
+      "municipality": "Sivry-Rance", 
+      "pcode": "6470", 
+      "source": "7721926", 
+      "street": "Rue Moulard"
+    }, 
+    {
+      "hnrlbls": [
+        "20"
+      ], 
+      "housenumber": "20", 
+      "lat": 50.168157573251, 
+      "lon": 4.173820636706, 
       "municipality": "Sivry-Rance", 
       "pcode": "6470", 
       "source": "7721926", 
@@ -134,11 +222,47 @@
     }, 
     {
       "hnrlbls": [
+        "29"
+      ], 
+      "housenumber": "29", 
+      "lat": 50.168054603765, 
+      "lon": 4.163551736557, 
+      "municipality": "Sivry-Rance", 
+      "pcode": "6470", 
+      "source": "7721926", 
+      "street": "Rue Moulard"
+    }, 
+    {
+      "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 50.166881197291, 
+      "lon": 4.175374698827, 
+      "municipality": "Sivry-Rance", 
+      "pcode": "6470", 
+      "source": "7721926", 
+      "street": "Rue Moulard"
+    }, 
+    {
+      "hnrlbls": [
         "30"
       ], 
       "housenumber": "30", 
       "lat": 50.169013892541, 
       "lon": 4.170452194612, 
+      "municipality": "Sivry-Rance", 
+      "pcode": "6470", 
+      "source": "7721926", 
+      "street": "Rue Moulard"
+    }, 
+    {
+      "hnrlbls": [
+        "31"
+      ], 
+      "housenumber": "31", 
+      "lat": 50.167978308011, 
+      "lon": 4.163281775769, 
       "municipality": "Sivry-Rance", 
       "pcode": "6470", 
       "source": "7721926", 
@@ -158,11 +282,35 @@
     }, 
     {
       "hnrlbls": [
+        "34"
+      ], 
+      "housenumber": "34", 
+      "lat": 50.16878866964, 
+      "lon": 4.169246721889, 
+      "municipality": "Sivry-Rance", 
+      "pcode": "6470", 
+      "source": "7721926", 
+      "street": "Rue Moulard"
+    }, 
+    {
+      "hnrlbls": [
         "35"
       ], 
       "housenumber": "35", 
       "lat": 50.16818257769, 
       "lon": 4.162913313821, 
+      "municipality": "Sivry-Rance", 
+      "pcode": "6470", 
+      "source": "7721926", 
+      "street": "Rue Moulard"
+    }, 
+    {
+      "hnrlbls": [
+        "36"
+      ], 
+      "housenumber": "36", 
+      "lat": 50.169134114521, 
+      "lon": 4.168828221993, 
       "municipality": "Sivry-Rance", 
       "pcode": "6470", 
       "source": "7721926", 
@@ -374,6 +522,18 @@
     }, 
     {
       "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 50.167323348363, 
+      "lon": 4.175348907342, 
+      "municipality": "Sivry-Rance", 
+      "pcode": "6470", 
+      "source": "7721926", 
+      "street": "Rue Moulard"
+    }, 
+    {
+      "hnrlbls": [
         "50"
       ], 
       "housenumber": "50", 
@@ -391,6 +551,18 @@
       "housenumber": "50A", 
       "lat": 50.16873413601, 
       "lon": 4.165977099378, 
+      "municipality": "Sivry-Rance", 
+      "pcode": "6470", 
+      "source": "7721926", 
+      "street": "Rue Moulard"
+    }, 
+    {
+      "hnrlbls": [
+        "51"
+      ], 
+      "housenumber": "51", 
+      "lat": 50.168612647492, 
+      "lon": 4.155193259622, 
       "municipality": "Sivry-Rance", 
       "pcode": "6470", 
       "source": "7721926", 
@@ -446,11 +618,35 @@
     }, 
     {
       "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.167483326912, 
+      "lon": 4.175840078884, 
+      "municipality": "Sivry-Rance", 
+      "pcode": "6470", 
+      "source": "7721926", 
+      "street": "Rue Moulard"
+    }, 
+    {
+      "hnrlbls": [
         "60"
       ], 
       "housenumber": "60", 
       "lat": 50.168479164327, 
       "lon": 4.16344839237, 
+      "municipality": "Sivry-Rance", 
+      "pcode": "6470", 
+      "source": "7721926", 
+      "street": "Rue Moulard"
+    }, 
+    {
+      "hnrlbls": [
+        "60A"
+      ], 
+      "housenumber": "60A", 
+      "lat": 50.16842243402, 
+      "lon": 4.162526302721, 
       "municipality": "Sivry-Rance", 
       "pcode": "6470", 
       "source": "7721926", 
@@ -506,6 +702,18 @@
     }, 
     {
       "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 50.167409725949, 
+      "lon": 4.17516852718, 
+      "municipality": "Sivry-Rance", 
+      "pcode": "6470", 
+      "source": "7721926", 
+      "street": "Rue Moulard"
+    }, 
+    {
+      "hnrlbls": [
         "70"
       ], 
       "housenumber": "70", 
@@ -523,6 +731,30 @@
       "housenumber": "72", 
       "lat": 50.168850422716, 
       "lon": 4.155188628897, 
+      "municipality": "Sivry-Rance", 
+      "pcode": "6470", 
+      "source": "7721926", 
+      "street": "Rue Moulard"
+    }, 
+    {
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 50.167536022948, 
+      "lon": 4.17540389665, 
+      "municipality": "Sivry-Rance", 
+      "pcode": "6470", 
+      "source": "7721926", 
+      "street": "Rue Moulard"
+    }, 
+    {
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.167481519823, 
+      "lon": 4.174997975418, 
       "municipality": "Sivry-Rance", 
       "pcode": "6470", 
       "source": "7721926", 

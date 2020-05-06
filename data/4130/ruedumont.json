@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -137,8 +142,8 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 50.534086193739, 
-      "lon": 5.569898073253, 
+      "lat": 50.53408381711, 
+      "lon": 5.569851729401, 
       "municipality": "Esneux", 
       "pcode": "4130", 
       "source": "7728750", 
@@ -151,6 +156,34 @@
       "housenumber": "21", 
       "lat": 50.53433304272, 
       "lon": 5.570408585477, 
+      "municipality": "Esneux", 
+      "pcode": "4130", 
+      "source": "7728750", 
+      "street": "Rue du Mont"
+    }, 
+    {
+      "busnrs": [
+        "21", 
+        "31"
+      ], 
+      "hnrlbls": [
+        "22"
+      ], 
+      "housenumber": "22", 
+      "lat": 50.534094495428, 
+      "lon": 5.569922301917, 
+      "municipality": "Esneux", 
+      "pcode": "4130", 
+      "source": "7728750", 
+      "street": "Rue du Mont"
+    }, 
+    {
+      "hnrlbls": [
+        "24"
+      ], 
+      "housenumber": "24", 
+      "lat": 50.53410753529, 
+      "lon": 5.569995792606, 
       "municipality": "Esneux", 
       "pcode": "4130", 
       "source": "7728750", 

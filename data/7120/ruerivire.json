@@ -289,6 +289,9 @@
       "street": "Rue Rivi\u00e8re"
     }, 
     {
+      "busnrs": [
+        "18"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -337,6 +340,10 @@
       "street": "Rue Rivi\u00e8re"
     }, 
     {
+      "busnrs": [
+        "1/1", 
+        "2"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -674,11 +681,11 @@
     }, 
     {
       "hnrlbls": [
-        "46"
+        "47"
       ], 
-      "housenumber": "46", 
-      "lat": 50.402182382877, 
-      "lon": 4.101554722597, 
+      "housenumber": "47", 
+      "lat": 50.401198681035, 
+      "lon": 4.097896906425, 
       "municipality": "Estinnes", 
       "pcode": "7120", 
       "source": "7721374", 
@@ -686,11 +693,11 @@
     }, 
     {
       "hnrlbls": [
-        "47"
+        "48"
       ], 
-      "housenumber": "47", 
-      "lat": 50.401198681035, 
-      "lon": 4.097896906425, 
+      "housenumber": "48", 
+      "lat": 50.402182382877, 
+      "lon": 4.101554722597, 
       "municipality": "Estinnes", 
       "pcode": "7120", 
       "source": "7721374", 
@@ -745,6 +752,9 @@
       "street": "Rue Rivi\u00e8re"
     }, 
     {
+      "busnrs": [
+        "Bte1"
+      ], 
       "hnrlbls": [
         "52"
       ], 
@@ -919,6 +929,30 @@
       "housenumber": "69", 
       "lat": 50.403185372392, 
       "lon": 4.102631382926, 
+      "municipality": "Estinnes", 
+      "pcode": "7120", 
+      "source": "7721374", 
+      "street": "Rue Rivi\u00e8re"
+    }, 
+    {
+      "hnrlbls": [
+        "6A"
+      ], 
+      "housenumber": "6A", 
+      "lat": 50.399544764318, 
+      "lon": 4.097774068042, 
+      "municipality": "Estinnes", 
+      "pcode": "7120", 
+      "source": "7721374", 
+      "street": "Rue Rivi\u00e8re"
+    }, 
+    {
+      "hnrlbls": [
+        "6B"
+      ], 
+      "housenumber": "6B", 
+      "lat": 50.399559549173, 
+      "lon": 4.097840972877, 
       "municipality": "Estinnes", 
       "pcode": "7120", 
       "source": "7721374", 

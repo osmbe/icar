@@ -1,24 +1,15 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
       "lat": 50.422010269892, 
       "lon": 5.35878787346, 
-      "municipality": "Clavier", 
-      "pcode": "4560", 
-      "source": "7724935", 
-      "street": "Voie de Messe"
-    }, 
-    {
-      "hnrlbls": [
-        "11"
-      ], 
-      "housenumber": "11", 
-      "lat": 50.4118822175, 
-      "lon": 5.35801166559, 
       "municipality": "Clavier", 
       "pcode": "4560", 
       "source": "7724935", 
@@ -85,6 +76,9 @@
       "street": "Voie de Messe"
     }, 
     {
+      "busnrs": [
+        "000D"
+      ], 
       "hnrlbls": [
         "7"
       ], 

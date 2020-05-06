@@ -49,6 +49,10 @@
       "street": "Route de la Cave romaine"
     }, 
     {
+      "busnrs": [
+        "000B", 
+        "000F"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -73,6 +77,14 @@
       "street": "Route de la Cave romaine"
     }, 
     {
+      "busnrs": [
+        "000B", 
+        "000C", 
+        "000D", 
+        "000E", 
+        "000F", 
+        "000I"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -89,8 +101,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.352267309658, 
-      "lon": 5.231949998938, 
+      "lat": 50.351750215001, 
+      "lon": 5.225622488461, 
       "municipality": "Havelange", 
       "pcode": "5370", 
       "source": "7749869", 

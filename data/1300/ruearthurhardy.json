@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -37,6 +40,9 @@
       "street": "Rue Arthur Hardy"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -65,8 +71,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.693190196494, 
-      "lon": 4.589106152149, 
+      "lat": 50.693157762391, 
+      "lon": 4.588836595962, 
       "municipality": "Wavre", 
       "pcode": "1300", 
       "source": "7704891", 
@@ -145,6 +151,10 @@
       "street": "Rue Arthur Hardy"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -157,6 +167,9 @@
       "street": "Rue Arthur Hardy"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -253,6 +266,9 @@
       "street": "Rue Arthur Hardy"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -277,6 +293,9 @@
       "street": "Rue Arthur Hardy"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "36"
       ], 
@@ -433,12 +452,15 @@
       "street": "Rue Arthur Hardy"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 50.691141785675, 
-      "lon": 4.593721233167, 
+      "lat": 50.691232831119, 
+      "lon": 4.596311341909, 
       "municipality": "Wavre", 
       "pcode": "1300", 
       "source": "7704891", 
@@ -470,6 +492,30 @@
     }, 
     {
       "hnrlbls": [
+        "57A"
+      ], 
+      "housenumber": "57A", 
+      "lat": 50.690658740475, 
+      "lon": 4.594552969724, 
+      "municipality": "Wavre", 
+      "pcode": "1300", 
+      "source": "7704891", 
+      "street": "Rue Arthur Hardy"
+    }, 
+    {
+      "hnrlbls": [
+        "57B"
+      ], 
+      "housenumber": "57B", 
+      "lat": 50.690568116927, 
+      "lon": 4.594675354713, 
+      "municipality": "Wavre", 
+      "pcode": "1300", 
+      "source": "7704891", 
+      "street": "Rue Arthur Hardy"
+    }, 
+    {
+      "hnrlbls": [
         "59"
       ], 
       "housenumber": "59", 
@@ -493,18 +539,24 @@
       "street": "Rue Arthur Hardy"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 50.690410922879, 
-      "lon": 4.595661894262, 
+      "lat": 50.690334463963, 
+      "lon": 4.595420614505, 
       "municipality": "Wavre", 
       "pcode": "1300", 
       "source": "7704891", 
       "street": "Rue Arthur Hardy"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "65"
       ], 
@@ -565,6 +617,14 @@
       "street": "Rue Arthur Hardy"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "000B", 
+        "000C", 
+        "000D", 
+        "000E", 
+        "000F"
+      ], 
       "hnrlbls": [
         "8"
       ], 

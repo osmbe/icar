@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "000D"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -121,12 +124,15 @@
       "street": "Rue de Ri\u00e8ge"
     }, 
     {
+      "busnrs": [
+        "A  1"
+      ], 
       "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.599757499602, 
-      "lon": 3.466935303549, 
+      "lat": 50.602244027813, 
+      "lon": 3.460264262577, 
       "municipality": "Tournai", 
       "pcode": "7530", 
       "source": "7723452", 

@@ -1,6 +1,13 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -62,6 +69,30 @@
     }, 
     {
       "hnrlbls": [
+        "19"
+      ], 
+      "housenumber": "19", 
+      "lat": 50.664596930391, 
+      "lon": 5.594773288497, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730456", 
+      "street": "Rue de l'Ermitage"
+    }, 
+    {
+      "hnrlbls": [
+        "24"
+      ], 
+      "housenumber": "24", 
+      "lat": 50.664108432675, 
+      "lon": 5.595700160288, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730456", 
+      "street": "Rue de l'Ermitage"
+    }, 
+    {
+      "hnrlbls": [
         "26"
       ], 
       "housenumber": "26", 
@@ -91,6 +122,18 @@
       "housenumber": "41", 
       "lat": 50.664344135291, 
       "lon": 5.59606725457, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7730456", 
+      "street": "Rue de l'Ermitage"
+    }, 
+    {
+      "hnrlbls": [
+        "48"
+      ], 
+      "housenumber": "48", 
+      "lat": 50.663877602822, 
+      "lon": 5.594563487328, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7730456", 

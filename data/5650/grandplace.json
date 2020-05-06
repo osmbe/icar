@@ -97,10 +97,14 @@
       "street": "Grand'Place"
     }, 
     {
-      "hnrlbls": [
-        "170002"
+      "busnrs": [
+        "0001", 
+        "0002"
       ], 
-      "housenumber": "170002", 
+      "hnrlbls": [
+        "17"
+      ], 
+      "housenumber": "17", 
       "lat": 50.252433202966, 
       "lon": 4.431675288314, 
       "municipality": "Walcourt", 
@@ -133,12 +137,16 @@
       "street": "Grand'Place"
     }, 
     {
-      "hnrlbls": [
-        "20"
+      "busnrs": [
+        "0001", 
+        "0002"
       ], 
-      "housenumber": "20", 
-      "lat": 50.25254416149, 
-      "lon": 4.431712426911, 
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.251858285484, 
+      "lon": 4.431627883325, 
       "municipality": "Walcourt", 
       "pcode": "5650", 
       "source": "7757760", 
@@ -146,11 +154,11 @@
     }, 
     {
       "hnrlbls": [
-        "20002"
+        "20"
       ], 
-      "housenumber": "20002", 
-      "lat": 50.251858285484, 
-      "lon": 4.431627883325, 
+      "housenumber": "20", 
+      "lat": 50.25254416149, 
+      "lon": 4.431712426911, 
       "municipality": "Walcourt", 
       "pcode": "5650", 
       "source": "7757760", 
@@ -173,8 +181,8 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 50.252625828371, 
-      "lon": 4.431578623202, 
+      "lat": 50.252668134603, 
+      "lon": 4.431707166063, 
       "municipality": "Walcourt", 
       "pcode": "5650", 
       "source": "7757760", 
@@ -241,10 +249,15 @@
       "street": "Grand'Place"
     }, 
     {
-      "hnrlbls": [
-        "29BTE2"
+      "busnrs": [
+        "BTE1", 
+        "BTE2", 
+        "BTE3"
       ], 
-      "housenumber": "29BTE2", 
+      "hnrlbls": [
+        "29"
+      ], 
+      "housenumber": "29", 
       "lat": 50.2525650966, 
       "lon": 4.432208207181, 
       "municipality": "Walcourt", 
@@ -301,6 +314,9 @@
       "street": "Grand'Place"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -361,6 +377,23 @@
       "street": "Grand'Place"
     }, 
     {
+      "busnrs": [
+        "BTE1", 
+        "BTE2", 
+        "BTE3"
+      ], 
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.251886363876, 
+      "lon": 4.431527678057, 
+      "municipality": "Walcourt", 
+      "pcode": "5650", 
+      "source": "7757760", 
+      "street": "Grand'Place"
+    }, 
+    {
       "hnrlbls": [
         "40"
       ], 
@@ -403,18 +436,6 @@
       "housenumber": "43", 
       "lat": 50.251846537155, 
       "lon": 4.432486149055, 
-      "municipality": "Walcourt", 
-      "pcode": "5650", 
-      "source": "7757760", 
-      "street": "Grand'Place"
-    }, 
-    {
-      "hnrlbls": [
-        "4BTE1"
-      ], 
-      "housenumber": "4BTE1", 
-      "lat": 50.251886363876, 
-      "lon": 4.431527678057, 
       "municipality": "Walcourt", 
       "pcode": "5650", 
       "source": "7757760", 

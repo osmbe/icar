@@ -1,6 +1,31 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A005", 
+        "A011", 
+        "A012", 
+        "A013", 
+        "A016", 
+        "A017", 
+        "A021", 
+        "A024", 
+        "A025", 
+        "A026", 
+        "A027"
+      ], 
+      "hnrlbls": [
+        "341"
+      ], 
+      "housenumber": "341", 
+      "lat": 50.639027708519, 
+      "lon": 5.537948631158, 
+      "municipality": "Saint-Nicolas", 
+      "pcode": "4420", 
+      "source": "7732032", 
+      "street": "Rue Saint-Nicolas"
+    }, 
+    {
       "hnrlbls": [
         "345"
       ], 
@@ -97,6 +122,9 @@
       "street": "Rue Saint-Nicolas"
     }, 
     {
+      "busnrs": [
+        "0002"
+      ], 
       "hnrlbls": [
         "389"
       ], 
@@ -109,6 +137,9 @@
       "street": "Rue Saint-Nicolas"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "393"
       ], 
@@ -253,6 +284,9 @@
       "street": "Rue Saint-Nicolas"
     }, 
     {
+      "busnrs": [
+        "002"
+      ], 
       "hnrlbls": [
         "423"
       ], 

@@ -157,6 +157,10 @@
       "street": "Rue de la Maillebotte"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "000B"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -247,6 +251,18 @@
       "housenumber": "29", 
       "lat": 50.605067237577, 
       "lon": 4.338939641069, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703012", 
+      "street": "Rue de la Maillebotte"
+    }, 
+    {
+      "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 50.605601396877, 
+      "lon": 4.33862513133, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703012", 
@@ -365,14 +381,17 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 50.604777812747, 
-      "lon": 4.339413203086, 
+      "lat": 50.605104332619, 
+      "lon": 4.339637267006, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703012", 
       "street": "Rue de la Maillebotte"
     }, 
     {
+      "busnrs": [
+        "RDCH"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -398,6 +417,18 @@
     }, 
     {
       "hnrlbls": [
+        "41"
+      ], 
+      "housenumber": "41", 
+      "lat": 50.604773741622, 
+      "lon": 4.339400444964, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703012", 
+      "street": "Rue de la Maillebotte"
+    }, 
+    {
+      "hnrlbls": [
         "42"
       ], 
       "housenumber": "42", 
@@ -409,6 +440,10 @@
       "street": "Rue de la Maillebotte"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0003"
+      ], 
       "hnrlbls": [
         "47"
       ], 
@@ -427,6 +462,18 @@
       "housenumber": "49", 
       "lat": 50.604561738242, 
       "lon": 4.339601005626, 
+      "municipality": "Nivelles", 
+      "pcode": "1400", 
+      "source": "7703012", 
+      "street": "Rue de la Maillebotte"
+    }, 
+    {
+      "hnrlbls": [
+        "4A"
+      ], 
+      "housenumber": "4A", 
+      "lat": 50.604757923987, 
+      "lon": 4.33892277806, 
       "municipality": "Nivelles", 
       "pcode": "1400", 
       "source": "7703012", 
@@ -505,6 +552,10 @@
       "street": "Rue de la Maillebotte"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "RCDO"
+      ], 
       "hnrlbls": [
         "63"
       ], 

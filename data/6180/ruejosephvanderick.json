@@ -133,6 +133,9 @@
       "street": "Rue Joseph Vanderick"
     }, 
     {
+      "busnrs": [
+        "0/1"
+      ], 
       "hnrlbls": [
         "111"
       ], 
@@ -157,6 +160,11 @@
       "street": "Rue Joseph Vanderick"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "1/1", 
+        "1/2"
+      ], 
       "hnrlbls": [
         "113"
       ], 
@@ -257,8 +265,8 @@
         "122"
       ], 
       "housenumber": "122", 
-      "lat": 50.441938625159, 
-      "lon": 4.365411017173, 
+      "lat": 50.441991092463, 
+      "lon": 4.365407734026, 
       "municipality": "Courcelles", 
       "pcode": "6180", 
       "source": "7709724", 
@@ -305,8 +313,8 @@
         "126"
       ], 
       "housenumber": "126", 
-      "lat": 50.441902542976, 
-      "lon": 4.365236563239, 
+      "lat": 50.44194704467, 
+      "lon": 4.365225072832, 
       "municipality": "Courcelles", 
       "pcode": "6180", 
       "source": "7709724", 
@@ -805,6 +813,13 @@
       "street": "Rue Joseph Vanderick"
     }, 
     {
+      "busnrs": [
+        "0/1", 
+        "0/2", 
+        "1/1", 
+        "1/2", 
+        "2/2"
+      ], 
       "hnrlbls": [
         "177"
       ], 
@@ -829,6 +844,10 @@
       "street": "Rue Joseph Vanderick"
     }, 
     {
+      "busnrs": [
+        "1/1", 
+        "2/1"
+      ], 
       "hnrlbls": [
         "179"
       ], 
@@ -1033,6 +1052,10 @@
       "street": "Rue Joseph Vanderick"
     }, 
     {
+      "busnrs": [
+        "1/1", 
+        "2/1"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -1373,8 +1396,8 @@
         "83"
       ], 
       "housenumber": "83", 
-      "lat": 50.441919720431, 
-      "lon": 4.365938483019, 
+      "lat": 50.441970335033, 
+      "lon": 4.365896570149, 
       "municipality": "Courcelles", 
       "pcode": "6180", 
       "source": "7709724", 
@@ -1385,8 +1408,8 @@
         "85"
       ], 
       "housenumber": "85", 
-      "lat": 50.441901054856, 
-      "lon": 4.365846779044, 
+      "lat": 50.441951409283, 
+      "lon": 4.365834669496, 
       "municipality": "Courcelles", 
       "pcode": "6180", 
       "source": "7709724", 

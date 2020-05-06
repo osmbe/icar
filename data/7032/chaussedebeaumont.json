@@ -205,6 +205,10 @@
       "street": "Chauss\u00e9e de Beaumont"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1"
+      ], 
       "hnrlbls": [
         "190"
       ], 
@@ -229,6 +233,9 @@
       "street": "Chauss\u00e9e de Beaumont"
     }, 
     {
+      "busnrs": [
+        "1-1"
+      ], 
       "hnrlbls": [
         "194"
       ], 
@@ -283,30 +290,6 @@
       "housenumber": "200", 
       "lat": 50.429390877844, 
       "lon": 3.996497401215, 
-      "municipality": "Mons", 
-      "pcode": "7032", 
-      "source": "7713157", 
-      "street": "Chauss\u00e9e de Beaumont"
-    }, 
-    {
-      "hnrlbls": [
-        "203"
-      ], 
-      "housenumber": "203", 
-      "lat": 50.436768155555, 
-      "lon": 3.991678257668, 
-      "municipality": "Mons", 
-      "pcode": "7032", 
-      "source": "7713157", 
-      "street": "Chauss\u00e9e de Beaumont"
-    }, 
-    {
-      "hnrlbls": [
-        "205"
-      ], 
-      "housenumber": "205", 
-      "lat": 50.436583241985, 
-      "lon": 3.991742290692, 
       "municipality": "Mons", 
       "pcode": "7032", 
       "source": "7713157", 
@@ -581,8 +564,20 @@
         "245"
       ], 
       "housenumber": "245", 
-      "lat": 50.43301238621, 
-      "lon": 3.994534638994, 
+      "lat": 50.433035730334, 
+      "lon": 3.994520241531, 
+      "municipality": "Mons", 
+      "pcode": "7032", 
+      "source": "7713157", 
+      "street": "Chauss\u00e9e de Beaumont"
+    }, 
+    {
+      "hnrlbls": [
+        "247"
+      ], 
+      "housenumber": "247", 
+      "lat": 50.432987315833, 
+      "lon": 3.994554884391, 
       "municipality": "Mons", 
       "pcode": "7032", 
       "source": "7713157", 
@@ -637,6 +632,12 @@
       "street": "Chauss\u00e9e de Beaumont"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "0-2", 
+        "1-1", 
+        "1-2"
+      ], 
       "hnrlbls": [
         "263"
       ], 
@@ -679,6 +680,18 @@
       "housenumber": "265C", 
       "lat": 50.430227560196, 
       "lon": 3.996474026951, 
+      "municipality": "Mons", 
+      "pcode": "7032", 
+      "source": "7713157", 
+      "street": "Chauss\u00e9e de Beaumont"
+    }, 
+    {
+      "hnrlbls": [
+        "265D"
+      ], 
+      "housenumber": "265D", 
+      "lat": 50.430054416165, 
+      "lon": 3.996750276448, 
       "municipality": "Mons", 
       "pcode": "7032", 
       "source": "7713157", 
@@ -823,30 +836,6 @@
       "housenumber": "301", 
       "lat": 50.42449558639, 
       "lon": 4.000668361794, 
-      "municipality": "Mons", 
-      "pcode": "7032", 
-      "source": "7713157", 
-      "street": "Chauss\u00e9e de Beaumont"
-    }, 
-    {
-      "hnrlbls": [
-        "399"
-      ], 
-      "housenumber": "399", 
-      "lat": 50.412621810593, 
-      "lon": 4.007686766975, 
-      "municipality": "Mons", 
-      "pcode": "7032", 
-      "source": "7713157", 
-      "street": "Chauss\u00e9e de Beaumont"
-    }, 
-    {
-      "hnrlbls": [
-        "401"
-      ], 
-      "housenumber": "401", 
-      "lat": 50.412169301789, 
-      "lon": 4.007768530072, 
       "municipality": "Mons", 
       "pcode": "7032", 
       "source": "7713157", 

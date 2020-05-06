@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0101"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -493,6 +496,11 @@
       "street": "Rue Joseph Wauters"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "246"
       ], 
@@ -1013,8 +1021,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.485323537379, 
-      "lon": 4.213604700493, 
+      "lat": 50.490039331873, 
+      "lon": 4.217469438757, 
       "municipality": "Manage", 
       "pcode": "7170", 
       "source": "7710817", 

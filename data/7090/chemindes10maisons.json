@@ -109,6 +109,11 @@
       "street": "Chemin des 10 Maisons"
     }, 
     {
+      "busnrs": [
+        "/1", 
+        "/2", 
+        "/3"
+      ], 
       "hnrlbls": [
         "409"
       ], 
@@ -199,6 +204,18 @@
       "housenumber": "7", 
       "lat": 50.616564234389, 
       "lon": 4.131852113433, 
+      "municipality": "Braine-le-Comte", 
+      "pcode": "7090", 
+      "source": "7716460", 
+      "street": "Chemin des 10 Maisons"
+    }, 
+    {
+      "hnrlbls": [
+        "80"
+      ], 
+      "housenumber": "80", 
+      "lat": 50.623234376827, 
+      "lon": 4.125491251344, 
       "municipality": "Braine-le-Comte", 
       "pcode": "7090", 
       "source": "7716460", 

@@ -158,9 +158,9 @@
     }, 
     {
       "hnrlbls": [
-        "30/A"
+        "30A"
       ], 
-      "housenumber": "30/A", 
+      "housenumber": "30A", 
       "lat": 50.53639321328, 
       "lon": 5.806448554113, 
       "municipality": "Theux", 
@@ -242,9 +242,9 @@
     }, 
     {
       "hnrlbls": [
-        "40/A"
+        "40A"
       ], 
-      "housenumber": "40/A", 
+      "housenumber": "40A", 
       "lat": 50.537149054141, 
       "lon": 5.805371636362, 
       "municipality": "Theux", 
@@ -253,6 +253,10 @@
       "street": "Rue Tillot"
     }, 
     {
+      "busnrs": [
+        "/1", 
+        "/RC"
+      ], 
       "hnrlbls": [
         "44"
       ], 
@@ -265,6 +269,9 @@
       "street": "Rue Tillot"
     }, 
     {
+      "busnrs": [
+        "/0001"
+      ], 
       "hnrlbls": [
         "46"
       ], 
@@ -290,9 +297,9 @@
     }, 
     {
       "hnrlbls": [
-        "48/A"
+        "48A"
       ], 
-      "housenumber": "48/A", 
+      "housenumber": "48A", 
       "lat": 50.536472183098, 
       "lon": 5.804095977112, 
       "municipality": "Theux", 
@@ -314,11 +321,11 @@
     }, 
     {
       "hnrlbls": [
-        "5/B"
+        "54"
       ], 
-      "housenumber": "5/B", 
-      "lat": 50.535045324956, 
-      "lon": 5.809001041374, 
+      "housenumber": "54", 
+      "lat": 50.535891767683, 
+      "lon": 5.802554374719, 
       "municipality": "Theux", 
       "pcode": "4910", 
       "source": "7738539", 
@@ -326,11 +333,11 @@
     }, 
     {
       "hnrlbls": [
-        "54"
+        "5B"
       ], 
-      "housenumber": "54", 
-      "lat": 50.535891767683, 
-      "lon": 5.802554374719, 
+      "housenumber": "5B", 
+      "lat": 50.535045324956, 
+      "lon": 5.809001041374, 
       "municipality": "Theux", 
       "pcode": "4910", 
       "source": "7738539", 

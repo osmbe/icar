@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -25,6 +30,11 @@
       "street": "Rue Saint-Adalbert"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -61,6 +71,22 @@
       "street": "Rue Saint-Adalbert"
     }, 
     {
+      "busnrs": [
+        "0021", 
+        "0031"
+      ], 
+      "hnrlbls": [
+        "15"
+      ], 
+      "housenumber": "15", 
+      "lat": 50.64189143782, 
+      "lon": 5.569814915225, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731292", 
+      "street": "Rue Saint-Adalbert"
+    }, 
+    {
       "hnrlbls": [
         "16"
       ], 
@@ -85,6 +111,36 @@
       "street": "Rue Saint-Adalbert"
     }, 
     {
+      "hnrlbls": [
+        "1A"
+      ], 
+      "housenumber": "1A", 
+      "lat": 50.64244353499, 
+      "lon": 5.569085641953, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731292", 
+      "street": "Rue Saint-Adalbert"
+    }, 
+    {
+      "hnrlbls": [
+        "1B"
+      ], 
+      "housenumber": "1B", 
+      "lat": 50.642394543551, 
+      "lon": 5.569163309517, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731292", 
+      "street": "Rue Saint-Adalbert"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -122,6 +178,36 @@
     }, 
     {
       "hnrlbls": [
+        "5A"
+      ], 
+      "housenumber": "5A", 
+      "lat": 50.642305124845, 
+      "lon": 5.569340029227, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731292", 
+      "street": "Rue Saint-Adalbert"
+    }, 
+    {
+      "hnrlbls": [
+        "5B"
+      ], 
+      "housenumber": "5B", 
+      "lat": 50.64222733053, 
+      "lon": 5.569382264574, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731292", 
+      "street": "Rue Saint-Adalbert"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0031"
+      ], 
+      "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
@@ -133,6 +219,15 @@
       "street": "Rue Saint-Adalbert"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -157,12 +252,99 @@
       "street": "Rue Saint-Adalbert"
     }, 
     {
+      "busnrs": [
+        "D010", 
+        "D013", 
+        "D014", 
+        "D015", 
+        "D017", 
+        "D018", 
+        "D020", 
+        "D021", 
+        "D023", 
+        "D024", 
+        "D025", 
+        "D029", 
+        "D030", 
+        "D031", 
+        "D036", 
+        "D037", 
+        "D039", 
+        "D041", 
+        "D044", 
+        "D046", 
+        "D048", 
+        "D053", 
+        "D055", 
+        "D057", 
+        "d026"
+      ], 
       "hnrlbls": [
         "9"
       ], 
       "housenumber": "9", 
       "lat": 50.64208901004, 
       "lon": 5.569661947945, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731292", 
+      "street": "Rue Saint-Adalbert"
+    }, 
+    {
+      "hnrlbls": [
+        "9A"
+      ], 
+      "housenumber": "9A", 
+      "lat": 50.642147023072, 
+      "lon": 5.569512327995, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731292", 
+      "street": "Rue Saint-Adalbert"
+    }, 
+    {
+      "hnrlbls": [
+        "9B"
+      ], 
+      "housenumber": "9B", 
+      "lat": 50.642108452414, 
+      "lon": 5.569555886345, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731292", 
+      "street": "Rue Saint-Adalbert"
+    }, 
+    {
+      "hnrlbls": [
+        "9C"
+      ], 
+      "housenumber": "9C", 
+      "lat": 50.642075047534, 
+      "lon": 5.569595475598, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731292", 
+      "street": "Rue Saint-Adalbert"
+    }, 
+    {
+      "hnrlbls": [
+        "9D"
+      ], 
+      "housenumber": "9D", 
+      "lat": 50.642043415667, 
+      "lon": 5.569637513658, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4000", 
+      "source": "7731292", 
+      "street": "Rue Saint-Adalbert"
+    }, 
+    {
+      "hnrlbls": [
+        "9E"
+      ], 
+      "housenumber": "9E", 
+      "lat": 50.64201239876, 
+      "lon": 5.569672214708, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4000", 
       "source": "7731292", 

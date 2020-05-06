@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "2-1"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -109,6 +112,9 @@
       "street": "Rue des Ecoliers"
     }, 
     {
+      "busnrs": [
+        "1-1"
+      ], 
       "hnrlbls": [
         "1A"
       ], 
@@ -145,6 +151,12 @@
       "street": "Rue des Ecoliers"
     }, 
     {
+      "busnrs": [
+        "1-1", 
+        "1-2", 
+        "2-1", 
+        "2-2"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -229,6 +241,11 @@
       "street": "Rue des Ecoliers"
     }, 
     {
+      "busnrs": [
+        "0-1", 
+        "1-1", 
+        "2-1"
+      ], 
       "hnrlbls": [
         "7"
       ], 

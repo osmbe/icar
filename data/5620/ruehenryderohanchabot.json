@@ -85,6 +85,12 @@
       "street": "Rue Henry de Rohan-Chabot"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -649,6 +655,10 @@
       "street": "Rue Henry de Rohan-Chabot"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "58"
       ], 
@@ -842,6 +852,18 @@
     }, 
     {
       "hnrlbls": [
+        "77A"
+      ], 
+      "housenumber": "77A", 
+      "lat": 50.246553156565, 
+      "lon": 4.614857554211, 
+      "municipality": "Florennes", 
+      "pcode": "5620", 
+      "source": "7757305", 
+      "street": "Rue Henry de Rohan-Chabot"
+    }, 
+    {
+      "hnrlbls": [
         "78"
       ], 
       "housenumber": "78", 
@@ -902,6 +924,18 @@
     }, 
     {
       "hnrlbls": [
+        "82"
+      ], 
+      "housenumber": "82", 
+      "lat": 50.247066126622, 
+      "lon": 4.614919242472, 
+      "municipality": "Florennes", 
+      "pcode": "5620", 
+      "source": "7757305", 
+      "street": "Rue Henry de Rohan-Chabot"
+    }, 
+    {
+      "hnrlbls": [
         "85"
       ], 
       "housenumber": "85", 
@@ -937,6 +971,9 @@
       "street": "Rue Henry de Rohan-Chabot"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "88"
       ], 
@@ -961,6 +998,10 @@
       "street": "Rue Henry de Rohan-Chabot"
     }, 
     {
+      "busnrs": [
+        "0011", 
+        "0012"
+      ], 
       "hnrlbls": [
         "9"
       ], 
@@ -1009,12 +1050,35 @@
       "street": "Rue Henry de Rohan-Chabot"
     }, 
     {
+      "busnrs": [
+        "A001", 
+        "A002", 
+        "B 11", 
+        "B 22", 
+        "B 31", 
+        "B001", 
+        "B002", 
+        "B021", 
+        "B032"
+      ], 
       "hnrlbls": [
         "93"
       ], 
       "housenumber": "93", 
       "lat": 50.246607679642, 
       "lon": 4.615567429725, 
+      "municipality": "Florennes", 
+      "pcode": "5620", 
+      "source": "7757305", 
+      "street": "Rue Henry de Rohan-Chabot"
+    }, 
+    {
+      "hnrlbls": [
+        "93C"
+      ], 
+      "housenumber": "93C", 
+      "lat": 50.246580360441, 
+      "lon": 4.615790057033, 
       "municipality": "Florennes", 
       "pcode": "5620", 
       "source": "7757305", 

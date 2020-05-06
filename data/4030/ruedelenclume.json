@@ -157,12 +157,32 @@
       "street": "Rue de l'Enclume"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "A001", 
+        "A011", 
+        "A021"
+      ], 
       "hnrlbls": [
         "23"
       ], 
       "housenumber": "23", 
       "lat": 50.627023008314, 
       "lon": 5.606245106891, 
+      "municipality": "Li\u00e8ge", 
+      "pcode": "4030", 
+      "source": "7730451", 
+      "street": "Rue de l'Enclume"
+    }, 
+    {
+      "hnrlbls": [
+        "23A"
+      ], 
+      "housenumber": "23A", 
+      "lat": 50.62691380474, 
+      "lon": 5.606523548814, 
       "municipality": "Li\u00e8ge", 
       "pcode": "4030", 
       "source": "7730451", 
@@ -193,6 +213,11 @@
       "street": "Rue de l'Enclume"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -337,6 +362,11 @@
       "street": "Rue de l'Enclume"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "39"
       ], 
@@ -553,6 +583,11 @@
       "street": "Rue de l'Enclume"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "57"
       ], 

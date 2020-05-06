@@ -1,6 +1,15 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "Ap.1", 
+        "Ap.2", 
+        "Ap.3", 
+        "Ap.4", 
+        "Ap.5", 
+        "Ap.6", 
+        "Ap.7"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -127,18 +136,6 @@
       "housenumber": "8", 
       "lat": 50.502929672809, 
       "lon": 5.663208597974, 
-      "municipality": "Sprimont", 
-      "pcode": "4140", 
-      "source": "7733123", 
-      "street": "Rue Ferrer"
-    }, 
-    {
-      "hnrlbls": [
-        "9"
-      ], 
-      "housenumber": "9", 
-      "lat": 50.502618655372, 
-      "lon": 5.662435638826, 
       "municipality": "Sprimont", 
       "pcode": "4140", 
       "source": "7733123", 

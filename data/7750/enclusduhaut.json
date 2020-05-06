@@ -181,6 +181,9 @@
       "street": "Enclus du haut"
     }, 
     {
+      "busnrs": [
+        "B/1"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -229,6 +232,9 @@
       "street": "Enclus du haut"
     }, 
     {
+      "busnrs": [
+        "31/1"
+      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -253,6 +259,19 @@
       "street": "Enclus du haut"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "011", 
+        "012", 
+        "013", 
+        "014", 
+        "02", 
+        "021", 
+        "022", 
+        "023", 
+        "03", 
+        "04"
+      ], 
       "hnrlbls": [
         "33"
       ], 
@@ -265,6 +284,9 @@
       "street": "Enclus du haut"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -289,6 +311,9 @@
       "street": "Enclus du haut"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "36"
       ], 
@@ -301,6 +326,9 @@
       "street": "Enclus du haut"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "37"
       ], 
@@ -481,12 +509,27 @@
       "street": "Enclus du haut"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "02", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0301", 
+        "0302", 
+        "0303"
+      ], 
       "hnrlbls": [
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 50.756599329392, 
-      "lon": 3.490073530965, 
+      "lat": 50.756443500203, 
+      "lon": 3.490306167981, 
       "municipality": "Mont-de-l'Enclus", 
       "pcode": "7750", 
       "source": "7724394", 

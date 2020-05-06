@@ -1,6 +1,13 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "A001", 
+        "A002", 
+        "A011", 
+        "A012", 
+        "A021"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -37,6 +44,12 @@
       "street": "Rue de la Marine (JT)"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "012", 
+        "021", 
+        "022"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -85,6 +98,9 @@
       "street": "Rue de la Marine (JT)"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -241,6 +257,10 @@
       "street": "Rue de la Marine (JT)"
     }, 
     {
+      "busnrs": [
+        "000B", 
+        "000C"
+      ], 
       "hnrlbls": [
         "7"
       ], 

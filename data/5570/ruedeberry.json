@@ -205,6 +205,11 @@
       "street": "Rue de Berry"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -241,6 +246,10 @@
       "street": "Rue de Berry"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -409,6 +418,10 @@
       "street": "Rue de Berry"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -481,6 +494,10 @@
       "street": "Rue de Berry"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "56"
       ], 
@@ -529,6 +546,15 @@
       "street": "Rue de Berry"
     }, 
     {
+      "busnrs": [
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8"
+      ], 
       "hnrlbls": [
         "60"
       ], 
@@ -601,6 +627,11 @@
       "street": "Rue de Berry"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "69"
       ], 
@@ -613,6 +644,10 @@
       "street": "Rue de Berry"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -685,6 +720,12 @@
       "street": "Rue de Berry"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "8"
       ], 
@@ -751,6 +792,32 @@
       "housenumber": "9", 
       "lat": 50.110572535858, 
       "lon": 4.955609409536, 
+      "municipality": "Beauraing", 
+      "pcode": "5570", 
+      "source": "7748432", 
+      "street": "Rue de Berry"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "10", 
+        "11", 
+        "12", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
+      "hnrlbls": [
+        "90"
+      ], 
+      "housenumber": "90", 
+      "lat": 50.113310794973, 
+      "lon": 4.956030153612, 
       "municipality": "Beauraing", 
       "pcode": "5570", 
       "source": "7748432", 

@@ -133,6 +133,10 @@
       "street": "Rue Haute"
     }, 
     {
+      "busnrs": [
+        "0003", 
+        "0004"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -337,6 +341,16 @@
       "street": "Rue Haute"
     }, 
     {
+      "busnrs": [
+        "B10", 
+        "B2", 
+        "B3", 
+        "B4", 
+        "B5", 
+        "B6", 
+        "B8", 
+        "B9"
+      ], 
       "hnrlbls": [
         "44"
       ], 
@@ -559,6 +573,18 @@
       "housenumber": "75", 
       "lat": 50.268863280734, 
       "lon": 5.457480178294, 
+      "municipality": "Hotton", 
+      "pcode": "6990", 
+      "source": "7743721", 
+      "street": "Rue Haute"
+    }, 
+    {
+      "hnrlbls": [
+        "76A"
+      ], 
+      "housenumber": "76A", 
+      "lat": 50.268491138413, 
+      "lon": 5.457407225568, 
       "municipality": "Hotton", 
       "pcode": "6990", 
       "source": "7743721", 

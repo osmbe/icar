@@ -97,6 +97,9 @@
       "street": "Rue de la P\u00e9pini\u00e8re"
     }, 
     {
+      "busnrs": [
+        "Bte2"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -169,6 +172,9 @@
       "street": "Rue de la P\u00e9pini\u00e8re"
     }, 
     {
+      "busnrs": [
+        "Bte1"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -205,12 +211,16 @@
       "street": "Rue de la P\u00e9pini\u00e8re"
     }, 
     {
+      "busnrs": [
+        "Bte1", 
+        "Bte2"
+      ], 
       "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.588492372005, 
-      "lon": 4.93694326749, 
+      "lat": 50.588445776896, 
+      "lon": 4.936798378152, 
       "municipality": "Eghez\u00e9e", 
       "pcode": "5310", 
       "source": "7752093", 

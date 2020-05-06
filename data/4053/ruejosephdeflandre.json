@@ -145,6 +145,9 @@
       "street": "Rue Joseph Deflandre"
     }, 
     {
+      "busnrs": [
+        "0021"
+      ], 
       "hnrlbls": [
         "121"
       ], 
@@ -157,6 +160,9 @@
       "street": "Rue Joseph Deflandre"
     }, 
     {
+      "busnrs": [
+        "0021"
+      ], 
       "hnrlbls": [
         "123"
       ], 
@@ -385,6 +391,12 @@
       "street": "Rue Joseph Deflandre"
     }, 
     {
+      "busnrs": [
+        "0002", 
+        "0011", 
+        "0012", 
+        "0013"
+      ], 
       "hnrlbls": [
         "160"
       ], 
@@ -565,6 +577,9 @@
       "street": "Rue Joseph Deflandre"
     }, 
     {
+      "busnrs": [
+        "0186"
+      ], 
       "hnrlbls": [
         "184"
       ], 
@@ -613,6 +628,13 @@
       "street": "Rue Joseph Deflandre"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "rdc"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -757,6 +779,9 @@
       "street": "Rue Joseph Deflandre"
     }, 
     {
+      "busnrs": [
+        "0011"
+      ], 
       "hnrlbls": [
         "207"
       ], 
@@ -805,6 +830,9 @@
       "street": "Rue Joseph Deflandre"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -1225,6 +1253,9 @@
       "street": "Rue Joseph Deflandre"
     }, 
     {
+      "busnrs": [
+        "0031"
+      ], 
       "hnrlbls": [
         "49"
       ], 
@@ -1309,12 +1340,22 @@
       "street": "Rue Joseph Deflandre"
     }, 
     {
+      "busnrs": [
+        "A02", 
+        "A11", 
+        "A13", 
+        "B23", 
+        "C01", 
+        "C02", 
+        "C12", 
+        "C21"
+      ], 
       "hnrlbls": [
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 50.597513556264, 
-      "lon": 5.594972691608, 
+      "lat": 50.597859639485, 
+      "lon": 5.595264068503, 
       "municipality": "Chaudfontaine", 
       "pcode": "4053", 
       "source": "7728213", 

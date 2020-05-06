@@ -49,6 +49,10 @@
       "street": "Petergensfeld"
     }, 
     {
+      "busnrs": [
+        "B001", 
+        "B003"
+      ], 
       "hnrlbls": [
         "106"
       ], 
@@ -97,6 +101,10 @@
       "street": "Petergensfeld"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "110"
       ], 
@@ -377,8 +385,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.652722390744, 
-      "lon": 6.1700756725, 
+      "lat": 50.652781805509, 
+      "lon": 6.170098352553, 
       "municipality": "Raeren", 
       "pcode": "4730", 
       "source": "7737511", 
@@ -493,6 +501,12 @@
       "street": "Petergensfeld"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0003", 
+        "0004", 
+        "0005"
+      ], 
       "hnrlbls": [
         "96"
       ], 

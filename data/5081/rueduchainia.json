@@ -289,6 +289,9 @@
       "street": "Rue du Chainia"
     }, 
     {
+      "busnrs": [
+        "000A"
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -533,8 +536,8 @@
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 50.552003595823, 
-      "lon": 4.80189947713, 
+      "lat": 50.552410210416, 
+      "lon": 4.801976175373, 
       "municipality": "La Bruy\u00e8re", 
       "pcode": "5081", 
       "source": "7756055", 
@@ -637,6 +640,11 @@
       "street": "Rue du Chainia"
     }, 
     {
+      "busnrs": [
+        "000A", 
+        "000B", 
+        "000C"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -685,6 +693,9 @@
       "street": "Rue du Chainia"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "63"
       ], 
@@ -865,6 +876,10 @@
       "street": "Rue du Chainia"
     }, 
     {
+      "busnrs": [
+        "BTE1", 
+        "BTE3"
+      ], 
       "hnrlbls": [
         "79"
       ], 
@@ -893,14 +908,17 @@
         "80"
       ], 
       "housenumber": "80", 
-      "lat": 50.550298164129, 
-      "lon": 4.803081771687, 
+      "lat": 50.550333763899, 
+      "lon": 4.803156899442, 
       "municipality": "La Bruy\u00e8re", 
       "pcode": "5081", 
       "source": "7756055", 
       "street": "Rue du Chainia"
     }, 
     {
+      "busnrs": [
+        "BTE2"
+      ], 
       "hnrlbls": [
         "81"
       ], 
